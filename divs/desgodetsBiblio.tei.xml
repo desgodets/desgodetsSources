@@ -74,8 +74,8 @@
             </titleStmt>
             <!-- mention d’édition -->
             <editionStmt>
-                <edition n="1">première édition électronique, <date from="2013"
-                        to="2013">2008-2013</date></edition>
+                <edition n="1">première édition électronique, <date from="2013" to="2013"
+                        >2008-2013</date></edition>
             </editionStmt>
             <extent><!-- TODO : taille du fichier en octet --></extent>
             <!-- information sur la publication électronique -->
@@ -101,15 +101,12 @@
                 </publisher>
                 <availability status="restricted" xml:id="biblioTextLicence">
                     <!-- TODO : <licence> à ajouter partout -->
-                    <licence
-                        target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr/">
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr/">
                         <p>Ce(tte) œuvre est mise à disposition selon les termes de la
                             Licence Creative Commons Attribution - Pas d’Utilisation
                             Commerciale - Partage dans les Mêmes Conditions 3.0
                             France.</p>
-                        <graphic
-                            url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png"
-                         />
+                        <graphic url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png" />
                     </licence>
                     <p>Le Centre de théorie et d’analyse du droit (UMR 7074) met à
                         disposition cette ressource électronique structurée, protégée
@@ -165,7 +162,8 @@
             </notesStmt>-->
             <!-- description de la source -->
             <sourceDesc>
-                <p xml:id="biblio">Ce fichier a été nativement créé sous forme
+                <p xml:id="biblio"
+                    >Ce fichier a été nativement créé sous forme
                     numérique.</p>
             </sourceDesc>
         </fileDesc>
@@ -200,7 +198,8 @@
         <profileDesc>
             <creation when="2013">2013</creation>
             <langUsage>
-                <language ident="fre" usage="100">Français (langue principale du
+                <language ident="fre" usage="100"
+                    >Français (langue principale du
                     corpus)</language>
                 <!-- TODO : évaluer les langues -->
             </langUsage>
@@ -211,21 +210,20 @@
                     <term>France</term>
                     <term>Architecture –– Philosophie</term>
                 </keywords>
-                <keywords xml:lang="eng"
-                    scheme="http://id.loc.gov/authorities/about.html#lcsh">
+                <keywords xml:lang="eng" scheme="http://id.loc.gov/authorities/about.html#lcsh">
                     <term>Architecture, Modern</term>
                     <term>17th-18th centuries</term>
                     <term>France</term>
                     <term>Architecture -- Philosophy</term>
                 </keywords>
-                <classCode
-                    scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
+                <classCode scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
                     <term>Text</term>
                 </classCode>
             </textClass>
         </profileDesc>
         <revisionDesc>
-            <change when="2013-04-13" who="#EC">augmentation de l’en-tête et
+            <change when="2013-04-13" who="#EC"
+                >augmentation de l’en-tête et
                 enrichissement des exemples</change>
         </revisionDesc>
     </teiHeader>
@@ -259,23 +257,29 @@
                             par Desgodetz (1695)</p>
                         <p>A.N. N III Seine 692, plan des jardins des Tuileries par
                             Desgodetz et par François D’Orbay (1694)</p>
-                        <p>A.N. O<hi rend="superscript">1</hi> 1545, travaux du
+                        <p>A.N. O<hi rend="superscript"
+                            >1</hi> 1545, travaux du
                             département de Paris (autographes de Desgodets)</p>
-                        <p>A.N. O<hi rend="superscript">1</hi> 1597, autographes de
+                        <p>A.N. O<hi rend="superscript"
+                            >1</hi> 1597, autographes de
                             Desgodets</p>
-                        <p>A.N. O<hi rend="superscript">1</hi> 1678, autographes de
+                        <p>A.N. O<hi rend="superscript"
+                            >1</hi> 1678, autographes de
                             Desgodets,</p>
-                        <p>A.N. Z<hi rend="superscript">1J</hi> 552, 8 juillet 1722.
+                        <p>A.N. Z<hi rend="superscript"
+                            >1J</hi> 552, 8 juillet 1722.
                             Estimation par Jacques Piretouy et Charles-Philipe de
                             Meseretz des vacations dues à Antoine Desgodetz pour avoir
                             dressé les plans de la maison de la veuve Lombard, rue du
                             Bourg-l’Abbé</p>
-                        <p>A.N. Z<hi rend="superscript">1J</hi> 555, 4 décembre 1722.
+                        <p>A.N. Z<hi rend="superscript"
+                            >1J</hi> 555, 4 décembre 1722.
                             Estimation par Jean-Baptiste Loir des honoraires dus à
                             Antoine Desgodets, architecte du roi, par Marie Dutel,
                             veuve de Claude Lombard d’Ermenonville, pour son travail
                             sur la construction d’une maison, rue du Bourg-l’Abbé.</p>
-                        <p>A.N. Z<hi rend="superscript">1J</hi> 520, 15 avril 1717.
+                        <p>A.N. Z<hi rend="superscript"
+                            >1J</hi> 520, 15 avril 1717.
                             Estimation par Jacques Cudeville des plans et devis de
                             chapenterie faits par l’architecte Antoine Desgodetz pour
                             la construction d’une maison, rue et porte Montmartre,
@@ -287,7 +291,8 @@
                             <hi rend="bold">Minutier Central</hi>
                         </p>
                         <p>
-                            <hi rend="color(FF0000)">(à classer par ordre
+                            <hi rend="color(FF0000)"
+                                >(à classer par ordre
                                 chronologique)</hi>
                         </p>
                         <p>AN MC LIII, 289, Codicille de Madeleine Gougeon de la
@@ -299,7 +304,7 @@
                             17 juin 1728.</p>
                         <p>AN MC LIII, 245, Partage de succession du 5 juillet
                             1728.</p>
-                        
+
                         <p>A.N. MC LIII 120-121, 22 juin 1699. Constitution de rente de
                             500000 livres pour René Chauveau garantie par
                             Desgodets.</p>
@@ -371,7 +376,8 @@
                         <p>A.N. MC XXXIX, 271, 26 septembre 1713. Inventaire après
                             décès de Nicolas Guillaume Daustel, premier époux de Louise
                             Desgodets, fille d’Antoine Desgodets., </p>
-                        <p>A.N. MC CXVIII, 285. 1<hi rend="superscript">er</hi>
+                        <p>A.N. MC CXVIII, 285. 1<hi rend="superscript"
+                            >er</hi>
                             décembre 1713. Transport par Andrée Cousin, veuve d’Auger
                             de Marcillac dem. rue Vieille du Temple à Antoine D. de 150
                             livres de rentes au principal de 3000 livres, restant à
@@ -441,7 +447,7 @@
                     </div>
                     <div type="chapter">
                         <head>Archives de Fontainebleau</head>
-                    <p>Archives du Domaine national, carton 6, liasse 10, plan de la surintendance des Bâtiments de Fontainebleau portant des ordres de modification de la main de Villacerf.</p>
+                        <p>Archives du Domaine national, carton 6, liasse 10, plan de la surintendance des Bâtiments de Fontainebleau portant des ordres de modification de la main de Villacerf.</p>
                     </div>
                     <div type="chapter">
                         <head>Nationalmuseum, Stockholm </head>
@@ -449,7 +455,8 @@
                             <head>Collection Cronstedt</head>
                             <p>NMH CC 134, <ref
                                     target="http://emp-web-22.zetcom.ch/eMuseumPlus?service=direct/1/ResultListView/result.t2.collection_list.$TspTitleLink$0.link&amp;sp=10&amp;sp=Scollection&amp;sp=SfieldValue&amp;sp=0&amp;sp=0&amp;sp=3&amp;sp=SsimpleList&amp;sp=0&amp;sp=Sdetail&amp;sp=0&amp;sp=F&amp;sp=T&amp;sp=0">
-                                    <hi rend="tsptitlelink">Maison de Madame de la
+                                    <hi rend="tsptitlelink"
+                                        >Maison de Madame de la
                                         Vallière à Paris, Plan du rez de chaussée, avec
                                         une retombe propos</hi>
                                 </ref>ant « des modifications à faire au rez de
@@ -457,7 +464,8 @@
                                 attribué à Antoine Desgodets, 40 X 46, daté 1698.</p>
                             <p>NMH CC 135, <ref
                                     target="http://emp-web-22.zetcom.ch/eMuseumPlus?service=direct/1/ResultListView/result.t2.collection_list.$TspTitleLink$0.link&amp;sp=10&amp;sp=Scollection&amp;sp=SfieldValue&amp;sp=0&amp;sp=0&amp;sp=3&amp;sp=SsimpleList&amp;sp=0&amp;sp=Sdetail&amp;sp=0&amp;sp=F&amp;sp=T&amp;sp=1">
-                                    <hi rend="tsptitlelink">Maison de Madame de la
+                                    <hi rend="tsptitlelink"
+                                        >Maison de Madame de la
                                         Vallière à Paris, Plan du premier étage, avec
                                         trois retombes représentant les changements à
                                         opérer au premier étage, </hi>
@@ -465,7 +473,8 @@
                                 juin1698.</p>
                             <p>NMH CC 647, recto, <ref
                                     target="http://emp-web-22.zetcom.ch/eMuseumPlus?service=direct/1/ResultListView/result.t2.collection_list.$TspTitleLink$0.link&amp;sp=10&amp;sp=Scollection&amp;sp=SfieldValue&amp;sp=0&amp;sp=0&amp;sp=3&amp;sp=SsimpleList&amp;sp=0&amp;sp=Sdetail&amp;sp=0&amp;sp=F&amp;sp=T&amp;sp=9">
-                                    <hi rend="tsptitlelink">Barrage avec deux portes
+                                    <hi rend="tsptitlelink"
+                                        >Barrage avec deux portes
                                         sur le canal de Chambord, Elévation</hi>
                                 </ref>, 25 x 41, 1685, attribué à Antoine Desgodets</p>
                             <p>NMH CC 647 verso, Titre écrit uniquement : « Elévation
@@ -481,7 +490,9 @@
                                 de l’étage attique, notes sur les étages attiques au
                                 Louvre et aux Tuileries, par Antoine Desgodets, 37 x
                                 49, ca. 1709. Il est précisé en haut du document :
-                                    « <hi rend="tspvalue4">le 13e may 1709 j’ay
+                                    « <hi
+                                    rend="tspvalue4"
+                                    >le 13e may 1709 j’ay
                                     présenté à l’académie d’architecture la copie de ce
                                     mémoire et des desseins de l’autre part ».</hi>
                             </p>
@@ -507,13 +518,15 @@
                             <p>NMH THC 2282</p>
                             <p>NMH THC 2349 recto,<ref
                                     target="http://emp-web-22.zetcom.ch/eMuseumPlus?service=direct/1/ResultListView/result.t2.collection_list.$TspTitleLink$0.link&amp;sp=10&amp;sp=Scollection&amp;sp=SfieldValue&amp;sp=0&amp;sp=0&amp;sp=3&amp;sp=SsimpleList&amp;sp=0&amp;sp=Sdetail&amp;sp=0&amp;sp=F&amp;sp=T&amp;sp=2">
-                                    <hi rend="tsptitlelink">Maison de Monsieur de
+                                    <hi rend="tsptitlelink"
+                                        >Maison de Monsieur de
                                         Richebourg, rue St. Avoye, Paris, Esquisse et
                                         détail de rampe d’escalier</hi>
                                 </ref>, par Antoine Desgodets, 28 x 36, daté 1704.</p>
                             <p>NMH THC 2349 verso,<ref
                                     target="http://emp-web-22.zetcom.ch/eMuseumPlus?service=direct/1/ResultListView/result.t2.collection_list.$TspTitleLink$0.link&amp;sp=10&amp;sp=Scollection&amp;sp=SfieldValue&amp;sp=0&amp;sp=0&amp;sp=3&amp;sp=SsimpleList&amp;sp=0&amp;sp=Sdetail&amp;sp=0&amp;sp=F&amp;sp=T&amp;sp=3">
-                                    <hi rend="tsptitlelink">Maison de Monsieur de
+                                    <hi rend="tsptitlelink"
+                                        >Maison de Monsieur de
                                         Richebourg, rue St. Avoye, Paris, Plan et
                                         estimation</hi>
                                 </ref>, par Antoine Desgodets, 28 x 36, daté
@@ -541,35 +554,42 @@
                                 Antoine Desgodets (Cf. THC 4429).</p>
                             <p>NMH THC 7049, <ref
                                     target="http://emp-web-22.zetcom.ch/eMuseumPlus?service=direct/1/ResultListView/result.t2.collection_list.$TspTitleLink$0.link&amp;sp=10&amp;sp=Scollection&amp;sp=SfieldValue&amp;sp=0&amp;sp=0&amp;sp=3&amp;sp=SsimpleList&amp;sp=0&amp;sp=Sdetail&amp;sp=0&amp;sp=F&amp;sp=T&amp;sp=6">
-                                    <hi rend="tsptitlelink">Maison de Monsieur Nicole,
+                                    <hi rend="tsptitlelink"
+                                        >Maison de Monsieur Nicole,
                                         rue Ste. Foy, Paris, plan du rez-de-chausssée,
                                         avec deux retombes de l’entresol</hi>
                                 </ref>, par Antoine Desgodets, 41 x 53, daté 1710. Il
-                                est écrit en bas à droite : « <hi rend="tspvalue4">Plan
+                                est écrit en bas à droite : « <hi
+                                    rend="tspvalue4"
+                                    >Plan
                                     du rez de chaussé pour la maison de Monsieur Nicole
                                     Lieutenant général à Chartre." et "par Desgodetz
                                     Architecte du Roy en décembre 1710". </hi>
                             </p>
                             <p>NMH THC 7050, <ref
                                     target="http://emp-web-22.zetcom.ch/eMuseumPlus?service=direct/1/ResultListView/result.t2.collection_list.$TspTitleLink$0.link&amp;sp=10&amp;sp=Scollection&amp;sp=SfieldValue&amp;sp=0&amp;sp=0&amp;sp=3&amp;sp=SsimpleList&amp;sp=0&amp;sp=Sdetail&amp;sp=0&amp;sp=F&amp;sp=T&amp;sp=7">
-                                    <hi rend="tsptitlelink">Maison de Monsieur Nicole,
+                                    <hi rend="tsptitlelink"
+                                        >Maison de Monsieur Nicole,
                                         rue Ste. Foy, Paris, plan du premier étage,
                                         avec deux retombes de l’entresol par Antoine
                                         Desgodets, 41 x 53, daté 1710. Il est écrit en
                                         bas à droite au crayon de papier « </hi>
-                                    <hi rend="tspvalue4">par Desgodez. Architecte du
+                                    <hi rend="tspvalue4"
+                                        >par Desgodez. Architecte du
                                         Roy. en décembre 1710 »</hi>
                                 </ref>.</p>
                             <p>NMH THC 8144, Projet idéal pour une église "centrale" (à
                                 plan centré), plan avec explications, rehaussé à l’<hi
-                                    rend="tspvalue4">encre marron,36,8 x 24,4, réalisé
+                                    rend="tspvalue4"
+                                    >encre marron,36,8 x 24,4, réalisé
                                     vers 1720 (Cf. Patrik Reuterswärd, The Two Churches
                                     of the Hôtel des Invalides, Stockholm 1964, s 78 ),
                                     par Antoine Desgodets.</hi>
                             </p>
                             <p>NMH THC 8146 recto, Eglise, plan rehaussé à l’encre
                                 rouge avec dix retombes proposant plusieurs variants
-                                pour le choeur de l’église<hi rend="color(FF0000)"
+                                pour le choeur de l’église<hi
+                                    rend="color(FF0000)"
                                 > </hi>, 54 x 41, non date, attribué à Antoine
                                 Desgodets.</p>
                             <p>NMH THC 8146 verso, <ref
@@ -602,11 +622,13 @@
                                         ligne qui passe par le milieu du Pilastre.
                                         Fin »., Papier, dessins lavés à l’encre de
                                         Chine, XVIIe siècle. – (Anc. 6989 <hi
-                                           rend="superscript">2-2</hi>, Colbert 368)
+                                            rend="superscript"
+                                        >2-2</hi>, Colbert 368)
                                         (contient les dessins définitifs avec quelques
                                         additions manuscrites de Desgodets, d’après
                                         Herrmann, p. 53, n. 167).</p>
-                                    <p><hi rend="bold">[T11] </hi>BnF, Ms fr 14843,
+                                    <p><hi rend="bold"
+                                        >[T11] </hi>BnF, Ms fr 14843,
                                         (supplément fr 5518) « Traité du toisé des
                                         bâtiments, aux us et coutume de Paris expliqué
                                         en l’Accadémie royale d’architecture par Mr
@@ -624,18 +646,23 @@
                                 </div>
                                 <div>
                                     <head>Département des estampes</head>
-                                    <p><hi rend="bold">[O5]</hi> BnF, cabinet des
+                                    <p><hi rend="bold"
+                                            >[O5]</hi> BnF, cabinet des
                                         Estampes, Ms Ha 23, petit format : « Traité des
                                         ordres de l’architecture de Monsieur Desgodets,
                                         architecte du Roy et Professeur de l’Académie
                                         Royale », relié en cuir, 219 p. et 62 planches,
                                         410 x 255 mm. [Le ms porte la date de 1733 à la
                                         page 198 ; Préface + 2 livres : 1<hi
-                                           rend="superscript">er</hi> en 8 chapitres et
-                                        le 2<hi rend="superscript">nd</hi> en 14
+                                            rend="superscript"
+                                            >er</hi> en 8 chapitres et
+                                        le 2<hi
+                                            rend="superscript"
+                                        >nd</hi> en 14
                                         chapitres, table des matières]. [Microfilm R
                                         70743-710023].</p>
-                                    <p><hi rend="bold">[C2]</hi> BnF Cabinet des
+                                    <p><hi rend="bold"
+                                            >[C2]</hi> BnF Cabinet des
                                         Estampes, Ms Ha 23a, petit folio : « Traité de
                                         la commodité de l’Architecture, concernant la
                                         distribution et les proportions des édifices,
@@ -652,10 +679,14 @@
                                         ladite Académie Royale d’Architecture », relié
                                         en cuir, 286 p. dont 42 planches. 410 x 255 mm.
                                         [Ms incomplet, divisé en 3 sections, la 1<hi
-                                           rend="superscript">ère</hi> en 5 chapitres,
-                                        la 2<hi rend="superscript">nde</hi> en 2
+                                            rend="superscript"
+                                            >ère</hi> en 5 chapitres,
+                                        la 2<hi
+                                            rend="superscript"
+                                            >nde</hi> en 2
                                         chapitres, les autres chapitres et 3<hi
-                                           rend="superscript">e</hi> section manquants,
+                                            rend="superscript"
+                                        >e</hi> section manquants,
                                         illustrations d’une grande qualité d’exécution
                                         rehaussées de couleurs]. [Microfilm R
                                         710124-710264].</p>
@@ -664,16 +695,21 @@
                                 </div>
                                 <div>
                                     <head>Bibliothèque de l’Arsenal</head>
-                                    <p><hi rend="bold">[T1]</hi> Bibliothèque de
+                                    <p><hi rend="bold"
+                                            >[T1]</hi> Bibliothèque de
                                         l’Arsenal, ms 2530 : « Toisé des bastimens aux
                                         us et coutumes de Paris, enseigné dans
                                         l’Académie royale d’Architecture, divisé en
-                                        quatre sections, la 1<hi rend="superscript"
-                                           >ère</hi> concerne le toisé de la
-                                        maçonnerie, la 2<hi rend="superscript">nde</hi>
-                                        la charpenterie, la 3<hi rend="superscript"
-                                           >ème</hi>, les couvertures, la 4<hi
-                                           rend="superscript">ème</hi> la plomberie,
+                                        quatre sections, la 1<hi
+                                            rend="superscript"
+                                            >ère</hi> concerne le toisé de la
+                                        maçonnerie, la 2<hi
+                                            rend="superscript"
+                                            >nde</hi>
+                                        la charpenterie, la 3<hi
+                                            rend="superscript">ème</hi>, les couvertures, la 4<hi
+                                            rend="superscript"
+                                        >ème</hi> la plomberie,
                                         carrelage, menuiserie, serrurerie, vitrerie,
                                         pavé de grès, marbrerie, sculpture, dorure et
                                         peinture d’impression, par M. Dégaudet (sic !),
@@ -690,19 +726,22 @@
                                         certaines de couleur. Le texte est écrit en 2
                                         couleurs noir et rouge pour les titres, numéros
                                         et lettres des figures].</p>
-                                    <p><hi rend="bold">[T9]</hi> Bibliothèque de
+                                    <p><hi rend="bold"
+                                            >[T9]</hi> Bibliothèque de
                                         l’Arsenal, ms 2531 : « Traité du toisé des
                                         batimens, par feu Mr Desgodets, professeur en
                                         l’Accadémie royalle d’architecture, 1745 »,
                                         papier, reliure carton, 193 pages, plus la page
                                         A (Titre), + 18 planches d’illustrations h.-t.,
                                         240 x 185 mm. [Etiquette du relieur sur la 2<hi
-                                           rend="superscript">e</hi> page de
+                                            rend="superscript"
+                                        >e</hi> page de
                                         couverture. Marge à droite et à gauche de
                                         chaque page au crayon, qq. lignes rognées en
                                         haut de page lors de la reliure. Table des
                                         matières].</p>
-                                    <p><hi rend="bold">[O4]</hi> Bibliothèque de
+                                    <p><hi rend="bold"
+                                            >[O4]</hi> Bibliothèque de
                                         l’Arsenal, ms 2545 : « Traité des ordres
                                         d’architecture divisé en deux parties,
                                         contenant la description des cinq ordres et de
@@ -713,13 +752,17 @@
                                         croquis dont sanguines aux pages A-D et
                                         305-308, une vignette à la dernière page, 223 x
                                         190 mm. [Préface + 2 parties : 1<hi
-                                           rend="superscript">ère</hi> en 8 chapitres
-                                        et 2<hi rend="superscript">nde</hi> en 14
+                                            rend="superscript"
+                                            >ère</hi> en 8 chapitres
+                                        et 2<hi
+                                            rend="superscript"
+                                        >nde</hi> en 14
                                         chapitres. Le ms renvoie aux illustrations,
                                         vignette du relieur, dessin à la plume à la
                                         fin, pages rognées en haut du manuscrit
                                         empêchant la lecture].</p>
-                                    <p><hi rend="bold">[T10]</hi> Bibliothèque de
+                                    <p><hi rend="bold"
+                                            >[T10]</hi> Bibliothèque de
                                         l’Arsenal, ms 13445 : « Traité du toisé des
                                         bâtiments au us et coutumes de Paris expliqué
                                         en l’Académie d’architecture par Mr Desgodets,
@@ -729,7 +772,9 @@
                                         incomplètes, 105 x 160 mm. [Ms relié avec un
                                         autre traité du toisé et de géométrie du XVIIIe
                                         siècle avec des figures à la plume copiées dans
-                                           <hi rend="italic">Pratique de la
+                                           <hi
+                                            rend="italic"
+                                            >Pratique de la
                                            géométrie</hi> de Sébastien Le Clerc, avec
                                         concordance avec l’édition de 1744, don de M.
                                         Paul Caron. Les illustrations sont incomplètes.
@@ -740,7 +785,8 @@
                             </div>
                             <div>
                                 <head>Bibliothèque de l’Institut, Paris</head>
-                                <p><hi rend="bold">[O1]</hi> Bibliothèque de
+                                <p><hi rend="bold"
+                                        >[O1]</hi> Bibliothèque de
                                     l’Institut, Ms 1031 : « Traité des ordres
                                     d'architecture (présenté à Louis XV le 2 août
                                     1719) », reliure de maroquin rouge aux armes de
@@ -751,10 +797,12 @@
                                     Desgodets et « fait sous ses yeux » (note de sa
                                     main à la fin de l’épître dédicatoire). Préface +
                                     17 chapitres, table des matières. C<hi
-                                        rend="italic">f</hi>. Henry Lemonnier, <hi
-                                        rend="italic">Procès-verbaux de l'Académie
+                                        rend="italic">f</hi>. Henry Lemonnier, <hi rend="italic"
+                                        >Procès-verbaux de l'Académie
                                         royale d'architecture</hi>, tome IV (1915), p.
-                                    352 ; <hi rend="italic">cf.</hi> Herrmann, p. 34 :
+                                    352 ; <hi
+                                        rend="italic"
+                                    >cf.</hi> Herrmann, p. 34 :
                                     cours écrit tardivement en 1719 à partir d’une
                                     version plus ancienne datant de 1669 rédigée avant
                                     de devenir professeur à l’Académie, préface
@@ -772,7 +820,8 @@
                                 <p>Bibliothèque de l’Institut, Ms 1906 : « Compléments
                                     (notes et lavis) » par Pierre-Adrien Paris,
                                     intercalés avec différentes estampes, dans <hi
-                                        rend="italic">Les édifices antiques de
+                                        rend="italic"
+                                        >Les édifices antiques de
                                         Rome</hi>, de Desgodets, nouvelle édition de
                                     1779. Ce travail lui a été demandé le 14 mai 1781
                                     par l'Académie royale d'architecture, selon une
@@ -780,12 +829,15 @@
                                     2) une lettre de P.-A. Paris (Besançon, 24 octobre
                                     1817) à Auguste-Jean Guénepin, où il déclare
                                     vouloir laisser à la bibliothèque royale l’original
-                                    de son travail sur le Colisée (<hi rend="italic"
-                                        >cf.</hi> Ms 1036), XVIIIe siècle, 341
+                                    de son travail sur le Colisée (<hi
+                                        rend="italic"
+                                    >cf.</hi> Ms 1036), XVIIIe siècle, 341
                                     feuillets, 45 x 30 cm. demi-rel., provient de la
                                     bibliothèque de Louis Viguié.</p>
                                 <p>Bibliothèque de l’Institut, Ms 1914, fol. 39 : Des
-                                    extraits de l'<hi rend="italic">Architecture
+                                    extraits de l'<hi
+                                        rend="italic"
+                                        >Architecture
                                         antique</hi> de Desgodets se trouvent dans les
                                     papiers de François-Jacques Delannoy (1755-1835), à
                                     partir du fol. 39 et nous sont parvenus par le
@@ -796,14 +848,19 @@
                                     j'ay fait à Rome pendant l'espace de seize mois que
                                     j'y ay demeuré dans les années 1676 et 1677 ». Ce
                                     manuscrit, publié en 1682 et 1779, sous le titre
-                                        <hi rend="italic">Les édifices antiques de
+                                        <hi
+                                        rend="italic"
+                                        >Les édifices antiques de
                                         Rome</hi>, fut acheté par l'Académie royale
                                     d'architecture par décision du 8 mars 1779. Les
                                     dessins originaux ont fait l'objet d'un article de
-                                    M.H. Lemonnier dans la <hi rend="italic">Revue
+                                    M.H. Lemonnier dans la <hi
+                                        rend="italic"
+                                        >Revue
                                         archéologique </hi>(5e série, tome IV, p.213)
                                     et d'une lettre du même à A. Héron de Villefosse
-                                    (Académie des inscriptions, <hi rend="italic"
+                                    (Académie des inscriptions, <hi
+                                        rend="italic"
                                         >Comptes rendus des séances de l'année
                                         1916</hi>, p. 305). XVIIIe siècle, Papier, 104
                                     feuillets, 32 x 23 cm. reliure veau dans étui de
@@ -814,15 +871,22 @@
                             <div>
                                 <head>Bibliothèque de l’Ecole des Beaux-Arts,
                                     Paris</head>
-                                <p><hi rend="bold">[T4]</hi> Ecole nationale supérieure
+                                <p><hi rend="bold"
+                                        >[T4]</hi> Ecole nationale supérieure
                                     des Beaux-Arts de Paris, Ms 800 : « Toisé des
                                     batimens aux ûs et coutumes de Paris, enseigné dans
                                     l’Académie d’Architecture, la 1<hi
-                                        rend="superscript">ère</hi> section concerne la
-                                    maçonnerie, la 2<hi rend="superscript">nde</hi>… la
-                                    charpenterie, la 3<hi rend="superscript">ème</hi>…
-                                    les couvertures, la 4<hi rend="superscript"
-                                        >ème</hi>… la plomberie, carrelage, menuiserie,
+                                        rend="superscript"
+                                        >ère</hi> section concerne la
+                                    maçonnerie, la 2<hi
+                                        rend="superscript"
+                                        >nde</hi>… la
+                                    charpenterie, la 3<hi
+                                        rend="superscript"
+                                        >ème</hi>…
+                                    les couvertures, la 4<hi
+                                        rend="superscript"
+                                    >ème</hi>… la plomberie, carrelage, menuiserie,
                                     serrurerie, vitrerie, pavé de grès, marbrerie,
                                     sculpture, dorure et peinture d’impression, par M.
                                     Dégaudet (sic !), Professeur de l’Académie royalle
@@ -841,7 +905,8 @@
                             </div>
                             <div>
                                 <head>Bibliothèque du Sénat, Paris</head>
-                                <p><hi rend="bold">[S1]</hi> Bibliothèque du Sénat, Ms
+                                <p><hi rend="bold"
+                                    >[S1]</hi> Bibliothèque du Sénat, Ms
                                     94 (Ancien 8963) : « Extrait des Coutumes
                                     généralles et particulières de France et des
                                     Gaules, en ce qui concerne les servitudes réelles,
@@ -859,7 +924,8 @@
                                     coutumes, extraits des coutumes, extraits de
                                     jurisprudence, table en forme de conférence de
                                     coutumes, table des arrêts].</p>
-                                <p><hi rend="bold">[S2]</hi> Bibliothèque du Sénat, Ms
+                                <p><hi rend="bold"
+                                    >[S2]</hi> Bibliothèque du Sénat, Ms
                                     95 (Ancien 8964) : « Commentaire sur les titres de
                                     la Coutume de Paris, concernant les édifices,
                                     héritages, servitudes et raports des juréz »,
@@ -880,7 +946,8 @@
                             </div>
                             <div>
                                 <head>Marne-La-Vallée (Seine-et-Marne)</head>
-                                <p><hi rend="bold">[T6]</hi> Ecole nationale des ponts
+                                <p><hi rend="bold"
+                                    >[T6]</hi> Ecole nationale des ponts
                                     et chaussées ENPC, Bibliothèque, 233, t. I, p.
                                     95-259 : « Toisé de maçonnerie. Traité du toisé des
                                     bâtiments, commencé à dicter en l’académie
@@ -899,7 +966,8 @@
                             </div>
                             <div>
                                 <head>Compiègne (Oise)</head>
-                                <p><hi rend="bold">[T12]</hi> Bibliothèque Sainte
+                                <p><hi rend="bold"
+                                        >[T12]</hi> Bibliothèque Sainte
                                     Cornille de la ville de Compiègne (Oise), Ms 17,
                                     « Traité du toizé des bâtiments aux us et coutumes
                                     de Paris, par M. Desgodets, professeur de
@@ -910,7 +978,8 @@
                                     à CLXX entre p. 160 et 161, 80 fig. numérotées en
                                     chiffre romain dispersées sur 60 pages dans le
                                     texte, 255 x 200 mm. [Sur la 2<hi
-                                        rend="superscript">e</hi> de couverture : « Ex
+                                        rend="superscript"
+                                    >e</hi> de couverture : « Ex
                                     libris Bridault 27 novembre 1775 ». La copie est
                                     achevée le 24 novembre 1764. Les figures sont
                                     incomplètes puisqu’elles manquent pour la charpente
@@ -923,7 +992,8 @@
                             </div>
                             <div>
                                 <head>Nantes (Loire-Atlantique)</head>
-                                <p><hi rend="bold">[T14]</hi> Bibliothèque de Nantes,
+                                <p><hi rend="bold"
+                                        >[T14]</hi> Bibliothèque de Nantes,
                                     ms 258 : « Traité du toisé des bâtimens, aux us et
                                     coutumes de Paris, expliqué en l’Académie
                                     d’Architecture par Monsieur Desgodets, architecte
@@ -933,7 +1003,8 @@
                                     matières) + [4 feuillets blancs], 19 pl. h.-t. + 3
                                     dessins dans le texte, 288 x 227 mm. [« Ex Musaeo
                                     J. Le Boyer, Professoris » en 2<hi
-                                        rend="superscript">e</hi> de couverture. Il
+                                        rend="superscript"
+                                    >e</hi> de couverture. Il
                                     s’agit de Jean-François Le Boyer, professeur de
                                     physique et de mathématiques au collège royal de
                                     Nantes (1768-1835). Texte écrit dans un cadre tracé
@@ -950,7 +1021,8 @@
                             <head>Grande-Bretagne</head>
                             <div>
                                 <head>Riba, Londres</head>
-                                <p><hi rend="bold">[T13]</hi> RIBA, DeA/3 (ancienne
+                                <p><hi rend="bold"
+                                    >[T13]</hi> RIBA, DeA/3 (ancienne
                                     cote : DeA/1/2) : « Traité du toisé des batimens
                                     aux us et coutumes de Paris, expliqué en l’Académie
                                     royale d’Architecture par Monsr Desgodets
@@ -967,7 +1039,8 @@
                                     paragraphes numérotés. Ce ms se rapproche donc de
                                     celui de la BnF, le D-11. Il contient une table des
                                     matières.] </p>
-                                <p><hi rend="bold">[O6]</hi> RIBA, DeA/1/2 : « Traité
+                                <p><hi rend="bold"
+                                        >[O6]</hi> RIBA, DeA/1/2 : « Traité
                                     de ordres d’architecture et de leurs
                                     parties divisés en deux parties. La première
                                     contient la description des cinq ordres et de leurs
@@ -980,11 +1053,13 @@
                                     Samuel en décembre 1982, écriture régulière assez
                                     liée avec quelques ratures et quelques phrases
                                     écrites sur des parties effacées. Utilisation
-                                    d’abréviations. Préface + 1<hi rend="superscript"
-                                        >ère</hi> partie en 8 chapitres et 2<hi
-                                        rend="superscript">nde</hi> partie en 14
+                                    d’abréviations. Préface + 1<hi
+                                        rend="superscript">ère</hi> partie en 8 chapitres et 2<hi
+                                        rend="superscript"
+                                    >nde</hi> partie en 14
                                     chapitres].</p>
-                                <p><hi rend="bold">[O7]</hi> RIBA, DeA/1/1 : « Cours
+                                <p><hi rend="bold"
+                                        >[O7]</hi> RIBA, DeA/1/1 : « Cours
                                     d’architecture dicté par Mr Desgodets, Architecte
                                     du Roy », relié cuir, sans date, 312 p. sans
                                     illustration, 400 x 250 mm. [Ms offert à Monsieur
@@ -994,8 +1069,11 @@
                                     ordonnancées de 29 lignes avec peu de fautes
                                     d’orthographe et de repentirs, ponctuation et mise
                                     à ligne avec majuscules, Préface + 1<hi
-                                        rend="superscript">ère</hi> partie en 8
-                                    chapitres et 2<hi rend="superscript">nde</hi>
+                                        rend="superscript"
+                                        >ère</hi> partie en 8
+                                    chapitres et 2<hi
+                                        rend="superscript"
+                                    >nde</hi>
                                     partie en 14 chapitres, table des matières].</p>
                             </div>
                         </div>
@@ -1003,7 +1081,8 @@
                             <head>Suisse</head>
                             <div>
                                 <head>Collection privée Werner Oechslin, Einsiedeln</head>
-                        <p><hi rend="bold">[O9]</hi> « Traité des ordres d’architecture
+                                <p><hi rend="bold"
+                                        >[O9]</hi> « Traité des ordres d’architecture
                             et de toutes leurs parties en deux parties (1/- la
                             description des cinq ordres et de leur accompagnement ; 2/-
                             la manière de les placer régulièrement aux édifices)
@@ -1014,16 +1093,20 @@
                             343 x 285 mm. [Pris en note par le neveu du peintre du roi,
                             Nicolas Lancret, selon H. Rousteau-Chambon. Facture
                             exceptionnelle des illustrations. Préface + 1<hi
-                                rend="superscript">ère</hi> partie en 8 chapitres et
-                                2<hi rend="superscript">nde</hi> partie en 14
+                                        rend="superscript"
+                                        >ère</hi> partie en 8 chapitres et
+                                2<hi
+                                        rend="superscript"
+                                    >nde</hi> partie en 14
                             chapitres. Filigranes].</p>
                             </div>
                         </div>
                         <div type="section">
                             <head>Pays-Bas</head>
-                        <div>
-                            <head>Rijkmuseum, Amsterdam</head>
-                        <p><hi rend="bold">[C1]</hi> « Traité de la
+                            <div>
+                                <head>Rijkmuseum, Amsterdam</head>
+                                <p><hi rend="bold"
+                                        >[C1]</hi> « Traité de la
                             Commodité de l’architecture concernant la distribution et
                             les proportions des édifices divisé en trois sections, la
                             première contient les églises et autres lieux pieux, la
@@ -1036,19 +1119,23 @@
                             élève et étudiant de laditte académie Royalle
                             d’architecture », reliure cuir, 144 fol. (ou 285 p.) + 42
                             pl. + 3 dessins attribués à Jean Pinard. x mm. [Ms
-                            incomplet, divisé en 3 sections, la 1<hi rend="superscript"
-                                >ère</hi> en 5 chapitres, la 2<hi rend="superscript"
-                                >nde</hi> en 2 chapitres, les autres chapitres et 3<hi
-                                rend="superscript">e</hi> section manquants,
+                            incomplet, divisé en 3 sections, la 1<hi
+                                        rend="superscript">ère</hi> en 5 chapitres, la 2<hi
+                                        rend="superscript"
+                                        >nde</hi> en 2 chapitres, les autres chapitres et 3<hi
+                                        rend="superscript"
+                                    >e</hi> section manquants,
                             illustrations d’une grande qualité d’exécution rehaussées
-                            de couleurs].</p></div>
+                            de couleurs].</p>
+                            </div>
                         </div>
                         <div type="section">
                             <head>Suède</head>
                             <div>
                                 <head>Bibliothèque privée de Carl Johan Cronstedt,
                                     Fullerö (Stockholm)</head>
-                                <p><hi rend="bold">[O2]</hi> « Traité des ordres
+                                <p><hi rend="bold"
+                                        >[O2]</hi> « Traité des ordres
                                     d'Architecture donné dans l'académie royale par Sr
                                     Desgodets architecte du roi et professeur de ladite
                                     académie commencé le 13 novm. 1724 », non relié, 94
@@ -1057,17 +1144,22 @@
                                     probablement écrit par un suédois, 31 ill. sur
                                     feuilles simples placées au début du ms. Texte
                                     organisé différemment. Préface + 2 parties : 1<hi
-                                        rend="superscript">ère</hi> divisée en 14
-                                    chapitres et 2<hi rend="superscript">nde</hi> en 2
+                                        rend="superscript"
+                                        >ère</hi> divisée en 14
+                                    chapitres et 2<hi
+                                        rend="superscript"
+                                    >nde</hi> en 2
                                     chapitres].</p>
-                                <p><hi rend="bold">[O8]</hi> « Traité des ordres
+                                <p><hi rend="bold"
+                                    >[O8]</hi> « Traité des ordres
                                     d'Architecture donné dans l'académie royale par Mr
                                     Desgodets architecte du roy et professeur de ladite
                                     académie commencé le 13 9bre 1724 », relié en cuir,
                                     432 p., sans illustration, 245 x 195 mm. [Il est
                                     sans doute écrit par un Français. Préface + 14
                                     chapitres].</p>
-                                <p><hi rend="bold">[T5]</hi> « Traité du toisé des
+                                <p><hi rend="bold"
+                                    >[T5]</hi> « Traité du toisé des
                                     batimens commencé à dicter en l'académie
                                     d'architecture le 17 Novembre 1725. Par Mr
                                     Desgodest architecte des bâtiments du roy et
@@ -1092,7 +1184,8 @@
                             <div>
                                 <head>Columbia University Library (Avery Classics), New York (New
                                     York)</head>
-                                <p><hi rend="bold">[T3]</hi> AA3101 ou 1050 D45 :
+                                <p><hi rend="bold"
+                                    >[T3]</hi> AA3101 ou 1050 D45 :
                                     « Traité du toisé par monsieur Desgodets,
                                     architecte du roy et professeur en laditte academie
                                     royalle d’architecture », relié en cuir, ex-libris
@@ -1110,15 +1203,20 @@
                                     marges. Filigranes détectés. Différences dans les
                                     desseins figurant sur moins de planches que le ms
                                     précédent].</p>
-                                <p>- <hi rend="bold">[T2]</hi> AA3101 D451 F : « Traité
+                                <p>- <hi rend="bold"
+                                        >[T2]</hi> AA3101 D451 F : « Traité
                                     du toisé des bâtimens aux-us et coutumes de Paris,
                                     enseigné dans l’Accadémie royale d’architecture,
                                     divisé en quatre sections, la 1<hi
-                                        rend="superscript">ère</hi> concerne le toisé
-                                    de la maçonnerie, la 2<hi rend="superscript"
-                                        >nde</hi> la charpenterie, la 3<hi
-                                        rend="superscript">ème</hi>, les couvertures,
-                                    la 4<hi rend="superscript">ème</hi> la plomberie,
+                                        rend="superscript"
+                                        >ère</hi> concerne le toisé
+                                    de la maçonnerie, la 2<hi
+                                        rend="superscript">nde</hi> la charpenterie, la 3<hi
+                                        rend="superscript"
+                                        >ème</hi>, les couvertures,
+                                    la 4<hi
+                                        rend="superscript"
+                                        >ème</hi> la plomberie,
                                     carrelage, menuiserie, serrurerie, vitrerie, pavé
                                     de grès, marbrerie, sculpture, dorure et peinture
                                     d’impression par M. Desgodets, professeur à
@@ -1128,9 +1226,12 @@
                                     gravées pliées h.-t, 353 x 227 mm. [Ms qui aurait
                                     appartenu en 1866 à un Le Bègue, architecte, sans
                                     doute Alfred Le Bègue (1808-1881) qui se plaint, se
-                                    référant au <hi rend="italic">Dictionnaire</hi> de
+                                    référant au <hi
+                                        rend="italic"
+                                        >Dictionnaire</hi> de
                                     Chaudon et F.A. Delandine (1804, 8<hi
-                                        rend="superscript">e</hi> éd.), que le toisé,
+                                        rend="superscript"
+                                    >e</hi> éd.), que le toisé,
                                     présenté comme édité, ne l’ait jamais été. Ecriture
                                     régulière dans un cadre. Entré semble-t-il à Avery
                                     le 22 juin 1971].</p>
@@ -1138,8 +1239,9 @@
                             <div>
                                 <head>Franklin Library, Penn
                                     Libraries, (Fine Arts Library Rare Book), Philadelphia (Pennsylvania)</head>
-                                
-                                <p><hi rend="bold">[T8]</hi> TH144.D4 :
+
+                                <p><hi rend="bold"
+                                    >[T8]</hi> TH144.D4 :
                                     « Traité du toisé pour les bâtiments suivants les
                                     us et coutumes de Paris : enseigné dans l’Ecole de
                                     l’Académie d’Architecture par M. Desgodets, en
@@ -1161,40 +1263,40 @@
 
 
 
-                            <listBibl type="manuscript">
-                                <!-- traiter les head de listBibl comme des titre de chapitre -->
-                                <head>Archives nationales</head>
-                                <!-- liste de sources -->
-                                <msDesc xml:id="ha23bPetFol">
-                                    <!-- TODO : corriger cette fausse référence -->
-                                    <msIdentifier>
-                                        <country>France</country>
-                                        <settlement>Paris</settlement>
-                                        <institution>Bibliothèque nationale de
+                    <listBibl type="manuscript">
+                        <!-- traiter les head de listBibl comme des titre de chapitre -->
+                        <head>Archives nationales</head>
+                        <!-- liste de sources -->
+                        <msDesc xml:id="ha23bPetFol">
+                            <!-- TODO : corriger cette fausse référence -->
+                            <msIdentifier>
+                                <country>France</country>
+                                <settlement>Paris</settlement>
+                                <institution>Bibliothèque nationale de
                                            France</institution>
-                                        <repository>Cabinet des estampes</repository>
-                                        <collection>Fonds abadie</collection>
-                                        <idno>Ha-23b-Pet.fol.</idno>
-                                        <altIdentifier>
-                                           <idno>msHa-23b-Pet.fol.</idno>
-                                        </altIdentifier>
-                                    </msIdentifier>
-                                    <msContents>
-                                        <msItemStruct>
-                                           <author>
-                                           <persName>
-                                           <forename>Antoine</forename>
-                                           <surname>Desgodets</surname>
-                                           </persName>
-                                           </author>
-                                           <respStmt>
-                                           <resp key="com">collationneur</resp>
-                                           <persName xml:lang="fre" full="yes">
-                                           <forename>Jean</forename>
-                                           <surname>Pinard</surname>
-                                           </persName>
-                                           </respStmt>
-                                           <title>Traité de la Commodité de
+                                <repository>Cabinet des estampes</repository>
+                                <collection>Fonds abadie</collection>
+                                <idno>Ha-23b-Pet.fol.</idno>
+                                <altIdentifier>
+                                    <idno>msHa-23b-Pet.fol.</idno>
+                                </altIdentifier>
+                            </msIdentifier>
+                            <msContents>
+                                <msItemStruct>
+                                    <author>
+                                        <persName>
+                                            <forename>Antoine</forename>
+                                            <surname>Desgodets</surname>
+                                        </persName>
+                                    </author>
+                                    <respStmt>
+                                        <resp key="com">collationneur</resp>
+                                        <persName xml:lang="fre" full="yes">
+                                            <forename>Jean</forename>
+                                            <surname>Pinard</surname>
+                                        </persName>
+                                    </respStmt>
+                                    <title>Traité de la Commodité de
                                            l’architecture concernant la distribution et
                                            les proportions des édifices divisé en trois
                                            sections, la première contient les églises
@@ -1209,48 +1311,51 @@
                                            Académie, Recueillie par Jean Pinard, élève
                                            et étudiant de laditte académie Royalle
                                            d’architecture</title>
-                                        </msItemStruct>
-                                    </msContents>
-                                    <physDesc>
-                                        <objectDesc>
-                                           <supportDesc>
-                                           <extent>
-                                           <dimensions type="leaves">
-                                           <dim quantity="286" unit="leaves">286 pages,
+                                </msItemStruct>
+                            </msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <supportDesc>
+                                        <extent>
+                                            <dimensions type="leaves">
+                                                <dim quantity="286" unit="leaves"
+                                                  >286 pages,
                                            dont 42 planches</dim>
-                                           <height quantity="410" unit="mm">410
+                                                <height quantity="410" unit="mm"
+                                                  >410
                                            mm</height>
-                                           <width quantity="250" unit="mm">250
+                                                <width quantity="250" unit="mm"
+                                                  >250
                                            mm</width>
-                                           <depth quantity="4" unit="mm">4 mm</depth>
-                                           </dimensions>
-                                           <!-- dimensions est répétable -->
-                                           </extent>
-                                           </supportDesc>
-                                        </objectDesc>
-                                        <decoDesc>
-                                           <decoNote>le manuscrit contient 42 planches
+                                                <depth quantity="4" unit="mm">4 mm</depth>
+                                            </dimensions>
+                                            <!-- dimensions est répétable -->
+                                        </extent>
+                                    </supportDesc>
+                                </objectDesc>
+                                <decoDesc>
+                                    <decoNote>le manuscrit contient 42 planches
                                            au lavis d’une grande qualité
                                            d’exécution</decoNote>
-                                           <!-- decoNote est répétable et peut contenir une localisation avec locus -->
-                                        </decoDesc>
-                                        <bindingDesc>
-                                           <binding>
-                                           <p>relié en <material>veau</material></p>
-                                           <condition>bon état</condition>
-                                           <decoNote>dorure au fer</decoNote>
-                                           </binding>
-                                        </bindingDesc>
-                                        <accMat>[description du matériel
+                                    <!-- decoNote est répétable et peut contenir une localisation avec locus -->
+                                </decoDesc>
+                                <bindingDesc>
+                                    <binding>
+                                        <p>relié en <material>veau</material></p>
+                                        <condition>bon état</condition>
+                                        <decoNote>dorure au fer</decoNote>
+                                    </binding>
+                                </bindingDesc>
+                                <accMat>[description du matériel
                                            d’accompagnement, s’il y en a]</accMat>
-                                    </physDesc>
-                                    <history>
-                                        <origin>
-                                           <origDate when="1788">1788</origDate>
-                                        </origin>
-                                    </history>
-                                </msDesc>
-                                <!-- rendu :
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <origDate when="1788">1788</origDate>
+                                </origin>
+                            </history>
+                        </msDesc>
+                        <!-- rendu :
                             {msContents/msItemStruct/author/persName/foreName} {msContents/msItemStruct/author/persName/surName}, {msContents/msItemStruct/respStmt/persName/foreName} {msContents/msItemStruct/respStmt/persName/surName} ({msContents/msItemStruct/respStmt/resp}). <em>{msContents/msItemStruct/title}<em>. {physDesc/objectDesc}, {physDesc/descoDesc}, {physDesc/bindingDesc}, {physDesc/accMat}, {history}. {msIdentifier/settlement} ({msIdentifier/country}), {msIdentifier/institution}, {msIdentifier/repository}, {msIdentifier/collection}, {msIdentifier/idno} [{msIdentifier/altIdentifier}].
                             Nota, chacune des parties est optionnelle, on sépare les segments par des ",", lesparties par des "." et on termine par un "."
                             Antoine Desgodets, Jean Pinard (collationneur). <em>Traité de la Commodité de l’architecture concernant la distribution et les 
@@ -1261,50 +1366,50 @@
                             286 pages, dont 42 planches, 410 x 250 x 4 mmm. Le manuscrit contient 42 planches au lavis d’une grande qualité d’exécution, relié en veau, bon état, dorure au fer. 1788. Paris (France), Bibliothèque nationale de
                                     France, Cabinet des estampes, Fonds abadie, Ha-23b-Pet.fol. [msHa-23b-Pet.fol. alt]
                         -->
-                            </listBibl>
-                            <listBibl type="archive">
-                                <!-- traiter les head comme des titre de chapitre -->
-                                <head>Archives départementales</head>
-                                <msDesc xml:id="f212599">
-                                    <msIdentifier>
-                                        <country>France</country>
-                                        <settlement>Paris</settlement>
-                                        <institution>Archives Nationales de
+                    </listBibl>
+                    <listBibl type="archive">
+                        <!-- traiter les head comme des titre de chapitre -->
+                        <head>Archives départementales</head>
+                        <msDesc xml:id="f212599">
+                            <msIdentifier>
+                                <country>France</country>
+                                <settlement>Paris</settlement>
+                                <institution>Archives Nationales de
                                            France</institution>
-                                        <!--<repository><!-\-si besoin-\-></repository>-->
-                                        <!--<collection><!-\-si besoin-\-></collection>-->
-                                        <idno>F21/2599</idno>
-                                        <!--<altIdentifier>
+                                <!--<repository><!-\-si besoin-\-></repository>-->
+                                <!--<collection><!-\-si besoin-\-></collection>-->
+                                <idno>F21/2599</idno>
+                                <!--<altIdentifier>
                                     <idno><!-\-si besoin-\-></idno>
                                 </altIdentifier>-->
-                                    </msIdentifier>
-                                    <msContents>
-                                        <msItemStruct>
-                                           <author>
-                                           <persName>
-                                           <forename>Pierre-Charles</forename>
-                                           <surname>Goulier</surname>
-                                           </persName>
-                                           </author>
-                                           <title>Procès-verbaux du conseil des
+                            </msIdentifier>
+                            <msContents>
+                                <msItemStruct>
+                                    <author>
+                                        <persName>
+                                            <forename>Pierre-Charles</forename>
+                                            <surname>Goulier</surname>
+                                        </persName>
+                                    </author>
+                                    <title>Procès-verbaux du conseil des
                                            bâtiments civils</title>
-                                           <note>p. 83, séance du trois janvier
+                                    <note>p. 83, séance du trois janvier
                                            1788</note>
-                                        </msItemStruct>
-                                    </msContents>
-                                    <history>
-                                        <origin>
-                                           <origDate when="1788">1788</origDate>
-                                        </origin>
-                                    </history>
-                                </msDesc>
+                                </msItemStruct>
+                            </msContents>
+                            <history>
+                                <origin>
+                                    <origDate when="1788">1788</origDate>
+                                </origin>
+                            </history>
+                        </msDesc>
 
-                                <!-- liste de sources -->
-                                <!-- {msIdentifier/settlement}, {msIdentifier/institution}, {msIdentifier/repository}, {msIdentifier/collection}, {msIdentifier/idno}. {msContents/msItemStruct/author/persName/foreName} {msContents/msItemStruct/author/persName/surName}, {msContents/msItemStruct/respStmt/persName/foreName} {msContents/msItemStruct/respStmt/persName/surName} ({msContents/msItemStruct/respStmt/resp}). <em>{msContents/msItemStruct/title}<em>. {history}. -->
-                                <!-- L’ordre de la présentation d’archives diffère légèrement. Il peut ne pas y avoir d’auteur. sortir <country> du flux -->
-                                <!-- TOPauline : contrairement à ce que je te disais tout à l’heure il peut y avoir un auteur  -->
-                            </listBibl>
-                        </div>
+                        <!-- liste de sources -->
+                        <!-- {msIdentifier/settlement}, {msIdentifier/institution}, {msIdentifier/repository}, {msIdentifier/collection}, {msIdentifier/idno}. {msContents/msItemStruct/author/persName/foreName} {msContents/msItemStruct/author/persName/surName}, {msContents/msItemStruct/respStmt/persName/foreName} {msContents/msItemStruct/respStmt/persName/surName} ({msContents/msItemStruct/respStmt/resp}). <em>{msContents/msItemStruct/title}<em>. {history}. -->
+                        <!-- L’ordre de la présentation d’archives diffère légèrement. Il peut ne pas y avoir d’auteur. sortir <country> du flux -->
+                        <!-- TOPauline : contrairement à ce que je te disais tout à l’heure il peut y avoir un auteur  -->
+                    </listBibl>
+                </div>
                 <!-- imprimés à usage de sources -->
                 <div xml:id="biblioBodyFr02" type="part">
                     <head>Imprimés à usage de sources</head>
@@ -1319,7 +1424,8 @@
                                         <surname>Bullet</surname>
                                     </persName>
                                 </author>
-                                <title level="m">L'architecture pratique, qui comprend
+                                <title level="m"
+                                    >L'architecture pratique, qui comprend
                                     le détail du toisé et du devis des ouvrages de
                                     massonnerie, charpenterie, menuiserie, serrurerie,
                                     plomberie, vitrerie, ardoise, tuille, pavé de grais
@@ -1340,7 +1446,8 @@
                         <!-- lettre C -->
                         <biblStruct xml:id="cordemoy1706">
                             <monogr>
-                                <title level="m">Nouveau traité de toute
+                                <title level="m"
+                                    >Nouveau traité de toute
                                     l'architecture</title>
                                 <author>
                                     <persName ref="#cordemoyJean-LouisDe">
@@ -1366,7 +1473,7 @@
                                         <forename>Antoine</forename>
                                         <surname>Desgodets</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb12077607n/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb12077607n/PUBLIC</idno>
                                     </persName>
                                 </author>
                                 <respStmt>
@@ -1374,10 +1481,11 @@
                                     <persName>
                                         <surname>Goupy</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb12078601t/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb12078601t/PUBLIC</idno>
                                     </persName>
                                 </respStmt>
-                                <title level="m">Les loix des bâtimens suivant la
+                                <title level="m"
+                                    >Les loix des bâtimens suivant la
                                     coutume de Paris… enseignées par M. Desgodets,…
                                     avec les notes de M. Goupy…</title>
                                 <imprint>
@@ -1396,10 +1504,11 @@
                                         <forename>Antoine</forename>
                                         <surname>Desgodets</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb12077607n/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb12077607n/PUBLIC</idno>
                                     </persName>
                                 </author>
-                                <title level="m">État des bornes de la ville… de
+                                <title level="m"
+                                    >État des bornes de la ville… de
                                     Paris</title>
                                 <imprint>
                                     <date when="1748">1748</date>
@@ -1416,7 +1525,7 @@
                                         <forename>Antoine</forename>
                                         <surname>Desgodets</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb12077607n/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb12077607n/PUBLIC</idno>
                                     </persName>
                                 </author>
                                 <respStmt>
@@ -1424,10 +1533,11 @@
                                     <persName>
                                         <surname>Goupy</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb12078601t/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb12078601t/PUBLIC</idno>
                                     </persName>
                                 </respStmt>
-                                <title level="m">Les Loix des bâtiments suivant la
+                                <title level="m"
+                                    >Les Loix des bâtiments suivant la
                                     coutume de Paris, traitant de ce qui concerne les
                                     servitudes réelles, les rapports des jurés-experts,
                                     les réparations locatives… enseignées par M.
@@ -1450,10 +1560,11 @@
                                         <forename>Antoine</forename>
                                         <surname>Desgodets</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb12077607n/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb12077607n/PUBLIC</idno>
                                     </persName>
                                 </author>
-                                <title level="m">The Ancient buildings of Rome, by
+                                <title level="m"
+                                    >The Ancient buildings of Rome, by
                                     Antony Desgodetz, published in two volumes by
                                     George Marshall</title>
                                 <editor>
@@ -1477,7 +1588,7 @@
                                         <forename>Antoine</forename>
                                         <surname>Desgodets</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb12077607n/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb12077607n/PUBLIC</idno>
                                     </persName>
                                 </author>
                                 <respStmt>
@@ -1485,10 +1596,11 @@
                                     <persName>
                                         <surname>Goupy</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb12078601t/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb12078601t/PUBLIC</idno>
                                     </persName>
                                 </respStmt>
-                                <title level="m">Les Loix des bâtiments suivant la
+                                <title level="m"
+                                    >Les Loix des bâtiments suivant la
                                     coutume de Paris, traitant de ce qui concerne les
                                     servitudes réelles, les rapports des jurés experts,
                                     les réparations locatives… enseignées par M.
@@ -1511,7 +1623,7 @@
                                         <forename>Antoine</forename>
                                         <surname>Desgodets</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb12077607n/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb12077607n/PUBLIC</idno>
                                     </persName>
                                 </author>
                                 <respStmt>
@@ -1519,10 +1631,11 @@
                                     <persName>
                                         <surname>Goupy</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb12078601t/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb12078601t/PUBLIC</idno>
                                     </persName>
                                 </respStmt>
-                                <title level="m">Les Loix des bâtiments suivant la
+                                <title level="m"
+                                    >Les Loix des bâtiments suivant la
                                     coutume de Paris, traitant de ce qui concerne les
                                     servitudes réelles, les rapports des jurés-experts,
                                     les réparations locatives… enseignées par M.
@@ -1545,7 +1658,7 @@
                                         <forename>Antoine</forename>
                                         <surname>Desgodets</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb12077607n/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb12077607n/PUBLIC</idno>
                                     </persName>
                                 </author>
                                 <respStmt>
@@ -1553,10 +1666,11 @@
                                     <persName>
                                         <surname>Goupy</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb12078601t/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb12078601t/PUBLIC</idno>
                                     </persName>
                                 </respStmt>
-                                <title level="m">Les Loix des bâtiments suivant la
+                                <title level="m"
+                                    >Les Loix des bâtiments suivant la
                                     coutume de Paris, traitant de ce qui concerne les
                                     servitudes réelles, les rapports des jurés-experts,
                                     les réparations locatives… enseignées par M.
@@ -1579,10 +1693,11 @@
                                         <forename>Antoine</forename>
                                         <surname>Desgodets</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb12077607n/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb12077607n/PUBLIC</idno>
                                     </persName>
                                 </author>
-                                <title level="m">Les Édifices antiques de Rome,
+                                <title level="m"
+                                    >Les Édifices antiques de Rome,
                                     dessinés et mesurés très exactement, par Antoine
                                     Desgodetz,…</title>
                                 <imprint>
@@ -1602,7 +1717,7 @@
                                         <forename>Antoine</forename>
                                         <surname>Desgodets</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb12077607n/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb12077607n/PUBLIC</idno>
                                     </persName>
                                 </author>
                                 <respStmt>
@@ -1610,10 +1725,11 @@
                                     <persName>
                                         <surname>Goupy</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb12078601t/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb12078601t/PUBLIC</idno>
                                     </persName>
                                 </respStmt>
-                                <title level="m">Les Loix des bâtiments suivant la
+                                <title level="m"
+                                    >Les Loix des bâtiments suivant la
                                     coutume de Paris : traitant de ce qui concerne les
                                     servitudes réelles, les rapports des jurés experts,
                                     les réparations locatives… / enseignées par M.
@@ -1638,7 +1754,7 @@
                                         <forename>Antoine</forename>
                                         <surname>Desgodets</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb12077607n/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb12077607n/PUBLIC</idno>
                                     </persName>
                                 </author>
                                 <respStmt>
@@ -1646,10 +1762,11 @@
                                     <persName>
                                         <surname>Goupy</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb12078601t/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb12078601t/PUBLIC</idno>
                                     </persName>
                                 </respStmt>
-                                <title level="m">Les loix des bâtimens suivant la
+                                <title level="m"
+                                    >Les loix des bâtimens suivant la
                                     coutume de Paris, traitant de ce qui concerne les
                                     servitudes réelles, les rapports des jurés experts,
                                     les réparations locatives, douairières,
@@ -1676,14 +1793,14 @@
                                         <surname>Frézier</surname>
                                     </persName>
                                 </author>
-                                <title level="m">La théorie et la pratique de la coupe
+                                <title level="m"
+                                    >La théorie et la pratique de la coupe
                                     des pierres et des bois pour la construction des
                                     voûtes et autres parties des bâtiments civils &amp;
                                     militaires, ou Traité de stéréotomie, à l’usage de
                                     l’architecture, par M. Frézier,…</title>
                                 <imprint>
-                                    <date notBefore="1737" notAfter="1739"
-                                        >1737-1739</date>
+                                    <date notBefore="1737" notAfter="1739">1737-1739</date>
                                     <publisher>J.-D. Doulsseker le fils</publisher>
                                     <pubPlace>Strasbourg</pubPlace>
                                 </imprint>
@@ -1711,8 +1828,7 @@
                                 <imprint>
                                     <!-- TODO compléter -->
                                     <pubPlace>À Paris</pubPlace>
-                                    <date notBefore="1723" notAfter="1758"
-                                        >1723-1758</date>
+                                    <date notBefore="1723" notAfter="1758">1723-1758</date>
                                 </imprint>
                                 <extent>37 vol. in-4°</extent>
                             </monogr>
@@ -1729,7 +1845,7 @@
                                     <biblScope type="issue">n° 25</biblScope>
                                 </imprint>
                             </monogr>
-                            <series></series>
+                            <series />
                         </biblStruct>
                         <biblStruct xml:id="ginet1760">
                             <monogr>
@@ -1739,7 +1855,8 @@
                                         <surname>Ginet</surname>
                                     </persName>
                                 </author>
-                                <title level="m">Traité et tarif général du
+                                <title level="m"
+                                    >Traité et tarif général du
                                     toisé des bois de charpente, quarrés et mi-plats, en grume, cylindriques, à
                                         pans, courbes, &amp; à sections coniques;
                                         calculé suivant les us &amp; coûtumes de Paris… Avec un tarif
@@ -1766,7 +1883,8 @@
                                         <surname>Ginet</surname>
                                     </persName>
                                 </author>
-                                <title level="m">Toisé général du bâtiment, concernant
+                                <title level="m"
+                                    >Toisé général du bâtiment, concernant
                                     la maçonnerie en pierre de taille &amp; en moilons,
                                     celle des ouvrages légers, c'est-à-dire, ceux faits
                                     en plâtre, les saillies d'architecture, la
@@ -1828,10 +1946,11 @@
                                         <forename full="init">P.</forename>
                                         <surname>Lepage</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb144107596/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb144107596/PUBLIC</idno>
                                     </persName>
                                 </author>
-                                <title level="m">Lois des bâtimens, ou le Nouveau
+                                <title level="m"
+                                    >Lois des bâtimens, ou le Nouveau
                                     Desgodets… par P. Lepage,… </title>
                                 <imprint>
                                     <pubPlace>Paris</pubPlace>
@@ -1850,10 +1969,11 @@
                                         <forename full="init">P.</forename>
                                         <surname>Lepage</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb144107596/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb144107596/PUBLIC</idno>
                                     </persName>
                                 </author>
-                                <title level="m">Lois des bâtimens, ou le Nouveau
+                                <title level="m"
+                                    >Lois des bâtimens, ou le Nouveau
                                     Desgodets… par P. Lepage,… </title>
                                 <imprint>
                                     <pubPlace>Paris</pubPlace>
@@ -1872,10 +1992,11 @@
                                         <forename full="init">P.</forename>
                                         <surname>Lepage</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb144107596/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb144107596/PUBLIC</idno>
                                     </persName>
                                 </author>
-                                <title level="m">Lois des bâtimens, ou le Nouveau
+                                <title level="m"
+                                    >Lois des bâtimens, ou le Nouveau
                                     Desgodets… par P. Lepage,…</title>
                                 <imprint>
                                     <pubPlace>Paris</pubPlace>
@@ -1885,7 +2006,7 @@
                                 <extent>2 vol. ; in-8°</extent>
                             </monogr>
                             <idno type="catBnf"
-                                >http://catalogue.bnf.fr/ark:/12148/cb307938429/PUBLIC</idno>
+                                >http://catalogue.bnf.fr/ark:/12148/cb307938429/</idno>
                         </biblStruct>
                         <biblStruct xml:id="lepage1843">
                             <monogr>
@@ -1894,10 +2015,34 @@
                                         <forename full="init">P.</forename>
                                         <surname>Lepage</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb144107596/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb144107596/</idno>
                                     </persName>
                                 </author>
-                                <title level="m">Lois des bâtimens, ou le Nouveau
+                                <title level="m"
+                                    >Lois des bâtimens, ou le Nouveau
+                                    Desgodets… par P. Lepage,…</title>
+                                <imprint>
+                                    <pubPlace>Paris</pubPlace>
+                                    <publisher>Yonet</publisher>
+                                    <date>1843</date>
+                                </imprint>
+                                <extent>2 vol. ; in-8°</extent>
+                            </monogr>
+                            <idno type="catBnf"
+                                >http://catalogue.bnf.fr/ark:/12148/cb30793843n/</idno>
+                        </biblStruct>
+                        <biblStruct xml:id="lepage1843">
+                            <monogr>
+                                <author>
+                                    <persName>
+                                        <forename full="init">P.</forename>
+                                        <surname>Lepage</surname>
+                                        <idno type="autBnf"
+                                            >http://catalogue.bnf.fr/ark:/12148/cb144107596/PUBLIC</idno>
+                                    </persName>
+                                </author>
+                                <title level="m"
+                                    >Lois des bâtimens, ou le Nouveau
                                     Desgodets… par P. Lepage,…</title>
                                 <imprint>
                                     <pubPlace>Paris</pubPlace>
@@ -1916,10 +2061,11 @@
                                         <forename full="init">P.</forename>
                                         <surname>Lepage</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb144107596/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb144107596/PUBLIC</idno>
                                     </persName>
                                 </author>
-                                <title level="m">Lois des bâtimens, ou le Nouveau
+                                <title level="m"
+                                    >Lois des bâtimens, ou le Nouveau
                                     Desgodets… par P. Lepage,…</title>
                                 <imprint>
                                     <pubPlace>Paris</pubPlace>
@@ -1940,7 +2086,8 @@
                                            de</surname>
                                     </persName>
                                 </author>
-                                <title level="m">Analyse des infiniment petits, pour
+                                <title level="m"
+                                    >Analyse des infiniment petits, pour
                                     l'intelligence des lignes courbes</title>
                                 <imprint>
                                     <date when="1696">1696</date>
@@ -1963,7 +2110,8 @@
                                         <surname>Mesange</surname>
                                     </persName>
                                 </author>
-                                <title level="m"> Tarif du toisé superficiel et solide,
+                                <title level="m"
+                                    > Tarif du toisé superficiel et solide,
                                     où l'on trouve les calculs tout-faits…, la
                                     manière de toiser les bâtimens selon les us et
                                     coutumes de Paris… par Mathias Mésange,… </title>
@@ -1985,7 +2133,8 @@
                                         <surname>Mesange</surname>
                                     </persName>
                                 </author>
-                                <title level="m">Nouveau tarif du toisé de
+                                <title level="m"
+                                    >Nouveau tarif du toisé de
                                     maçonnerie</title>
                                 <imprint>
                                     <date when="1746">1746</date>
@@ -2004,7 +2153,8 @@
                                         <surname>Mesange</surname>
                                     </persName>
                                 </author>
-                                <title level="m">Traité de charpenterie et des bois de
+                                <title level="m"
+                                    >Traité de charpenterie et des bois de
                                     toutes especes. Avec un tarif général des bois de
                                     toutes sortes de longueurs &amp; grosseurs… &amp;
                                     un dictionnaire des termes de la charpenterie. Par
@@ -2026,16 +2176,18 @@
                             <monogr>
                                 <author>
                                     <persName ref="#de">
-                                        <surname></surname>
+                                        <surname />
                                     </persName>
                                 </author>
                                 <title level="j">Le Moniteur des architectes</title>
                                 <imprint>
-                                    <date when="1866-04-01">1<hi rend="superscript">er</hi> avril 1866</date>
+                                    <date when="1866-04-01">1<hi rend="superscript"
+                                        >er</hi> avril 1866</date>
                                     <biblScope type="issue">4</biblScope>
                                 </imprint>
                             </monogr>
-                            <idno type="catBnf">http://catalogue.bnf.fr/ark:/12148/cb32818924n/PUBLIC</idno>
+                            <idno type="catBnf"
+                                >http://catalogue.bnf.fr/ark:/12148/cb32818924n/PUBLIC</idno>
                         </biblStruct>
                         <biblStruct xml:id="morisot1804">
                             <monogr>
@@ -2045,13 +2197,15 @@
                                         <surname>Madeleine-Rose-Joseph</surname>
                                     </persName>
                                 </author>
-                                <title level="m">Tableaux détaillés des prix de tous
+                                <title level="m"
+                                    >Tableaux détaillés des prix de tous
                                     les ouvrages de bâtiment, suivant leurs genres
                                     différents et chacune de leurs espèces… par
                                     M.-R.-J. Morisot,…</title>
                                 <edition />
                                 <imprint>
-                                    <date from="1804" to="1806">an XII
+                                    <date from="1804" to="1806"
+                                        >an XII
                                         (1804)-1806</date>
                                     <pubPlace>Paris</pubPlace>
                                     <publisher>l'auteur</publisher>
@@ -2069,7 +2223,8 @@
                                         <surname>Madeleine-Rose-Joseph</surname>
                                     </persName>
                                 </author>
-                                <title level="m">Tableaux détaillés des prix de tous les ouvrages de bâtiment, suivant leurs genres différents et chacune de leurs espèces… par M.-R.-J. Morisot,…</title>
+                                <title level="m"
+                                    >Tableaux détaillés des prix de tous les ouvrages de bâtiment, suivant leurs genres différents et chacune de leurs espèces… par M.-R.-J. Morisot,…</title>
                                 <edition>2<hi rend="superscript">e</hi> édition</edition>
                                 <imprint>
                                     <date from="1820" to="1824">1820-1824</date>
@@ -2091,7 +2246,8 @@
                                         <surname>Ozanam</surname>
                                     </persName>
                                 </author>
-                                <title level="m">Traité de l'arpentage et du toisé, ou
+                                <title level="m"
+                                    >Traité de l'arpentage et du toisé, ou
                                     Méthode facile pour arpenter et mesurer toutes
                                     sortes de superficies… par M. Ozanam,… </title>
                                 <imprint>
@@ -2112,7 +2268,8 @@
                                         <surname>Potain</surname>
                                     </persName>
                                 </author>
-                                <title level="m">Détails des ouvrages de menuiserie
+                                <title level="m"
+                                    >Détails des ouvrages de menuiserie
                                     pour les bâtimens, où l'on trouve les différens
                                     prix de chaque espèce d'ouvrage, avec les tarifs
                                     nécessaires pour le calcul de leur toisé, par M.
@@ -2138,7 +2295,8 @@
                                     </persName>
                                     <resp>traducteur</resp>
                                 </respStmt>
-                                <title level="m">La Sainte Bible, contenant L’Ancien et
+                                <title level="m"
+                                    >La Sainte Bible, contenant L’Ancien et
                                     le Nouveau Testament, Traduite sur la vulgate par
                                     Le Maistre de Saci</title>
                                 <imprint>
@@ -2158,7 +2316,8 @@
                                         <surname>Savot</surname>
                                     </persName>
                                 </author>
-                                <title level="m">L’Architecture françoise des bastimens
+                                <title level="m"
+                                    >L’Architecture françoise des bastimens
                                     particuliers, composée par Me Louis Savot</title>
                                 <imprint>
                                     <date when="1624">1624</date>
@@ -2196,7 +2355,8 @@
                                         <surname>Candille</surname>
                                     </persName>
                                 </author>
-                                <title level="m">Dix siècles d’histoire hospitalière
+                                <title level="m"
+                                    >Dix siècles d’histoire hospitalière
                                     parisienne. L’Hôtel-Dieu de Paris, 651-1650</title>
                                 <note>exposition organisée par l’Administration
                                     générale de l’Assistance publique à Paris et la
@@ -2216,8 +2376,8 @@
                         <biblStruct xml:id="barbiche1993">
                             <monogr>
                                 <title level="m">L’édition des textes anciens : XVI<hi
-                                        rend="superscript">e</hi>-XVIII<hi
-                                        rend="superscript">e</hi> siècle </title>
+                                        rend="superscript">e</hi>-XVIII<hi rend="superscript"
+                                    >e</hi> siècle </title>
                                 <respStmt>
                                     <resp>director</resp>
                                     <persName ref="#barbicheBernard">
@@ -2251,7 +2411,8 @@
                                         <surname>Châtenet</surname>
                                     </persName>
                                 </author>
-                                <edition n="2">2<hi rend="superscript">e</hi>
+                                <edition n="2">2<hi rend="superscript"
+                                    >e</hi>
                                     édition</edition>
                                 <imprint>
                                     <date>1993</date>
@@ -2270,16 +2431,18 @@
                         </biblStruct>
                         <biblStruct xml:id="barbiche20--">
                             <analytic>
-                                <title level="a">Conseils pour l’édition des textes de
-                                    l’époque moderne (XVI<hi rend="superscript"
-                                        >e</hi>-XVIII<hi rend="superscript">e</hi>
+                                <title level="a"
+                                        >Conseils pour l’édition des textes de
+                                    l’époque moderne (XVI<hi
+                                        rend="superscript">e</hi>-XVIII<hi rend="superscript"
+                                    >e</hi>
                                     siècle)</title>
                                 <author>
                                     <persName>
                                         <forename>Bernard</forename>
                                         <surname>Barbiche</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb11890145s/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb11890145s/PUBLIC</idno>
                                     </persName>
                                 </author>
                                 <ref
@@ -2287,7 +2450,8 @@
                                 <!-- TODO ?? -->
                             </analytic>
                             <monogr>
-                                <title level="m">Theleme. Techniques pour l’Historien
+                                <title level="m"
+                                    >Theleme. Techniques pour l’Historien
                                     en Ligne : Études, Manuels, Exercices</title>
                                 <imprint>
                                     <date notBefore="2000">[2000]</date>
@@ -2304,7 +2468,8 @@
                                         <surname>Baudez</surname>
                                     </persName>
                                 </author>
-                                <title level="m">Architecture &amp; tradition
+                                <title level="m"
+                                    >Architecture &amp; tradition
                                     académique : au temps des Lumières </title>
                                 <imprint>
                                     <date when="2012" />
@@ -2324,34 +2489,40 @@
                         <!-- lettre C -->
                         <biblStruct xml:id="carvais2005">
                             <analytic>
-                                <title level="a">L’ancien droit de l’urbanisme et ses
+                                <title level="a"
+                                        >L’ancien droit de l’urbanisme et ses
                                     composantes constructive et architecturale, socle
-                                    d’un nouvel <hi rend="italic">ars</hi> urbain aux
-                                        XVII<hi rend="superscript">e</hi> et XVIII<hi
-                                        rend="superscript">e</hi> siècles. Jalons pour
+                                    d’un nouvel <hi
+                                        rend="italic"
+                                        >ars</hi> urbain aux
+                                        XVII<hi
+                                        rend="superscript">e</hi> et XVIII<hi rend="superscript"
+                                        >e</hi> siècles. Jalons pour
                                     une histoire totale du droit de l’urbanisme</title>
                                 <author>
                                     <persName ref="#">
                                         <forename>Robert</forename>
                                         <surname>Carvais</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb136111339/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb136111339/PUBLIC</idno>
                                     </persName>
                                 </author>
                             </analytic>
                             <monogr>
-                                <title level="j">Revue d’histoire des sciences
+                                <title level="j"
+                                    >Revue d’histoire des sciences
                                     humaines</title>
                                 <edition>Discipliner la ville. L’émergence des savoirs
-                                    urbains (XVIII<hi rend="superscript">e</hi>-XX<hi
-                                        rend="superscript">e</hi> siècle)</edition>
+                                    urbains (XVIII<hi
+                                        rend="superscript">e</hi>-XX<hi rend="superscript"
+                                    >e</hi> siècle)</edition>
                                 <respStmt>
                                     <resp>director</resp>
                                     <persName>
                                         <forename>Stéphane</forename>
                                         <surname>Van Damme</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb14409061s/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb14409061s/PUBLIC</idno>
                                     </persName>
                                 </respStmt>
                                 <imprint>
@@ -2363,7 +2534,8 @@
                         </biblStruct>
                         <biblStruct xml:id="carvais2007">
                             <analytic>
-                                <title level="a">Notices sur « Louis Savot », « Pierre
+                                <title level="a"
+                                    >Notices sur « Louis Savot », « Pierre
                                     Bullet » et « Antoine Desgodets »</title>
                             </analytic>
                             <monogr>
@@ -2382,15 +2554,18 @@
                                         <surname>Krynen</surname>
                                     </persName>
                                 </respStmt>
-                                <title level="m">Dictionnaire historique des juristes
-                                    français : XII<hi rend="italic">e</hi>-XX<hi
-                                        rend="italic">e</hi> siècle </title>
+                                <title level="m"
+                                        >Dictionnaire historique des juristes
+                                    français : XII<hi
+                                        rend="italic">e</hi>-XX<hi rend="italic"
+                                    >e</hi> siècle </title>
                                 <imprint>
                                     <date when="2007" />
                                     <pubPlace>Paris</pubPlace>
                                     <publisher>Presses universitaires de
                                         France</publisher>
-                                    <biblScope type="pp">146, 248-249,
+                                    <biblScope type="pp"
+                                        >146, 248-249,
                                         703-704</biblScope>
                                 </imprint>
                                 <extent>XXXVI-827 p.</extent>
@@ -2401,7 +2576,8 @@
                         </biblStruct>
                         <biblStruct xml:id="carvais2008">
                             <analytic>
-                                <title level="a">La littérature juridique du bâtiment.
+                                <title level="a"
+                                    >La littérature juridique du bâtiment.
                                     L’invention et le succès d’un genre doublement
                                     technique, 1748-1950</title>
                                 <author>
@@ -2409,38 +2585,40 @@
                                         <forename>Robert</forename>
                                         <surname>Carvais</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb136111339/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb136111339/PUBLIC</idno>
                                     </persName>
                                 </author>
                             </analytic>
                             <monogr>
-                                <title level="m">La construction savante : les avatars
+                                <title level="m"
+                                    >La construction savante : les avatars
                                     de la littérature technique</title>
                                 <editor>
                                     <persName>
                                         <forename>Jean-Philippe</forename>
                                         <surname>Garric</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb12352847b/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb12352847b/PUBLIC</idno>
                                     </persName>
                                     <persName>
                                         <forename>Valérie</forename>
                                         <surname>Nègre</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb12352848p/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb12352848p/PUBLIC</idno>
                                     </persName>
                                     <persName>
                                         <forename>Alice</forename>
                                         <surname>Thomine-Berrada</surname>
                                         <idno type="autBnf"
-                                           >http://catalogue.bnf.fr/ark:/12148/cb14560651c/PUBLIC</idno>
+                                            >http://catalogue.bnf.fr/ark:/12148/cb14560651c/PUBLIC</idno>
                                     </persName>
                                 </editor>
                                 <meeting>
                                     <title>Les avatars de la littérature technique,
                                         formes imprimées des savoirs liés à la
                                         construction</title>
-                                    <date from="2005-03-03" to="2005-03-05">3 au 5 mars
+                                    <date from="2005-03-03" to="2005-03-05"
+                                        >3 au 5 mars
                                         2005</date>
                                     <placeName>Paris</placeName>
                                 </meeting>
@@ -2479,7 +2657,8 @@
                                 </respStmt>
                                 <meeting>Actes du congrès international d'histoire de
                                     la construction. Paris, 2012.</meeting>
-                                <title level="m">Nuts &amp; bolts of construction
+                                <title level="m"
+                                    >Nuts &amp; bolts of construction
                                     history [Texte imprimé] : culture, technology and
                                     society</title>
                                 <imprint>
@@ -2496,7 +2675,8 @@
                         </biblStruct>
                         <biblStruct xml:id="charageat1957">
                             <analytic>
-                                <title level="a">Plans et vues du « logis » d’André Le
+                                <title level="a"
+                                    >Plans et vues du « logis » d’André Le
                                     Nôtre aux Tuileries. Sa maison de la rue
                                     Saint-Honoré</title>
                                 <author>
@@ -2508,7 +2688,8 @@
                                 </author>
                             </analytic>
                             <monogr>
-                                <title level="j">Bulletin de la Société d’Histoire de
+                                <title level="j"
+                                    >Bulletin de la Société d’Histoire de
                                     Paris Ile-de-France</title>
                                 <imprint>
                                     <date from="1957" to="1959">1957-1959</date>
@@ -2527,7 +2708,8 @@
                         <!-- lettre D -->
                         <biblStruct xml:id="desgodets2008a">
                             <monogr>
-                                <title level="m">Les édifices antiques de Rome dessinés
+                                <title level="m"
+                                    >Les édifices antiques de Rome dessinés
                                     et mesurés très exactement, par Antoine
                                     Desgodets,… ; préface de Pierre Gros ;
                                     introduction et notices d’Hélène
@@ -2566,11 +2748,13 @@
                                         <surname>Duportal</surname>
                                     </persName>
                                 </author>
-                                <title level="a">Le cours d’architecture de Desgodets.
+                                <title level="a"
+                                    >Le cours d’architecture de Desgodets.
                                     Recueil inédit du Cabinet des Estampes</title>
                             </analytic>
                             <monogr>
-                                <title level="j">La revue de l’art ancien et
+                                <title level="j"
+                                    >La revue de l’art ancien et
                                     moderne</title>
                                 <imprint>
                                     <date when="1914">1914</date>
@@ -2590,9 +2774,11 @@
                                         <surname>Faure</surname>
                                     </persName>
                                 </author>
-                                <title level="m">Histoire sociale de la médecine
-                                        XVIII<hi rend="superscript">e</hi>-XX<hi
-                                        rend="superscript">e</hi> siècle</title>
+                                <title level="m"
+                                        >Histoire sociale de la médecine
+                                        XVIII<hi
+                                        rend="superscript">e</hi>-XX<hi rend="superscript"
+                                    >e</hi> siècle</title>
                                 <imprint>
                                     <date>1994</date>
                                     <publisher>Anthropos</publisher>
@@ -2629,7 +2815,8 @@
                                         <surname>Fortier</surname>
                                     </persName>
                                 </editor>
-                                <title level="m">Les machines à guérir :aux origines de
+                                <title level="m"
+                                    >Les machines à guérir :aux origines de
                                     l’hôpital moderne</title>
                                 <imprint>
                                     <pubPlace>Bruxelles, Liège</pubPlace>
@@ -2645,7 +2832,8 @@
                         </biblStruct>
                         <biblStruct xml:id="fredet2003">
                             <monogr>
-                                <title level="m">Les maisons de Paris : types courants
+                                <title level="m"
+                                    >Les maisons de Paris : types courants
                                     de l’architecture mineure parisienne de la fin de
                                     l’époque médiévale à nos jours, avec l’anatomie de
                                     leur construction</title>
@@ -2676,7 +2864,8 @@
                                     <persName>Gallet</persName>
                                 </author>
                                 <title level="m">Les architectes parisiens du XVIII<hi
-                                        rend="superscript">e</hi> siècle. Dictionnaire
+                                        rend="superscript"
+                                    >e</hi> siècle. Dictionnaire
                                     Biographique et critique</title>
                                 <imprint>
                                     <date>1995</date>
@@ -2693,7 +2882,8 @@
                         <biblStruct xml:id="hamon1976">
                             <analytic>
                                 <title level="a">Les églises parisiennes du XVIII<hi
-                                        rend="superscript">e</hi> siècle, Théorie et
+                                        rend="superscript"
+                                    >e</hi> siècle, Théorie et
                                     pratique de l’architecture cultuelle</title>
                                 <author>
                                     <persName ref="#hamonFrançoise">
@@ -2719,7 +2909,8 @@
                                         <surname>Herrmann</surname>
                                     </persName>
                                 </author>
-                                <title level="a">Antoine Desgodets and the Académie
+                                <title level="a"
+                                    >Antoine Desgodets and the Académie
                                     royale d’architecture</title>
                             </analytic>
                             <monogr>
@@ -2745,7 +2936,8 @@
                                         <!-- TODO entrer dans l'indexNominum -->
                                     </persName>
                                 </author>
-                                <title level="a">La science du toisé à l’œuvre :
+                                <title level="a"
+                                    >La science du toisé à l’œuvre :
                                     l’Architecture pratique de Pierre Bullet,
                                     1691</title>
                             </analytic>
@@ -2768,7 +2960,8 @@
                                         <surname>Hernu-Bélaud</surname>
                                     </persName>
                                 </author>
-                                <title level="a">The Architecture pratique by Pierre
+                                <title level="a"
+                                    >The Architecture pratique by Pierre
                                     Bullet [1691] and the Normalisation of the
                                     Construction Process</title>
                             </analytic>
@@ -2794,7 +2987,8 @@
                                 </respStmt>
                                 <meeting>Actes du congrès international d'histoire de
                                     la construction. Paris, 2012.</meeting>
-                                <title level="m">Nuts &amp; bolts of construction
+                                <title level="m"
+                                    >Nuts &amp; bolts of construction
                                     history [Texte imprimé] : culture, technology and
                                     society</title>
                                 <imprint>
@@ -2819,7 +3013,8 @@
                                         <surname>Hernu-Bélaud</surname>
                                     </persName>
                                 </author>
-                                <title level="a">L’Architecture pratique de Pierre
+                                <title level="a"
+                                    >L’Architecture pratique de Pierre
                                     Bullet : la traduction impossible et ses variantes
                                     intra-linguistiques</title>
                             </analytic>
@@ -2848,8 +3043,9 @@
                                 <imprint>
                                     <date when="2013">2013 (à paraître)</date>
                                     <pubPlace>Paris</pubPlace>
-                                    <publisher>Picard</publisher><!-- TODO vérifier -->
-                                    <biblScope/>
+                                    <publisher>Picard</publisher>
+                                    <!-- TODO vérifier -->
+                                    <biblScope />
                                 </imprint>
                             </monogr>
                             <!--<idno></idno>-->
@@ -2863,7 +3059,8 @@
                                         <!-- TODO entrer dans l'indexNominum -->
                                     </persName>
                                 </author>
-                                <title level="m">Local Hospitals in Ancien Régime
+                                <title level="m"
+                                    >Local Hospitals in Ancien Régime
                                     France: Rationalization, Resistance, Renewal,
                                     1530-1789</title>
                                 <imprint>
@@ -2875,7 +3072,8 @@
                                 <extent>xxvi + 275 pp. Ill.</extent>
                             </monogr>
                             <series>
-                                <title level="s">McGill-Queen’s/Hannah Institute
+                                <title level="s"
+                                    >McGill-Queen’s/Hannah Institute
                                     Studies in the History of Medicine, Health, and
                                     Society</title>
                                 <biblScope type="issue">5</biblScope>
@@ -2891,7 +3089,8 @@
                                         <surname>Imbert</surname>
                                     </persName>
                                 </editor>
-                                <title level="m">Histoire des hôpitaux en
+                                <title level="m"
+                                    >Histoire des hôpitaux en
                                     France</title>
                                 <imprint>
                                     <date>1982</date>
@@ -2912,11 +3111,13 @@
                                         <surname>Imbert</surname>
                                     </persName>
                                 </author>
-                                <title level="a">L’évolution de l’architecture
+                                <title level="a"
+                                    >L’évolution de l’architecture
                                     hospitalière</title>
                             </analytic>
                             <monogr>
-                                <title level="j">Bulletin de la société française
+                                <title level="j"
+                                    >Bulletin de la société française
                                     d’histoire des hôpitaux</title>
                                 <imprint>
                                     <date>1984</date>
@@ -2936,7 +3137,8 @@
                                         <!-- TODO entrer dans l'indexNominum -->
                                     </persName>
                                 </author>
-                                <title level="a">La structure hospitalière de la France
+                                <title level="a"
+                                    >La structure hospitalière de la France
                                     sous l’Ancien Régime</title>
                             </analytic>
                             <monogr>
@@ -2961,7 +3163,8 @@
                                         <surname>Laroche</surname>
                                     </persName>
                                 </author>
-                                <title level="m">L’hôpital en France, histoire et
+                                <title level="m"
+                                    >L’hôpital en France, histoire et
                                     architecture</title>
                                 <imprint>
                                     <date>2012</date>
@@ -2989,7 +3192,8 @@
                                         <surname>Lemonnier</surname>
                                     </persName>
                                 </editor>
-                                <title level="m">Procès-verbaux de l’Académie royale
+                                <title level="m"
+                                    >Procès-verbaux de l’Académie royale
                                     d’architecture</title>
                                 <imprint>
                                     <date when="1915">1915</date>
@@ -3008,7 +3212,8 @@
                                         <surname>Lemonnier</surname>
                                     </persName>
                                 </editor>
-                                <title level="m">Procès-verbaux de l’Académie royale
+                                <title level="m"
+                                    >Procès-verbaux de l’Académie royale
                                     d’architecture</title>
                                 <imprint>
                                     <date when="1917">1917</date>
@@ -3027,7 +3232,8 @@
                                         <surname>Lemonnier</surname>
                                     </persName>
                                 </editor>
-                                <title level="m">Procès-verbaux de l’Académie royale
+                                <title level="m"
+                                    >Procès-verbaux de l’Académie royale
                                     d’architecture</title>
                                 <imprint>
                                     <date when="1917">1917</date>
@@ -3046,15 +3252,19 @@
                                         <surname>Lunsingh Scheurleer</surname>
                                     </persName>
                                 </author>
-                                <title level="a">Een exemplaar van Antoine Desgodets’
+                                <title level="a"
+                                    >Een exemplaar van Antoine Desgodets’
                                     Traité de la commodité de l’Architecture in het
                                     Rijksprentenkabinet </title>
                             </analytic>
                             <monogr>
-                                <title level="j">Opus Musivum. Een bundel studies
+                                <title level="j"
+                                        >Opus Musivum. Een bundel studies
                                     aangeboden aan <persName>Professeur Doctor M. D.
                                         Ozinga</persName> ter gelegenheid van zijn
-                                    zestigste verjaardag op <date when="1962-11-10">10
+                                    zestigste verjaardag op <date
+                                        when="1962-11-10"
+                                        >10
                                         november 1962</date></title>
                                 <imprint>
                                     <date>1964</date>
@@ -3075,11 +3285,13 @@
                                         <!-- TODO entrer dans l'indexNominum -->
                                     </persName>
                                 </author>
-                                <title level="a">Il Trattato degli ordini di Antoine
+                                <title level="a"
+                                    >Il Trattato degli ordini di Antoine
                                     Desgodets : un manuale inedito</title>
                             </analytic>
                             <monogr>
-                                <title level="j">Quasar (Quaderni di storia
+                                <title level="j"
+                                    >Quasar (Quaderni di storia
                                     dell’architettura e restauro)</title>
                                 <imprint>
                                     <date when="1989-12">décembre 1989</date>
@@ -3092,7 +3304,8 @@
                         <!-- lettre P -->
                         <biblStruct xml:id="perouseDeMonclos1984">
                             <monogr>
-                                <title level="m">Les Prix de Rome : concours de
+                                <title level="m"
+                                        >Les Prix de Rome : concours de
                                     l’Académie royale d’architecture au XVIII<hi
                                         rend="superscript">e</hi> siècle</title>
                                 <author>
@@ -3116,7 +3329,8 @@
                         </biblStruct>
                         <biblStruct xml:id="perouseDeMonclos1989">
                             <monogr>
-                                <title level="m">Histoire de l’Architecture Française.
+                                <title level="m"
+                                    >Histoire de l’Architecture Française.
                                     De la Renaissance à la Révolution</title>
                                 <author>
                                     <persName ref="#perouseDeMonclosJeanMarie">
@@ -3140,7 +3354,8 @@
                         </biblStruct>
                         <biblStruct xml:id="perouseDeMonclos1995">
                             <monogr>
-                                <title level="m">Principes d’analyse scientifique.
+                                <title level="m"
+                                    >Principes d’analyse scientifique.
                                     Architecture : vocabulaire</title>
                                 <editor>
                                     <orgName>Ministère de la culture et de la
@@ -3174,7 +3389,8 @@
                                         <forename>Linnéa</forename>
                                         <surname>Rollenhagen Tilly</surname>
                                     </persName>
-                                    <title level="a">Ur Carl Johan Cronstedts
+                                    <title level="a"
+                                        >Ur Carl Johan Cronstedts
                                         bibliotek. Fyra kopior av Antoine Desgodets
                                         opublicerade lektioner</title>
                                 </author>
@@ -3223,7 +3439,8 @@
                                         <surname>Rousteau-Chambon</surname>
                                     </persName>
                                 </author>
-                                <title level="m">Le gothique des Temps modernes :
+                                <title level="m"
+                                    >Le gothique des Temps modernes :
                                     architecture religieuse en milieu urbain</title>
                                 <imprint>
                                     <pubPlace>Paris</pubPlace>
@@ -3242,7 +3459,8 @@
                 -->
                         <biblStruct xml:id="rousteauChambon2008a">
                             <analytic>
-                                <title level="a">Antoine Desgodets et les églises
+                                <title level="a"
+                                    >Antoine Desgodets et les églises
                                     paroissiales</title>
                                 <author>
                                     <persName ref="#rousteauChambonHelene">
@@ -3266,9 +3484,11 @@
                 -->
                         <biblStruct xml:id="rousteauChambon2008b">
                             <monogr>
-                                <title type="specialIssue">Nantes religieuse de
+                                <title type="specialIssue"
+                                    >Nantes religieuse de
                                     l’Antiquité chrétienne à nos jours</title>
-                                <title level="j">Bulletin de la Société archéologique
+                                <title level="j"
+                                    >Bulletin de la Société archéologique
                                     et historique de Nantes et de
                                     Loire-Atlantique</title>
                                 <editor>
@@ -3279,7 +3499,9 @@
                                 </editor>
                                 <meeting>Actes du colloque organisé à
                                         l’<placeName>Université de Nantes</placeName>,
-                                        <date from="2006-10-19" to="2006-10-20">19-20
+                                        <date
+                                        from="2006-10-19" to="2006-10-20"
+                                        >19-20
                                         octobre 2006</date>, par la <orgName>Société
                                         archéologique et historique de Nantes et de
                                         Loire-Atlantique</orgName> et le
@@ -3302,7 +3524,8 @@
                         </biblStruct>
                         <biblStruct xml:id="rousteauChambonEtAl2013">
                             <monogr>
-                                <title level="m">Philippe de La Hire, 1640-1718, entre
+                                <title level="m"
+                                    >Philippe de La Hire, 1640-1718, entre
                                     architecture et sciences</title>
                                 <editor>
                                     <persName ref="#rousteauChambonHelene">
@@ -3320,7 +3543,8 @@
                                 </editor>
                                 <meeting>Actes du colloque,
                                         <placeName>Paris</placeName>, <date
-                                        from="2010-06-24" to="2010-06-26">24-26 juin
+                                        from="2010-06-24" to="2010-06-26"
+                                        >24-26 juin
                                         2010</date>. Organisé par le
                                         <orgName>Max-Planck-Institut für
                                         Wissenschaftsgeschichte</orgName> ; le
@@ -3346,7 +3570,8 @@
                         <!-- lettre S -->
                         <biblStruct xml:id="strandberg1966">
                             <analytic>
-                                <title level="a">Libéral Bruand et les problèmes que
+                                <title level="a"
+                                    >Libéral Bruand et les problèmes que
                                     soulèvent l’église des Soldats et le Dôme des
                                     Invalides</title>
                                 <author>
@@ -3385,7 +3610,8 @@
                                         <surname>Vidler</surname>
                                     </persName>
                                 </author>
-                                <title level="m">L’espace des lumières : architecture
+                                <title level="m"
+                                    >L’espace des lumières : architecture
                                     et philosophie, de Ledoux à Fourier</title>
                                 <imprint>
                                     <date when="1995">1995</date>
@@ -3409,8 +3635,10 @@
             <div xml:id="biblioBackFr" xml:lang="fre">
                 <div xml:id="biblioBackFr01" type="downloads">
                     <head>Téléchargements</head>
-                    <p><ref type="file" target="../files/programme2010.pdf"
-                            mimeType="application/pdf">Programme</ref></p>
+                    <p>
+                        <ref type="file" target="../files/programme2010.pdf"
+                            mimeType="application/pdf">Programme</ref>
+                    </p>
                 </div>
             </div>
         </back>
