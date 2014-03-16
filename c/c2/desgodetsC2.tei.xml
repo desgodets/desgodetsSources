@@ -10286,67 +10286,108 @@
                      <pb xml:id="c2F136r" n="p268"/>
                      <p xml:id="c2BodyFr02.01.004.p006">
                         <hi rend="bigger">La</hi> proportion générale de l’intérieur du sanctuaire
-                        est conforme à la proportion des arcades de l’ordre dorique, c'est-à-dire
-                        que la hauteur depuis le haut de la <term type="gT" ref="#voute"
-                           >voûte</term> de la calotte, Jusqu’au pavé de la <term type="gT"
-                           ref="#nef">nef</term>, est le double du Diamètre Entre les faces
-                        intérieures des <term type="gT" ref="#colonne"><choice>
+                        est conforme à la proportion des <term type="gT" ref="#arcade"
+                           >arcades</term> de l’<term type="gT" ref="#ordreDorique">ordre
+                           dorique</term>, c'est-à-dire que la hauteur depuis le haut de la <term
+                           type="gT" ref="#voute">voûte</term> de la <term type="gT" ref="#calotte"
+                           >calotte</term>, Jusqu’au pavé de la <term type="gT" ref="#nef"
+                           >nef</term>, est le double du diamètre entre les faces intérieures des
+                           <term type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
                            </choice></term> par le bas. </p>
                      <p xml:id="c2BodyFr02.01.004.p007">
-                        <hi rend="bigger">Les</hi> Grands <term type="gT" ref="#pilastre"
-                           >pilastres</term> de la nef sont aussi d’ordre Dorique, de La même
+                        <hi rend="bigger">Les</hi> grands <term type="gT" ref="#pilastre"
+                           >pilastres</term> de la <term type="gT" ref="#nef">nef</term> sont aussi
+                           d’<term type="gT" ref="#ordreDorique">ordre dorique</term> de la même
                         hauteur et proportion que les <term type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
-                           </choice></term> du Sanctuaires, une corniche architravée sert
-                        d’entablement, tant aux <term type="gT" ref="#pilastre">pilastres</term>
-                        qu’aux <term type="gT" ref="#colonne"><choice>
+                           </choice></term> du sanctuaire. Une corniche architravée sert d’<term
+                           type="gT" ref="#entablement">entablement</term>, tant aux <term type="gT"
+                           ref="#pilastre">pilastres</term> qu’aux <term type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
                            </choice></term>, par le côté de la <term type="gT" ref="#nef"
-                        >nef</term>. Sa <term type="gT" ref="#voute">voûte</term> qui est un Berceau
-                        circulaire en plein ceintre, posée immédiatement sur cette <term type="gT"
+                        >nef</term>. Sa <term type="gT" ref="#voute">voûte</term> qui est un berceau
+                        circulaire en <term type="gT" ref="#pleinCintre"><choice>
+                              <orig>plein ceintre</orig>
+                              <reg>plein-cintre</reg>
+                           </choice></term>, posée immédiatement sur cette <term type="gT"
                            ref="#corniche">corniche</term>, huit grandes <term type="gT"
-                           ref="#arcadeFeinte">arcades feintes</term> de toute la hauteur de l’ordre
-                        entre les grands <term type="gT" ref="#pilastre">pilastres</term> figurés
-                        Les Entrées des salles des malades contiennent la hauteur des deux estages.
-                        Ces <term type="gT" ref="#arcadeFeinte">arcades feintes</term> sont coupées
-                        vers le milieu de leur hauteur au droit du <term type="gT" ref="#plancher"
-                           >plancher</term> du premier étage par une manière d’<term type="gT"
-                           ref="#imposte">imposte</term> qui règne uniformement dans tout le
-                        pourtour des entrepilastres. Elle est soutenue par de petits <term type="gT"
-                           ref="#pilastre">pilastres</term> d’ordre toscan, au dessus est un espèce
-                        d’attique dont la <term type="gT" ref="#corniche">corniche</term> sert
-                           d’<term type="gT" ref="#imposte">imposte</term> aux archivoltes des
-                        grandes <term type="gT" ref="#arcadeFeinte">arcades feintes</term>. Les
-                        allettes et bandeaux unies qui sont en dedans de ces grandes <term type="gT"
-                           ref="#arcade">arcades</term> forment les piédroits, ceintrés et
-                        plattesbandes des entrées des salles. Celles du premier étage sont fermées
-                        sur la <term type="gT" ref="#nef">nef</term> par des <term type="gT"
-                           ref="#balustrade">balustrades</term> à hauteur d’apuy en façon de
-                        tribunes.</p>
+                           ref="#arcadeFeinte">arcades feintes</term> de toute la hauteur de l’<term
+                           type="gT" ref="#ordre">ordre</term>, entre les grands <term type="gT"
+                           ref="#pilastre">pilastres</term> figurés. Les entrées des salles des
+                        malades contiennent la hauteur des deux <term type="gT" ref="#etage"><choice>
+                              <orig>estages</orig>
+                              <reg>étages</reg>
+                           </choice></term>. Ces <term type="gT" ref="#arcadeFeinte">arcades
+                           feintes</term> sont coupées vers le milieu de leur hauteur, au droit du
+                           <term type="gT" ref="#plancher">plancher</term> du <term type="gT"
+                           ref="#premierEtage">premier étage</term>, par une manière d’<term
+                           type="gT" ref="#imposte">imposte</term> qui règne uniformement dans tout
+                        le pourtour des <term type="gT" ref="#entrepilastre">entrepilastres</term>.
+                        Elle est soutenue par de petits <term type="gT" ref="#pilastre"
+                           >pilastres</term> d’<term type="gT" ref="#ordreToscan">ordre
+                           toscan</term>, au dessus est un espèce d’<term type="gT" ref="#attique"
+                           >attique</term> dont la <term type="gT" ref="#corniche">corniche</term>
+                        sert d’<term type="gT" ref="#imposte">imposte</term> aux <term type="gT"
+                           ref="#archivolte">archivoltes</term> des grandes <term type="gT"
+                           ref="#arcadeFeinte">arcades feintes</term>. Les <term type="gT"
+                           ref="#alette"><choice>
+                              <orig>allettes</orig>
+                              <reg>alettes</reg>
+                           </choice></term> et <term type="gT" ref="#bandeau">bandeaux</term> unies
+                        qui sont en dedans de ces grandes <term type="gT" ref="#arcade"
+                           >arcades</term> forment les <term type="gT" ref="#piedroitCeintre"
+                           >piédroits <choice>
+                              <orig>ceintrés</orig>
+                              <reg>cintrés</reg>
+                           </choice></term> et <term type="gT" ref="#plateBande"><choice>
+                              <orig>plattesbandes</orig>
+                              <reg>plate-bande</reg>
+                           </choice></term> des entrées des salles. Celles du <term type="gT"
+                           ref="#premierEtage">premier étage</term> sont fermées sur la <term
+                           type="gT" ref="#nef">nef</term> par des <term type="gT" ref="#balustrade"
+                           >balustrades</term> à hauteur d’apuy en façon de <term type="gT"
+                           ref="#tribune">tribunes</term>.</p>
                      <p xml:id="c2BodyFr02.01.004.p008">
                         <hi rend="bigger">Le</hi> dessus de la <term type="gT" ref="#voute"
-                           >voûte</term> de la nef est couvert en terrasse, depuis l’extradossé de
-                        sa clef Jusqu’aux apuis des vitreaux du <term type="gT" ref="#dome"
-                           >dôme</term>, pour leur conserver le jour, l’autre côté du pourtour de
-                        cette <term type="gT" ref="#voute">voûte</term> vers les petits cœurs entre
-                        les salles, est couvert d’un comble en apenty formant des noües avec les
-                        combles des salles.</p>
+                           >voûte</term> de la <term type="gT" ref="#nef">nef</term> est <term
+                           type="gT" ref="#couvertureEnTerrasse">couvert en terrasse</term>, depuis
+                           l’<term type="gT" ref="#extrados"><choice>
+                              <orig>extradosse</orig>
+                              <reg>extrados</reg>
+                           </choice></term> de sa <term type="gT" ref="#clef">clef</term> jusqu’aux
+                        apuis des vitreaux du <term type="gT" ref="#dome">dôme</term>, pour leur
+                        conserver le jour. L’autre côté du pourtour de cette <term type="gT"
+                           ref="#voute">voûte</term>, vers les petits cœurs entre les salles, est
+                           <term type="gT" ref="#couverture">couvert</term> d’un <term type="gT"
+                           ref="#comble">comble</term>
+                        <term type="gT" ref="#apenti">en <choice>
+                              <orig>apenty</orig>
+                              <reg>apenti</reg>
+                           </choice></term> formant des nouës avec les <term type="gT" ref="#comble"
+                           >combles</term> des salles.</p>
                      <p xml:id="c2BodyFr02.01.004.p009">
                         <hi rend="bigger">Le</hi> profil sur la longueur des salles des malades ST
                         qui sont aux deux côtés de l’<term type="gT" ref="#eglise">église</term>,
-                        marque la hauteur des Etages et la distribution des fermes du comble et des
-                        poutres qui soutiennent les <term type="gT" ref="#plancher"
-                        >planchers</term>. Les apuis des <term type="gT" ref="#lucarne"
-                           >lucarnes</term> qui éclairent les greniers sont à hauteur d’acoudoirs,
-                        mais les apuis des fenestres des salles, tant du Rez <pb xml:id="c2F136v"
-                           n="p269"/> de chaussé que du premier étage, sont environ à sept pieds de
-                        hauteur au dessus du carreau, afin d’y pouvoir placer des Lits au dessous,
-                        ces lits N’ayant pour l’ordinaire que six pieds de hauteur de colonne pour
-                        porter Leur ciel.</p>
+                        marque la hauteur des <term type="gT" ref="#etage">étages</term> et la <term
+                           type="gT" ref="#distribution">distribution</term> des <term type="gT"
+                           ref="#ferme">fermes</term> du <term type="gT" ref="#comble">comble</term>
+                        et des <term type="gT" ref="#poutre">poutres</term> qui soutiennent les
+                           <term type="gT" ref="#plancher">planchers</term>. Les apuis des <term
+                           type="gT" ref="#lucarne">lucarnes</term> qui éclairent les <term
+                           type="gT" ref="#grenier">greniers</term> sont à hauteur d’acoudoirs, mais
+                        les apuis des <term type="gT" ref="#fenetre"><choice>
+                              <orig>fenestres</orig>
+                              <reg>fenêtre</reg>
+                           </choice></term> des salles, tant du <term type="gT" ref="#rezDeChaussee"
+                           >rez <pb xml:id="c2F136v" n="p269"/> de chaussé</term> que du <term
+                           type="gT" ref="#premierEtage">premier étage</term>, sont environ à sept
+                        pieds de hauteur au-dessus du <term type="gT" ref="#carreau">carreau</term>,
+                        afin d’y pouvoir placer des lits au-dessous, ces lits n’ayant pour
+                        l’ordinaire que six pieds de hauteur de colonne pour porter leur ciel.</p>
                      <p xml:id="c2BodyFr02.01.004.p010">
                         <hi rend="bigger">Les</hi>
                         <term type="gT" ref="#plancher">planchers</term> des salles et des greniers
