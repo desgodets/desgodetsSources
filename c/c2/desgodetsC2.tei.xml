@@ -10390,38 +10390,70 @@
                         l’ordinaire que six pieds de hauteur de colonne pour porter leur ciel.</p>
                      <p xml:id="c2BodyFr02.01.004.p010">
                         <hi rend="bigger">Les</hi>
-                        <term type="gT" ref="#plancher">planchers</term> des salles et des greniers
-                        sont disposés par travées de solives de douze pieds, posés sur des poutres
-                        dans chacque <term type="gT" ref="#trumeau">trumeau</term> entre les
-                        fenestres. Les poinsons des fermes sont sur des entraits à la hauteur des
-                        soufaîtes, pour ne point embarrasser les greniers que l’on pourroit
-                        lambrisser et disposer pour y mettre des malades. Si les salles du rez de
-                        chaussé et du premier étage ne suffisoient pas, le corps du <term type="gT"
-                           ref="#dome">dôme</term> ne paroit presque point en dehors, se trouvant
-                        enfermé entre les combles des salles et des chambres et offices et des <term
+                        <term type="gT" ref="#plancher">planchers</term> des salles et des <term
+                           type="gT" ref="#grenier">greniers</term> sont disposés par <term
+                           type="gT" ref="#travee">travées</term> de <term type="gT" ref="#solive"
+                           >solives</term> de douze pieds, posées sur des <term type="gT"
+                           ref="#poutre">poutres</term> dans chacque <term type="gT" ref="#trumeau"
+                           >trumeau</term> entre les <term type="gT" ref="#fenetre"><choice>
+                              <orig>fenestres</orig>
+                              <reg>fenêtre</reg>
+                           </choice></term>. Les <term type="gT" ref="#poincon"><choice>
+                              <orig>poinsons</orig>
+                              <reg>poinçons</reg>
+                           </choice></term> des <term type="gT" ref="#ferme">fermes</term> sont sur
+                        des <term type="gT" ref="#entrait">entraits</term> à la hauteur des <term
+                           type="gT" ref="#souFaite">soufaîtes</term>, pour ne point embarrasser les
+                           <term type="gT" ref="#grenier">greniers</term> que l’on pourroit <term
+                           type="gT" ref="#lambris"><choice>
+                              <orig>l'ambrisser</orig>
+                              <reg>lambrissé</reg>
+                           </choice></term> et disposer pour y mettre des malades. Si les salles du
+                           <term type="gT" ref="#rezDeChaussee">rez de chaussée</term> et du <term
+                           type="gT" ref="#premierEtage">premier étage</term> ne suffisoient pas, le
+                        corps du <term type="gT" ref="#dome">dôme</term> ne paroit presque point en
+                        dehors, se trouvant enfermé entre les <term type="gT" ref="#comble"
+                           >combles</term> des salles et des chambres et offices, et des <term
                            type="gT" ref="#escalier">escaliers</term> qui les environnent. Sa
                         proportion est seulement observée par le dedans, le dehors n’étant
                            <sic>vue</sic> de nulle part.</p>
                      <p xml:id="c2BodyFr02.01.004.p011">
-                        <hi rend="bigger">L’élévation</hi> de la face exterieure du <term type="gT"
-                           ref="#vestibule">vestibule</term> et des grands corridors de l’entrée des
-                        salles des malades sur la grande cour est représentée en la seconde figure
-                        du quatrième dessein avec les profils ou coupes des deux corps de logis en
-                        aisles, entre cette grande cour du couvent et la basse Cour. </p>
-                     <p xml:id="c2BodyFr02.01.004.p012">La hauteur des étages de ces batimens et la
-                        forme de leurs facades est pareille à celle des autres batimens et des
-                        salles des malades. Tous les <term type="gT" ref="#plancher"
-                           >planchers</term> étant de niveau les uns aux autres, le carré du <term
-                           type="gT" ref="#vestibule">vestibule</term> de l’entrée des salles, forme
-                        un <term type="gT" ref="#pavillon">pavillon</term> plus élevé que les autres
-                        bâtimens. Il est décoré, en sa face sur la grande cour, d’un ordre
-                        d’architecture de six <term type="gT" ref="#pilastre">pilastres</term>
-                        ioniques qui soutiennent un entablement régulier, couronné d’un grand
-                        fronton avec <sic>un</sic> espèce de petit attique qui soutient le comble de
-                        ce <term type="gT" ref="#pavillon">pavillon</term> qui est carré par le bas
-                        et octogonne par le haut, suivant le plan du clocher qui termine ce comble.
-                        Il répond au dessus de l’avant cour des Religieuses, ou descendent les
-                        cordes pour sonner les cloches.</p>
+                        <hi rend="bigger">L’élévation</hi> de la face extérieure du <term type="gT"
+                           ref="#vestibule">vestibule</term> et des grands <term type="gT"
+                           ref="#corridor">corridors</term> de l’entrée des salles des malades sur
+                        la grande cour est représentée <ref>en la seconde figure du quatrième
+                           dessein</ref>, avec les profils ou coupes des deux <term type="gT"
+                           ref="#corpsDeLogis">corps de logis</term>
+                        <term type="gT" ref="#enAile">en aisles</term>, entre cette grande <term
+                           type="gT" ref="#cour">cour</term> du couvent et la <term type="gT"
+                           ref="basseCour">basse cour</term>. </p>
+                     <p xml:id="c2BodyFr02.01.004.p012">La hauteur des <term type="gT" ref="#etage"
+                           >étages</term> de ces <term type="gT" ref="#batiment"><choice>
+                              <orig>bâtimens</orig>
+                              <reg>bâtiments</reg>
+                           </choice></term> et la forme de leurs facades est pareille à celle des
+                        autres <term type="gT" ref="#batiment"><choice>
+                              <orig>bâtimens</orig>
+                              <reg>bâtiments</reg>
+                           </choice></term> et des salles des malades. Tous les <term type="gT"
+                           ref="#plancher">planchers</term> étant de niveau les uns aux autres, le
+                        carré du <term type="gT" ref="#vestibule">vestibule</term> de l’entrée des
+                        salles forme un <term type="gT" ref="#pavillon">pavillon</term> plus élevé
+                        que les autres <term type="gT" ref="#batiment"><choice>
+                              <orig>bâtimens</orig>
+                              <reg>bâtiments</reg>
+                           </choice></term>. Il est décoré, en sa face sur la grande cour, d’un
+                           <term type="gT" ref="#ordre">ordre d’architecture</term> de six <term
+                           type="gT" ref="#pilastreIonique">pilastres ioniques</term> qui
+                        soutiennent un <term type="gT" ref="#entablement">entablement
+                           régulier</term>, couronné d’un grand <term type="gT" ref="#fronton"
+                           >fronton</term> avec <sic>un</sic> espèce de petit <term type="gT"
+                           ref="#attique">attique</term> qui soutient le <term type="gT"
+                           ref="#comble">comble</term> de ce <term type="gT" ref="#pavillon"
+                           >pavillon</term> qui est carré par le bas et octogonne par le haut,
+                        suivant le plan du <term type="gT" ref="#clocher">clocher</term> qui termine
+                        ce <term type="gT" ref="#comble">comble</term>. Il répond au dessus de l’avant cour des religieuses, ou
+                        descendent les cordes pour sonner les cloches.</p>
                      <pb xml:id="c2F137r" n="p270"/>
                      <p xml:id="c2BodyFr02.01.004.p013">
                         <hi rend="bigger">La</hi>
