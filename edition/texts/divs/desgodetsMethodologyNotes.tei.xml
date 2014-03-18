@@ -10,16 +10,64 @@
     <head>Notes</head>
     <!-- RMQ : notes de test -->
     <note xml:id="editionMethodologyN0001">
-        <p>« Or Caïn dit à son frère Abel : Sortons dehors. Et lorsqu’ils furent dans les champs, Caïn se jeta sur son frère Abel, et le tua. », <bibl copyOf="#BibleRondet" />, Chapitre 4, verset 8.</p>
+        <p>Bourgain, Pascale, et Vielliard, Françoise, <hi rend="italic">Conseils pour l’édition des textes médiévaux</hi>, Paris, Comité des travaux historiques et scientifiques / École nationale des chartes, 2002, (Documents d'archives, n° Fascicule III, Textes littéraires).</p>
     </note>
     <note xml:id="editionMethodologyN0002">
-        <p><bibl copyOf="#rykwert1976" />, p. 30. et <bibl copyOf="#vidler1995" />. Chercher ici les sources de Desgodets pour citer l'exemple du Nord. Comparer également avec d'autres traités.</p>
-        <p>La référence au climat est notable.</p>
+        <p>Barbiche, Bernard, Chatenet, Monique, Delmas, Jean, Guyotjeannin, Olivier, et Belhoste, Jean- François, <hi rend="italic">L'Édition des textes anciens : XVI<hi rend="superscript">e</hi>-XVIII<hi rend="superscript">e</hi> siècle</hi>, Paris, Association Études, loisirs, patrimoine, 1993, (Documents &amp; méthodes / Inventaire général des monuments et des richesses artistiques de la France, n° 1).</p>
     </note>
     <note xml:id="editionMethodologyN0003">
-        <p>Hénoch, « Et ayant connu sa femme, elle conçut et enfanta Hénoch. Il bâtit ensuite une ville qu’il appela Hénoch, du nom de son fils. », <bibl copyOf="#BibleRondet">op. cit.</bibl>, chapitre IV, verset 17.</p>
+        <p>Varloot, Jean, « Les conventions dans l'édition de texte », <hi rend="italic">Cahiers de l'Association internationale des études francaises</hi>, n° 1, t. 33, 1981, p. 101-110.</p>
     </note>
     <note xml:id="editionMethodologyN0004">
-        <p><bibl copyOf="#Fleury"/>, livre...</p>
+        <p><hi rend="italic">Conseils pour l'édition des textes médiévaux</hi>, Paris, Comité des travaux historiques et scientifiques / École nationale des chartes, 2001, (Documents d'archives, n° Fascicule II).</p>
+    </note>
+    <note xml:id="editionMethodologyN0005">
+        <p>Barbiche, Bernard, Chatenet, Monique, Delmas, Jean, Guyotjeannin, Olivier, et Belhoste, Jean- François, <hi rend="italic">L'Édition des textes anciens : XVI<hi rend="superscript">e</hi>-XVIII<hi rend="superscript">e</hi> siècle</hi>, Paris, Association Études, loisirs, patrimoine, 1993, (Documents &amp; méthodes / Inventaire général des monuments et des richesses artistiques de la France, n° 1).</p>
+    </note>
+    <note xml:id="editionMethodologyN0006">
+        <p>Barbiche, Bernard, Chatenet, Monique, Delmas, Jean, Guyotjeannin, Olivier, et Belhoste, Jean- François, <hi rend="italic">L'Édition des textes anciens : XVI<hi rend="superscript">e</hi>-XVIII<hi rend="superscript">e</hi> siècle</hi>, Paris, Association Études, loisirs, patrimoine, 1993, (Documents &amp; méthodes / Inventaire général des monuments et des richesses artistiques de la France, n° 1).</p>
+    </note>
+    <note xml:id="editionMethodologyN0007">
+        <p>Varloot, Jean, « Les conventions dans l'édition de texte », <hi rend="italic">Cahiers de l'Association internationale des études francaises</hi>, n° 1, t. 33, 1981, p. 101-110.</p>
+    </note>
+    <note xml:id="editionMethodologyN0008">
+        <p>Barbiche, Bernard, Chatenet, Monique, Delmas, Jean, Guyotjeannin, Olivier, et Belhoste, Jean- François, <hi rend="italic">L'Édition des textes anciens : XVI<hi rend="superscript">e</hi>-XVIII<hi rend="superscript">e</hi> siècle</hi>, Paris, Association Études, loisirs, patrimoine, 1993, (Documents &amp; méthodes / Inventaire général des monuments et des richesses artistiques de la France, n° 1).</p>
+    </note>
+    <note xml:id="editionMethodologyN0009">
+        <p>Bourgain, Pascale, et Vielliard, Françoise, <hi rend="italic">Conseils pour l’édition des textes médiévaux</hi>, Paris, Comité des travaux historiques et scientifiques / École nationale des chartes, 2002, (Documents d'archives, n° Fascicule III, Textes littéraires).</p>
+    </note>
+    <note xml:id="editionMethodologyN0010">
+        <p><ref type="external" target="http://v-machine.org/">Versioning Machine</ref>.</p>
+        <!-- TODO vérifier le lien -->
+    </note>
+    <note xml:id="editionMethodologyN0011">
+        <p><ref type="external" target="http://collatex.sourceforge.net/">CollateX</ref>.</p>
+    </note>
+    <note xml:id="editionMethodologyN0012">
+        <p><ref type="external" target="http://www.juxtasoftware.org/">Juxta, Collation Software for Scholars</ref>.</p>
+    </note>
+    <note xml:id="editionMethodologyN0013">
+        <p><ref type="external" target="http://www.juxtasoftware.org/">Juxta, Collation Software for Scholars</ref>.</p>
+    </note>
+    <note xml:id="editionMethodologyN0014">
+        <p>Bourgain, Pascale, et Vielliard, Françoise, <hi rend="italic">Conseils pour l’édition des textes médiévaux</hi>, Paris, Comité des travaux historiques et scientifiques / École nationale des chartes, 2002, (Documents d'archives, n° Fascicule III, Textes littéraires), p. 212-213.</p>
+    </note>
+    <note xml:id="editionMethodologyN0015">
+        <p>{Varloot 1981}</p>
+    </note>
+    <note xml:id="editionMethodologyN0016">
+        <p>Barbiche, Bernard, Chatenet, Monique, Delmas, Jean, Guyotjeannin, Olivier, et Belhoste, Jean- François, <hi rend="italic">L'Édition des textes anciens : XVI<hi rend="superscript">e</hi>-XVIII<hi rend="superscript">e</hi> siècle</hi>, Paris, Association Études, loisirs, patrimoine, 1993, (Documents &amp; méthodes / Inventaire général des monuments et des richesses artistiques de la France, n° 1).</p>
+    </note>
+    <note xml:id="editionMethodologyN0017">
+        <p>Varloot, Jean, « Les conventions dans l'édition de texte », <hi rend="italic">Cahiers de l'Association internationale des études francaises</hi>, n° 1, t. 33, 1981, p. 101-110.</p>
+    </note>
+    <note xml:id="editionMethodologyN0018">
+        <p>Rapport final du projet Desgodets (ANR-07-CORP-017-01), inédit, 2013, p. 34-36.</p>
+    </note>
+    <note xml:id="editionMethodologyN0019">
+        <p>Barbiche, Bernard, Chatenet, Monique, Delmas, Jean, Guyotjeannin, Olivier, et Belhoste, Jean- François, <hi rend="italic">L'Édition des textes anciens : XVI<hi rend="superscript">e</hi>-XVIII<hi rend="superscript">e</hi> siècle</hi>, Paris, Association Études, loisirs, patrimoine, 1993, (Documents &amp; méthodes / Inventaire général des monuments et des richesses artistiques de la France, n° 1).</p>
+    </note>
+    <note xml:id="editionMethodologyN0020">
+        <p>Bourgain, Pascale, et Vielliard, Françoise, <hi rend="italic">Conseils pour l’édition des textes médiévaux</hi>, Paris, Comité des travaux historiques et scientifiques / École nationale des chartes, 2002, (Documents d'archives, n° Fascicule III, Textes littéraires).</p>
     </note>
 </div>

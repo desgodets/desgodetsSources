@@ -51,9 +51,9 @@
                 </respStmt>
                 <respStmt>
                     <resp key="aut">auteurs</resp>
-                    <persName ref="#RC">
-                        <forename>Robert</forename>
-                        <surname>Carvais</surname>
+                    <persName ref="#EC">
+                        <forename>Emmanuel</forename>
+                        <surname>Château</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -68,7 +68,7 @@
             <!-- mention d'édition -->
             <editionStmt>
                 <edition n="1">première édition électronique, <date when="2013"
-                        >2013</date></edition>
+                    >2013</date></edition>
             </editionStmt>
             <extent><!-- TODO : taille du fichier en octet --></extent>
             <!-- information sur la publication électronique -->
@@ -93,58 +93,47 @@
                 </publisher>
                 <availability status="restricted" xml:id="editionMethodologyTextLicence">
                     <!-- TODO : <licence> à ajouter partout -->
-                    <licence
-                        target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr/"
-                        >
-                        <p>Ce(tte) œuvre est mise à disposition selon les termes
-                            de la Licence Creative Commons Attribution - Pas
-                            d’Utilisation Commerciale - Partage dans les Mêmes
-                            Conditions 3.0 France.</p>
-                        <graphic
-                            url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png" />
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr/">
+                        <p>Ce(tte) œuvre est mise à disposition selon les termes de la Licence
+                            Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage
+                            dans les Mêmes Conditions 3.0 France.</p>
+                        <graphic url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png"/>
                     </licence>
-                    <p>Le Centre de théorie et d'analyse du droit
-                        (UMR 7074) met à disposition cette ressource électronique
-                        structurée, protégée par le code de la propriété
-                        intellectuelle sur le droit d'auteur (L111-1) et sur les bases
-                        de données (L341-1), selon les termes de la licence Creative
-                        Commons : « Paternité - Pas d'Utilisation Commerciale - Pas de
-                        Modification ; 3.0 France ». <lb />Cette licence est
-                        disponible en ligne : <ref
+                    <p>Le Centre de théorie et d'analyse du droit (UMR 7074) met à disposition cette
+                        ressource électronique structurée, protégée par le code de la propriété
+                        intellectuelle sur le droit d'auteur (L111-1) et sur les bases de données
+                        (L341-1), selon les termes de la licence Creative Commons : « Paternité -
+                        Pas d'Utilisation Commerciale - Pas de Modification ; 3.0 France ».
+                        <lb/>Cette licence est disponible en ligne : <ref
                             target="http://creativecommons.org/licences/by-nc-sa/3.0/fr"
-                            >http://creativecommons.org/licenses/by-nc/3.0/fr/</ref> ou
-                        par courrier postal à Creative Commons, 171 Second Street,
-                        Suite 300, San Francisco, California 94105, USA.</p>
-                    <p>Pas d'Utilisation Commerciale : Le Centre de théorie et
-                        d'analyse du droit souhaite encourager l'utilisation et
-                        l'amélioration de ses ressources électroniques, pour les
-                        intérêts de l'enseignement et de la recherche. Toute
-                        autorisation au-delà du champ de cette licence doit être
-                        obtenue auprès du Centre de théorie et d'analyse du droit.</p>
-                    <p>Paternité : Le Centre de théorie et d'analyse du droit demande
-                        à ce que toute publication dérivée de ses ressources
-                        électroniques comporte : <lb />1. le nom du Centre de théorie
-                        et d'analyse du droit et, pour les publications électroniques,
-                        son logo <lb />2. l'URI permettant d'accéder à la page citée
-                        sur notre site, ou à la page d'accueil de la ressource
-                        <lb />3. la date du fichier source utilisé. </p>
-                    <p>Vous êtes libres de remixer, arranger et adapter cette œuvre à
-                        des fins non commerciales, tant que vous nous créditez et que
-                        les nouvelles œuvres sont diffusées selon les mêmes
-                        conditions. Cependant, afin de mieux servir la communauté
-                        scientifique, le Centre de théorie et d'analyse du droit
-                        s'engage à conserver et à toujours offrir publiquement la
-                        version la plus à jour de ses ressources électroniques par une
-                        URI pérenne. Il s'engage en conséquence à les corriger et à
-                        les améliorer, à intégrer les contributions qui lui sont
-                        soumises (après validation par un comité scientifique), et à
-                        référencer l'origine de ces contributions. Toute modification
-                        de la ressource qui ne serait pas reversée à la version de
-                        référence sous l'autorité éditoriale du Centre de théorie et
-                        d'analyse risquerait en conséquence d'être perdue, afin de ne
-                        pas disperser les contributions et de permettre les meilleures
-                        conditions possibles de collaboration scientifique, nous vous
-                        invitons à nous en faire part.</p>
+                            >http://creativecommons.org/licenses/by-nc/3.0/fr/</ref> ou par courrier
+                        postal à Creative Commons, 171 Second Street, Suite 300, San Francisco,
+                        California 94105, USA.</p>
+                    <p>Pas d'Utilisation Commerciale : Le Centre de théorie et d'analyse du droit
+                        souhaite encourager l'utilisation et l'amélioration de ses ressources
+                        électroniques, pour les intérêts de l'enseignement et de la recherche. Toute
+                        autorisation au-delà du champ de cette licence doit être obtenue auprès du
+                        Centre de théorie et d'analyse du droit.</p>
+                    <p>Paternité : Le Centre de théorie et d'analyse du droit demande à ce que toute
+                        publication dérivée de ses ressources électroniques comporte : <lb/>1. le
+                        nom du Centre de théorie et d'analyse du droit et, pour les publications
+                        électroniques, son logo <lb/>2. l'URI permettant d'accéder à la page citée
+                        sur notre site, ou à la page d'accueil de la ressource <lb/>3. la date du
+                        fichier source utilisé. </p>
+                    <p>Vous êtes libres de remixer, arranger et adapter cette œuvre à des fins non
+                        commerciales, tant que vous nous créditez et que les nouvelles œuvres sont
+                        diffusées selon les mêmes conditions. Cependant, afin de mieux servir la
+                        communauté scientifique, le Centre de théorie et d'analyse du droit s'engage
+                        à conserver et à toujours offrir publiquement la version la plus à jour de
+                        ses ressources électroniques par une URI pérenne. Il s'engage en conséquence
+                        à les corriger et à les améliorer, à intégrer les contributions qui lui sont
+                        soumises (après validation par un comité scientifique), et à référencer
+                        l'origine de ces contributions. Toute modification de la ressource qui ne
+                        serait pas reversée à la version de référence sous l'autorité éditoriale du
+                        Centre de théorie et d'analyse risquerait en conséquence d'être perdue, afin
+                        de ne pas disperser les contributions et de permettre les meilleures
+                        conditions possibles de collaboration scientifique, nous vous invitons à
+                        nous en faire part.</p>
                 </availability>
             </publicationStmt>
             <seriesStmt>
@@ -208,228 +197,599 @@
                 <docTitle>
                     <titlePart>Méthodologie</titlePart>
                 </docTitle>
-                <docAuthor><persName ref="#RC">Robert Carvais</persName></docAuthor>
-                <docDate>14 avril 2013</docDate>
+                <!--<docAuthor>
+                    <persName ref="#EC">Emmanuel Château</persName>
+                </docAuthor>-->
+                <docDate>septembre 2013</docDate>
                 <docEdition>version 0</docEdition>
             </titlePage>
             <div xml:id="editionMethodologyFrontFr" xml:lang="fre">
                 <div xml:id="editionMethodologyFrontFr01" type="abstract">
-                    <p>Nous avons mis en place sept étapes dans la réalisation du projet : de la définition du corpus à l’obtention des droits de diffusion par la mise en place de partenariats, en passant par la numérisation des manuscrits, leur datation, la transcription des différents témoins, leur comparaison et l’édition de la version choisie.</p>
+                    <p>Nous avons mis en place sept étapes dans la réalisation du projet : de la
+                        définition du corpus à l’obtention des droits de diffusion par la mise en
+                        place de partenariats, en passant par la numérisation des manuscrits, leur
+                        datation, la transcription des différents témoins, leur comparaison et
+                        l’édition de la version choisie.</p>
                 </div>
                 <div xml:id="editionMethodologyFrontFr02" type="introduction">
                     <head>Introduction</head>
-                    <p>Quam ob rem circumspecta cautela observatum est deinceps et cum edita montium
-                        petere coeperint grassatores, loci iniquitati milites cedunt. ubi autem in
-                        planitie potuerint reperiri, quod contingit adsidue, nec exsertare lacertos
-                        nec crispare permissi tela, quae vehunt bina vel terna, pecudum ritu
-                        inertium trucidantur.</p>
-                    <p>Hae duae provinciae bello quondam piratico catervis mixtae praedonum a
-                        Servilio pro consule missae sub iugum factae sunt vectigales. et hae quidem
-                        regiones velut in prominenti terrarum lingua positae ob orbe eoo monte Amano
-                        disparantur.</p>
+                    <p>Au début du siècle, <persName>Henri Lemonnier</persName> envisageait déjà
+                        l’édition du cours de <persName>Desgodets</persName> sur la Commodité.
+                            <persName>Jean-Marie Pérouse de Montclos</persName> avait repris à son
+                        compte l’idée d’une telle édition dans les années 80, mais le projet était
+                        resté sans suite. L’originalité immédiate du sujet de ce cours explique en
+                        grande partie qu’il ait focalisé l’attention. Pourtant, ce cours s’inscrit
+                        dans un ensemble plus large. Il constitue d’abord la suite d’un premier
+                        cours sur les ordres qui se révèle plus intéressant que son titre pouvait le
+                        laisser paraître. Par ailleurs, l’enseignement plus technique de
+                            <persName>Desgodets</persName> sur le Toisé ou les Servitudes donne un
+                        relief et une cohérence tout à fait particulière à l’ensemble de son
+                        enseignement. Mis à part celui sur les Lois des bâtiments qui fut publié de
+                        manière posthume par un « disciple ». Les autres cours de
+                            <persName>Desgodets</persName> sont restés jusqu’à nos jours inédits.
+                        Pourtant, le nombre de copies conservées suffit à attester de leur
+                        importance dans la culture architecturale du <date from="1700" to="1799"
+                                >XVIII<hi rend="superscript">e</hi> siècle</date>. De ce point de
+                        vue, la publication d’une édition critique des cours de
+                            <persName>Desgodets</persName> avait le mérite de faire entrer dans
+                        l’histoire de l’art tout un pan de la théorie architecturale.</p>
+                    <p>On parle d’<soCalled>édition critique</soCalled>, ou d’<soCalled>édition
+                            scientifique</soCalled>, l’adjectif dans appellation venant en désigner
+                        le caractère savant, au sens où il s’agit de produire une reproduction
+                        contrôlée d’un texte dont sont procurés les états, versions, variantes et
+                        leçons. De ce point de vue, l’édition critique constitue selon la définition
+                        du manuel de l’<orgName>École nationale des chartes</orgName> sur l’édition
+                        des textes médiévaux un : <quote>Essai de reconstitution d’un texte, pour
+                            lequel l’éditeur pèse chacun des mots du texte en se servant de tous les
+                            moyens de jugement dont il dispose. Cas particuliers : l’édition
+                            imitative ou diplomatique qui reproduit très exactement un document
+                            unique, jusqu’en ses particularités graphiques et mêmes ses erreurs,
+                            commentées à part mais pas corrigées dans le texte ; l’édition
+                            synthétique, intégrant différents états du texte suffisamment peu
+                            différents, moyennant un artifice typographique, avec comme variante
+                            l’édition génétique, qui rend compte par des artifices typographiques
+                            des différentes couches et états successifs du texte ; l’édition
+                                <foreign xml:lang="lat">variorum</foreign>, qui donne le texte
+                            accompagné, outre l’apparat normal des variantes, de toutes les
+                            solutions des éditeurs précédents.</quote><ref type="note"
+                            target="#editionMethodologyN0001"/></p>
+                    <p>Même si le domaine de l’édition scientifique a connu de profonds changements
+                        au cours de ces dernières années avec l’irruption du numérique, les
+                        opérations à la base de toute édition critique sont toutefois restées pour
+                        l’essentiel identiques. La tâche principale de l’éditeur est de produire un
+                        texte fiable et consistant, avec des partis-pris éditoriaux explicites et
+                        appropriés. Une telle édition mobilise des savoirs relativement étendus.
+                        Elle implique que l’éditeur dispose non seulement des savoirs
+                        traditionnellement associés à l’édition des sources primaires. Il doit en
+                        effet être en mesure d’identifier comment le texte a été construit, à la
+                        fois comme document et comme instance de l’œuvre. Il doit également savoir
+                        comment celui-ci a été transmis, altéré ou transformé au cours du temps,
+                        etc. Mais l’éditeur doit encore être en mesure de connaître son lectorat, et
+                        d’identifier la meilleure manière de communiquer les textes, et ce qu’il en
+                        sait. Ainsi : <quote>Une édition critique n’est pas une reproduction
+                            photographique. Elle résulte d’un compromis raisonnable entre, d’une
+                            part, le respect du texte à publier (dont on ne doit en aucun cas
+                            moderniser la graphie) et, d’autre part, le souci de le rendre aussi
+                            intelligible que possible pour un lecteur d’aujourd’hui.</quote><ref
+                            type="note" target="#editionMethodologyN0002"/></p>
+                    <p>La production d’une édition critique de qualité exige donc d’avoir bien
+                        défini sa destination. Cette question est déterminante même si l’on ne
+                        renonce généralement pas à toucher un public un tant soit peu élargi.
+                        S’agissant ici de mettre à disposition un corpus de textes inédits, établi
+                        d’après une tradition abondante de témoins manuscrits, l’édition des cours
+                        de <persName>Desgodets</persName> offrait un intérêt tout particulier pour
+                        l’historien de l’art et l’historien du droit. Elle se devait de présenter
+                        toutes les qualités habituellement requises par une édition de haute tenue
+                        scientifique en termes de fiabilité, de solidité et de justification des
+                        partis pris. S’agissant d’un matériau entièrement neuf pour la recherche, il
+                        s’agissait également de faciliter son étude et de prendre en compte
+                        certaines particularités propres à des manuscrits architecturaux pour la
+                        consultation.</p>
+                    <p>Nous examinerons successivement les questions habituellement posées par
+                        l’établissement du texte et ses différents témoins. Puis nous aborderons la
+                        méthode d’édition retenue pour ce corpus.</p>
+
                 </div>
             </div>
         </front>
         <body xml:id="editionMethodologyBody">
             <div xml:id="editionMethodologyBodyFr" xml:lang="fre">
-                <div xml:id="editionMethodologyBodyFr01" type="chapter" n="1">
-                    <head>Les transcriptions des cours</head>
-                    <quote>
-                        Quid enim tam absurdum quam delectari multis inanimis rebus, ut honore, ut
-                        gloria, ut aedificio, ut vestitu cultuque corporis, animante virtute
-                        praedito, eo qui vel amare vel, ut ita dicam, redamare possit, non admodum
-                        delectari? Nihil est enim remuneratione benevolentiae, nihil vicissitudine
-                        studiorum officiorumque iucundius.
-                    </quote>
-                    <p>Quam ob rem circumspecta cautela observatum est deinceps et cum edita montium
-                        petere coeperint grassatores, loci iniquitati milites cedunt. ubi autem in
-                        planitie potuerint reperiri, <quote>quod contingit adsidue, nec exsertare</quote> lacertos
-                        nec crispare permissi tela, quae vehunt bina vel terna, pecudum ritu
-                        inertium trucidantur.</p>
-                    <p>Hae duae provinciae bello quondam piratico catervis mixtae praedonum a
-                        Servilio pro consule missae sub iugum factae sunt vectigales. et hae quidem
-                        regiones velut in prominenti terrarum lingua positae ob orbe eoo monte Amano
-                        disparantur.</p>
+                <div xml:id="editionMethodologyBodyFr01" type="part" n="1">
+                    <head>La définition du corpus</head>
+                    <p>à rédiger</p>
                 </div>
-                <div xml:id="editionMethodologyBodyFr02" type="chapter" n="2">
-                    <head>L’édition</head>
-                    <p>Proinde concepta rabie saeviore, quam desperatio incendebat et fames,
-                        amplificatis viribus ardore incohibili in excidium urbium matris Seleuciae
-                        efferebantur, quam comes tuebatur Castricius tresque legiones bellicis
-                        sudoribus induratae.</p>
-                    <p>Latius iam disseminata licentia onerosus bonis omnibus Caesar nullum post
-                        haec adhibens modum orientis latera cuncta vexabat nec honoratis parcens nec
-                        urbium primatibus nec plebeiis.</p>
-                    <figure type="illustration" copyOf="#editionMethodologyIll0003"/>
-                    <p>Iis igitur est difficilius satis facere, qui se Latina scripta dicunt
-                        contemnere. in quibus hoc primum est in quo admirer, cur in gravissimis
-                        rebus non delectet eos sermo patrius, cum idem fabellas Latinas ad verbum e
-                        Graecis expressas non inviti legant. quis enim tam inimicus paene nomini
-                        Romano est, qui Ennii Medeam aut Antiopam Pacuvii spernat aut reiciat, quod
-                        se isdem Euripidis fabulis delectari dicat, Latinas litteras oderit?</p>
-                    <div type="section">
-                        <p>Tu autem, Fanni, quod mihi tantum tribui dicis quantum ego nec adgnosco nec
-                            postulo, facis amice; sed, ut mihi videris, non recte iudicas de Catone; aut
-                            enim nemo, quod quidem magis credo, aut si quisquam, ille sapiens fuit. Quo
-                            modo, ut alia omittam, mortem filii tulit! memineram Paulum, videram Galum,
-                            sed hi in pueris, Cato in perfecto et spectato viro.</p>
-                        <p>Quanta autem vis amicitiae sit, ex hoc intellegi maxime potest, quod ex
-                            infinita societate generis humani, quam conciliavit ipsa natura, ita
-                            contracta res est et adducta in angustum ut omnis caritas aut inter duos aut
-                            inter paucos iungeretur.</p>
+                <div xml:id="editionMethodologyBodyFr02" type="part" n="2">
+                    <head>L'établissement du texte</head>
+                    <div type="chapter" n="3">
+                        <p>Comme le relevait déjà Jean Varloot en 1980, <q>l’édition de textes
+                                français moderne est un domaine qui est loin d’être l’objet de lois
+                                ou d’usages admis par tous</q><ref type="note"
+                                target="#editionMethodologyN0003"/>. Malgré les efforts des érudits
+                            du <date from="1800" to="1899">XIX<hi rend="superscript">e</hi>
+                                siècle</date> et la création d’importantes collections
+                            scientifiques, ou plusieurs grandes entreprises d’œuvres complètes, il
+                            subsiste une grande variabilité dans les conceptions et surtout dans les
+                            pratiques. En outre, par rapport à leurs collègues littéraires, <q>les
+                                éditeurs de sources documentaires, ont généralement tardé, en France
+                                particulièrement, à intégrer une interrogation de méthode sur les
+                                implications de leur travail</q><ref type="note"
+                                target="#editionMethodologyN0004"/>. En l’absence de règles
+                            clairement établies et partagées dans la communauté scientifique, la
+                            définition d’un protocole de transcription du texte s’est avérée plutôt
+                            difficile.</p>
+                        <p>Il était néanmoins possible de se référer au guide de transcription des
+                            textes anciens publié sous la direction de <persName>Bernard
+                                Barbiche</persName> et <persName>Monique Châtenet</persName> par
+                                l’<orgName>Inventaire</orgName><ref type="note"
+                                target="#editionMethodologyN0005"/>. Dans la mesure où ces
+                            indications sont relativement sommaires et datent des années 1990,
+                            celles-ci méritent une mise à jour et une révision de fonds en comble,
+                            notamment pour prendre acte de l’irruption des techniques d’édition
+                            électroniques, mais aussi de l’évolution de la doctrine. Il est probable
+                            que la publication annoncée, et et on l’espère prochaine, d’un manuel de
+                                l’<orgName>École nationale des chartes</orgName> concernant
+                            l’édition des textes de l’époque moderne viendra clarifier la
+                            situation.</p>
+                    </div>
+                    <div type="chapter">
+                        <head>La transcription des manuscrits</head>
+                        <p>S’agissant d’éditer des textes à partir de manuscrits dépourvus de
+                            tradition imprimée, leur transcription constituait une étape cruciale du
+                            processus éditorial. Dès le début du travail, un protocole de
+                            transcription a dû être mis sur pied. En l’absence de recommandations
+                            récentes pour l’édition des textes de l’époque moderne, c’est le travail
+                            publié par <persName>Bernard Barbiche</persName> et ses collègues dans
+                            la collection de l’<orgName>Inventaire</orgName> qui fait référence<ref
+                                type="note" target="#editionMethodologyN0006"/>. L’équipe de
+                            transcripteurs a donc formulé les premières propositions concernant la
+                            transcription des manuscrits à partir de ces indications. Toutefois, eu
+                            égard aux besoins particuliers du projet ayant trait à la comparaison
+                            des divers témoins, une modernisation de l’orthographe des textes a dans
+                            un premier temps été proposée sauf à conserver la graphie originale des
+                            termes architecturaux et juridiques, ou les particularités
+                            significatives.</p>
+                        <p>Cette liberté avait été envisagée dans la mesure où aucun manuscrit
+                            (hormis le O1 qui n’était pas un cours mais un traité proprement dit)
+                            n’était de la main d’<persName>Antoine Desgodets</persName>, qu’un
+                            nombre conséquents de témoins permettaient d’étayer l’établissement du
+                            texte, et que la graphie des manuscrits ne semblait présenter très
+                            généralement qu’un intérêt limité du point de vue de la compréhension et
+                            de la signification. Une telle attitude semblait admise pour l’édition
+                            des textes littéraires postérieurs à 1600 et surtout à 1700<ref
+                                type="note" target="#editionMethodologyN0007"/>. La normalisation
+                            des transcriptions paraissait surtout fournir une solution pour réduire
+                            le bruit lors de l’étude des variantes à l’aide du logiciel MEDITE comme
+                            elle était prévue au début du projet. En outre, elle permettait de se
+                            focaliser uniquement sur les variantes significatives entre les témoins
+                            tout en permettant de produire un texte modernisé plus facilement
+                            accessible pour le lecteur contemporain.</p>
+                        <p>Une telle solution n’a pas reçue l’approbation du Conseil scientifique du
+                            projet. Au contraire, les membres de ce conseil ont défendu une
+                            transcription la plus diplomatique possible, allant même au-delà des
+                            pratiques actuellement promue par l’<orgName>École nationale des
+                                chartes</orgName> pour les textes médiévaux. Il s’agissait d’une
+                            transcription la plus fidèle possible du manuscrit, où la graphie est
+                            généralement scrupuleusement respectée, améliorée seulement pour la
+                            ponctuation et l’accentuation. Une telle position de strict respect de
+                            la tradition philologique paraissait permettre de mieux comprendre les
+                            manuscrits et de mieux les situer les uns par rapport aux autres. Aux
+                            consignes publiées dans <title>Guide</title> de <persName>Bernard
+                                Barbiche</persName> et <persName>Monique Châtenet</persName><ref
+                                type="note" target="#editionMethodologyN0008"/>, le conseil
+                            scientifique ajoutait le respect des majuscules, réservant à l’éditeur
+                            le choix final sur la graphie à retenir.</p>
+                        <p>Ce changement d’orientation intervenu dans les directives n’a pas
+                            nécessairement facilité le travail de transcription. Il a en partie
+                            impliqué la reprise de ce qui avait déjà été effectué mais aussi généré
+                            un surcroît de travail en matière de relecture des transcriptions des
+                            différents témoins que le Conseil scientifique souhaitait mettre à
+                            disposition (cette relecture n’est pas encore à ce jour tout à fait
+                            achevée). En outre, la modernisation restait nécessaire pour la
+                            comparaison. Il a donc été décidé d’opérer deux types de transcription :
+                            d’une part une transcription diplomatique, d’autre part une version
+                            modernisée pour permettre l’étude des variantes.</p>
+                        <p>L’adoption d’un cadre de travail comme celui de la Text Encoding
+                            Initiative (TEI) dès l’initiation du projet, aurait pu permettre
+                            d’enregistrer simultanément la version originale et une version
+                            régularisée. Mais une telle modernisation de l’ensemble des textes
+                            était, de toutes les façons, irréaliste dans les délais impartis. En
+                            revanche, elle aurait pu offrir un contexte de travail très efficace
+                            pour le traitement des variantes des différents témoins. </p>
+                    </div>
+                    <div type="chapter">
+                        <head>La collation et la comparaison des témoins</head>
+                        <p>Une fois les manuscrits transcrits, une collation des témoins était
+                            nécessaire afin de mieux les caractériser les uns par rapport aux
+                            autres. Cette opération consiste à comparer le texte des différents
+                            manuscrits en repérant les leçons variantes en chaque lieu variant des
+                            témoins du texte<ref type="note" target="#editionMethodologyN0009"/>. Le
+                            projet initial prévoyait l’utilisation d’un logiciel développé par
+                                l’<orgName>Institut des textes et manuscrits modernes
+                                (ITEM)</orgName> pour les études de génétique textuelle<ref
+                                type="note" target="#editionMethodologyN0010"/>. Ce logiciel, EDITE
+                            MEDITE, posait des problèmes de versions de système d’exploitation pour
+                            pouvoir être installé sur l’ensemble des postes de travail des membres
+                            des équipes d’édition. Une autre solution logicielle a donc été
+                            recherchée.</p>
+                        <p>Plusieurs logiciels ont été identifiés comme pouvant répondre aux besoins
+                            du projet : l’outil Unix Diff, Versionning-Machine<ref type="note"
+                                target="#editionMethodologyN0011"/>, CollateX<ref type="note"
+                                target="#editionMethodologyN0012"/>, ou encore Juxta<ref type="note"
+                                target="#editionMethodologyN0013"/>. Après plusieurs tests, nous
+                            avons retenu le logiciel Juxta qui nous paraissait à la fois le plus
+                            flexible et le plus simple d’emploi. Le logiciel était multiplate-forme
+                            et son interface graphique permettait d’aligner facilement le texte et
+                            de localiser aisément les lieux variants dans le texte. Par ailleurs, il
+                            était à la fois possible de l’utiliser avec des fichiers texte ou des
+                            fichiers XML-TEI ce qui était bien adapté à notre contexte de
+                            production.</p>
+                        <figure type="illustration" copyOf="#editionMethodologyIll0001"/>
+                        <p>Dans la plupart des cas il a été relativement difficile d’établir des
+                            familles de tradition parmi les manuscrits ou de déterminer des
+                            prototypes. Toutefois, un groupe de manuscrits suédois se dégage
+                            clairement de par leur provenance, et les deux manuscrits de la
+                            commodité semblent issus d’un même prototype. Les témoins étaient
+                            généralement peu divergents et présentaient peu de variantes de fond
+                            laissant supposer des interpolations. Néanmoins, certains témoins
+                            contenaient des passages absents dans d’autres manuscrits dont la
+                            présence pouvait être le fait de gloses du transcripteur ou d’une
+                            modification du cours donné par <persName>Desgodets</persName> au cours
+                            du temps. Le plus souvent les variantes concernaient des erreurs de
+                            lecture. On renvoit le lecteur à la présentation de chacun des
+                            manuscrits pour le détail de chaque cours.</p>
+                    </div>
+                    <div type="chapter">
+                        <head>Le choix d’une méthode d’édition critique</head>
+                        <p>En l’absence de manuscrits autographes identifiés (hormis O1) ou de
+                            prototypes clairement déterminés parmi les témoins manuscrits conservés
+                            pour chacun des cours, l’établissement du texte de l’édition critique
+                            était problématique. Plusieurs traditions éditoriales s’affrontent dans
+                            le domaine de l’ecdotique pour les textes anciens. On a l’habitude de
+                            distinguer les approches reconstructionnistes, inspirées de
+                                <persName>Karl Lachmann</persName>, qui consistent à reconstruire
+                            l’aspect d’un texte à partir de ses témoins, d’approches plus
+                            conservatistes inspirées de <persName>Joseph Bédier</persName> et qui
+                            consistent à choisir un manuscrit de base en le corrigeant le moins
+                                possible<ref type="note" target="#editionMethodologyN0014"/>.</p>
+                        <p>C’est l’approche conservatiste qui a le plus de faveur aujourd’hui en
+                            France pour l’édition de sources documentaires. Celle-ci est plus
+                            respectueuse de la source et évite de produire un texte qui n’a jamais
+                            existé. Néanmoins, en présence d’un grand nombre de témoins, pour
+                            l’essentiel identiques, les cours ayant souvent été prononcés pendant
+                            plusieurs années, et donc leur contenu étant susceptible d’avoir varié
+                            au cours du temps, la production d’une édition composite pouvait être
+                            défendue malgré l’interdit formulé par <persName>Pierre-Georges
+                                Castex</persName><ref type="note" target="#editionMethodologyN0015"
+                            />.</p>
+                        <p>Bien sûr, il aurait été vain de prétendre rétablir le texte <foreign
+                                xml:lang="lat">princeps</foreign> de chacun des cours à partir d’une
+                            critique textuelle des différents témoins conservés. La
+                                <soCalled>recension stemmatique</soCalled>, nous paraissait peu
+                            praticable compte-tenu de la proximité des témoins et l’absence de
+                            certitude quant à l’existence d’un prototype unique. En revanche,
+                            l’approche dite <soCalled>éclectique</soCalled>, ou tout du moins celle
+                            de l’<soCalled>édition de référence</soCalled>, consistant à choisir les
+                            variantes semblant supérieures d’un point de vue interne parmi les
+                            différents manuscrits, pouvait avoir le mérite de rendre compte plus
+                            fidèlement, et plus complètement, du contenu réel de l’enseignement
+                                d’<persName>Antoine Desgodets</persName>.</p>
+                        <p>Disposant de plusieurs états du texte autres que l’original, on a choisi
+                            de se contenter d’éditer un témoin en lui rapportant en note les
+                            variantes que présentaient les autres états par rapport au texte de base
+                            ainsi que le suggère le Guide de <persName>Bernard Barbiche</persName>
+                            et <persName>Monique Châtenet</persName><ref type="note"
+                                target="#editionMethodologyN0016"/>. Comme on l’a dit, cette
+                            approche privilégie la source primaire mais il faut également avoir
+                            conscience qu’elle présente plusieurs inconvénients. D’abord, elle
+                            favorise l’intégration des fautes du copiste, telles que les
+                            interpolations ou l’intégration d’éventuelles gloses qui figurent dans
+                            le texte maître. Ensuite, elle ne permet pas de rendre compte
+                            directement, dans le corps du texte, de passages éventuellement
+                            manquants dans la version du manuscrit de base puisqu’elle renvoie les
+                            variantes dans l’appareil de notes.</p>
+                        <p>Il n’existe certainement pas, en matière d’édition critique, d’approche
+                            idéale qui satisfasse tous les cas de figure. D’une certaine façon, ces
+                            débats sont en partie devenus caducs avec les techniques d’édition
+                            numérique. Il est, en effet, aujourd’hui tout à fait possible de
+                            proposer plusieurs vues sur un même texte. Mais ce n’est pas toujours
+                            réalisable en pratique, ne serait-ce que pour des raisons économiques.
+                            Et ces possibilités n’éliminent toutefois ni la signification ni la
+                            responsabilité de l’éditeur dans le choix des aspects mis en avant par
+                            une édition.</p>
+                    </div>
+                    <div type="chapter">
+                        <head>Le choix du manuscrit maître</head>
+                        <p>Ayant choisi l’approche conservatiste, il restait à déterminer les
+                            critères de choix du manuscrit maître. À cet égard <q>chaque texte, en
+                                fonction de son histoire propre, impose un choix particulier.</q>
+                            dit <persName>Beugnot</persName><ref type="note"
+                                target="#editionMethodologyN0017"/>. Les équipes éditoriales ont
+                            donc été laissées libres de proposer un manuscrit maître pour le cours
+                            qu’elles éditaient en justifiant de leurs critères de choix d’après une
+                            grille établie dans le cadre du projet. Le choix du manuscrit maître
+                            était définitivement arrêté à l’issue d’une discussion au sein du
+                            Conseil scientifique. Tout en renvoyant encore ici le lecteur aux
+                            présentations introductives des cours, soulignons cependant quelques
+                            aspects saillants concernant sa sélection pour chacun des cours :</p>
+                        <p>Au terme de la recherche, le cours sur les ordres de
+                                <persName>Desgodets</persName> est connu par neuf manuscrits, dont
+                            cinq accompagnés de planches. Huit de ces versions présentent un plan
+                            identique, l’autre est un texte autographe plutôt bref, composé
+                            antérieurement sous la forme d’un traité, et probablement présenté au
+                            roi à l’occasion de sa visite à l’<orgName>Académie royale
+                                d’architecture</orgName> le <date when="1719-08-02">2 août
+                                1719</date> comme l’indique une inscription apportée sur le
+                            manuscrit. Parmi les témoins, on relève une famille de manuscrits
+                            suédoise. Tous ces témoins présentent le même état du texte et ils
+                            commencent par un titre identique faisant référence au texte prononcé à
+                            partir du <date when="1724-11-13">13 novembre 1724</date>. L’analyse
+                            laisse donc penser qu’ils sont issus d’un prototype commun<ref
+                                type="note" target="#editionMethodologyN0018"/>.</p>
+                        <p>L’équipe chargée de l’édition de ce cours a montré que si l’établissement
+                            des variantes s’était révélée importante pour restituer ou clarifier le
+                            sens de certains passages, l’absence de variantes de fond rendait
+                            difficile l’établissement d’une hiérarchie entre les manuscrits. Elle
+                            interprétait les nombreuses erreurs comme des problèmes de dictée
+                            laissant penser qu’aucun des témoins conservés n’avait été copié
+                            directement sur l’archétype mais qu’ils dérivaient de prises de note
+                            durant le cours. Les erreurs de lecture pouvant s’expliquer par la mise
+                            au propre, ou des copies de copies. Le choix du manuscrit maître repose
+                            en conséquence à la fois sur la présence de planches, la complétude du
+                            texte, le fait qu’il soit copié par un scripteur français, et sa bonne
+                            lisibilité.</p>
+                        <p>Pour le traité de la Commodité, seuls deux témoins avaient été
+                            identifiés. La collation des transcriptions à l’aide du logiciel Juxta
+                            ne révélait aucune variante notable mis à part quelques fautes de copie
+                            ou omissions. L’apparition, dans la version du <orgName>département des
+                                estampes de la Bibliothèque nationale de France</orgName>, de
+                            numéros rayés en haut de certaines planches correspondant à ceux du
+                                <orgName>Rijksmuseum</orgName>, pouvait laisser penser qu’il en
+                            dérivait, ou bien qu’ils étaient tous les deux des copies d’un même
+                            prototype. Le texte et les figures véritablement très proches, nous
+                            avons malgré tout choisi d’éditer le manuscrit français qui avait le
+                            mérite de constituer le pendant de celui des Ordres par ailleurs retenu
+                            pour l’édition.</p>
+                        <p>Le critère de datation ne permettait pas de discriminer clairement parmi
+                            les témoins identifiés pour le cours du toisé celui qui devait être
+                            privilégié. Néanmoins, certains d’entre eux présentaient un chapitre
+                            supplémentaire dans la seconde section. En choisissant un exemplaire
+                            disposant de toutes les planches, il a donc été privilégié un témoin
+                            comportant ce chapitre afin de disposer du texte le plus complet
+                            possible. Toutefois, il ne faut pas perdre de vue que ces ajouts ont pu
+                            être inclus postérieurement à l’initiative d’un tiers.</p>
+                        <p>Pour les servitudes, les deux volumes manuscrits conservés à la
+                                <orgName>Bibliothèque du Sénat</orgName> sont les seuls témoins
+                            connus. Ces deux longs manuscrits ne sont pas comparables mais
+                            complémentaires, ils devaient cependant être rapportés au cours édité,
+                            après la mort de <persName>Desgodets</persName> en 1748, par l’un de ses
+                            continuateurs, <persName>Martin Goupy</persName>, sous le titre de
+                                <title>Loix des bâtiments</title>.</p>
+                    </div>
+                    <div type="chapter">
+                        <head>La prise en compte des variantes</head>
+                        <p>Le texte du manuscrit maître de chaque manuscrit devait disposer d’un
+                            apparat critique informant sur les variantes des différents témoins.
+                            Conformément aux conseils de Barbiche, seules ont été retenues <q>les
+                                    <hi rend="bold">variantes</hi> qui [avaient] une incidence sur
+                                le sens du texte, à l’exclusion des particularités purement
+                                graphiques ou grammaticales.</q><ref type="note"
+                                target="#editionMethodologyN0019"/></p>
                     </div>
                 </div>
-                <div xml:id="editionMethodologyBodyFr03" type="chapter" n="3">
-                    <head>L’encodage</head>
-                    <p>Haec et huius modi quaedam innumerabilia ultrix facinorum impiorum bonorumque
-                        praemiatrix aliquotiens operatur Adrastia atque utinam semper quam vocabulo
-                        duplici etiam Nemesim appellamus: ius quoddam sublime numinis efficacis,
-                        humanarum mentium opinione lunari circulo superpositum, vel ut definiunt
-                        alii, substantialis tutela generali potentia partilibus praesidens fatis,
-                        quam theologi veteres fingentes Iustitiae filiam ex abdita quadam
-                        aeternitate tradunt omnia despectare terrena.</p>
-                    <table n="depenses" cols="2">
-                        <head><date when="1852-02-02">2 février, Lundi</date></head>
-                        <row>
-                            <cell><num>1</num> bouteille d’encre</cell>
-                            <cell>
-                                <measure unit="franc"><num>0.25</num></measure>
-                            </cell>
-                        </row>
-                        <row>
-                            <cell><num>1</num> allumette</cell>
-                            <cell>
-                                <measure unit="franc"><num>0.10</num></measure>
-                            </cell>
-                        </row>
-                        <row>
-                            <cell><num>1/2</num> litre vin</cell>
-                            <cell><measure unit="franc"><num>0.11</num></measure>
-                            </cell>
-                        </row>
-                        <row>
-                            <cell>[Total]</cell>
-                            <cell>
-                                <measure unit="franc">
-                                    <num>0.<subst>
-                                        <del>54</del>
-                                        <add place="ligne">46</add>
-                                    </subst></num>
-                                </measure>
-                            </cell>
-                        </row>
-                    </table>
-                    <p>Inter quos Paulus eminebat notarius ortus in Hispania, glabro quidam sub
-                        vultu latens, odorandi vias periculorum occultas perquam sagax. is in
-                        Brittanniam missus ut militares quosdam perduceret ausos conspirasse
-                        Magnentio, cum reniti non possent, iussa licentius supergressus fluminis
-                        modo fortunis conplurium sese repentinus infudit et ferebatur per strages
-                        multiplices ac ruinas, vinculis membra ingenuorum adfligens et quosdam
-                        obterens manicis, crimina scilicet multa consarcinando a veritate longe
-                        discreta. <ref type="note" target="#editionMethodologyN0001">unde admissum est facinus
-                            impium, quod Constanti tempus nota inusserat sempiterna</ref>.</p>
-                    <p>Incenderat autem audaces usque ad insaniam homines ad haec, quae nefariis
-                        egere conatibus, Luscus quidam curator urbis subito visus: <list>
-                            <item>eosque ut</item>
-                            <item>heiulans baiolorum praecentor</item>
-                            <item>ad expediendum quod orsi sunt incitans vocibus</item>
-                            <item>Dum apud Persas, ut supra narravimus, perfidia.</item></list> Regis motus agitat insperatos,
-                        crebris. qui haut longe postea ideo vivus exustus est.</p>
-                    <p>et in eois tractibus bella rediviva consurgunt, anno sexto decimo et eo
-                        diutius <ref type="note" target="#editionMethodologyN0002">post Nepotiani exitium</ref>,
-                        saeviens per urbem aeternam urebat cuncta Bellona, ex primordiis minimis ad
-                        clades excita luctuosas, quas obliterasset utinam iuge silentium! ne forte
-                        paria quandoque temptentur, plus exemplis generalibus nocitura quam
-                        delictis.</p>
-                    <figure type="illustration" copyOf="#editionMethodologyIll0004"/>
-                    <p>Haec igitur Epicuri non probo, inquam. De cetero vellem equidem aut ipse
-                        doctrinis fuisset instructior est enim, quod tibi ita videri necesse est,
-                        non satis politus iis artibus, quas qui tenent, eruditi appellantur aut ne
-                        deterruisset alios a studiis. quamquam te quidem video minime esse
-                        deterritum.</p>
+                <div xml:id="editionMethodologyBodyFr03" type="part" n="3">
+                    <head>La présentation de l’édition critique</head>
+                    <div type="chapter" xml:id="editionMethodologyBodyFr03.01">
+                        <p>La méthode d’édition critique bien établie, il convenait de régler le
+                            problème pratique de la présentation de l’édition. Ces choix
+                            déterminaient les modalités de consultation du texte. Même si une
+                            édition numérique offre plus de souplesse qu’une édition imprimée, elle
+                            n’en reste pas moins problématique sous cet aspect qui tient du
+                            parti-pris éditorial. Là encore, il n’existe pas de solution absolue en
+                            la matière, le meilleur dispositif étant celui qui sert le mieux le
+                            point de vue éditorial adopté ou qui offre les meilleures conditions
+                            d’accessibilité au texte. Avant de pouvoir établir un cahier des charges
+                            fonctionnel, il fallait donc arrêter clairement ce que devait véhiculer
+                            l’édition d’un point de vue scientifique. Les pré-requis pour l’édition
+                            que nous voulions produire étaient soit généralement liés au respect des
+                            conventions de l’édition scientifique, soit propres aux spécificités du
+                            corpus édité.</p>
+                    </div>
+                    <div type="chapter" xml:id="editionMethodologyBodyFr03.02">
+                        <head>Le respect des conventions éditoriales et la présentation de l’apparat
+                            critique</head>
+                        <p>La longue tradition de l’édition critique détermine en grande partie ce
+                            qu’est en droit d’attendre un lecteur lors de la consultation d’une
+                            édition. Elle fixe un ensemble de prérequis qui qualifient en grande
+                            partie l’édition. Au cours du temps, cette tradition a généré une grande
+                            richesse dans l’emploi des marques typographiques (barres, crochets,
+                            soufflets, etc.) pour signifier telle ou telle caractéristique
+                            matérielle, mais celles-ci n’ont pas toujours la même signification à
+                            travers les éditions. Elle a également fixé un certain nombre
+                            d’habitudes pour donner des éléments de repérage et de citabilité, pour
+                            indiquer la pagination du texte de base, une numérotation marginale des
+                            lignes, etc.</p>
+                        <p>L’utilisation du support numérique a donné l’occasion d’explorer de
+                            nouvelles formes de présentation de l’apparat critique. Sa malléabilité
+                            a notamment permis d’envisager de manière nouvelle la présentation des
+                            variantes puisqu’elle permet de proposer alternativement plusieurs vues
+                            sur un même texte, ou encore par exemple de proposer à bien moindre
+                            frais qu’avec l’imprimé des éditions dites
+                                <soCalled>hyper-diplomatiques</soCalled> qui présentent des <foreign
+                                xml:lang="lat">fac simili</foreign> en regard du texte édité. Il
+                            n’en reste pas moins qu’une bonne édition numérique se doit de respecter
+                            un certain nombre de standards éditoriaux en particulier pour faciliter
+                            la citation ou rendre la consultation de l’apparat critique ou des notes
+                            de commentaire historique la plus aisée possible.</p>
+                    </div>
+                    <div type="chapter" xml:id="editionMethodologyBodyFr03.03">
+                        <head>L’apparat critique</head>
+                        <p>Dans une édition critique d’un texte ancien, on appelle <soCalled>apparat
+                                critique</soCalled> l’ensemble des notes fournies par l’auteur de
+                            l’édition pour justifier des choix opérés dans l’édition ou signaler
+                            certaines particularités de la source. L’apparat critique d’une édition
+                            a essentiellement une fonction descriptive. Il concerne la description
+                            des particularités matérielles du texte transcrit, et celle des autres
+                            états du texte s’il en existe par un relevé des leçons pour chaque
+                            passage.</p>
+                        <p>Il est d’usage de fournir les leçons variantes du texte au moyen de notes
+                            critiques habituellement numérotées alphabétiquement. Bien que l’édition
+                            numérique permette de les afficher d’une autre manière (par exemple en
+                            proposant plusieurs vues), il a été choisi de les présenter en note.
+                            N’ayant pas totalement renoncé à une édition imprimée, une telle
+                            présentation permettait notamment d’être identique dans les deux
+                            versions. D’autre part, cette solution correspondait assez bien au mode
+                            de production du texte qui, comme nous le verrons plus loin, a été
+                            traité par les auteurs de l’édition critique à partir d’un logiciel de
+                            traitement de texte.</p>
+                        <p>La lecture du texte ne présentant le plus souvent pas de difficultés très
+                            spécifiques, les autres aspects de l’apparat critique, comme
+                            l’indication des lacunes, des difficultés de lecture, ou des segments
+                            sémantiquement incorrects, etc., utilisent également une présentation
+                            typographique conventionnelle. Néanmoins, elle peut être enrichie par
+                            des artifices de présentation que permet le numérique tels que
+                            l’affichage au survol, etc.</p>
+                    </div>
+                    <div type="chapter" xml:id="editionMethodologyBodyFr03.04">
+                        <head>Les notes de commentaire historique</head>
+                        <p>L’édition envisageait également d’offrir au lecteur des notes de
+                            commentaire historique et une contextualisation de l’enseignement de
+                            Desgodets sous la forme de présentations à caractère historique. La
+                            consultation de chaque cours est donc précédée d’une introduction
+                            générale portant tant sur l’édition que sur l’historique du cours
+                            présenté. Par ailleurs, un arsenal de notes de commentaires historique
+                            devait pouvoir venir compléter l’apparat critique. Comme il est d’usage,
+                            ces appels de notes font l’objet d’une numérotation numérique. La
+                            publication des cours devait également être accompagnée d’introductions
+                            biographiques, historiographiques et méthodologiques.</p>
+                    </div>
+                    <div type="chapter" xml:id="editionMethodologyBodyFr03.05">
+                        <head>Glossaires et index</head>
+                        <p>Outre cet apparat critique et historique, nous avions le désir de fournir
+                            un glossaire des termes architecturaux et juridiques. C’est-à-dire une
+                            liste alphabétique des mots difficiles jouant le rôle d’un dictionnaire
+                            propre au texte pour favoriser sa compréhension<ref type="note"
+                                target="#editionMethodologyN0020"/>. En dehors des aspects de
+                            vulgarisation, un tel glossaire répondait aussi assez bien au caractère
+                            pluri-disciplinaire de l’édition pouvant à la fois intéresser les
+                            historiens de l’architecture et les historiens du droit.</p>
+                        <p>Plusieurs index permettent également d’offrir différents types d’accès
+                            aux textes. En plus des index patronymiques et toponymiques
+                            habituellement requis dans une édition critique, nous envisagions
+                            l’établissement d’un index des matières. De tels index devaient fournir
+                            des listes d’occurrences dans les textes classées par cours. </p>
+                    </div>
                 </div>
+                <div xml:id="editionMethodologyBodyFr04" type="part" n="4">
+                    <head>Les modalités de consultation</head>
+                    <div xml:id="editionMethodologyBodyFr04.01" type="chapter">
+                        <p>S’agissant de mettre à disposition des chercheurs un matériau entièrement
+                            nouveau, de manière générale, les modalités de consultation des
+                            manuscrits que nous envisagions pour l’édition numérique devaient
+                            privilégier l’étude des textes et de leurs figures.</p>
+                    </div>
+                    <div xml:id="editionMethodologyBodyFr04.02" type="chapter">
+                        <head>La consultation des différents témoins manuscrits</head>
+                        <p>Faute d’être assurés d’obtenir les droits pour la publication de
+                            l’ensemble des reproductions des manuscrits, il n’était pas possible de
+                            produire une édition <soCalled>hyper-diplomatique</soCalled> qui offre
+                            un accès simultané aux transcriptions et aux <foreign xml:lang="lat">fac
+                                simili</foreign> des différents témoins. En revanche, conformément
+                            au vœu exprimé par le Conseil scientifique du projet, il a paru
+                            nécessaire d’offrir au lecteur une consultation des transcriptions des
+                            différents témoins. Au lieu de se contenter de les mettre à disposition
+                            sous forme de documents au format pdf, il nous paraissait plus judicieux
+                            d’autoriser le lecteur de les afficher, comme il le souhaitait, afin
+                            d’opérer lui-même la comparaison entre les témoins manuscrits. L’idée
+                            étant de lui proposer un contexte favorable pour une lecture rapprochée
+                            du corpus et de ses différents témoins.</p>
+                    </div>
+                    <div xml:id="editionMethodologyBodyFr04.03" type="chapter">
+                        <head>La consultation et la comparaison des planches</head>
+                        <p>S’agissant d’un cours d’architecture, nous avons vu à quel point les
+                            planches et figures tiennent une place importante dans l’intelligibilité
+                            du propos et sont à cet égard, pour ainsi dire, parties prenantes du
+                            texte. De surcroît, l’édition s’adressant principalement à des
+                            historiens de l’art, une attention particulière devait être accordée à
+                            la consultation des contenus graphiques. D’une part, pour
+                            l’intelligibilité du discours, il était nécessaire de pouvoir lire le
+                            texte en regard des planches. D’autre part, à fins de comparaison et à
+                            l’instar de ce qui devait être mis en place pour le texte, nous voulions
+                            que le lecteur puisse également comparer les différentes versions des
+                            planches. Le dispositif devait donc permettre, non seulement de
+                            visualiser les figures en regard du texte lors de la lecture, mais aussi
+                            de comparer les représentations contenues dans les différents
+                            témoins.</p>
+                    </div>
+                    <div xml:id="editionMethodologyBodyFr04.04" type="chapter">
+                        <head>La recherche plein texte</head>
+                        <p>Outre les index qui relèvent en grande partie de l’apparat critique, il
+                            s’agissait également de proposer au lecteur une recherche plein texte.
+                            La recherche dite <soCalled>plein texte</soCalled> est l’une des
+                            modalités de consultation du texte spécifiquement permise par le support
+                            numérique. Il nous paraissait donc difficile de nous en passer.
+                            Toutefois, pour être efficace, une telle recherche suppose un traitement
+                            particulier de la langue qui n’est pas sans présenter quelques
+                            difficultés ; <foreign xml:lang="lat">a fortiori</foreign> comme dans
+                            notre situation où le texte n’était pas modernisé. Si une telle
+                            fonctionnalité apparemment simple pour l’utilisateur nous paraissait
+                            nécessaire et attendue, sa mise en place efficace était loin d’être
+                            triviale.</p>
+                    </div>
+                </div>
+                <div xml:id="editionMethodologyBodyFr05" type="part">
+                    <p>Le projet d’ANR Desgodets débouchait donc sur la réalisation d’une ambitieuse
+                        édition du corpus des cours de l’architecte à l’<orgName>Académie royale
+                            d’architecture</orgName>. Parce qu’il s’agissait de publier des textes
+                        jamais édités précédemment, qu’elle fut numérique ou papier, la production
+                        d’une telle édition critique se devait de respecter un certain nombre de
+                        conventions éditoriales dans le domaine de l’édition scientifique et
+                        d’offrir un cadre le plus approprié possible à l’étude des témoins
+                        manuscrits. Enfin, une telle édition devait être adaptée au caractère
+                        particulier des textes architecturaux, notamment eu égard au rapport à
+                        l’image.</p>
+                </div>
+                <!--<ref type="note" target="#editionMethodologyN0002">post Nepotiani
+                            exitium</ref>
+                <figure type="illustration" copyOf="#editionMethodologyIll0004"/>-->
             </div>
         </body>
         <back xml:id="editionMethodologyBack">
             <div xml:id="editionMethodologyBackFr" xml:lang="fre">
-                
+
                 <!-- inclusion du fichier de notes -->
-                <xi:include href="divs/desgodetsMethodologyNotes.tei.xml"
-                    parse="xml">
-                    <xi:fallback>Fichier de notes de desgodetsMethodologyNotes
-                        non trouvé</xi:fallback>
+                <xi:include href="divs/desgodetsMethodologyNotes.tei.xml" parse="xml">
+                    <xi:fallback>Fichier de notes de desgodetsMethodologyNotes non
+                        trouvé</xi:fallback>
                 </xi:include>
 
                 <!-- lien vers le fichier à télécharger -->
-                <div xml:id="editionMethodologyBackFr02" 
-                    type="downloads">
+                <!--
+                <div xml:id="editionMethodologyBackFr02" type="downloads">
                     <head>Téléchargements</head>
-                    <!--<p><ref type="file" target="../../files/programme2010.pdf">programme</ref></p>-->
-                    <p><ref type="file" target="../../files/programme2010.pdf"
-                            mimeType="application/pdf">Documentation sur la
-                            méthode d'édition</ref></p>
-                    <!-- avec un titre long pour voir le rendu -->
+                    <!-\-<p><ref type="file" target="../../files/programme2010.pdf">programme</ref></p>-\->
+                    <p>
+                        <ref type="file" target="../../files/programme2010.pdf"
+                            mimeType="application/pdf">Documentation sur la méthode d'édition</ref>
+                    </p>
+                    <!-\- avec un titre long pour voir le rendu -\->
                 </div>
+                -->
 
                 <!-- liste des figures -->
-                <div xml:id="editionMethodologyBackFr03" 
-                    type="figures">
+                <div xml:id="editionMethodologyBackFr03" type="figures">
                     <head>Liste des figures</head>
-                    <figure xml:id="editionMethodologyIll0001"
-                        type="illustration">
+                    <figure xml:id="editionMethodologyIll0001" type="illustration">
                         <figDesc>
-                            <title>Frontispice des édifices antiques</title>
-                            <desc>Antoine Desgodets, <hi rend="italic">Les
-                                    édifices antiques</hi>, frontispice.</desc>
+                            <title>Collation des variantes</title>
+                            <desc>Vue d’écran de la collation des variantes avec le logiciel
+                                Juxta.</desc>
                         </figDesc>
-                        <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg" />
-                        <graphic n="medium" url="../../images/medium/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg" />
-                        <graphic n="full" url="../../images/full/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg" />
-                    </figure>
-                    <figure xml:id="editionMethodologyIll0003"
-                        type="illustration">
-                        <figDesc>
-                            <title>Dédicace</title>
-                            <desc>Antoine Desgodets, <hi rend="italic">Les
-                                    édifices antiques</hi>, p. 9</desc>
-                        </figDesc>
-                        <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg" />
-                        <graphic n="medium" url="../../images/medium/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg" />
-                        <graphic n="full" url="../../images/full/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg" />
-                    </figure>
-                    <figure xml:id="editionMethodologyIll0004"
-                        type="illustration">
-                        <figDesc>
-                            <title>Élévation antérieure du panthéon</title>
-                            <desc>Antoine Desgodets, <hi rend="italic">Les
-                                    édifices antiques</hi>, p. 30</desc>
-                        </figDesc>
-                        <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg" />
-                        <graphic n="medium" url="../../images/medium/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg" />
-                        <graphic n="full" url="../../images/full/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg" />
-                    </figure>
-                    <figure xml:id="editionMethodologyIll0033"
-                        type="illustration">
-                        <figDesc>
-                            <title>Élévation latérale du panthéon</title>
-                            <desc>Antoine Desgodets, <hi rend="italic">Les
-                                    édifices antiques</hi>, p. 33</desc>
-                        </figDesc>
-                        <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg" />
-                        <graphic n="medium" url="../../images/medium/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg" />
-                        <graphic n="full" url="../../images/full/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg" />
+                        <graphic n="thumb" url="../../images/thumbs/desgodetsCollation.png"
+                            mimeType="image/png"/>
+                        <graphic n="medium" url="../../images/thumbs/desgodetsCollation.png"
+                            mimeType="image/png"/>
+                        <graphic n="full" url="../../images/thumbs/desgodetsCollation.png"
+                            mimeType="image/png"/>
                     </figure>
                 </div>
             </div>

@@ -5,21 +5,108 @@
 <!-- RMQ : fichier inclus pour faciliter le travail d'édition -->
 <!-- RMQ : identifiants composés de l'identifiant dans le corpus, suivi de N, suivi d'un numéro d'ordre à quatre unités -->
 
-<div xml:id="editionModelBackFr01" xmlns="http://www.tei-c.org/ns/1.0"
-    xml:lang="fre" type="notes">
+<div xml:id="editionModelBackFr01" xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre"
+    type="notes">
     <head>Notes</head>
     <!-- RMQ : notes de test -->
     <note xml:id="editionModelN0001">
-        <p>« Or Caïn dit à son frère Abel : Sortons dehors. Et lorsqu’ils furent dans les champs, Caïn se jeta sur son frère Abel, et le tua. », <bibl copyOf="#BibleRondet" />, Chapitre 4, verset 8.</p>
+        <p><ref type="external" target="http://references.modernisation.gouv.fr/rgi-interoperabilite">Ministre du Budget, des Comptes publics, Référentiel Général d'Interopérabilité (RGI)</ref>.</p>
     </note>
     <note xml:id="editionModelN0002">
-        <p><bibl copyOf="#rykwert1976" />, p. 30. et <bibl copyOf="#vidler1995" />. Chercher ici les sources de Desgodets pour citer l'exemple du Nord. Comparer également avec d'autres traités.</p>
-        <p>La référence au climat est notable.</p>
+        <p>Coombs, James H, Renear, Allen H, et DeRose, Steven J, « Markup Systems and the Future of Scholarly Text Processing », <hi rend="italic">Communications of the ACM</hi>, n° 11, t. 30, 1987, p.933-947, <ref type="external" target="http://xml.coverpages.org/coombs.html">http://xml.coverpages.org/coombs.html</ref> (accédé le 18 juillet 2013).</p>
     </note>
     <note xml:id="editionModelN0003">
-        <p>Hénoch, « Et ayant connu sa femme, elle conçut et enfanta Hénoch. Il bâtit ensuite une ville qu’il appela Hénoch, du nom de son fils. », <bibl copyOf="#BibleRondet">op. cit.</bibl>, chapitre IV, verset 17.</p>
+        <p>Renear, Allen, Dubin, David, Sperberg-McQueen, C. Michael, et Huitfeldt, Claus, « XML semantics and digital libraries », <hi rend="italic">Proceedings of the 3rd ACM/IEEE-CS joint conference on Digital libraries</hi>, p. 303-305, 2003, <ref type="external" target="http://dl.acm.org/citation.cfm?id=827140.827192">http://dl.acm.org/citation.cfm?id=827140.827192</ref> (accédé le 9 septembre 2013).</p>
     </note>
     <note xml:id="editionModelN0004">
-        <p><bibl copyOf="#Fleury"/>, livre...</p>
+        <p>Coombs, James H, Renear, Allen H, et DeRose, Steven J, « Markup Systems and the Future of Scholarly Text Processing », <hi rend="italic">Communications of the ACM</hi>, n° 11, t. 30, 1987, p.942, <ref type="external" target="http://xml.coverpages.org/coombs.html">http://xml.coverpages.org/coombs.html</ref> (accédé le 18 juillet 2013).</p>
     </note>
+    <note xml:id="editionModelN0005">
+        <p>Bray, Tim, Paoli, Jean, Sperberg-McQueen, C. Michael, Maler, Eve, et Yergeau, François, « Extensible Markup Language (XML) 1.0 », <hi rend="italic">Recommandation du W3C</hi>, 2008, <ref type="external" target="http://www.w3.org/TR/REC-xml/">http://www.w3.org/TR/REC-xml/</ref> (accédé le 30 août 2013).</p>
+    </note>
+    <note xml:id="editionModelN0006">
+        <p>Renear, Allen, Dubin, David, Sperberg-McQueen, C. Michael, et Huitfeldt, Claus, « XML semantics and digital libraries », <hi rend="italic">Proceedings of the 3rd ACM/IEEE-CS joint conference on Digital libraries</hi>, p. 304, 2003, <ref type="external" target="http://dl.acm.org/citation.cfm?id=827140.827192">http://dl.acm.org/citation.cfm?id=827140.827192</ref> (accédé le 9 septembre 2013).</p>
+    </note>
+    <note xml:id="editionModelN0007">
+        <p>Ide, Nancy M., et Sperberg-McQueen, C. Michael, « The Text Encoding Initiative: Its History, Goals, and Future Development », dans <hi rend="italic">Computers and the Humanities</hi>, editor. Nancy M. Ide et Jean Véronis vol. 29, 1995, p. 5-15, <ref type="external" target="http://www.cs.vassar.edu/~ide/papers/teiHistory.pdf">http://www.cs.vassar.edu/~ide/papers/teiHistory.pdf</ref> (accédé le 8 septembre 2013).</p>
+    </note>
+    <note xml:id="editionModelN0008">
+        <p><ref type="external" target="http://www.blakearchive.org">The William Blake Archive</ref>.</p>
+    </note>
+    <note xml:id="editionModelN0009">
+        <p><ref type="external" target="http://www.perseus.tufts.edu">Perseus Digital Library</ref>.</p> 
+    </note>
+    <note xml:id="editionModelN0010">
+        <p><ref type="external" target="http://www.rossettiarchive.org/">Rossetti Archive</ref>.</p>
+    </note>
+    <note xml:id="editionModelN0011">
+        <p><ref type="external" target="http://www.bvh.univ-tours.fr/">Les Bibliothèques Virtuelles Humanistes</ref>.</p> 
+    </note>
+    <note xml:id="editionModelN0012">
+        <p><ref type="external" target="http://elec.enc.sorbonne.fr/">Éditions en ligne de l'École des chartes (ELEC)</ref>.</p>
+    </note>
+    <note xml:id="editionModelN0013">
+        <p><ref type="external" target="http://www.cn-telma.fr/">Portail Telma</ref>.</p>
+    </note>
+    <note xml:id="editionModelN0014">
+        <p><ref type="external" target="http://hyperdonat.tge-adonis.fr/">Hyperdonat</ref>.</p>
+    </note>
+    <note xml:id="editionModelN0015">
+        <p>Ide, Nancy M., et Sperberg-McQueen, C. Michael, « The Text Encoding Initiative: Its History, Goals, and Future Development », dans <hi rend="italic">Computers and the Humanities</hi>, editor. Nancy M. Ide et Jean Véronis vol. 29, 1995, p. 5-15, <ref type="external" target="http://www.cs.vassar.edu/~ide/papers/teiHistory.pdf">http://www.cs.vassar.edu/~ide/papers/teiHistory.pdf</ref> (accédé le 8 septembre 2013).</p>
+    </note>
+    <note xml:id="editionModelN0016">
+        <p>Cayless, Hugh, « TEI is a text modelling language », <hi rend="italic">Scriptio Continua</hi>, 11 janvier 2011, <ref type="external" target="http://philomousos.blogspot.fr/2011/01/tei-is-text-modelling-language.html">http://philomousos.blogspot.fr/2011/01/tei-is-text-modelling-language.html</ref> (accédé le 30 juillet 2013).</p>
+    </note>
+    <note xml:id="editionModelN0017">
+        <p>Cayless, Hugh, « TEI is a text modelling language », <hi rend="italic">Scriptio Continua</hi>, 11 janvier 2011, <ref type="external" target="http://philomousos.blogspot.fr/2011/01/tei-is-text-modelling-language.html">http://philomousos.blogspot.fr/2011/01/tei-is-text-modelling-language.html</ref> (accédé le 30 juillet 2013).</p>
+    </note>
+    <note xml:id="editionModelN0018">
+        <p>Buzzetti, Dino, « Digital Representation and the Text Model », <hi rend="italic">New Literary History</hi>, n° 33, 2002, p. 61-88, <ref type="external" target="http://www.cch.kcl.ac.uk/legacy/teaching/avmlit/readings/Buzzetti,%20Digital%20representatio n%20and%20the%20text%20model.pdf">http://www.cch.kcl.ac.uk/legacy/teaching/avmlit/readings/Buzzetti,%20Digital%20representatio n%20and%20the%20text%20model.pdf</ref> (accédé le juillet 2013).</p>
+    </note>
+    <note xml:id="editionModelN0019">
+        <p>Schmidt, Desmond, « The inadequacy of embedded markup for cultural heritage texts », <hi rend="italic">Literacy and Linguistic Computing</hi>, n° 3, t. 25, 2010, p. 337-356.</p>
+    </note>
+    <note xml:id="editionModelN0020">
+        <p>Hayles, Katherine, « Print Is Flat, Code Is Deep: The Importance of Media-Specific Analysis », <hi rend="italic">Poetics Today</hi>, n° 1, t. 25, 2004, p. 67-90.</p>
+    </note>
+    <note xml:id="editionModelN0021">
+        <p>Sperberg-McQueen, C. Michael, Burnard, Lou, et Bauman, Syd, <hi rend="italic">TEI P5 : Guidelines for Electronic Text Encoding and Interchange</hi>, <ref type="external" target="http://www.tei-c.org/Guidelines/P5/">http://www.tei-c.org/Guidelines/P5/</ref> (accédé le 31 août 2013), 23.3.</p>
+    </note>
+    <note xml:id="editionModelN0022">
+        <p>Sperberg-McQueen, C. Michael, Burnard, Lou, et Bauman, Syd, <hi rend="italic">TEI P5 : Guidelines for Electronic Text Encoding and Interchange</hi>, <ref type="external" target="http://www.tei-c.org/Guidelines/P5/">http://www.tei-c.org/Guidelines/P5/</ref> (accédé le 31 août 2013), Chapitre 22.</p>
+    </note>
+    <note xml:id="editionModelN0023">
+        <p><ref type="external" target="http://www.tei-c.org/Roma/">Roma: generating customizations for the TEI</ref>.</p>
+    </note>
+    <note xml:id="editionModelN0024"
+        >
+        <p>Marsh, Jonathan, Orchard, David, et Veillard, Danier, XML Inclusions (XInclude), <hi rend="italic">Recommandation du W3C</hi>, 2006, <ref type="external" target="http://www.w3.org/TR/xinclude/">http://www.w3.org/TR/xinclude/</ref> (accédé le 8 septembre 2013).</p>
+    </note>
+    <note xml:id="editionModelN0025">
+        <p><ref type="external" target="http://www.bnf.fr/fr/professionnels/normes_catalogage/a.ead_demarch.html">DeMArch Description des manuscrits et fonds d'archives modernes et contemporains en bibliothèque</ref>.</p>
+    </note>
+    <note xml:id="editionModelN0026">
+        <p>Lou Burnard ed., <hi rend="itali">The ENRICH Schema – A Reference Guide</hi>, <ref type="external" target="http://projects.oucs.ox.ac.uk/ENRICH/">http://projects.oucs.ox.ac.uk/ENRICH/</ref> (accédé le 4 avril 2013) ; Hawkins, Kevin, Dalmau, Michelle, et Bauman, Syd, <hi rend="italic">Best Practices for TEI in Libraries</hi>, <ref type="external" target="http://www.tei-c.org/SIG/Libraries/teiinlibraries/main-driver.html">http://www.tei-c.org/SIG/Libraries/teiinlibraries/main-driver.html</ref> (accédé le 9 septembre 2013).</p>
+    </note>
+    <note xml:id="editionModelN0027">
+        <p>Glorieux, Frédéric, et Jolivet, Vincent, « weboai, Human web interface on OAI repository », <hi rend="italic">SourceForge</hi>, <ref type="external" target="http://weboai.sourceforge.net">http://weboai.sourceforge.net</ref> (accédé le 9 septembre 2013).</p>
+    </note>
+    <note xml:id="editionModelN0028">
+        <p>Buquet, Thierry, et Guillaud, Hubert, « L’encodage TEI : qui doit encoder ? Emmanuelle Morlock- Gerstenkorn de l'ISH de Lyon », <hi rend="italic">That Camp Paris 2010</hi>, <ref type="external" target="http://tcp.hypotheses.org/392">http://tcp.hypotheses.org/392</ref> (accédé le 30 août 2013).</p>
+    </note>
+    <note xml:id="editionModelN0029">
+        <p>Cayless, Hugh, « Interfaces and Models », <hi rend="italic">Scriptio Continua</hi>, 20 janvier 2011, <ref type="external" target="http://philomousos.blogspot.fr/2011/01/interfaces-and-models.html">http://philomousos.blogspot.fr/2011/01/interfaces-and-models.html</ref> (accédé le 30 juillet 2013).</p>
+    </note>
+    <note xml:id="editionModelN0030">
+        <p>Sebastian Rahtz, <ref type="external" target="https://github.com/TEIC/Stylesheets">TEIC/Stylesheets</ref>.</p>
+    </note>
+    <note xml:id="editionModelN0031">
+        <p><ref type="external" target="http://www.tei-c.org/oxgarage/">OxGarage</ref>.</p>
+    </note>
+    <note xml:id="editionModelN0032">
+        <p>« Expression rationnelle », <hi rend="italic">Wikipédia</hi>, <ref type="external" target="http://fr.wikipedia.org/wiki/Expression_rationnelle">http://fr.wikipedia.org/wiki/Expression_rationnelle</ref> (accédé le 8 septembre 2013).</p>
+    </note>
+    <!--<note xml:id="editionModelN0004">
+        <p><bibl copyOf="#Fleury"/>, livre...</p>
+    </note>-->
 </div>
