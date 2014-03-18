@@ -1143,10 +1143,7 @@
                                     macrostructure en utilisant l’attribut <att>type</att>. La liste
                                     fermée des types de division doit encore être restreinte par le
                                     schéma.</p>
-                                <figure place="inline">
-                                    <graphic url="files/desgodetsMacrostructure.jpg"/>
-                                    <head>Macrostructure XML-TEI de l’édition</head>
-                                </figure>
+                                <figure type="illustration" copyOf="#editionModelIll0001"/>
                                 <p>Les manuscrits des servitudes présentaient quant à eux un cas de
                                     figure moins courant. S’agissant pour l’un d’un recueil de
                                     coutumes, pour l’autre d’un commentaire sur la coutume de Paris,
@@ -1189,10 +1186,7 @@
                                         type="note" target="#editionModelN0024" />. En appliquant la même norme, on a traité séparément
                                     certaines section du fichier dans un répertoire séparé intitulé
                                         <soCalled>divs</soCalled>.</p>
-                                <figure place="inline">
-                                    <graphic url="files/desgodetsSystemeDeFichiers.jpg"/>
-                                    <head>Système de fichier mis en œuvre</head>
-                                </figure>
+                                <figure type="illustration" copyOf="#editionModelIll0002"/>
                                 <p>Dès lors que l’on employait cette structure pour chacun des
                                     cours, il a paru logique d’adopter la même pour l’ensemble du
                                     corpus des cours de Desgodets. Cette configuration a par la
@@ -1474,16 +1468,8 @@
                             marquer simplement avec la TEI ne sont pas facilement enregistrables
                             avec un traitement de texte. Si l’encodage n’est qu’un moyen, ce défaut
                             d’expressivité ne va pas sans poser problème.</p>
-                        <figure place="inline">
-                            <graphic url="files/desgodetsEditeurXML.png"/>
-                            <head>Vue d’écran de l’édition d’un fichier XML-TEI avec l’éditeur
-                                Oxygen</head>
-                        </figure>
-                        <figure place="inline">
-                            <graphic url="files/desgodetsEditeurAuteur.png"/>
-                            <head>Vue d’écran de l’édition d’un fichier XML-TEI avec le mode auteur
-                                l’éditeur Oxygen</head>
-                        </figure>
+                        <figure type="illustration" copyOf="#editionModelIll0003"/>
+                        <figure type="illustration" copyOf="#editionModelIll0004"/>
                         <p>Il aurait été possible de proposer aux auteurs de l’édition de travailler
                             avec le mode auteur de l’éditeur XML Oxygen. Une telle solution
                             présentait l’avantage de concilier à la fois un environnement de type
@@ -1617,10 +1603,7 @@
                                     type="note" target="#editionModelN0031" />, afin de récupérer un premier fichier XML-TEI que l’on a
                                 ensuite raffiné en lui appliquant plusieurs transformations
                                 successives en fonction des cas de figure.</p>
-                            <figure place="inline">
-                                <graphic url="files/desgodetsProduction.jpg"/>
-                                <head>Chaîne de production des fichiers encodés de l’édition</head>
-                            </figure>
+                            <figure type="illustration" copyOf="#editionModelIll0005"/>
                             <p>Ce n’est donc pas une chaîne de traitement complètement automatisée
                                 qui a été mise en place. Faute de temps, il n’a malheureusement pas
                                 été possible de reprendre les feuilles de styles que nous avions
@@ -1828,7 +1811,6 @@
                             dispose d’une bonne connaissance de la TEI.</p>
                     </div>
                 </div>
-
             </div>
         </body>
         <back xml:id="editionModelBack">
@@ -1842,10 +1824,10 @@
                 <!-- lien vers le fichier à télécharger -->
                 <div xml:id="editionModelBackFr02" type="downloads">
                     <head>Téléchargements</head>
-                    <p>
+                    <!--<p>
                         <ref type="file" target="../../files/programme2010.pdf"
                             mimeType="application/pdf">Programme</ref>
-                    </p>
+                    </p>-->
                     <p>
                         <ref type="file" target="../../schema/desgodetsSchemaTEI.rnc"
                             mimeType="application/xml">Schéma RelaxNG</ref>
@@ -1861,54 +1843,64 @@
                     <head>Liste des figures</head>
                     <figure xml:id="editionModelIll0001" type="illustration">
                         <figDesc>
-                            <title>Frontispice des édifices antiques</title>
-                            <desc>Antoine Desgodets, <hi rend="italic">Les édifices antiques</hi>,
-                                frontispice.</desc>
+                            <title>Macrostructure XML-TEI de l’édition</title>
+                            <desc/>
                         </figDesc>
-                        <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0001.jpg"
+                        <graphic n="thumb" url="../../images/medium/desgodetsMacrostructure.jpg"
                             mimeType="image/jpeg"/>
-                        <graphic n="medium" url="../../images/medium/desgodetsEdifices0001.jpg"
+                        <graphic n="medium" url="../../images/medium/desgodetsMacrostructure.jpg"
                             mimeType="image/jpeg"/>
-                        <graphic n="full" url="../../images/full/desgodetsEdifices0001.jpg"
+                        <graphic n="full" url="../../images/medium/desgodetsMacrostructure.jpg"
+                            mimeType="image/jpeg"/>
+                    </figure>
+                    <figure xml:id="editionModelIll0002" type="illustration">
+                        <figDesc>
+                            <title>Système de fichier mis en œuvre</title>
+                            <desc/>
+                        </figDesc>
+                        <graphic n="thumb" url="../../images/medium/desgodetsSystemeDeFichiers.jpg"
+                            mimeType="image/jpeg"/>
+                        <graphic n="medium" url="../../images/medium/desgodetsSystemeDeFichiers.jpg"
+                            mimeType="image/jpeg"/>
+                        <graphic n="full" url="../../images/medium/desgodetsSystemeDeFichiers.jpg"
                             mimeType="image/jpeg"/>
                     </figure>
                     <figure xml:id="editionModelIll0003" type="illustration">
                         <figDesc>
-                            <title>Dédicace</title>
-                            <desc>Antoine Desgodets, <hi rend="italic">Les édifices antiques</hi>,
-                                p. 9</desc>
+                            <title>Vue d’écran de l’édition d’un fichier XML-TEI avec l’éditeur
+                                Oxygen</title>
+                            <desc/>
                         </figDesc>
-                        <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0001.jpg"
+                        <graphic n="thumb" url="../../images/medium/desgodetsEditeurXML.png"
                             mimeType="image/jpeg"/>
-                        <graphic n="medium" url="../../images/medium/desgodetsEdifices0001.jpg"
+                        <graphic n="medium" url="../../images/medium/desgodetsEditeurXML.png"
                             mimeType="image/jpeg"/>
-                        <graphic n="full" url="../../images/full/desgodetsEdifices0001.jpg"
+                        <graphic n="full" url="../../images/medium/desgodetsEditeurXML.png"
                             mimeType="image/jpeg"/>
                     </figure>
-                    <figure xml:id="editionModelIll0030" type="illustration">
+                    <figure xml:id="editionModelIll0004" type="illustration">
                         <figDesc>
-                            <title>Élévation antérieure du panthéon</title>
-                            <desc>Antoine Desgodets, <hi rend="italic">Les édifices antiques</hi>,
-                                p. 30</desc>
+                            <title>Vue d’écran de l’édition d’un fichier XML-TEI avec le mode auteur
+                                l’éditeur Oxygen</title>
+                            <desc/>
                         </figDesc>
-                        <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0001.jpg"
+                        <graphic n="thumb" url="../../images/medium/desgodetsEditeurAuteur.png"
                             mimeType="image/jpeg"/>
-                        <graphic n="medium" url="../../images/medium/desgodetsEdifices0001.jpg"
+                        <graphic n="medium" url="../../images/medium/desgodetsEditeurAuteur.png"
                             mimeType="image/jpeg"/>
-                        <graphic n="full" url="../../images/full/desgodetsEdifices0001.jpg"
+                        <graphic n="full" url="../../images/medium/desgodetsEditeurAuteur.png"
                             mimeType="image/jpeg"/>
                     </figure>
-                    <figure xml:id="editionModelIll0033" type="illustration">
+                    <figure xml:id="editionModelIll0006" type="illustration">
                         <figDesc>
-                            <title>Élévation latérale du panthéon</title>
-                            <desc>Antoine Desgodets, <hi rend="italic">Les édifices antiques</hi>,
-                                p. 33</desc>
+                            <title>Chaîne de production des fichiers encodés de l’édition</title>
+                            <desc/>
                         </figDesc>
-                        <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0001.jpg"
+                        <graphic n="thumb" url="../../images/medium/desgodetsProduction.jpg"
                             mimeType="image/jpeg"/>
-                        <graphic n="medium" url="../../images/medium/desgodetsEdifices0001.jpg"
+                        <graphic n="medium" url="../../images/medium/desgodetsProduction.jpg"
                             mimeType="image/jpeg"/>
-                        <graphic n="full" url="../../images/full/desgodetsEdifices0001.jpg"
+                        <graphic n="full" url="../../images/medium/desgodetsProduction.jpg"
                             mimeType="image/jpeg"/>
                     </figure>
                 </div>
