@@ -1684,11 +1684,15 @@
                            >églises</term> de <placeName>Saint Pierre au Vatican</placeName>, de <placeName><choice>
                               <abbr>S<hi rend="superscript">t</hi></abbr>
                               <expan>Saint</expan>
-                           </choice> Jean de latran</placeName>, <placeName>Saint Panervace</placeName>, <placeName><choice>
+                           </choice> Jean de latran</placeName>, <placeName>Saint Panervace</placeName><ref
+                              type="noteHistorical" target="#c2Nh0103"
+                           />, <placeName><choice>
                               <abbr>S<hi rend="superscript">t</hi></abbr>
                               <expan>Saint</expan>
                            </choice> Clément</placeName> et plusieurs autres à <placeName
-                           ref="#rome">Rome</placeName>. Mais quelquefois lorsque le <term type="gT"
+                              ref="#rome">Rome</placeName><ref
+                                 type="noteHistorical" target="#c2Nh0104"
+                              />. Mais quelquefois lorsque le <term type="gT"
                            ref="#chevet">chevet</term> de l’<term type="gT" ref="#eglise"
                            >église</term> étoit tourné à l’Occident, l’autel étoit tourné à l’Orient et le prestre en célébrant la messe avoit le dos tourné au presbitère et le visage à l’Orient, et il regardoit le peuple qui étoit tourné à l’Occident, pour regarder l’autel, cet usage est encore subsistant à <placeName
                            ref="#rome">Rome</placeName>.</p>
@@ -1696,7 +1700,9 @@
                         <hi rend="bigger"
                            >Cependent</hi> depuis il avoit étoit étably, surtout <date>au commençement du huitième siècle</date> au Tems de <persName>Charlemagne</persName> et de <persName>Louis de Bonnaire</persName>, que les <term
                            type="gT" ref="#eglise"
-                           >églises</term> seroient régulièrement tournées à l’Orient, et l’usage en avoit longtemps prevalu. Mais il paroit que depuis environ le commençement du seizième siècle, cet usage est absolument changé, principalement en France. Plusieurs graves auteurs ecclésiastiques ayant fait connoître que l’on peut offrir à Dieu ses prières publiques, et le divin sacrifice de la messe, de tous les côtés du monde, c'est-à-dire de quelque côté que les <term
+                              >églises</term> seroient régulièrement tournées à l’Orient, et l’usage en avoit longtemps prevalu<ref
+                                 type="noteHistorical" target="#c2Nh0105"
+                              />. Mais il paroit que depuis environ le commençement du seizième siècle, cet usage est absolument changé, principalement en France. Plusieurs graves auteurs ecclésiastiques ayant fait connoître que l’on peut offrir à Dieu ses prières publiques, et le divin sacrifice de la messe, de tous les côtés du monde, c'est-à-dire de quelque côté que les <term
                            type="gT" ref="#eglise"
                         >églises</term> et les autels soient tournées ; par la raison que Dieu est également partout et qu’il est présens en tous lieux.</p>
                      <p xml:id="c2BodyFr01.01.008.p011">
@@ -1705,23 +1711,32 @@
                            >églises</term>, ce qu’il y a de certain est qu’en les bâtissant, il est plus à propos de s’accommoder au terrein, à la situation du lieu, et à l’abord de leur entrée, pour la <pb
                            xml:id="c2F21v" n="p40"/> commodité du peuple ; et leur <term type="gT"
                            ref="#portique"
-                        >portique</term> être en vue aux passants, pour attirer leur regard et les inviter d’y aller rendre leur adoration et offrir leurs prières à Dieu, sans s’arrêter à ces traditions des moyens tems, qui n’ont aucun fondement de raport à la Religion Chrétienne.</p>
+                              >portique</term> être en vue aux passants, pour attirer leur regard et les inviter d’y aller rendre leur adoration et offrir leurs prières à Dieu, sans s’arrêter à ces traditions des moyens tems, qui n’ont aucun fondement de raport à la religion chrétienne<ref
+                                 type="noteHistorical" target="#c2Nh0106"/>.</p>
                      <p xml:id="c2BodyFr01.01.008.p012">
                         <hi rend="bigger"
-                        >Par</hi> les raisons marquées cy dessus, le maitre autel doit toujours être en face du peuple, pour que le célébrant et le peuple ayent leur visage tourné du même côté, puisqu’ils ne composent tous ensemble qu’une même Église, qu’ils offrent tous le même Sacrifice et que leurs prières sont communes.</p>
+                           >Par</hi> les raisons marquées cy dessus, le maitre autel doit toujours être en face du peuple<ref
+                              type="noteHistorical" target="#c2Nh0107"
+                           />, pour que le célébrant et le peuple ayent leur visage tourné du même côté, puisqu’ils ne composent tous ensemble qu’une même Église, qu’ils offrent tous le même Sacrifice et que leurs prières sont communes.</p>
                      <!-- NOT S'agit-il d'une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.01.008.p013">
                         <hi rend="bigger"
-                           >Anciennement</hi> Les autels étoient des tables de bois, à l’imitation de celle où <persName
+                           >Anciennement</hi> Les autels étoient des tables de bois<ref
+                              type="noteHistorical" target="#c2Nh0108"
+                           />, à l’imitation de celle où <persName
                            ref="#jesusChrist"
-                        >nostre Seigneur Jésus Christ</persName> institua et célèbra la première fois le Saint Sacrifice de son corps et de son sang, laqu’elle vray semblablement étoit de bois, et la même ou il avoit soupé avec ses apôtres. Leurs premiers disciples qui furent apellés au sacerdoce, ne se servirent point d’autres autels, que des tables de bois, qu’ils placoient selon qu’il pouvoient aux lieux, où ils célébroient le Saint sacrifice de la messe. On fit ensuitte ses tables de pierre, de marbre, de porphire, de bronze, d’or, d’argent. Mais l’usage est resté de célébrer la messe sur des tables de pierre, soit marbre, porphire ou autres, et lorsque les autels sont de bois ou de metail, on y encastre au milieu, par le dessus, une pierre carrée sur laquelle on pose l’hostie et le calice.</p>
+                              >nostre seigneur Jésus Christ</persName> institua et célèbra la première fois le saint sacrifice de son corps et de son sang, laqu’elle vray semblablement étoit de bois, et la même ou il avoit soupé avec ses apôtres. Leurs premiers disciples qui furent apellés au sacerdoce, ne se servirent point d’autres autels, que des tables de bois, qu’ils placoient selon qu’il pouvoient aux lieux, où ils célébroient le saint sacrifice de la messe. On fit ensuitte ses tables de pierre, de marbre, de porphire, de bronze, d’or, d’argent<ref
+                                 type="noteHistorical" target="#c2Nh0109"
+                              />. Mais l’usage est resté de célébrer la messe sur des tables de pierre, soit marbre, porphire ou autres, et lorsque les autels sont de bois ou de metail, on y encastre au milieu, par le dessus, une pierre carrée sur laquelle on pose l’hostie et le calice.</p>
                      <p xml:id="c2BodyFr01.01.008.p014">
                         <hi rend="bigger"
                            >Les tables</hi> d’autels étoient toutes unies, sans gradins dessus, creuses et vuides par le dessous, soutenues par quatre pilliers ou petites <term
                            type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
-                           </choice></term>, de même matière que l’autel, comme il est représenté aux autels des deux et quatrième figure du <ref>huitième dessein</ref>.</p>
+                           </choice></term>, de même matière que l’autel<ref
+                              type="noteHistorical" target="#c2Nh0110"
+                           />, comme il est représenté aux autels des deux et quatrième figure du <ref>huitième dessein</ref>.</p>
                      <p xml:id="c2BodyFr01.01.008.p015">
                         <hi rend="bigger"
                            >Pendant</hi> les persécutions de l’Église, comme il n’y avoit pas eu de seureté à dire la messe dans les lieux qui servoient ordinairement d’<term
@@ -1731,14 +1746,18 @@
                         <figure type="plate" copyOf="#c2Pl0008"/>
                         <pb xml:id="c2F22v" n="p42"/>
                         <pb xml:id="c2F23r" n="p43"
-                        /> dans des cavernes, carrières ou grottes, sousterreines, ils y enterrèrent aussy les corps de ceux qui avoient été martirisés et souffert la mort pour la confession de la foy, ce qui a donnée ce nom de catacombes à ses lieux souterreins.</p>
+                        /> dans des cavernes, carrières<ref type="noteHistorical"
+                           target="#c2Nh0111"
+                        /> ou grottes, sousterreines, ils y enterrèrent aussy les corps de ceux qui avoient été martirisés et souffert la mort pour la confession de la foy, ce qui a donnée ce nom de catacombes à ses lieux souterreins<ref
+                           type="noteHistorical" target="#c2Nh0112"/>.</p>
                      <p xml:id="c2BodyFr01.01.008.p016">
                         <hi rend="bigger"
                            >On</hi> plaçoit autant qu’il étoit possible les autels sur la sépulture de quelques martires, ensuitte comme on avoit coutume de s’assembler à leurs tombeaux, on y bâtit des <term
                            type="gT" ref="#eglise"
                            >églises</term>, ou bien on transféroit leur corps, aux lieux où elles étoient bâties. De là est venu l’ancienne et constante tradition de ne point dédier d’<term
                            type="gT" ref="#eglise"
-                        >église</term> n’y de consacrer d’autels sans y mettre des Reliques des Martyres, ce qui fait qu’aux petites pierres que l’on encastre sur les autels de bois ou de metail, on y fait par le dessous ou par le coté de la pierre un trou de trepan dans lequel l’Evêque en la consacrant y enferme quelque particules de Reliques.</p>
+                              >église</term> n’y de consacrer d’autels sans y mettre des reliques des martyres, ce qui fait qu’aux petites pierres que l’on encastre sur les autels de bois ou de metail, on y fait par le dessous ou par le coté de la pierre un trou de trepan dans lequel l’Evêque en la consacrant y enferme quelque particules de reliques<ref
+                                 type="noteHistorical" target="#c2Nh0113"/>.</p>
                      <p xml:id="c2BodyFr01.01.008.p017">
                         <hi rend="bigger"
                            >On</hi> apelloit mémoire ou confession les sépulcres des martyres, c’étoit pour l’ordinaire de petits caveaux sous terre, ayant quelque fois une ouverture par le haut de leur <term
@@ -1761,16 +1780,19 @@
                            rend="superscript"
                            >e</hi> figure. Depuis le prêtre portoit luy même un crucifix entre ses mains lorsqu’il alloit à l’autel, et le raportoit après la messe. Enfin le sacristain ou autre ministre inférieur, étoit chargé de mettre un crucifix sur l’autel à la grande messe, et ensuitte le retirer et le reporter à la sacristie. Aujourd’huy presque par toutes les <term
                            type="gT" ref="#eglise"
-                        >églises</term>, le crucifix reste toujours sur l’autel, comme G aux figures 6 et 7 il est même devenu un accompagnement et un ornement nécessaire à l’autel.</p>
+                              >églises</term>, le crucifix reste toujours sur l’autel, comme G aux figures 6 et 7 il est même devenu un accompagnement et un ornement nécessaire à l’autel<ref
+                                 type="noteHistorical" target="#c2Nh0114"/>.</p>
                      <p xml:id="c2BodyFr01.01.008.p020">
                         <hi rend="bigger"
-                           >Comme</hi> le sacrifice de la messe se faisoit au tems des apôtres, le soir à l’heure du soupé, ainsy qu’il paroit par le onzième chapitre de la première Épitre de <persName>St Paul</persName> aux Corinthiens de même lorsque les Chrétiens s’assembloient, dans les catacombes pour célébrer l’office divin, ils avoient besoin d’être éclairés par des lampes ou autres luminaires. La coutume s’en introduite de mettre des cièrges alumées aux environs de l’autel pendant la Messe, et depuis que l’on a exposé un crucifix sur l’autel, ont y a aussy mis des chandelliers avec des cierges posés sur le marche pied au derrière de l’autel, comme H aux figures 1.2.4.5.6. et 7. pour marque d’honneur et de vénération, ainsy que Dieu avoit ordonné à <persName>Moyse</persName> de mettre dans la parties intérieur du sanctuaire du Temple, sept lampes continuellement allumées sur un chandelier d’or à sept branches, posé sur le pavé au devant de l’arc d’alliance.</p>
+                           >Comme</hi> le sacrifice de la messe se faisoit au tems des apôtres, le soir à l’heure du soupé, ainsy qu’il paroit par le onzième chapitre de la première Épitre de <persName>St Paul</persName> aux Corinthiens de même lorsque les chrétiens s’assembloient, dans les catacombes pour célébrer l’office divin, ils avoient besoin d’être éclairés par des lampes ou autres luminaires. La coutume s’en introduite de mettre des cièrges alumées aux environs de l’autel pendant la Messe, et depuis que l’on a exposé un crucifix sur l’autel, ont y a aussy mis des chandelliers avec des cierges posés sur le marche pied au derrière de l’autel, comme H aux figures 1.2.4.5.6. et 7. pour marque d’honneur et de vénération, ainsy que Dieu avoit ordonné à <persName>Moyse</persName> de mettre dans la parties intérieur du sanctuaire du Temple, sept lampes continuellement allumées sur un chandelier d’or à sept branches, posé sur le pavé au devant de l’arc d’alliance.</p>
                      <pb xml:id="c2F24r" n="p45"/>
                      <p xml:id="c2BodyFr01.01.008.p021">
                         <hi rend="bigger">Soit</hi> que les autels fussent posées au dessus des sépultures des <choice>
                            <abbr>S<hi rend="superscript">ts</hi></abbr>
-                           <expan>Saints</expan>
-                        </choice> Martyres, ou que leurs Reliques fussent misent dans des chazes placés sous le creux de l’autel, le pourtour entre les pilliers, ou petites <term
+                           <expan>saints</expan>
+                        </choice> martyres, ou que leurs reliques fussent misent dans des chazes placés sous le creux de l’autel<ref
+                           type="noteHistorical" target="#c2Nh0115"
+                        />, le pourtour entre les pilliers, ou petites <term
                            type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
@@ -1784,13 +1806,17 @@
                         <hi rend="bigger"
                            >Anciennement</hi> on reservoit la sainte eucharistie pour les malades, dans des boëtes, ou vazes que l’on a depuis nommé ciboire comme on fait encore à présent, on enfermoit ces vazes dans des armoires creusées dans les murs de l’<term
                            type="gT" ref="#eglise"
-                           >église</term> à côté du sanctuaire. Où on les portoit dans la sacristie, pour y être conservées avec plus de seureté, lorsque la liberté de la religion chrétienne fut établie, on suspendit ses vazes ou étoit l’eucharistie au dessus de l’autel sous le petit <term
+                              >église</term> à côté du sanctuaire<ref
+                                 type="noteHistorical" target="#c2Nh0116"
+                              />. Où on les portoit dans la sacristie, pour y être conservées avec plus de seureté, lorsque la liberté de la religion chrétienne fut établie, on suspendit ses vazes ou étoit l’eucharistie au dessus de l’autel sous le petit <term
                            type="gT" ref="#pavillon"
                            >pavillon</term> K d’étoffe précieuse, enrichie de broderie, qui les couvroient presque de toutes parts, ces vazes étoient enfermés dans de petits tabernacles, fait de différentes formes, il y en avoit en manières de tour d’ivoire d’argent ou d’or L, comme 2, 3 et 4<hi
                            rend="superscript"
                            >e</hi> figures. d’autres qui étoient la forme la plus ordinaire, représentoient une colombe M aux 6 et 7<hi
                            rend="superscript"
-                           >e</hi> figures, dont le corps s’ouvroit pour y enfermer le ciboire où étoit l’eucharistie. Ces petits tabernacles, étoient suspendus avec des chaines de metail, ou des cordons de soye, qui passoient au long du dedans d’une crosse N, creuse faîte de metail ou de bois garnies de petites poulies pour descendre le tabernacle sur l’autel, et le remonter ensuitte à une hauteur asses élevée pour qu’on y put toucher, ces chaînes ou cordons étoient arrêtées par le bas dans de petites armoires qui fermoient à clef, <pb
+                              >e</hi> figures, dont le corps s’ouvroit pour y enfermer le ciboire où étoit l’eucharistie. Ces petits tabernacles, étoient suspendus avec des chaines de metail, ou des cordons de soye, qui passoient au long du dedans d’une crosse N, creuse faîte de metail ou de bois garnies de petites poulies pour descendre le tabernacle sur l’autel<ref
+                                 type="noteHistorical" target="#c2Nh0118"
+                              />, et le remonter ensuitte à une hauteur asses élevée pour qu’on y put toucher, ces chaînes ou cordons étoient arrêtées par le bas dans de petites armoires qui fermoient à clef, <pb
                            xml:id="c2F24v" n="p46"
                         /> attachées au derrière de la tige de la crosse le tout ensemble se nommoit et se nomme encore, suspension, la crosse étoit le symbole de la houlette du bon pasteur.</p>
                      <p xml:id="c2BodyFr01.01.008.p023">
@@ -1800,18 +1826,35 @@
                         <hi rend="bigger"
                            >Depuis</hi> pour une plus grande vénération, pour le saint sacrement l’autel et tous le planum du sanctuaire, fut couvert d’une <term
                            type="gT" ref="#coupole">coupole</term> ou <term type="gT" ref="#voute"
-                           >voûte</term> en façon de dais, soutenues les uns de six colonnes, les autres de quatre comme sont ceux que l’on voit à <placeName
+                              >voûte</term> en façon de dais, soutenues les uns de six colonnes<ref
+                                 type="noteHistorical" target="#c2Nh0119"
+                              />, les autres de quatre comme sont ceux que l’on voit à <placeName
                            ref="#rome"
-                           >Rome</placeName>, aux églises de <placeName>St Jean de l’atran</placeName>, de <placeName>St Pierre au Vatican</placeName>, de <placeName>St Paul</placeName>, de <placeName>Ste Marie Majeure</placeName>, de <placeName>S. Laurant</placeName>, de <placeName>Ste Cicille au delà du Tibre</placeName>, de <placeName>Ste Sabine</placeName>, de <placeName>St Alexis</placeName>, de <placeName>St Panerace</placeName>, de <placeName>St Eustache</placeName>, de <placeName>St Nercé</placeName>, de <placeName>St achille</placeName> et les autres. Les anciens apelloient ces sortes de dais un ciboire, parce que les premiers qui furent faits, avoient leurs <term
+                                 >Rome</placeName>, aux églises de <placeName>St Jean de l’atran</placeName>, de <placeName>St Pierre au Vatican</placeName>, de <placeName>St Paul</placeName><ref
+                                    type="noteHistorical" target="#c2Nh0120"
+                                 />, de <placeName>Ste Marie Majeure</placeName>, de <placeName>S. Laurant</placeName><ref
+                                    type="noteHistorical" target="#c2Nh0121"
+                                 />, de <placeName>Ste Cecille au delà du Tibre</placeName><ref type="noteHistorical"
+                                    target="#c2Nh0122"
+                                 />, de <placeName>Ste Sabine</placeName>, de <placeName>St Alexis</placeName>, de <placeName>St Pancrace</placeName><ref
+                                    type="noteHistorical" target="#c2Nh0123"/>, de <placeName>St Eustache</placeName><ref
+                                       type="noteHistorical" target="#c2Nh0124"
+                                    />, de <placeName>St Nercé</placeName>, de <placeName>St achille</placeName><ref type="noteHistorical"
+                                       target="#c2Nh0125"
+                                    /> et les autres. Les anciens apelloient ces sortes de dais un ciboire, parce que les premiers qui furent faits, avoient leurs <term
                            type="gT" ref="#voute"
-                        >voûtes</term> élevées en forme d’une coupe renversée, qu’ils nommoient ciboria du nom d’un certain fruit d’Egipte qui avoit une coque dont on faisoit des coupes à boire.</p>
+                                       >voûtes</term> élevées en forme d’une coupe renversée, qu’ils nommoient ciboria du nom d’un certain fruit d’Egipte qui avoit une coque dont on faisoit des coupes à boire<ref
+                                          type="noteHistorical" target="#c2Nh0126"
+                                       />.</p>
                      <p xml:id="c2BodyFr01.01.008.p025">
                         <hi rend="bigger"
                            >Présentement</hi> le nom de ciboire a été uniquement attribué aux vazes où on met la sainte Eucharistie et l’édiffice qui couvre l’autel se nomme <term
                            type="gT" ref="#baldaquin"
                            >baldaquin</term>, non qui vient d’Italie, et signifie un dais en françois du milieu de ces <term
                            type="gT" ref="#baldaquin"
-                        >baldaquins</term> on suspendoit les petits tabernacles où on enfermoit l’Eucharistie, la chaîne ou cordon de la suspension couloit au long d’une des colonnes qui avoit sa petite armoire par le bas en dedans du sanctuaire, avec cette precaution que la chaine ou le cordon de la suspension fut enfermée hors la portée de la main, et qui luy eut que les prestres, qui la puissent faire descendre en ouvrant la petite armoire.</p>
+                              >baldaquins</term><ref
+                                 type="noteHistorical" target="#c2Nh0127"
+                              /> on suspendoit les petits tabernacles où on enfermoit l’Eucharistie, la chaîne ou cordon de la suspension couloit au long d’une des colonnes qui avoit sa petite armoire par le bas en dedans du sanctuaire, avec cette precaution que la chaine ou le cordon de la suspension fut enfermée hors la portée de la main, et qui luy eut que les prestres, qui la puissent faire descendre en ouvrant la petite armoire.</p>
                      <p xml:id="c2BodyFr01.01.008.p026">
                         <hi rend="bigger">Entre</hi> les colonnes qui soutenoient la <term type="gT"
                            ref="#voute">voûte</term> du ciboire, ou <term type="gT" ref="#baldaquin"
@@ -1822,12 +1865,16 @@
                            >baldaquins</term> à six <term type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
-                           </choice></term> est représentée <pb xml:id="c2F25r" n="p47"/>
+                           </choice></term><ref
+                              type="noteHistorical" target="#c2Nh0128"
+                           /> est représentée <pb xml:id="c2F25r" n="p47"/>
                         <pb xml:id="c2F25v" n="p48"/>
                         <figure type="plate" copyOf="#c2Pl0009"/>
                         <pb xml:id="c2F26r" n="p49"/> sur le <ref>huitième dessein</ref>, la 5<hi
                            rend="superscript"
-                           >e</hi> figure en est le plan lequel est exagone pour donner plus d’espace au Planum qui environne l’autel de toutes parts. La 6<hi
+                           >e</hi> figure en est le plan lequel est exagone<ref
+                              type="noteHistorical" target="#c2Nh0129"
+                           /> pour donner plus d’espace au Planum qui environne l’autel de toutes parts. La 6<hi
                            rend="superscript"
                            >e</hi> figure est la moitié de l’élévation extérieure dont le plan de l’entablement qui pose sur les <term
                            type="gT" ref="#colonne"><choice>
@@ -1842,12 +1889,17 @@
                   <div xml:id="c2BodyFr01.01.009" type="section" n="9">
                      <p xml:id="c2BodyFr01.01.009.p001">
                         <hi rend="bigger bold"
-                           >Le baptistère étoit ordinairement un</hi> édifice particulier, proche mais séparé de l’église. On voit à <placeName
+                           >Le baptistère<ref type="noteHistorical" target="#c2Nh0130"
+                           /> étoit ordinairement un</hi> édifice particulier, proche mais séparé de l’église. On voit à <placeName
                            ref="#rome"
                            >Rome</placeName> le <placeName>Baptistère de Constantin</placeName>, qui est à présent une chapelle dédiée à <persName>St Jean Baptiste</persName>, à côté de l’<placeName>église de <choice>
                               <abbr>St</abbr>
                               <expan>Saint</expan>
-                           </choice> Jean de Latran</placeName>. On tient que c’étoit une des salles du <placeName>palais de <persName>Constatin</persName></placeName>, joignant son apartement, que cet empereur fit disposer selon l’ancien usage pour y recevoir le baptême. Le plan en est représente à la première figure du neuvième dessein, ce baptistère est précédé d’un <term
+                           </choice> Jean de Latran</placeName><ref
+                              type="noteHistorical" target="#c2Nh0131"
+                           />. On tient que c’étoit une des salles du <placeName>palais de <persName>Constatin</persName></placeName>, joignant son apartement, que cet empereur fit disposer selon l’ancien usage pour y recevoir le baptême<ref
+                              type="noteHistorical" target="#c2Nh0132"
+                           />. Le plan en est représente à la première figure du neuvième dessein, ce baptistère est précédé d’un <term
                            type="gT" ref="#vestibule">vestibule</term> ou <term type="gT"
                            ref="#portique"
                            >portique</term> A, dont l’entrée est soutenuë par deux <term type="gT"
@@ -1858,7 +1910,9 @@
                            >pilastres</term> de chacque côté sur un même allignement, qui forment ensemble la façade du <term
                            type="gT" ref="#portique">portique</term> de ce <term type="gT"
                            ref="#vestibule"
-                           >vestibule</term> on entre par une porte B dans le baptistère C qui est de figure octogone environné de murs, ornés de peinture huit <term
+                              >vestibule</term> on entre par une porte B dans le baptistère C qui est de figure octogone environné de murs, ornés de peinture<ref
+                                 type="noteHistorical" target="#c2Nh0133"
+                              />. Huit <term
                            type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
@@ -1880,7 +1934,8 @@
                      <pb xml:id="c2F26v" n="p50"/>
                      <p xml:id="c2BodyFr01.01.009.p002">
                         <hi rend="bigger"
-                        >Les</hi> fondts F étoient placés au milieu, c’étoit un grand bassin enfoncé dans terre, d’environ trois pieds 3/4 de profondeur. On y descendoit par des marches ou dégré pour entrer dans l’eau, car c’étoit proprement un bain.</p>
+                           >Les</hi> fondts F étoient placés au milieu, c’étoit un grand bassin enfoncé dans terre, d’environ trois pieds 3/4 de profondeur. On y descendoit par des marches ou dégré pour entrer dans l’eau, car c’étoit proprement un bain<ref
+                              type="noteHistorical" target="#c2Nh0134"/>.</p>
                      <p xml:id="c2BodyFr01.01.009.p003">
                         <hi rend="bigger"
                            >Les</hi> chapelles GH qui sont aux deux côtés étoient selon les aparences des chambres ou salles l’une pour se desabillier et se prépare à entrer dans les fonts, et l’autre pour y serrer les vases d’or et d’argent, pour garder les saintes huilles, ou pour verser l’eau, et les autres vazes nécessaire à la cérémonie du baptême. La porte I est opposé à celle de l’entrée du baptistère conduit à l’<placeName>église de St Jean de l’atran</placeName>.</p>
@@ -1894,7 +1949,8 @@
                            type="gT" ref="#portique"
                            >portique</term>, et une autre porte pour introduire les nouveaux baptisés, dans l’<term
                            type="gT" ref="#eglise"
-                        >église</term> après la cérémonie de leur baptême.</p>
+                              >église</term> après la cérémonie de leur baptême<ref
+                                 type="noteHistorical" target="#c2Nh0135"/>.</p>
                      <pb xml:id="c2F27r" n="p51"/>
                      <pb xml:id="c2F27v" n="p52"/>
                      <figure type="plate" copyOf="#c2Pl0010"/>
@@ -1902,7 +1958,9 @@
                      <!-- NOT S'agit-il d'une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.01.009.p006">
                         <hi rend="bigger bold"
-                           >Depuis</hi> environ le septième siècle, que l’usage a été reçu de sonner des cloches, pour avertir les fidelles d’aller à l’<term
+                           >Depuis</hi> environ le septième siècle, que l’usage a été reçu de sonner des cloches<ref
+                              type="noteHistorical" target="#c2Nh0136"
+                           />, pour avertir les fidelles d’aller à l’<term
                            type="gT" ref="#eglise"
                            >église</term>, aux heures de prières publiques de la messe et de l’office divin, et de la predication, les tours et clochers où on suspend les cloches, sont devenues des parties nécessaire aux <term
                            type="gT" ref="#edifice"><choice>
@@ -1933,16 +1991,21 @@
                <!-- Ière partie, Chapitre II -->
                <div xml:id="c2BodyFr01.02" type="chapter" n="2">
                   <head rend="alignCenter"><num>Chapitre 2<hi rend="superscript">e</hi></num>
-                     <lb/>Description des églizes <lb/>cathédralles</head>
+                     <lb/>Description des églizes <lb/>cathédralles<ref type="noteHistorical"
+                        target="#c2Nh0137"/></head>
                   <div xml:id="c2BodyFr01.02.001" type="section" n="1">
                      <p xml:id="c2BodyFr01.02.001.p001">
                         <hi rend="bigger bold">La religion chrétienne étant</hi>
                         <pb xml:id="c2F28v" n="p54"
-                           /> devenue la religion dominante, les royaumes et les empires entiers ayant embrassés la foy, une seule <term
+                        /> devenue la religion dominante<ref
+                           type="noteHistorical" target="#c2Nh0138"
+                        />, les royaumes et les empires entiers ayant embrassés la foy, une seule <term
                            type="gT" ref="#eglise"
                            >église</term> en chaque ville ne fut plus suffisante pour contenir tous les peuples. On fut obligé de bastir d’autres <term
                            type="gT" ref="#eglise"
-                           >églises</term>, dans les différens quartiers des villes, et d’y établir des prestres, pour y célébrer l’office divin, afin que chacun des fidelles pût assister commodément aux divins mystères, et aux instructions de la religion. Entretenant par le moyen l’union et l’uniformité entre tous les chrétiens, ces <term
+                              >églises</term>, dans les différens quartiers des villes, et d’y établir des prestres, pour y célébrer l’office divin, afin que chacun des fidelles pût assister commodément aux divins mystères, et aux instructions de la religion. Entretenant par le moyen l’union et l’uniformité entre tous les chrétiens<ref
+                                 type="noteHistorical" target="#c2Nh0139"
+                              />. Ces <term
                            type="gT" ref="#eglise"
                         >églises</term> quartinières furent nommées paroisses, et on nomma curé le principal prestre que l’évêque avoit chargé d’y faire les fonctions de pasteur à sa place.</p>
                      <p xml:id="c2BodyFr01.02.001.p002">
@@ -1960,7 +2023,9 @@
                      <p xml:id="c2BodyFr01.02.001.p004">
                         <hi rend="bigger"
                            >Ensorte</hi> qu’à présent on distingue de quatre sortes d’édifices d’<term
-                           type="gT" ref="#eglise">églises</term> publiques, sçavoir, les <term
+                              type="gT" ref="#eglise">églises</term> publiques<ref
+                                 type="noteHistorical" target="#c2Nh0140"
+                              />, sçavoir, les <term
                            type="gT" ref="#egliseCathedrale"
                            >églises cathédrales</term> quoi doivent être grandes et spacieuses pour contenir en certains jours de l’année, le concours des fidèlles du dioceze. Les <term
                            type="gT" ref="#egliseParoissiale"
@@ -1974,7 +2039,11 @@
                         <hi rend="bigger"
                            >Ce second chapitre</hi> contient les plans, élévations, coupes ou profils géométrale d’une <term
                            type="gT" ref="#egliseCathedrale"
-                           >église cathédrale</term>. Le premier dessein en est le plan du rez-de-chaussée, en forme de croix à la moderne, DEFG avec un <term
+                              >église cathédrale</term><ref
+                                 type="noteHistorical" target="#c2Nh0141"
+                              />. <ref>Le premier dessein</ref> en est le plan du rez-de-chaussée, en forme de croix à la moderne<ref
+                                 type="noteHistorical" target="#c2Nh0142"
+                              />, DEFG avec un <term
                            type="gT" ref="#dome">dôme</term> C au milieu qui sépare le <term
                            type="gT" ref="#chœur">chœur</term> D la <term type="gT" ref="#nef"
                            >nef</term> E et les <term type="gT" ref="#croisillon"
@@ -1985,14 +2054,15 @@
                            type="gT" ref="#pilastre"
                            >pilastres</term>, dont les deux dernières N au bout vers le <term
                            type="gT" ref="#chevet">chevet</term> de l’<term type="gT" ref="#eglise"
-                           >église</term>, sont destinés pour des sacristies. Les chapelles à la 'ééserve des sacristies, sont entièrement ouvertes du côté des latéreaux. Closes seulement par des grilles de fers, elles sont séparées les unes des autres par des murs de refands qui servent de buttées aux <term
+                           >église</term>, sont destinés pour des sacristies. Les chapelles à la réserve des sacristies, sont entièrement ouvertes du côté des latéreaux. Closes seulement par des grilles de fers, elles sont séparées les unes des autres par des murs de refands qui servent de buttées aux <term
                            type="gT" ref="#voute">voûtes</term> de la <term type="gT" ref="#nef"
                            >nef</term>, du <term type="gT" ref="#chœur"
                            >chœur</term>, et des galleries laterales, elles sont closes en dehors par les murs des face des flancs de l’<term
                            type="gT" ref="#eglise"
                         >église</term> où il y a un grand vitrail à chaque chapelle, servant à éclairer les Lateraux.</p>
                      <p xml:id="c2BodyFr01.02.001.p007">
-                        <hi rend="bigger">Le dôme</hi> occupe la largeur de la <term type="gT"
+                        <hi rend="bigger">Le dôme</hi><ref type="noteHistorical" target="#c2Nh0143"
+                        /> occupe la largeur de la <term type="gT"
                            ref="#nef"
                            >nef</term>, et des deux premières galleries laterales HI, son plan au rez de Chaussée est octogone à l’intérieur, et quarré à l’extérieur, formé par des pilastres d’allignement aux files de <term
                            type="gT" ref="#colonne"><choice>
@@ -2005,10 +2075,15 @@
                            ref="#arcDoubleau">arcs doubleaux</term> qui terminent les grandes <term
                            type="gT" ref="#voute">voûtes</term> de l’<term type="gT" ref="#eglise"
                            >église</term> du côté du <term type="gT" ref="#dome"
-                           >dôme</term>. Le <term type="gT" ref="#dome"
-                           >dôme</term> est soutenu par douze pilliers 1.2.3.4.5. groupées trois à trois, par des <term
+                              >dôme</term><ref
+                                 type="noteHistorical" target="#c2Nh0144"
+                              />. Le <term type="gT" ref="#dome"
+                                 >dôme</term> est soutenu par douze pilliers 1.2.3.4.5.<ref
+                                    type="noteHistorical" target="#c2Nh0145"
+                                 /> groupées trois à trois, par des <term
                            type="gT" ref="#arcade"
-                        >arcades</term> qui remplissent les angles du quarré et forme par le haut, les quatres massifs au derrière des pannaches de la grande voûte en pendentif du milieu.</p>
+                                    >arcades</term> qui remplissent les angles du quarré et forme par le haut, les quatres massifs au derrière des pannaches de la grande voûte en pendentif du milieu<ref
+                                       type="noteHistorical" target="#c2Nh0146"/>.</p>
                      <p xml:id="c2BodyFr01.02.001.p008">
                         <hi rend="bigger"
                            >Le rayon</hi> visuel des galleries latterales HI est conservé d’un bout à l’autre, au travers des <term
@@ -2025,7 +2100,9 @@
                         >église</term>, et monter au dessus des combles et aux tours.</p>
                      <p xml:id="c2BodyFr01.02.001.p010">
                         <hi rend="bigger">Le chevet</hi> du <term type="gT" ref="#chœur"
-                           >chœur</term> est terminé en niche, soutenues en sa circonférence par des <term
+                           >chœur</term> est terminé en niche<ref type="noteHistorical"
+                              target="#c2Nh0147"
+                           />, soutenues en sa circonférence par des <term
                            type="gT" ref="#pilastre"
                            >pilastres</term>, six saillans enclavés avec les <term type="gT"
                            ref="#pilastre"
@@ -2039,22 +2116,30 @@
                            ref="#chevet">chevet</term> du <term type="gT" ref="#chœur"
                            >chœur</term>, servent d’un côté à porter cette gallerie circulaire, et de l’autre ce sont des <term
                            type="gT" ref="#pilastre"
-                           >pilastres</term> qui leurs sont opposées, dont les espaces sont séparées en deux par d’autres <term
+                           >pilastres</term> qui leurs sont opposées, dont les espaces sont <sic>séparées</sic> en deux par d’autres <term
                            type="gT" ref="#pilastre"
-                        >pilastres</term> pour rendre les espaces proportionnés aux entrecolonnemens.</p>
+                              >pilastres</term> pour rendre les espaces proportionnés<ref
+                                 type="noteHistorical" target="#c2Nh0148"
+                              /> aux entrecolonnemens.</p>
                      <p xml:id="c2BodyFr01.02.001.p012">
                         <hi rend="bigger"
-                           >Cinq</hi> chapelles et quatre passages en tour extérieurement cette gallerie circulaire, la chapelle Q du milieu au <term
+                           >Cinq</hi> chapelles et quatre passages <sic>en tour</sic><!-- RMQ oralité ? --> extérieurement cette gallerie circulaire, la chapelle Q du milieu au <term
                            type="gT" ref="#chevet">chevet</term> de l’<term type="gT" ref="#eglise"
                            >église</term> est grande et carrée, saillante en dehors dont l’entrée est en <term
                            type="gT" ref="#arcade"
-                           >arcade</term>. Les quatre autres chapelles R, sont aprochant dans la proportion des autres chapelles M des côtés de l’église. Les passages S entre deux ont de grandes portes en dehors pour entrer dans l’église. L’une du côté du palais épiscopal, et l’autre du côté du cloître des chanoines. Les deux autres passages T proche les bouts <pb
+                              >arcade</term>. Les quatre autres chapelles R, sont aprochant dans la proportion des autres chapelles M des côtés de l’<term type="gT" ref="#eglise">église</term>. Les passages S entre deux ont de grandes portes en dehors pour entrer dans l’<term type="gT" ref="#eglise">église</term><ref
+                                 type="noteHistorical" target="#c2Nh0149"
+                              />. L’une du côté du palais épiscopal, et l’autre du côté du cloître des chanoines. Les deux autres passages T proche les bouts <pb
                            xml:id="c2F30r" n="p57"
                            /> de la galleries circulaire, servent de vestibules aux sacristies N. D’un côté de ces vestibules sont des pissines et fontaines 10, pour l’usage des sacristies et pour laver les mains des prestres avant la célébration du divin sacrifice. Et de l’autre côté sont des <term
                            type="gT" ref="#escalier"
                            >escaliers</term> pour descendre aux caves sous l’<term type="gT"
                            ref="#eglise"
-                           >église</term> et pour monter au dessus des combles et aux chambres de trésor qui sont au dessus des sacristies. Il se trouve des petits cabinets au derrière de ces <term
+                              >église</term><ref
+                                 type="noteHistorical" target="#c2Nh0150"
+                              /> et pour monter au dessus des combles et aux chambres de trésor<ref
+                                 type="noteHistorical" target="#c2Nh0151"
+                              /> qui sont au dessus des sacristies. Il se trouve des petits cabinets au derrière de ces <term
                            type="gT" ref="#escalier"
                         >escaliers</term> pour les besoins des ecclésiastiques qui sont dans les sacristies.</p>
                      <p xml:id="c2BodyFr01.02.001.p013">
@@ -2067,7 +2152,9 @@
                            type="gT" ref="#escalier"
                            >escaliers</term> pour monter au dessus de la grande <term type="gT"
                            ref="#voute">voûte</term> de la <term type="gT" ref="#nef"
-                           >nef</term> et à la tribune des orgues, qui est soutenue par les petites <term
+                              >nef</term> et à la tribune des orgues<ref
+                                 type="noteHistorical" target="#c2Nh0152"
+                              />, qui est soutenue par les petites <term
                            type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
@@ -2076,7 +2163,9 @@
                         <hi rend="bigger"
                            >Au</hi> devant de ses trois portes, de la principalle entrée de l’<term
                            type="gT" ref="#eglise"
-                           >église</term> est un grand portique Y, soutenu en sa face extérieur par six <term
+                              >église</term> est un grand portique Y<ref
+                                 type="noteHistorical" target="#c2Nh0153"
+                              />, soutenu en sa face extérieur par six <term
                            type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
@@ -2088,10 +2177,15 @@
                         >portique</term>, est plus grand que les autres, qui sont tous égaux entr’eux. Le milieu des entrecolonnes Z, des extrémités, sont d'enfilade du milieu des premières galleries HI. </p>
                      <p xml:id="c2BodyFr01.02.001.p015">
                         <hi rend="bigger">Le maître autel</hi> est placé sous le <term type="gT"
-                           ref="#dome">dôme</term>, à l’entrée du <term type="gT" ref="#chœur"
-                           >chœur</term>, par la raison qu’aux églises cathédralles les stales ou chaires du <term
+                           ref="#dome">dôme</term><ref type="noteHistorical"
+                              target="#c2Nh0154"/>, à l’entrée du <term type="gT" ref="#chœur"
+                                 >chœur</term><ref
+                                    type="noteHistorical" target="#c2Nh0155"
+                                 />, par la raison qu’aux églises cathédralles les stales ou chaires du <term
                            type="gT" ref="#chœur"
-                           >chœur</term>, suivant l’usage ordinaire, sont clos d’un mur ou lambris au pourtour par le derrière pour garentir du froid et du grand air, les chanoines et les autres ministres du chapitre qui chantent l’office divin aux différentes heures du jour et de la nuit. N’y ayant que le pourtour du sanctuaire qui soit clos de grilles <pb
+                                    >chœur</term>, suivant l’usage ordinaire, sont clos d’un mur ou lambris au pourtour par le derrière pour garentir du froid et du grand air<ref
+                                       type="noteHistorical" target="#c2Nh0156"
+                                    />, les chanoines et les autres ministres du chapitre qui chantent l’office divin aux différentes heures du jour et de la nuit. N’y ayant que le pourtour du sanctuaire qui soit clos de grilles <pb
                            xml:id="c2F30v" n="p58"
                            /> à jour, de sorte que si le maître autel étoit au fond du <term
                            type="gT" ref="#chœur"
@@ -2106,7 +2200,9 @@
                         <hi rend="bigger">Cette</hi> situation du maître autel, à l’entrée du <term
                            type="gT" ref="#chœur"
                            >chœur</term> demande par vénération qu’il soit élevé de plusieurs dégrés et que le sanctuaire soit couvert d’un <term
-                           type="gT" ref="#baldaquin">baldaquin</term> soutenu par des <term
+                              type="gT" ref="#baldaquin">baldaquin</term><ref
+                                 type="noteHistorical" target="#c2Nh0157"
+                              /> soutenu par des <term
                            type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
@@ -2119,7 +2215,9 @@
                      <!-- NOT S'agit-il d'une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.02.001.p017">
                         <hi rend="bigger bold"
-                           >À l’égard</hi> des proportions, la longeur de cette <term type="gT"
+                           >À l’égard</hi> des proportions<ref type="noteHistorical"
+                              target="#c2Nh0158"
+                           />, la longeur de cette <term type="gT"
                            ref="#eglise"
                            >église</term> est environ le double de sa largeur, ayant determinée la grandeur de son emplacement, dont la longeur est suposé de quatre vingt quatre <pb
                            xml:id="c2F31r" n="p59"
@@ -2127,7 +2225,9 @@
                            ref="#portique"
                            >portique</term> jusqu’au dehors B de la grande chapelle du <term
                            type="gT" ref="#chevet"
-                           >chevet</term>. Elle pourroit neanmoins être plus ou moins grande, on divisera cette longeur AB en vingt espaces, ou parties égales, on en prendra deux pour la largeur de la <term
+                              >chevet</term>. Elle pourroit neanmoins être plus ou moins grande, on divisera cette longeur AB en vingt espaces, ou parties, égales<ref
+                                 type="noteHistorical" target="#c2Nh0159"
+                              /> on en prendra deux pour la largeur de la <term
                            type="gT" ref="#nef">nef</term> E, ou du <term type="gT" ref="#chœur"
                            >chœur</term> D et une pour la largeur de chacune des galleries latérales, HI, KL, et des chapelles M compris la grosseur des <term
                            type="gT" ref="#colonne"><choice>
@@ -2166,7 +2266,9 @@
                            ref="#eglise"
                            >église</term>, lesquelles sont d’ordre corinthien. On tracera ensuitte suivant le diamètre le plan des colonnes et des <term
                            type="gT" ref="#pilastre"
-                           >pilastres</term>, en sorte que la largeur de la <term type="gT"
+                              >pilastres</term><ref
+                                 type="noteHistorical" target="#c2Nh0160"
+                              />, en sorte que la largeur de la <term type="gT"
                            ref="#nef">nef</term> du <term type="gT" ref="#chœur"
                            >chœur</term> et des <term type="gT" ref="#croisillon"
                            >croisillons</term> sera de neuf diamètres de colomne dans œuvre à chacune des galleries, et des chapelles auront quatre diamètres dans œuvre, entre les <term
@@ -2180,7 +2282,9 @@
                         <hi rend="bigger"
                            >On</hi> donnera aux murs de faces extérieures des flancs de l’<term
                            type="gT" ref="#eglise"
-                           >église</term>, un diamètre de colonne, au-delà des centres des <term
+                              >église</term>, un diamètre de colonne<ref
+                                 type="noteHistorical" target="#c2Nh0161"
+                              />, au-delà des centres des <term
                            type="gT" ref="#pilastre"
                            >pilastres</term> du fond des chapelles, ainsy l’épaisseur entière de ces murs sera d’un diamètre et demy, au droit du parement des faces des <term
                            type="gT" ref="#pilastre"
@@ -2204,7 +2308,9 @@
                            >pilastres</term> 11.12, ployées en angle octogone des bouts des <term
                            type="gT" ref="#croisillon">croisillons</term> et du bas de la <term
                            type="gT" ref="#nef"
-                           >nef</term>, suivant la proportion marquée au second dessein du cinquième chapitre de la seconde partie du traité des ordres d’architecture. C'est-à-dire, qu’ayant divisé le diamètre des <term
+                              >nef</term>, suivant la proportion marquée au second dessein du cinquième chapitre de la seconde partie du traité des ordres d’architecture<ref
+                                 type="noteHistorical" target="#c2Nh0162"
+                              />. C'est-à-dire, qu’ayant divisé le diamètre des <term
                            type="gT" ref="#pilastre"
                         >pilastres</term> en 7 parties, on en donnera 4 à chaque demye face ployée.</p>
                      <p xml:id="c2BodyFr01.02.001.p023">
@@ -2247,7 +2353,9 @@
                               <reg>colonnes</reg>
                            </choice></term> au droit du nud de la face des <term type="gT"
                            ref="#pilastre"
-                        >pilastres</term>. La profondeur des quatre chapelles R et des passages S au pourtour extérieur de la gallerie circulaire, est égale à la profondeur des chapelles l’atéralles M. La largeur de ces chapelles et passage est aussi égale aux autres au droit de la circonférence de leurs murs de faces extérieures. Mais elles sont moins larges à leur entrée suivant la largeur de la distribution des entrepilastres de la gallerie circulaire. Leur mur de face extérieure et celuy au derrière de la chapelle Q ont la même épaisseur que les murs de face des flancs de l’église.</p>
+                              >pilastres</term><ref
+                                 type="noteHistorical" target="#c2Nh0163"
+                              />. La profondeur des quatre chapelles R et des passages S au pourtour extérieur de la gallerie circulaire, est égale à la profondeur des chapelles l’atéralles M. La largeur de ces chapelles et passage est aussi égale aux autres au droit de la circonférence de leurs murs de faces extérieures. Mais elles sont moins larges à leur entrée suivant la largeur de la distribution des entrepilastres de la gallerie circulaire. Leur mur de face extérieure et celuy au derrière de la chapelle Q ont la même épaisseur que les murs de face des flancs de l’église.</p>
                      <p xml:id="c2BodyFr01.02.001.p026">
                         <hi rend="bigger">Les</hi> chapelles O, sous les tours au côté du <term
                            type="gT" ref="#portique"
@@ -2294,14 +2402,17 @@
                            ref="#eglise"
                            >église</term>, la saillie des flancs extérieurs 21.22 de la chapelle Q au-delà du mur de face circulaire du dehors des chapelles R, est égalle à la saillie du retour 18 20 du dehors des murs des faces des sacristies N depuis l’angle saillant du <term
                            type="gT" ref="#pilastre"
-                        >pilastre</term> 18, jusqu’à l’angle rentrant 20 du même mur circulaire du dehors des chapelles R.</p>
+                              >pilastre</term> 18, jusqu’à l’angle rentrant 20 du même mur circulaire du dehors des chapelles R<ref
+                                 type="noteHistorical" target="#c2Nh0164"/>.</p>
                      <p xml:id="c2BodyFr01.02.001.p030">
                         <hi rend="bigger">Les</hi>
                         <term type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
                            </choice></term> du <term type="gT" ref="#baldaquin"
-                           >baldaquin</term> du sanctuaire du maître autel, et les <term type="gT"
+                              >baldaquin</term> du sanctuaire du maître autel<ref
+                                 type="noteHistorical" target="#c2Nh0165"
+                              />, et les <term type="gT"
                            ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
@@ -2316,9 +2427,11 @@
                   <div xml:id="c2BodyFr01.02.002" type="section" n="2">
                      <p xml:id="c2BodyFr01.02.002.p001">
                         <hi rend="bigger"
-                           >L’ancienne pratique d’enterrer les martiers</hi> dans les lieux qui servoient d’église aux premiers Chrétiens donna occasion au tems de la Paix et de la liberté de la Religion Chrétienne, d’enterrer dans les <term
+                           >L’ancienne pratique d’enterrer les martiers</hi> dans les lieux qui servoient d’église aux premiers chrétiens donna occasion au tems de la paix et de la liberté de la religion chrétienne, d’enterrer dans les <term
                            type="gT" ref="#eglise"
-                           >églises</term> les corps des évêques et de ceux qui par une distinction particulière étoient morts en odeur de Sainteté. Tous les autres fidelles étant enterrés dans les cimetières qui sont des espaces de terrein, clos et bénis, destinés pour leur sépulture. Depuis par le respect que l'on doit aux puissances, les Princes furent aussy enterrées dans les <term
+                              >églises</term> les corps des évêques et de ceux qui par une distinction particulière étoient morts en odeur de sainteté<ref
+                                 type="noteHistorical" target="#c2Nh0166"
+                              />. Tous les autres fidelles étant enterrés dans les cimetières qui sont des espaces de terrein, clos et bénis, destinés pour leur sépulture. Depuis par le respect que l'on doit aux puissances, les Princes furent aussy enterrées dans les <term
                            type="gT" ref="#eglise"
                            >églises</term>. Ainsy peu à peu, l’usage est venu d’y enterrer tous ceux qui le requièrent pour se distinguer du commun du peuple <pb
                            xml:id="c2F33r" n="p63"/>
@@ -2327,7 +2440,8 @@
                         <pb xml:id="c2F34r" n="p65"/> ce qui cause à présent que les <term type="gT"
                            ref="#eglise"
                            >églises</term> sont ordinairement très mal pavées par l’afaissement et tacement des terres à mesure que les corps se pourrissent et se consomme, lequel étant joint à la mauvaise odeur de la corruption des cadavres que l’on y enterre fréquemment rend les <term
-                           type="gT" ref="#eglise">églises</term> incommodes et malseines.</p>
+                              type="gT" ref="#eglise">églises</term> incommodes et malseines<ref
+                                 type="noteHistorical" target="#c2Nh0167"/>.</p>
                      <p xml:id="c2BodyFr01.02.002.p002">
                         <hi rend="bigger">Il est</hi> vray que les <term type="gT"
                            ref="#egliseCathedrale">églises <choice>
@@ -2343,15 +2457,20 @@
                            type="gT" ref="#voute"
                            >voûtes</term> des caves en se contrebutants l’un l’autre, fairoit avec les murs de la fondation et le remplissage de leurs reins, qui porteroit le pavé de l’<term
                            type="gT" ref="#eglise"
-                        >église</term>, le maintiendroit toujours uniment de niveau.</p>
+                              >église</term>, le maintiendroit toujours uniment de niveau<ref
+                                 type="noteHistorical" target="#c2Nh0168"/>.</p>
                      <p xml:id="c2BodyFr01.02.002.p003">
-                        <hi rend="bigger"
-                           >Le second</hi> dessein des églises cathédrales, est le plan des murs en fondations, et des caves. Le <term
+                        <ref><hi rend="bigger"
+                           >Le second</hi> dessein des églises cathédrales</ref><ref
+                              type="noteHistorical" target="#c2Nh0169"
+                           />, est le plan des murs en fondations, et des caves. Le <term
                            type="gT" ref="#dome"
                         >dôme</term> est porté sur les quatre massifs 1.2.3.4. qui sont joints l’un à l’autre par quatre gros murs 5 ; formant ensemble comme au plan du rez de chaussée un quarré à l’extérieur, et un octagone à l’interieur, au-dedans duquel est un autre enceinte de moyens murs 6 aussy octogones pour en partager l’Etendüe en deux caves. Celle du milieu C est octogonalle sur noyau, et l’autre B, qui l’environne, est en berceau dans ces pans de cloîtres, et d’arrêtes au droit des retours des angles de l’octogone.</p>
                      <p xml:id="c2BodyFr01.02.002.p004">
                         <hi rend="bigger"
-                           >Les murs</hi> 7.8.9.10.11.12, qui se continuent es d’un bout de l’<term
+                           >Les murs</hi> 7.8.9.10.11.12<ref type="noteHistorical"
+                              target="#c2Nh0170"
+                           />, qui se continuent es d’un bout de l’<term
                            type="gT" ref="#eglise"
                            >église</term> à l’autre, soutiennent les files des colonnes et des <term
                            type="gT" ref="#pilastre">pilastres</term> qui séparent la <term
@@ -2380,14 +2499,18 @@
                            type="gT" ref="#voute">voûtes</term> de la <term type="gT" ref="#nef"
                            >nef</term>. Les murs 19 soutiennent les tours, les murs 20.21.22.23.24, qui environnent tout l’édiffice soutiennent les murs de face des côtés du <term
                            type="gT" ref="#chevet"
-                           >chevet</term> de l’Eglize au pourtour du dehors des chapelles. Et le mur 25 soutient les colonnes de la face du <term
+                           >chevet</term> de l’<term type="gT" ref="#eglise"><choice><orig>églize</orig><reg>église</reg></choice></term> au pourtour du dehors des chapelles. Et le mur 25 soutient les colonnes de la face du <term
                            type="gT" ref="#portique"
                            >portique</term>. Les caves D.E.F.G, sous le <term type="gT" ref="#chœur"
                            >chœur</term>, sous la <term type="gT" ref="#nef"
                            >nef</term> et sous les <term type="gT" ref="#croisillon"
-                           >croisillons</term>, sont d’arrestes sur des pilliers carrés qui en séparent la largeur en deux. Les caves sous les galleries latéralles H.I.KL sont voûtées en Berceau, d’un bout à l’autre ; la cave A sous le <term
+                              >croisillons</term>, sont d’arrestes sur des pilliers carrés qui en séparent la largeur en deux. Les caves sous les galleries latéralles H.I.KL sont voûtées en berceau<ref
+                                 type="noteHistorical" target="#c2Nh0171"
+                              />, d’un bout à l’autre. La cave A sous le <term
                            type="gT" ref="#chevet"
-                           >chevet</term> du chœur est voûtée en berceau sphérique sur noyau ; et la cave P sous la gallerie circulaire au pourtour du <term
+                              >chevet</term> du chœur est voûtée en berceau sphérique<ref
+                                 type="noteHistorical" target="#c2Nh0172"
+                              /> sur noyau ; et la cave P sous la gallerie circulaire au pourtour du <term
                            type="gT" ref="#chevet"
                            >chevet</term> du choeur est aussy voûtée en berceau sphérique. Les caveaux sous les tours M, R, sous les chapelles, N sous Les sacristies S sous les passages des entrées du <term
                            type="gT" ref="#chevet">chevet</term>, sont en <term type="gT"
@@ -2397,13 +2520,18 @@
                            >église</term> est en voûte d’arreste et de cloître sur noyau.</p>
                      <p xml:id="c2BodyFr01.02.002.p005">
                         <hi rend="bigger"
-                           >La cave &amp;</hi> anciennement nommé confession, sous le sanctuaire et le maître autel, est en voûte sphérique. Son usage est de servir en manière de trésor pour y mettre les chazes des corps et Reliques des saints. Elle doit avoir par le haut de sa <term
+                           >La cave &amp;</hi> anciennement nommé confession<ref
+                              type="noteHistorical" target="#c2Nh0173"
+                           />, sous le sanctuaire et le maître autel, est en voûte sphérique. Son usage est de servir en manière de trésor pour y mettre les chazes des corps et Reliques des saints. Elle doit avoir par le haut de sa <term
                            type="gT" ref="#voute"
-                           >voûte</term> une ouverture directement sous Le maître autel, suffisament grande pour y donner de l’air et la rendre sèche. On descend à cette cave par deux <term
+                              >voûte</term> une ouverture directement sous Le maître autel, suffisament grande pour y donner de l’air et la rendre sèche<ref
+                                 type="noteHistorical" target="#c2Nh0174"
+                              />. On descend à cette cave par deux <term
                            type="gT" ref="#escalier"
-                           >escaliers</term> particuliers, dont l’Entrée est sous les deux petites tribunes de L’Epitre, et de l’Evangille aux côtés du <term
+                           >escaliers</term> particuliers, dont l’Entrée est sous les deux petites tribunes de L’Epitre, et de l’Évangille aux côtés du <term
                            type="gT" ref="#baldaquin">baldaquin</term> sous le <term type="gT"
-                           ref="#dome">dôme</term>.</p>
+                              ref="#dome">dôme</term><ref
+                                 type="noteHistorical" target="#c2Nh0175"/>.</p>
                      <p xml:id="c2BodyFr01.02.002.p006">
                         <hi rend="bigger">Le petit</hi> mur 13 vers le bas de la <term type="gT"
                            ref="#nef">nef</term>, soutient les <term type="gT" ref="#colonne"><choice>
@@ -2425,10 +2553,13 @@
                            type="gT" ref="#dome"
                            >dôme</term>, et 31 au deux bouts de la gallerie circulaire, sont destinées pour descendre en cérémonie les corps morts aux endroits des caves, où ils doivent être inhumés. Leurs entrées sont fermées par le haut avec des tombes à l’afleurement du pavé de l’<term
                            type="gT" ref="#eglise"
-                        >église</term> qu’on lève au tems nécessaire pour les inhumations.</p>
+                              >église</term> qu’on lève au tems nécessaire pour les inhumations<ref
+                                 type="noteHistorical" target="#c2Nh0176"/>.</p>
                      <p xml:id="c2BodyFr01.02.002.p008">
                         <hi rend="bigger"
-                           >Toutes</hi> ces caves à la réserve de celle &amp; sous le sanctuaire du maître autel, se communiquent les unes aux autres par plusieurs enfilades de portes, au droit du milieu des entrecolonnemens, vis-à-vis desquels il y a au mur de face du pourtour de l’<term
+                           >Toutes</hi> ces caves à la réserve de celle &amp; sous le sanctuaire du maître autel<ref
+                              type="noteHistorical" target="#c2Nh0177"
+                           />, se communiquent les unes aux autres par plusieurs enfilades de portes, au droit du milieu des entrecolonnemens, vis-à-vis desquels il y a au mur de face du pourtour de l’<term
                            type="gT" ref="#eglise"
                         >église</term> des fenestres en formes de soupiraux, fermées en dehors par des grilles de fer maillées en dessous des vitreaux des chapelles, pour donner de l’air aux caves et en évaporer la mauvaise odeur.</p>
                   </div>
@@ -2439,7 +2570,10 @@
                            ref="#egliseCathedrale">église <choice>
                               <orig>cathédralle</orig>
                               <reg>cathédrale</reg>
-                           </choice></term>, au premier dessein de ce second chapitre, il est dit suivant la proposition expliqué à la troisième figure du quatrième dessein du quatrième chapitre de la seconde partie du <ref>Traité des ordres d’architecture</ref>, que le plan de la circonférence du <term
+                           </choice></term><ref
+                              type="noteHistorical" target="#c2Nh0178"
+                           />, au premier dessein de ce second chapitre, il est dit suivant la proposition expliqué à la troisième figure du quatrième dessein du quatrième chapitre de la seconde partie du <ref>Traité des ordres d’architecture</ref><ref type="noteHistorical" target="#c2Nh0179"
+                           />, que le plan de la circonférence du <term
                            type="gT" ref="#chevet">chevet</term> du <term type="gT" ref="#chœur"
                            >chœur</term> est en demy ovale, dont le trait n’a pû être expliquée sur le premier dessein de ce second chapitre, à cause de la petittesse de son module. Cette explication ayant été réservée à faire sur un plan plus en grand, tel qu’est la première figure du 3<hi
                            rend="superscript"
@@ -2481,7 +2615,9 @@
                            </choice></term> 11.12.</p>
                      <p xml:id="c2BodyFr01.02.003.p003">
                         <hi rend="bigger"
-                           >On</hi> remarquera que par une raison d’optique, les intervales 6.11, sont plus grands que les autres 11.12 ; afin de les faire paroitre à peu prés égaux, étant regardés du dedans du <term
+                           >On</hi> remarquera que par une raison d’optique<ref
+                              type="noteHistorical" target="#c2Nh0180"
+                           />, les intervales 6.11, sont plus grands que les autres 11.12 ; afin de les faire paroitre à peu prés égaux, étant regardés du dedans du <term
                            type="gT" ref="#chœur"
                            >chœur</term>, et par le côté de la gallerie circulaire des environs des <term
                            type="gT" ref="#pilastre"
@@ -2497,7 +2633,9 @@
                            ref="#pilastre"
                            >pilastres</term>, du côté extérieur de la gallerie circulaire PP cause la régularité, et la cimetrie de la décoration du mur de face du dehors du <term
                            type="gT" ref="#chevet">chevet</term> de l’<term type="gT" ref="#eglise"
-                           >église</term>. Observant que l’allignement du retour du mur de face aux flancs des sacristies NN, étant déterminé par ce qui est expliqué sur <pb
+                              >église</term>. Observant que l’allignement du retour du mur de face aux flancs des sacristies NN<ref
+                                 type="noteHistorical" target="#c2Nh0181"
+                              />, étant déterminé par ce qui est expliqué sur <pb
                            xml:id="c2F37r" n="p71"/>
                         <sic>Sur</sic> le premier dessein pour avoir l’allignement de la saillie de la face des <term
                            type="gT" ref="#pilastre"
@@ -2549,9 +2687,15 @@
                            type="gT" ref="#pilastre"
                            >pilastres</term> du dedans de la chapelle Q sont aussy d’ordre corinthien, de même grandeur, hauteur <pb
                            xml:id="c2F37v" n="p72"
-                           /> et proportion que ceux de l’ordre du dedans de l’église. Les quatre faces du dedans de cette grande chapelle, sont toutes semblables l’une à l’autre. Les entre pilastres des milieu de chacune, sont égaux. Il y a des <term
+                           /> et proportion que ceux de l’ordre du dedans de l’<term type="gT" ref="#eglise">église</term><ref
+                              type="noteHistorical" target="#c2Nh0182"
+                           />. Les quatre faces du dedans de cette grande chapelle, sont toutes semblables l’une à l’autre. Les entre pilastres des milieu de chacune, sont égaux. Il y a des <term
                            type="gT" ref="#arcadeFeinte"
-                        >arcades feintes</term> qui font cimetrie à celles de l’entrée. La différence de la face du fond, est seulement qu’il y a un vitrail de la même grandeur que ceux des autres chapelles, et l’autel est au dessous de l’apuy de ce vitrail, ce qui se peut remarquer au premier dessein de ce chapitre, et au neufvième dessein cy après.</p>
+                              >arcades feintes</term><ref
+                                 type="noteHistorical" target="#c2Nh0183"
+                              /> qui font cimetrie à celles de l’entrée. La différence de la face du fond, est seulement qu’il y a un vitrail de la même grandeur que ceux des autres chapelles, et l’autel est au dessous de l’apuy de ce vitrail<ref
+                                 type="noteHistorical" target="#c2Nh0184"
+                              />, ce qui se peut remarquer au premier dessein de ce chapitre, et au neufvième dessein cy après.</p>
                      <p xml:id="c2BodyFr01.02.003.p007">
                         <hi rend="bigger">Le</hi> dedans de l’<term type="gT" ref="#eglise"
                            >église</term> étant le principal objet de l’<term type="gT"
@@ -2567,11 +2711,15 @@
                         <hi rend="bigger"
                            >Elle</hi> est décorée d’un grand ordre corinthien, ainsy qu’il a été dit cy devant, dont les <term
                            type="gT" ref="#pilastre"
-                           >pilastres</term> sont diminuées par le haut, comme les <term type="gT"
+                              >pilastres</term> sont diminuées par le haut<ref
+                                 type="noteHistorical" target="#c2Nh0185"
+                              />, comme les <term type="gT"
                            ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
-                           </choice></term> étant sur le même allignement. Cet ordre doit être dans sa véritable proportion, expliqués <ref>au sixième chapitre de la première partie du Traité des ordres d’architecture</ref>, sans aucune altération, pour quelques raisons d’optique que se puisse être, à la réserve que la diminution du haut des <term
+                           </choice></term> étant sur le même allignement. Cet ordre doit être dans sa véritable proportion, expliqués <ref>au sixième chapitre de la première partie du Traité des ordres d’architecture</ref><ref
+                              type="noteHistorical" target="#c2Nh0186"
+                           />, sans aucune altération, pour quelques raisons d’optique que se puisse être, à la réserve que la diminution du haut des <term
                            type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
@@ -2597,7 +2745,8 @@
                            ref="#edifice"><choice>
                               <orig>édiffices</orig>
                               <reg>édifices</reg>
-                           </choice></term> antiques.</p>
+                           </choice></term> antiques<ref
+                              type="noteHistorical" target="#c2Nh0187"/>.</p>
                      <p xml:id="c2BodyFr01.02.003.p010">
                         <hi rend="bigger"
                            >La</hi> proportion généralle, de la largeur et de la hauteur de la <term
@@ -2606,7 +2755,9 @@
                            >chœur</term> et aux <term type="gT" ref="#croisillon"
                            >croisillons</term>, à prendre depuis le pavé jusque sous la clef de la voûte, doit suivre les proportions marquées pour les <term
                            type="gT" ref="#arcade"
-                           >arcades</term> dans la <ref>première partie du Traité des ordres d’architecture</ref>. observant icy d’augmenter la hauteur à proportion de ce qui est caché, par la saillie de la <term
+                              >arcades</term> dans la <ref>première partie du Traité des ordres d’architecture</ref><ref
+                                 type="noteHistorical" target="#c2Nh0188"
+                              />. observant icy d’augmenter la hauteur à proportion de ce qui est caché, par la saillie de la <term
                            type="gT" ref="#corniche"
                            >corniche</term> de l’entablement, de l’ordre du dedans de l’église. Cette proportion se doit observer au droit des <term
                            type="gT" ref="#arcDoubleau">arcs doubleaux</term> des <term type="gT"
@@ -2620,25 +2771,31 @@
                            >église</term> et à celuy de l’<term type="gT" ref="#abside"
                            >abside</term> au <term type="gT" ref="#chevet">chevet</term> du <term
                            type="gT" ref="#chœur"
-                           >chœur</term>, qui sont tous d’une même égalité, parce que se sont les arcs doubleaux qui marquent d’avantage et fixes plus la vue, à cause des retours de l’Entablement à ces endroits, que ne font les autres <term
+                           >chœur</term>, qui sont tous d’une même égalité, parce que se sont les arcs doubleaux qui marquent d’avantage et fixes plus la vue, à cause des retours de l’entablement à ces endroits, que ne font les autres <term
                            type="gT" ref="#arcDoubleau">arcs doubleaux</term> des <term type="gT"
                            ref="#voute"
                            >voûtes</term> où l’entablement passe tout droit au dessus, en sorte qu’à ce dessein qui est d’ordre corinthien, on doit doubler la largeur entre les <term
                            type="gT" ref="pilastreSaillant">pilastres <choice>
                               <orig>saillians</orig>
                               <reg>saillants</reg>
-                           </choice></term> 6, qui est de sept diamètres de colomne, et deux tiers, ou de quinze modules dix parties dont le double est 30. modules 20 parties. Y ajouter un neufvième de cette hauteur, qui est de 3 modules 12 parties ½, suivant la proportion de l’arcade corinthienne, et un modules 20 parties pour ce qui est caché par la saillie de la <term
+                           </choice></term> 6, qui est de sept diamètres de colomne, et deux tiers, ou de quinze modules dix parties dont le double est 30 modules 20 parties, y ajouter<ref
+                              type="noteHistorical" target="#c2Nh0189"
+                           /> un neufvième de cette hauteur, qui est de 3 modules 12 parties ½, suivant la proportion de l’arcade corinthienne, et un modules 20 parties pour ce qui est caché par la saillie de la <term
                            type="gT" ref="#corniche"
-                           >corniche</term> de l’Entablement. Il viendra pour la hauteur du dessous de la clef de l’<term
+                           >corniche</term> de l’entablement. Il viendra pour la hauteur du dessous de la clef de l’<term
                            type="gT" ref="#arcDoubleau"
                         >arc doubleau</term> 35 modules 22 parties ½.</p>
                      <p xml:id="c2BodyFr01.02.003.p011">
                         <hi rend="bigger"
-                           >Mais</hi> comme cette opération de calcul est embarassant, à cause que la proportion des <term
+                           >Mais</hi> comme cette opération de calcul est embarassant<ref
+                              type="noteHistorical" target="#c2Nh0190"
+                           />, à cause que la proportion des <term
                            type="gT" ref="#arcade"
                            >arcades</term> est diférentes selon les diferens ordres d’architecture, dont on pourroit décorer les <term
                            type="gT" ref="#eglise"
-                        >églises</term>, la même proportion se trouvera plus aisément par la règle suivante, commune à tous les ordres.</p>
+                              >églises</term><ref
+                                 type="noteHistorical" target="#c2Nh0191"
+                              />, la même proportion se trouvera plus aisément par la règle suivante, commune à tous les ordres.</p>
                      <p xml:id="c2BodyFr01.02.003.p012">
                         <hi rend="bigger"
                            >Suposant</hi> que la largeur de la nef soit toujours de 9 diamètres, c'est-à-dire qu’il y ait 10 diamètres du centre d’une colonne au centre <pb
@@ -2662,7 +2819,8 @@
                            </choice></term> 6. au droit de leur diminution pour avoir toute la hauteur sous la clef de l’<term
                            type="gT" ref="#arcDoubleau"
                            >arc doubleau</term>, qui est en plein ceintre. Il viendra au produit 35 modules 22 parties ½ si l’ordre étoit ionique, il viendroit 33 modules 22 parties ½ et s’il étoit dorique, il viendroit en encore deux modules moins pour la hauteur sous la clef de l’arc doubleau, parce que la colonne dorique, n’a que 16 modules de hauteur, et la colonne ionique 18 modules, ce qui suit la proportion des <term
-                           type="gT" ref="#arcade">arcades</term> dans differens ordres.</p>
+                              type="gT" ref="#arcade">arcades</term> dans differens ordres<ref
+                                 type="noteHistorical" target="#c2Nh0192"/>.</p>
                      <p xml:id="c2BodyFr01.02.003.p013">
                         <hi rend="bigger">La</hi> largeur de l’archivolte, de ces <term type="gT"
                            ref="#arcDoubleau">arcs doubleaux</term> est égale à la saillie des <term
@@ -2682,7 +2840,9 @@
                            type="gT" ref="#eglise">église</term>.<lb/>La <term type="gT" ref="#nef"
                            >nef</term>, le <term type="gT" ref="#chœur">chœur</term> et les <term
                            type="gT" ref="#croisillon"
-                           >croisillons</term> sont en voûte d’arreste, le dessous de la clef des lunettes B.C. au dessus des vitreaux qui éclairent le haut de l’<term
+                              >croisillons</term> sont en voûte d’arreste<ref
+                                 type="noteHistorical" target="#c2Nh0193"
+                              />, le dessous de la clef des lunettes B.C. au dessus des vitreaux qui éclairent le haut de l’<term
                            type="gT" ref="#eglise"
                            >église</term>, étant au niveau du dessous de la clef D des grandes <term
                            type="gT" ref="#voute">voûtes</term>. Ces <term type="gT" ref="#voute"
@@ -2710,7 +2870,9 @@
                      <p xml:id="c2BodyFr01.02.003.p016">
                         <hi rend="bigger">Les</hi>
                         <term type="gT" ref="#voute"
-                           >voûtes</term> des chapelles M, sont de cloître en plein ceintre, posées aussy sur la même architrave en <term
+                           >voûtes</term> des chapelles M, sont de cloître en plein ceintre<ref
+                              type="noteHistorical" target="#c2Nh0194"
+                           />, posées aussy sur la même architrave en <term
                            type="gT" ref="#imposte"
                            >imposte</term> qui règne tout autour de chaque chapelle, en forme de platte bande droite, au dessus de leur entrée de même que du côté de la <term
                            type="gT" ref="#nef">nef</term>.</p>
@@ -2723,24 +2885,30 @@
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
                            </choice></term>. Les reins de ces <term type="gT" ref="#voute"
-                           >voûtes</term> doivent être remplis de maçonnerie, jusqu’au couronnement de la clef pour soutenir leurs combles qui posent immédiatement dessus, et aussy afin de servir de buttée aux grandes <term
+                              >voûtes</term> doivent être remplis de maçonnerie<ref
+                                 type="noteHistorical" target="#c2Nh0195"
+                              />, jusqu’au couronnement de la clef pour soutenir leurs combles qui posent immédiatement dessus, et aussy afin de servir de buttée aux grandes <term
                            type="gT" ref="#voute">voûtes</term> de la <term type="gT" ref="#nef"
                            >nef</term>, du <term type="gT" ref="#chœur">chœur</term> et des <term
                            type="gT" ref="#croisillon"
                         >croisillons</term>. Et par ce moyen affermir tout l’Edifice et le rendre solide. Ces voûtes latéralles, étant elles même buttées par les murs de refands des chapelles et par la forte épaisseur des murs de face de dehors.</p>
                      <p xml:id="c2BodyFr01.02.003.p018">
                         <hi rend="bigger"
-                           >Les</hi> murs d’attique E.F. qui soutiennent le comble, au dessus des grandes <term
+                           >Les</hi> murs d’attique<ref type="noteHistorical" target="#c2Nh0196"
+                           /> E.F. qui soutiennent le comble, au dessus des grandes <term
                            type="gT" ref="#voute">voûtes</term>, sont couronnées d’une <term
                            type="gT" ref="#balustrade"
                            >balustrade</term> 33, qui cache une partie du toit, au derrière desquelles balustrades règnent des <term
                            type="gT" ref="#gargouille"
-                        >gargouilles</term> pour écouler les eaux de la couverture ; par des tuyaux de descente placés en dehors des murs.</p>
+                              >gargouilles</term> pour écouler les eaux de la couverture ; par des tuyaux de descente placés en dehors des murs<ref
+                                 type="noteHistorical" target="#c2Nh0197"
+                              />.</p>
                      <p xml:id="c2BodyFr01.02.003.p019">
                         <hi rend="bigger"
                            >Le</hi> comble 34.35.34. est composé de fermes aux endroits de tous les <term
                            type="gT" ref="#arcDoubleau"
-                        >arcs doubleaux</term> de la voûte, avec des pannes et faistages qui soutiennent ses chevrons d’une ferme à l’autre.</p>
+                              >arcs doubleaux</term> de la voûte, avec des pannes et faistages qui soutiennent ses chevrons d’une ferme à l’autre<ref
+                                 type="noteHistorical" target="#c2Nh0198"/>.</p>
                      <p xml:id="c2BodyFr01.02.003.p020">
                         <hi rend="bigger"
                            >Les</hi> bas combles I.M. qui couvrent les galleries et les chapelles <pb
@@ -2749,7 +2917,9 @@
                            type="gT" ref="#voute"
                            >voûtes</term> au long desquels vitreaux il y a un cours de <term
                            type="gT" ref="#gargouille"
-                        >gargouilles</term> 36 pour écouler les eaux. Ce qui sera plus au long expliqué sur les desseins suivants.</p>
+                              >gargouilles</term> 36 pour écouler les eaux<ref
+                                 type="noteHistorical" target="#c2Nh0199"
+                              />. Ce qui sera plus au long expliqué sur les desseins suivants.</p>
                   </div>
                   <div xml:id="c2BodyFr01.02.004" type="section" n="4">
                      <p xml:id="c2BodyFr01.02.004.p001">
@@ -2757,7 +2927,9 @@
                               ref="#edifice"><choice>
                                  <orig>édiffices</orig>
                                  <reg>édifices</reg>
-                              </choice></term></hi> dépende absolument de leurs fondations et de la bonne construction et épaisseur des murs en élévation, leurs couvertures contribuent aussy à leur conservation ou à leur ruyne. Dans les pays chauds il y a moins de précaution à prendre aux couvertures, on y voit presque tous les <term
+                              </choice></term></hi> dépende absolument de leurs fondations et de la bonne construction et épaisseur des murs en élévation, leurs couvertures contribuent aussy à leur conservation ou à leur ruyne<ref
+                                 type="noteHistorical" target="#c2Nh0200"
+                              />. Dans les pays chauds il y a moins de précaution à prendre aux couvertures, on y voit presque tous les <term
                            type="gT" ref="#edifice"><choice>
                               <orig>édiffices</orig>
                               <reg>édifices</reg>
