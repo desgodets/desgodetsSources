@@ -16,7 +16,8 @@
             <!-- mentions de titre et de responsabilité -->
             <titleStmt>
                 <title xml:lang="fre" type="main">Colloques</title>
-                <title xml:lang="fre" type="subSubSub">Programme de la journée d'étude de 2010</title>
+                <title xml:lang="fre" type="subSubSub"
+                    >Programme de la journée d'étude de 2010</title>
                 <!-- mention de responsabilité principale (responsable scientifique de l'édition) -->
                 <principal>
                     <persName ref="#RC">
@@ -68,7 +69,7 @@
             <!-- mention d'édition -->
             <editionStmt>
                 <edition n="1">première édition électronique, <date when="2013"
-                        >2013</date></edition>
+                    >2013</date></edition>
             </editionStmt>
             <extent><!-- TODO : taille du fichier en octet --></extent>
             <!-- information sur la publication électronique -->
@@ -93,15 +94,12 @@
                 </publisher>
                 <availability status="restricted" xml:id="meetings2010TextLicence">
                     <!-- TODO : <licence> à ajouter partout -->
-                    <licence
-                        target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr/"
-                        >
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr/">
                         <p>Ce(tte) œuvre est mise à disposition selon les termes
                             de la Licence Creative Commons Attribution - Pas
                             d’Utilisation Commerciale - Partage dans les Mêmes
                             Conditions 3.0 France.</p>
-                        <graphic
-                            url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png" />
+                        <graphic url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png"/>
                     </licence>
                     <p>Le Centre de théorie et d'analyse du droit
                         (UMR 7074) met à disposition cette ressource électronique
@@ -109,7 +107,7 @@
                         intellectuelle sur le droit d'auteur (L111-1) et sur les bases
                         de données (L341-1), selon les termes de la licence Creative
                         Commons : « Paternité - Pas d'Utilisation Commerciale - Pas de
-                        Modification ; 3.0 France ». <lb />Cette licence est
+                        Modification ; 3.0 France ». <lb/>Cette licence est
                         disponible en ligne : <ref
                             target="http://creativecommons.org/licences/by-nc-sa/3.0/fr"
                             >http://creativecommons.org/licenses/by-nc/3.0/fr/</ref> ou
@@ -123,11 +121,11 @@
                         obtenue auprès du Centre de théorie et d'analyse du droit.</p>
                     <p>Paternité : Le Centre de théorie et d'analyse du droit demande
                         à ce que toute publication dérivée de ses ressources
-                        électroniques comporte : <lb />1. le nom du Centre de théorie
+                        électroniques comporte : <lb/>1. le nom du Centre de théorie
                         et d'analyse du droit et, pour les publications électroniques,
-                        son logo <lb />2. l'URI permettant d'accéder à la page citée
+                        son logo <lb/>2. l'URI permettant d'accéder à la page citée
                         sur notre site, ou à la page d'accueil de la ressource
-                        <lb />3. la date du fichier source utilisé. </p>
+                        <lb/>3. la date du fichier source utilisé. </p>
                     <p>Vous êtes libres de remixer, arranger et adapter cette œuvre à
                         des fins non commerciales, tant que vous nous créditez et que
                         les nouvelles œuvres sont diffusées selon les mêmes
@@ -160,7 +158,8 @@
             </notesStmt>-->
             <!-- description de la source -->
             <sourceDesc>
-                <p xml:id="meetings2010">Texte original : le texte a été créé sous forme
+                <p xml:id="meetings2010"
+                    >Texte original : le texte a été créé sous forme
                     électronique</p>
             </sourceDesc>
         </fileDesc>
@@ -168,7 +167,8 @@
             <!-- description du projet éditorial -->
             <projectDesc>
                 <p>L'édition des cours de Desgodets fait partie d'un programme de recherche sur la
-                    formalisation du savoir architectural au XVII<hi rend="superscript">e</hi>
+                    formalisation du savoir architectural au XVII<hi
+                        rend="superscript">e</hi>
                     siècle.</p>
             </projectDesc>
             <!-- déclaration des principes éditoriaux -->
@@ -226,288 +226,177 @@
                 <docTitle>
                     <titlePart>Programme de la journée d'étude de 2010</titlePart>
                 </docTitle>
-                <docAuthor><persName ref="#EC">Emmanuel Chateau</persName></docAuthor>
-                <docDate>14 avril 2013</docDate>
+                <!--<docAuthor>
+                    <persName ref="#EC">Emmanuel Chateau</persName>
+                </docAuthor>-->
+                <docDate>septembre 2013</docDate>
                 <docEdition>version 0</docEdition>
             </titlePage>
             <div xml:id="meetings2010FrontFr" xml:lang="fre">
                 <div xml:id="meetings2010FrontFr01" type="abstract">
-                    <p>Programme détaillé de la journée d'étude de 2010.</p>
+                    <p>Programme détaillé de la journée d'étude organisée le 31 mars 2010 par le projet « Desgodets » sélectionné par l’Agence nationale de la recherche (ANR) dans le cadre du programme Corpus et outils de la recherche en sciences humaines et sociales et l’Institut national d’histoire de l’art (INHA).</p>
                 </div>
                 <div xml:id="meetings2010FrontFr02" type="introduction">
                     <head>Introduction</head>
-                    <p>Quam ob rem circumspecta cautela observatum est deinceps et cum edita montium
-                        petere coeperint grassatores, loci iniquitati milites cedunt. ubi autem in
-                        planitie potuerint reperiri, quod contingit adsidue, nec exsertare lacertos
-                        nec crispare permissi tela, quae vehunt bina vel terna, pecudum ritu
-                        inertium trucidantur.</p>
-                    <p>Hae duae provinciae bello quondam piratico catervis mixtae praedonum a
-                        Servilio pro consule missae sub iugum factae sunt vectigales. et hae quidem
-                        regiones velut in prominenti terrarum lingua positae ob orbe eoo monte Amano
-                        disparantur.</p>
+                    <p>Programme détaillé de la journée d'étude organisée le 31 mars 2010 par le projet « Desgodets » sélectionné par l’Agence nationale de la recherche (ANR) dans le cadre du programme Corpus et outils de la recherche en sciences humaines et sociales et l’Institut national d’histoire de l’art (INHA).</p>
                 </div>
             </div>
         </front>
         <body>
             <div xml:id="meetings2010BodyFr" xml:lang="fre">
                 <div xml:id="meetings2010BodyFr01" type="part" n="1">
-                    <head>Présentation du cours et dates de prononcé</head>
-                    <quote>
-                        Quid enim tam absurdum quam delectari multis inanimis rebus, ut honore, ut
-                        gloria, ut aedificio, ut vestitu cultuque corporis, animante virtute
-                        praedito, eo qui vel amare vel, ut ita dicam, redamare possit, non admodum
-                        delectari? Nihil est enim remuneratione benevolentiae, nihil vicissitudine
-                        studiorum officiorumque iucundius.
-                    </quote>
-                    <p>Quam ob rem circumspecta cautela observatum est deinceps et cum edita montium
-                        petere coeperint grassatores, loci iniquitati milites cedunt. ubi autem in
-                        planitie potuerint reperiri, <quote>quod contingit adsidue, nec exsertare</quote> lacertos
-                        nec crispare permissi tela, quae vehunt bina vel terna, pecudum ritu
-                        inertium trucidantur.</p>
-                    <p>Hae duae provinciae bello quondam piratico catervis mixtae praedonum a
-                        Servilio pro consule missae sub iugum factae sunt vectigales. et hae quidem
-                        regiones velut in prominenti terrarum lingua positae ob orbe eoo monte Amano
-                        disparantur.</p>
+                    <head>Présentation et état d’avancement du projet ANR « Construction et normalisation du savoir architectural au début du XVIII<hi
+                            rend="superscript"
+                        >e</hi> siècle. Les cours d’Antoine Desgodets à l’Académie d’architecture »</head>
+                    <p>10h - <hi rend="bold"
+                        >Robert Carvais</hi> (CNRS, Université de Panthéon-Assas, ENSA Versailles)</p>
                 </div>
                 <div xml:id="meetings2010BodyFr02" type="part" n="2">
-                    <head>Présentation des versions conservées et de leurs spécificités</head>
-                    <p>Proinde concepta rabie saeviore, quam desperatio incendebat et fames,
-                        amplificatis viribus ardore incohibili in excidium urbium matris Seleuciae
-                        efferebantur, quam comes tuebatur Castricius tresque legiones bellicis
-                        sudoribus induratae.</p>
-                    <p>Latius iam disseminata licentia onerosus bonis omnibus Caesar nullum post
-                        haec adhibens modum orientis latera cuncta vexabat nec honoratis parcens nec
-                        urbium primatibus nec plebeiis.</p>
-                    <figure type="illustration" copyOf="#meetings2010Ill0003"/>
-                    <p>Iis igitur est difficilius satis facere, qui se Latina scripta dicunt
-                        contemnere. in quibus hoc primum est in quo admirer, cur in gravissimis
-                        rebus non delectet eos sermo patrius, cum idem fabellas Latinas ad verbum e
-                        Graecis expressas non inviti legant. quis enim tam inimicus paene nomini
-                        Romano est, qui Ennii Medeam aut Antiopam Pacuvii spernat aut reiciat, quod
-                        se isdem Euripidis fabulis delectari dicat, Latinas litteras oderit?</p>
-                    <div type="section">
-                        <p>Tu autem, Fanni, quod mihi tantum tribui dicis quantum ego nec adgnosco nec
-                            postulo, facis amice; sed, ut mihi videris, non recte iudicas de Catone; aut
-                            enim nemo, quod quidem magis credo, aut si quisquam, ille sapiens fuit. Quo
-                            modo, ut alia omittam, mortem filii tulit! memineram Paulum, videram Galum,
-                            sed hi in pueris, Cato in perfecto et spectato viro.</p>
-                        <p>Quanta autem vis amicitiae sit, ex hoc intellegi maxime potest, quod ex
-                            infinita societate generis humani, quam conciliavit ipsa natura, ita
-                            contracta res est et adducta in angustum ut omnis caritas aut inter duos aut
-                            inter paucos iungeretur.</p>
+                    <head>Session 1 : La fortune de Desgodets</head>
+                    <p>Présidence <hi rend="bold"
+                        >Basile Baudez</hi> (Université de Paris IV Sorbonne)</p>
+                    <div xml:id="meetings2010BodyFr02.01" type="section">
+                        <head>Corriger Desgodets ou rétablir la vérité de Legrand à Dufourny. Le rôle des maquettes, moulages et relevés</head>
+                        <p>11h - <hi rend="bold"
+                            >Werner Szambien</hi> (CNRS, Centre André Chastel)</p>
+                        <p>Depuis les années 1760, le doute sur la véracité des gravures de Desgodets s’installe. Même si cette approche provient de la découverte de la variété dans l’architecture grecque, elle se transfère dans les années 1780 sur l’architecture romaine dont l’image semble être défigurée non seulement par Desgodets mais aussi par Piranèse. Malgré les difficultés techniques – on ne connaît pas encore le moulage en creux – et de transport, plusieurs architectes français s’attachent à l’idée de la représentation incontestable, le relevé précis des édifices faisant toujours l’objet de soupçons. L’installation de la salle romaine à l’École des Beaux-Arts repose sur les travaux de Legrand et Dufourny et de bien autres architectes. Les pistes de recherche sont à approfondir. Il est possible que l’inspirateur de tout cet engouement soit Marvuglia, lui-même auteur d’une histoire de l’architecture plus complète que celle de Legrand. Malheureusement l’esprit scientifique a été impitoyablement anéanti par J.N.L. Durand dans son <hi
+                                rend="italic"
+                            >Recueil et parallèle</hi> qui cherche à se substituer au Desgodets séculaire. Avec succès, car utilisé jusqu’en 1968 !</p>
+                    </div>
+                    <div xml:id="meetings2010BodyFr02.02" type="section">
+                        <head>La fortune des <hi rend="italic"
+                                >Édifices antiques de Rome</hi> (1682) dans l’Europe des XVIII<hi
+                                rend="superscript">e</hi> et XIX<hi rend="superscript"
+                            >e</hi> siècles</head>
+                        <p>11h45 - <hi rend="bold"
+                            >Olga Medvedkova</hi> (CNRS, Centre André Chastel)</p>
+                        <p>Il s'agit pour moi de retracer l'histoire des différentes rééditions de Desgodets et de s'interroger sur les enjeux des protagonistes de ces entreprises éditoriales à Paris, à Londres, à Rome. Je voudrais, tout d’abord, comparer les propos de l’architecte londonien George Marshall dans <hi
+                                rend="italic"
+                                >The Ancient buildings of Rome</hi> (2 vol. 1771, 1795), avec ceux de l’éditeur parisien Claude-Antoine Jombert (1779). Je voudrais, ensuite, étudier l’édition des <hi
+                                rend="italic"
+                                >Fragmens et ornemens d'architecture, dessinés a Rome, d'apres l'antique formant supplément à l’œuvre d’architecture de Desgodets</hi>, par M. Charles Moreau (Paris: Chez Vilquin et imprimé par P. Baudouin [?] en 1799 ou 1800), dans leur rapport avec l’édition italienne de Tommaso Piroli : <hi
+                                rend="italic"
+                                >Gli edificj antichi di Roma ricercati nelle loro piante, e restituiti ... secondo Palladio, Desgodetz, ed altri più recenti, con l’aggiunta di qualche moderna fabbrica ...</hi> (Rome, 1794). Je me propose, enfin, de comparer l’édition romaine bilingue, en six volume, publiée par le grand archéologue italien Carlo Fea, chez V. Poggioli en 1822, avec sa traduction augmentée et corrigée par l’architecte néoclassique Giuseppe Valadier (1762-1839) - <hi
+                                rend="italic"
+                                >Aggiunte et correzioni all' opera sugli edifizi antichi di Roma</hi> – imprimée à Rome en 1843.</p>
                     </div>
                 </div>
-                <div xml:id="meetings2010BodyFr03" type="part" n="3">
-                    <head>Justification du choix du manuscrit édité</head>
-                    <p>Haec et huius modi quaedam innumerabilia ultrix facinorum impiorum bonorumque
-                        praemiatrix aliquotiens operatur Adrastia atque utinam semper quam vocabulo
-                        duplici etiam Nemesim appellamus: ius quoddam sublime numinis efficacis,
-                        humanarum mentium opinione lunari circulo superpositum, vel ut definiunt
-                        alii, substantialis tutela generali potentia partilibus praesidens fatis,
-                        quam theologi veteres fingentes Iustitiae filiam ex abdita quadam
-                        aeternitate tradunt omnia despectare terrena.</p>
-                    <table n="depenses" cols="2">
-                        <head><date when="1852-02-02">2 février, Lundi</date></head>
-                        <row>
-                            <cell><num>1</num> bouteille d’encre</cell>
-                            <cell>
-                                <measure unit="franc"><num>0.25</num></measure>
-                            </cell>
-                        </row>
-                        <row>
-                            <cell><num>1</num> allumette</cell>
-                            <cell>
-                                <measure unit="franc"><num>0.10</num></measure>
-                            </cell>
-                        </row>
-                        <row>
-                            <cell><num>1/2</num> litre vin</cell>
-                            <cell><measure unit="franc"><num>0.11</num></measure>
-                            </cell>
-                        </row>
-                        <row>
-                            <cell>[Total]</cell>
-                            <cell>
-                                <measure unit="franc">
-                                    <num>0.<subst>
-                                        <del>54</del>
-                                        <add place="ligne">46</add>
-                                    </subst></num>
-                                </measure>
-                            </cell>
-                        </row>
-                    </table>
-                    <p>Inter quos Paulus eminebat notarius ortus in Hispania, glabro quidam sub
-                        vultu latens, odorandi vias periculorum occultas perquam sagax. is in
-                        Brittanniam missus ut militares quosdam perduceret ausos conspirasse
-                        Magnentio, cum reniti non possent, iussa licentius supergressus fluminis
-                        modo fortunis conplurium sese repentinus infudit et ferebatur per strages
-                        multiplices ac ruinas, vinculis membra ingenuorum adfligens et quosdam
-                        obterens manicis, crimina scilicet multa consarcinando a veritate longe
-                        discreta. <ref type="note" target="#meetings2010N0001">unde admissum est facinus
-                            impium, quod Constanti tempus nota inusserat sempiterna</ref>.</p>
-                    <div xml:id="meetings2010BodyFr03.01" type="chapter">
-                        <head>titre de chapitre</head>
-                        <p>Incenderat autem audaces usque ad insaniam homines ad haec, quae nefariis
-                        egere conatibus, Luscus quidam curator urbis subito visus: <list>
-                            <item>eosque ut</item>
-                            <item>heiulans baiolorum praecentor</item>
-                            <item>ad expediendum quod orsi sunt incitans vocibus</item>
-                            <item>Dum apud Persas, ut supra narravimus, perfidia.</item></list> Regis motus agitat insperatos,
-                        crebris. qui haut longe postea ideo vivus exustus est.</p>
-                    <p>et in eois tractibus bella rediviva consurgunt, anno sexto decimo et eo
-                        diutius <ref type="note" target="#meetings2010N0002">post Nepotiani exitium</ref>,
-                        saeviens per urbem aeternam urebat cuncta Bellona, ex primordiis minimis ad
-                        clades excita luctuosas, quas obliterasset utinam iuge silentium! ne forte
-                        paria quandoque temptentur, plus exemplis generalibus nocitura quam
-                        delictis.</p>
+                <div xml:id="meetings2010BodyFr03" type="part" n="1">
+                    <head>Session 2 : L’enseignement de Desgodets</head>
+                    <p>Présidence <hi rend="bold"
+                        >Jean-Philippe Garric</hi> (ENSA Paris-Belleville, INHA) </p>
+                    <div xml:id="meetings2010BodyFr03.01" type="section">
+                        <head>Quatre copies des cours d’Antoine Desgodets dans la bibliothèque de l’architecte suédois C.J. Cronstedt</head>
+                        <p>14h15 - <hi rend="bold"
+                            >Linnéa Rollenhagen-Tilly</hi> (Université de Panthéon-Assas)</p>
+                        <p>La bibliothèque d’architecture de Carl Johan Cronstedt (1709-1777) renferme quatre manuscrits des cours d’Antoine Desgodets: trois traités des ordres (1724) et un traité du toisé (1725). Pourquoi cet intérêt pour l’enseignement de Desgodets ? Et d’où viennent ces manuscrits ? Dans un premier temps je donnerai une description matérielle de ces documents (forme et contenu) en me concentrant plus particulièrement sur une comparaison entre les trois versions des ordres, dont deux sont illustrés et un comprend de nombreux calques. Ceci dans le but de proposer des hypothèses des provenances et/ou des auteurs de ces manuscrits.  Puis j’exposerai brièvement l’histoire de la bibliothèque ainsi que le rôle de C.J. Cronstedt en Suède, afin d’essayer de comprendre et situer ces cours de Desgodets dans sa collection. Enfin je présenterai quelques dessins conservés dans les collections Tessin-Harleman et Cronstedt au Nationalmuseum à Stockholm, attribués à ou signés par Desgodets, dont certains sont tirés des traités des ordres et des commodités.</p>
                     </div>
-                    <figure type="illustration" copyOf="#meetings2010Ill0004"/>
-                    <div xml:id="meetings2010BodyFr03.02" type="chapter">
-                        <head>Titre de chapitre</head>
-                        <p>Haec igitur Epicuri non probo, inquam. De cetero vellem equidem aut ipse
-                        doctrinis fuisset instructior est enim, quod tibi ita videri necesse est,
-                        non satis politus iis artibus, quas qui tenent, eruditi appellantur aut ne
-                        deterruisset alios a studiis. quamquam te quidem video minime esse
-                        deterritum.</p>
+                    <div xml:id="meetings2010BodyFr03.02" type="section">
+                        <head>Sur les traces du cours complet du Traité de la commodité de Desgodets</head>
+                        <p>15h - <hi rend="bold"
+                            >Hélène Rousteau-Chambon</hi> (Université de Nantes)</p>
+                        <p>Du 15 novembre 1723 à sa dernière année d’enseignement, en 1728, Desgodets dicta un cours sur la commodité – ou distribution - aux élèves de l’Académie, simultanément à des leçons sur le toisé, les ordres ou la coupe des pierres. Une partie de ce cours concernant les édifices religieux et quelques édifices publics est conservé sous forme de manuscrit en deux exemplaires (Amsterdam et Paris), mais seule la première et plus longue partie du cours a été rapidement étudiée jusqu’à présent. Grâce aux affiches annuelles des cours, à quelques mentions éparses dans les procès verbaux et grâce à un dessin conservé à Amsterdam, il est possible de restituer l’ensemble de ce cours et d’en mesurer l’importance considérable : outre les édifices religieux, Desgodets livra des modèles pour des hôtels de ville, parlements, hôpitaux, bains publics. Il pratiqua aussi certainement de même pour toutes les formes d’édifices privés. Ce cours constitue donc un véritable manuel d’architecture annonçant directement le cours de J.-F. Blondel portant sur la distribution (<hi
+                                rend="italic"
+                                >Cours d’architecture ou Traité de la décoration, distribution et construction des bâtiments contenant les leçons données en 1750 et les années suivantes</hi>, Paris, Desaint, 1771-1777, 6 vol)</p>
+                    </div>
+                    <div xml:id="meetings2010BodyFr03.03" type="section">
+                        <head>Le Toisé enseigné à l’Académie d’architecture</head>
+                        <p>16h 15 - <hi rend="bold"
+                            >Dirk Van de Vijver</hi> (Université d’Utrecht)</p>
+                        <p>Dans l’œuvre écrite de Desgodets, je m’intéresse particulièrement aux textes consacrés au toisé. Dans un premier temps, je me concentrerai sur ‘l’opération’ même du toisé. Comment procède-t-il, dans cette rédaction écrite - ou mieux: la ‘réduction en modèle’ – du toisé d’après les ‘us et coutumes de Paris’ pour déduire des mesures du bâtiment le coût des matériaux et de la main-d’œuvre ? Comment modélise-t-il le bâtiment, la prise des mesures, les opérations de calcul des nombres et des solides, le coût des matériaux et de la main-d’œuvre? Quel est la place de sa codification dans l’évolution du toisé : quel est son rapport avec les traités précédents et postérieurs, en France ou à l’étranger ? Dans un second temps, je m’interroger sur les parallèles possibles entre cette approche ou cette modélisation opérative  dans le domaine du toisé avec les matières traités dans les autres écrits de (ou les notes d’après) notre auteur. Pensons à l’usage des mesures dans les autres domaines de l’œuvre de Desgodets (‘mesurer très exactement’ les monuments, les ordres), à la modélisation de la réalité construite en nombre ou en ligne, ou, plus généralement, dans la ‘réduction en modèle’ (commodités, servitudes). </p>
+                    </div>
+                    <div xml:id="meetings2010BodyFr03.04" type="section">
+                        <head>Un traité des servitudes chez les architectes</head>
+                        <p>17h - <hi rend="bold"
+                            >Robert Carvais</hi> (CNRS - Université de Panthéon-Assas- ENSA Versailles)</p>
+                        <p>Ce traité d’Antoine Desgodets qui a gagné sa réputation par la version que son élève Martin Goupy, architecte expert-bourgeois, a éditée posthume, augmentée de ses propres commentaires sous le nom de <hi
+                                rend="italic"
+                            >Loix des bâtiments</hi>, est doublement original : tout d’abord par le projet de son auteur, ensuite par le succès des éditions successives sur un siècle, voire au-delà. L’écriture du traité révèle une démarche préalable singulière de préparation au droit de l’époque dans la constitution d’un corpus juridique complet de coutumes et de décisions judiciaires sur le sujet – une conférence de coutume avant la lettre, puis la rédaction d’un commentaire nourri de références judiciaires. Il faudra alors se poser la question de l’emprunt de ces commentaires aux traités juridiques existants ou de la pure originalité des notices. La nécessité de diffuser le traité à grande échelle donne l’occasion à Martin Goupy d’en réaliser un best-seller en y ajoutant ses propres commentaires parfois critiques et des outils de recherche pratique. Cependant, quelques éditions dissidentes contrarieront l’unité juridique parisienne. Enfin, cet ouvrage originairement écrit par et pour des architectes retrouvera après la Révolution une seconde vie auprès des juristes.</p>
                     </div>
                 </div>
-                <div xml:id="meetings2010BodyFr04" type="part" n="4">
-                    <head>Précision sur le travail d'édition et les partis-pris</head>
-                    <p>Utque proeliorum periti rectores primo catervas densas opponunt et fortes,
-                        deinde leves armaturas, post iaculatores ultimasque subsidiales acies, si
-                        fors adegerit, iuvaturas, ita praepositis urbanae familiae suspensae
-                        digerentibus sollicite, quos insignes faciunt virgae dexteris aptatae velut
-                        tessera data castrensi iuxta vehiculi frontem omne textrinum incedit: huic
-                        atratum coquinae iungitur ministerium, dein totum promiscue servitium cum
-                        otiosis plebeiis de vicinitate coniunctis: postrema multitudo spadonum a
-                        senibus in pueros desinens, obluridi distortaque lineamentorum conpage
-                        deformes, ut quaqua incesserit quisquam cernens mutilorum hominum agmina
-                        detestetur memoriam Samiramidis reginae illius veteris, quae teneros mares
-                        castravit omnium prima velut vim iniectans naturae, eandemque ab instituto
-                        cursu retorquens, quae inter ipsa oriundi crepundia per primigenios seminis
-                        fontes tacita quodam modo lege vias propagandae posteritatis ostendit.</p>
-                    <p>Nemo quaeso miretur, si post exsudatos labores itinerum longos congestosque
-                        adfatim commeatus fiducia vestri ductante barbaricos pagos adventans velut
-                        mutato repente consilio ad placidiora deverti.</p>
-                    <p>Exsistit autem hoc loco quaedam quaestio subdifficilis, num quando amici
-                        novi, digni amicitia, veteribus sint anteponendi, ut equis vetulis teneros
-                        anteponere solemus. Indigna homine dubitatio! Non enim debent esse
-                        amicitiarum sicut aliarum rerum satietates; veterrima quaeque, ut ea vina,
-                        quae vetustatem ferunt, esse debet suavissima; verumque illud est, quod
-                        dicitur, multos modios salis simul edendos esse, ut amicitiae munus expletum
-                        sit.</p>
-                </div>
-                <div xml:id="meetings2010BodyFr05" type="part" n="5">
-                    <head>Portée du texte</head>
-                    <p>Nam sole orto magnitudine angusti gurgitis sed profundi a transitu arcebantur
-                        et dum piscatorios quaerunt lenunculos vel innare temere contextis cratibus
-                        parant, effusae legiones, <ref type="note" target="#meetings2010N0003">quae hiemabant
-                            tunc apud</ref> Siden, isdem impetu occurrere veloci. et signis prope
-                        ripam locatis ad manus comminus conserendas denseta scutorum conpage semet
-                        scientissime praestruebant, <ref type="note" target="#meetings2010N0004">ausos quoque
-                            aliquos fiducia nandi vel cavatis arborum truncis amnem permeare
-                            latenter facillime trucidarunt</ref>.</p>
-                    <p>Et eodem impetu Domitianum praecipitem per scalas itidem funibus
-                        constrinxerunt, eosque coniunctos per ampla spatia civitatis acri raptavere
-                        discursu. iamque artuum et membrorum divulsa conpage superscandentes corpora
-                        mortuorum ad ultimam truncata deformitatem velut exsaturati mox abiecerunt
-                        in flumen.</p>
-                    <p>Adolescebat autem obstinatum propositum erga haec et similia multa scrutanda,
-                        stimulos admovente regina, quae abrupte mariti fortunas trudebat in exitium
-                        praeceps, cum eum potius lenitate feminea ad veritatis humanitatisque viam
-                        reducere utilia suadendo deberet, ut in Gordianorum actibus factitasse
-                        Maximini truculenti illius imperatoris rettulimus coniugem.</p>
-                    <p>Rogatus ad ultimum admissusque in consistorium ambage nulla praegressa
-                        inconsiderate et leviter proficiscere inquit ut praeceptum est, Caesar
-                        sciens quod si cessaveris, et tuas et palatii tui auferri iubebo prope diem
-                        annonas. hocque solo contumaciter dicto subiratus abscessit nec in
-                        conspectum eius postea venit saepius arcessitus.</p>
-                    <p>Post haec indumentum regale quaerebatur et ministris fucandae purpurae tortis
-                        confessisque pectoralem tuniculam sine manicis textam, Maras nomine quidam
-                        inductus est ut appellant Christiani diaconus, cuius prolatae litterae
-                        scriptae Graeco sermone ad Tyrii textrini praepositum celerari speciem
-                        perurgebant quam autem non indicabant denique etiam idem ad usque discrimen
-                        vitae vexatus nihil fateri conpulsus est.</p>
-                </div>
+                <!--<figure type="illustration" copyOf="#meetings2010Ill0003"/>-->
             </div>
         </body>
         <back xml:id="meetings2010Back">
             <div xml:id="meetings2010BackFr" xml:lang="fre">
                 <!-- inclusion du fichier de notes -->
-                <xi:include href="divs/desgodetsMeetings2010Notes.tei.xml"
-                    parse="xml">
+                <xi:include href="divs/desgodetsMeetings2010Notes.tei.xml" parse="xml">
                     <xi:fallback>Fichier de notes de desgodetsMeetings2010Notes
                         non trouvé</xi:fallback>
                 </xi:include>
 
                 <!-- lien vers le fichier à télécharger -->
-                <div xml:id="meetings2010BackFr02" xml:lang="fre"
-                    type="downloads">
+                <div xml:id="meetings2010BackFr02" xml:lang="fre" type="downloads">
                     <head>Téléchargements</head>
                     <!--<p><ref type="file" target="../../files/programme2010.pdf">programme</ref></p>-->
-                    <p><ref type="file" target="../..files/programme2010.pdf"
-                            mimeType="application/pdf">Programme</ref></p>
+                    <p>
+                        <ref type="file" target="../..files/programme2010.pdf"
+                            mimeType="application/pdf">Programme</ref>
+                    </p>
                 </div>
 
                 <!-- liste des figures -->
-                <div xml:id="meetings2010BackFr03" xml:lang="fre" type="figures">
+                <!--<div xml:id="meetings2010BackFr03" xml:lang="fre" type="figures">
                     <head>Liste des figures</head>
                     <figure xml:id="meetings2010Ill0001" type="illustration">
                         <figDesc>
                             <title>Frontispice des édifices antiques</title>
-                            <desc>Antoine Desgodets, <hi rend="italic">Les
+                            <desc>Antoine Desgodets, <hi rend="italic"
+                                    >Les
                                     édifices antiques</hi>, frontispice</desc>
                         </figDesc>
-                        <!-- test de note -->
+                        <!-\- test de note -\->
                         <note>Test de texte de note qui peut être assez long. Aller à la ligne avant ce texte.</note>
                         <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg" />
+                            mimeType="image/jpeg"/>
                         <graphic n="medium" url="../../images/medium/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg" />
+                            mimeType="image/jpeg"/>
                         <graphic n="full" url="../../images/full/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg" />
+                            mimeType="image/jpeg"/>
                     </figure>
                     <figure xml:id="meetings2010Ill0003" type="illustration">
                         <figDesc>
                             <title>Dédicace</title>
-                            <desc>Antoine Desgodets, <hi rend="italic">Les
+                            <desc>Antoine Desgodets, <hi rend="italic"
+                                    >Les
                                     édifices antiques</hi>, p. 9</desc>
                         </figDesc>
                         <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0257.jpg"
-                            mimeType="image/jpeg" />
+                            mimeType="image/jpeg"/>
                         <graphic n="medium" url="../../images/medium/desgodetsEdifices0257.jpg"
-                            mimeType="image/jpeg" />
+                            mimeType="image/jpeg"/>
                         <graphic n="full" url="../../images/full/desgodetsEdifices0257.jpg"
-                            mimeType="image/jpeg" />
+                            mimeType="image/jpeg"/>
                     </figure>
                     <figure xml:id="meetings2010Ill0004" type="illustration">
                         <figDesc>
                             <title>Élévation antérieure du panthéon</title>
-                            <desc>Antoine Desgodets, <hi rend="italic">Les
+                            <desc>Antoine Desgodets, <hi rend="italic"
+                                    >Les
                                     édifices antiques</hi>, p. 30</desc>
                         </figDesc>
                         <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg" />
+                            mimeType="image/jpeg"/>
                         <graphic n="medium" url="../../images/medium/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg" />
+                            mimeType="image/jpeg"/>
                         <graphic n="full" url="../../images/full/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg" />
+                            mimeType="image/jpeg"/>
                     </figure>
                     <figure xml:id="meetings2010Ill0033" type="illustration">
                         <figDesc>
                             <title>Élévation latérale du panthéon</title>
-                            <desc>Antoine Desgodets, <hi rend="italic">Les
+                            <desc>Antoine Desgodets, <hi rend="italic"
+                                    >Les
                                     édifices antiques</hi>, p. 33</desc>
                         </figDesc>
                         <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg" />
+                            mimeType="image/jpeg"/>
                         <graphic n="medium" url="../../images/medium/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg" />
+                            mimeType="image/jpeg"/>
                         <graphic n="full" url="../../images/full/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg" />
+                            mimeType="image/jpeg"/>
                     </figure>
-                </div>
+                </div>-->
             </div>
         </back>
     </text>
