@@ -67,8 +67,7 @@
             </titleStmt>
             <!-- mention d'édition -->
             <editionStmt>
-                <edition n="1">première édition électronique, <date when="2013"
-                    >2013</date></edition>
+                <edition n="1">première édition électronique, <date when="2013">2013</date></edition>
             </editionStmt>
             <extent><!-- TODO : taille du fichier en octet --></extent>
             <!-- information sur la publication électronique -->
@@ -148,7 +147,8 @@
             </notesStmt>-->
             <!-- description de la source -->
             <sourceDesc>
-                <p xml:id="editionModel">Texte original : le texte a été créé sous forme
+                <p xml:id="editionModel"
+                    >Texte original : le texte a été créé sous forme
                     électronique</p>
             </sourceDesc>
         </fileDesc>
@@ -156,7 +156,8 @@
             <!-- description du projet éditorial -->
             <projectDesc>
                 <p>L'édition des cours de Desgodets fait partie d'un programme de recherche sur la
-                    formalisation du savoir architectural au XVII<hi rend="superscript">e</hi>
+                    formalisation du savoir architectural au XVII<hi
+                        rend="superscript">e</hi>
                     siècle.</p>
             </projectDesc>
             <!-- déclaration des principes éditoriaux -->
@@ -227,15 +228,9 @@
             </titlePage>
             <div xml:id="editionModelFrontFr" xml:lang="fre">
                 <div xml:id="editionModelFrontFr01" type="abstract">
-                    <p>Hae duae provinciae bello quondam piratico catervis mixtae praedonum a
-                        Servilio pro consule missae sub iugum factae sunt vectigales. et hae quidem
-                        regiones velut in prominenti terrarum lingua positae ob orbe eoo monte Amano
-                        disparantur.</p>
-                    <p>Quam ob rem circumspecta cautela observatum est deinceps et cum edita montium
-                        petere coeperint grassatores, loci iniquitati milites cedunt. ubi autem in
-                        planitie potuerint reperiri, quod contingit adsidue, nec exsertare lacertos
-                        nec crispare permissi tela, quae vehunt bina vel terna, pecudum ritu
-                        inertium trucidantur.</p>
+                    <p>L'édition des Cours d’Antoine Desgodets est une édition électronique XML-TEI. Cette section comporte une documentation des choix d'encodage et des informations sur la production des fichiers. Elle donne également accès à la modélisation sous la forme d'une spécification de haut niveau en ODD, ou bien au schema Relax-NG. Les fichiers XML-TEI des cours sont téléchargeables depuis leurs pages de consultation. L'ensemble des sources du projet sont versionnées et librement téléchargeables depuis <ref
+                            type="external" target="https://github.com/desgodets/desgodetsSources"
+                            >notre entrepôt GitHub</ref>.</p>
                 </div>
                 <div xml:id="editionModelFrontFr02" type="introduction">
                     <head>Introduction</head>
@@ -243,13 +238,16 @@
                         en premier lieu une édition numérique en ligne, se posait d’une manière ou
                         d’une autre la question de l’encodage du texte. En effet, le rendu d’une
                         page web repose sur un balisage HTML (Hypertext Markup Language). Toute
-                        présentation web de nos textes nécessitait donc <foreign xml:lang="lat">a
+                        présentation web de nos textes nécessitait donc <foreign
+                            xml:lang="lat"
+                            >a
                             minima</foreign> une opération d’encodage, au moins présentationnel. Dans
                         son <title>Référentiel général d’interopérabilité</title> publié en 2009, la
                         Direction générale de la modernisation de l’État recommande l’utilisation
                         des technologies XML (Extensible Markup Language) à des fins
                         d’interopérabilité et de pérennisation de l’information<ref
-                            type="note" target="#editionModelN0001"/>. Par ailleurs, le dialecte XML de la Text Encoding Initiative (TEI)
+                            type="note" target="#editionModelN0001"
+                        />. Par ailleurs, le dialecte XML de la Text Encoding Initiative (TEI)
                         s’est très largement imposé comme standard de fait dans le domaine de
                         l’édition numérique à caractère scientifique ces dernières années, en
                         particulier pour la publication des sources primaires. C’est donc assez
@@ -280,7 +278,8 @@
                             Depuis l’article séminal de Coombs et ses collègues, on a pris
                             l’habitude de distinguer plusieurs types de balisages : procédural,
                             présentationnel, ou descriptif<ref
-                                type="note" target="#editionModelN0002"/>. La supériorité du balisage descriptif sur les autres types de
+                                type="note" target="#editionModelN0002"
+                            />. La supériorité du balisage descriptif sur les autres types de
                             balisage du texte a clairement été établie depuis quelques années. Un
                             tel balisage présente l’avantage notable d’assurer une meilleure
                             distinction entre le contenu et la forme (et donc de séparer les
@@ -296,21 +295,24 @@
                             alternatives sur le document ou bien une édition basée sur la structure
                             du texte. Les trois opérations qui interviennent au cours du balisage
                             sont donc les suivantes :<list>
-                                <item><hi rend="bold">la reconnaissance des éléments</hi>,
+                                <item><hi rend="bold"
+                                    >la reconnaissance des éléments</hi>,
                                     reconnaître que l’élément courant est un élément d’un certain
                                     type (paragraphe, citation en prose, note de bas de page,
                                     etc.)</item>
-                                <item><hi rend="bold">la sélection des balises</hi>, déterminer le
+                                <item><hi rend="bold"
+                                    >la sélection des balises</hi>, déterminer le
                                     balisage qui s’applique au type d’élément reconnu</item>
-                                <item><hi rend="bold">la réalisation du balisage</hi>, marquage de
+                                <item><hi rend="bold"
+                                    >la réalisation du balisage</hi>, marquage de
                                     l’élément.</item>
-                            </list><ref
-                                type="note" target="#editionModelN0004"/></p>
+                            </list><ref type="note" target="#editionModelN0004"/></p>
                         <p>L’idée d’un balisage descriptif qui repose sur le fait de marquer le
                             contenu d’un texte par des éléments suggère une représentation du texte
                             qui correspond à ce qu’on a appelé un modèle d’<soCalled>éléments
                                 contenus hiérarchiquement imbriqués</soCalled> (OHCO, <foreign
-                                xml:lang="eng">Ordered Hierarchical Content Objects</foreign>, en
+                                xml:lang="eng"
+                            >Ordered Hierarchical Content Objects</foreign>, en
                             anglais). Dans une telle représentation du texte, les éléments contenus
                             (paragraphes, citations, phrases, notes, etc.) sont présentés à
                             l’intérieur d’une structure hiérarchique. La structure du texte est
@@ -325,17 +327,20 @@
                             même expressivité qu’un simple balisage descriptif. Par ailleurs, les
                             dispositifs d’édition fondés sur un balisage descriptif présentent
                             plusieurs avantages sur le balisage fondé sur la présentation comme LaTex :<list>
-                                <item><label n="1">1°</label> Le processus d’établissement du texte
+                                <item><label n="1"
+                                    >1°</label> Le processus d’établissement du texte
                                     se trouve simplifié par la focalisation sur le contenu plutôt
                                     que sur le contrôle du programme (dans le cas d’un balisage
                                     procédural) ou de la présentation typographique de la copie
                                     (comme avec LaTex)</item>
-                                <item><label n="2">2°</label> Les questions de maintenance sont
+                                <item><label n="2"
+                                    >2°</label> Les questions de maintenance sont
                                     réduites à un nombre limité de problèmes indépendants du fichier
                                     proprement dit. L’actualisation des styles et la mise à jour
                                     s’en trouvent facilitées sans risque de corruption des
                                     documents.</item>
-                                <item><label n="3">3°</label> Enfin, ils fournissent de meilleurs
+                                <item><label n="3"
+                                    >3°</label> Enfin, ils fournissent de meilleurs
                                     standards dans le domaine patrimonial et culturel, ou pour
                                     l’industrie, du point de vue de la portabilité. Ils permettent
                                     en effet le partage aisé des fichiers et réduisent, à terme, les
@@ -366,11 +371,13 @@
                             fois les relations hiérarchiques et séquentielles. Et la présence du
                             balisage détermine la possibilité de traiter les éléments pour une
                             transformation. </p>
-                        <p>Le métalangage informatique XML (<foreign xml:lang="eng">Extensible
+                        <p>Le métalangage informatique XML (<foreign xml:lang="eng"
+                                >Extensible
                                 Markup Language</foreign>) permet le développement de vocabulaires
                             descriptifs de balisages interopérables spécifiques à certains
                             domaines<ref
-                                type="note" target="#editionModelN0005"/>. Son modèle de contenu arborescent est précisément conforme au
+                                type="note" target="#editionModelN0005"
+                                    />. Son modèle de contenu arborescent est précisément conforme au
                             modèle OHCO. S’il offre une grammaire lisible par la machine, il ne
                             présente pas une réelle sémantique et ne peut donc à lui seul spécifier
                             formellement une sémantique. XML propose simplement une solution
@@ -409,7 +416,8 @@
                             la standardisation. S’accordant tous sur le besoin de pratiques
                             communes, ces participants formulèrent une dizaine de principes
                             directeurs<ref
-                                type="note" target="#editionModelN0007" />. Ceux-ci mettaient notamment l’accent sur la conversion de
+                                type="note" target="#editionModelN0007"
+                            />. Ceux-ci mettaient notamment l’accent sur la conversion de
                             formats et la nécessité de développer un métalangage pour des schémas
                             d’encodage descriptifs.</p>
                         <p>L’<orgName>ACH</orgName>, rapidement suivie dans son effort de
@@ -420,7 +428,9 @@
                             internationale et multilingue et développer des recommandations pour la
                             préparation et l’échange de textes électroniques dans le domaine
                             universitaire. Dès 1993, la TEI publiait une première version de ses
-                                <title xml:lang="eng">Guidelines for the Encoding and Interchange of
+                                <title
+                                xml:lang="eng"
+                                >Guidelines for the Encoding and Interchange of
                                 Machine-Readable Texts</title>. Ce rapport proposait un ensemble de
                             conventions pour l’encodage de différents types de textes pour servir
                             dans le domaine des sciences du langage ou des sciences humaines. Cette
@@ -428,11 +438,13 @@
                             les chercheurs n’avaient été capables de formuler un consensus sur les
                             pratiques d’encodage.</p>
                         <p>Alors qu’elle avait d’abord été fondée sur l’utilisation de la syntaxe
-                            SGML (<foreign xml:lang="eng">Standard Generalized Markup
+                            SGML (<foreign
+                                xml:lang="eng"
+                                >Standard Generalized Markup
                                 Language</foreign>), la TEI a adopté XML dès la première publication
                             de sa spécification en 1996, certains membres de la TEI avaient en effet
-                            participé à son développement. Par la suite, les <title xml:lang="eng"
-                                >Guidelines</title> ont été étayées par l’apport d’autres
+                            participé à son développement. Par la suite, les <title
+                                xml:lang="eng">Guidelines</title> ont été étayées par l’apport d’autres
                             spécialités pour prendre en charge une plus grande diversité de textes.
                             On en est aujourd’hui à la cinquième proposition numérotée P5, et elle
                             est organisée autour d’un consortium et d’une importante communauté
@@ -448,7 +460,9 @@
                                     de générer plusieurs formats de sortie à partir d’une même
                                     source</item>
                                 <item>son adaptation à l’édition électronique (croisement de
-                                    sources, <foreign xml:lang="lat">fac simili</foreign>,
+                                    sources, <foreign
+                                        xml:lang="lat"
+                                    >fac simili</foreign>,
                                     hyperliens, etc.)</item>
                                 <item>les possibilités de modulation de l’affichage et
                                     d’accessibilité, ses aspects économiques</item>
@@ -458,14 +472,15 @@
                             sont d’abord ces qualités qui expliquent la large implantation de la TEI
                             dans la communauté scientifique. Elle sert de format à de nombreux
                             projets d’envergure internationale (Blake archive<ref
-                                type="note" target="#editionModelN0008" />, Perseus<ref
-                                    type="note" target="#editionModelN0009" />, Rosetti<ref
-                                        type="note" target="#editionModelN0010" />, etc.). Plusieurs projets français de grande envergure utilisent
+                                type="note" target="#editionModelN0008"/>, Perseus<ref type="note"
+                                target="#editionModelN0009"/>, Rosetti<ref type="note"
+                                target="#editionModelN0010"
+                                />, etc.). Plusieurs projets français de grande envergure utilisent
                             également la TEI dans le domaine des sciences historiques (BVH<ref
-                                type="note" target="#editionModelN0011" />, Élec<ref
-                                    type="note" target="#editionModelN0012" />, le portail Telma<ref
-                                        type="note" target="#editionModelN0013" />, ENS Lyon<ref
-                                            type="note" target="#editionModelN0014" />, etc.).</p>
+                                type="note" target="#editionModelN0011"/>, Élec<ref type="note"
+                                target="#editionModelN0012"/>, le portail Telma<ref type="note"
+                                target="#editionModelN0013"/>, ENS Lyon<ref type="note"
+                                target="#editionModelN0014"/>, etc.).</p>
                     </div>
                     <div xml:id="editionModelBodyFr01.03" type="chapter">
                         <head>Un standard de fait pour la production de sources primaires</head>
@@ -474,7 +489,8 @@
                             des conventions d’encodage simples, faciles à employer, relativement
                             compréhensibles, et qui fournissent d’amples mécanismes d’extension afin
                             de pouvoir répondre à des besoins particuliers.<ref
-                                type="note" target="#editionModelN0015" /> Cette modularité avec ses possibilités de personnalisation et
+                                type="note" target="#editionModelN0015"
+                                /> Cette modularité avec ses possibilités de personnalisation et
                             d’extension seyait mieux à la recherche. Néanmoins, la TEI s’est
                             rapidement imposée comme standard de fait pour l’encodage de textes
                             numériques dans le domaine des sciences humaines. Plusieurs raisons
@@ -528,7 +544,8 @@
                                 blancs, ou encore ce qu’il faut faire des choses que l’on n’est pas
                                 en mesure d’entrer au clavier comme les figures dans le texte ou les
                                 symboles dépourvus de représentation Unicode.<ref
-                                    type="note" target="#editionModelN0016" /></quote> Dès lors, le choix des concepteurs de la TEI qui
+                                    type="note" target="#editionModelN0016"
+                            /></quote> Dès lors, le choix des concepteurs de la TEI qui
                             consistait à caler sa sémantique sur la structure de XML est
                             particulièrement significatif. En effet, le modèle de contenu de XML est
                             fondé sur l’arborescence, il détermine ainsi une grande partie de la
@@ -542,21 +559,25 @@
                             l’intérieur d’un paragraphe, on peut marquer un nom de personne ou de
                             lieu à l’aide d’éléments <gi>persName</gi> ou <gi>placeName</gi>.
                                 <quote>Une telle configuration est très commode pour le traitement
-                                    (<foreign xml:lang="eng">processing</foreign>), puisqu’il est
+                                    (<foreign
+                                    xml:lang="eng"
+                                    >processing</foreign>), puisqu’il est
                                 relativement trivial de transformer un élément TEI <gi>div</gi> ou
                                     <gi>p</gi> en l’élément HTML correspondant, ou encore
                                     <gi>persName</gi> en un hyperlien qui pointe vers les
                                 informations concernant la personne désignée. Cependant, cela
                                 signifie également que les capacités de modélisation de la TEI sont
                                 celles déterminées par XML.<ref
-                                    type="note" target="#editionModelN0017" /></quote></p>
+                                    type="note" target="#editionModelN0017"/></quote></p>
                         <p>Dès 2002, <persName>Buzetti</persName> a avancé que la structure
                             arborescente n’était pas suffisamment expressive pour rendre compte de
                             toute la complexité d’un texte<ref
-                                type="note" target="#editionModelN0018" />, et en 2010 <persName>Schmidt</persName> a considéré que la TEI
+                                type="note" target="#editionModelN0018"
+                                />, et en 2010 <persName>Schmidt</persName> a considéré que la TEI
                             constituait un mauvais modèle du texte car elle imposait des
                             interprétations éditoriales sur le texte lui-même<ref
-                                type="note" target="#editionModelN0019" />. La TEI peut parfois se révéler en partie inadéquate pour
+                                type="note" target="#editionModelN0019"
+                            />. La TEI peut parfois se révéler en partie inadéquate pour
                             traiter par exemple la structure du discours ou la sémantique du texte.
                             Son modèle impose souvent de traiter séparément l’encodage du texte et
                             son inscription sur le support pour les sources primaires. Mais son
@@ -567,7 +588,8 @@
                             XML.</p>
                         <p>C’est ici en réalité la question du texte et des différentes lectures que
                             l’on peut en avoir qui est soulevée<ref
-                                type="note" target="#editionModelN0020" />. Est-ce que le texte peut exister indépendamment de son apparat
+                                type="note" target="#editionModelN0020"
+                            />. Est-ce que le texte peut exister indépendamment de son apparat
                             critique ? Dans de nombreux cas, il n’y a pas de texte proprement dit
                             mais seulement une multiplicité de lectures. Or, la lecture constitue de
                             fait un exercice interprétatif, la TEI présente ici au moins l’avantage
@@ -588,7 +610,9 @@
                     <head>La modélisation XML-TEI</head>
                     <div xml:id="editionModelBodyFr02.01" type="chapter">
                         <p>La TEI peut donc se concevoir comme un cadre de travail technique, un
-                                <foreign xml:lang="eng">framework</foreign>, qui accompagne
+                                <foreign
+                                xml:lang="eng"
+                                >framework</foreign>, qui accompagne
                             l’éditeur ou l’encodeur dans la structuration de l’information. Elle
                             consiste en un ensemble de préconisations qui doivent être adaptées aux
                             spécificités inhérentes à chaque projet éditorial. Comme le relève
@@ -619,13 +643,19 @@
                                 l’interprétation que l’on doit attacher à certaines constructions
                                 syntactiques. En ce sens, elle fournissent à la fois une définition
                                 de type de document, et une déclaration de type de document. Plus
-                                exactement, on peut distinguer le <hi rend="italic">modèle abstrait
-                                    de la TEI</hi> (<foreign xml:lang="eng">TEI Abstract
+                                exactement, on peut distinguer le <hi
+                                    rend="italic"
+                                    >modèle abstrait
+                                    de la TEI</hi> (<foreign
+                                    xml:lang="eng"
+                                    >TEI Abstract
                                     Model</foreign>) qui définit un ensemble de concepts en rapport,
-                                et le <hi rend="italic">schéma TEI</hi> (<foreign xml:lang="eng">TEI
+                                et le <hi
+                                    rend="italic">schéma TEI</hi> (<foreign xml:lang="eng"
+                                    >TEI
                                     schema</foreign>) qui définit un ensemble de règles et de
                                     contraintes syntactiques.<ref
-                                        type="note" target="#editionModelN0021" /></quote></p>
+                                    type="note" target="#editionModelN0021"/></quote></p>
                     </div>
                     <div xml:id="editionModelBodyFr02.02" type="chapter">
                         <head>L’infrastructure de la TEI et la personnalisation</head>
@@ -672,19 +702,23 @@
                                 sont disponibles globalement, indépendamment des modules dans
                                 lesquelles elles sont déclarées. Lorsque c’est possible, les modèles
                                 de contenus sont définis en termes de classes (<foreign
-                                    xml:lang="eng">classes</foreign>), les modules peuvent également
-                                déclarer certains motifs particuliers (<foreign xml:lang="eng"
-                                    >patterns</foreign>).</p>
+                                    xml:lang="eng"
+                                    >classes</foreign>), les modules peuvent également
+                                déclarer certains motifs particuliers (<foreign
+                                    xml:lang="eng">patterns</foreign>).</p>
                             <div>
                                 <head>Les modules de la TEI</head>
                                 <p>Dans l’infrastructure de la TEI, les éléments de la TEI sont
                                     organisés au sein de différents modules qui les regroupent par
                                     type d’utilisation. Il y a au total vingt-deux modules
                                     actuellement définis, dont on trouvera la liste dans le tableau
-                                    ci-contre. Les trois modules <ident type="module">core</ident>,
-                                        <ident type="module">header</ident> et <ident type="module"
+                                    ci-contre. Les trois modules <ident
+                                        type="module"
+                                        >core</ident>,
+                                        <ident
+                                        type="module">header</ident> et <ident type="module"
                                         >textstructure</ident>, ainsi que <ident type="module"
-                                        >tei</ident> lorsqu’on utilise Relax NG, doivent être
+                                    >tei</ident> lorsqu’on utilise Relax NG, doivent être
                                     utilisés dans les cas habituels. Certains éléments définis à
                                     l’intérieur de ces modules sont employés par d’autres modules ce
                                     qui crée des dépendances.</p>
@@ -867,9 +901,12 @@
                                 <head>Les classes</head>
                                 <p>Outre ces vingt-deux modules, les cinq cent quarante-trois
                                     éléments de la TEI et leurs attributs sont également organisés
-                                    en classes de modèle (<foreign xml:lang="eng">model
+                                    en classes de modèle (<foreign
+                                        xml:lang="eng"
+                                        >model
                                         class</foreign>) et classes d’attribut (<foreign
-                                        xml:lang="eng">attribute class</foreign>) afin de faciliter
+                                        xml:lang="eng"
+                                    >attribute class</foreign>) afin de faciliter
                                     leur modification. Les éléments d’une même classe peuvent
                                     apparaître au même endroit dans un modèle de contenu, il s’agit
                                     alors d’une classe de modèle, ou partager un ensemble
@@ -911,11 +948,13 @@
                                 pour l’internationalisation ou ajouter des éléments, ce qui n’a pas
                                 été retenu dans le cadre de notre projet.</p>
                             <p>Les <title>Guidelines</title> décrivent trois manières de
-                                personnaliser (<foreign xml:lang="eng">customizing</foreign>) la TEI :<list>
+                                personnaliser (<foreign
+                                    xml:lang="eng">customizing</foreign>) la TEI :<list>
                                     <item><label>1°</label> Rédiger une spécification de haut niveau
                                         pour une représentation en TEI et générer un schéma <foreign
                                             xml:lang="lat">ad hoc</foreign> ;</item>
-                                    <item><label n="2">2°</label> Utiliser les modules de la TEI et
+                                    <item><label n="2"
+                                        >2°</label> Utiliser les modules de la TEI et
                                         spécifier dans ces sous-ensembles quelles fonctionnalités
                                         l’on souhaite activer ;</item>
                                     <item><label>3°</label> Utiliser les modules Relax NG, et
@@ -943,13 +982,15 @@
                                 documentation en prose et la documentation de référence des
                                     <title>Guidelines</title> dans un seul document. Une
                                 spécification ODD est un document XML-TEI qui utilise le module
-                                    <ident type="module">tagdocs</ident>. Lequel module fournit une
+                                    <ident
+                                    type="module"
+                                    >tagdocs</ident>. Lequel module fournit une
                                 série d’éléments employés pour spécifier un nouveau schéma, ou des
                                 modifications apportées à la structure des éléments TEI afin de
                                 générer automatiquement un schéma dans le format choisi et sa
                                 documentation correspondante au moyen d’un processeur destiné à cet
                                 effet.<ref
-                                    type="note" target="#editionModelN0022" /></p>
+                                    type="note" target="#editionModelN0022"/></p>
                             <p>Un document ODD se présente comme un document XML-TEI courant
                                 comportant une en-tête TEI, un élément <gi>front</gi>, <gi>body</gi>
                                 et <gi>back</gi>, le schéma est défini au moyen d’un élément
@@ -963,7 +1004,8 @@
                             <head>L’utilisation de Roma</head>
                             <p>L’outil Roma est un service web mis à disposition par la TEI afin de
                                 faciliter la personnalisation des schémas<ref
-                                    type="note" target="#editionModelN0023" />. Le service permet de produire une spécification ODD à
+                                    type="note" target="#editionModelN0023"
+                                />. Le service permet de produire une spécification ODD à
                                 l’aide d’une interface graphique permettant de choisir facilement
                                 parmi les composants de la TEI. Roma est également un programme qui
                                 utilise un ensemble de transformations XSLT produites par la TEI qui
@@ -992,17 +1034,22 @@
                                 devant faire l’objet d’une description appropriée, et pouvant
                                 comprendre des images, nous avons éprouvé le besoin d’ajouter
                                 plusieurs modules aux quatre modules habituels : <ident
-                                    type="module">tei</ident>, <ident type="module">header</ident>,
-                                    <ident type="module">core</ident>, et <ident type="module"
+                                    type="module">tei</ident>, <ident type="module"
+                                    >header</ident>,
+                                    <ident type="module"
+                                    >core</ident>, et <ident type="module"
                                     >textstructure</ident>. Le module <ident type="module"
                                     >msdescription</ident> a permis de prendre en charge une grande
-                                partie de la description des manuscrits. <ident type="module"
+                                partie de la description des manuscrits. <ident
+                                    type="module"
                                     >transcr</ident> est un module spécialisé dans la transcription
-                                des sources primaires manuscrites. Le module <ident type="module"
+                                des sources primaires manuscrites. Le module <ident
+                                    type="module"
                                     >figures</ident> apportait quant à lui les éléments nécessaires
                                 pour localiser et documenter les planches dans l’édition. S’agissant
                                 d’une édition à caractère historique, nous avons jugé que le module
-                                    <ident type="module">namesdates</ident> nous serait utile.</p>
+                                    <ident
+                                    type="module">namesdates</ident> nous serait utile.</p>
                             <p>Dans le fichier ODD, à l’intérieur de l’élément <gi>schemaSpec</gi>,
                                 une série d’éléments <gi>moduleRef</gi> servent à désigner les
                                 modules utilisés au moyen d’un attribut <att>key</att> : </p>
@@ -1090,8 +1137,7 @@
                                 valeurs d’attributs pour tout attribut membre de la classe
                                 att.internetMedia.</p>
                             <egXML xmlns="http://www.tei-c.org/ns/Examples">
-                                <classSpec ident="att.internetMedia" type="atts" mode="change"
-                                    module="tei">
+                                <classSpec ident="att.internetMedia" type="atts" mode="change" module="tei">
                                     <attList>
                                         <attDef ident="mimeType" mode="change">
                                             <valList type="closed" mode="replace">
@@ -1156,10 +1202,12 @@
                                 <head>L’inscription du texte sur le support</head>
                                 <p>Les manuscrits pris en charge étant souvent des copies au propre,
                                     l’emploi des éléments fournis par le module spécialisé de la TEI
-                                    consacré à la transcription des manuscrits <ident type="module"
+                                    consacré à la transcription des manuscrits <ident
+                                        type="module"
                                         >transcr</ident> suffisait très largement à couvrir nos
                                     besoins. Il s’est trouvé utilement complété par le module <ident
-                                        type="module">certainty</ident> pour les difficultés de
+                                        type="module"
+                                    >certainty</ident> pour les difficultés de
                                     lectures ou la résolution des abréviations.</p>
                             </div>
                         </div>
@@ -1183,7 +1231,8 @@
                                 <p>Afin de permettre une édition séparée des fichiers de chacun des
                                     témoins manuscrits, ceux-ci ont été traités de manière séparée
                                     en utilisant le standard du W3C Xinclude<ref
-                                        type="note" target="#editionModelN0024" />. En appliquant la même norme, on a traité séparément
+                                        type="note" target="#editionModelN0024"
+                                        />. En appliquant la même norme, on a traité séparément
                                     certaines section du fichier dans un répertoire séparé intitulé
                                         <soCalled>divs</soCalled>.</p>
                                 <figure type="illustration" copyOf="#editionModelIll0002"/>
@@ -1209,28 +1258,34 @@
                                     <body xml:id="o5Body">
                                         <div xml:id="o5BodyFr" xml:lang="fre" type="transcription">
                                             <div xml:id="o5BodyFr01" type="book" n="1">
-                                                <head rend="alignCenter">Traité des ordres
-                                                  d’architecture [Livre 1<hi rend="superscript"
-                                                  >er</hi>]</head>
+                                                <head rend="alignCenter"
+                                                       >Traité des ordres
+                                                  d’architecture [Livre 1<hi
+                                                       rend="superscript">er</hi>]</head>
                                                 <div xml:id="o5BodyFr01.01" type="part" n="1">
-                                                  <head rend="alignCenter">Du nom et caractère des
+                                                    <head rend="alignCenter"
+                                                       >Du nom et caractère des
                                                   [...]</head>
-                                                  <div xml:id="o5BodyFr01.01.001" type="chapter">
-                                                  <head>[Du nom et caractère des moulures]
+                                                    <div xml:id="o5BodyFr01.01.001" type="chapter">
+                                                       <head>[Du nom et caractère des moulures]
                                                   <lb/>[Premier dessin]</head>
-                                                  <p xml:id="o5BodyFr01.01.001.p001">Avant que de
+                                                       <p xml:id="o5BodyFr01.01.001.p001"
+                                                       >Avant que de
                                                   décrire les ordres d’architecture, il est à propos
                                                   de connoître les parties qui les composent et qui
                                                   leur sont communes à tous.</p>
-                                                  <p xml:id="o5BodyFr01.01.001.p002">Je commencerai
-                                                  par les <term type="gT" ref="#moulure"
-                                                  >moulures</term>, lesquelles sont de <sic>cette
-                                                  espèce</sic> [...] <ref type="noteCritical"
-                                                  target="o5Nc0008"/> représentées au premier
+                                                       <p xml:id="o5BodyFr01.01.001.p002"
+                                                       >Je commencerai
+                                                  par les <term
+                                                       type="gT" ref="#moulure"
+                                                       >moulures</term>, lesquelles sont de <sic>cette
+                                                  espèce</sic> [...] <ref
+                                                       type="noteCritical" target="o5Nc0008"
+                                                       /> représentées au premier
                                                   [...]</p>
-                                                  <!-- ... -->
-                                                  </div>
-                                                  <!-- ... -->
+                                                       <!-- ... -->
+                                                    </div>
+                                                    <!-- ... -->
                                                 </div>
                                                 <!-- ... -->
                                             </div>
@@ -1341,8 +1396,9 @@
                                     complexe, a parue relativement bien adaptée au projet.</p>
                                 <p>Les références bibliographiques utilisent l’élément tei
                                         <gi>biblStruct</gi> qui a le mérite d’offrir une structure
-                                    régulière. La structure proposée par les <hi rend="italic"
-                                        >Guidelines</hi> convenait dans à peu près tous les cas de
+                                    régulière. La structure proposée par les <hi
+                                        rend="italic"
+                                    >Guidelines</hi> convenait dans à peu près tous les cas de
                                     figures, même si on peut regretter un manque de clarté dans le
                                     renseignement des artefacts numériques. En revanche la TEI
                                     n’offre pas d’élément adapté pour décrire des documents
@@ -1351,7 +1407,8 @@
                             </div>
                             <div>
                                 <head>Fichiers de notes critiques et historiques, fichiers des
-                                        <foreign xml:lang="lat">fac-simili</foreign></head>
+                                        <foreign
+                                        xml:lang="lat">fac-simili</foreign></head>
                                 <p>Afin de faciliter l’édition des fichiers de notes critiques et
                                     historiques et l’édition de la liste des figures, ces éléments
                                     qui se trouvaient dans l’élément <gi>back</gi> des fichiers ont
@@ -1367,15 +1424,19 @@
                                     TEI et la question des métadonnées. Pour arrêter les choix
                                     d’encodages, nous avons examiné un certain nombre de pratiques
                                     documentaires<ref
-                                        type="note" target="#editionModelN0025" /> et recherché des guides de bonnes pratiques pour la
+                                        type="note" target="#editionModelN0025"
+                                        /> et recherché des guides de bonnes pratiques pour la
                                     TEI<ref
-                                        type="note" target="#editionModelN0026" /> . Lors du travail pour la production des métadonnées à
+                                        type="note" target="#editionModelN0026"
+                                        /> . Lors du travail pour la production des métadonnées à
                                     partir de l’en-tête TEI, nous nous sommes aperçus qu’un travail
                                     était en cours au sein du consortium cahier pour produire un
-                                    moissonnage des en-têtes TEI en OAI-PMH (<foreign xml:lang="eng"
+                                    moissonnage des en-têtes TEI en OAI-PMH (<foreign
+                                        xml:lang="eng"
                                         >Open Archives Initiative Protocol for Metadata
                                         Harvesting</foreign>)<ref
-                                            type="note" target="#editionModelN0027" />. Vérifications faites, et après avoir échangé avec les
+                                        type="note" target="#editionModelN0027"
+                                    />. Vérifications faites, et après avoir échangé avec les
                                     personnes en charge du projet, il se trouve que nos choix
                                     d’encodage étaient relativement conformes aux prescriptions
                                     proposées. </p>
@@ -1440,7 +1501,8 @@
                             l’encodage d’un document ont un caractère scientifique affirmé. Ainsi,
                             se pose souvent la question dans un projet d’édition électronique de
                             savoir à qui doit revenir le soin d’encoder des documents<ref
-                                type="note" target="#editionModelN0028" />. Les chercheurs sont généralement peu enclins à s’occuper
+                                type="note" target="#editionModelN0028"
+                                />. Les chercheurs sont généralement peu enclins à s’occuper
                             eux-même de l’encodage des documents qui est habituellement envisagé
                             comme une opération technique. Cela tient en partie au caractère
                             relativement rébarbatif de l’encodage et au défaut d’interface du type
@@ -1456,7 +1518,7 @@
                             l’avance le rendu final de ces éléments. On comprend donc que la
                             définition de cet éditeur serait fortement orientée par le point de vue
                             sur le texte exprimé par la modélisation<ref
-                                type="note" target="#editionModelN0029" />.</p>
+                                type="note" target="#editionModelN0029"/>.</p>
                         <p>De par leur utilisation généralisée, on oublie souvent que les logiciels
                             de traitement de texte dits <soCalled>WYSIWIG</soCalled> présentent
                             également un certain regard sur le texte. S’ils donnent l’impression
@@ -1565,7 +1627,8 @@
                             transformation XSLT (eXtensible Stylesheet Language Transformations) en
                             s’appuyant sur les feuilles de style TEI développées par
                             <persName>Sebastian Rahtz</persName><ref
-                                type="note" target="#editionModelN0030" />. Une série d’outils complémentaires a été développée en XSLT
+                                type="note" target="#editionModelN0030"
+                            />. Une série d’outils complémentaires a été développée en XSLT
                             pour sérialiser les traitements et préparer les textes de l’édition.</p>
                         <div>
                             <head>Les choix d’automatisation</head>
@@ -1588,8 +1651,9 @@
                                 des documents TEI. Les transformations sont personnalisables soit en
                                 leur passant des paramètres soit en faisant appel aux
                                 transformations en les incluant dans un autre fichier et en
-                                surchargeant les règles (utilisation d’un <foreign xml:lang="eng"
-                                    >wrapper</foreign>, c’est-à-dire d’une enveloppe). Nous avions
+                                surchargeant les règles (utilisation d’un <foreign
+                                    xml:lang="eng"
+                                >wrapper</foreign>, c’est-à-dire d’une enveloppe). Nous avions
                                 d’abord envisagé d’utiliser ce mécanisme pour réaliser une
                                 transformation personnalisée des fichiers Microsoft Word.</p>
                             <p>Après plusieurs essais, nous avons renoncé à cette approche. En
@@ -1600,7 +1664,8 @@
                                 éventuellement nécessaires. Aussi, nous avons en pratique plutôt
                                 utilisé le service de conversion de fichier mis en place par le
                                 consortium TEI, OxGarage<ref
-                                    type="note" target="#editionModelN0031" />, afin de récupérer un premier fichier XML-TEI que l’on a
+                                    type="note" target="#editionModelN0031"
+                                />, afin de récupérer un premier fichier XML-TEI que l’on a
                                 ensuite raffiné en lui appliquant plusieurs transformations
                                 successives en fonction des cas de figure.</p>
                             <figure type="illustration" copyOf="#editionModelIll0005"/>
@@ -1661,12 +1726,16 @@
                                     catalogue de la bibliothèque nationale de France. La
                                     récupération de ces informations nécessitait l’utilisation d’une
                                     expression régulière. Une expression régulière, ou regex
-                                        (<foreign xml:lang="eng">regular expression</foreign>), ou
+                                        (<foreign
+                                        xml:lang="eng"
+                                        >regular expression</foreign>), ou
                                     encore expression rationnelle, désigne une chaîne de caractères
-                                    que l’on appelle parfois un motif (<foreign xml:lang="eng"
+                                    que l’on appelle parfois un motif (<foreign
+                                        xml:lang="eng"
                                         >pattern</foreign>) et qui décrit un ensemble de chaînes de
                                     caractères selon une syntaxe donnée<ref
-                                        type="note" target="#editionModelN0032" />. Celles-ci sont souvent utilisées en informatique dans
+                                        type="note" target="#editionModelN0032"
+                                    />. Celles-ci sont souvent utilisées en informatique dans
                                     la manipulation et le contrôle de textes compte-tenu de leur
                                     puissance. Elles sont par ailleurs particulièrement utiles pour
                                     traiter des données textuelles non structurées.</p>
@@ -1829,12 +1898,16 @@
                             mimeType="application/pdf">Programme</ref>
                     </p>-->
                     <p>
+                        <ref type="file" target="../../schema/roma/desgodetsSchemaTEI.xml"
+                            mimeType="application/xml">Fichier ODD</ref>
+                    </p>
+                    <p>
                         <ref type="file" target="../../schema/desgodetsSchemaTEI.rnc"
                             mimeType="application/xml">Schéma RelaxNG</ref>
                     </p>
                     <p>
-                        <ref type="file" target="desgodetsModel.tei.xml"
-                            mimeType="application/tei+xml">Fichier XML</ref>
+                        <ref type="file" target="../../files/desgodetsDocumentation.pdf" mimeType="application/pdf"
+                            >Documentation pdf</ref>
                     </p>
                 </div>
 
