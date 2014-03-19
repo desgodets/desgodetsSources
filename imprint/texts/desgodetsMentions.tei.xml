@@ -65,10 +65,12 @@
             <p>Ce site web est issu du travail collectif d’une équipe de recherche
                pluridisciplinaire réunie dans le cadre du projet de recherche
                « Construction et normalisation du savoir architectural au début du
-                  XVIII<hi rend="superscript">e</hi> siècle. Les cours de
+                  XVIII<hi
+                  rend="superscript"
+               >e</hi> siècle. Les cours de
                Desgodets à l’Académie ».</p>
-            <p>Ce projet de recherche a bénéficié du soutien de l’<hi
-                  rend="underline">Agence nationale de recherche (ANR)</hi> dans
+            <p>Ce projet de recherche a bénéficié du soutien de l’<hi rend="underline"
+                  >Agence nationale de recherche (ANR)</hi> dans
                le cadre du Programme Corpus et outils de la recherche en sciences
                humaines et sociales de 2007 (ANR-07-CORP-017-01) et a été mené de
                2008 à 2013.</p>
@@ -135,27 +137,27 @@
                         Professor, Utrecht University (Netherlands).</item>
                   </list>
                </div>
-               <div xml:id="mentionsBodyFr01.03"  type="chapter">
+               <div xml:id="mentionsBodyFr01.03" type="chapter">
                   <head>Édition des textes</head>
-                  <div xml:id="mentionsBodyFr01.03.01"  type="section">
+                  <div xml:id="mentionsBodyFr01.03.01" type="section">
                      <head>Traité des ordres</head>
                      <p><persName>Guillaume Fonkenell</persName>, <persName>Joëlle
                            Barreau</persName>, <persName>Béatrice
                            Gaillard</persName>, <persName>Gabrielle de
                            Roincé</persName>.</p>
                   </div>
-                  <div xml:id="mentionsBodyFr01.03.02"  type="section">
+                  <div xml:id="mentionsBodyFr01.03.02" type="section">
                      <head>Traité de la commodité</head>
                      <p><persName>Hélène
                         Rousteau-Chambon</persName>, <persName>Emmanuel Château</persName>.</p>
                   </div>
-                  <div xml:id="mentionsBodyFr01.03.03"  type="section">
+                  <div xml:id="mentionsBodyFr01.03.03" type="section">
                      <head>Traité du toisé</head>
                      <p><persName>Robert Carvais</persName>, <persName>Juliette
                            Hernu-Bélaud</persName>, <persName>Linnéa
                               Rollenhagen-Tilly</persName>, <persName>Joël Sakarovitch</persName>.</p>
                   </div>
-                  <div xml:id="mentionsBodyFr01.03.04"  type="section">
+                  <div xml:id="mentionsBodyFr01.03.04" type="section">
                      <head>Traité des servitudes</head>
                      <p><persName>Robert Carvais</persName>.</p>
                   </div>
@@ -186,14 +188,20 @@
                   <head>Direction artistique et développement informatique</head>
                   <div xml:id="mentionsBodyFr01.06.01" type="section">
                      <head>Direction artistique et graphisme</head>
-                     <p><ref type="mail" target="mailto:creation@sodesign.fr"><persName>Sophie Preveyraud</persName></ref>, <ref
-                           type="external" target="http://www.sodesign.todo">So
+                     <p><ref type="mail" target="mailto:creation@sodesign.fr"
+                              ><persName>Sophie Preveyraud</persName></ref>, <ref type="external"
+                           target="http://www.sodesign.todo"
+                           >So
                            Design</ref>
                      </p>
                   </div>
                   <div xml:id="mentionsBodyFr01.06.02" type="section">
                      <head>Développement web et transformations XSLT</head>
-                     <p><ref type="mail" target="mailto:pauline.le-pallec@wanadoo.fr"><persName>Pauline Le Pallec</persName></ref></p>
+                     <p>
+                        <ref type="mail" target="mailto:pauline.le-pallec@wanadoo.fr">
+                           <persName>Pauline Le Pallec</persName>
+                        </ref>
+                     </p>
                   </div>
                </div>
             </div>
@@ -236,7 +244,8 @@
                      Suite 300, San Francisco, California 94105, USA.</p>
                   <list type="unordered">
                      <item>
-                        <hi rend="bold">Pas d'Utilisation Commerciale</hi> : Le
+                        <hi rend="bold"
+                        >Pas d'Utilisation Commerciale</hi> : Le
                         Centre de théorie et analyse du droit souhaite
                         encourager l'utilisation et l'amélioration de ses
                         ressources électroniques, pour les intérêts de
@@ -244,7 +253,8 @@
                         au-delà du champ de cette licence doit être obtenue auprès
                         du Centre de théorie et analyse du droit.</item>
                      <item>
-                        <hi rend="bold">Paternité</hi> : Le Centre de théorie et
+                        <hi rend="bold"
+                           >Paternité</hi> : Le Centre de théorie et
                         analyse du droit demande à ce que toute publication
                         dérivée de ses ressources électroniques comporte : <list
                            type="unordered">
@@ -320,6 +330,7 @@
                   (Suède) ; Edoardo Piccolo, Politecnico di Torino ; Pierre Pinon,
                   Ensa Paris Belleville et Thierry Verdier, Professeur d’histoire
                   moderne à l’Université Paul-Valéry Montpellier III.</p>
+               <p>Un immense merci à notre collègue Jean-Marie Pérouse de Montclos de nous avoir permis d’utiliser les définitions de son incontournable <hi rend="italic">Vocabulaire d’architecture</hi>.</p>
                <p>Je ne peux oublier les bons conseils délivrés par mon amie
                   Catherine Bruant, architecte, chercheur Culture, Directrice du
                   LéaV, responsable pédagogique du Master « Histoire culturelle et
@@ -373,10 +384,13 @@
                   risquaient de faire échouer le projet, à Hélène Rousteau-Chambon
                   pour nous avoir donné à partager son savoir sur l’enseignement à
                   l’Académie, sujet de son habilitation, à Olga Medvedkova pour sa
-                  grande connaissance des <hi rend="italic">Édifices antiques
+                  grande connaissance des <hi
+                     rend="italic"
+                     >Édifices antiques
                   </hi>et de leur fortune européenne, à Werner Szambien pour son
                   acharnement à vouloir nous faire découvrir l’exemplaire des <hi
-                     rend="italic">Édifices</hi> annotés par Legrand et Molinos, à
+                     rend="italic"
+                  >Édifices</hi> annotés par Legrand et Molinos, à
                   Dirk Van de Vijver pour avoir réalisé la numérisation du cours
                   de la commodité détenu par le RijksMuseum, à Juliette
                   Hernu-Bélaud pour sa disponibilité à toute heure et pour toutes
