@@ -66,7 +66,8 @@
             </titleStmt>
             <!-- mention d'édition -->
             <editionStmt>
-                <edition n="1">première édition électronique, <date from="2013" to="2013">2008-2013</date></edition>
+                <edition n="1">première édition électronique, <date from="2013" to="2013"
+                        >2008-2013</date></edition>
             </editionStmt>
             <extent><!-- TODO : taille du fichier en octet --></extent>
             <!-- information sur la publication électronique -->
@@ -91,15 +92,12 @@
                 </publisher>
                 <availability status="restricted" xml:id="editionTextLicence">
                     <!-- TODO : <licence> à ajouter partout -->
-                    <licence
-                        target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr/"
-                        >
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr/">
                         <p>Ce(tte) œuvre est mise à disposition selon les termes
                             de la Licence Creative Commons Attribution - Pas
                             d’Utilisation Commerciale - Partage dans les Mêmes
                             Conditions 3.0 France.</p>
-                        <graphic
-                            url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png" />
+                        <graphic url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png"/>
                     </licence>
                     <p>Le Centre de théorie et d'analyse du droit
                         (UMR 7074) met à disposition cette ressource électronique
@@ -107,7 +105,7 @@
                         intellectuelle sur le droit d'auteur (L111-1) et sur les bases
                         de données (L341-1), selon les termes de la licence Creative
                         Commons : « Paternité - Pas d'Utilisation Commerciale - Pas de
-                        Modification ; 3.0 France ». <lb />Cette licence est
+                        Modification ; 3.0 France ». <lb/>Cette licence est
                         disponible en ligne : <ref
                             target="http://creativecommons.org/licences/by-nc-sa/3.0/fr"
                             >http://creativecommons.org/licenses/by-nc/3.0/fr/</ref> ou
@@ -121,11 +119,11 @@
                         obtenue auprès du Centre de théorie et d'analyse du droit.</p>
                     <p>Paternité : Le Centre de théorie et d'analyse du droit demande
                         à ce que toute publication dérivée de ses ressources
-                        électroniques comporte : <lb />1. le nom du Centre de théorie
+                        électroniques comporte : <lb/>1. le nom du Centre de théorie
                         et d'analyse du droit et, pour les publications électroniques,
-                        son logo <lb />2. l'URI permettant d'accéder à la page citée
+                        son logo <lb/>2. l'URI permettant d'accéder à la page citée
                         sur notre site, ou à la page d'accueil de la ressource
-                        <lb />3. la date du fichier source utilisé. </p>
+                        <lb/>3. la date du fichier source utilisé. </p>
                     <p>Vous êtes libres de remixer, arranger et adapter cette œuvre à
                         des fins non commerciales, tant que vous nous créditez et que
                         les nouvelles œuvres sont diffusées selon les mêmes
@@ -156,19 +154,26 @@
                 <note xml:lang="eng" type="abstract">Texte de description en anglais pour DC.description</note>
             </notesStmt>-->
             <sourceDesc>
-                <p xml:id="edition">Texte original : le texte a été créé sous forme
+                <p xml:id="edition"
+                    >Texte original : le texte a été créé sous forme
                     électronique</p>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
             <!-- description du projet éditorial -->
             <projectDesc>
-                <p>L'édition des cours de Desgodets fait partie d'un programme de recherche sur la formalisation du savoir architectural au XVII<hi rend="superscript">e</hi> siècle.</p>
+                <p>L'édition des cours de Desgodets fait partie d'un programme de recherche sur la formalisation du savoir architectural au XVII<hi
+                        rend="superscript">e</hi> siècle.</p>
             </projectDesc>
             <!-- déclaration des principes éditoriaux -->
             <editorialDecl>
                 <correction>
-                    <p>La syntaxe originale du manuscrit a été respectée en suivant les indications de Bernard Barbiche, <ref type="external" target="http://theleme.enc.sorbonne.fr/cours/edition_epoque_moderne/edition_des_textes">Conseils pour l’édition des textes de l’époque moderne (XVI<hi rend="superscript">e</hi>-XVIII<hi rend="superscript">e</hi> siècle)</ref>.</p>
+                    <p>La syntaxe originale du manuscrit a été respectée en suivant les indications de Bernard Barbiche, <ref
+                            type="external"
+                            target="http://theleme.enc.sorbonne.fr/cours/edition_epoque_moderne/edition_des_textes"
+                                >Conseils pour l’édition des textes de l’époque moderne (XVI<hi
+                                rend="superscript">e</hi>-XVIII<hi rend="superscript"
+                            >e</hi> siècle)</ref>.</p>
                 </correction>
                 <hyphenation>
                     <p>Pour les ouvrages imprimés, il n'a pas été tenu compte de l'hyphénation.</p>
@@ -181,7 +186,7 @@
                 </normalization>
                 <stdVals>
                     <p>On utilise...</p>
-                </stdVals>      
+                </stdVals>
                 <quotation>
                     <p>Les citations dans le texte sont encodées soit au moyen d'un élément quote, soit au moyen d'un élément...</p>
                 </quotation>
@@ -193,7 +198,7 @@
             <samplingDecl>
                 <p>Le manuscrit a été transcrit intégralement [dans certains cas ce ne sera pas le cas].</p>
             </samplingDecl>
-            <variantEncoding method="location-referenced" location="external" />
+            <variantEncoding method="location-referenced" location="external"/>
         </encodingDesc>
         <!-- présentation du profil de fichier -->
         <profileDesc>
@@ -230,27 +235,27 @@
     <xi:include href="texts/desgodetsEditionPresentation.tei.xml" parse="xml">
         <xi:fallback>Fichier desgodetsPresentation non trouvé</xi:fallback>
     </xi:include>
-    
+
     <!-- inclusion des fichiers sur l'édition -->
     <!-- inclusion du fichier d'introduction générale -->
-    <xi:include href="texts/desgodetsEditionIntroduction.tei.xml" parse="xml">
+    <!--<xi:include href="texts/desgodetsEditionIntroduction.tei.xml" parse="xml">
         <xi:fallback>Fichier desgodetsIntroduction non trouvé</xi:fallback>
-    </xi:include>
-    
+    </xi:include>-->
+
     <!-- inclusion du fichier d'appel à communication du colloque de 2014 -->
     <xi:include href="texts/desgodetsEditionResearch.tei.xml" parse="xml">
         <xi:fallback>Fichier desgodetsResearch non trouvé</xi:fallback>
     </xi:include>
-    
+
     <!-- inclusion du fichier sur la méthodologie -->
     <xi:include href="texts/desgodetsEditionMethodology.tei.xml" parse="xml">
-            <xi:fallback>Fichier desgodetsMethodology non trouvé</xi:fallback>
+        <xi:fallback>Fichier desgodetsMethodology non trouvé</xi:fallback>
     </xi:include>
-    
+
     <!-- inclusion du fichier de documentation du schéma -->
     <xi:include href="texts/desgodetsEditionModel.tei.xml" parse="xml">
         <xi:fallback>Fichier desgodetsModel non trouvé</xi:fallback>
     </xi:include>
-    
+
 
 </teiCorpus>
