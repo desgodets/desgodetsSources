@@ -16,7 +16,8 @@
             <!-- mentions de titre et de responsabilité -->
             <titleStmt>
                 <title xml:lang="fre" type="main">Colloques</title>
-                <title xml:lang="fre" type="subSubSub">Appel à communication du colloque de 2014</title>
+                <title xml:lang="fre" type="subSubSub"
+                    >Appel à communication du colloque de 2014</title>
                 <!-- mention de responsabilité principale (responsable scientifique de l'édition) -->
                 <principal>
                     <persName ref="#RC">
@@ -68,7 +69,7 @@
             <!-- mention d'édition -->
             <editionStmt>
                 <edition n="1">première édition électronique, <date when="2013"
-                        >2013</date></edition>
+                    >2013</date></edition>
             </editionStmt>
             <extent><!-- TODO : taille du fichier en octet --></extent>
             <!-- information sur la publication électronique -->
@@ -93,15 +94,12 @@
                 </publisher>
                 <availability status="restricted" xml:id="meetings2014TextLicence">
                     <!-- TODO : <licence> à ajouter partout -->
-                    <licence
-                        target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr/"
-                        >
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr/">
                         <p>Ce(tte) œuvre est mise à disposition selon les termes
                             de la Licence Creative Commons Attribution - Pas
                             d’Utilisation Commerciale - Partage dans les Mêmes
                             Conditions 3.0 France.</p>
-                        <graphic
-                            url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png" />
+                        <graphic url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png"/>
                     </licence>
                     <p>Le Centre de théorie et d'analyse du droit
                         (UMR 7074) met à disposition cette ressource électronique
@@ -109,7 +107,7 @@
                         intellectuelle sur le droit d'auteur (L111-1) et sur les bases
                         de données (L341-1), selon les termes de la licence Creative
                         Commons : « Paternité - Pas d'Utilisation Commerciale - Pas de
-                        Modification ; 3.0 France ». <lb />Cette licence est
+                        Modification ; 3.0 France ». <lb/>Cette licence est
                         disponible en ligne : <ref
                             target="http://creativecommons.org/licences/by-nc-sa/3.0/fr"
                             >http://creativecommons.org/licenses/by-nc/3.0/fr/</ref> ou
@@ -123,11 +121,11 @@
                         obtenue auprès du Centre de théorie et d'analyse du droit.</p>
                     <p>Paternité : Le Centre de théorie et d'analyse du droit demande
                         à ce que toute publication dérivée de ses ressources
-                        électroniques comporte : <lb />1. le nom du Centre de théorie
+                        électroniques comporte : <lb/>1. le nom du Centre de théorie
                         et d'analyse du droit et, pour les publications électroniques,
-                        son logo <lb />2. l'URI permettant d'accéder à la page citée
+                        son logo <lb/>2. l'URI permettant d'accéder à la page citée
                         sur notre site, ou à la page d'accueil de la ressource
-                        <lb />3. la date du fichier source utilisé. </p>
+                        <lb/>3. la date du fichier source utilisé. </p>
                     <p>Vous êtes libres de remixer, arranger et adapter cette œuvre à
                         des fins non commerciales, tant que vous nous créditez et que
                         les nouvelles œuvres sont diffusées selon les mêmes
@@ -160,7 +158,8 @@
             </notesStmt>-->
             <!-- description de la source -->
             <sourceDesc>
-                <p xml:id="meetings2014">Texte original : le texte a été créé sous forme
+                <p xml:id="meetings2014"
+                    >Texte original : le texte a été créé sous forme
                     électronique</p>
             </sourceDesc>
         </fileDesc>
@@ -168,7 +167,8 @@
             <!-- description du projet éditorial -->
             <projectDesc>
                 <p>L'édition des cours de Desgodets fait partie d'un programme de recherche sur la
-                    formalisation du savoir architectural au XVII<hi rend="superscript">e</hi>
+                    formalisation du savoir architectural au XVII<hi
+                        rend="superscript">e</hi>
                     siècle.</p>
             </projectDesc>
             <!-- déclaration des principes éditoriaux -->
@@ -224,18 +224,21 @@
         <front xml:id="meetings2014Front">
             <titlePage xml:id="meetings2014Front00">
                 <docTitle>
-                    <titlePart type="main">Antoine Desgodets [Desgodetz], entre théorie et pratique</titlePart>
+                    <titlePart type="main"
+                        >Antoine Desgodets [Desgodetz], entre théorie et pratique</titlePart>
                     <titlePart type="sub">Les nouveaux savoirs de l'architecte moderne</titlePart>
                 </docTitle>
-                <argument><p>Appel à communication du colloque international de 2014</p></argument>
+                <argument>
+                    <p>Appel à communication du colloque international de 2014</p>
+                </argument>
                 <docAuthor>
                     <persName ref="#RC">Robert Carvais</persName>
                 </docAuthor>
                 <docDate>14 avril 2013</docDate>
                 <docEdition>version 0</docEdition>
             </titlePage>
-            <div  xml:id="meetings2014FrontFr" xml:lang="fre">
-                <div  xml:id="meetings2014FrontFr01" type="abstract">
+            <div xml:id="meetings2014FrontFr" xml:lang="fre">
+                <div xml:id="meetings2014FrontFr01" type="abstract">
                     <p>Appel à communication du colloque international de 2014.</p>
                 </div>
                 <!--<div xml:id="meetings2014FrontFr02" type="introduction">
@@ -255,47 +258,99 @@
         <body>
             <div xml:id="meetings2014BodyFr" xml:lang="fre">
                 <div xml:id="meetings2014BodyFr01" type="part" n="1">
-                    <head>I. Antoine Desgodets, cet inconnu : vers une biographie</head>
-                    <p>Antoine Desgodets, que nous connaissons surtout par <hi rend="italic">Les Edifices antiques de Rome</hi>, son œuvre savante majeure émanant d’une commande royale, mais aussi par <hi rend="italic">Les Loix des bâtiments</hi>, ouvrage juridique posthume inaugurant une nouvelle discipline, reste encore aujourd’hui peu étudié. Si nous lui découvrons un père ébéniste à Paris, que savons-nous de la famille dont il était issu et de celle qu’il fonda ? De quelles sources disposons-nous pour écrire la biographie de cet architecte ? De nouvelles archives notariales parisiennes mises au jour méritent une étude approfondie.</p>
-                    <p>Plus largement, maintient-il des relations avec les gens des métiers du bâtiment ou cherche-t-il au contraire à s’en détacher dans un mouvement constant pour parvenir au sommet de la société des gens de cour ? Que sait-on de sa vie avant son entrée à l’Académie, et notamment jusqu’à ses 20 ans ? La protection dont il bénéficia pour séjourner à Rome, en dehors de l’Académie de France, sa détention par des corsaires à Alger, restent aussi mystérieuses. De même, il serait intéressant de s’interroger sur les raisons qui le menèrent à la fonction de professeur à l’Académie royale d’architecture, comme premier véritable architecte, après une lignée composée exclusivement d’hommes de sciences, F. Blondel - bien que celui-ci fut aussi architecte - et les La Hire. Quels réseaux fréquentait-il ? Celui des sociétés savantes (les hommes de sciences ou des techniques), les grandes agences d’architecture ou les jeunes architectes, les gens des finances (banquiers, spéculateurs…), les grands commis de l’Etat (surintendants, ministres) ou l’administration subalterne, la société provinciale, étrangère (en particulier, la Suède) ou parisienne, le monde artistique ou celui des artisans ?</p>
-                    </div>
+                    <head><label>I.</label> Antoine Desgodets, cet inconnu : vers une biographie</head>
+                    <p>Antoine Desgodets, que nous connaissons surtout par Les <hi rend="italic">Édifices antiques de Rome</hi>, son œuvre savante majeure émanant d’une commande royale, mais aussi par <hi rend="italic">Les Loix des bâtiments</hi>, ouvrage juridique posthume inaugurant une nouvelle discipline, reste encore aujourd’hui peu étudié. Si nous lui découvrons un père ébéniste à Paris, que savons-nous de la famille dont il était issu et de celle qu’il fonda ? De quelles sources disposons-nous pour écrire la biographie de cet architecte ? De nouvelles archives notariales parisiennes mises au jour méritent une étude approfondie.</p>
+                    <p>Plus largement, Desgodets maintient-il des relations avec les gens des métiers du bâtiment ou cherche-t-il au contraire à s’en détacher dans un mouvement constant pour parvenir au sommet de la société des gens de cour ? Que sait-on de sa vie avant son entrée à l’Académie, et notamment jusqu’à ses 20 ans ? La protection dont il bénéficia pour séjourner à Rome, en dehors de l’Académie de France, sa détention par des corsaires à Alger, restent aussi mystérieuses. De même, il serait intéressant de s’interroger sur les raisons qui le menèrent à la fonction de professeur à l’Académie royale d’architecture, où il fut le premier véritable architecte, après une lignée composée exclusivement d’hommes de sciences, F. Blondel - bien que celui-ci fut aussi architecte - et les La Hire. Quels réseaux fréquentait-il ? Celui des sociétés savantes (les hommes de sciences ou des techniques), les grandes agences d’architecture ou les jeunes architectes, les gens des finances (banquiers, spéculateurs…), les grands commis de l’Etat (surintendants, ministres) ou l’administration subalterne, la société provinciale, étrangère (en particulier, la Suède) ou parisienne, le monde artistique ou celui des artisans ?</p>
+                </div>
                 <div xml:id="meetings2014BodyFr02" type="part" n="2">
-                    <head>II/- La pratique du théoricien</head>
-                    <p>Desgodets eut d’abord une carrière administrative en tant que contrôleur des bâtiments du roi à Chambord<hi rend="footnote_reference"> </hi> puis de contrôleur de ceux à Paris, notions qui pourraient être définies plus précisément en examinant ces carrières en parallèle, la nature et les missions de ces fonctions (gestion et suivi de chantier, dessinateur, vérificateur de travaux, entretien de bâtiments, …)</p>
-                    <p>Il eut aussi une carrière d’architecte, en construisant un édifice pour les religieuses dans l’enclos du Val-de-Grâce, en remaniant le château de Vaudreuil, en édifiant quelques maisons ordinaires rue du Bourg l’Abbé ou rue Montmartre à Paris mais l’ensemble de ses activités comme architecte est encore mal connu. Conçoit-il seul, ses projets ou pour le compte d’une agence ? En est-il le maître d’œuvre ? </p>
-                    <p>Sa grande maîtrise du dessin lui permet de laisser à la postérité un grand nombre de plans et d’élévations dans de nombreuses collections d’estampes. Son style reconnaissable autorise les experts à les lui attribuer : qu’ils soient des projets réalisés ou non, des états des lieux, des outils de transmission du savoir gravés ou pas, des dessins de chantier, la panoplie de Desgodets dessinateur se révèle étoffée et mérite des études spécifiques. </p>
-                    <p>Notre architecte exerça également l’expertise. Comme beaucoup de ses contemporains qui siégeaient à l’Académie royale d’architecture, il présenta des mémoires techniques, par exemple sur les moyens de réparer l’effondrement du pont de Pirmil à Nantes. Analyser toutes ses interventions techniques devant l’Académie pourrait contribuer à évaluer le rôle effectif de l’Académie dans les évolutions techniques et constructives de l’époque. De même, le rapport étroit de ces interventions et des activités de l’Académie en général avec les cours dispensés devrait être étudié plus précisément.</p>
+                    <head><label>II.</label> La pratique du théoricien</head>
+                    <p>Desgodets eut d’abord une carrière administrative en tant que contrôleur des bâtiments du roi à Chambord  puis à Paris, notions qui pourraient être définies plus précisément en examinant d’autres carrières analogues, la nature et les missions qu’elles supposent (gestion et suivi de chantier, dessinateur, vérificateur de travaux, entretien de bâtiments, …)</p>
+                    <p>Il eut aussi une carrière d’architecte, en construisant un édifice pour les religieuses dans l’enclos du Val-de-Grâce, en remaniant le château de Vaudreuil, en édifiant quelques maisons ordinaires rue du Bourg l’Abbé ou rue Montmartre à Paris mais l’ensemble de ses activités comme architecte est encore mal connu. Conçoit-il seul, ses projets ou pour le compte d’une agence ? En est-il le maître d’œuvre ?</p>
+                    <p>Sa grande maîtrise du dessin lui permet de laisser à la postérité un grand nombre de plans et d’élévations dans de nombreuses collections d’estampes. Son style reconnaissable autorise les experts à les lui attribuer : qu’ils soient des projets réalisés ou non, des états des lieux, des outils de transmission du savoir gravés ou pas, des dessins de chantier, la panoplie de Desgodets dessinateur se révèle étoffée et mérite des études spécifiques.</p>
+                    <p>Notre architecte pratiqua également l’expertise. Comme beaucoup de ses contemporains qui siégeaient à l’Académie royale d’architecture, il présenta des mémoires techniques, par exemple sur les moyens de réparer l’effondrement du pont de Pirmil à Nantes. Analyser toutes ses interventions techniques devant l’Académie, et les comparer à celles de ses contemporains pourraient contribuer à évaluer le rôle effectif de l’Académie dans les évolutions techniques et constructives de l’époque. De même, le rapport étroit de ses collaborations et des activités de l’Académie en général avec les cours dispensés devrait être analysé précisément en rapport avec le choix des thèmes abordés.</p>
                 </div>
                 <div xml:id="meetings2014BodyFr03" type="part" n="3">
-                    <head>III/- Les écrits d’un praticien</head>
-                    <p>Si l’œuvre majeure de Desgodets, <hi rend="italic">Les Edifices antiques de Rome dessinés et mesurés très exactement</hi> (Paris, chez Jean-Baptiste Coignard, 1687), a fait l’objet de nombreuses publications et a connu ces dernières années plusieurs éditions critiques, il est désormais temps de faire le point sur les raisons exactes de cette mission à Rome, sur la façon dont Desgodets a travaillé, et sur la fortune de l’ouvrage, réédité en France et à l’étranger, annoté, voire traduit. Il est tout simplement temps de mesurer objectivement l’influence réelle de cette œuvre décrite comme majeure dans l’histoire de l’architecture occidentale. </p>
-                    <p>Devenu professeur à l’Académie, Desgodets s’engage dans des champs inédits de l’architecture et peut apparaître à ce titre comme un théoricien très novateur. Il conviendrait d’étudier précisément les apports des quatre cours par rapport à ceux de ses prédécesseurs dont nous gardons la trace (F. Blondel, Ph. de La Hire) : le rapport opéré par Desgodets entre théorie et pratique est-il vraiment nouveau, ou ne fait-il que consacrer une situation déjà existante depuis la fin du <hi rend="smallcaps">xvii</hi>
-                        <hi rend="superscript">e</hi> siècle ? Comment ses suiveurs à l’Académie ont-ils appréhendé, renouvelé ou tronqué les sujets de ses cours ? Ces derniers ont-ils conservé une dimension modélisatrice ? L’analyse des manuscrits (transcrits, copiés ou autographes) portant sur les ordres, les commodités, le toisé et les servitudes, permet de découvrir comment ces textes et ces figures ont été établis (originalité ou tradition de ses sources) et pour quelles finalités (maîtriser la concurrence d’avec les entrepreneurs, assoir une éthique de leur profession, servir de modèles). Il ne faut pas omettre non plus l’impact des cours sur la nature même de l’architecture et de l’architecte, qui devient alors « moderne ».</p>
-                    <p>Sur chacun de ces champs, nous ne saurions nous contenter d’une analyse uniquement française. L’apport du regard des théoriciens et praticiens étrangers nous apparaît indispensable.</p></div>
-                <div xml:id="meetings2014BodyFr04" type="part" n="4">
-                    <p>Règlement : (à compléter)</p>
-                    <p>Date : (à compléter)</p>
-                    <p>Conseil scientifique : (à compléter)</p>
-                    <p>comité d’organisation : (à compléter)</p>
+                    <head><label>III.</label> Les écrits d’un praticien</head>
+                    <p>Si l’œuvre majeure d’Antoine Desgodets, Les <hi rend="italic">Édifices antiques de Rome dessinés et mesurés très exactement</hi> (Paris, chez Jean-Baptiste Coignard, 1687), a fait l’objet de nombreuses publications et a connu ces dernières années plusieurs éditions critiques, il est désormais temps de faire le point sur les raisons exactes de cette mission à Rome, sur la façon dont Desgodets a travaillé, et sur la fortune de l’ouvrage, réédité en France et à l’étranger, annoté, voire traduit. Il est tout simplement temps de mesurer pleinement l’influence de cette œuvre décrite comme majeure dans l’histoire de l’architecture occidentale. </p>
+                    <p>Devenu professeur à l’Académie, Desgodets s’engage dans des champs inédits de l’architecture et peut apparaître à ce titre comme un théoricien très novateur. Il conviendrait d’étudier précisément les apports des quatre cours par rapport à ceux de ses prédécesseurs dont nous gardons la trace (F. Blondel, Ph. de La Hire), voire des traités d’architecture antérieurs : le rapport opéré par Desgodets entre théorie et pratique est-il vraiment nouveau, ou ne fait-il que consacrer une situation déjà existante depuis la fin du XVII<hi rend="superscript">e</hi> siècle ? Comment ses suiveurs à l’Académie, ou en dehors à l’Ecole des arts, les écoles gratuites ou les ateliers privés, ont-ils appréhendé, renouvelé ou tronqué les sujets de ses cours ? Ces derniers ont-ils conservé une dimension modélisatrice ? Au XIX<hi rend="superscript">e</hi> siècle, qu’est-ce que les enseignements des grandes écoles, des Beaux-arts, des arts décoratifs, des arts et métiers ont-ils conservé de l’œuvre de Desgodets ? L’analyse des manuscrits (transcrits, copiés ou autographes) portant sur les ordres, les commodités, le toisé et les servitudes, permet de découvrir comment ces textes et ces figures ont été établis (originalité ou tradition de ses sources) et pour quelles finalités (maîtriser la concurrence d’avec les entrepreneurs, assoir une éthique de leur profession, servir de modèles). Il ne faut pas omettre non plus l’impact des cours sur la nature même de l’architecture et de l’architecte, qui devient alors « moderne ». Nous invitons bien entendu les auteurs à participer à l’analyse de ces cours désormais disponibles en ligne.</p>
+                    <p>Sur chacun de ces champs, nous ne saurions nous contenter d’une analyse uniquement française. L’apport du regard des théoriciens et praticiens étrangers nous apparaît indispensable.</p>
+                </div>
+                <div xml:id="meetings2014BodyEn04" type="part" n="4">
+                    <head>Règlement</head>
+                    <p>Nous invitons les chercheurs de toutes les disciplines concernées par la figure emblématique et l’œuvre d’Antoine Desgodets à soumettre une proposition de communication à ce colloque international. Les auteurs retenus auront 20 minutes pour présenter leur présentation. La proposition, en français ou en anglais, devra inclure :<list>
+                        <item>un titre suivi du (ou des) nom(s) du (ou des) auteur(s) et de son (ou de leurs) institutions ;</item>
+                        <item>un argumentaire développé de 500 mots maximum contenant obligatoirement les sources sollicitées ;</item>
+                        <item>six mots clés ;</item>
+                        <item>un court curriculum vitae d’une page maximum indiquant coordonnées, statuts, laboratoire de rattachement le cas échéant, ainsi que les plus importantes ou plus récentes publications.</item>
+                    </list>
+                    </p>
+                    <p>La proposition doit nous parvenir par mail (<ref type="external"
+                            target="mailto:rcarvais@noos.fr">rcarvais[@]noos.fr</ref>) <hi
+                            rend="bold"
+                            >au plus tard le 15 juin 2014</hi>. Elle sera évaluée par deux membres du comité scientifique. Les résultats des délibérations du comité scientifique seront portés à votre connaissance <hi
+                            rend="bold">avant le 30 juin 2014</hi>.</p>
+                    <p>Le colloque devrait se dérouler à l’Ecole nationale supérieure d’architecture de Paris-Malaquais et à l’Institut national d’histoire de l’art sur deux jours les <hi
+                            rend="bold">lundi 24 et mardi 25 novembre 2014</hi>.</p>
+                </div>
+                <div xml:id="meetings2014BodyEn05" type="part" n="5">
+                    <head>Comité scientifique</head>
+                    <list>
+                        <item>Laurent Baridon, <hi rend="italic"
+                            >Université Lumière Lyon 2</hi></item>
+                        <item>Robert Carvais, <hi rend="italic"
+                            >CNRS, ENSA Paris-Malaquais</hi></item>
+                        <item>Pierre Caye, <hi rend="italic">CNRS</hi></item>
+                        <item>Pascal Dubourg Glatigny, <hi rend="italic">CNRS</hi></item>
+                        <item>Guillaume Fonkenell, <hi rend="italic">Louvre</hi></item>
+                        <item>Alexandre Gady, <hi rend="italic"
+                            >Université Paris-Sorbonne</hi></item>
+                        <item>Jean-Phillipe Garric, <hi rend="italic"
+                                >Université Panthéon-Sorbonne, ENSA Belleville</hi></item>
+                        <item>Jean-Louis Halpérin, <hi rend="italic">ENS</hi></item>
+                        <item>Olga Medvedkova, <hi rend="italic">CNRS</hi></item>
+                        <item>Robin Middleton, <hi rend="italic">Columbia University</hi></item>
+                        <item>Claude Mignot, <hi rend="italic">Université Paris-Sorbonne</hi></item>
+                        <item>Valérie Nègre, <hi rend="italic">ENSA La Villette</hi></item>
+                        <item>Werner Oeschlin, <hi rend="italic"
+                                >Federal Institute of Technology, Zurich</hi></item>
+                        <item>Edoardo Piccoli, <hi rend="italic">Politecnico, Milan</hi></item>
+                        <item>Pierre Pinon, <hi rend="italic">ENSA Paris-Belleville</hi></item>
+                        <item>Hélène Rousteau-Chambon, <hi rend="italic"
+                            >Université de Nantes</hi></item>
+                        <item>Joël Sakarovitch, <hi rend="italic">ENSA Paris-Malaquais</hi></item>
+                        <item>Dirk van de Vijver, <hi rend="italic">Université d’Utrecht</hi></item>
+                        <item>Thierry Verdier, <hi rend="italic"
+                                >Université Paul-Valéry, Montpellier III</hi></item>
+                    </list>
+                </div>
+                <div xml:id="meetings2014BodyEn06" type="part" n="6">
+                    <head>Comité d’organisation</head>
+                    <list>
+                        <item>Robert Carvais CNRS, ENSA Paris-Malaquais</item>
+                        <item>Emmanuel Château / Juliette Hernu</item>
+                        <item>Béatrice Gaillard, ENSA Versailles / Linnéa Rollenhagen-Tilly</item>
+                    </list>
+                </div>
+                <div xml:id="meetings2014BodyEn07" type="part" n="7">
+                    <head>Institutions partenaires potentiels</head>
+                    <p>ENSA Paris-Malaquais, CNRS, Paris Ouest Nanterre La Défense, ANR, INHA, BnF, Collège de France.</p>
                 </div>
             </div>
         </body>
         <back xml:id="meetings2014Back">
-            <div xml:id="meetings2014BackFr" xml:lang="fre" >
+            <div xml:id="meetings2014BackFr" xml:lang="fre">
                 <!-- inclusion du fichier de notes -->
                 <!--<xi:include href="divs/desgodetsMeetings2014Notes.tei.xml"
                     parse="xml">
                     <xi:fallback>Fichier de notes de desgodetsMeetings2013Notes
                         non trouvé</xi:fallback>
                 </xi:include>-->
-
                 <!-- lien vers le fichier à télécharger -->
                 <!--<div xml:id="meetings2014BackFr02" type="downloads">
                     <head>Téléchargements</head>
                     <p><ref type="file" target="../../files/programme2010.pdf"
                             mimeType="application/pdf">Programme</ref></p>
                 </div>-->
-
                 <!-- liste des figures -->
                 <!--<div xml:id="meetings2014BackFr03" xml:lang="fre" type="figures">
                     <head>Liste des figures</head>
