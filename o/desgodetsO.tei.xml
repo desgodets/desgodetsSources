@@ -100,7 +100,8 @@
             </titleStmt>
             <!-- mention d'édition -->
             <editionStmt>
-                <edition n="1">première édition électronique, <date from="2013" to="2013">2008-2013</date></edition>
+                <edition n="1">première édition électronique, <date from="2013" to="2013"
+                    >2008-2013</date></edition>
             </editionStmt>
             <extent><!-- TODO : taille du fichier en octet --></extent>
             <!-- information sur la publication électronique -->
@@ -138,13 +139,13 @@
                         <p>Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative
                             Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes
                             Conditions 3.0 France.</p>
-                        <graphic url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png" />
+                        <graphic url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png"/>
                     </licence>
                     <p>Le Centre de théorie et d'analyse du droit (UMR 7074) met à disposition cette
                         ressource électronique structurée, protégée par le code de la propriété
                         intellectuelle sur le droit d'auteur (L111-1) et sur les bases de données
                         (L341-1), selon les termes de la licence Creative Commons : « Paternité - Pas
-                        d'Utilisation Commerciale - Pas de Modification ; 3.0 France ». <lb />Cette
+                        d'Utilisation Commerciale - Pas de Modification ; 3.0 France ». <lb/>Cette
                         licence est disponible en ligne : <ref
                             target="http://creativecommons.org/licences/by-nc-sa/3.0/fr"
                             >http://creativecommons.org/licenses/by-nc/3.0/fr/</ref> ou par courrier postal
@@ -156,10 +157,10 @@
                         autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre
                         de théorie et d'analyse du droit.</p>
                     <p>Paternité : Le Centre de théorie et d'analyse du droit demande à ce que toute
-                        publication dérivée de ses ressources électroniques comporte : <lb />1. le nom du
+                        publication dérivée de ses ressources électroniques comporte : <lb/>1. le nom du
                         Centre de théorie et d'analyse du droit et, pour les publications électroniques,
-                        son logo <lb />2. l'URI permettant d'accéder à la page citée sur notre site, ou à
-                        la page d'accueil de la ressource <lb />3. la date du fichier source utilisé. </p>
+                        son logo <lb/>2. l'URI permettant d'accéder à la page citée sur notre site, ou à
+                        la page d'accueil de la ressource <lb/>3. la date du fichier source utilisé. </p>
                     <p>Vous êtes libres de remixer, arranger et adapter cette œuvre à des fins non
                         commerciales, tant que vous nous créditez et que les nouvelles œuvres sont
                         diffusées selon les mêmes conditions. Cependant, afin de mieux servir la
@@ -188,51 +189,44 @@
                 <!-- description complète des témoins dans les en-têtes TEI concernées pour le partage des fichiers -->
                 <listWit xml:id="o">
                     <witness n="criticalEdition" corresp="#o5">
-                        <desc>Texte de description au besoin</desc> <!-- texte de description du témoin -->
-                        <ref type="file" target="o5/desgodetsO5.tei.xml"
-                            mimeType="application/tei+xml" /> <!-- lien de téléchargement de la source XML-TEI -->
-                        <ref type="file" target="../files/desgodetsO5.pdf" 
-                            mimeType="application/pdf" /> <!-- pour le texte édité, lien de téléchargement d'une version pdf que nous générerons -->
+                        <desc>Texte de description au besoin</desc>
+                        <!-- texte de description du témoin -->
+                        <ref type="file" target="o5/desgodetsO5.tei.xml" mimeType="application/tei+xml"/>
+                        <!-- lien de téléchargement de la source XML-TEI -->
+                        <ref type="file" target="../files/desgodetsO5.pdf" mimeType="application/pdf"/>
+                        <!-- pour le texte édité, lien de téléchargement d'une version pdf que nous générerons -->
                     </witness>
                     <witness corresp="#o1">
                         <desc>Texte de description au besoin</desc>
-                        <ref type="file" target="o1/desgodetsO1.tei.xml"
-                            mimeType="application/tei+xml" />
+                        <ref type="file" target="o1/desgodetsO1.tei.xml" mimeType="application/tei+xml"/>
                     </witness>
                     <witness corresp="#o2">
                         <desc>Texte de description au besoin</desc>
-                        <ref type="file" target="o2/desgodetsO2.tei.xml"
-                            mimeType="application/tei+xml" />
+                        <ref type="file" target="o2/desgodetsO2.tei.xml" mimeType="application/tei+xml"/>
                     </witness>
                     <witness corresp="#o3">
                         <desc>Texte de description au besoin</desc>
-                        <ref type="file" target="o3/desgodetsO3.tei.xml"
-                            mimeType="application/tei+xml" />
+                        <ref type="file" target="o3/desgodetsO3.tei.xml" mimeType="application/tei+xml"/>
                     </witness>
                     <witness corresp="#o4">
                         <desc>Texte de description au besoin</desc>
-                        <ref type="file" target="o4/desgodetsO4.tei.xml"
-                            mimeType="application/tei+xml" />
+                        <ref type="file" target="o4/desgodetsO4.tei.xml" mimeType="application/tei+xml"/>
                     </witness>
                     <witness corresp="#o5">
                         <desc>Texte de description au besoin</desc>
-                        <ref type="file" target="o5/desgodetsO5.tei.xml"
-                            mimeType="application/tei+xml" />
+                        <ref type="file" target="o5/desgodetsO5.tei.xml" mimeType="application/tei+xml"/>
                     </witness>
                     <witness corresp="#o6">
                         <desc>Texte de description au besoin</desc>
-                        <ref type="file" target="o6/desgodetsO6.tei.xml"
-                            mimeType="application/tei+xml" />
+                        <ref type="file" target="o6/desgodetsO6.tei.xml" mimeType="application/tei+xml"/>
                     </witness>
                     <witness corresp="#o7">
                         <desc>Texte de description au besoin</desc>
-                        <ref type="file" target="o7/desgodetsO7.tei.xml"
-                            mimeType="application/tei+xml" />
+                        <ref type="file" target="o7/desgodetsO7.tei.xml" mimeType="application/tei+xml"/>
                     </witness>
                     <witness corresp="#o8">
                         <desc>Texte de description au besoin</desc>
-                        <ref type="file" target="o8/desgodetsO8.tei.xml"
-                            mimeType="application/tei+xml" />
+                        <ref type="file" target="o8/desgodetsO8.tei.xml" mimeType="application/tei+xml"/>
                     </witness>
                     <!-- TODO : intégrer O9 -->
                     <!--<witness corresp="#o9">
@@ -246,12 +240,18 @@
         <encodingDesc>
             <!-- description du projet éditorial -->
             <projectDesc>
-                <p>L'édition des cours de Desgodets fait partie d'un programme de recherche sur la formalisation du savoir architectural au XVII<hi rend="superscript">e</hi> siècle.</p>
+                <p>L'édition des cours de Desgodets fait partie d'un programme de recherche sur la formalisation du savoir architectural au XVII<hi
+                        rend="superscript">e</hi> siècle.</p>
             </projectDesc>
             <!-- déclaration des principes éditoriaux -->
             <editorialDecl>
                 <correction>
-                    <p>La syntaxe originale du manuscrit a été respectée en suivant les indications de Bernard Barbiche, <ref type="external" target="http://theleme.enc.sorbonne.fr/cours/edition_epoque_moderne/edition_des_textes">Conseils pour l’édition des textes de l’époque moderne (XVI<hi rend="superscript">e</hi>-XVIII<hi rend="superscript">e</hi> siècle)</ref>.</p>
+                    <p>La syntaxe originale du manuscrit a été respectée en suivant les indications de Bernard Barbiche, <ref
+                            type="external"
+                            target="http://theleme.enc.sorbonne.fr/cours/edition_epoque_moderne/edition_des_textes"
+                                >Conseils pour l’édition des textes de l’époque moderne (XVI<hi
+                                rend="superscript">e</hi>-XVIII<hi rend="superscript"
+                        >e</hi> siècle)</ref>.</p>
                 </correction>
                 <hyphenation>
                     <p>Pour les ouvrages imprimés, il n'a pas été tenu compte de l'hyphénation.</p>
@@ -264,7 +264,7 @@
                 </normalization>
                 <stdVals>
                     <p>On utilise...</p>
-                </stdVals>      
+                </stdVals>
                 <quotation>
                     <p>Les citations dans le texte sont encodées soit au moyen d'un élément quote, soit au moyen d'un élément...</p>
                 </quotation>
@@ -276,11 +276,12 @@
             <samplingDecl>
                 <p>Le manuscrit a été transcrit intégralement [dans certains cas ce ne sera pas le cas].</p>
             </samplingDecl>
-            <variantEncoding method="location-referenced" location="external" />
+            <variantEncoding method="location-referenced" location="external"/>
         </encodingDesc>
         <!-- présentation du profil de fichier -->
         <profileDesc>
-            <creation notBefore="1719" notAfter="1842">XVIII<hi rend="superscript">e</hi> siècle (entre
+            <creation notBefore="1719" notAfter="1842">XVIII<hi rend="superscript"
+                >e</hi> siècle (entre
                 1719 et 1842)</creation>
             <langUsage>
                 <language ident="fre" usage="99">Français (langue principale du corpus)</language>
@@ -306,56 +307,57 @@
             </textClass>
         </profileDesc>
         <revisionDesc>
-            <change when="2013-05-30" who="#EC">augmentation de l'en-tête TEI, création de la liste de témoins, et inclusion de la présentation</change>
+            <change when="2013-05-30" who="#EC"
+                >augmentation de l'en-tête TEI, création de la liste de témoins, et inclusion de la présentation</change>
             <change when="2012-09-05" who="#EC">première version du fichier</change>
         </revisionDesc>
     </teiHeader>
-    
+
     <!-- Ce fichier racine du corpus des cours de Desgodets sur les ordres, inclue tous les fichiers des témoins du cours et deux fichiers pour l'alignement du texte et des images. -->
-    
+
     <!-- Inclusion des fichiers du corpus -->
     <xi:include href="oPresentation/desgodetsOPresentation.tei.xml" parse="xml">
         <xi:fallback>Fichier de présentation des Ordres de Desgodets non trouvé</xi:fallback>
     </xi:include>
-    
+
     <xi:include href="o1/desgodetsO1.tei.xml" parse="xml">
         <xi:fallback>Fichier O1 des Ordres de Desgodets non trouvé</xi:fallback>
     </xi:include>
-    
+
     <xi:include href="o2/desgodetsO2.tei.xml" parse="xml">
         <xi:fallback>Fichier O2 des Ordres de Desgodets non trouvé</xi:fallback>
     </xi:include>
-    
+
     <xi:include href="o3/desgodetsO3.tei.xml" parse="xml">
         <xi:fallback>Fichier O3 des Ordres de Desgodets non trouvé</xi:fallback>
     </xi:include>
-    
+
     <!-- TODO : à intégrer -->
     <!--<xi:include href="o4/desgodetsO4.tei.xml" parse="xml">
         <xi:fallback>Fichier O4 des Ordres de Desgodets non trouvé</xi:fallback>
     </xi:include>-->
-    
+
     <xi:include href="o5/desgodetsO5.tei.xml" parse="xml">
         <xi:fallback>Fichier O5 des Ordres de Desgodets non trouvé</xi:fallback>
     </xi:include>
-    
+
     <xi:include href="o6/desgodetsO6.tei.xml" parse="xml">
         <xi:fallback>Fichier O6 des Ordres de Desgodets non trouvé</xi:fallback>
     </xi:include>
-    
+
     <xi:include href="o7/desgodetsO7.tei.xml" parse="xml">
         <xi:fallback>Fichier O7 des Ordres de Desgodets non trouvé</xi:fallback>
     </xi:include>
-    
+
     <xi:include href="o8/desgodetsO8.tei.xml" parse="xml">
         <xi:fallback>Fichier O8 des Ordres de Desgodets non trouvé</xi:fallback>
     </xi:include>
-    
+
     <!-- TODO : à intégrer -->
     <!--<xi:include href="o9/desgodetsO9.tei.xml" parse="xml">
         <xi:fallback>Fichier O9 des Ordres de Desgodets non trouvé</xi:fallback>
     </xi:include>-->
-    
+
     <!-- Inclusion des fichiers d'alignement des textes et des figures -->
     <xi:include href="divs/desgodetsOAlignmentTexts.tei.xml" parse="xml">
         <xi:fallback>Fichier d'alignement des textes des Ordres de Desgodets non trouvé</xi:fallback>
@@ -363,5 +365,5 @@
     <xi:include href="divs/desgodetsOAlignmentFigures.tei.xml" parse="xml">
         <xi:fallback>Fichier d'alignement des textes des Ordres de Desgodets non trouvé</xi:fallback>
     </xi:include>
-    
+
 </teiCorpus>
