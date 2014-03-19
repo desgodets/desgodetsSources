@@ -38137,7 +38137,7 @@
                                        >ordre <choice><orig>atique</orig><reg>attique</reg></choice></term> [laissé en blanc] </item>
                            <item> 2<hi rend="superscript">e</hi>
                               <choice><orig>dessein</orig><reg>dessin</reg></choice>
-                              idem [laissé en blanc] [p. 239] </item>
+                              idem [laissé en blanc] <!-- TODO [p. 239] --> </item>
                            <pb xml:id="o5P339" n="p339"/>
                            <fw type="pageNum">339</fw>
                            <item> 3<hi rend="superscript">e</hi>
