@@ -4731,21 +4731,21 @@
                                         <surname>Sakarovitch</surname>
                                     </persName>
                                 </editor>
-                                <title level="m">Philippe de La Hire, 1640-1718, entre
-                                    architecture et sciences</title>
                                 <meeting>Actes du colloque,
-                                        <placeName>Paris</placeName>, <date
+                                    <placeName>Paris</placeName>, <date
                                         from="2010-06-24" to="2010-06-26">24-26 juin
                                         2010</date>. Organisé par le
-                                        <orgName>Max-Planck-Institut für
+                                    <orgName>Max-Planck-Institut für
                                         Wissenschaftsgeschichte</orgName> ; le
-                                        <orgName>Département d’histoire de l’art et
+                                    <orgName>Département d’histoire de l’art et
                                         d’archéologie de l’Université de
                                         Nantes</orgName> ; l’<orgName>École nationale
-                                        supérieure d’architecture
-                                        Paris-Malaquais</orgName> ;
-                                        l’<orgName>Université Paris Descartes</orgName>
+                                            supérieure d’architecture
+                                            Paris-Malaquais</orgName> ;
+                                    l’<orgName>Université Paris Descartes</orgName>
                                 </meeting>
+                                <title level="m">Philippe de La Hire, 1640-1718, entre
+                                    architecture et sciences</title>
                                 <imprint>
                                     <date when="2013">2013</date>
                                     <publisher>Picard</publisher>
@@ -4913,7 +4913,6 @@
                         <!-- lettre T -->
                         <!-- lettre U -->
                         <!-- lettre V -->
-                        </biblStruct>
                         <biblStruct xml:id="vandeVijver2010">
                             <analytic>
                                 <author>
@@ -4948,7 +4947,7 @@
                                 </imprint>
                                 <extent>587 p. : ill., couv. ill. ; 24 cm</extent>
                             </monogr>
-                            <idno type="isbn <2-85998-267-1>
+                            <idno type="isbn">2-85998-267-1</idno>
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb391890269/PUBLIC</idno>
                         </biblStruct>
@@ -4976,8 +4975,7 @@
                         <!-- lettre X -->
                         <!-- lettre Y -->
                         <!-- lettre Z -->
-                    </listBibl>
-                    <biblStruct xml:id="epron1980">
+                        <biblStruct xml:id="epron1980">
                         <monogr>
                             <author>
                                 <persName ref="#epronJeanPierre">
@@ -4996,7 +4994,7 @@
                             ></idno>
                     </biblStruct>
                     <biblStruct xml:id="epron1981">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#epronJeanPierre">
                                     <forename>Jean-Pierre</forename>
@@ -5010,8 +5008,8 @@
                                 <publisher>Pierre Mardaga</publisher>
                             </imprint>
                             <extent>293 p. ; 22 cm</extent>
-                        </analytic>
-                        <idno type "isbn">2-87009-140-0</idno>
+                        </monogr>
+                        <idno type="isbn">2-87009-140-0</idno>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb373928770/PUBLIC</idno>
                     </biblStruct>
@@ -5035,7 +5033,7 @@
                             >http://catalogue.bnf.fr/ark:/12148/cb36259931h/PUBLIC</idno>
                     </biblStruct>
                     <biblStruct xml:id="picon1988">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#piconAntoine">
                                     <forename>Antoine</forename>
@@ -5049,13 +5047,13 @@
                                 <publisher>Parenthèses</publisher>
                             </imprint>
                             <extent>317 p. : ill., couv. ill. en coul. ; 30 cm</extent>
-                        </analytic>
+                        </monogr>
                         <idno type="isbn">2-86364-049-6</idno>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb34957768r/PUBLIC</idno>
                     </biblStruct>
                     <biblStruct xml:id="schöller1993">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#schöllerWolfgang">
                                     <forename>Wolfgang</forename>
@@ -5069,7 +5067,7 @@
                                 <publisher>Böhlau Verlag</publisher>
                             </imprint>
                             <extent> 555 p.-[15] p. de pl. ; 23 cm</extent>
-                        </analytic>
+                        </monogr>
                         <idno type="isbn">3-412-00993-8</idno>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb376674728/PUBLIC</idno>
@@ -5103,16 +5101,19 @@
                                 </persName>
                             </author>
                             <title level="a">Building a Discipline: Early Institutional Settings for Architectural Education in Philadelphia, 1804-1890</title>
-                            <title level="j">The Journal of the Society of Architectural Historians</title>
+                        </analytic>
+                        <monogr>
+                        <title level="j">The Journal of the Society of Architectural Historians</title>
                             <imprint>
-                                <date when="06-1994">June 1994</date>
-                                <biblScope vol>53</biblScope>
-                                <biblScope issue>2</biblScope>
-                                <biblScope pp>139-183</biblScope>
+                                <date when="1994-06">June 1994</date>
+                                <biblScope type="vol">53</biblScope>
+                                <biblScope type="issue">2</biblScope>
+                                <biblScope type="pp">139-183</biblScope>
                                 <pubPlace></pubPlace>
                                 <publisher></publisher>
                             </imprint>
-                        </analytic>
+                            
+                        </monogr>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb339471871/PUBLIC</idno>
                     </biblStruct>
@@ -5131,15 +5132,17 @@
                                 </persName>
                             </author>
                             <title level="a">The French Academy of Architecture. Foundation and Program</title>
-                            <title level="m"> The French academy [Texte imprimé] : classicism and its antagonists</title>
+                        </analytic>
+                        <monogr>
+                        <title level="m"> The French academy [Texte imprimé] : classicism and its antagonists</title>
                             <imprint>
                                 <date when="1990">June 1990</date>
-                                <biblScope pp>68-77</biblScope>
+                                <biblScope type="pp">68-77</biblScope>
                                 <pubPlace>Newark, Londres et Cranbury (New Jersey)</pubPlace>
                                 <publisher>University of Delaware Press</publisher>
                             </imprint>
                             <extent>231 p. ; 25 cm</extent>
-                        </analytic>
+                        </monogr>
                         <idno type="isbn">0-87413-343-2</idno>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb35569004q/PUBLIC</idno>
@@ -5156,8 +5159,8 @@
                             <title level="m">Memoirs of the American Academy in Rome</title>
                             <imprint>
                                 <date when="2009">2009</date>
-                                <biblScope vol>54</biblScope>
-                                <biblScope pp>201-241</biblScope>
+                                <biblScope type="vol">54</biblScope>
+                                <biblScope type="pp">201-241</biblScope>
                                 <pubPlace></pubPlace>
                                 <publisher>Ann Arbor (Mich.) : University of Michigan press</publisher>
                             </imprint>
@@ -5181,16 +5184,16 @@
                                 </persName>
                             </author>
                             <title level="a">Académie et enseignement de l’architecture au XVIIIe siècle</title>
+                        </analytic>
+                        <monogr>
                             <title level="j">AAM, Archive d’Architecture Moderne</title>
                             <imprint>
                                 <date when="1983">1983</date>
-                                <biblScope issue>25</biblScope>
-                                <biblScope pp>47-67</biblScope>
+                                <biblScope type="issue">25</biblScope>
+                                <biblScope type="pp">47-67</biblScope>
                             </imprint>
-                            <extent></extent>
-                        </analytic>
-                        <idno type="catBnf"
-                            ></idno>
+                        </monogr>
+                        
                     </biblStruct>
                     <biblStruct xml:id="perouseDeMontclos1977">
                         <analytic>
@@ -5201,17 +5204,17 @@
                                 </persName>
                             </author>
                             <title level="a">Le Sixième Ordre d’Architecture ou la Pratique des Ordres suivant les Nations </title>
+                        </analytic>
+                        <monogr>
                             <title level="j">Journal of the Society of Architectural Historians</title>
                             <imprint>
-                                <date when="12-1977">décembre 1977</date>
-                                <biblScope vol>36</biblScope>
-                                <biblScope issue>4</biblScope>
-                                <biblScope pp>223-240</biblScope>
-                                <pubPlace></pubPlace>
-                                <publisher></publisher>
+                                <date when="1977-12">décembre 1977</date>
+                                <biblScope type="vol">36</biblScope>
+                                <biblScope type="issue">4</biblScope>
+                                <biblScope type="pp">223-240</biblScope>
+                                
                             </imprint>
-                            <extent></extent>
-                        </analytic>
+                        </monogr>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb339471871/PUBLIC</idno>
                     </biblStruct>
@@ -5224,17 +5227,16 @@
                                 </persName>
                             </author>
                             <title level="a">C’est là où il faut étudier Palladio: la Basilica. Note dall’inedito diario dell’archittto pensionnaire Hubert Rohault de Fleury</title>
+                        </analytic>
+                        <monogr>
                             <title level="j">Richerche di storia dell’arte</title>
                             <imprint>
-                                <date when="03-2011">3/2011</date>
-                                <biblScope pp>43-54</biblScope>
-                                <pubPlace></pubPlace>
-                                <publisher></publisher>
+                                <date when="2011-03">3/2011</date>
+                                <biblScope type="pp">43-54</biblScope>
+                                
                             </imprint>
-                            <extent></extent>
-                        </analytic>
-                        <idno type="catBnf"
-                            ></idno>
+                        </monogr>
+                        
                     </biblStruct>
                     <biblStruct xml:id="wiebenson1980">
                         <analytic>
@@ -5270,18 +5272,17 @@
                             <title level="m">Vitruve et le vitruvianisme [Texte imprimé] : introduction à l'histoire de la théorie architecturale / Georg Germann ; trad. de l'allemand par Michèle Zaugg et Jacques Gubler ; [préf. par Jacques Gubler]</title>
                             <imprint>
                                 <date when="1992">1992</date>
-                                <extent>VIII-264 p. : ill. ; 24 cm</extent>
                                 <pubPlace>Lausanne</pubPlace>
                                 <publisher>Presses Polytechniques Romandes</publisher>
                             </imprint>
-                            <extent></extent>
+                            <extent>VIII-264 p. : ill. ; 24 cm</extent>
                         </monogr>
                         <idno type="isbn">2-88074-210-2</idno>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb355013480/PUBLIC</idno>
                     </biblStruct>
                     <biblStruct xml:id="astengo2012">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#astengoGregorio">
                                     <forename>Gregorio</forename>
@@ -5291,17 +5292,16 @@
                             <title level="m">Le radici della Modernità : architettura e scienza tra Francia e Inghilterra, 1650-1700</title>
                             <imprint>
                                 <date when="2012">2012</date>
-                                <extent></extent>
                                 <pubPlace>Turin</pubPlace>
                                 <publisher>Politecnico de Torino, Facoltà di Architettura, Thesis</publisher>
                             </imprint>
                             <extent></extent>
-                        </analytic>
+                        </monogr>
                         <idno type="catBnf"
                             ></idno>
                     </biblStruct>
                     <biblStruct xml:id="ferrière1714">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#ferriereClaude">
                                     <forename>Claude</forename>
@@ -5315,13 +5315,13 @@
                                 <publisher> M. Guignard</publisher>
                             </imprint>
                             <extent>4 vol. ; in-fol</extent>
+                        </monogr>
                             <note>t. 2 : concernant les servitudes</note>
-                        </analytic>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb304311811/PUBLIC</idno>
                     </biblStruct>
                     <biblStruct xml:id="pannier1887">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#pannier">
                                     <forename></forename>
@@ -5335,7 +5335,7 @@
                                 <publisher></publisher>
                             </imprint>
                             <extent></extent>
-                        </analytic>
+                        </monogr>
                         <idno type="catBnf"
                             ></idno>
                     </biblStruct>
@@ -5348,6 +5348,8 @@
                                 </persName>
                             </author>
                             <title level="a">Note historique sur la définition législative de la servitude (art. 637 Code Napoléon – art. 1027 Codice civile italiano </title>
+                        </analytic>
+                        <monogr>
                             <title level="j">Revue historique de droit français et étranger</title>
                             <imprint>
                                 <date when="2001">2001</date>
@@ -5357,12 +5359,12 @@
                                 <publisher></publisher>
                             </imprint>
                             <extent></extent>
-                        </analytic>
+                        </monogr>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb32859973x/PUBLIC</idno>
                     </biblStruct>
                     <biblStruct xml:id="levy2002">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#levyJeanPhilippe">
                                     <forename>Jean Philippe</forename>
@@ -5382,13 +5384,13 @@
                                 <publisher>Dalloz, Précis</publisher>
                             </imprint>
                             <extent> XIII-1554 p. ; 22 cm</extent>
-                        </analytic>
+                        </monogr>
                         <idno type="isbn">2-247-04766-1</idno>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb38935956z/PUBLIC</idno>
                     </biblStruct>
                     <biblStruct xml:id="bourdotDeRichebourg1724">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#bourdotDeRichebourg">
                                     <forename></forename>
@@ -5398,16 +5400,16 @@
                             <title level="m">Nouveau coutumier général, ou Corps des coutumes générales et particulières de France et des provinces connues sous le nom de Gaules... avec les notes de MM. Toussaint Chauvelin, Julien Brodeau et Jean-Marie Ricard,... jointes aux annotations de MM. Charles Du Molin,... François Ragueau et Gabriel-Michel de La Rochemaillet, mis en ordre... et enrichi de nouvelles notes... par M. Charles A. Bourdot de Richebourg... [Texte imprimé]</title>
                             <imprint>
                                 <date when="1724">1724</date>
-                                <extent >8 parties en 4 vol. in-folio</extent>
                                 <pubPlace>Paris</pubPlace>
                                 <publisher>Robustel</publisher>
                             </imprint>
-                        </analytic>
+                            <extent >8 parties en 4 vol. in-folio</extent>
+                        </monogr>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb333327637/PUBLIC</idno>
                     </biblStruct>
                     <biblStruct xml:id="patault1989">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#pataultAnneMarie1989">
                                     <forename>Anne-Marie</forename>
@@ -5417,18 +5419,17 @@
                             <title level="m">Introduction historique au droit des biens</title>
                             <imprint>
                                 <date when="1989">1989</date>
-                                <extent > 336 p. ; 22 cm</extent>
                                 <pubPlace>Paris</pubPlace>
                                 <publisher>PUF, droit fondamental</publisher>
                             </imprint>
-                            <extent></extent>
-                        </analytic>
+                            <extent > 336 p. ; 22 cm</extent>
+                        </monogr>
                         <idno type="isbn">2-13-042662-X</idno>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb350628647/PUBLIC</idno>
                     </biblStruct>
                     <biblStruct xml:id="halperin2008">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#halperinJeanLouis">
                                     <forename>Jean-Louis</forename>
@@ -5442,13 +5443,13 @@
                                 <publisher>Economica</publisher>
                             </imprint>
                             <extent>1 vol. (370 p.) ; 24 cm</extent>
-                        </analytic>
-                        <idno type"isbn">978-2-7178-5547-0</idno>
+                        </monogr>
+                        <idno type="isbn">978-2-7178-5547-0</idno>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb41243190k/PUBLIC</idno>
                     </biblStruct>                    
                     <biblStruct xml:id="credimi2003">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#credimi">
                                     <forename></forename>
@@ -5462,13 +5463,13 @@
                                 <publisher>Editions du moniteur</publisher>
                             </imprint>
                             <extent>1 vol. (259 p.) ; 27 cm</extent>
-                        </analytic>
+                        </monogr>
                         <idno type="isbn"> 2-281-12429-0</idno>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb39172235x/PUBLIC</idno>
                     </biblStruct>
                     <biblStruct xml:id="guyot1784">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#guyot">
                                     <forename></forename>
@@ -5482,12 +5483,12 @@
                                 <publisher></publisher>
                             </imprint>
                             <extent>17 vol.</extent>
-                        </analytic>
+                        </monogr>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb39373338t/PUBLIC</idno>
                     </biblStruct>                    
                     <biblStruct xml:id="bart1998">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#bartJean">
                                     <forename>Jean</forename>
@@ -5501,13 +5502,13 @@
                                 <publisher>Domat Montchrestien</publisher>
                             </imprint>
                             <extent>537 p. ; 22 cm</extent>
-                        </analytic>
+                        </monogr>
                         <idno type="isbn">2-7076-1007-0</idno>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb361994742/PUBLIC</idno>
                     </biblStruct>
                     <biblStruct xml:id="denisart1771">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#denisartJeanBaptiste">
                                     <forename>Jean-Baptiste</forename>
@@ -5521,30 +5522,31 @@
                                 <publisher></publisher>
                             </imprint>
                             <extent>4 vol.</extent>
-                        </analytic>
+                        </monogr>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb303245746/PUBLIC</idno>
                     </biblStruct>
                     <biblStruct xml:id="merlin1827">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#merlinPhilipeAntoine">
                                     <forename>Philippe-Antoine</forename>
                                     <surname>Merlin</surname>
                                 </persName>
                             </author>
-                            <title level="m">Répertoire universel et raisonné de jurisprudence, ouvrages de plusieurs jurisconsultes réduit aux objets dont la connaissance peut encore être utile et augmenté, Paris, 5e édition<title
+                            <title level="m">Répertoire universel et raisonné de jurisprudence, ouvrages de plusieurs jurisconsultes réduit aux objets dont la connaissance peut encore être utile et augmenté, Paris, 5e édition</title>
+                            <imprint>
                                 <date when="1827">1827</date>
                                 <pubPlace>Paris</pubPlace>
                                 <publisher>Garnery</publisher>
-                                </imprint>
+                            </imprint>
                                 <extent>15 vol. ; in-4</extent>
-                        </analytic>
+                        </monogr>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb30931424w/PUBLIC</idno>
                     </biblStruct>
                     <biblStruct xml:id="merlin1827b">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#merlinPhilippeAntoine">
                                     <forename>Philippe-Antoine</forename>
@@ -5552,17 +5554,18 @@
                                 </persName>
                             </author>
                             <title level="m">Recueil alphabétique des questions de droit qui se présentent fréquemment dans les tribunaux, 4e édition</title>
+                            <imprint>
                                 <date when="1827">1827</date>
                                 <pubPlace>Paris</pubPlace>
                             <publisher>7 vol. ; in-4</publisher>
                             </imprint>
                             <extent>8 vol.</extent>
-                        </analytic>
+                        </monogr>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb30931420h/PUBLIC</idno>
                     </biblStruct>
                     <biblStruct xml:id="lalaure1761">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#lalaureClaudeNicolas">
                                     <forename>Claude-Nicolas</forename>
@@ -5576,12 +5579,10 @@
                                 <publisher></publisher>
                             </imprint>
                             <extent></extent>
-                        </analytic>
-                        <idno type="catBnf"
-                            ></idno>
+                        </monogr>
                     </biblStruct>
                     <biblStruct xml:id="ferriere1740">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#ferrièreClaudeJoseph">
                                     <forename>Claude-Joseph</forename>
@@ -5595,12 +5596,12 @@
                                 <publisher></publisher>
                             </imprint>
                             <extent>2 vol. in-4° </extent>
-                        </analytic>
+                        </monogr>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb30431200g/PUBLIC</idno>
                     </biblStruct>
                     <biblStruct xml:id="arabeyre2007">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#arabeyrePatrick">
                                     <forename>Patrick</forename>
@@ -5626,33 +5627,33 @@
                                 <publisher>PUF, coll Quadrige</publisher>
                             </imprint>
                             <extent> 1 vol. (XXXVI-827 p.) : couv. ill. en coul. ; 20 cm</extent>
-                        </analytic>
+                        </monogr>
                         <idno type="isbn">978-2-13-056495-9</idno>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb41144901d/PUBLIC</idno>
                     </biblStruct>
                     <biblStruct xml:id="marion1984">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#marionMarcel">
                                     <forename>Marcel</forename>
                                     <surname>Marion</surname>
                                 </persName>
                             </author>
-                            <title level="m">Dictionnaire des institutions de la France aux XVIIe et XVIIIe siècles [reimpression 1923]</title>
+                            <title level="m">Dictionnaire des institutions de la France aux XVII<hi rend="superscript">e</hi> et XVIII<hi rend="superscript">e</hi> siècles [reimpression 1923]</title>
                             <imprint>
-                                <date when="1923" and "1984">1984</date>
+                                <date from="1923" to="1984">1984</date>
                                 <pubPlace>Paris</pubPlace>
                                 <publisher>Picard</publisher>
                             </imprint>
                             <extent>IX-564 p. : couv. ill. en coul. ; 23 cm</extent>
-                        </analytic>
+                        </monogr>
                         <idno type="isbn">2-7084-0030-4 </idno>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb34837504c/PUBLIC</idno>
                     </biblStruct>
                     <biblStruct xml:id="cornu2000">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#cornuGerard">
                                     <forename>Gérard</forename>
@@ -5661,18 +5662,18 @@
                             </author>
                             <title level="m">Vocabulaire juridique, Paris, 8e édition revue et augmentée</title>
                             <imprint>
-                                <date when="1987" and "2000">1987[2000]</date>
+                                <date from="1987" to="2000">1987-[2000]</date>
                                 <pubPlace>Paris</pubPlace>
                                 <publisher>PUF/Association Henri Capitant</publisher>
                             </imprint>
                             <extent>XVIII-925 p. : jaquette ill. en coul. ; 25 cm</extent>
-                        </analytic>
+                        </monogr>
                         <idno type="isbn">2-13-050600-3</idno>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb37102697v/PUBLIC</idno>
                     </biblStruct>                    
                     <biblStruct xml:id="lepointe1948">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#lepointeGabriel">
                                     <forename>Gabriel</forename>
@@ -5686,12 +5687,12 @@
                                 <publisher>Domat Montcrestien</publisher>
                             </imprint>
                             <extent>In-16 (165 x 130), 391 p.</extent>
-                        </analytic>
+                        </monogr>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb323747862/PUBLIC</idno>
                     </biblStruct>
                     <biblStruct xml:id="rageau1704">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#rageauFrançois">
                                     <forename>François</forename>
@@ -5705,12 +5706,12 @@
                                 <publisher></publisher>
                             </imprint>
                             <extent>2 vol</extent>
-                        </analytic>
+                        </monogr>
                         <idno type="catBnf"
                             ></idno>
                     </biblStruct>
                     <biblStruct xml:id="pardessus1806">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#pardessusJeanMarie">
                                     <forename>Jean-Marie</forename>
@@ -5724,12 +5725,12 @@
                                 <publisher>Rondonneau</publisher>
                             </imprint>
                             <extent> In-8° , 508 p.</extent>
-                        </analytic>
+                        </monogr>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb310579539/PUBLIC</idno>
                     </biblStruct>
                     <biblStruct xml:id="garlopeau2007">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#garlopeauAmbroise">
                                     <forename>Ambroise</forename>
@@ -5743,13 +5744,13 @@
                                 <publisher>Publi-topex</publisher>
                             </imprint>
                             <extent>1 vol. (263 p.) : ill., couv. ill. ; 24 cm</extent>
-                        </analytic>
+                        </monogr>
                         <idno type="isbn">978-2-919530-00-7 </idno>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb424971813/PUBLIC</idno>
                     </biblStruct>
                     <biblStruct xml:id="cepollae1570">
-                        <analytic>
+                        <monogr>
                             <author>
                                 <persName ref="#cepollaeBartholomaei">
                                     <forename>Bartholomaei</forename>
@@ -5763,7 +5764,7 @@
                                 <publisher>Apud Ioannem Gymnicum</publisher>
                             </imprint>
                             <extent>In-8° , pièces liminaires, 845 p.</extent>
-                        </analytic>
+                        </monogr>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb30212118r/PUBLIC</idno>
                     </biblStruct>
@@ -5806,7 +5807,7 @@
                             <imprint>
                                 <date when="2004">2004</date>
                                 <pubPlace></pubPlace>
-                                <biblScope vol>8</biblScopevol>
+                                <biblScope type="vol">8</biblScope>
                                     <biblScope type="issue">4</biblScope>
                                     <biblScope type="pp">91-11</biblScope>
                                     
@@ -5838,20 +5839,22 @@
                                 </persName>
                             </author>
                             <title level="a">Plaster Models and Plaster Casts of Claissical Architecture and its decoration</title>
+                        </analytic>
+                        <monogr>
                             <title level="m">Plaster Casts Making, Collecting and displaying from Classical Antiquity to the Present</title>
                             <imprint>
                                 <date when="2010">2010</date>
-                                <biblScope pp>417-434</biblScope>
+                                <biblScope type="pp">417-434</biblScope>
                                 <pubPlace>Berlin/NewYork</pubPlace>
                                 <publisher>Walter de Gruyter</publisher>
                             </imprint>
                             <extent> 1 vol. (XII-752 p.) : ill., plans ; 25 cm</extent>
-                        </analytic>
+                        </monogr>
                         <idno type="isbn">978-3-11-020856-6</idno>
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb422892621/PUBLIC</idno>
                     </biblStruct>
-                    <biblStruct xml:id="2007">
+                    <biblStruct xml:id="tt2007">
                         <monogr>
                             <author>
                                 <persName>
@@ -5860,9 +5863,9 @@
                                     <!-- TODO Compléter -->
                                 </persName>
                             </author>
+                            <meeting>5 nov 2007 to 6 nov 2007>11-2007</meeting>
                             <title level="m">Le relevé en architecture ou l’éternelle quête du vrai, Actes des journées internationales d’études</title>
                             <imprint>
-                                <meeting from 5 nov 2007 to 6 nov 2007>11-2007</meeting>
                                 <date when="2011">2011</date>
                                 <pubPlace>Lyon</pubPlace>
                                 <publisher>Cité de l'architecture et du patrimoine. Lieux-dits</publisher>
@@ -5873,6 +5876,8 @@
                         <idno type="catBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb42417686j/PUBLIC</idno>
                     </biblStruct>
+                    </listBibl>
+                    
                 </div>
             </div>
         </body>
