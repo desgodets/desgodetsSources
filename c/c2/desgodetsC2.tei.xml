@@ -1869,8 +1869,10 @@
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
                            </choice></term>, de même matière que l’autel<ref
-                           type="noteHistorical" target="#c2Nh0110"
-                           />, comme il est représenté aux autels des deux et quatrième figure du <ref>huitième dessein</ref>.</p>
+                              type="noteHistorical" target="#c2Nh0110"/>, comme il est représenté aux autels des <ref type="plate" target="#c2Pl0008"><choice>
+                           <abbr>deux</abbr>
+                           <expan>deuxième</expan>
+                           </choice> et quatrième figure du huitième dessein</ref>.</p>
                      <p xml:id="c2BodyFr01.01.008.p015">
                         <hi rend="bigger"
                            >Pendant</hi> les persécutions de l’Église, comme il n’y avoit pas eu de seureté à dire la messe dans les lieux qui servoient ordinairement d’<term
@@ -1889,17 +1891,17 @@
                            type="gT" ref="#eglise"
                            >églises</term>, ou bien on transféroit leur corps, aux lieux où elles étoient bâties. De là est venu l’ancienne et constante tradition de ne point dédier d’<term
                            type="gT" ref="#eglise"
-                           >église</term> n’y de consacrer d’autels sans y mettre des reliques des martyres, ce qui fait qu’aux petites pierres que l’on encastre sur les autels de bois ou de metail, on y fait par le dessous ou par le coté de la pierre un trou de trepan dans lequel l’Evêque en la consacrant y enferme quelque particules de reliques<ref
+                           >église</term> n’y de consacrer d’autels sans y mettre des reliques des martyres, ce qui fait qu’aux petites pierres que l’on encastre sur les autels de bois ou de metail, on y fait par le dessous ou par le coté de la pierre un trou de trepan dans lequel l’évêque en la consacrant y enferme quelque particules de reliques<ref
                            type="noteHistorical" target="#c2Nh0113"/>.</p>
                      <p xml:id="c2BodyFr01.01.008.p017">
                         <hi rend="bigger"
                            >On</hi> apelloit mémoire ou confession les sépulcres des martyres, c’étoit pour l’ordinaire de petits caveaux sous terre, ayant quelque fois une ouverture par le haut de leur <term
                            type="gT" ref="#voute"
-                           >voûte</term> qui rendoit sous l’autel, ainsy que le caveau B à la 2<hi
+                              >voûte</term> qui rendoit sous l’autel, ainsy que le caveau B <ref type="figure" target="#c2Fig0008.02">à la <choice><abbr>2<hi
                            rend="superscript"
-                           >e</hi> figure on y descendoit par devant ou par derrière l’autel, par des dégrés C à la 1<hi
-                           rend="superscript">ère</hi> et 2<hi rend="superscript"
-                           >e</hi> figure du huitième dessein.</p>
+                                 >e</hi></abbr><expan>deuxième</expan></choice> figure</ref> on y descendoit par devant ou par derrière l’autel, par des dégrés C <ref type="plate" target="#c2Pl0008">à la <choice><abbr>1<hi
+                           rend="superscript">ère</hi></abbr><expan>première</expan></choice> et <choice><abbr>2<hi rend="superscript"
+                           >e</hi></abbr><expan>deuxième</expan></choice> figure du huitième dessein</ref>.</p>
                      <p xml:id="c2BodyFr01.01.008.p018">
                         <hi rend="bigger"
                            >L’autel</hi> étoit couvert de napes pendant la messe, et les anciens observoient avec beaucoup de Religion de ne rien mettre sur l’autel, que ce qui regardoit le sacrifice, pas même les reliques des saints, puisqu’elles étoient placées dessous. Il y avoit, un peu éloigné, aux côtés de l’autel de petites tables ou credances marquées D aux figures 1, 2, 3, 5 et 7 sur lesqu’elles on mettoit toute ce qui étoit nécessaire à la cérémonie de la messe, en sorte que suivant cette ancienne tradition, il ne convient pas d’élever des gradins sur les autels pour y mettre des vazes, des fleurs ou autres bijoux qui attirent la vue des fidelles et les distrait de l’attention qu’ils doivent avoir au sacrifice. L’autel demeuroit nud hors le tems du sacrifice, ou seulement couvert d’un <pb
@@ -5739,9 +5741,9 @@
                         <hi rend="bigger">Tous</hi> Les vitreaux du pourtour de l’<term
                            type="gT" ref="#eglise"
                            >église</term>, sont de même Grandeur et semblables Entr’eux. Ils ont dans la proportion des fenestres ceintrées ionique Expliquées au 8<hi
-                           rend="superscript">e</hi> chapitre de la 2<hi
+                           rend="superscript">e</hi> chapitre de la <choice><abbr>2<hi
                            rend="superscript"
-                        >e</hi> partie du traité des ordres d’architecture.</p>
+                        >e</hi></abbr><expan>deuxième</expan></choice> partie du traité des ordres d’architecture.</p>
                      <pb xml:id="c2F73r" n="p143"/>
                      <pb xml:id="c2F73v" n="p144"/>
                      <figure type="plate" copyOf="#c2Pl0022"/>
@@ -6435,9 +6437,9 @@
                         <term type="gT" ref="#portique"
                            >portique</term>, sont de même grandeur en plattebande carrée par le haut, au dessous de l’<term
                            type="gT" ref="#imposte">imposte</term> des <term type="gT"
-                           ref="#arcade">arcades</term>. Leur hauteur est un 12<hi
+                           ref="#arcade">arcades</term>. Leur hauteur est un <choice><abbr>12<hi
                            rend="superscript"
-                           >e</hi> plus que le double de leur largeur suivant la proportion des portes en plattebande de l’ordre ionique. Celles des <term
+                           >e</hi></abbr><expan>douzième</expan></choice> plus que le double de leur largeur suivant la proportion des portes en plattebande de l’ordre ionique. Celles des <term
                            type="gT" ref="#croisillon"
                            >croisillons</term>, et de la gallerie traversale sont renfermées dans des <term
                            type="gT" ref="#arcadeFeinte"
@@ -8007,9 +8009,9 @@
                            type="gT" ref="#saillieDePilastre"
                            >saillies des pilastres</term>, entablemens, calotte, <term
                            type="gT" ref="#coupole"
-                              >coupole</term>, tant intérieurs qu’extérieurs de la Lanterne et de la croix au dessus, sont comme il a été expliqué <ref>au 2<hi
+                              >coupole</term>, tant intérieurs qu’extérieurs de la Lanterne et de la croix au dessus, sont comme il a été expliqué <ref>au <choice><abbr>2<hi
                               rend="superscript"
-                           >e</hi> chapitre de ce Traité</ref> pour la lanterne des <term
+                           >e</hi></abbr><expan>deuxième</expan></choice> chapitre de ce Traité</ref> pour la lanterne des <term
                            type="gT" ref="#egliseCathedrale"
                         >églises cathédrales</term>.</p>
                      <p xml:id="c2BodyFr01.04.002.p014">
@@ -8510,7 +8512,7 @@
                            type="gT" ref="#baldaquin"
                            >baldaquin</term> d’un goût léger, les quatre consoles qui en font le couronnement posent par le bas sur quatre petits piédestaux ou accrotères au dessus de la <term
                            type="gT" ref="#corniche"
-                           >corniche</term> de son Entablement, aplomb des quatre <term
+                           >corniche</term> de son entablement, aplomb des quatre <term
                            type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
@@ -8525,111 +8527,111 @@
                            ref="#socle">socles</term>, qui sont au niveau des <term
                            type="gT" ref="#socle">socles</term> des <term type="gT"
                            ref="#pilastre"
-                           >pilastres</term> du grand ordre ionique. Leur hauteur est de dix de leur Diamètre, et la hauteur de leur Entablement est de deux Diamètres suivant les proportions Regulières de l’ordre corinthien. La hauteur depuis le dessus de la corniche de l’Entablement Jusqu’au sommet du petit amortissement qui couronne les consoles, est Egale à la hauteur des <term
+                           >pilastres</term> du grand ordre ionique. Leur hauteur est de dix de leur diamètre, et la hauteur de leur entablement est de deux diamètres suivant les proportions régulières de l’ordre corinthien. La hauteur depuis le dessus de la corniche de l’entablement jusqu’au sommet du petit amortissement qui couronne les consoles, est égale à la hauteur des <term
                            type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
-                           </choice></term> et de leurs Entablemens ensemble. Cette hauteur se divise en huit parties, les petits Piédestaux qui portent les consoles, en ont une, et l’amortissement du haut une autre. Les six parties Entre deux sont pour la hauteur des consoles, la hauteur au dessus du petit amortissement Jusq’au sommet de la Croix, est Egalle à la moitié de la hauteur des <term
+                           </choice></term> et de leurs Entablemens ensemble. Cette hauteur se divise en huit parties, les petits piédestaux qui portent les consoles, en ont une, et l’amortissement du haut une autre. Les six parties Entre deux sont pour la hauteur des consoles, la hauteur au dessus du petit amortissement Jusq’au sommet de la croix, est égalle à la moitié de la hauteur des <term
                            type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
                            </choice></term>, et cette hauteur est divisée en trois. La Croix en a deux <pb
                            xml:id="c2F109v" n="p215"
-                        /> et le Globe au dessus avec la petite Gorge qu’il porte a l’autre partie qui se redivisent en quatre parties. La gorge avec ses deux filets qui sert de piédouche au globe en ont 1, les 3 autres sont pour le Diamètre du globe, </p>
+                        /> et le globe au dessus avec la petite gorge qu’il porte a l’autre partie qui se redivisent en quatre parties. La gorge avec ses deux filets qui sert de piédouche au globe en ont 1, les 3 autres sont pour le Diamètre du globe, </p>
                      <p xml:id="c2BodyFr01.04.004.p009">
                         <hi rend="bigger"
-                           >Au</hi> dehors des Chapelles laterales vers le couvert est le profil du côté du cloistre T, qui Joint à l’<term
+                           >Au</hi> dehors des chapelles laterales vers le couvert est le profil du côté du cloistre T, qui joint à l’<term
                            type="gT" ref="#eglise"
-                           >église</term>. Ce côté de Cloiste est couvert en Terrasse, soutenu par des <term
+                           >église</term>. Ce côté de Cloiste est couvert en terrasse, soutenu par des <term
                            type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
-                           </choice></term> d’ordre Toscan, dont le dessus de la <term
+                           </choice></term> d’ordre toscan, dont le dessus de la <term
                            type="gT" ref="#corniche"
-                           >corniche</term> de l’Entablement fait le dessus de la Terrasse qui est de plein pied au <term
+                           >corniche</term> de l’entablement fait le dessus de la Terrasse qui est de plein pied au <term
                            type="gT" ref="#plancher"
-                        >plancher</term> du premier Etage des dortoirs, pour laisser le jour aux vitreaux des chapelles.</p>
+                        >plancher</term> du premier étage des dortoirs, pour laisser le jour aux vitreaux des chapelles.</p>
                      <p xml:id="c2BodyFr01.04.004.p010">
                         <hi rend="bigger"
-                           >Le</hi> Portail de la face de l’Entrée de l’<term type="gT"
-                           ref="#eglise">église</term>, représenté à la 2<hi
-                           rend="superscript">e</hi> figure, est composé d’un <term
+                           >Le</hi> portail de la face de l’entrée de l’<term type="gT"
+                           ref="#eglise">église</term>, représenté <ref type="figure" target="#">à la <choice><abbr>2<hi
+                           rend="superscript">e</hi></abbr><expan>deuxième</expan></choice> figure</ref>, est composé d’un <term
                            type="gT" ref="#portique">portique</term> de quatre <term
                            type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
-                           </choice></term> isolées, dont les espaces du milieu contiennent quatre metopes et les Espaces des Côtés chacune deux metops. Ce <term
+                           </choice></term> isolées, dont les espaces du milieu contiennent quatre metopes et les espaces des côtés chacune deux metops. Ce <term
                            type="gT" ref="#portique"
-                           >portique</term> est Elevé sur un grand Perron et couronné d’un grand fronton. Il est placé dans le milieu d’une demye Lune, ainsy qu’il a été Expliqué au premier dessein sur le Plan. La Porte de l’entrée de L’Eglize au milieu du <term
+                           >portique</term> est élevé sur un grand perron et couronné d’un grand fronton. Il est placé dans le milieu d’une demye Lune, ainsy qu’il a été expliqué au premier dessein sur le Plan. La Porte de l’entrée de l’<term type="gT" ref="#eglise"><choice><orig>églize</orig><reg>église</reg></choice></term> au milieu du <term
                            type="gT" ref="#portique"
-                           >portique</term> est en plattebande carré par le haut Entouré d’un chambranle au dessous de l’<term
+                           >portique</term> est en plattebande carré par le haut entouré d’un chambranle au dessous de l’<term
                            type="gT" ref="#imposte"
                            >imposte</term>, dans une grande <term type="gT"
                            ref="#arcadeFeinte"
-                           >arcade feinte</term> qui est ouverte en vitrait dans son ceintre, pour Eclairer la Tribune qui est au dessus du Porche du dedans de la <term
+                           >arcade feinte</term> qui est ouverte en vitrait dans son ceintre, pour éclairer la tribune qui est au dessus du porche du dedans de la <term
                            type="gT" ref="#nef"
-                           >nef</term>, dans les deux espaces des Extrémités du <term
+                           >nef</term>, dans les deux espaces des extrémités du <term
                            type="gT" ref="#portique"
                            >portique</term>, sont deux niches au dessus de l’<term
                            type="gT" ref="#imposte"
-                           >imposte</term> avec des Statues d’image de saints de Rondes Bosses et des bas reliefs en Bordure ovale au dessus de L’<term
+                           >imposte</term> avec des statues d’image de saints de rondes bosses et des bas reliefs en bordure ovale au dessus de l’<term
                            type="gT" ref="#imposte">imposte</term>.</p>
                      <p xml:id="c2BodyFr01.04.004.p011"
                            >Les deux côtés de la demie lune sont décorés de <term
                            type="gT" ref="#pilastre"
-                           >pilastres</term> et d’Entablement de même ordre que le <term
+                           >pilastres</term> et d’entablement de même ordre que le <term
                            type="gT" ref="#portique"
-                           >portique</term>, les deux grands EntrePilastres Joignant le <term
+                           >portique</term>, les deux grands entrepilastres joignant le <term
                            type="gT" ref="#portique"
-                           >portique</term>, ont quatre metopes de largeur ayant un grand vitrail au milieu de chacun, dont le Centre est au dessus de l’<term
+                           >portique</term>, ont quatre metopes de largeur ayant un grand vitrail au milieu de chacun, dont le centre est au dessus de l’<term
                            type="gT" ref="#imposte"
                            >imposte</term> avec une petite <term type="gT"
                            ref="#cornicheDApuy"
-                           >corniche d’apuy</term> par le bas et au dessus du ceintre des Grands vitreaux. Une petitte fenestre en plattebande carré de la largeur du vitrail, l’une et l’autre servant à Eclairer les deux grands <term
+                           >corniche d’apuy</term> par le bas et au dessus du ceintre des grands vitreaux. Une petitte fenestre en plattebande carré de la largeur du vitrail, l’une et l’autre servant à éclairer les deux grands <term
                            type="gT" ref="#escalier"
-                           >escaliers</term> qui montent aux Tribunes des deux Côtés de la <term
+                           >escaliers</term> qui montent aux tribunes des deux côtés de la <term
                            type="gT" ref="#nef"
-                           >nef</term>. Les derniers Entrepilastres <pb
+                           >nef</term>. Les derniers entrepilastres <pb
                            xml:id="c2F110r" n="p216"
-                           /> des Extremités de chacun côté de la demie lune, sont de deux metops avec des Niches et des bas reliefs ovales, comme les deux Espaces des Extrémités du <term
+                           /> des extremités de chacun côté de la demie lune, sont de deux metops avec des Niches et des bas reliefs ovales, comme les deux espaces des Extrémités du <term
                            type="gT" ref="#portique">portique</term>.</p>
                      <p xml:id="c2BodyFr01.04.004.p012">
                         <hi rend="bigger">La</hi>
                         <term type="gT" ref="#balustrade"
-                           >balustrades</term> au dessus du grand Entablement Dorique achève de couronner les deux côtés de la demie lune, elle suit le pourtour de la saillie de l’avant corps du <term
+                           >balustrades</term> au dessus du grand entablement dorique achève de couronner les deux côtés de la demie lune, elle suit le pourtour de la saillie de l’avant corps du <term
                            type="gT" ref="#portique"
                            >portique</term>, et se termine dans la <term type="gT"
                            ref="#corniche">corniche</term> rempante du fronton.</p>
                      <p xml:id="c2BodyFr01.04.004.p013">
                         <hi rend="bigger"
-                           >Sur</hi> la Pointe du fronton et sur les <term type="gT"
-                           ref="#pilastre">pilastres</term> ou Piedestaux de la <term
+                           >Sur</hi> la pointe du fronton et sur les <term type="gT"
+                           ref="#pilastre">pilastres</term> ou piédestaux de la <term
                            type="gT" ref="#balustrade"
                            >balustrade</term> sont des statues isolées aplomb des <term
                            type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
-                           </choice></term> des Extremités du <term type="gT"
+                           </choice></term> des extremités du <term type="gT"
                            ref="#portique"
-                           >portique</term> et des deux côtés de la demie lune. La statue sur la Pointe du milieu du fronton représente <persName
+                           >portique</term> et des deux côtés de la demie lune. La statue sur la pointe du milieu du fronton représente <persName
                            ref="#jesusChrist"
-                           >notre seigneur Jésus Christ</persName> Recucité, les deux des Extremités du <term
+                           >notre seigneur Jésus Christ</persName> <sic>recucité</sic>, les deux des extremités du <term
                            type="gT" ref="#portique"
-                           >portique</term> représentent les Princes des apôtres Saint Pierre et Saint Paul. Les deux extrémites du côté de la demie lune représentent l’un le Saint patron titulaire de l’<term
+                           >portique</term> représentent les princes des apôtres saint Pierre et saint Paul. Les deux extrémites du côté de la demie lune représentent l’un le saint patron titulaire de l’<term
                            type="gT" ref="#eglise"
-                        >église</term> et l’autre le Saint instituteur de L’ordre des Religieux du monastère.</p>
+                        >église</term> et l’autre le saint instituteur de l’ordre des religieux du monastère.</p>
                      <p xml:id="c2BodyFr01.04.004.p014">
-                        <hi rend="bigger">Le</hi> Mur de face du pignon de la <term
+                        <hi rend="bigger">Le</hi> mur de face du pignon de la <term
                            type="gT" ref="#nef"
-                           >nef</term> qui forme le haut du Portail, est décoré d’un ordre attique dont les <term
+                           >nef</term> qui forme le haut du portail, est décoré d’un ordre attique dont les <term
                            type="gT" ref="#pilastre"
-                           >pilastres</term> sont aplomb sur les Pilastres Doriques du fond du <term
+                           >pilastres</term> sont aplomb sur les pilastres doriques du fond du <term
                            type="gT" ref="#portique"
                            >portique</term> au derrière des <term type="gT"
                            ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
-                           </choice></term>. La hauteur au dessus de la corniche d’Entablement de cet attique est déterminé par la hauteur du mur qui soutient les grands Combles de la <term
+                           </choice></term>. La hauteur au dessus de la corniche d’entablement de cet attique est déterminé par la hauteur du mur qui soutient les grands combles de la <term
                            type="gT" ref="#nef">nef</term>, le <term type="gT"
                            ref="#chœur">chœur</term> et les <term type="gT"
                            ref="#croisillon"
@@ -8637,56 +8639,56 @@
                            type="gT" ref="#voute"
                            >voûtes</term> du dedans de ces quatre grandes parties de l’<term
                            type="gT" ref="#eglise"
-                           >église</term>. Ce qui donne plus de hauteur à l’attique du Portail que la proportion réglée et Etablie au Chapitre onzième de la seconde partie du traité des ordres d’architecture, mais cette Licence de proportion est autorisé par la Reguliarité de la Continuation de l’Entablement de l’attique dans tout le pourtour Extérieur de l’<term
+                           >église</term>. Ce qui donne plus de hauteur à l’attique du Portail que la proportion réglée et établie <ref type="internal">au chapitre onzième de la seconde partie du traité des ordres d’architecture</ref>, mais cette Licence de proportion est autorisé par la réguliarité de la continuation de l’entablement de l’attique dans tout le pourtour extérieur de l’<term
                            type="gT" ref="#eglise">église</term>.</p>
                      <p xml:id="c2BodyFr01.04.004.p015">
                         <hi rend="bigger"
-                           >On</hi> peut dire aussy que la disproportion de la hauteur de l’atique avec la hauteur de l’ordre Dorique du Portail est Corrigé par le Recullement du mur de l’attique, la face du Portique formant la saillie d’un grand avant corps Jusqu’à la hauteur de la Tablette d’apuy <pb
+                           >On</hi> peut dire aussy que la disproportion de la hauteur de l’atique avec la hauteur de l’ordre dorique du portail est corrigé par le recullement du mur de l’attique, la face du portique formant la saillie d’un grand avant corps jusqu’à la hauteur de la tablette d’apuy <pb
                            xml:id="c2F110v" n="p217"/> de la <term type="gT"
                            ref="#balustrade"
-                        >balustrade</term>, cache une grande partie du bas de l’attique, et l’optique diminuë la partie du haut.</p>
+                        >balustrade</term>, cache une grande partie du bas de l’attique, et l’optique diminue la partie du haut.</p>
                      <p xml:id="c2BodyFr01.04.004.p016">
                         <hi rend="bigger"
                            >L’attique</hi> du portail est couronné d’un fronton comme le <term
                            type="gT" ref="#portique"
                            >portique</term> pour cacher la croupe du comble de la <term
                            type="gT" ref="#nef"
-                           >nef</term>, ces deux frontons qui paroissent l’un derrière l’autre sont suivant les principes d’architectures ainsy qu’il a été expliqué dans les Chapitres précédents, parce que les frontons représentent les Toits des Edifices, la grande saillie de l’avant corps du <term
+                           >nef</term>, ces deux frontons qui paroissent l’un derrière l’autre sont suivant les principes d’<sic>architectures</sic> ainsy qu’il a été expliqué dans les chapitres précédents, parce que les frontons représentent les toits des édifices, la grande saillie de l’avant corps du <term
                            type="gT" ref="#portique"
-                        >portique</term> a Besoin d’une couverture et le corps de l’Edifice de l’attique a pareillement Besoin d’une autre couverture.</p>
+                        >portique</term> a besoin d’une couverture et le corps de l’édifice de l’attique a pareillement besoin d’une autre couverture.</p>
                      <p xml:id="c2BodyFr01.04.004.p017">
                         <hi rend="bigger">Les</hi> côtés du dehors des deux <term
                            type="gT" ref="#pilastre"
-                           >pilastres</term> des Extrémités de l’attique sont fortifiés par d’autres <term
+                           >pilastres</term> des extrémités de l’attique sont fortifiés par d’autres <term
                            type="gT" ref="pilastrePloye"
                            >pilastres ployés</term> en arrière corps aplomb sur les <term
                            type="gT" ref="#pilastre"
-                           >pilastres</term> de la demie lune, joignant le Portique pour donner plus de grâce à la partie du haut du Portail. L’espace du milieu de l’attique est percé d’un grand vitrail de la même proportion des autres vitreaux des grandes <term
+                           >pilastres</term> de la demie lune, joignant le portique pour donner plus de grâce à la partie du haut du portail. L’espace du milieu de l’attique est percé d’un grand vitrail de la même proportion des autres vitreaux des grandes <term
                            type="gT" ref="#voute"
-                           >voûtes</term> servant à Eclairer la niche Eliptique du haut de l’Entrée de la <term
+                           >voûtes</term> servant à éclairer la niche eliptique du haut de l’entrée de la <term
                            type="gT" ref="#nef"
-                           >nef</term>. Dans les deux Entrepilastres des Extrémités sont des panneaux d’architecture suivant le goût et la simplicité de l’ordre dorique du <term
+                           >nef</term>. Dans les deux entrepilastres des extrémités sont des panneaux d’architecture suivant le goût et la simplicité de l’ordre dorique du <term
                            type="gT" ref="#portique">portique</term>.</p>
                      <p xml:id="c2BodyFr01.04.004.p018">
                         <hi rend="bigger">Les</hi> deux grands <term type="gT"
                            ref="#corpsDeLogis"
-                           >corps de logis</term> à droite et à gauche, l’un du Monastère et l’autre pour des Logemens particuliers suivant l’allignement de la rue pour profiter de tout le terrein de la dépendance du monastère. Ils sont en avant corps au devant des faces des <term
+                           >corps de logis</term> à droite et à gauche, l’un du monastère et l’autre pour des logemens particuliers suivant l’allignement de la rue pour profiter de tout le terrein de la dépendance du monastère. Ils sont en avant corps au devant des faces des <term
                            type="gT" ref="#pilastre"
-                           >pilastres</term> des Extrémités de la demie lune du Portail de l’<term
+                           >pilastres</term> des extrémités de la demie lune du portail de l’<term
                            type="gT" ref="#eglise"
-                           >église</term>, afin de donner un Emplacement suffisant pour le Perron du <term
+                           >église</term>, afin de donner un emplacement suffisant pour le perron du <term
                            type="gT" ref="#portique"
-                           >portique</term>. La décoration de ces corps de logis est toute simple, n’ayant que des pleintes pour marquer les differens Etages et des refends en Bossages aux Encoignures, pour les distinguer des <term
+                           >portique</term>. La décoration de ces corps de logis est toute simple, n’ayant que des pleintes pour marquer les differens étages et des refends en bossages aux encoignures, pour les distinguer des <term
                            type="gT" ref="#pilastre"
-                           >pilastres</term> du Portail, leur <term type="gT"
+                           >pilastres</term> du portail, leur <term type="gT"
                            ref="#corniche"
-                           >corniche</term> d’Entablement est à Leur faces de dehors comme aux faces du dedans à la hauteur à niveau de l’architrave de l’Entablement Dorique. De même que la <term
+                           >corniche</term> d’entablement est à Leur faces de dehors comme aux faces du dedans à la hauteur à niveau de l’architrave de l’entablement dorique. De même que la <term
                            type="gT" ref="#corniche"
-                           >corniche</term> d’Entablement Extérieure des Chapelles Laterales des <term
+                           >corniche</term> d’entablement extérieure des chapelles latérales des <term
                            type="gT" ref="#basCotes"
-                        >bas côtés</term> de l’Eglize, ainsy qu’il a été Expliqué cy dessus à la permière figure.</p>
+                        >bas côtés</term> de l’<term type="gT" ref="#eglise">églize</term>, ainsy qu’il a été expliqué cy dessus <ref type="figure">à la permière figure</ref>.</p>
                      <p xml:id="c2BodyFr01.04.004.p019">
-                        <hi rend="bigger">Au</hi> dessus de l’Entablement du <term
+                        <hi rend="bigger">Au</hi> dessus de l’entablement du <term
                            type="gT" ref="#corpsDeLogis"
                            >corps de logis</term> sont des <term type="gT"
                            ref="#lucarne">lucarnes</term>
@@ -8694,75 +8696,75 @@
                         <pb xml:id="c2F111v" n="p219"/>
                         <ref type="plate" target="#c2Pl0033"/>
                         <pb xml:id="c2F112r" n="p220"
-                        /> pour Eclairer des logemens ou des greniers selon l’usage de ces corps de logis.</p>
+                        /> pour éclairer des logemens ou des greniers selon l’usage de ces corps de logis.</p>
                      <p xml:id="c2BodyFr01.04.004.p020">
                         <hi rend="bigger"
-                           >Toutes</hi> les mesures des hauteurs et Largeurs de Chacque partie tant du dedans que du dehors de l’<term
+                           >Toutes</hi> les mesures des hauteurs et largeurs de chacque partie tant du dedans que du dehors de l’<term
                            type="gT" ref="#eglise"
-                        >église</term> et du Portail ont étés cottés et suffisament Expliquées sur les autres desseins précédents auxquels on peut avoir recours sans qu’il soit besoin de les Repetter sur les deux figures de ce quatrième dessein. </p>
+                        >église</term> et du portail ont étés cottés et suffisament expliquées sur les autres desseins précédents auxquels on peut avoir recours sans qu’il soit besoin de les répetter <ref type="figure">sur les deux figures de ce quatrième dessein</ref>. </p>
                   </div>
                </div>
                <!-- Ière partie, Chapitre V -->
                <div xml:id="c2BodyFr01.05" type="chapter" n="5">
                   <head rend="alignCenter"><num>Chapitre 5<hi rend="superscript"
-                        >e</hi></num>
-                     <lb/> Description des Eglizes conventuelles</head>
+                        >e</hi></num> 
+                     <lb/>Description des <term type="gT" ref="#egliseConventuelle"><choice><orig>églizes</orig><reg>églises</reg></choice> conventuelles</term></head>
                   <div xml:id="c2BodyFr01.05.001" type="section" n="1">
                      <p xml:id="c2BodyFr01.05.001.p001">
                         <hi rend="bigger bold"
-                        >L’Etat des Religieuses est de vivre</hi> plusieurs Ensemble en communauté, et de gardes, une Retraitte continuelle dans la closture d’une maison particulière séparée du commun du monde pour vacquer à l’oraison et à l’observance de la Règle Etablie dans Chacunes de leur communauté suivant L’institution de l’ordre qu’elles ont Embrassée.</p>
+                        >L’état des religieuses est de vivre</hi> plusieurs ensemble en communauté, et de gardes, une retraitte continuelle dans la closture d’une maison particulière séparée du commun du monde pour vacquer à l’oraison et à l’observance de la règle établie dans chacunes de leur communauté suivant l’institution de l’ordre qu’elles ont embrassée.</p>
                      <p xml:id="c2BodyFr01.05.001.p002">
                         <hi rend="bigger"
-                        >Toutes</hi> les différentes maisons Religieuses que l’on nomme couvent ont une Chapelle particulière où la communauté s’assemble en différentes heures de la journée pour faire leurs Prières publiques entr’elles. </p>
+                        >Toutes</hi> les différentes maisons religieuses que l’on nomme couvent ont une chapelle particulière où la communauté s’assemble en différentes heures de la journée pour faire leurs prières publiques entr’elles. </p>
                      <p xml:id="c2BodyFr01.05.001.p003">
                         <hi rend="bigger"
-                           >Le</hi> Saint sacrifice de la messe qui est L’acte le plus grand de la Religion Chrétienne, le plus agréable à Dieu et le plus utile aux fidèles, en pouvant être célébré que par des Prestres ausquels l’entrée de l’interieur des couvents n’est pas convenable, si ce n’est dans des cas Extraordinaires pour y administrer les derniers sacremens aux malades, ou pour les inhumations ce qui oblige <pb
+                           >Le</hi> saint sacrifice de la messe qui est l’acte le plus grand de la religion chrétienne, le plus agréable à Dieu et le plus utile aux fidèles, en pouvant être célébré que par des prestres ausquels l’entrée de l’intérieur des couvents n’est pas convenable, si ce n’est dans des cas extraordinaires pour y administrer les derniers sacremens aux malades, ou pour les inhumations ce qui oblige <pb
                            xml:id="c2F112v" n="p221"
                            /> de séparer les chapelles du couvents en deux, par une grille de fer maillé. La partie qui communique au couvent est pour le <term
                            type="gT" ref="#chœur"
-                           >chœur</term> des Religieuses et l’autre partie où est placé l’autel pour dire la messe est Extérieure ayant son Entrée par le dehors, non seulement pour les Prestres mais aussy pour le commun des fidelles qui ont la devotion d’y assister au service divin, ensorte que les chapelles deviennent des <term
+                           >chœur</term> des religieuses et l’autre partie où est placé l’autel pour dire la messe est extérieure ayant son entrée par le dehors, non seulement pour les prestres mais aussy pour le commun des fidelles qui ont la dévotion d’y assister au service divin, ensorte que les chapelles deviennent des <term
                            type="gT" ref="#eglise"
                            >église</term> publiques que l’on nomme conventuelle à cause que leur principalle destination est pour l’usage des couvents. Ce qui demande une distribution toute différente de celle des autres <term
                            type="gT" ref="#eglise"
                         >églises</term> représentées dans les chapitres précédents.</p>
                      <p xml:id="c2BodyFr01.05.001.p004">
                         <hi rend="bigger"
-                           >Le</hi> premier dessein de ce chapitre est le plan d’une Eglize conventuelle dont la partie Extérieure qui est à proprement parler l’<term
+                           >Le</hi> premier dessein de ce chapitre est le plan d’une <term type="gT" ref="#egliseConventuelle"><choice><orig>églize</orig><reg>église</reg></choice> conventuelle</term> dont la partie extérieure qui est à proprement parler l’<term
                            type="gT" ref="#eglise"
                            >église</term>, est contenue dans un carré parfait A.B.C.D. distribué en une grande <term
                            type="gT" ref="#nef"
                            >nef</term> octogonale E et en quatre principaux côtés plus grands que les autres, dont la <term
                            type="gT" ref="#voute"
-                           >voûte</term> est soutenue par huit Pillier 1.2.3.4.5.6.7.8. Les quatre grands Côtés de la <term
+                           >voûte</term> est soutenue par huit pillier 1.2.3.4.5.6.7.8. Les quatre grands Côtés de la <term
                            type="gT" ref="#nef"
-                           >nef</term> sont tous ouverts depuis le bas Jusqu’en haut. Ils font retour de quatre <term
+                           >nef</term> sont tous ouverts depuis le bas jusqu’en haut. Ils font retour de quatre <term
                            type="gT" ref="#croisillon"
-                           >croisillons</term> Egaux E.G.H.I. en forme d’une Croix Grec, avec quatre petits pans des côtés de l’octogone sont des <term
+                           >croisillons</term> Egaux E.G.H.I. en forme d’une croix <sic>grec</sic>, avec quatre petits pans des côtés de l’octogone sont des <term
                            type="gT" ref="#arcade"
-                           >arcades</term> 9.10.11.12, qui Entrent dans les quatre Chapelles angulaire ELMN, lesquelles ont Chacune deux autres <term
+                           >arcades</term> 9.10.11.12, qui entrent dans les quatre chapelles angulaire ELMN, lesquelles ont chacune deux autres <term
                            type="gT" ref="#arcade"
                            >arcades</term> qui communiquent aux flancs des <term
                            type="gT" ref="#croisillon"
                            >croisillons</term>. Toutes ces <term type="gT"
                            ref="#arcade"
-                           >arcades</term> sont de même grandeur, ensorte que l’on Tourne au Pourtour de la <term
+                           >arcades</term> sont de même grandeur, ensorte que l’on tourne au pourtour de la <term
                            type="gT" ref="#nef">nef</term> en passant par les <term
                            type="gT" ref="#croisillon"
-                        >croisillons</term> et les Chapelles.</p>
+                        >croisillons</term> et les chapelles.</p>
                      <p xml:id="c2BodyFr01.05.001.p005">
                         <hi rend="bigger"
-                           >Le</hi> Maistre autel G est placé dans l’un des <term
+                           >Le</hi> maistre autel G est placé dans l’un des <term
                            type="gT" ref="#croisillon"
-                           >croisillons</term>, en face de la grille I du Chœur des Religieuses qui est dans le Croisillion opposé, aux deux autres <term
+                           >croisillons</term>, en face de la grille I du <term type="gT" ref="#chœur">chœur</term> des religieuses qui est dans le croisillion opposé, aux deux autres <term
                            type="gT" ref="#croisillon"
-                           >croisillons</term> sont la grande Chapelle H qui fait face à la porte F de l’Entrée de l’<term
+                           >croisillons</term> sont la grande chapelle H qui fait face à la porte F de l’entrée de l’<term
                            type="gT" ref="#eglise"
                            >église</term>. Laquelle est précédé par un <term type="gT"
                            ref="#portique">portique</term> O, de quatre <term type="gT"
                            ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
-                           </choice></term> ioniques Elevés sur un grand Perron de 11 marches, en face d’une grande cour Q, que l’on supose être carrée et clos d’une grille de fer sur la Rue.</p>
+                           </choice></term> ioniques élevés sur un grand perron de 11 marches, en face d’une grande cour Q, que l’on supose être carrée et clos d’une grille de fer sur la rue.</p>
                      <p xml:id="c2BodyFr01.05.001.p006">
                         <hi rend="bigger">La</hi>
                         <term type="gT" ref="#nef">nef</term> de l’<term type="gT"
@@ -8770,13 +8772,13 @@
                            ref="#croisillon">croisillons</term> sont décorés <pb
                            xml:id="c2F113r" n="p222"/> de <term type="gT"
                            ref="#pilastre"
-                           >pilastres</term> d’ordre Corinthien. Les huit des angles de la <term
+                           >pilastres</term> d’ordre corinthien. Les huit des angles de la <term
                            type="gT" ref="#nef"
-                           >nef</term> sont ployés octogonallement, ils font retour chacun d’une face Entière par les côtés des <term
+                           >nef</term> sont ployés octogonallement, ils font retour chacun d’une face entière par les côtés des <term
                            type="gT" ref="#croisillon"
                            >croisillons</term>, ce qui forme avec les allettes des <term
                            type="gT" ref="#arcade"
-                           >arcades</term> des Chapelles angulaires, les huit Pilliers qui soutiennent les <term
+                           >arcades</term> des Chapelles angulaires, les huit pilliers qui soutiennent les <term
                            type="gT" ref="#voute">voûtes</term>.</p>
                      <p xml:id="c2BodyFr01.05.001.p007">
                         <hi rend="bigger">Les</hi> faces des bouts des <term type="gT"
@@ -8784,33 +8786,33 @@
                            >croisillons</term> sont distribuées chacune en une grande <term
                            type="gT" ref="#arcadeFeinte"
                            >arcade feinte</term> au milieu de deux <term type="gT"
-                           ref="#pilastre">pilastres</term> aux Costés de L’<term
+                           ref="#pilastre">pilastres</term> aux costés de L’<term
                            type="gT" ref="#arcade">arcade</term> et un coin de <term
                            type="gT" ref="#pilastre"
                            >pilastre</term> dans chaque angle des retours des côtés, à la reserve de la face où est la grille du <term
                            type="gT" ref="#chœur"
-                           >chœur</term> des Religieuses qui a deux <term type="gT"
+                           >chœur</term> des religieuses qui a deux <term type="gT"
                            ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
                            </choice></term> isolée, à la place des <term type="gT"
                            ref="#pilastre"
-                           >pilastres</term>, dont les Espaces du milieu Entre les <term
+                           >pilastres</term>, dont les espaces du milieu entre les <term
                            type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
-                           </choice></term> que des côtés Entre les <term type="gT"
+                           </choice></term> que des côtés entre les <term type="gT"
                            ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
                            </choice></term> et les <term type="gT" ref="#pilastre"
-                           >pilastres</term> sont séparées par des grilles de fer maillées qui font la Closture du <term
+                           >pilastres</term> sont séparées par des grilles de fer maillées qui font la closture du <term
                            type="gT" ref="#chœur">chœur</term>. </p>
                      <p xml:id="c2BodyFr01.05.001.p008">
-                        <hi rend="bigger">Le</hi> Pavé de la <term type="gT" ref="#nef"
-                           >nef</term> du croisillon de l’Entrée du <term type="gT"
+                        <hi rend="bigger">Le</hi> pavé de la <term type="gT" ref="#nef"
+                           >nef</term> du croisillon de l’entrée du <term type="gT"
                            ref="#portique"
-                           >portique</term> est plus bas de trois marches que le pavé des chapelles du Planum du maitre autel et du <term
+                           >portique</term> est plus bas de trois marches que le pavé des chapelles du planum du maitre autel et du <term
                            type="gT" ref="#croisillon"
                            >croisillon</term> de la face de la grille du <term
                            type="gT" ref="#chœur"
@@ -8821,7 +8823,7 @@
                            ref="#balustrade"
                            >balustrades</term> à hauteur d’apuy posée sur la troisième marche du haut. Les marches et les <term
                            type="gT" ref="#balustrade"
-                           >balustrades</term> du Planum du Maître autel et du <term
+                           >balustrades</term> du planum du maître autel et du <term
                            type="gT" ref="#croisillon"
                            >croisillons</term> au devant de la grille du <term
                            type="gT" ref="#chœur"
@@ -8829,76 +8831,76 @@
                            ref="#nef"
                            >nef</term> pour leur donner plus d’espaces au tems des cérémonies. Les marches et <term
                            type="gT" ref="#balustrade"
-                           >balustrades</term> des cinq autres Pans de la <term
+                           >balustrades</term> des cinq autres pans de la <term
                            type="gT" ref="#nef"
                            >nef</term> sont toutes droittes entre Leurs <term type="gT"
                            ref="#pilastre">pilastres</term>.</p>
                      <p xml:id="c2BodyFr01.05.001.p009">
                         <hi rend="bigger"
-                           >Le</hi> Maistre autel est isolée, Elevé sur un marchepied de trois degrées au dessus du Planum, l’autel de la grande chapelle du <term
+                           >Le</hi> maistre autel est isolée, élevé sur un marchepied de trois degrées au dessus du planum, l’autel de la grande chapelle du <term
                            type="gT" ref="#croisillon"
-                           >croisillon</term> en face de la porte est aussy Elevé sur un marchepied de trois degrés, il est adossé contre la grande arcade feinte, laquelle est ouverte en vitrail dans son ceintre ainsy que l’<term
+                           >croisillon</term> en face de la porte est aussy élevé sur un marchepied de trois degrés, il est adossé contre la grande arcade feinte, laquelle est ouverte en vitrail dans son ceintre ainsy que l’<term
                            type="gT" ref="#arcade"
                            >arcade</term> au derrière du maitre autel. Les autels des quatre chapelles angulaires sont adossés contre les <term
                            type="gT" ref="#arcadeFeinte"
                            >arcades feintes</term> en face des <term type="gT"
-                           ref="#arcade">arcades</term> de leur Entrée sur la <term
+                           ref="#arcade">arcades</term> de leur entrée sur la <term
                            type="gT" ref="#nef">nef</term>.</p>
                      <p xml:id="c2BodyFr01.05.001.p010">
                         <hi rend="bigger"
-                           >Le</hi> Plan des Chapelles angulaires qui sont Egalles entr’elles est un Exagone alongé, les cotés de l’autel et de l’<term
+                           >Le</hi> plan des chapelles angulaires qui sont égalles entr’elles est un exagone alongé, les cotés de l’autel et de l’<term
                            type="gT" ref="#arcade"
-                           >arcade</term> de leur Entrée sur la <term type="gT"
+                           >arcade</term> de leur entrée sur la <term type="gT"
                            ref="#nef"
-                           >nef</term> Etant plus long que les quatre autres pans, lesquels sont Egaux Entr’eux. Aux deux petits pans à côté de l’autel sont des <term
+                           >nef</term> étant plus long que les quatre autres pans, lesquels sont égaux entr’eux. Aux deux petits pans à côté de l’autel sont des <term
                            type="gT" ref="#arcadeFeinte"
-                           >arcades feintes</term> de la grandeur des autres dans lesquelles sont des vitreaux pour Eclairer ces Chapelles, à la <pb
+                           >arcades feintes</term> de la grandeur des autres dans lesquelles sont des vitreaux pour éclairer ces chapelles, à la <pb
                            xml:id="c2F113v" n="p223"
                         /> réserve des deux pans qui sont du côté du couvent où il n’y a point de vitraux.</p>
                      <p xml:id="c2BodyFr01.05.001.p011">
                         <hi rend="bigger"
-                           >Du</hi> dedans de ces Chapelles angulaires on entre à quatre <term
+                           >Du</hi> dedans de ces chapelles angulaires on entre à quatre <term
                            type="gT" ref="#escalier"
-                           >escaliers</term> placés au derrière des autels dans le masif des angles du carré de l’Eglize. Ces <term
+                           >escaliers</term> placés au derrière des autels dans le masif des angles du carré de l’<term type="gT" ref="#eglise"><choice><orig>églize</orig><reg>église</reg></choice></term>. Ces <term
                            type="gT" ref="#escalier"
                            >escaliers</term> servent à monter aux tribunes, aux combles sur les <term
                            type="gT" ref="#voute">voûtes</term> et aux <term type="gT"
                            ref="#dome">dôme</term>.</p>
                      <p xml:id="c2BodyFr01.05.001.p012">
-                        <hi rend="bigger">De</hi> la Grille du <term type="gT"
+                        <hi rend="bigger">De</hi> la grille du <term type="gT"
                            ref="#chœur"
-                           >chœur</term>, les Religieuses peuvent voir le Prestre et Entendre la messe à tous les six autels de l’<term
+                           >chœur</term>, les religieuses peuvent voir le prestre et entendre la messe à tous les six autels de l’<term
                            type="gT" ref="#eglise"
-                           >église</term>, soit directement ou au Travers des <term
+                           >église</term>, soit directement ou au travers des <term
                            type="gT" ref="#arcade">arcades</term> des chapelles.</p>
                      <p xml:id="c2BodyFr01.05.001.p013">
                         <hi rend="bigger"
-                           >Pour</hi> les proportions du Plan de cette <term type="gT"
+                           >Pour</hi> les proportions du plan de cette <term type="gT"
                            ref="#eglise"
                            >église</term>, chacque côté du carré où elle est contenue se divise en cinq parties, la <term
                            type="gT" ref="#nef"
-                           >nef</term> en trois tant de long que de Large et chacun des quatre <term
+                           >nef</term> en trois tant de long que de large et chacun des quatre <term
                            type="gT" ref="#croisillon"
-                           >croisillons</term>, une de longueur compris les Epaisseurs des murs Extérieurs. Les trois parties qui font la largeur de la <term
+                           >croisillons</term>, une de longueur compris les épaisseurs des murs extérieurs. Les trois parties qui font la largeur de la <term
                            type="gT" ref="#nef"
                            >nef</term> 1.6 ou 8.3 se divisent en 33 parties et chacunes de ces parties fait un module qui est la moitié de la largeur de la face des <term
                            type="gT" ref="#pilastre"
                            >pilastres</term> de l’ordre corinthien qui décore le dedans de l’<term
                            type="gT" ref="#eglise">église</term>.</p>
                      <p xml:id="c2BodyFr01.05.001.p014">
-                        <hi rend="bigger">La</hi> Largeur de chacun des quatre <term
+                        <hi rend="bigger">La</hi> largeur de chacun des quatre <term
                            type="gT" ref="#croisillon"
-                           >croisillons</term> Entre les faces des <term type="gT"
+                           >croisillons</term> entre les faces des <term type="gT"
                            ref="#pilastre"
-                           >pilastres</term> 13.14. d’un des côtés à l’autre opposé est de 18 modules. La distance Entre les <term
+                           >pilastres</term> 13.14. d’un des côtés à l’autre opposé est de 18 modules. La distance entre les <term
                            type="gT" ref="#pilastre"
                            >pilastres</term> 13 et le coin de Pilastre 15 est de 6 modules, le coin de <term
                            type="gT" ref="#pilastre"
-                           >pilastre</term> 15 a un demy module de saillie et L’épaisseur du mur Extérieur est de deux modules et demie. Aux faces des bouts des <term
+                           >pilastre</term> 15 a un demy module de saillie et l’épaisseur du mur Extérieur est de deux modules et demie. Aux faces des bouts des <term
                            type="gT" ref="#croisillon"
-                           >croisillons</term>, la distance Entre les <term type="gT"
+                           >croisillons</term>, la distance entre les <term type="gT"
                            ref="#pilastre"
-                           >pilastres</term> 16.17 est de 10 Modules, et les distances Entre les <term
+                           >pilastres</term> 16.17 est de 10 Modules, et les distances entre les <term
                            type="gT" ref="#pilastre"
                            >pilastres</term> 16.17 et les coins de <term type="gT"
                            ref="#pilastre"
@@ -8909,15 +8911,15 @@
                            >croisillons</term>. La largeur de l’<term type="gT"
                            ref="#arcadeFeinte">arcade feinte</term> entre les <term
                            type="gT" ref="#pilastre"
-                           >pilastres</term> 16.17 est de 18 modules ses allettes ont Chacune un module, les petites <term
+                           >pilastres</term> 16.17 est de 18 modules ses allettes ont chacune un module, les petites <term
                            type="gT" ref="#arcade"
                            >arcades</term> 19.20 des côtés des <term type="gT"
                            ref="#croisillon"
-                           >croisillons</term> F ont chacune 5 modules de largeur et leurs allettes ont chacuns un demy module Ainsy de même aux trois autres <term
+                           >croisillons</term> F ont chacune 5 modules de largeur et leurs allettes ont chacuns un demy module ainsy de même aux trois autres <term
                            type="gT" ref="#croisillon"
                            >croisillons</term> GHI aux huit <term type="gT"
                            ref="#pilastre"
-                           >pilastres</term> Ployés des angles octogonales de la <term
+                           >pilastres</term> ployés des angles octogonales de la <term
                            type="gT" ref="#nef"
                            >nef</term> 1.2.3.4 de chacune des portions de leur face sont d’un module et un septième de module de chacque côté de l’angle il reste six modules entre les côtés de ces <term
                            type="gT" ref="#pilastre"
@@ -8925,26 +8927,26 @@
                            type="gT" ref="#nef">nef</term> les <pb xml:id="c2F114r"
                            n="p224"/>
                         <term type="gT" ref="#arcade"
-                           >arcades</term> 9.10.11.12 qui sont les Entrées des chapelles angulaires ont aussy 5 modules de largeur et leur allettes demy module de chacque côté. La saillie de tous les <term
+                           >arcades</term> 9.10.11.12 qui sont les entrées des chapelles angulaires ont aussy 5 modules de largeur et leur allettes demy module de chacque côté. La saillie de tous les <term
                            type="gT" ref="#pilastre"
-                           >pilastres</term> au devant du nud des murs est d’un demi module les Entrecolonnemens de la grille du chœur sont les mêmes que les Entrepilastres des faces des bouts des autres <term
+                           >pilastres</term> au devant du nud des murs est d’un demi module les entrecolonnemens de la grille du chœur sont les mêmes que les entrepilastres des faces des bouts des autres <term
                            type="gT" ref="#croisillon">croisillons</term>.</p>
                      <p xml:id="c2BodyFr01.05.001.p015">
-                        <hi rend="bigger">La</hi> Largeur du <term type="gT"
+                        <hi rend="bigger">La</hi> largeur du <term type="gT"
                            ref="#chœur"
-                           >chœur</term> P des Religieuses est de 18 modules de même que la largeur des <term
+                           >chœur</term> P des religieuses est de 18 modules de même que la largeur des <term
                            type="gT" ref="#croisillon">croisillons</term> de l’<term
                            type="gT" ref="#eglise"
                            >église</term>, et la longueur du <term type="gT"
                            ref="#chœur"
                            >chœur</term> est de quatre travées, chacune de même grandeur que l’espace du côté des <term
                            type="gT" ref="#croisillon"
-                           >croisillons</term> Entre la grille et la <term type="gT"
+                           >croisillons</term> entre la grille et la <term type="gT"
                            ref="#nef">nef</term>. C'est-à-dire que le <term type="gT"
                            ref="#chœur"
                            >chœur</term> étant décoré du même ordre corinthien du dedans de l’<term
                            type="gT" ref="#eglise"
-                           >église</term>, les quatre Entrepilastres qui composent sa longueur sont Chacun de six modules comme l’Entrepilastre 21 du côté du <term
+                           >église</term>, les quatre entrepilastres qui composent sa longueur sont Chacun de six modules comme l’entrepilastre 21 du côté du <term
                            type="gT" ref="#croisillon"
                            >croisillon</term> qui est hors la grille du <term type="gT"
                            ref="#chœur"
@@ -8958,17 +8960,17 @@
                            >chœur</term>, et 31 modules 1/3 pour la longueur du <term
                            type="gT" ref="#chœur"
                            >chœur</term> depuis la face de l’<term type="gT"
-                           ref="#abside">abside</term> Jusqu’au-dedans des <term
+                           ref="#abside">abside</term> jusqu’au-dedans des <term
                            type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
-                           </choice></term> de la grille. La face du Pilastre Ployé qui joint à l’<term
+                           </choice></term> de la grille. La face du pilastre ployé qui joint à l’<term
                            type="gT" ref="#abside"
                            >abside</term> étant d’un module 1/3 suivant la règle ordinaire, l’<term
                            type="gT" ref="#abside"
-                           >abside</term> qui est en forme de Niche est dans la proportion marquée au Chapitre précédant des autres <term
+                           >abside</term> qui est en forme de niche est dans la proportion marquée au chapitre précédant des autres <term
                            type="gT" ref="#eglise"
-                           >églises</term>.<lb/>L’entrée du <term type="gT"
+                           >églises</term>. <lb/>L’entrée du <term type="gT"
                            ref="#chœur"
                            >chœur</term> est dans le milieu du fond de l’<term
                            type="gT" ref="#abside"
@@ -8976,16 +8978,16 @@
                            ref="#abside"
                            >abside</term> est dans l’abside au côté droit de l’entrée du <term
                            type="gT" ref="#chœur"
-                           >chœur</term>, et la stale ou chaire de la Supérieure, est de l’autre côté de l’Entrée. Les stales hauts et Basses pour les Religieuses sont aux deux côtés du <term
+                           >chœur</term>, et la stale ou chaire de la supérieure, est de l’autre côté de l’entrée. Les stales hauts et basses pour les religieuses sont aux deux côtés du <term
                            type="gT" ref="#chœur"
-                        >chœur</term>, jusqu’à la dernière Travée au-dedans de la grille. Laquelle travée est vuide, étant reservée pour faire les cérémonies des prises d’habits des professions, et les autres Cérémonies du couvent.</p>
+                        >chœur</term>, jusqu’à la dernière travée au-dedans de la grille. Laquelle travée est vuide, étant reservée pour faire les cérémonies des prises d’habits des professions, et les autres cérémonies du couvent.</p>
                      <p xml:id="c2BodyFr01.05.001.p016">
                         <hi rend="bigger">L’entrée</hi> du <term type="gT" ref="#chœur"
                            >chœur</term> est précédée d’un <term type="gT"
                            ref="#avantChœur"
                            >avant chœur</term> carré R dont l’entrée est par le milieu du <term
                            type="gT" ref="cloitre"
-                           >cloître</term> ST en face de l’Entrée du <term type="gT"
+                           >cloître</term> ST en face de l’entrée du <term type="gT"
                            ref="#chœur">chœur</term>, le <term type="gT" ref="#chœur"
                            >chœur</term> et l’<term type="gT" ref="#avantChœur"
                            >avant chœur</term> sont éclairés par des vitreaux qui sont dans leurs <term
@@ -8995,26 +8997,26 @@
                            ref="#avantChœur">avant chœur</term>, et de l’<term
                            type="gT" ref="#avantChœur">avant chœur</term> au <term
                            type="gT" ref="#chœur"
-                           >chœur</term> par des Perrons de Plusieurs marches pour arriver au Rez de Chaussé du <term
+                           >chœur</term> par des perrons de plusieurs marches pour arriver au <term type="gT" ref="#rezDeChaussee">rez de chaussé</term> du <term
                            type="gT" ref="#chœur">chœur</term>. Lequel doit être <pb
                            xml:id="c2F114v" n="p225"
-                           /> d’une marche plus Elevée que le pavé du Planum du <term
+                           /> d’une marche plus élevée que le pavé du planum du <term
                            type="gT" ref="#croisillon">croisillon</term> I de l’<term
                            type="gT" ref="#eglise"
                            >église</term> au devant de la grille, afin que l’apuy de la grille soit moins haute par le côté du <term
                            type="gT" ref="#chœur"
-                           >chœur</term> que par le Côté de l’<term type="gT"
+                           >chœur</term> que par le côté de l’<term type="gT"
                            ref="#eglise"
-                           >église</term>. Le Clocher doit être placé au dessus de L’<term
+                           >église</term>. Le clocher doit être placé au dessus de l’<term
                            type="gT" ref="#avantChœur">avant chœur</term>.</p>
                      <p xml:id="c2BodyFr01.05.001.p017">
                         <hi rend="bigger">Des</hi> deux batimens qui Joignent le <term
                            type="gT" ref="#chœur"
-                           >chœur</term>, celuy vers l’intérieur du couvent est pour le confessionnal des Religieuses, distribué en un parloir extérieur 23 pour le confesseur, dont l’entrée est dans l’<term
+                           >chœur</term>, celuy vers l’intérieur du couvent est pour le confessionnal des religieuses, distribué en un parloir extérieur 23 pour le confesseur, dont l’entrée est dans l’<term
                            type="gT" ref="#eglise"
-                           >église</term> par la chapelle N. Ce parloir est séparé par une grille d’un parloir intérieur 24 pour les Religieuses. L’entrée du Parloir intérieure est par l’oratoire 25 où les Religieuses font leur préparation. Cet oratoire est précédé d’un <term
+                           >église</term> par la chapelle N. Ce parloir est séparé par une grille d’un parloir intérieur 24 pour les Religieuses. L’entrée du parloir intérieure est par l’oratoire 25 où les religieuses font leur préparation. Cet oratoire est précédé d’un <term
                            type="gT" ref="#vestibule"
-                           >vestibule</term> 26 pour être Recueillies et Eloignées du bruit de l’<term
+                           >vestibule</term> 26 pour être recueillies et éloignées du bruit de l’<term
                            type="gT" ref="#escalier">escalier</term>.</p>
                      <p xml:id="c2BodyFr01.05.001.p018">
                         <hi rend="bigger">L’autre</hi> bâtiment joignant le <term
@@ -9023,12 +9025,12 @@
                            type="gT" ref="#eglise"
                            >église</term> par la chapelle K et une autre entrée par le petit <term
                            type="gT" ref="#escalier"
-                           >escalier</term> 31 dans la Cour V, laquelle a communication au logement des Chapellains. La grande sacristie 28 du dedans et l’avant sacristie 29 où les Religieux sacristines servent et préparent les ornemens de l’<term
+                           >escalier</term> 31 dans la cour V, laquelle a communication au logement des chapellains. La grande sacristie 28 du dedans et l’avant sacristie 29 où les religieux sacristines servent et préparent les ornemens de l’<term
                            type="gT" ref="#eglise"
                         >église</term> qu’elles passent aux sacristains du dehors par le tour 32.</p>
                      <p xml:id="c2BodyFr01.05.001.p019">
                         <hi rend="bigger"
-                           >Les</hi> sacristies et L’oratoire et parloir du confessionnal sont au plein pied des chapelles de l’<term
+                           >Les</hi> sacristies et l’oratoire et parloir du confessionnal sont au plein pied des chapelles de l’<term
                            type="gT" ref="#eglise"
                            >église</term>, on y monte du cloistre par les grands <term
                            type="gT" ref="#escalier"
@@ -9042,9 +9044,9 @@
                            >chœur</term> et au logement et combles au dessus de l’oratoire et confessionnal et des sacristies, les deux petites cours 35.36 aux côtés de l’<term
                            type="gT" ref="#abside">abside</term> du <term type="gT"
                            ref="#chœur"
-                           >chœur</term> servent à Eclairer les grands <term type="gT"
+                           >chœur</term> servent à éclairer les grands <term type="gT"
                            ref="#escalier"
-                           >escaliers</term> et les passages des Batimens aux côtés du <term
+                           >escaliers</term> et les passages des batimens aux côtés du <term
                            type="gT" ref="#chœur">chœur</term>.</p>
                      <p xml:id="c2BodyFr01.05.001.p020">
                         <hi rend="bigger">La</hi> chapelle 37 au costé du <term
@@ -9064,34 +9066,34 @@
                         <pb xml:id="c2F115v" n="p227"/>
                         <ref type="plate" target="#c2Pl0034"/>
                         <pb xml:id="c2F116r" n="p228"
-                           /> Se trouve en Entrant à droite dans cette cour, un <term
+                           /> Se trouve en entrant à droite dans cette cour, un <term
                            type="gT" ref="#escalier"
-                           >escalier</term> 39 qui monte au logement des Chapelains qui sont Eclairés sur la grande cour au devant de l’<term
+                           >escalier</term> 39 qui monte au logement des chapelains qui sont éclairés sur la grande cour au devant de l’<term
                            type="gT" ref="#eglise">église</term>, du Pallier du <term
                            type="gT" ref="#vestibule"
                            >vestibule</term> du bas de cet <term type="gT"
                            ref="#escalier"
-                           >escalier</term>, on Entre dans une salle 40 qui précéde la salle du tour Extérieur 41, laquelle est adossée contre la salle du tour du dedans 42 qui a son Entrée dans le cloistre du couvent, au dessus des salles du tour sont au premier Etage. Les grands Parloirs intérieurs et Extérieurs pour la communauté et au second Etage sont les Logemens des Tourrières du dehors, auquels Logement on monte par un <term
+                           >escalier</term>, on entre dans une salle 40 qui précéde la salle du tour Extérieur 41, laquelle est adossée contre la salle du tour du dedans 42 qui a son entrée dans le cloistre du couvent, au dessus des salles du tour sont au premier étage. Les grands parloirs intérieurs et extérieurs pour la communauté et au second Etage sont les logemens des tourrières du dehors, auquels logement on monte par un <term
                            type="gT" ref="#escalier"
-                        >escalier</term> particulier qui doit être au Bout de la salle 40.</p>
+                        >escalier</term> particulier qui doit être au bout de la salle 40.</p>
                      <p xml:id="c2BodyFr01.05.001.p022">
                         <hi rend="bigger"
-                           >Aux</hi> autres côtés de la cour V, au Rez de chaussée sont les autres parloirs Exterieurs 43.44.45. adossés aux parloirs intérieures 46.47.48 pour les Religieuses, lesquelles ont leur Entrée par le <term
+                           >Aux</hi> autres côtés de la cour V, au rez de chaussée sont les autres parloirs exterieurs 43.44.45. adossés aux parloirs intérieures 46.47.48 pour les religieuses, lesquelles ont leur entrée par le <term
                            type="gT" ref="cloitre"
-                           >cloître</term>.<lb/>A L’autre côté de la grande cour de l’<term
+                           >cloître</term>.<lb/>À l’autre côté de la grande cour de l’<term
                            type="gT" ref="#eglise"
-                           >église</term> opposé au couvent, l’emplacement X peut être Employé à faire des logemens Particuliers, ou autres <term
+                           >église</term> opposé au couvent, l’emplacement X peut être Employé à faire des logemens particuliers, ou autres <term
                            type="gT" ref="#edifice"><choice>
                               <orig>édiffices</orig>
                               <reg>édifices</reg>
-                           </choice></term> au profit de la communauté des Religieuses de même forme et Cimetrie que les Batiment Extérieur du couvent pour Rendre cette grande cour Regulière des deux côtés.</p>
+                           </choice></term> au profit de la communauté des religieuses de même forme et cimetrie que les bâtiment extérieur du couvent pour rendre cette grande cour régulière des deux côtés.</p>
                   </div>
                   <div xml:id="c2BodyFr01.05.002" type="section" n="2">
                      <p xml:id="c2BodyFr01.05.002.p001">
                         <hi rend="bigger bold"
                            >La première figure du second</hi> dessein de l’<term
                            type="gT" ref="#egliseConventuelle"
-                           >église conventuelle</term>, est la coupe ou Profil de cette <term
+                           >église conventuelle</term>, est la coupe ou profil de cette <term
                            type="gT" ref="#egliseConventuelle"
                            >église</term> et d’une partie du <term type="gT"
                            ref="#chœur"
@@ -9104,15 +9106,15 @@
                            type="gT" ref="#croisillon"
                            >croisillons</term>, et sur les quatre vitreaux des petits pans soutenues par les quatre Pilliers 4.5.6.7 et les quatre autres opposés. Les archivoltes des grands <term
                            type="gT" ref="#arcDoubleau"
-                           >arcs doubleaux</term> Etant en plein ceintre et leur section de la voûte sphéroïde étant ovale, il se trouve une portion de mur aplomb au pourtour du dessus de ces archivoltes, comme il est représenté par le demy ovale Ponctué au dessus de l’archivolte des <term
+                           >arcs doubleaux</term> étant en plein ceintre et leur section de la voûte sphéroïde étant ovale, il se trouve une portion de mur aplomb au pourtour du dessus de ces archivoltes, comme il est représenté par le demy ovale ponctué au dessus de l’archivolte des <term
                            type="gT" ref="#pilastre"
                            >pilastres</term> 4.7 au devant des croisillons G.I au constraire, il se forme des lunettes au dessus des vitreaux qui sont aplomb <pb
                            xml:id="c2F116v" n="p229"/> des <term type="gT"
                            ref="#arcade"
-                        >arcades</term> 11.12 des Entrées des Chapelles angulaires.</p>
+                        >arcades</term> 11.12 des entrées des chapelles angulaires.</p>
                      <p xml:id="c2BodyFr01.05.002.p003">
                         <hi rend="bigger"
-                           >L’ouverture</hi> du haut au milieu de la grande voûte sphéroïde est Entourée d’un Entablement circulaire, qui soutient un <term
+                           >L’ouverture</hi> du haut au milieu de la grande voûte sphéroïde est entourée d’un entablement circulaire, qui soutient un <term
                            type="gT" ref="#dome"
                            >dôme</term> percé de huit vitreaux dont les <term type="gT"
                            ref="#trumeau"
@@ -9120,21 +9122,21 @@
                            type="gT" ref="#pilastre"
                            >pilastres</term> d’ordre corinthien et de <term type="gT"
                            ref="#pilastre"
-                           >pilastre</term> d’ordre composé en avant corps par le dehors, le dessus de leur Entablement est de niveau de l’un à l’autre. L’extradoce de la <term
+                           >pilastre</term> d’ordre composé en avant corps par le dehors, le dessus de leur entablement est de niveau de l’un à l’autre. L’extradoce de la <term
                            type="gT" ref="#voute"
                            >voûte</term> de la calotte du dedans de ce <term type="gT"
                            ref="#dome"
-                           >dôme</term> qui est aussy Sphéroïde, forme la <term
+                           >dôme</term> qui est aussy sphéroïde, forme la <term
                            type="gT" ref="#coupole"
                            >coupole</term> du dehors, elle est décorée de huit côtés qui repondent aux huit <term
                            type="gT" ref="#pilastre"
-                           >pilastres</term> en avant corps Extérieur qui servent à Butter la poussée de la <term
+                           >pilastres</term> en avant corps extérieur qui servent à butter la poussée de la <term
                            type="gT" ref="#voute">voûte</term> de la calotte. La <term
                            type="gT" ref="#coupole"
-                        >coupole</term> est Terminé par un piédouche qui soutient un globe sur lequel pose le pied de la Croix.</p>
+                        >coupole</term> est terminé par un piédouche qui soutient un globe sur lequel pose le pied de la croix.</p>
                      <p xml:id="c2BodyFr01.05.002.p004">
                         <hi rend="bigger"
-                           >Au dessus</hi> des quatre chapelles angulaires, sont quatre Tribunes de même grandeur que cette chapelles, lesquelles ont chacune trois grandes ouvertures sur le dedans de l’<term
+                           >Au dessus</hi> des quatre chapelles angulaires, sont quatre tribunes de même grandeur que cette chapelles, lesquelles ont chacune trois grandes ouvertures sur le dedans de l’<term
                            type="gT" ref="#eglise">église</term> aplomb des <term
                            type="gT" ref="#arcade"
                            >arcades</term> des chapelles, l’une au petit pan de la <term
@@ -9147,15 +9149,15 @@
                            ref="#balustrade"
                            >balustrades</term> d’apuis posées sur le grand <term
                            type="gT" ref="#imposte"
-                           >imposte</term> qui règne Entre les <term type="gT"
+                           >imposte</term> qui règne entre les <term type="gT"
                            ref="#pilastre"
                            >pilastres</term> dans le pourtour du dedans de l’<term
                            type="gT" ref="#eglise"
-                           >église</term>. La hauteur Entre le dessus de l’<term
+                           >église</term>. La hauteur entre le dessus de l’<term
                            type="gT" ref="#imposte"
-                           >imposte</term> et le dessous de l’architrave de L’entablement du grand ordre, n’étant pas suffisant pour donner aux ouvertures ou fenestres des Tribunes qui regardent dans l’<term
+                           >imposte</term> et le dessous de l’architrave de l’entablement du grand ordre, n’étant pas suffisant pour donner aux ouvertures ou fenestres des tribunes qui regardent dans l’<term
                            type="gT" ref="#eglise"
-                        >église</term> les proportions des arcades Corinthienes. Leur ceintre est bombé en portion de cercle par le haut, avec des crossettes par les côtés ornées d’un simple Bandeau au pourtour qui descend Jusqu’en bas.</p>
+                        >église</term> les proportions des arcades Corinthienes. Leur ceintre est bombé en portion de cercle par le haut, avec des crossettes par les côtés ornées d’un simple bandeau au pourtour qui descend Jusqu’en bas.</p>
                      <p xml:id="c2BodyFr01.05.002.p005">
                         <hi rend="bigger">Les</hi>
                         <term type="gT" ref="#voute"
@@ -9166,7 +9168,7 @@
                            type="gT" ref="#pilastre"
                            >pilastres</term> est comme 9 à 20 de même qu’aux autres <term
                            type="gT" ref="#eglise"
-                           >églises</term> expliquées cy devant dans la proportion des arcades de l’ordre Corinthien. À prendre du pavé de la <term
+                           >églises</term> expliquées cy devant dans la proportion des arcades de l’ordre corinthien. À prendre du pavé de la <term
                            type="gT" ref="#nef">nef</term>, la largeur des <term
                            type="gT" ref="#croisillon"
                            >croisillons</term> et des faces des <term type="gT"
@@ -9184,7 +9186,7 @@
                            type="gT" ref="#voute"
                            >voûte</term> est en plein ceintre, ce qui reste entre le dessus de l’entablement à la naissance du ceintre de la voûte, est pour la hauteur du soubassement avec ses <term
                            type="gT" ref="#socle"
-                           >socles</term> du Bas et du haut. Lequel soubassement est divisé et proportionné ainsy qu’il expliqué <ref>au deuxième Dessein du quatrième chapitre précédent</ref>.</p>
+                           >socles</term> du bas et du haut. Lequel soubassement est divisé et proportionné ainsy qu’il expliqué <ref>au deuxième Dessein du quatrième chapitre précédent</ref>.</p>
                      <p xml:id="c2BodyFr01.05.002.p006">
                         <hi rend="bigger"
                            >Outre</hi> les deux vitreaux des ceintres des <term
@@ -9193,7 +9195,7 @@
                            type="gT" ref="#eglise"
                            >église</term>, et les huit vitreaux du <term type="gT"
                            ref="#dome"
-                           >dôme</term>. Le Dedans de l’Eglize est Eclairé par quinze autres grands vitreaux dans les <term
+                           >dôme</term>. Le dedans de l’<term type="gT" ref="#eglise"><choice><orig>églize</orig><reg>église</reg></choice></term> est éclairé par quinze autres grands vitreaux dans les <term
                            type="gT" ref="#voute">voûtes</term> au dessus de la <term
                            type="gT" ref="#corniche"
                            >corniche</term> du soubassement, sçavoir quatre dans les petits pans de la <term
@@ -9202,50 +9204,50 @@
                            ref="#croisillon"
                            >croisillon</term> aplomb et de même largeur que les <term
                            type="gT" ref="#arcade"
-                           >arcades</term> des chapelles angulaires Et un au milieu de chacque face des Bouts des <term
+                           >arcades</term> des chapelles angulaires et un au milieu de chacque face des bouts des <term
                            type="gT" ref="#croisillon"
-                           >croisillons</term> de l’Entrée de la grande Chapelle opposée et du Maître autel. Celuy du côté de la grille du <term
+                           >croisillons</term> de l’entrée de la grande chapelle opposée et du maître autel. Celuy du côté de la grille du <term
                            type="gT" ref="#chœur"
                         >chœur</term> n’ayant point de vitrail.</p>
                      <p xml:id="c2BodyFr01.05.002.p007">
-                        <hi rend="bigegr">Le</hi> Diamètre intérieur du <term type="gT"
-                           ref="#dome">dôme</term> est Egal à la largeur des <term
+                        <hi rend="bigegr">Le</hi> diamètre intérieur du <term type="gT"
+                           ref="#dome">dôme</term> est égal à la largeur des <term
                            type="gT" ref="#croisillon"
                            >croisillons</term> à prendre du nud des faces des <term
                            type="gT" ref="#pilastre"
                            >pilastres</term>, pour avoir le ceintre de la grande voûte sphéroidalle de la <term
                            type="gT" ref="#nef"
-                           >nef</term>, ayant tracé la ligne aplomb AE de L’extrémité du Diamètre intérieur du <term
+                           >nef</term>, ayant tracé la ligne aplomb AE de l’extrémité du diamètre intérieur du <term
                            type="gT" ref="#dome"
                            >dôme</term>. Il faut prendre sur cette ligne au dessus du Niveau du haut du petit <term
                            type="gT" ref="#socle"
-                           >socle</term> E de la naissance de la voûte, la hauteur EA Egalle au demy Diamètre du plan de la <term
+                           >socle</term> E de la naissance de la voûte, la hauteur EA égalle au demy diamètre du plan de la <term
                            type="gT" ref="#nef"
                            >nef</term> au droit des angles de l’<term type="gT"
                            ref="#encoignure"
                            >encoignure</term>, reporter Le même demy diamètre sur la ligne de niveau de la naissance de la <term
                            type="gT" ref="#voute"
-                        >voûte</term> depuis le point du Milieu B, jusqu’au point C. Trouver sur la même Ligne de niveau Le point D, qui soit le ceintre d’un arc de cercle qui passe par les points C.A. faire la même opération de l’autre côté.</p>
+                        >voûte</term> depuis le point du milieu B, jusqu’au point C. Trouver sur la même ligne de niveau Le point D, qui soit le ceintre d’un arc de cercle qui passe par les points C.A. faire la même opération de l’autre côté.</p>
                      <p xml:id="c2BodyFr01.05.002.p008">
                         <hi rend="bigger">La</hi> hauteur du dessus de la <term
                            type="gT" ref="#corniche"
-                           >corniche</term> de L’entablement circulaire du bas du <term
+                           >corniche</term> de l’entablement circulaire du bas du <term
                            type="gT" ref="#dome"
                            >dôme</term> au dessus du point A, est la huitième partie de la longueur du diamètre intérieure du <term
                            type="gT" ref="#dome"
-                           >dôme</term>. Le basp de cet Entablement, est un gros cordon accompagné de moulures dessus et dessous qui tient lieu d’architrave, les moulures du bas de ce cordon descendent plus bas que le point A d’un tiers de la hauteur entre Le même point A et le dessus de la <term
+                           >dôme</term>. Le bas de cet entablement, est un gros cordon accompagné de moulures dessus et dessous qui tient lieu d’architrave, les moulures du bas de ce cordon descendent plus bas que le point A d’un tiers de la hauteur entre le même point A et le dessus de la <term
                            type="gT" ref="#cornicheCirculaire"
                            >corniche circulaire</term>, ensorte que toute la <pb
                            xml:id="c2F117v" n="p231"
-                           /> hauteur de cet Entablement est la sixième partie du Diamètre intérieur du <term
+                           /> hauteur de cet entablement est la sixième partie du diamètre intérieur du <term
                            type="gT" ref="#dome"
-                           >dôme</term>. Cette hauteur se divise en dix, la hauteur du cordon avec ses Moulures au dessus en a 3, la frise qui est en gorge avec des <term
+                           >dôme</term>. Cette hauteur se divise en dix, la hauteur du cordon avec ses moulures au dessus en a 3, la frise qui est en gorge avec des <term
                            type="gT" ref="#modillon"
                            >modillons</term> ou mutulles en consoles renversées 3 et la <term
                            type="gT" ref="#corniche"
                            >corniche</term> 4, dont le bas commence par un grand <term
                            type="gT" ref="#larmier"
-                        >larmier</term> ayant un gros Talon et un Listeau au dessus.</p>
+                        >larmier</term> ayant un gros talon et un listeau au dessus.</p>
                      <p xml:id="c2BodyFr01.05.002.p009">
                         <hi rend="bigger">La</hi> hauteur du mur circulaire du <term
                            type="gT" ref="#dome"
@@ -9276,18 +9278,18 @@
                            type="gT" ref="#coupole"
                            >coupole</term> au dessus de son <term type="gT"
                            ref="#socle"
-                           >socle</term> jusques sous le piedouche de la Croix est égalle à son demy diamètre extérieur au droit des côtés. Le piedouche au dessus a la moitié de cette hauteur, la moité de la hauteur du piedouche est pour la hauteur du dessus de sa corniche jusqu’au centre du globe et la hauteur depuis le centre du globe jusqu’au haut de la croix est égalle à la hauteur depuis le même centre du globe jusqu’au bas du piédouche. Ayant divisé cette hauteur en cinq parties, le diamètre du globe en a deux, le diamètre du plan du cordon de la baze du piédouche en le tiers du diamètre extérieur du <term
+                           >socle</term> jusques sous le piedouche de la croix est égalle à son demy diamètre extérieur au droit des côtés. Le piedouche au dessus a la moitié de cette hauteur, la moité de la hauteur du piedouche est pour la hauteur du dessus de sa corniche jusqu’au centre du globe et la hauteur depuis le centre du globe jusqu’au haut de la croix est égalle à la hauteur depuis le même centre du globe jusqu’au bas du piédouche. Ayant divisé cette hauteur en cinq parties, le diamètre du globe en a deux, le diamètre du plan du cordon de la baze du piédouche en le tiers du diamètre extérieur du <term
                            type="gT" ref="#dome"
                            >dôme</term>. Le contour des côtés de la <term type="gT"
                            ref="#coupole"
                            >coupole</term> est en un seul arc de cercle depuis le dessus du <term
                            type="gT" ref="#socle"
-                           >socle</term> de sa naissance jusques sous le cordon du piedouche de la croix. Le centre de cet arc de cercle est sur la ligne de Niveau du dessus du même <term
+                           >socle</term> de sa naissance jusques sous le cordon du piedouche de la croix. Le centre de cet arc de cercle est sur la ligne de niveau du dessus du même <term
                            type="gT" ref="#socle">socle</term>.</p>
                      <p xml:id="c2BodyFr01.05.002.p011">
                         <hi rend="bigger">Le</hi> Profil du comble des <term type="gT"
                            ref="#croisillon"
-                        >croisillons</term> est circulaire par le dessus et en gorge par le bas formant à chacun une croupe d’arrest ronde sur un Plan carré. Ce qui sera plus au long Expliqué au troisième dessein cy après.</p>
+                        >croisillons</term> est circulaire par le dessus et en gorge par le bas formant à chacun une croupe d’arrest ronde sur un Plan carré. Ce qui sera plus au long expliqué au troisième dessein cy après.</p>
                      <p xml:id="c2BodyFr01.05.002.p012">
                         <hi rend="bigger"
                            >Le</hi> maître autel qui est en face de la grille du <term
@@ -9320,46 +9322,46 @@
                            >chœur des religieuses</term>, il n’y a qu’un <term
                            type="gT" ref="#socle">socle</term> sur la <term type="gT"
                            ref="#corniche"
-                           >corniche</term> de l’Entablement par le côté du <term
+                           >corniche</term> de l’entablement par le côté du <term
                            type="gT" ref="#chœur"
                            >chœur</term>. Lequel soutient la Naissance de la <term
                            type="gT" ref="#voute"
                            >voûte</term> qui est en plein ceintre. Les vitreaux qui Eclairent Le <term
                            type="gT" ref="#chœur"
-                           >chœur</term> sont en Lunette dans la <term type="gT"
-                           ref="#voute">voûte</term> Entre les <term type="gT"
+                           >chœur</term> sont en lunette dans la <term type="gT"
+                           ref="#voute">voûte</term> entre les <term type="gT"
                            ref="#arcDoubleau"
                            >arcs doubleaux</term> qui passent aplomb sur les <term
                            type="gT" ref="#pilastre"
-                           >pilastres</term>, Le dessus des hautes stalles doit être en Lambry de menuizerie Entre les <term
+                           >pilastres</term>, le dessus des hautes stalles doit être en lambry de menuizerie entre les <term
                            type="gT" ref="#pilastre"
-                        >pilastres</term> Jusqu’à la Cimaise au dessous des Bordures des grands tableaux de peinture qui décorent les Entrepilastres, des médailles qui sont par le haut doivent être en bas Relief de Sculpture pour la diversité des objets et donner de l’agrement à la vue.</p>
+                        >pilastres</term> jusqu’à la cimaise au dessous des bordures des grands tableaux de peinture qui décorent les entrepilastres, des médailles qui sont par le haut doivent être en bas relief de sculpture pour la diversité des objets et donner de l’agrement à la vue.</p>
                      <p xml:id="c2BodyFr01.05.002.p015">
-                        <hi rend="bigger">Pour</hi> L’ordinaire le <term type="gT"
+                        <hi rend="bigger">Pour</hi> l’ordinaire le <term type="gT"
                            ref="#chœur"
-                           >chœur des religieuses</term> est parqueté de menuizerie, l’aire de ce parquet est comme il a été dit une Marche plus haut que le pavé du planum I au dehors de la grille. Ce plancher est au niveau de celuy de la grande chapelle H et du planum du maitre autel G. Le pavé de la <term
+                           >chœur des religieuses</term> est parqueté de menuizerie, l’aire de ce parquet est comme il a été dit une marche plus haut que le pavé du planum I au dehors de la grille. Ce plancher est au niveau de celuy de la grande chapelle H et du planum du maitre autel G. Le pavé de la <term
                            type="gT" ref="#nef"
-                        >nef</term> est de trois degrès plus bas, afin que les Religieuses voyent Le maitre autel et les autels des chapelles par le dessus de la teste du Peuple qui est dans l’église.</p>
+                        >nef</term> est de trois degrès plus bas, afin que les religieuses voyent le maitre autel et les autels des chapelles par le dessus de la teste du peuple qui est dans l’<term type="gT" ref="#eglise">église</term>.</p>
                      <!-- NOT S'agit-il d'une sous-disivision du texte ? -->
                      <p xml:id="c2BodyFr01.05.002.p016">
-                        <hi rend="bigger">Le Comble</hi> du <term type="gT"
+                        <hi rend="bigger">Le comble</hi> du <term type="gT"
                            ref="#chœur"
                            >chœur des religieuses</term> est à deux égouts en dehors <pb
                            xml:id="c2F118v" n="p233"
-                        /> par le bas ayant son faiste droit, de niveau, le profil en sera marqué sur le troisième dessein cy après.</p>
+                        /> par le bas ayant son faiste droit, de niveau, le profil en sera marqué <ref type="plate">sur le troisième dessein cy après</ref>.</p>
                      <p xml:id="c2BodyFr01.05.002.p017">
-                        <hi rend="bigger"
-                           >La</hi> seconde figure de ce second dessein est la moitié du plan du haut de l’<term
+                        <ref type="figure"><hi rend="bigger"
+                           >La</hi> seconde figure de ce second dessein</ref> est la moitié du plan du haut de l’<term
                            type="gT" ref="#eglise"
-                           >église</term> au droit de la Naissances des grandes <term
+                           >église</term> au droit de la naissances des grandes <term
                            type="gT" ref="#voute"
-                           >voûtes</term> du dedans et de l’attique Extérieur, les grands murs de face du carré du dehors de l’<term
+                           >voûtes</term> du dedans et de l’attique extérieur, les grands murs de face du carré du dehors de l’<term
                            type="gT" ref="#eglise"
-                           >église</term> ne montent que jusques à la hauteur de l’Entablement de l’ordre ionique du <term
+                           >église</term> ne montent que jusques à la hauteur de l’entablement de l’ordre ionique du <term
                            type="gT" ref="#portique"
                            >portique</term>, ils sont couronnés au droit des chapelles angulaires B.C. par une <term
                            type="gT" ref="#balustrade"
-                           >balustrade</term> qui se Termine contre les avant corps des <term
+                           >balustrade</term> qui se termine contre les avant corps des <term
                            type="gT" ref="#croisillon"
                            >croisillons</term> F.G.H. et sur le rempant du dessus du fronton du <term
                            type="gT" ref="#portique">portique</term> O. Les <term
@@ -9368,7 +9370,7 @@
                            type="gT" ref="#balustrade"
                         >balustrades</term> pour n’être pas vüs du dehors. </p>
                      <p xml:id="c2BodyFr01.05.002.p018">
-                        <hi rend="bigger">Les</hi> Murs du pourtour des <term type="gT"
+                        <hi rend="bigger">Les</hi> murs du pourtour des <term type="gT"
                            ref="#croisillon"
                            >croisillons</term> et des petits pans de la <term type="gT"
                            ref="#nef"
@@ -9380,50 +9382,50 @@
                            >croisillons</term> et de la grande voûte en pendentif sphéroïde de la <term
                            type="gT" ref="#nef"
                            >nef</term>, dans les différentes faces de ses murs d’attique sont des vitreaux des <term
-                           type="gT" ref="#voute">voûtes</term> qui Eclairent L’<term
+                           type="gT" ref="#voute">voûtes</term> qui éclairent l’<term
                            type="gT" ref="#eglise"
-                           >église</term>. La corniche de Soubassement des <term
+                           >église</term>. La corniche de soubassement des <term
                            type="gT" ref="#voute"
-                           >voûtes</term> qui leur sert d’apuis est au Niveau du dessus de la <term
+                           >voûtes</term> qui leur sert d’apuis est au niveau du dessus de la <term
                            type="gT" ref="#balustrade">balustrade</term> de dehors.</p>
                      <p xml:id="c2BodyFr01.05.002.p019">
                         <hi rend="bigger"
-                           >Le</hi> dessus des Tribunes des chapelles angulaires est couvert de dalles de pierres à Recouvrement l’une sur l’autre en forme de Terrasse, dont le haut est au dessous des apuis des vitreaux et les dernières dalles du bas sont creusées en gargouilles pour l’Ecoulement des Eaux au derrières des <term
+                           >Le</hi> dessus des tribunes des chapelles angulaires est couvert de dalles de pierres à recouvrement l’une sur l’autre en forme de terrasse, dont le haut est au dessous des apuis des vitreaux et les dernières dalles du bas sont creusées en gargouilles pour l’écoulement des eaux au derrières des <term
                            type="gT" ref="#balustrade"
                            >balustrades</term>. Lesquelles conduisent à de petits <term
                            type="gT" ref="#escalier"
-                        >escaliers</term> menagés dans L’épaisseur des murs de l’attique pour monter dans les combles.</p>
+                        >escaliers</term> menagés dans l’épaisseur des murs de l’attique pour monter dans les combles.</p>
                      <p xml:id="c2BodyFr01.05.002.p020">
                         <hi rend="bigger"
-                           >Les</hi> Plans des quatre grands arcs doubleaux aux Testes des <term
+                           >Les</hi> plans des quatre grands arcs doubleaux aux Testes des <term
                            type="gT" ref="#voute">voûtes</term> des <term type="gT"
                            ref="#croisillon">croisillons</term> et de la grande <term
                            type="gT" ref="#cornicheCirculaire"
                            >corniche circulaire</term> du haut de la grande voûte sphéroide qui soutient le <term
                            type="gT" ref="#dome"
-                        >dôme</term> sont marqués par des Lignes Ponctuées.</p>
+                        >dôme</term> sont marqués par des lignes ponctuées.</p>
                      <p xml:id="c2BodyFr01.05.002.p021">
-                        <hi rend="bigger"
-                           >La</hi> Troisième figure du même dessein est le plan de la moitié du <term
+                        <ref type="figure"><hi rend="bigger"
+                           >La</hi> Troisième figure du même dessein</ref> est le plan de la moitié du <term
                            type="gT" ref="#dome"
                            >dôme</term>, dont tout le pourtour est divisé en huit <term
                            type="gT" ref="#trumeau"
                            >trumeaux</term> et huit grands vitreaux, lesquels <term
                            type="gT" ref="#trumeau"
-                           >trumeaux</term> ont par le dedans les Deux Tiers de la largeur des vitreaux. Ensorte qu’ayant divisé toutte la circonférence intérieure en 40 parties <pb
+                           >trumeaux</term> ont par le dedans les deux Tiers de la largeur des vitreaux. Ensorte qu’ayant divisé toutte la circonférence intérieure en 40 parties <pb
                            xml:id="c2F119r" n="p234"/>
                         <pb xml:id="c2F119v" n="p235"/>
                         <ref type="plate" target="#c2Pl0035"/>
                         <pb xml:id="c2F120r" n="p236"
-                           /> les vitreaux en ont chacun 3 Et les <term type="gT"
+                           /> les vitreaux en ont chacun <num>3</num> et les <term type="gT"
                            ref="#trumeau"
-                           >trumeaux</term> deux, le Tableau de chacun des vitreaux étant Parallèle, les <term
+                           >trumeaux</term> deux, le tableau de chacun des vitreaux étant parallèle, les <term
                            type="gT" ref="#trumeau"
                            >trumeaux</term> s’élargissent à proportion d’avantage par le dehors afin d’y pouvoir placer deux <term
                            type="gT" ref="#pilastreCouple"
                            >pilastres couplés</term> côte à côte au corps du mur, et un autre <term
                            type="gT" ref="#pilastre"
-                           >pilastre</term> plus saillant en avant corps au devant formant par ses Côtés des manières de <term
+                           >pilastre</term> plus saillant en avant corps au devant formant par ses côtés des manières de <term
                            type="gT" ref="#pilastre"
                         >pilastres</term> avec les deux autres.</p>
                      <p xml:id="c2BodyFr01.05.002.p022">
@@ -9436,7 +9438,7 @@
                            ref="#pilastre"
                            >pilastres</term> en avant corps qui sont au milieu de chacque <term
                            type="gT" ref="#trumeau"
-                           >trumeaux</term>, laquelle saillie est des deux tiers de la largeur de leurs faces au devant des autres, desquels il paroit aussy les deux tiers de la même Largeur suivant la Règle des <term
+                           >trumeaux</term>, laquelle saillie est des deux tiers de la largeur de leurs faces au devant des autres, desquels il paroit aussy les deux tiers de la même Largeur suivant la règle des <term
                            type="gT" ref="pilastrePloye">pilastres ployés</term>.</p>
                      <p xml:id="c2BodyFr01.05.002.p023">
                         <hi rend="bigger">Dans</hi> l’épaisseur de deux des <term
@@ -9486,7 +9488,7 @@
                            type="gT" ref="#imposte"
                            >imposte</term> qui forme un espèce de fronton circulaire au pourtour du haut de la bordure du tableau, qui monte dans le vitrail du ceintre de l’<term
                            type="gT" ref="#arcade"
-                           >arcade</term>, du centre de la Gloire qui est au devant de celuy du vitrail, sort la crosse de la suspension laquelle est vue de front. La décoration du maître autel a beaucoup d’union avec la décoration du dedans de l’<term
+                           >arcade</term>, du centre de la gloire qui est au devant de celuy du vitrail, sort la crosse de la suspension laquelle est vue de front. La décoration du maître autel a beaucoup d’union avec la décoration du dedans de l’<term
                            type="gT" ref="#eglise"
                         >église</term> qui est uniforme dans son pourtour.</p>
                      <p xml:id="c2BodyFr01.05.003.p004">
@@ -9566,7 +9568,7 @@
                               <reg>colonnes</reg>
                            </choice></term> isolées et les <term type="gT"
                            ref="#pilastre"
-                           >pilastres</term> aux côtés, la coupe des joints des claveaux de cette plattebande doit contenir la hauteur de l’architrave et de la frise, sa poussée est buttée par les murs exterieurs du grand carré de l’<term
+                           >pilastres</term> aux côtés, la coupe des joints des claveaux de cette plattebande doit contenir la hauteur de l’architrave et de la frise, sa poussée est buttée par les murs extérieurs du grand carré de l’<term
                            type="gT" ref="#eglise">église</term>.</p>
                      <p xml:id="c2BodyFr01.05.003.p009">
                         <hi rend="bigger">La</hi>
@@ -9593,11 +9595,11 @@
                            ref="#chœur"
                            >chœur</term> pour y servir de buttée. Le rez de chaussée des sacristies 28 est au niveau du pavé des chapelles angulaires, qui est d’une marche plus bas que l’aire du parquet du <term
                            type="gT" ref="#chœur"
-                           >chœur</term>. La face du tour 32 pour passer Les ornemens aux sacristies du dehors est marquée dans la grande <pb
+                           >chœur</term>. La face du tour 32 pour passer les ornemens aux sacristies du dehors est marquée dans la grande <pb
                            xml:id="c2F121v" n="p239"
                            /> sacristie 28. Le second étage et les greniers au dessus des sacristies et de la dépendance du confessionnal de l’autre côté du <term
                            type="gT" ref="#chœur"
-                           >chœur</term>, sont pour l’usage du dedans du couvent, on y monte par les deux grands Escaliers marqués sur le plan aux côtés de l’<term
+                           >chœur</term>, sont pour l’usage du dedans du couvent, on y monte par les deux grands escaliers marqués sur le plan aux côtés de l’<term
                            type="gT" ref="#avantChœur">avant chœur</term>.</p>
                      <p xml:id="c2BodyFr01.05.003.p011">
                         <hi rend="bigger">Le</hi> rez de chaussée du <term type="gT"
@@ -9638,7 +9640,7 @@
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
                            </choice></term> du <term type="gT" ref="#portique"
-                           >portique</term>, ainsy qu’il est marqué <ref>au premier dessein sur le plan</ref>. Les murs ensuite qui forment de chacque côtés un second arrière corps Jusqu’aux angles de la face du grand carrée extérieur de l’églize sont tous lisses, au bas desquels le <term
+                           >portique</term>, ainsy qu’il est marqué <ref>au premier dessein sur le plan</ref>. Les murs ensuite qui forment de chacque côtés un second arrière corps jusqu’aux angles de la face du grand carrée extérieur de l’églize sont tous lisses, au bas desquels le <term
                            type="gT" ref="#socle">socle</term> des <term type="gT"
                            ref="#colonne"><choice>
                               <orig>colomnes</orig>
@@ -9757,7 +9759,7 @@
                            >portique</term> et les <term type="gT" ref="#pilastre"
                            >pilastres</term> du dedans, sont de même hauteur, le dessus des <term
                            type="gT" ref="#socle"
-                        >socles</term> et le dessous des architraves de ses deux ordres sont de niveau les uns aux autres. Le diamètre du pilastre corinthien, étant la dixième partie de sa hauteur, est plus petit de six parties deux tiers de son module que le Diamètre de la colomne ionique qui est la neuvième parties de la même hauteur.</p>
+                        >socles</term> et le dessous des architraves de ses deux ordres sont de niveau les uns aux autres. Le diamètre du pilastre corinthien, étant la dixième partie de sa hauteur, est plus petit de six parties deux tiers de son module que le diamètre de la colomne ionique qui est la neuvième parties de la même hauteur.</p>
                      <p xml:id="c2BodyFr01.05.004.p007">
                         <hi rend="bigger"
                            >Le</hi> diamètre du bas de la colomne ionique du <term
@@ -9770,7 +9772,7 @@
                            >balustrade</term> au dessus est de trois modules six parties. L’attique a onze modules de hauteur qui est la moitié de la hauteur de l’ordre ionique, n’on compris Le <term
                            type="gT" ref="#socle">socle</term>. La <term type="gT"
                            ref="#corniche"
-                           >corniche</term> et la frise de l’attique ensemble ont deux modules et le fût du pilastre attique avec sa baze, neuf Modules. La hauteur de la couverture entre le dessus de l’entablement de l’attique et le dessous du <term
+                           >corniche</term> et la frise de l’attique ensemble ont deux modules et le fût du pilastre attique avec sa baze, neuf modules. La hauteur de la couverture entre le dessus de l’entablement de l’attique et le dessous du <term
                            type="gT" ref="#socle">socle</term> du <term type="gT"
                            ref="#dome"
                            >dôme</term> est de neuf modules. Cette hauteur se divise en trois, la portion convexe du haut en a deux qui font six modules et la partie du bas se redivise en cinq. Le <term
@@ -9854,9 +9856,16 @@
                            <orig>édiffices</orig>
                            <reg>édifices</reg>
                         </choice></term>
-                     <lb/>Logéables, servants à L’utilité <lb/>Publique, tels que sont Les <lb/>hopitaux, les hôtels de Ville, les <lb/>Palais de la Justice et les bains. <lb/>Lesquels ayant des Usages <lb/>differents demandent des Distrib<hi
-                        rend="superscript">ons</hi>
-                     <lb/>Et des Situations particulières <lb/>ainsi qu’il sera Expliqué par des <lb/>chapitres séparés.</p>
+                     <lb/>logéables, servants à l’utilité 
+                     <lb/>publique, tels que sont les 
+                     <lb/>hopitaux, les hôtels de ville, les 
+                     <lb/>palais de la justice et les bains. 
+                     <lb/>Lesquels ayant des usages 
+                     <lb/>différents demandent des distrib<hi
+                        rend="superscript">ons</hi> 
+                     <lb/>et des situations particulières 
+                     <lb/>ainsi qu’il sera expliqué par des 
+                     <lb/>chapitres séparés.</p>
                </argument>
                <!-- IIème partie, Chapitre Ier -->
                <div xml:id="c2BodyFr02.01" type="chapter" n="1">
@@ -9905,7 +9914,7 @@
                            type="gT" ref="#vestibule"
                            >vestibule</term>, sont deux chambres 1.2 pour visiter les malades qui se présentent pour entrer dans L’hôtel Dieu. L’une pour la visitte des hommes et l’autre pour les femmes. À l’autre bout du <term
                            type="gT" ref="#vestibule"
-                           >vestibule</term> aux angles 3.4 sont les bureaux pour l’enregistrement des malades. L’on Entre par la porte 5 du milieu du <term
+                           >vestibule</term> aux angles 3.4 sont les bureaux pour l’enregistrement des malades. L’on entre par la porte 5 du milieu du <term
                            type="gT" ref="#vestibule"
                            >vestibule</term> en face de la cour, dans la première salle du milieu H, qui conduit à l’<term
                            type="gT" ref="#eglise"
@@ -9959,7 +9968,7 @@
                         >arcades</term> des galleries. Il est suposé que l’eau de la rivière qui est soutenuë dans les bassins du fossé du côté d’amont passe par des acqueducs souterreins au travers des fosses des latrines pour en entrainer les immondices du côté d’aval, hors de la ville. </p>
                      <p xml:id="c2BodyFr02.01.001.p013">
                         <hi rend="bigger"
-                        >Au</hi> long des deux salles KL, sont des corridors 23.24 qui ont des vues et entrées sur les grandes cours et servent à communiquer de la cour des religieuses et de la bassecour aux salles de l’hopital pour faciliter le service des malades.</p>
+                        >Au</hi> long des deux salles KL, sont des corridors 23.24 qui ont des vues et entrées sur les grandes cours et servent à communiquer de la cour des religieuses et de la bassecour aux salles de l’hôpital pour faciliter le service des malades.</p>
                      <p xml:id="c2BodyFr02.01.001.p014">
                         <hi rend="bigger"
                            >L’on</hi> entre de la grande cour du milieu D, à la cour des religieuses E par le passage 25 à côté duquel est la salle 26, pour les portières du couvent. ensuitte vers la salle de l’hôpital est la lingerie 27 des malades. Laquelle doit être garnie de tablettes au long des murs, avec de grandes tables au milieu, pour ployer le linge et le distribuer aux mères des salles. De l’autre côté du passage du couvent est un <term
@@ -10029,42 +10038,42 @@
                            xml:id="c2F128v" n="p253"
                            /> formant differents petits cabinets, afin de n’être pas vus les uns des autres. La grande cuisine Généralle 61 pour les malades, les religieuses, les officiers, les domestiques et autres personnes qui desservent l’hôpital, occupe tout le rez de chaussé du <term
                            type="gT" ref="#pavillon"
-                        >pavillon</term> du bout de ce corps de Logis de face. Les fourneaux et chaudières pour la bouilly et les bouillons sont dans un Endroit Particulier 62 Joignant la cuisine ayant vue sur la basse cour, au derrière est le lavoir à vaisselle 63, qui a vue et son écoullement sur la rivière. Ce Lavoir sert de passage pour aller de la Cuisine au gardemanger 64, joignant à L’ecalier de dégagement 60. Le gardemanger a des vues sur la bassecour et sur la Rivière, afin que l’air passant au Travers conserve et empêche les viandes de se corrompre.</p>
+                        >pavillon</term> du bout de ce corps de Logis de face. Les fourneaux et chaudières pour la bouilly et les bouillons sont dans un endroit particulier 62 Joignant la cuisine ayant vue sur la basse cour, au derrière est le lavoir à vaisselle 63, qui a vue et son écoullement sur la rivière. Ce Lavoir sert de passage pour aller de la cuisine au gardemanger 64, joignant à l’escalier de dégagement 60. Le gardemanger a des vues sur la bassecour et sur la rivière, afin que l’air passant au Travers conserve et empêche les viandes de se corrompre.</p>
                      <p xml:id="c2BodyFr02.01.001.p020">
                         <hi rend="bigger">Un</hi> Corridor 65 au long du grand <term
                            type="gT" ref="#corpsDeLogis"
-                           >corps de logis</term> en aisle en retour au fond de la Bassecour F, communique en passant par le Pallier du bas du grand <term
+                           >corps de logis</term> en aisle en retour au fond de la bassecour F, communique en passant par le pallier du bas du grand <term
                            type="gT" ref="#escalier"
-                           >escalier</term> du milieu 66 de la cuisine aux salles de l’hospital, et à la cour des Religieuses par les autres corridors 24, 23 dans ce grand <term
+                           >escalier</term> du milieu 66 de la cuisine aux salles de l’hospital, et à la cour des religieuses par les autres corridors 24, 23 dans ce grand <term
                            type="gT" ref="#corpsDeLogis"
-                           >corps de logis</term> en aisle au long du corridor 65 en commencant Joignant la cuisine, sont l’office commun 67, le fournil 68, la Paunéterie 69, le sellier 70 pour la distribution du vin, dans lequel doit être la porte d’une descente de cave par le dessous des Rampes du grand <term
+                           >corps de logis</term> en aisle au long du corridor 65 en commencant Joignant la cuisine, sont l’office commun 67, le fournil 68, la paunéterie 69, le sellier 70 pour la distribution du vin, dans lequel doit être la porte d’une descente de cave par le dessous des Rampes du grand <term
                            type="gT" ref="#escalier"
                            >escalier</term> 66. Au dela de cet <term type="gT"
                            ref="#escalier"
-                           >escalier</term> sont le Refectoire des Domestiques 71, celuy des chirurgiens 72 au bout vers les salles de l’hospital est la salle des morts 73 ayant son Entrée par le Pallier du Bas du grand <term
+                           >escalier</term> sont le réfectoire des Domestiques 71, celuy des chirurgiens 72 au bout vers les salles de l’hospital est la salle des morts 73 ayant son entrée par le pallier du Bas du grand <term
                            type="gT" ref="#escalier"
-                        >escalier</term> 12, afin d’y porter directement les cadavres pour y être Ensevelis. Et de la portés au les Cérémonies ordinaires au cimetiere qui doit être s’il se peut en un clos proche du même côté au dehors de l’hôpital.</p>
+                        >escalier</term> 12, afin d’y porter directement les cadavres pour y être ensevelis. Et de la portés au les cérémonies ordinaires au cimetiere qui doit être s’il se peut en un clos proche du même côté au dehors de l’hôpital.</p>
                      <p xml:id="c2BodyFr02.01.001.p021">
                         <hi rend="bigger"
-                        >Il</hi> conviendroit qu’il y Eut un Espace de terrain dependant de L’hôpital Joignant le couvent des Religieuses, pour leur faire un jardin et que le pourtour du dehors des salles des malades fut en marais de légumes, jardinage ou terre labourable, ou du moins isolées pour y donner de l’air.</p>
+                        >Il</hi> conviendroit qu’il y eut un espace de terrain dependant de l’hôpital joignant le couvent des religieuses, pour leur faire un jardin et que le pourtour du dehors des salles des malades fut en marais de légumes, jardinage ou terre labourable, ou du moins isolées pour y donner de l’air.</p>
                      <p xml:id="c2BodyFr02.01.001.p022">
                         <hi rend="bigger"
-                           >Pour</hi> ce qui concerne les proportions de tout cet Ediffice, les <pb
+                           >Pour</hi> ce qui concerne les proportions de tout cet <term type="gT" ref="#edifice"><choice><orig>édiffice</orig><reg>édifice</reg></choice></term>, les <pb
                            xml:id="c2F129r" n="p254"/>
                         <ref type="plate" target="#c2Pl0037"/>
                         <pb xml:id="c2F129v" n="p257"/>
                         <pb xml:id="c2F130r" n="p256"
                            /> salles des malades doivent avoir aux Environs de vingt quatre pieds de largeur, afin qu’il y ait des lits des deux côtés, dont le <term
                            type="gT" ref="#chevet"
-                           >chevet</term> soit adossé contre les murs de face au dessous des apuis des fenestres, qui doivent être plus Elevés que le haut du ciel des lits. Et qu’il reste un espace au milieu Entre Les pieds des lits pour y dresser des Tables pour la distribution des vivres des malades. La hauteur des salles sous le <term
+                           >chevet</term> soit adossé contre les murs de face au dessous des apuis des fenestres, qui doivent être plus élevés que le haut du ciel des lits. Et qu’il reste un espace au milieu entre les pieds des lits pour y dresser des tables pour la distribution des vivres des malades. La hauteur des salles sous le <term
                            type="gT" ref="#plancher"
-                        >plancher</term> aura aprochant les deux tiers de leur largeur, pour dissiper l’haleine et le mauvais air des Malades.</p>
+                        >plancher</term> aura aprochant les deux tiers de leur largeur, pour dissiper l’haleine et le mauvais air des malades.</p>
                      <p xml:id="c2BodyFr02.01.001.p023">
                         <hi rend="bigger">Les</hi>
                         <term type="gT" ref="#corpsDeLogis"
-                           >corps de logis</term> qui Environnent les cours Extérieures doivent être aprochant, de la même largeur dans œuvre, que les salles des malades et les corridors avoir la moitié de cette largeur. Les murs de face de ces Batimens auront deux pieds et demy à 3 pieds d’épaisseur, s’ils sont de pierre de taille et les <term
+                           >corps de logis</term> qui environnent les cours extérieures doivent être aprochant, de la même largeur dans œuvre, que les salles des malades et les corridors avoir la moitié de cette largeur. Les murs de face de ces bâtimens auront deux pieds et demy à <num>3</num> pieds d’épaisseur, s’ils sont de pierre de taille et les <term
                            type="gT" ref="#plancher"
-                           >planchers</term> de charpente ; mais si ces murs sont de moelon, leur épaiseur s’augmentera à proportion de la qualité des materiaux dont ils seront construits. Il suffira que les murs de refend ayent deux pieds d’épaisseur pour y pouvoir Encastrer les Tuyeaux des cheminées du Rez de chaussée. Les Logemens des salles de l’hôpital et des autres <term
+                           >planchers</term> de charpente ; mais si ces murs sont de moelon, leur épaiseur s’augmentera à proportion de la qualité des materiaux dont ils seront construits. Il suffira que les murs de refend ayent deux pieds d’épaisseur pour y pouvoir encastrer les tuyeaux des cheminées du rez de chaussée. Les logemens des salles de l’hôpital et des autres <term
                            type="gT" ref="#corpsDeLogis"
                         >corps de logis</term>, seront proportionnées à la grandeur de la ville où cet Ediffice sera situé et la quantité du peuple qui y habitte.</p>
                   </div>
@@ -10097,56 +10106,56 @@
                         >avant chœur</term>, d’où l’on peut sonner Les messes et l’office.</p>
                      <p xml:id="c2BodyFr02.01.002.p002">
                         <hi rend="bigger"
-                           >Le</hi> dortoir des Religieuses 36 est dans le grand corps de logis en aisle, du fond de la cour du couvent, l’on y entre du corridor 23 en venant du Cœur et des salles des malades par la petite Gallerie 43. La principalle Entrée du dortoir est par L’escalier du milieu 37, en passant par le Chauffoir de la communauté 38 qui partage la longueur du dortoir en deux. Les Cellules des Religieuses sont des deux côtés du dortoir 36. Les unes ayant vue sur le jardin X et les autres sur la cour E du couvent. Le chapitre 42 est au bout du dortoire, vers les salles des malades, L’apartement 35 de la Prieuré est à l’autre bout du dortoir, dans le <term
+                           >Le</hi> dortoir des religieuses 36 est dans le grand corps de logis en aisle, du fond de la cour du couvent, l’on y entre du corridor 23 en venant du cœur et des salles des malades par la petite gallerie 43. La principalle entrée du dortoir est par L’escalier du milieu 37, en passant par le chauffoir de la communauté 38 qui partage la longueur du dortoir en deux. Les cellules des religieuses sont des deux côtés du dortoir 36. Les unes ayant vue sur le jardin X et les autres sur la cour E du couvent. Le chapitre 42 est au bout du dortoire, vers les salles des malades. L’apartement 35 de la prieuré est à l’autre bout du dortoir, dans le <term
                            type="gT" ref="#pavillon"
-                           >pavillon</term> sur la Rivière composé d’un antichambre pour conférer avec les Religieuses et une celulle et un cabinet. La celulle 40 de la souprieure est vis-à-vis l’apartement de la Prieure de l’autre costé du dortoir, dans le même <term
+                           >pavillon</term> sur la rivière composé d’un antichambre pour conférer avec les religieuses et une celulle et un cabinet. La celulle 40 de la souprieure est vis-à-vis l’apartement de la prieure de l’autre costé du dortoir, dans le même <term
                            type="gT" ref="#pavillon"
-                        >pavillon</term>. Le Dortoir reçoit la lumière qui l’éclaire par le dessus des Celulles, qui n’occupent que la moitié de la hauteur de l’Etage, il est aussy Eclairé par une fenestre au Bout vers la Rivière, et à L’entrée de L’autre bout par la petite Gallerie 43.</p>
+                        >pavillon</term>. Le dortoir reçoit la lumière qui l’éclaire par le dessus des Celulles, qui n’occupent que la moitié de la hauteur de l’étage, il est aussy éclairé par une fenestre au bout vers la rivière, et à l’entrée de l’autre bout par la petite gallerie 43.</p>
                      <p xml:id="c2BodyFr02.01.002.p003">
                         <hi rend="bigger"
-                           >L’Infirmerie</hi> des Religieuses 33 qui est au grand <term
+                           >L’infirmerie</hi> des religieuses 33 qui est au grand <term
                            type="gT" ref="#corpsDeLogis"
-                           >corps de logis</term> de face a des fenestres des deux côtés sur la cour du couvent et sur la Rivière, elle communique au Dortoir, en passant par le Pallier de L’<term
+                           >corps de logis</term> de face a des fenestres des deux côtés sur la cour du couvent et sur la rivière, elle communique au dortoir, en passant par le pallier de l’<term
                            type="gT" ref="#escalier"
                            >escalier</term> de dégagement 34 à côté de la celulle de la souprieure. Au derrière de cet <term
                            type="gT" ref="#escalier"
-                        >escalier</term> vers la Rivière sont les Latrines de la Communauté séparés en plusieurs petits cabinets de deux côtés où sont les Sièges, aux deux bouts de L’infirmerie sont des offices 32.39 pour l’infirmerie et le service des Religieuses Malades.</p>
+                        >escalier</term> vers la rivière sont les Latrines de la communauté séparés en plusieurs petits cabinets de deux côtés où sont les sièges, aux deux bouts de l’infirmerie sont des offices 32.39 pour l’infirmerie et le service des religieuses malades.</p>
                      <pb xml:id="c2F131r" n="p258"/>
                      <p xml:id="c2BodyFr02.01.002.p004">
                         <hi rend="bigger"
                            >Au</hi> dela de L’infirmerie dans le même <term type="gT"
                            ref="#corpsDeLogis"
-                           >corps de logis</term> de face est la Roberie des Religieuses 31, ayant vue sur la Rivière, attenant en retour dans le corps de Logis en aisle, entre la cour du couvent et la grande cour d’Entrée de l’hôtel Dieu D est la lingerie des Religieuses 30. Ensuitte une autre Lingerie 29 pour les differents offices de la Bassecour et les Ecclesiastiques, ces Lingeries et la Roberies se dégagent par un petit corridor qui conduit de l’infirmerie des Religieuses à un <term
+                           >corps de logis</term> de face est la roberie des religieuses 31, ayant vue sur la rivière, attenant en retour dans le corps de Logis en aisle, entre la cour du couvent et la grande cour d’entrée de l’hôtel Dieu D est la lingerie des religieuses 30. Ensuitte une autre lingerie 29 pour les differents offices de la bassecour et les Ecclesiastiques, ces lingeries et la roberies se dégagent par un petit corridor qui conduit de l’infirmerie des religieuses à un <term
                            type="gT" ref="#escalier"
                            >escalier</term> 28 vers le milieu de la longueur du <term
                            type="gT" ref="#corpsDeLogis"
-                           >corps de logis</term> en aisle Entre les deux cours. Au dela de l’<term
+                           >corps de logis</term> en aisle entre les deux cours. Au delà de l’<term
                            type="gT" ref="#escalier"
-                           >escalier</term> 28, est le Reféctoire des Religieuses, 25, 26, au Bout duquel Joignant le corridor 23 proche la petitte salle I qui sert de passage est un grand office 27 pour rechauffer et dresser les portions du Refectoire. L’on y aporte les vivres, que les Religieuses recoivent des domestiques de la BasseCour, par un tour qui est Entre le bout de la gallerie 3 et la petite salle 2 où ils sont déposés en venant de la grande cuisine par le grand <term
+                           >escalier</term> 28, est le réfectoire des religieuses, 25, 26, au bout duquel joignant le corridor 23 proche la petitte salle I qui sert de passage est un grand office 27 pour rechauffer et dresser les portions du réfectoire. L’on y aporte les vivres, que les religieuses recoivent des domestiques de la bassecour, par un tour qui est entre le bout de la gallerie 3 et la petite salle 2 où ils sont déposés en venant de la grande cuisine par le grand <term
                            type="gT" ref="#escalier"
                         >escalier</term> 66 et les corridors 65.24.</p>
                      <p xml:id="c2BodyFr02.01.002.p005">
                         <hi rend="bigger"
-                        >Les</hi> chambres 54 des chapelains qui déservent L’hôtel Dieu sont dans l’autre corps de logis en aisle, en face du couvent, entre la grande cour d’entrée D et la Bassecour F. Ces chambres sont toutes dégagées par un corridor 53, en façon de dortoir qui a son Entrée d’un Bout par le corridor 24 qui communique aux salles des malades et de l’autre bout par l’escalier 52 qui descend dans la Bassecour.</p>
+                        >Les</hi> chambres 54 des chapelains qui déservent l’hôtel dieu sont dans l’autre corps de logis en aisle, en face du couvent, entre la grande cour d’entrée D et la bassecour F. Ces chambres sont toutes dégagées par un corridor 53, en façon de dortoir qui a son entrée d’un bout par le corridor 24 qui communique aux salles des malades et de l’autre bout par l’escalier 52 qui descend dans la  bassecour.</p>
                      <p xml:id="c2BodyFr02.01.002.p006">
                         <hi rend="bigger">Au</hi> delà de l’<term type="gT"
                            ref="#escalier">escalier</term> 52 dans le même <term
                            type="gT" ref="#corpsDeLogis"
-                           >corps de logis</term> en aisle, entre les deux cours, est L’apartement 51 de L’oeconome de l’hôtel Dieu, composé d’un petit <term
+                           >corps de logis</term> en aisle, entre les deux cours, est l’apartement 51 de L’oeconome de l’hôtel Dieu, composé d’un petit <term
                            type="gT" ref="#vestibule">vestibule</term> sur l’<term
                            type="gT" ref="#escalier"
                            >escalier</term> 52, une cuisine à côté, un antichambre ensuitte du <term
                            type="gT" ref="#vestibule"
-                           >vestibule</term>, une chambre, une garderobe, un cabinet, la chambre communique à une salle d’audiance 50 à côté de laquelle est le cabinet des Registres de la dépense. Au devant de cette salle par l’autre côté est un antichambre 49 dont L’entrée est sur le pallier du grand <term
+                           >vestibule</term>, une chambre, une garderobe, un cabinet, la chambre communique à une salle d’audiance 50 à côté de laquelle est le cabinet des Registres de la dépense. Au devant de cette salle par l’autre côté est un antichambre 49 dont l’entrée est sur le pallier du grand <term
                            type="gT" ref="#escalier">escalier</term> 48.</p>
                      <p xml:id="c2BodyFr02.01.002.p007">
                         <hi rend="bigger">Au</hi> Grand <term type="gT"
                            ref="#corpsDeLogis"
-                           >corps de logis</term> de face sur la Rivière, d’un Bout du même pallier de l’<term
+                           >corps de logis</term> de face sur la rivière, d’un bout du même pallier de l’<term
                            type="gT" ref="#escalier"
-                           >escalier</term> 48, l’on Entre par un autre <pb
+                           >escalier</term> 48, l’on entre par un autre <pb
                            xml:id="c2F131v" n="p259"
-                           /> antichambre 47 dans la grande salle 44 du Bureau des administrateurs de l’hôtel Dieu, qui occupe tout le <term
+                           /> antichambre 47 dans la grande salle 44 du bureau des administrateurs de l’hôtel dieu, qui occupe tout le <term
                            type="gT" ref="#pavillon"
                            >pavillon</term> du milieu en face du pont C. Ensuite du bureau est le trésor 45, à côté duquel est un petit corridor qui communique à l’<term
                            type="gT" ref="#escalier"
