@@ -13,7 +13,7 @@
         <fileDesc>
             <!-- mentions de titre et de responsabilité -->
             <titleStmt>
-                <title xml:lang="fre" type="main">Mentions</title>
+                <title xml:lang="fre" type="main">Imprint</title>
                 <!-- mention de responsabilité principale (responsable scientifique de l'édition) -->
                 <principal>
                     <persName ref="#RC">
@@ -66,7 +66,7 @@
             <publicationStmt>
                 <date when="2013">2013</date>
                 <!-- voir si on attribue un DOI ou un identifiant ARK aux fichiers édités -->
-                <idno n="presentation">cPresentation</idno>
+                <idno>imprint</idno>
                 <!-- responsable de la publication -->
                 <publisher>
                     <orgName>Centre de théorie et d’analyse du droit (UMR 7074)</orgName>
@@ -85,7 +85,7 @@
                 <availability status="restricted" xml:id="imprintImagesLicence">
                     <p>Les images numériques des manuscrits sont mises à disposition par les institutions partenaires mais restent leur propriété exclusive. Celles-ci en autorisent la reproduction et la réutilisation selon leurs propres règles en vigueur. Toute diffusion de ces images, sous quelque forme et sur quelque support que ce soit (papier, audiovisuel, ou numérique), pour quelque finalité que ce soit (pédagogique, scientifique ou commercial), doit faire l’objet d’une demande d’autorisation préalable auprès de l’institution concernée.</p>
                 </availability>
-                <availability status="restricted" xml:id="imprintPresentationTextLicence">
+                <availability status="restricted" xml:id="imprintTextLicence">
                     <p>Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
                         <lb/>Cette licence est disponible en ligne : <ref
                             target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
@@ -169,7 +169,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc>
-            <change when="2014-03-21" who="#EC">version Beta</change>
+            <change when="2014-03-23" who="#EC">version Beta</change>
             <change when="2013-05-31" who="#EC">création du fichier</change>
         </revisionDesc>
     </teiHeader>
