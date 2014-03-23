@@ -115,7 +115,7 @@
                         >Pas d’Utilisation Commerciale</hi> — Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant. 
                         <lb/>Le Centre de théorie et d’analyse du droit souhaite principalement encourager l’utilisation et l’amélioration de ses ressources électroniques dans l’intérêt de l’enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d’analyse du droit.</p>
                     <p><hi rend="italic"
-                        >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
+                            >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
                         <lb/>Vous n’êtes pas obligé de signaler votre travail auprès du Centre de théorie et d’analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
                             type="external" target="mailto:contact@desgodets.net"
                             >contact@desgodets.net</ref>.</p>
@@ -461,24 +461,24 @@
             </div>
         </body>
         <back xml:id="cPresentationBack">
-                <div xml:id="cPresentationBackFr" xml:lang="fre">
-                    <!-- sortie du tableau de tradition (liste des témoins) à partir de listWit dans desgodetsC.tei.xml et des en-tête des témoins concernés -->
-                    <divGen n="tradition" type="tradition">
-                        <!-- créer une division div de type="tradition" en posant une ancre (xml:id=concat({idDuFichier},'Tradition') ), avec un titre head comme ci-dessous  -->
-                        <head>Tableau de tradition</head>
-                        <!-- pour chaque témoin : la sortie contient le titre du manuscrit, le lieu de conservation, la cote. Le contenu de desc dans listWit et le lien de téléchargement de la source  -->
-                    </divGen>
-                    <!-- Inclusion du fichier de notes -->
-                    <xi:include href="divs/desgodetsCPresentationNotes.tei.xml" parse="xml">
-                        <xi:fallback>Fichier de notes de cPresentation non trouvé</xi:fallback>
-                    </xi:include>
+            <div xml:id="cPresentationBackFr" xml:lang="fre">
+                <!-- sortie du tableau de tradition (liste des témoins) à partir de listWit dans desgodetsC.tei.xml et des en-tête des témoins concernés -->
+                <divGen n="tradition" type="tradition">
+                    <!-- créer une division div de type="tradition" en posant une ancre (xml:id=concat({idDuFichier},'Tradition') ), avec un titre head comme ci-dessous  -->
+                    <head>Tableau de tradition</head>
+                    <!-- pour chaque témoin : la sortie contient le titre du manuscrit, le lieu de conservation, la cote. Le contenu de desc dans listWit et le lien de téléchargement de la source  -->
+                </divGen>
+                <!-- Inclusion du fichier de notes -->
+                <xi:include href="divs/desgodetsCPresentationNotes.tei.xml" parse="xml">
+                    <xi:fallback>Fichier de notes de cPresentation non trouvé</xi:fallback>
+                </xi:include>
 
-                    <!-- sortie des entrées bibliographiques utilisées dans l'édition critique -->
-                    <divGen n="bibliography" type="biblio">
-                        <head>Bibliographie</head>
-                        <!-- générer une division div de type="biblio" en posant une ancre (xml:id=concat({idDuFichier},'Biblio') ), contenant la liste des références bibliographiques citées dans le corps de l'édition du manuscrit concerné -->
-                    </divGen>
-                </div>
+                <!-- sortie des entrées bibliographiques utilisées dans l'édition critique -->
+                <divGen n="bibliography" type="biblio">
+                    <head>Bibliographie</head>
+                    <!-- générer une division div de type="biblio" en posant une ancre (xml:id=concat({idDuFichier},'Biblio') ), contenant la liste des références bibliographiques citées dans le corps de l'édition du manuscrit concerné -->
+                </divGen>
+            </div>
         </back>
     </text>
 </TEI>
