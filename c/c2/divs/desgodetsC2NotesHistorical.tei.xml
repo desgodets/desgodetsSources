@@ -2,17 +2,18 @@
 
 <!-- fichier inclus des notes de commentaire historique de C2 -->
 
-<!-- RMQ : fichier inclus pour faciliter le travail d'édition -->
-<!-- RMQ : identifiants composés de l'identifiant dans le corpus, suivi de Nh pour notes historiques, suivi d'un numéro d'ordre à quatre unités -->
-<!-- TODO : encoder dans la bibliographie l'ensemble des références biblio des notes -->
+<!-- RMQ : fichier inclus pour faciliter le travail d’édition -->
+<!-- RMQ : identifiants composés de l’identifiant dans le corpus, suivi de Nh pour notes historiques, suivi d’un numéro d’ordre à quatre unités -->
+<!-- TODO : encoder dans la bibliographie l’ensemble des références biblio des notes -->
 
-<div xmlns="http://www.tei-c.org/ns/1.0" type="notesHistorical" xml:id="c2BackFr01"
-    xml:lang="fre">
+<div xmlns="http://www.tei-c.org/ns/1.0" type="notesHistorical" xml:id="c2BackFr01" xml:lang="fre">
     <head>Notes de commentaire historique</head>
     <note xml:id="c2Nh0001">
         <p>En abordant la commodité, après la théorie des ordres, et en annonçant qu’il
             s’intéressera ensuite aux principes constructifs, Desgodets semble
-            reprendre les procédés d’analyse d’André Félibien, <hi rend="italic">Des
+            reprendre les procédés d’analyse d’André Félibien, <hi
+                rend="italic"
+                >Des
                 principes de l’architecture, de la peinture et des autres arts qui en
                 dépendent. Avec un dictionnaire des termes propres de ces arts</hi>,
             Paris, Coignard, 1676. Ce dernier commence en effet par exposer les
@@ -23,42 +24,57 @@
             complémentaires, d’autant qu’il semble s’être soucié dans ses cours
             essentiellement de l’architecture religieuse et de l’architecture publique.
             Le déroulé des cours peut se suivre grâce aux annonces qu’il en fit
-            régulièrement : le 1<hi rend="superscript">er</hi> décembre 1722, « M.
+            régulièrement : le 1<hi
+                rend="superscript"
+                >er</hi> décembre 1722, « M.
             Desgodets a présenté à la compagnie comme de coutume les affiches des
             leçons [...] ensuite, il donnera un traité sur la distribution et les
-            proportions des églises et autres édifices. » (<hi rend="italic"
+            proportions des églises et autres édifices. » (<hi
+                rend="italic"
                 >Procès-verbaux de l’académie royale d’architecture</hi>, publiés sous
-            la direction de Henry Lemonnier, Paris, Jean Schelit<hi rend="italic"
+            la direction de Henry Lemonnier, Paris, Jean Schelit<hi
+                rend="italic"
                 >.</hi>, 1915, t. IV, p. 254), 15 novembre 1723 : « M. Desgodets,
             professeur a distribué les affiches qui marquent qu’il s’est proposé de
             donner pour leçons aux estudians un traité de la commodité de
             l’architecture concernant la distribution et la perspective des édifices.
             Il achèvera de donner la dissertation sur le dessein et il donnera la
             seconde partie du nouveau commentaire sur les articles de la Coustume de
-            Paris qui ont du raport à l’architecture », (<hi rend="italic">op.
+            Paris qui ont du raport à l’architecture », (<hi
+                rend="italic"
+                >op.
             cit</hi>., t. IV, p. 274) ; 13 novembre 1724 : « M. Desgodets a présenté à
-            la Compagnie l'affiche des leçons qu'il se propose de donner sur les ordres
-                d'architecture<hi rend="italic">, </hi>sur la commodité, la
+            la Compagnie l’affiche des leçons qu’il se propose de donner sur les ordres
+                d’architecture<hi
+                rend="italic"
+                >, </hi>sur la commodité, la
             distribution et la proportion des édifices […], sur les articles de la
-            Coustume qui ont rapport à l'architecture et sur le toisé des
-                bastimens » (<hi rend="italic">op. cit</hi>., t. IV, p. 293) ; 12
+            Coustume qui ont rapport à l’architecture et sur le toisé des
+                bastimens » (<hi
+                rend="italic"
+                >op. cit</hi>., t. IV, p. 293) ; 12
             novembre 1725 : « M. Desgodets a présenté ses affiches pour les leçons
-            publiques. Il continuera de donner le Traitté des ordres d'architecture et
-            ensuite le Traitté de la commodité de l'architecture concernant la
+            publiques. Il continuera de donner le Traitté des ordres d’architecture et
+            ensuite le Traitté de la commodité de l’architecture concernant la
             distribution et les proportions des édifices. Et il compte en cela le toisé
-            des bastimens » (<hi rend="italic">op. cit.,</hi> t. IV, p. 312) ; 18
-            novembre 1726 : « M. Desgodets a présenté l'affiche pour les leçons
+            des bastimens » (<hi
+                rend="italic"
+                >op. cit.,</hi> t. IV, p. 312) ; 18
+            novembre 1726 : « M. Desgodets a présenté l’affiche pour les leçons
             publiques. Il donnera aux étudians la seconde partie du Traité des ordres
-            d'architecture. Il continuera le Traité de la commodité, distribution et
+            d’architecture. Il continuera le Traité de la commodité, distribution et
             proportion des édifices tant publics que particuliers, et le Traité du
-            toisé des bastimens aux us et coutumes de Paris » (<hi rend="italic">op.
+            toisé des bastimens aux us et coutumes de Paris » (<hi
+                rend="italic"
+                >op.
                 cit,</hi>, t. IV, p. 332) ; 17 novembre 1727 : « M. Desgodets a
-            présenté à l'Académie les affiches pour les leçons publiques où il se
+            présenté à l’Académie les affiches pour les leçons publiques où il se
             propose de continuer le Traité de la commodité, distribution et proportion
             des édifices publics et particuliers. Il achèvera le Traité du toisé des
-            bastiments et la seconde partie du Traité des ordres d'architecture.
+            bastiments et la seconde partie du Traité des ordres d’architecture.
             Ensuite il donnera une dissertation sur le dessein et la perspective et un
-            Traité de la coupe des pierres » (<hi rend="italic">op. cit., </hi>Paris
+            Traité de la coupe des pierres » (<hi
+                rend="italic">op. cit., </hi>Paris
             1917, t. V, p.16).</p>
     </note>
     <note xml:id="c2Nh0002">
@@ -66,7 +82,8 @@
             au moins dans le cours conservé ;</p>
     </note>
     <note xml:id="c2Nh0003">
-        <p>La 3<hi rend="superscript">e</hi> section n’est pas conservée mais il est
+        <p>La 3<hi rend="superscript"
+            >e</hi> section n’est pas conservée mais il est
             possible que Desgodets ait abordé ce thème, au moins de 1726 à 1728, dates
             au cours desquelles il prononce à nouveau un cours sur les édifices publics
             et lit ce cours aux académiciens.</p>
@@ -74,21 +91,32 @@
     <note xml:id="c2Nh0004">
         <p>Depuis Palladio surtout, les théoriciens de l’architecture essayaient de
             lier monde et restes antiques avec une lecture biblique de la chronologie
-            (voir sur ce sujet J. Rykwert, <hi rend="italic">La Maison d’Adam au
+            (voir sur ce sujet J. Rykwert, <hi
+                rend="italic"
+                >La Maison d’Adam au
                 paradis. L’idée de la cabane primitive dans la théorie de
-                l’architecture</hi>, Paris 1976 (1<hi rend="superscript">ère</hi> éd.
+                l’architecture</hi>, Paris 1976 (1<hi
+                rend="superscript"
+                >ère</hi> éd.
             1972, « raison antique et grâce chrétienne, p. 124-163) mais aucun
             théoricien, avant Desgodets, ne pousse aussi loin la comparaison. Desgodets
-            semble s’être inspiré, au moins dans la méthode, de <hi rend="italic"
-                >l’Histoire de l’Église</hi> de l’abbé de Choisy (Paris, 1703-1720) qui
+            semble s’être inspiré, au moins dans la méthode, de <hi
+                rend="italic"
+            >l’Histoire de l’Église</hi> de l’abbé de Choisy (Paris, 1703-1720) qui
             mêlait quant à lui Histoire et histoire de l’Église et qui pouvait lui
             donner une lecture biblique de l’histoire. </p>
         <p>En revanche, les propos sur l’origine de l’architecture ne sont pas
-            novateurs <hi rend="italic">stricto sensu</hi>. Alberti rappelle que les
+            novateurs <hi
+                rend="italic"
+                >stricto sensu</hi>. Alberti rappelle que les
             « hommes au commencement cherchèrent en regions seures et salutaires,
-            certaines places pour y habiter en repos », (<hi rend="italic">De re
+            certaines places pour y habiter en repos », (<hi
+                rend="italic"
+                >De re
                 aedificatoria</hi>, Livre I, chapitre 3), propos largement repris par
-            François Blondel dans son <hi rend="italic">Cours d’architecture</hi> 1675,
+            François Blondel dans son <hi
+                rend="italic"
+            >Cours d’architecture</hi> 1675,
             chapitre I, « De l’origine et de l’accroissement de l’architecture ». </p>
         <p>Desgodets va ajouter à ces éléments des jalons d’histoire biblique mêlant
             ainsi histoire religieuse et théorie traditionnelle (depuis Vitruve) de
@@ -122,14 +150,20 @@
     </note>
     <note xml:id="c2Nh0010">
         <p>Cette date était donnée dans le commentaire de la Vulgate. Elle est reprise
-            notamment dans l’<hi rend="italic">Histoire de l’Ancien Testament tiré de
+            notamment dans l’<hi
+                rend="italic"
+                >Histoire de l’Ancien Testament tiré de
                 l’écriture sainte</hi> par Arnauld D’Andilly, Paris, Pierre le Petit,
-            1665 ou encore dans <hi rend="italic">l’Histoire de l’Église</hi> de l’abbé
-            de Choisy (<hi rend="italic">op. cit.</hi>).</p>
+            1665 ou encore dans <hi
+                rend="italic">l’Histoire de l’Église</hi> de l’abbé
+            de Choisy (<hi
+                rend="italic">op. cit.</hi>).</p>
     </note>
     <note xml:id="c2Nh0011">
         <p>Il s’agit de fait de la première construction décrite dans la Bible. Jean
-            Bullant (<hi rend="italic">Reigle générale d’architecture des cinq manières
+            Bullant (<hi
+                rend="italic"
+                >Reigle générale d’architecture des cinq manières
                 de colonnes</hi>, p. 9) avait déjà mentionné explicitement l’arche de
             Noé (« […] chose que noz expositeurs des sainctes lettres ayant bien
             observé, estimèrent que l’arche faicte au temps du Déluge, fut comprise sur
@@ -140,13 +174,15 @@
     </note>
     <note xml:id="c2Nh0013">
         <p>
-            <hi rend="italic">Genèse</hi> 11, 3-4. Desgodets passe ainsi de la
+            <hi rend="italic"
+            >Genèse</hi> 11, 3-4. Desgodets passe ainsi de la
             construction en pierre à la construction en bois, établissant un lien avec
             la théorie architecturale.</p>
     </note>
     <note xml:id="c2Nh0014">
         <p>
-            <hi rend="italic">Genèse</hi> 11, 3-4 … « Allons ! Montons des briques et
+            <hi rend="italic"
+            >Genèse</hi> 11, 3-4 … « Allons ! Montons des briques et
             cuisons les au four » ; Ex 1, 14, « Les briques leur servirent de pierre
             &amp; le bitume leur servi de mortier ». Une nouvelle fois, ici Desgodets
             entend lier histoire de l’architecture et histoire de la construction.</p>
@@ -160,9 +196,13 @@
             fait que la distribution ne peut être étudiée seule ; il a une vue
             globalisante de la commodité. Pour les principes vitruviens fondamentaux et
             leur utilisation dans la théorie architecturale, voir aussi Georg Germann,
-                <hi rend="italic">Vitruve et le vitruvianisme. Introduction à
+                <hi
+                rend="italic"
+                >Vitruve et le vitruvianisme. Introduction à
                 l’histoire de la théorie architecturale</hi>, [Darmstadt, 1980],
-            Lausanne, 1991 ; Werner Szambien, <hi rend="italic">Symétrie, goût,
+            Lausanne, 1991 ; Werner Szambien, <hi
+                rend="italic"
+                >Symétrie, goût,
                 caractère. Théorie et terminologie de l’architecture à l’âge classique,
                 1550-1800</hi>, Paris, Picard, 1986.</p>
     </note>
@@ -193,9 +233,12 @@
         <p>Desgodets mêle ici les principes traditionnels depuis Vitruve (beauté,
             solidité notamment) au thème principal de son ouvrage, la distribution,
             s’inspirant des théoriciens ayant abordé la commodité des édifices privés
-            (L. Savot, <hi rend="italic">Architecture françoise des bâtiments
+            (L. Savot, <hi
+                rend="italic"
+                >Architecture françoise des bâtiments
                 particuliers</hi>, Paris, S. Cramoisy, 1624 ; Pierre Le Muet, <hi
-                rend="italic">Manière de bâtir pour toutes sortes de personnes</hi>,
+                rend="italic"
+            >Manière de bâtir pour toutes sortes de personnes</hi>,
             1623, rééd. et augmenté en 1647, 1669, 1681 ou plus récemment le cours
             prononcé par son prédécesseur indirect, Philippe de La Hire, Traité
             d’architecture, resté à l’état de manuscrit, RIBA ms 825, B. Institut ms
@@ -204,18 +247,28 @@
     <note xml:id="c2Nh0022">
         <p>Desgodets étaient particulièrement à même d’apprécier les restes antiques
             puisqu’il en avait fait le relevé à la demande de Colbert (1674-1678) ; le
-            résultat de ses travaux avait été publié <hi rend="italic">Les Édifices
+            résultat de ses travaux avait été publié <hi
+                rend="italic"
+            >Les Édifices
                 antiques de Rome</hi>, Paris, Coignard, 1682. </p>
     </note>
     <note xml:id="c2Nh0023">
         <p>Desgodets fait ici référence à la pratique d’identification de ruines
             romaines par le biais d’ouvrages historiques, comme l’ont pratiqué Serlio
-                (<hi rend="italic">Le Antiquita di Roma e le altre cose que sono in
-                Italia e fuori d’Italia</hi> ou <hi rend="italic">Terzo libro,
-            </hi>Venise, 1540) et Palladio (Palladio Andrea, <hi rend="italic">I
+                (<hi
+                rend="italic"
+                >Le Antiquita di Roma e le altre cose que sono in
+                Italia e fuori d’Italia</hi> ou <hi
+                rend="italic"
+                >Terzo libro,
+            </hi>Venise, 1540) et Palladio (Palladio Andrea, <hi
+                rend="italic"
+                >I
                 Quattro libri dell’architettura</hi>, Venise 1570, ed. fr. Paris,
             Martin, 1650). L’ouvrage de Serlio inspire d’ailleurs beaucoup Desgodets
-            pour son approche méthodique dans les <hi rend="italic">Édifices antiques
+            pour son approche méthodique dans les <hi
+                rend="italic"
+            >Édifices antiques
                 de Rome</hi> (paris, 1682) mais aussi dans ce cours.</p>
     </note>
     <note xml:id="c2Nh0024">
@@ -229,15 +282,21 @@
     </note>
     <note xml:id="c2Nh0025">
         <p>Desgodets aurait ainsi abordé les ordres (élément insdispensable pour la
-            beauté d’un édifice, 1<hi rend="superscript">er</hi> cours), la commodité
-                (2<hi rend="superscript">e</hi> cours) et la construction (pour la
+            beauté d’un édifice, 1<hi
+                rend="superscript">er</hi> cours), la commodité
+                (2<hi
+                rend="superscript"
+                >e</hi> cours) et la construction (pour la
             solidité). Il inversait ainsi de fait les priorités par rapport à Vitruve
-            qui lui commençait son 2<hi rend="superscript">e</hi> livre par la
+            qui lui commençait son 2<hi
+                rend="superscript"
+                >e</hi> livre par la
             construction. Ce cours n’a jamais vu le jour mais, tout au long de son
             traité, Desgodets fait fréquemment référence à la construction, par
             quelques petites phrases. Son prédécesseur, Philippe de La Hire avait quant
             à lui dispensé un cours précis sur la construction, notamment sur les
-            matériaux au sein de son cours d’architecture (<hi rend="italic">op.
+            matériaux au sein de son cours d’architecture (<hi
+                rend="italic">op.
                 cit.</hi>). </p>
     </note>
     <note xml:id="c2Nh0026">
@@ -249,7 +308,9 @@
     </note>
     <note xml:id="c2Nh0027">
         <p>Vitruve posait déjà les principes de commodité, parallèlement à la solidité
-            et à la beauté dans le <hi rend="italic">De architectura</hi>. Elle est
+            et à la beauté dans le <hi
+                rend="italic"
+            >De architectura</hi>. Elle est
             reprise par tous les théoriciens de l’architecture à partir d’Alberti</p>
     </note>
     <note xml:id="c2Nh0028">
@@ -284,11 +345,14 @@
             envisageait, dans un second temps au moins, de présenter des thèmes
             s’adressant aux ingénieurs, comme François Blondel ou Philippe de La Hire
             avaient pu le faire (voir sur ce sujet, sur François Blondel, Gerbino
-            Anthony, <hi rend="Emphasis">François Blondel: Architecture, Erudition, and
+            Anthony, <hi
+                rend="Emphasis"
+                >François Blondel: Architecture, Erudition, and
                 the Scientific Revolution.</hi> London and New York, Routledge, 2010
             (titre de la thèse publiée) et sur Philippe de La Hire, Hélène
-            Rousteau-Chambon, « Un savant chez les hommes de l’art », <hi rend="italic"
-                >Philippe de La Hire entre architecture et sciences</hi>, Paris, 24-26
+            Rousteau-Chambon, « Un savant chez les hommes de l’art », <hi
+                rend="italic"
+            >Philippe de La Hire entre architecture et sciences</hi>, Paris, 24-26
             juin 2010, dir. Antonio Becchi, Hélène Rousteau-Chambon, Joël Sakarovitch,
             édition des actes, Paris, Picard, mars 2013, p. 107-119). Cette insertion
             dans son texte aurait été d’autant plus bienvenue que le corps des
@@ -297,7 +361,9 @@
     </note>
     <note xml:id="c2Nh0034">
         <p>Cette partie du cours n’est pas conservée. Les élèves de l’Académie royale
-            pouvaient par ailleurs se référer à la <hi rend="italic">Théorie et
+            pouvaient par ailleurs se référer à la <hi
+                rend="italic"
+            >Théorie et
                 pratique du jardinage</hi> (Paris, 1713) de Dezallier d’Argenville.</p>
     </note>
     <note xml:id="c2Nh0035">
@@ -332,7 +398,8 @@
             il semble crucial, encore dans ces années, d’apporter des règles à
             l’architecture, l’Académie royale d’architecture ayant été justement fondée
             dans le but de normer l’architecture (voir sur ce sujet, Basile Baudez, <hi
-                rend="italic">Architecture et tradition académique au siècle des
+                rend="italic"
+                >Architecture et tradition académique au siècle des
                 Lumières</hi>, Rennes, presses universitaires, 2012.</p>
     </note>
     <note xml:id="c2Nh0040">
@@ -344,24 +411,32 @@
             liturgiques qui seront fondamentaux dans les développements concernant les
             lieux de culte contemporains (autel, baptistère,…). En initiant son cours
             par une présentation des premières églises, Desgodets se situe dans la
-            droite ligne de Jean-Baptiste Thiers (<hi rend="italic">Dissertations
+            droite ligne de Jean-Baptiste Thiers (<hi
+                rend="italic"
+                >Dissertations
                 ecclésiastiques sur les principaux autels dans les églises</hi>, Paris,
             1688, p. 63-64) qui défend une conception simplifiée de l’espace ecclésial
             en se référant à l’ « Antiquité sacrée ». Voir sur ce sujet, Émilie
-            Roffidal-Motte, « Architecture et théorie au XVIII<hi rend="superscript"
+            Roffidal-Motte, « Architecture et théorie au XVIII<hi
+                rend="superscript"
                 >e</hi> siècle en France, La question de l’aménagement intérieur des
-            églises », Sabine Frommel, Laurent Lecomte (dir.), <hi rend="italic">La
+            églises », Sabine Frommel, Laurent Lecomte (dir.), <hi
+                rend="italic"
+                >La
                 place du chœur. Architecture et liturgie du Moyen Âge aux Temps
                 modernes</hi>, Paris, Picard, 2012, p. 237-245.</p>
     </note>
     <note xml:id="c2Nh0041">
         <p>Desgodets applique une méthode qu’il réutilise dans chaque section de son
-                 <hi rend="italic">Traité</hi> : il énonce des principes, plaçant les
+                 <hi
+                rend="italic"
+                >Traité</hi> : il énonce des principes, plaçant les
             usages des édifices au cœur de ses préoccupations avant d’étudier les
             proportions ; pour lui, la fonction prime sur la forme, la commodité sur la
             beauté. Desgodets inverse donc ici les propositions vitruviennes mais en
             revanche, il reprend celles de l’abbé Jean-Louis Cordemoy, <hi
-                rend="italic">Nouveau Traité de toute l’architecture ou l’Art de
+                rend="italic"
+                >Nouveau Traité de toute l’architecture ou l’Art de
                 bastir</hi>, … Paris, 1706, ouvrage qu’il ne cite pas explicitement
             mais qui semble l’avoir marqué à plusieurs égards.</p>
     </note>
@@ -370,7 +445,9 @@
             proportions, qu’il reprend dans tous ces préambules. Il rappelle ainsi que
             ce principe est ancien, lié à l’histoire même de l’Église à la Tradition.
             Par cette approche, Desgodets se situe, de fait, dans la lignée de Michel
-            de Frémin (<hi rend="italic">Mémoires critiques de l’architecture contenans
+            de Frémin (<hi
+                rend="italic"
+                >Mémoires critiques de l’architecture contenans
                 l’idée de la vraye &amp; de la fausse architecture</hi>, Paris, 1702,
             sixième lettre, p. 22) « Je dis donc que l’architecture est un art de bâtir
             selon l’objet, selon le sujet &amp; selon le lieu ; cela signifie que le
@@ -388,7 +465,8 @@
             fortement la conception selon laquelle l’architecture se résume à la
             théorie des ordres (« un Architecte qui ne sçait parler que des mesures des
             Cinq ordres est un architecte tres petit &amp; tres mince », <hi
-                rend="italic">Ibidem</hi>), ce que Desgodets ne pouvait décemment
+                rend="italic"
+            >Ibidem</hi>), ce que Desgodets ne pouvait décemment
             accepter.</p>
     </note>
     <note xml:id="c2Nh0043">
@@ -398,8 +476,8 @@
             une bonne compréhension de l’édifice).</p>
     </note>
     <note xml:id="c2Nh0044">
-        <p>Desgodets se réfère ici explicitement à l’abbé Claude Fleury, <hi
-                rend="italic">Les Mœurs des Chrestiens</hi>, Paris, Veuve, Gervais
+        <p>Desgodets se réfère ici explicitement à l’abbé Claude Fleury, <hi rend="italic"
+                >Les Mœurs des Chrestiens</hi>, Paris, Veuve, Gervais
             Clouzier, p. 2-3. Cependant Desgodets se contente de rapporter les aspects
             architecturaux tandis que Fleury s’intéresse dans cet ouvrage
             essentiellement à une étude « sociologique ».</p>
@@ -410,26 +488,34 @@
     </note>
     <note xml:id="c2Nh0046">
         <p>Pour cette partie, Desgodets semble se fonder sur l’ouvrage de l’abbé Claude
-            Fleury, <hi rend="italic">Op. cit.</hi>, 1682, p. 84-85.</p>
+            Fleury, <hi
+                rend="italic">Op. cit.</hi>, 1682, p. 84-85.</p>
     </note>
     <note xml:id="c2Nh0047">
-        <p>Ce terme apparait dès le XV<hi rend="superscript">e</hi> siècle. Furetière
-            dans son <hi rend="italic">Dictionnaire universel</hi> (la Haye-Rotterdam,
+        <p>Ce terme apparait dès le XV<hi rend="superscript"
+                >e</hi> siècle. Furetière
+            dans son <hi rend="italic"
+                >Dictionnaire universel</hi> (la Haye-Rotterdam,
             1690) note : « Vieux mot qui signifoit autrefois, Palais de Prince ou
             seulement, Grande sale ; et depuis il a signifié une grande Église. On
-            appelle encore en Italie, la <hi rend="italic">basilique de St.
+            appelle encore en Italie, la <hi
+                rend="italic">basilique de St.
             Pierre</hi> … »</p>
     </note>
     <note xml:id="c2Nh0048">
         <p>Desgodets place l’architecte dans la droite ligne de Salomon, qui par sa
-            sagesse, bâtit le 1<hi rend="superscript">er</hi> « temple au Seigneur ».
+            sagesse, bâtit le 1<hi
+                rend="superscript"
+            >er</hi> « temple au Seigneur ».
             Une telle ascendance donne une importance fondamentale à l’architecte mais
             aussi indique aussi les devoirs (bienséance et les connaissances
             liturgiques) auquel il est contraint.</p>
     </note>
     <note xml:id="c2Nh0049">
         <p>Desgodets fait siens les propos écrits par l’abbé Jean-Louis de Cordemoy qui
-            avait donné dans son traité (<hi rend="italic">Nouveau traité de toute
+            avait donné dans son traité (<hi
+                rend="italic"
+            >Nouveau traité de toute
                 l’architecture</hi>, Paris, J.B. Coignard, 1706, p.1) une règle courte,
             certaine, &amp; aisée pour construire chaque ordre d’Architecture &amp;
             pour bien établir ce qui convient le plus à rendre gracieux à la vüe, mais
@@ -442,7 +528,9 @@
     <note xml:id="c2Nh0050">
         <p>Desgodets rappelle que les architectes doivent se fonder essentiellement sur
             les pemiers temps de l’Église. En ce sens il se montre assez proche des
-            propositions de Moléon (<hi rend="italic">Voyages liturgiques de France ou
+            propositions de Moléon (<hi
+                rend="italic"
+                >Voyages liturgiques de France ou
                 recherches faites en diverses villes du Royaume contenant plusieurs
                 particularités touchant les rits &amp; les usages des Églises avec les
                 Découvertes sur l’Antiquité Ecclesiastique &amp; payenne</hi>, Paris,
@@ -455,12 +543,16 @@
             Anjou, Berry (Fénelon étant leur précepteur) puis confesseur et premier
             catéchiste du jeune Louis XV (1716-1722). En remerciement de ses bons
             offices, il fut abbé de l’abbaye de Loc Dieu et prieur de Notre-Dame
-            d’Argenteuil. Il écrivit de très nombreux ouvrages dont <hi rend="italic"
+            d’Argenteuil. Il écrivit de très nombreux ouvrages dont <hi
+                rend="italic"
                 >l’Histoire ecclésiastique</hi> (1691), 20 vol. Ses ouvrages étaient
             appréciés des protestants (il est notamment loué par P. Bayle dans ses <hi
-                rend="italic">Institutions</hi>, 3<hi rend="superscript">e</hi> partie,
+                rend="italic">Institutions</hi>, 3<hi rend="superscript"
+                >e</hi> partie,
             p. 456) mais il était aussi parfois jugé trop proche des jansénistes. Voir
-            abbé F. Gaquère, <hi rend="italic">La Vie et les oeuvres de Claude Fleury
+            abbé F. Gaquère, <hi
+                rend="italic"
+                >La Vie et les oeuvres de Claude Fleury
                 (1640-1723)</hi>, Paris, J. de Gigord, 1925. </p>
     </note>
     <note xml:id="c2Nh0052">
@@ -468,7 +560,9 @@
             douter de ses assertions. Une telle démarche n’est pas encore chose commune
             (Jacques-François Blondel par exemple ne cite que rarement ses sources).
             Mais s’il fait référence à Fleury, il ne mentionne pas que ce dernier donne
-            en fait une traduction de l’<hi rend="italic">Histoire Ecclésiastique</hi>
+            en fait une traduction de l’<hi
+                rend="italic"
+            >Histoire Ecclésiastique</hi>
             d’Eusèbe de Césarée (265 et 339) qui avait dédicacé l’église de Tyr et en
             avait fourni la première description.</p>
     </note>
@@ -477,18 +571,25 @@
             (303).</p>
     </note>
     <note xml:id="c2Nh0054">
-        <p>Dès la fin du II<hi rend="superscript">e</hi> siècle, est institué un évêché
+        <p>Dès la fin du II<hi rend="superscript"
+                >e</hi> siècle, est institué un évêché
             à Tyr. La première église est détruite à la suite de l’édit de Dioclétien
             (303) qui interdit la religion chrétienne. Une nouvelle église est
-            construite au IV<hi rend="superscript">e</hi> siècle à la suite de l’Édit
+            construite au IV<hi
+                rend="superscript"
+                >e</hi> siècle à la suite de l’Édit
             de Milan (313) ; elle est dédicacée vers 315 par Eusèbe de Césarée. Enfin,
             en 1127, une nouvelle église dans laquelle les rois de Jérusalem furent
             couronnés à partir de 1244, est construite par les Vénitiens. A. Baud, A.
             Devillechaise, P. Ferreira, A. Flammin, Cl. Piaton, « La cathédrale
             médiévale », Mission archéologique de Tyr, rapport préliminaire 2008-2009,
-                <hi rend="italic">BAAL</hi> 14, 2012 et Victor Guérin, « Sur la
-            topographie de l'ancienne Tyr<hi rend="italic"> », Comptes-rendus des
-                séances de l'Académie des Inscriptions et Belles-Lettres</hi>, 23e
+                <hi
+                rend="italic"
+                >BAAL</hi> 14, 2012 et Victor Guérin, « Sur la
+            topographie de l’ancienne Tyr<hi
+                rend="italic"
+                > », Comptes-rendus des
+                séances de l’Académie des Inscriptions et Belles-Lettres</hi>, 23e
             année, N. 2, 1879, p. 133-137. </p>
     </note>
     <note xml:id="c2Nh0055">
@@ -505,15 +606,20 @@
     </note>
     <note xml:id="c2Nh0056">
         <p>Cette disposition liturgique est commune dans les églises paléochrétiennes.
-            Voir, par exemple, Richard Krautheimer, <hi rend="italic">Corpus
+            Voir, par exemple, Richard Krautheimer, <hi
+                rend="italic"
+                >Corpus
                 basilicarum christianarum Romae : le basiliche christiane antiche di
                 Roma (sec. IV-IX</hi>), Città del Vaticano New York, Pontificio Istitut
             di archeologia Cristiana-Institute of Fine arts, New York University,
-            1937-1980 (5 vol.), Richard Krautheimer, <hi rend="italic">Rome, profile of
+            1937-1980 (5 vol.), Richard Krautheimer, <hi
+                rend="italic"
+            >Rome, profile of
                 a city (312-1308),</hi> Princeton, University Press, 1980. </p>
     </note>
     <note xml:id="c2Nh0057">
-        <p>Claude Fleury, <hi rend="italic">Histoire ecclésiastique</hi> (1691), t.
+        <p>Claude Fleury, <hi rend="italic"
+            >Histoire ecclésiastique</hi> (1691), t.
             III, p. 5, « Cette église est la première dont nous trouvions la
             description, mais celles que nous voyons incontinent dans les autres pays y
             sont si conformes qu’elles paraissent avoir été bâties sur le même modèle
@@ -547,7 +653,9 @@
     </note>
     <note xml:id="c2Nh0058">
         <p>Desgodets insiste ici sur le rôle de modèle que tient l’église de Tyr. Sur
-            les premières églises voir Mickaël Gendry, <hi rend="italic">L’église, un
+            les premières églises voir Mickaël Gendry, <hi
+                rend="italic"
+                >L’église, un
                 héritage de Rome, essai sur les principes et méthodes de l’architecture
                 chrétienne</hi>, Paris, l’Harmattan, 2009.</p>
     </note>
@@ -555,7 +663,9 @@
         <p>Le choix de Desgodets reflète son gout pour les édifices antiques, les
             églises étudiées étant pour lui au moins partiellement antiques. Desgodets
             reprend pour l’histoire des différentes églises les propos que Palladio
-            avait développés dans sa <hi rend="italic">Descritione de le chiese,
+            avait développés dans sa <hi
+                rend="italic"
+                >Descritione de le chiese,
                 stationi, indulgenze e reliquie de corpi che sonno in la citta de
                 Roma</hi>, 1554. Dans l’approche et la présentation des églises mais
             aussi l’importance donnée au chœur et à l’autel ou encore le chapitre sur
@@ -570,30 +680,37 @@
         <p>Saint-Alexis est une église fondée sans doute au IV<hi rend="superscript"
                 >e</hi> siècle. Elle fut consacrée à Boniface et Alexis en 1217. En
             1426, elle fut confiée aux Hiéronymites. À la fin du XVI<hi
-                rend="superscript">e</hi> siècle, menaçant ruine, elle fut restaurée
+                rend="superscript"
+            >e</hi> siècle, menaçant ruine, elle fut restaurée
             (1582). Dans son recueil (B. Institut, ms 2718, p. 73), Desgodets en donne
             un plan et mentionne « dessiné à veu ». Il n’en fait qu’un seul dessin.</p>
     </note>
     <note xml:id="c2Nh0062">
-        <p>Pour l’histoire de cette église voir <hi rend="italic">supra</hi>, au
+        <p>Pour l’histoire de cette église voir <hi rend="italic"
+            >supra</hi>, au
             chapitre que Desgodets consacre à cette église.</p>
     </note>
     <note xml:id="c2Nh0063">
         <p>Il s’agit sans doute de l’église Saint-Paul hors les murs, le plus vaste
             édifice après le Saint-Pierre moderne. Elle était de dimension identique à
             la basilique Ulpienne qui se trouvait sur le forum de Trajan. C’est
-            Constantin qui transforma une <hi rend="italic">cella memoriae</hi> en
+            Constantin qui transforma une <hi
+                rend="italic"
+                >cella memoriae</hi> en
             basilique, avant que Valentin II (386), puis Théodose, l’agrandissent ;
             l’édifice était alors divisé par 80 colonnes. Le pape Sixte V la fit
             couvrir d’un plafond. C’est l’état que Desgodets put voir mais il n’en
-            donne aucun dessin dans son <hi rend="italic">Recueil.</hi>
+            donne aucun dessin dans son <hi
+                rend="italic">Recueil.</hi>
         </p>
     </note>
     <note xml:id="c2Nh0064">
         <p>La suite de ces églises indique clairement que pour l’architecte Desgodets,
             les basiliques majeures ne sont pas les seuls édifices intéressant d’un
             point de vue architectural. Pour les sources des églises citées, il est
-            probable que Desgodets se soit inspiré du <hi rend="italic">Ritratto di
+            probable que Desgodets se soit inspiré du <hi
+                rend="italic"
+            >Ritratto di
                 Roma moderna…</hi>, Roma, Filippo de’Rossi, 1692, très largement
             diffusé, d’autant qu’il était dédicacé au maréchal de Villeroy, ambassadeur
             de France à Rome. Rossi ne livre jamais les dimensions mais il apporte tous
@@ -606,11 +723,14 @@
     <note xml:id="c2Nh0066">
         <p>À partir de quelques édifices qu’il a pu voir à Rome (Sainte-Sabine,
             Sainte-Marie du Trastevere, baptistère de Constantin) mais qui ne sont pas
-            publiés dans ses <hi rend="italic">Édifices antiques de Rome</hi> (Paris,
+            publiés dans ses <hi
+                rend="italic"
+                >Édifices antiques de Rome</hi> (Paris,
             1682), Desgodets donne quelques jalons essentiels de l’histoire liturgique,
             montrant ainsi clairement combien la liturgie et les connaissances que l’on
             doit en avoir, sont au cœur des questions de distribution des églises, et
-            donc du métier d’architecte, encore au XVIII<hi rend="superscript">e</hi>
+            donc du métier d’architecte, encore au XVIII<hi
+                rend="superscript">e</hi>
             siècle.</p>
     </note>
     <note xml:id="c2Nh0067">
@@ -620,8 +740,9 @@
             cette église à Saint Dominique ; un cloître et un clocher furent alors
             construits. En 1587, l’édifice est restauré par Domenico Fontana. C’est
             donc cet état qu’a pu connaître Desgodets lorsqu’il a séjourné à Rome. Il
-            donne trois dessins de Sainte-Sabine dans son <hi rend="italic"
-                >Recueil</hi> (p. 67-69) : le plan, la coupe et les dessins des
+            donne trois dessins de Sainte-Sabine dans son <hi
+                rend="italic"
+            >Recueil</hi> (p. 67-69) : le plan, la coupe et les dessins des
             chapiteaux.</p>
     </note>
     <note xml:id="c2Nh0068">
@@ -632,14 +753,17 @@
     </note>
     <note xml:id="c2Nh0069">
         <p>Dans ce paragraphe historique, Desgodets reprend exactement les termes
-            utilisés dans le <hi rend="italic">Ritratto di Roma moderna…</hi>, Roma
+            utilisés dans le <hi
+                rend="italic"
+            >Ritratto di Roma moderna…</hi>, Roma
             Filippo de’Rossi, 1692, p. 100. </p>
     </note>
     <note xml:id="c2Nh0070">
         <p>Cette interprétation a conduit Desgodets à s’intéresser à cette église lors
             de sa mission romaine. Il l’a donc visitée mais ne l’a pas retenue dans ses
-            monuments antiques : elle ne figure que dans son <hi rend="italic"
-                >Recueil</hi> et non dans la publication des <hi rend="italic">Édifices
+            monuments antiques : elle ne figure que dans son <hi
+                rend="italic">Recueil</hi> et non dans la publication des <hi rend="italic"
+                >Édifices
                 antiques de Rome </hi>(1685).</p>
     </note>
     <note xml:id="c2Nh0071">
@@ -647,8 +771,8 @@
     </note>
     <note xml:id="c2Nh0072">
         <p>C’est un élément particulièrement remarquable pour Desgodets qui en donne un
-            dessin dans son <hi rend="italic">Recuei</hi>l (p. 69) et dans son <hi
-                rend="italic">Traité</hi>.</p>
+            dessin dans son <hi
+                rend="italic">Recuei</hi>l (p. 69) et dans son <hi rend="italic">Traité</hi>.</p>
     </note>
     <note xml:id="c2Nh0073">
         <p>Cette référence permet d’insister sur le fait que les principes vitruviens
@@ -656,11 +780,13 @@
                 rend="superscript">e</hi> siècle.</p>
     </note>
     <note xml:id="c2Nh0074">
-        <p>Le dessin que donne Desgodets dans son Traité s’inspire de celui du <hi
-                rend="italic">Recueil</hi> mais Desgodets l’a retravaillé pour cette
+        <p>Le dessin que donne Desgodets dans son Traité s’inspire de celui du <hi rend="italic"
+                >Recueil</hi> mais Desgodets l’a retravaillé pour cette
             publication : il ajoute un chancel, l’autel et le presbyterium qui ne
-            figurent pas dans son dessin <hi rend="italic">in situ</hi>. De même dans
-            son <hi rend="italic">Recueil</hi>, il ne fournit pas les dimensions qu’il
+            figurent pas dans son dessin <hi
+                rend="italic">in situ</hi>. De même dans
+            son <hi rend="italic"
+                >Recueil</hi>, il ne fournit pas les dimensions qu’il
             indique dans son Traité. </p>
     </note>
     <note xml:id="c2Nh0075">
@@ -677,17 +803,20 @@
             stéréotomie. Dans les lignes qui suivent il va insister sur les différences
             entre la France et l’Italie quant aux techniques constructives. Desgdodets
             avait écrit un mémoire sur les dômes, notamment sur celui de Saint-Pierre,
-            qu’il lut à l’Académie le 13 août 1708 (<hi rend="italic">P.V</hi>., t.
+            qu’il lut à l’Académie le 13 août 1708 (<hi
+                rend="italic"
+                >P.V</hi>., t.
             III, p. 300). Ce texte fut commenté dans l’institution royale jusqu’au 3
-            décembre 1708 (<hi rend="italic">P.V</hi>., t. III, p. 306).</p>
+            décembre 1708 (<hi
+                rend="italic">P.V</hi>., t. III, p. 306).</p>
     </note>
     <note xml:id="c2Nh0078">
         <p>Desgodets insiste ici sur les caractères de l’architecture italienne dans le
             domaine de la construction. Il n’a pas beaucoup parlé de construction,
             adoptant une démarche radicalement différente de ce qu’ont pu pratiquer
             Palladio ou Pierre Bullet par exemple. Mais dans ce passage, il se montre
-            très précis. Aucun élément constructif ne figure dans son <hi rend="italic"
-                >Recueil</hi>. </p>
+            très précis. Aucun élément constructif ne figure dans son <hi
+                rend="italic">Recueil</hi>. </p>
     </note>
     <note xml:id="c2Nh0079">
         <p>Dans son recueil, Desgodets donne même le relevé d’une colonne sans dessiner
@@ -700,7 +829,9 @@
     <note xml:id="c2Nh0081">
         <p>Desgodets reprend ici les mesures prises sur place : il indique dans son
             Recueil : « la hauteur de la colonne avec la base et le chapiteau est de 19
-            mod[ules] 21 <hi rend="superscript">1/2</hi> parties. La colonne est
+            mod[ules] 21 <hi
+                rend="superscript"
+            >1/2</hi> parties. La colonne est
             cannellée de 24 canneaux remplis d’un baston depuis le pied jusqu’à la
             hauteur de 5 mod[ules] 13 1/3. La largeur des costés des canneaux est de
             5/13 de la largeur du creux. Ces arestes des costés des canneaux sont
@@ -709,11 +840,12 @@
     </note>
     <note xml:id="c2Nh0082">
         <p>Desgodets reprend le dessin qu’il a fait dans son <hi rend="italic"
-                >Recueil</hi> (B. Institut, ms 2718, p. 69).</p>
+            >Recueil</hi> (B. Institut, ms 2718, p. 69).</p>
     </note>
     <note xml:id="c2Nh0083">
         <p>Ce chapiteau l’avait tout particulièrement intéressé et il en avait fait un
-            relevé à Rome (B. Institut, ms 2718, <hi rend="italic">Recueil</hi>, p.
+            relevé à Rome (B. Institut, ms 2718, <hi
+                rend="italic">Recueil</hi>, p.
             69)</p>
     </note>
     <note xml:id="c2Nh0084">
@@ -721,13 +853,15 @@
             parallèle entre cet édifice et l’architecture antique, car les proportions
             de cette église étant justes selon lui, elle ne peut être paléochrétienne…
             Il adopte une démarche identique pour certaines églises à plan centré dans
-            ses <hi rend="italic">Édifices antiques</hi> (San Stefano rotondo
+            ses <hi
+                rend="italic"
+            >Édifices antiques</hi> (San Stefano rotondo
             interprété comme le Temple du Faune, ou Santa Costanza vue comme un temple
             de Bacchus).</p>
     </note>
     <note xml:id="c2Nh0085">
-        <p>Pour les sources historiques, Desgodets s’est sans doute inspiré su <hi
-                rend="italic">Ritratto di Roma moderna…</hi>, Roma Filippo de’Rossi,
+        <p>Pour les sources historiques, Desgodets s’est sans doute inspiré su <hi rend="italic"
+                >Ritratto di Roma moderna…</hi>, Roma Filippo de’Rossi,
             1692, p. 63-68.</p>
     </note>
     <note xml:id="c2Nh0086">
@@ -749,28 +883,35 @@
     </note>
     <note xml:id="c2Nh0089">
         <p>Ces chapiteaux sont différents de ceux construits en France, chapiteaux
-            scamozziens, aux XVII<hi rend="superscript">e</hi> et XVIII<hi
-                rend="superscript">e</hi> siècles.</p>
+            scamozziens, aux XVII<hi
+                rend="superscript">e</hi> et XVIII<hi rend="superscript">e</hi> siècles.</p>
     </note>
     <note xml:id="c2Nh0090">
         <p>Le trait de la volute ionique du chapiteau de Sainte-Marie in Trastevere a
             marqué tous les architectes à partir la Renaissance. Claude Perrault dans
-            les commentaires de sa traduction aux <hi rend="italic">Dix livres
+            les commentaires de sa traduction aux <hi
+                rend="italic"
+                >Dix livres
                 d’architecture</hi>, (Paris, 1673) fait un rappel de tous les
             commentateurs du dessin de la volute depuis la Renaissance. Les membres de
             l’Académie royale d’architecture s’emparent aussi de cette question : le 7
             septembre 1693, relisant le traité d’architecture de Philibert de l’Orme,
             les académiciens comparent toutes les formes de volutes proposées par les
             différents théoriciens. Ils étudient à nouveau ce thème à plusieurs
-            reprises, notamment au moment de la lecture du « <hi rend="italic">2</hi>
+            reprises, notamment au moment de la lecture du « <hi
+                rend="italic">2</hi>
             <hi rend="italic superscript">e</hi>
-            <hi rend="italic"> chapitre du quatrième livre de la première partie du
+            <hi rend="italic"
+                > chapitre du quatrième livre de la première partie du
                 cours d’architecture de M. Blondel où il traitte des différentes
                 manières de tracer la volute ionique </hi>». Surtout, le 4 juillet
             1701, Philippe de La Hire lut « à la Compagnie un mémoire intitulé <hi
-                rend="italic">Méthode facile et assurée pour décrire la volute avec son
+                rend="italic"
+                >Méthode facile et assurée pour décrire la volute avec son
                 istelle ou bandelette à la manière des anciens ».</hi> À la séance
-            suivante, Desgodets présenta une « <hi rend="italic">Méthode facile pour
+            suivante, Desgodets présenta une « <hi
+                rend="italic"
+                >Méthode facile pour
                 tracer géométriquement le contour de la volute du chapiteau de l’ordre
                 ionique par des quarts de cercle »</hi>, plaçant la volute au cœur des
             préoccupations des académiciens. Dans son traité sur les ordres (Ha 23a,
@@ -783,7 +924,8 @@
         <p>Une nouvelle fois, Desgodets souligne l’utilisation du marbre blanc, élément
             qu’il a déjà souligné dans son recueil. Est-ce pour insister sur la grande
             différence entre Rome qui dispose de carrières de marbres et de la France,
-            où le marbre est moins courant ? voir Pascal Julien, <hi rend="italic"
+            où le marbre est moins courant ? voir Pascal Julien, <hi
+                rend="italic"
                 >Marbres : de carrières en palais, du Midi à Versailles, du sang des
                 dieux à la gloire des rois, XVI</hi>
             <hi rend="italic superscript">e</hi>
@@ -793,7 +935,7 @@
     </note>
     <note xml:id="c2Nh0092">
         <p>Forme de croix qui n’est pas mentionnée dans le <hi rend="italic"
-                >Dictionnaire</hi> de D’Aviler.</p>
+            >Dictionnaire</hi> de D’Aviler.</p>
     </note>
     <note xml:id="c2Nh0093">
         <p>Desgodets n’hésite pas à donner son avis sur certaines parties de l’édifice
@@ -826,13 +968,17 @@
         <p>Desgodets redonne ici les proportions vitruviennes.</p>
     </note>
     <note xml:id="c2Nh0097">
-        <p>Desgodets se réfère ici explicitement aux propos de l’abbé Fleury, <hi
-                rend="italic">Les mœurs des Chrétiens</hi>, <hi rend="italic">op.
+        <p>Desgodets se réfère ici explicitement aux propos de l’abbé Fleury, <hi rend="italic"
+                >Les mœurs des Chrétiens</hi>, <hi rend="italic"
+                >op.
                 cit</hi>., p. 219. Desgodets semble s’être beaucoup inspiré de cet
             ouvrage réédité à de très nombreuses reprises aux XVII<hi
-                rend="superscript">e</hi> et XVIII<hi rend="superscript">e</hi>
+                rend="superscript">e</hi> et XVIII<hi rend="superscript"
+                >e</hi>
             siècles. Il est aussi possible que cette précision soit aussi liée à la
-            publication de la <hi rend="italic">Dissertation sur les porches des
+            publication de la <hi
+                rend="italic"
+                >Dissertation sur les porches des
                 églises dans lesquelles on fait voir les divers usages auxquels ils
                 sont destinez, que ce sont des lieux saints &amp; dignes de la
                 vénération des fidèles et qu’il n’est pas permis d’y vendre aucunes
@@ -855,11 +1001,14 @@
             le nombre de marches nécessaires pour assurer une dignité à l’édifice
             religieux et faire en sorte que le célébrant puisse être visible par tous,
             développant un principe tridentin fondamental. Par ces quelques lignes, il
-            indique clairement combien Charles Borromée (<hi rend="italic"
+            indique clairement combien Charles Borromée (<hi
+                rend="italic"
                 >Instructionum fabricae et supellectilis ecclesiasticae,</hi> Libri II,
             v. 1572) reprend un certain nombre de principes anciens, inscrivant la
             tradition liturgique dans une histoire longue, dans une tradition. Il est
-            possible qu’il se réfère aussi aux <hi rend="italic">Dissertations
+            possible qu’il se réfère aussi aux <hi
+                rend="italic"
+                >Dissertations
                 ecclésiastiques sur les principaux autels des Églises, les jubés des
                 églises, la clôture du chœur des églises par M. Jean-Baptiste
                 Thiers</hi>, Paris, A. Dezallier, 1688, chap. XIII : « Les anciens
@@ -869,14 +1018,16 @@
             un grand nombre de degrés », p. 77.</p>
     </note>
     <note xml:id="c2Nh0101">
-        <p>Desgodets reprend ici sans doute les propos de l’abbé Fleury, <hi
-                rend="italic">op. cit.</hi>, p. 213..</p>
+        <p>Desgodets reprend ici sans doute les propos de l’abbé Fleury, <hi rend="italic"
+                >op. cit.</hi>, p. 213..</p>
     </note>
     <note xml:id="c2Nh0102">
         <p>Desgodets va, tout au long de son texte sur la commodité, insister sur la
             place de l’autel dans l’édifice religieux. Cette préoccupation relève
             évidemment du rôle dévolu à l’eucharistie qui est réaffirmé lors du concile
-            de Trente, d’une part, et dans les <hi rend="italic">Instructionum fabricae
+            de Trente, d’une part, et dans les <hi
+                rend="italic"
+                >Instructionum fabricae
                 et supellectilis ecclesiasticae,</hi> Libri II, v. 1572, de Charles
             Borromée (rééd. sous la direction de S. della Rorre, M. Marinelli, Libreria
             editrice Vaticana, 2000).</p>
@@ -886,7 +1037,8 @@
             une erreur de transcription dans les deux manuscrits conservés.</p>
     </note>
     <note xml:id="c2Nh0104">
-        <p>Dans son <hi rend="italic">Recueil</hi> (B. Institut, ms 2718), Desgodets ne
+        <p>Dans son <hi rend="italic"
+            >Recueil</hi> (B. Institut, ms 2718), Desgodets ne
             donne les relevés que de la « chapelle des fons batismaux », f°66, de
             Sainte-Sabine (f°67-69), de Sainte-Marie in Trastevere (f°70-72), de
             Saint-Alexis, très remanié en 1750 (f°73), et les temples circulaires qui
@@ -895,10 +1047,15 @@
     </note>
     <note xml:id="c2Nh0105">
         <p>Desgodets rappelle par ces quelques mots qu’il y avait déjà eu une réforme
-            liturgique au IX<hi rend="superscript">e</hi> siècle. Sur ce sujet voir
-            Alfred Schmid (éd.), <hi rend="italic">Riforma religiosa e arti nell’epoca
+            liturgique au IX<hi
+                rend="superscript"
+                >e</hi> siècle. Sur ce sujet voir
+            Alfred Schmid (éd.), <hi rend="italic"
+                >Riforma religiosa e arti nell’epoca
                 carolingia, atti del XXIV congresso CIHA, Bologna dal 10 al 18
-                settembre 1979</hi>, 1983 ; Carol Heitz, <hi rend="italic">Architecture
+                settembre 1979</hi>, 1983 ; Carol Heitz, <hi
+                rend="italic"
+                >Architecture
                 religieuse carolingienne : les formes et leurs fonctions</hi>, Paris,
             Picard, 1980. </p>
     </note>
@@ -907,35 +1064,41 @@
             site dans lequel est implanté l’édifice ; Vitruve le mettait déjà en avant
             et les théoriciens reprennent régulièrement ce principe. Cependant,
             Desgodets prend acte d’une pratique continue depuis le XIII<hi
-                rend="superscript">e</hi> siècle, le fait que les églises soient
+                rend="superscript"
+                >e</hi> siècle, le fait que les églises soient
             essentiellements édifiées en milieu urbain. Il ne se réfère pas aux vents
             dominants, comme ont coutume de le faire les théoriciens pour
             l’architecture privée, mais insiste sur l’impact du portail qui doit être
             bien visible et parlant. Pour ce sujet, voir Frédéric Cousinié, <hi
-                rend="italic">Le saint des saints, maîtres-autels et retables parisiens
+                rend="italic"
+                >Le saint des saints, maîtres-autels et retables parisiens
                 du XVII</hi>
             <hi rend="italic superscript">e</hi>
             <hi rend="italic"> siècle</hi>, Aix en Provence, 2006.</p>
     </note>
     <note xml:id="c2Nh0107">
         <p>Desgodets fait ici implicitement référence au texte de Jean-Baptiste Thiers,
-                <hi rend="italic">Dissertations ecclésiastiques sur les principaux
+                <hi
+                rend="italic"
+                >Dissertations ecclésiastiques sur les principaux
                 autels des Eglises, les jubés des églises, la clôture du chœur des
                 églises</hi>, A. Dezallier, 1688, chap. XII et XIII quant à
             l’orientation du maître autel. Desgodets donne une longue explication sur
             la forme de l’autel, sa présentation et celle du lieu de conservation de
-            l’eucharistie, sujet largement débattu aux XVII<hi rend="superscript"
-                >e</hi> et XVIII<hi rend="superscript">e</hi> siècles.</p>
+            l’eucharistie, sujet largement débattu aux XVII<hi
+                rend="superscript">e</hi> et XVIII<hi rend="superscript">e</hi> siècles.</p>
     </note>
     <note xml:id="c2Nh0108">
         <p>Desgodets reprend aussi le livre de l’Exode.</p>
     </note>
     <note xml:id="c2Nh0109">
-        <p>Fleury donne ces quelques éléments dans les <hi rend="italic">Mœurs des
+        <p>Fleury donne ces quelques éléments dans les <hi rend="italic"
+                >Mœurs des
                 chrétiens, op. cit</hi>., p. 222.</p>
     </note>
     <note xml:id="c2Nh0110">
-        <p>Fleury donne ces quelques éléments dans les <hi rend="italic">Mœurs des
+        <p>Fleury donne ces quelques éléments dans les <hi rend="italic"
+                >Mœurs des
                 chrétiens, op. cit</hi>., p. 223.</p>
     </note>
     <note xml:id="c2Nh0111">
@@ -943,25 +1106,32 @@
     </note>
     <note xml:id="c2Nh0112">
         <p>Desgodets fait une confusion terminologique mais montre toujours sa
-            connaissance des anciennes pratiques. Au XVII<hi rend="superscript">e</hi>
+            connaissance des anciennes pratiques. Au XVII<hi
+                rend="superscript"
+            >e</hi>
             siècle, les catacombles sont difficilement accessibles, seule celle de San
             Sebastiano, sur la voie Appia, est ouverte partiellement. </p>
     </note>
     <note xml:id="c2Nh0113">
         <p>Une nouvelle fois, Desgodets explique la pratique liturgique par l’histoire
             religieuse. Il peut se référer au texte de Jean-Baptiste Thiers, <hi
-                rend="italic">Traité de l’exposition du Saint-Sacrement de
+                rend="italic"
+            >Traité de l’exposition du Saint-Sacrement de
             l’autel</hi>, Paris, 1673.</p>
     </note>
     <note xml:id="c2Nh0114">
-        <p>Jean-Baptiste Thiers, <hi rend="italic">Disserations ecclésiastiques, op.
+        <p>Jean-Baptiste Thiers, <hi rend="italic"
+                >Disserations ecclésiastiques, op.
                 cit.,</hi> chapitre XVIII, « L’usage de l’Église est de mettre des
             croix sur le milieu des Autels » et chap. XIX, « Ce n’est que depuis le
-                10<hi rend="superscript">e</hi> siècle que les Latins mettent des
+                10<hi
+                rend="superscript"
+            >e</hi> siècle que les Latins mettent des
             chandeliers et des cierges ».</p>
     </note>
     <note xml:id="c2Nh0115">
-        <p>Jean-Baptiste Thiers, <hi rend="italic">op. cit</hi>., chapitre III, « On ne
+        <p>Jean-Baptiste Thiers, <hi rend="italic"
+            >op. cit</hi>., chapitre III, « On ne
             voit guères de vuide sous la pluspart des Autels d’aujourd’hui. Il y en
             avoit néanmoins sous presque tous les anciens Autels ».</p>
     </note>
@@ -975,9 +1145,12 @@
             des tabernacles, inspirés de Rome, et les suspenses eucharistiques dont
             parle Charles Borromée. Desgodets évoque une tradition plus ancienne qui
             tend alors à disparaître les armoires eucharistiques. Sur ce sujet, voir
-            Mathieu Lours, <hi rend="italic">L’autre temps des cathédrales, du Concile
+            Mathieu Lours, <hi
+                rend="italic"
+                >L’autre temps des cathédrales, du Concile
                 de Trente à la Révolution française</hi>, Paris, Picard, 2010 ; Bruno
-            Neveu, <hi rend="italic">Érudition et religion aux XVII</hi>
+            Neveu, <hi
+                rend="italic">Érudition et religion aux XVII</hi>
             <hi rend="italic superscript">e</hi>
             <hi rend="italic"> et XVIII</hi>
             <hi rend="italic superscript">e</hi>
@@ -1003,14 +1176,18 @@
     </note>
     <note xml:id="c2Nh0122">
         <p>Édifice fondé au V<hi rend="superscript">e</hi> siècle, transformé au IX<hi
-                rend="superscript">e</hi> puis au XII<hi rend="superscript">e</hi>
-            siècle avant sa grande restauration au XVI<hi rend="superscript">e</hi>
+                rend="superscript">e</hi> puis au XII<hi rend="superscript"
+                >e</hi>
+            siècle avant sa grande restauration au XVI<hi rend="superscript"
+                >e</hi>
             siècle puis en 1725 et 1823.</p>
     </note>
     <note xml:id="c2Nh0123">
-        <p>Saint-Pancrace, édifice construit au V<hi rend="superscript">e</hi> siècle,
+        <p>Saint-Pancrace, édifice construit au V<hi rend="superscript"
+                >e</hi> siècle,
             totalement refait dans les années 1600, et à nouveau réaménagé au XVIII<hi
-                rend="superscript">e</hi> siècle. Il y a des catacombes de
+                rend="superscript"
+            >e</hi> siècle. Il y a des catacombes de
             Saint-Pancrace sous l’église, expliquant peut être l’intérêt de Desgodets
             pour cet édifice.</p>
     </note>
@@ -1021,9 +1198,11 @@
     </note>
     <note xml:id="c2Nh0125">
         <p>Il s’agit de l’église Saint-Nérée-et-Achille, située à proximité des thermes
-            de Caracalla, datant du IV<hi rend="superscript">e</hi> siècle, modifiée
-            par le pape Léon III (800), reconstruite au XV<hi rend="superscript"
-            >e</hi>, avant d’être restaurée à nouveau et décorée en 1597.</p>
+            de Caracalla, datant du IV<hi
+                rend="superscript"
+                >e</hi> siècle, modifiée
+            par le pape Léon III (800), reconstruite au XV<hi
+                rend="superscript">e</hi>, avant d’être restaurée à nouveau et décorée en 1597.</p>
     </note>
     <note xml:id="c2Nh0126">
         <p>Sur le ciborium, Desgodets semble se référer à Fleury, <hi rend="italic"
@@ -1047,9 +1226,12 @@
     <note xml:id="c2Nh0130">
         <p>Desgodets aborde maintenant un édifice spécifique, situé à proximité des
             cathédrales, le baptistère. Une fois de plus, il se fonde sur les propos de
-            Fleury (<hi rend="italic">Mœurs des Chrétiens…</hi>). Il existe une
+            Fleury (<hi
+                rend="italic"
+                >Mœurs des Chrétiens…</hi>). Il existe une
             définition du baptistère dans le Dictionnaire de d’Aviler, <hi
-                rend="italic">Cours d’architecture, Explication des termes
+                rend="italic"
+                >Cours d’architecture, Explication des termes
                 d’architecture</hi>, Paris, chez Jean Mariette, 1710, p. 411,
             « baptistaire », « C’était anciennement une petite Église auprès d’une
             grande, où depuis que l’exercice de la Religion chrétienne fut permis par
@@ -1063,23 +1245,30 @@
     </note>
     <note xml:id="c2Nh0132">
         <p>Constantin reçoit le baptème sur son lit de mort…Mais une fois de plus,
-            Desgodets reprend les termes de Filippo de’Rossi,<hi rend="italic">
+            Desgodets reprend les termes de Filippo de’Rossi,<hi
+                rend="italic"
+            >
                 Ritratto di Roma moderna…</hi>, (Roma, 1692), p. 454-455.</p>
     </note>
     <note xml:id="c2Nh0133">
         <p>Si Fleury explique l’iconographie des peintures du bapstitère en vu
-            d’édifier le lecteur (<hi rend="italic">Mœurs des Chrétiens…, </hi>p. 231).
+            d’édifier le lecteur (<hi
+                rend="italic"
+            >Mœurs des Chrétiens…, </hi>p. 231).
             Desgodets n’évoque absolument pas le programme iconograhique. Pourtant les
             peintures de Sacchi, Camassei, Gimignani, C. Maratta ont été terminées un
             demi-siècle seulement avant le séjour de Desgodets à Rome.</p>
     </note>
     <note xml:id="c2Nh0134">
         <p>Desgodets explique l’ancienne pratique du baptème par immersion même s’il
-            n’est plus d’actualité au XVIII<hi rend="superscript">e</hi> siècle.</p>
+            n’est plus d’actualité au XVIII<hi
+                rend="superscript">e</hi> siècle.</p>
     </note>
     <note xml:id="c2Nh0135">
         <p>Par cette histoire, Desgodets explique la raison de l’emplacement des
-            baptistères au XVIII<hi rend="superscript">e</hi> siècle, alors même que
+            baptistères au XVIII<hi
+                rend="superscript"
+            >e</hi> siècle, alors même que
             des bébés et non plus des adultes sont baptisés. Il est en effet peu
             probable que Desgodets prenne en considération les « Nouveaux convertis »,
             réformés, l’Édit de Nantes ayant été révoqué depuis près de quarante ans,
@@ -1104,10 +1293,14 @@
             surtout entre dans les moindres détails, pour le plan, les proportions et
             les méthodes pour édifier les lieux de cultes. La bibliographie sur
             l’architecture religieuse reste rare mais quelques études ont été menées
-            récemment : Sven Ochsenreither, <hi rend="italic">Kunst und Kirche am Ende
+            récemment : Sven Ochsenreither, <hi
+                rend="italic"
+                >Kunst und Kirche am Ende
                 der klassischen Moderne : eine kunsthistorische Untersuchung am
                 Beispeil der art sacré in Frankreich</hi>, Frankfurt am main, P. Lang,
-                2004;<hi rend="italic">La construction des lieux de culte du Moyen Âge
+                2004;<hi
+                rend="italic"
+                >La construction des lieux de culte du Moyen Âge
                 à nos jours, actes des journées d’étude de la Société d’histoire
                 religieuse</hi>, Rouen-Le Bec Hellouin, 9-10 mai 1986, Paris, Société
             d’histoire religieuse de la France, 1987.</p>
@@ -1143,7 +1336,9 @@
     </note>
     <note xml:id="c2Nh0143">
         <p>Desgodets ne distingue pas le dôme de la coupole contrairement à D’Aviler,
-                <hi rend="italic">op. cit.</hi>, qui parle de la « cupola », précisant
+                <hi
+                rend="italic"
+            >op. cit.</hi>, qui parle de la « cupola », précisant
             que ce nom est d’origine italienne, « est la partie concave d’une voûte
             sphérique qu’on orne de compartiments… »</p>
     </note>
@@ -1160,7 +1355,8 @@
             professeur. </p>
     </note>
     <note xml:id="c2Nh0146">
-        <p>Panache selon d’Aviler, <hi rend="italic">op. cit.</hi> : « portion
+        <p>Panache selon d’Aviler, <hi rend="italic"
+            >op. cit.</hi> : « portion
             triangulaire de voûte qui aide à porter la tour du dôme, voy. Pendentif ».
             Ici Desgodets se montre donc assez redondant dans sa recherche de
             définition.</p>
@@ -1168,7 +1364,9 @@
     <note xml:id="c2Nh0147">
         <p>Cette notion de niche est confuse car traditionnellement il s’agit d’un
             « renfoncement pris dans l’époisseur d’un mur pour y placer une figure ou
-            une statue » (D’Aviler, <hi rend="italic">op. cit</hi>.). C’est aussi dans
+            une statue » (D’Aviler, <hi
+                rend="italic"
+            >op. cit</hi>.). C’est aussi dans
             ce sens que Desgodets emploie le mot « niche » dans son Traité sur les
             ordres. Ici, Desgodets semble avoir des difficultés à définir l’hémicycle
             du chœur et insiste donc sur la forme.</p>
@@ -1195,17 +1393,21 @@
             faire usage de l’ancienne orfèvrerie religieuse.</p>
     </note>
     <note xml:id="c2Nh0152">
-        <p>Instrument qui se développe beaucoup aux XVII<hi rend="superscript">e</hi>
-            et XVIII<hi rend="superscript">e</hi> siècles et prend alors
+        <p>Instrument qui se développe beaucoup aux XVII<hi rend="superscript"
+                >e</hi>
+            et XVIII<hi rend="superscript"
+            >e</hi> siècles et prend alors
             systématiquement place sur une tribune.</p>
     </note>
     <note xml:id="c2Nh0153">
-        <p>Pour D’Aviler (<hi rend="italic">op. cit.</hi>) un portique comprend « toute
+        <p>Pour D’Aviler (<hi rend="italic"
+                >op. cit.</hi>) un portique comprend « toute
             disposition de colonnes ». Cet architecte-théoricien dans sa définition
             opère un rapprochement avec la colonnade de Saint-Pierre à Rome. Mais de
             fait, Desgodets a une vision ici plus restrictive de ce portique, librement
             inspiré de celui du Panthéon par exemple. Pour l’étude de la façade
-            principale des édifices religieux voir Armin Krauss, <hi rend="italic"
+            principale des édifices religieux voir Armin Krauss, <hi
+                rend="italic"
                 >Tempel und Kirche, zur Ausbildung von Fassade un « portail » in der
                 französischen Sakralarchitektur des 17. und 18 Jahrunderts</hi>, VDG
             Weimar, 2000, spécialement « Frémin, Cordemoy und Desgodets : Die portikale
@@ -1224,7 +1426,8 @@
     </note>
     <note xml:id="c2Nh0155">
         <p>L’emplacement du maître autel pose problème aux XVII<hi rend="superscript"
-                >e</hi> et XVIII<hi rend="superscript">e</hi> siècles. Desgodets se
+                >e</hi> et XVIII<hi rend="superscript"
+            >e</hi> siècles. Desgodets se
             montre très pédagogue dans son explication. Il aborde les réalités
             liturgiques et pratiques : à la croisée du transept, l’autel peut être vu
             de partout (un des principes fondamentaux du concile de Trente, largement
@@ -1237,7 +1440,8 @@
             pratique, la préservation du froid et des courants d’air. </p>
     </note>
     <note xml:id="c2Nh0157">
-        <p>Le choix d’un baldaquin (D’Aviler, <hi rend="italic">op. cit.</hi>,
+        <p>Le choix d’un baldaquin (D’Aviler, <hi rend="italic"
+                >op. cit.</hi>,
             « ornement d’autel d’une église qui consiste en un dais ou amortissement
             posé sur des colonnes ») pour l’autel de la cathédrale peut sembler
             étonnant, car il en existe assez peu à Paris, hormis au Val-de-Grâce. Il
@@ -1250,7 +1454,9 @@
             lors du concile de Trente. Le baldaquin a, par ailleurs, beaucoup de succès
             auprès des dessinateurs. Voir sur ce sujet, Anne Le Pas de Secheval,
             « Entre hommage et trahison : la réception et l’adaptation du baldaquin de
-            Saint-Pierre dans les églises parisiennes », <hi rend="italic">Le Bernin et
+            Saint-Pierre dans les églises parisiennes », <hi
+                rend="italic"
+                >Le Bernin et
                 l’Europe, du baroque triomphant à l’âge romantique</hi>, Paris,
             publications de la Sorbonne, 2002, p. 375-390.</p>
     </note>
@@ -1261,7 +1467,9 @@
             proportion depend du rapport que les Grecs appellent Analogie. Car Rapport
             est la convenance de mesure qui se trouve entre une certaine partie des
             membres &amp; le reste de tout le corps de l’ouvrage par laquelle toutes
-            les proportions sont réglées », Vitruve, <hi rend="italic">Dix livres
+            les proportions sont réglées », Vitruve, <hi
+                rend="italic"
+            >Dix livres
                 d’architecture</hi>, livre III, chap. I, trad. de Claude Perrault. Ce
             sont aussi des propos similaires que développe d’Aviler, « proportions :
             c’est la justesse des membres de chaque partie d’un batiment &amp; la
@@ -1270,10 +1478,14 @@
     </note>
     <note xml:id="c2Nh0159">
         <p>Desgodets va utiliser des modules et non des chiffres, alors que Pierre
-            Bullet par exemple, dans son <hi rend="italic">Architecture pratique</hi>
+            Bullet par exemple, dans son <hi
+                rend="italic"
+                >Architecture pratique</hi>
             (1691), qui est aussi un recueil de modèles, préfère donner des dimensions
             chiffrées, absolues, pour rendre une adaptation plus aisée de ses modèles.
-            Dans les <hi rend="italic">Édifices antiques</hi>, Desgodets indiques les
+            Dans les <hi
+                rend="italic"
+            >Édifices antiques</hi>, Desgodets indiques les
             mesures en pieds de Paris et en modules. En utilisant le module, Desgodets
             reprend une unité de mesure déjà utilisée par Vitruve puis par Palladio,
             quand ils abordent les ordres. Palladio se servait du module pour insister
@@ -1289,7 +1501,9 @@
     <note xml:id="c2Nh0160">
         <p>Desgodets donne ici son module qu’il déclinera. Cette importance de la
             colonne comme unité de mesure se rerouve dans les traités sur les ordres et
-            en particulier dans le <hi rend="italic">Parallèle de l’architecture
+            en particulier dans le <hi
+                rend="italic"
+                >Parallèle de l’architecture
                 antique avec la Moderne </hi>de Robert Fréart de Chambray (1650). Il
             est vrai que cet ouvrage passait pour être une anthologie des ordres
             antiques et modernes et servit de référence pour les textes à commenter au
@@ -1309,7 +1523,9 @@
         <p>Desgodets détaille les proportions de toutes les parties de l’édifice
             religieux, reprenant les principes vitruviens de bonne proportion,
             d’harmonie entre les différentes parties. Jacques-François Blondel qui dans
-            son <hi rend="italic">Cours</hi> (3<hi rend="superscript">e</hi> vol.,
+            son <hi
+                rend="italic">Cours</hi> (3<hi rend="superscript"
+            >e</hi> vol.,
             chap. V, p. 369ss) est le seul architecte théoricien à présenter des
             modèles d’édifices religieux, s’intéressera aux lieux de culte à la suite
             de sa présentation des ordres appliqués à l’architecture et non dans le
@@ -1327,14 +1543,18 @@
             du plan. Ces données peuvent d’ailleurs aider les élèves pour répondre au
             sujet du concours pour le Grand Prix de 1724 «  desseins, plans, élévations
             et profils d’un grand autel pour une église cathédrale dont l’échelle sera
-            d’un pouce et demi », <hi rend="italic">Procès verbaux de l’Académie royale
+            d’un pouce et demi », <hi
+                rend="italic"
+                >Procès verbaux de l’Académie royale
                 d’architecture</hi>, éd. par Henri Lemonnier, Paris, 1915, t. IV, p.
             287. Des concours portant sur l’architecture religieuse sont aussi donnés
             en 1721, alors que Desgodets est professeur depuis deux ans, en 1725, 1726
             et 1729. Desgodets est le professeur qui donnera le plus de sujets portant
             sur l’architecture religieuse, pour le concours nouvellement institué
             régulièrement. Pour les Grands prix, voir Jean-Marie Pérouse de Montclos,
-                <hi rend="italic">Les « Prix de Rome », concours de l’Académie royale
+                <hi
+                rend="italic"
+                >Les « Prix de Rome », concours de l’Académie royale
                 d’architecture au XVIII</hi>
             <hi rend="italic superscript">e</hi>
             <hi rend="italic"> siècle</hi>, Paris Berger-Levrault/ENSBA, 1984.</p>
@@ -1357,13 +1577,17 @@
     </note>
     <note xml:id="c2Nh0167">
         <p>Être enterré dans une église reste alors un privilège assez répandu. Il faut
-            attendre le milieu du XVIII<hi rend="superscript">e</hi> pour trouver un
+            attendre le milieu du XVIII<hi
+                rend="superscript"
+                >e</hi> pour trouver un
             début d’opposition aux inhumations dans les églises, et 1776 pour qu’une
             ordonnance royale interdise les inhumations dans les églises, excepté pour
             les archevêques et évêques qui peuvent être inhumés dans leur cathédrale ;
             les curés peuvent aussi être enterrés dans leur église, de même pour les
             patrons et hauts justiciers qui conservent ce droit dans les édifices
-            qu’ils patronnent. Voir Madeleine Lassère, <hi rend="italic">Villes et
+            qu’ils patronnent. Voir Madeleine Lassère, <hi
+                rend="italic"
+                >Villes et
                 cimetières en France de l’Ancien régime à nos jours : le territoire des
                 morts</hi>, Paris-Montréal, L’Harmattan, 1997, p. 25-31, mais l’auteur
             opère peu de distinction entre les cimetières autour et dans les églises.
@@ -1397,7 +1621,8 @@
             de « visiter » précisément son modèle. </p>
     </note>
     <note xml:id="c2Nh0171">
-        <p>D’Aviler, <hi rend="italic">op. cit</hi>. : « C’est une voûte en plein
+        <p>D’Aviler, <hi rend="italic"
+            >op. cit</hi>. : « C’est une voûte en plein
             cintre qu’on pratique ordinairement aux cours, aux écuries, aux arches des
             ponts ».</p>
     </note>
@@ -1405,7 +1630,9 @@
         <p>D’Aviler (<hi rend="italic">op. cit.</hi>) dans son <hi rend="italic"
                 >Dictionnaire</hi>, ne parle pas de berceau sphérique mais de voûte
             sphérique : « voûte qui est circulaire par son plan et par son profil. On
-            la nomme aussi <hi rend="italic">cul de four</hi>. La voûte de cette sorte,
+            la nomme aussi <hi
+                rend="italic"
+            >cul de four</hi>. La voûte de cette sorte,
             la plus parfaite, est le plein cintre ».</p>
     </note>
     <note xml:id="c2Nh0173">
@@ -1413,26 +1640,32 @@
             confession.</p>
     </note>
     <note xml:id="c2Nh0174">
-        <p>Il s’agit ici de la <hi rend="italic">fenestella</hi>. Étonnement, Desgodets
-            ne rappelle pas l’usage de cette <hi rend="italic">fenestella</hi> pendant
+        <p>Il s’agit ici de la <hi rend="italic"
+                >fenestella</hi>. Étonnement, Desgodets
+            ne rappelle pas l’usage de cette <hi
+                rend="italic"
+                >fenestella</hi> pendant
             le Moyen Âge : adorer les reliques par le biais de cette baie et inciter
             les fidèles à faire le tour du chœur. Est-ce parce que Desgodets ignorait
             cet usage, tombé en désuétude alors, ou est-ce parce que cet usage était
             propre au Moyen Âge et non aux premiers temps chrétiens auxquels, il se
             réfère en revanche constamment dans son histoire religieuse ? Cette absence
             de référence ne permet donc pas d’insister sur l’utilité liturgique de la
-                <hi rend="italic">fenestella</hi>, Desgodets mettant en avant
+                <hi
+                rend="italic"
+            >fenestella</hi>, Desgodets mettant en avant
             uniquement la fonction constructive.</p>
     </note>
     <note xml:id="c2Nh0175">
         <p>Cette disposition reprend une fois encore la pratique liturgique du XVII<hi
-                rend="superscript">e</hi> siècle avec les deux pôles où se lisent deux
+                rend="superscript"
+            >e</hi> siècle avec les deux pôles où se lisent deux
             parties de la Bible.</p>
     </note>
     <note xml:id="c2Nh0176">
         <p>Desgodets explique indirectement ici la manière dont on pratique les
-            sépultures aux XVII<hi rend="superscript">e</hi> et XVIII<hi
-                rend="superscript">e</hi> siècles.</p>
+            sépultures aux XVII<hi
+                rend="superscript">e</hi> et XVIII<hi rend="superscript">e</hi> siècles.</p>
     </note>
     <note xml:id="c2Nh0177">
         <p>Dans son modèle, Desgodets réserve un statut particulier aux fondations se
@@ -1475,12 +1708,15 @@
             faire augmenter ou diminuer la grosseur », thème abordé ici et le 30 juin
             1705, « M. Desgodets a proposé aussy une manière de déterminer le
             surhaussement des voutes suivant des distances données, à la hauteur de
-            l'œil, et par rapport à la hauteur de la voûte sous la clef (…) » (<hi
-                rend="italic">P.V</hi>., t. III, p. 221). Par ailleurs, dans son traité
+            l’œil, et par rapport à la hauteur de la voûte sous la clef (…) » (<hi
+                rend="italic"
+                >P.V</hi>., t. III, p. 221). Par ailleurs, dans son traité
             sur les ordres, il consacre le premier chapitre à la manière de tracer les
             moulures qui sont proches de la vue, avant d’exposer sa conception des
             ordres. Les déformations optiques et la perspective, notions qui restent
-            d’ailleurs mêlées jusqu’au milieu du XVIII<hi rend="superscript">e</hi>
+            d’ailleurs mêlées jusqu’au milieu du XVIII<hi
+                rend="superscript"
+                >e</hi>
             siècle, restent au cœur de ses préoccupations. Il dispense d’ailleurs un
             cours spécifique à deux reprises : en 1723, « M. Desgodets, professeur a
             distribué les affiches qui marquent qu’il s’est proposé de donner pour
@@ -1488,13 +1724,15 @@
             la distribution et la perspective des édifices. Il achèvera de donner la
             dissertation sur le dessein et il donnera la seconde partie du nouveau
             commentaire sur les articles de la Coustume de Paris qui ont du raport à
-            l’architecture », (<hi rend="italic">op. cit</hi>., t. IV, p. 274) et en
+            l’architecture », (<hi
+                rend="italic"
+                >op. cit</hi>., t. IV, p. 274) et en
             1727 (17 novembre) : « M. Desgodets a présenté à l’Académie les affiches
             pour les leçons publiques où il se propose de continuer le Traité de la
             commodité, distribution et proportion des édifices publics et particuliers
             […] Ensuite il donnera une dissertation sur le dessein et la perspective et
-            un Traité de la coupe des pierres<hi rend="italic"> </hi>» (<hi
-                rend="italic">op. cit., </hi>Paris 1917, t. V, p.16).</p>
+            un Traité de la coupe des pierres<hi
+                rend="italic"> </hi>» (<hi rend="italic">op. cit., </hi>Paris 1917, t. V, p.16).</p>
     </note>
     <note xml:id="c2Nh0181">
         <p>Nous retrouvons ici le goût de Desgodets pour l’application de quelques
@@ -1507,7 +1745,9 @@
     </note>
     <note xml:id="c2Nh0183">
         <p>Il s’agit d’arcatures et non d’arcades selon notre terminologie actuelle.
-            Jean-Marie Pérouse de Montclos, <hi rend="italic">Architecture : méthode et
+            Jean-Marie Pérouse de Montclos, <hi
+                rend="italic"
+            >Architecture : méthode et
                 vocabulaire</hi>, Paris, Imprimerie nationale, 1972.</p>
     </note>
     <note xml:id="c2Nh0184">
@@ -1522,7 +1762,8 @@
     </note>
     <note xml:id="c2Nh0187">
         <p>Desgodets fait une référence subtile à l’ouvrage qui l’a fait connaître, <hi
-                rend="italic">Les Édifices antiques de Rome</hi> (Paris, 1682) et
+                rend="italic"
+            >Les Édifices antiques de Rome</hi> (Paris, 1682) et
             indique clairement qu’il a examiné précisément le Panthéon, qui est
             d’ailleurs représenté dans de très nombreuses planches dans son livre
             publié.</p>
@@ -1562,8 +1803,8 @@
             croisent ».</p>
     </note>
     <note xml:id="c2Nh0194">
-        <p>Il s’agit des voûtes en arc de cloître qui selon d’Aviler, (<hi
-                rend="italic">op. cit</hi>.) est « arc de cloître formé par quatre
+        <p>Il s’agit des voûtes en arc de cloître qui selon d’Aviler, (<hi rend="italic"
+                >op. cit</hi>.) est « arc de cloître formé par quatre
             portions de cercles et dans les angles en dedans font un effet contraire à
             la voûte d’arêtes. C’est pourquoi elle est aussi appellée voûte
             d’angle ».</p>
@@ -1578,7 +1819,9 @@
     <note xml:id="c2Nh0196">
         <p>Desgodets adopte ici une vision restrictive de la notion d’attique, sans y
             voir un ordre, comme il peut le présenter parfois. Il reprend donc la
-            définition de D’Aviler, <hi rend="italic">op. cit.</hi> : « Tout petit
+            définition de D’Aviler, <hi
+                rend="italic"
+            >op. cit.</hi> : « Tout petit
             étage ou piédestal de maçonnerie ou de bois revêtu de plomb, qui sert de
             garde fou à une terrasse ou plate forme ou belvédère (Louvre) ».</p>
     </note>
@@ -1591,12 +1834,17 @@
     <note xml:id="c2Nh0198">
         <p>Desgodets donne quelques indications, très succinctes quant à la
             charpenterie. Les architectes continuaient fondamentalement à se fonder sur
-            le <hi rend="italic">Traité</hi> de Mathurin Jousse (La Flèche 1627) ,
+            le <hi
+                rend="italic"
+                >Traité</hi> de Mathurin Jousse (La Flèche 1627) ,
             d’autant que le prédécesseur immédiat de Desgodets, Gabriel-Philippe de La
-            Hire avait republié cet ouvrage tout en le modernisant (<hi rend="italic"
+            Hire avait republié cet ouvrage tout en le modernisant (<hi
+                rend="italic"
                 >L’art de la charpenterie de Mathurin Jousse, corrigé et augmenté de ce
                 qu’il y a de plus curieux dans cet art et des machines les plus
-                nécessaires à un charpentier par M. D. L. H</hi>, <hi rend="italic">le
+                nécessaires à un charpentier par M. D. L. H</hi>, <hi
+                rend="italic"
+            >le
                 tout enrichi de figures et de tailles douces</hi>, Paris, de la Moette,
             1702).</p>
     </note>
@@ -1605,8 +1853,12 @@
             mis en œuvre dans l’architecture : la nécessaire visibilité dans le lieu de
             culte non seulement pour pouvoir voir l’Eucharistie mais aussi pour pouvoir
             lire le missel, livre inventé sous le pontificat de Pie V. voir M. Albaric,
-                <hi rend="italic">Histoire du missel français</hi>, Brepols, 1986 ;
-            Robert Cabié, <hi rend="italic">Histoire de la messe des origines à nos
+                <hi
+                rend="italic"
+                >Histoire du missel français</hi>, Brepols, 1986 ;
+            Robert Cabié, <hi
+                rend="italic"
+            >Histoire de la messe des origines à nos
                 jours</hi>, Paris, Desclée, 1990.</p>
     </note>
     <note xml:id="c2Nh0200">
@@ -1615,7 +1867,8 @@
             souligne l’importance du couvrement. Il commence par rappeler les principes
             du bon sens (le climat) à la suite de ce qu’ont pu pratiquer les
             théoriciens français notamment depuis Philibert de l’Orme (<hi
-                rend="italic">Le Premier tome de l’architecture</hi>, Paris, 1567), ou
+                rend="italic"
+            >Le Premier tome de l’architecture</hi>, Paris, 1567), ou
             Philippe de la Hire dans son cours d’architecture resté à l’état de
             manuscrit (Londres, Royal Institut of British Architects, ms 725 et Paris,
             B. Institut, Ms 8125). Ces principes visent à montrer, dans la pratique de
@@ -1631,7 +1884,8 @@
             toujours pour faciliter le travail de surveillance des travaux.</p>
     </note>
     <note xml:id="c2Nh0203">
-        <p>D’Aviler, <hi rend="italic">op. cit.</hi> : « Portion triangulaire de voute
+        <p>D’Aviler, <hi rend="italic"
+            >op. cit.</hi> : « Portion triangulaire de voute
             qui aide à porter la tour d’un dôme ».</p>
     </note>
     <note xml:id="c2Nh0204">
@@ -1718,7 +1972,8 @@
             l’intérieur d’un bâtiment. Par le plan adopté, plans multiples puis
             extérieur, il insiste implicitement que le fait que le cœur de ses propos
             reste la commodité, puisque traditionnellement, et notamment dans <hi
-                rend="italic">Les Édifices antiques de Rome</hi>, le commentaire
+                rend="italic"
+            >Les Édifices antiques de Rome</hi>, le commentaire
             présente l’extérieur d’un édifice, puis l’intérieur.</p>
     </note>
     <note xml:id="c2Nh0221">
@@ -1801,7 +2056,8 @@
         <p>Il en parle aussi au neuvième chapitre.</p>
     </note>
     <note xml:id="c2Nh0236">
-        <p>Selon D’Aviler (<hi rend="italic">Op. cit</hi>.), une alette est une
+        <p>Selon D’Aviler (<hi rend="italic"
+            >Op. cit</hi>.), une alette est une
             « petite aile ou côté, face d’un piedroit depuis un pilastre ou une colonne
             jusqu’au tableau ». Desgodets adopte donc une conception différente ici.
         </p>
@@ -1843,18 +2099,26 @@
             situant dans la continuité de ce que pouvait écrire Claude Perrault. Il est
             fondamental pour les deux auteurs de tenir compte du lieu pour pouvoir
             avoir un édifice beau et bien proportionné. Il s’agit de proposer des
-            règles pour une beauté positive. Herrmann Wolfgang, <hi rend="italic">La
+            règles pour une beauté positive. Herrmann Wolfgang, <hi
+                rend="italic"
+                >La
                 théorie de Claude Perrault</hi>, Bruxelles, Mardaga, 1980 ; Picon
-            Antoine, <hi rend="italic">Claude Perrault ou la curiosité d’un
+            Antoine, <hi
+                rend="italic"
+            >Claude Perrault ou la curiosité d’un
                 classique</hi>, Paris, Picard, 1989.</p>
     </note>
     <note xml:id="c2Nh0245">
         <p>Desgodets apporte une précision quant à la stéréotomie, précision assez rare
             chez lui mais qui est omniprésente, chez son prédécesseur Philippe de La
             Hire (Cours de coupe des pierres resté à l’état de manuscrit). Ce sont les
-            traités de La Rue (<hi rend="italic">Traité de la coupe des pierres ou
+            traités de La Rue (<hi
+                rend="italic"
+                >Traité de la coupe des pierres ou
                 méthode facile et abrégée pour se perfectionner en cette science</hi>,
-            Paris, impr. royale, 1728) et surtout de Frézier (<hi rend="italic">La
+            Paris, impr. royale, 1728) et surtout de Frézier (<hi
+                rend="italic"
+                >La
                 Théorie et la pratique de la coupe des pierres et des bois pour la
                 construction des voûtes ou Traité de stéréotomie à l’usage de
                 l’architecture</hi>, Paris, 1738, 3 vol.) qui apportent le plus de
@@ -1885,7 +2149,8 @@
         <p>Ordre colossal.</p>
     </note>
     <note xml:id="c2Nh0250">
-        <p>Pour D’Aviler, (<hi rend="italic">op. cit .</hi>), cave d’église : « lieu
+        <p>Pour D’Aviler, (<hi rend="italic"
+            >op. cit .</hi>), cave d’église : « lieu
             souterrain dans une Église, vouté et destiné aux sepultures comme la grande
             cave de Saint-Sulpice, à Paris ».</p>
     </note>
@@ -1896,8 +2161,9 @@
     <note xml:id="c2Nh0252">
         <p>Desgodets comme souvent accorde une grande importance aux détails mais il ne
             définit les proportions et le système constructif que pour les parties en
-            pierre et non en serrurerie, alors que André Félibien, (<hi rend="italic"
-                >Op. cit.</hi>) avait accordé un long chapitre à la serrurerie,
+            pierre et non en serrurerie, alors que André Félibien, (<hi
+                rend="italic"
+            >Op. cit.</hi>) avait accordé un long chapitre à la serrurerie,
             chapitre XX, p. 188-243.</p>
     </note>
     <note xml:id="c2Nh0253">
@@ -1925,13 +2191,15 @@
     <note xml:id="c2Nh0257">
         <p>Nous retrouvons ces préoccupations quant à l’optique. Desgodets donne en
             1727 « une dissertation sur le dessein et la perspective » ((<hi
-                rend="italic">op. cit., </hi>Paris 1917, t. V, p.16). Il s’agit de
+                rend="italic"
+                >op. cit., </hi>Paris 1917, t. V, p.16). Il s’agit de
             l’annonce d’un cours, dont il ne reste malheureusement pas de trace sous
             forme de manuscrit. Par ailleurs, dès 1705 (30 juin), il était intervenu à
             l’Académie à propos du surhaussement des voûtes suivant les distances
             données par rapport à la hauteur de la voûte, à la clef. Les
             questionnements de Desgodets quant à la perception des proportions sont
-            donc constants (<hi rend="italic">P.V.</hi>, t. III, p. 220 et 221).</p>
+            donc constants (<hi
+                rend="italic">P.V.</hi>, t. III, p. 220 et 221).</p>
     </note>
     <note xml:id="c2Nh0258">
         <p>Desgodets se penche de manière détaillée sur les principes décoratifs qui
@@ -1951,7 +2219,9 @@
             s’appuyant de manière implicite sur le traité de Charles Borromée (Livre I,
             chap. 22), les proportions qui doivent régner dans le mobilier et entre ce
             mobilier et l’architecture. Desgodets est un des rares architectes à écrire
-            sur ce sujet au XVIII<hi rend="superscript">e</hi>, même les hommes
+            sur ce sujet au XVIII<hi
+                rend="superscript"
+            >e</hi>, même les hommes
             d’Église qui ont parlé d’architecture (Cordemoy, Laugier) ne s’intéressent
             pas explicitement au mobilier liturgique. </p>
     </note>
@@ -1984,14 +2254,17 @@
         <p>Desgodets distingue explicitement ici, ce qu’il n’avait pas fait
             précédemment, les « caves », espaces dans lesquels existent des sépultures,
             du lieu dans lequel « sont renfermées les reliques &amp; autres choses
-            précieuses » (D’Aviler, <hi rend="italic">op. cit</hi>.). Surtout il
+            précieuses » (D’Aviler, <hi
+                rend="italic"
+            >op. cit</hi>.). Surtout il
             insiste sur la disposition traditionnelle, contrairement à ce que laisse
             suggérer D’Aviler dans son Dictionnaire.</p>
     </note>
     <note xml:id="c2Nh0266">
         <p>Desgodets montre ici sa connaissance de la réforme pronée pendant le Concile
-            de Trente et que Charles Borromée évoque dans son <hi rend="italic"
-                >Instructionum fabricae et supellectilis ecclesiasticae,</hi> Libri II,
+            de Trente et que Charles Borromée évoque dans son <hi
+                rend="italic"
+            >Instructionum fabricae et supellectilis ecclesiasticae,</hi> Libri II,
             v. 1572. Pour Desgodets, il convient donc de supprimer les jubés, alors que
             nombreuses sont les églises qui en possèdent. Les débats concernant la
             destruction du jubé de Saint-Germain l’Auxerrois dessiné par Lescot font
@@ -2027,14 +2300,19 @@
         <p>Une fois de plus, Desgodets rappelle sa grande connaissance de l’histoire
             religieuse puisque l’autel majeur était placé traditionnellement au fond du
             chœur, comme il l’a expliqué pour les églises paléochrétiennes. Au XVIII<hi
-                rend="superscript">e</hi> siècle, les architectes sont très nombreux à
+                rend="superscript"
+                >e</hi> siècle, les architectes sont très nombreux à
             reprendre cet emplacement. Ils le font, en suivant l’exemple romain
             (Saint-Pierre) et développent une réelle inventivité en ce domaine comme le
             montrent les dessins d’Oppenord pour l’église Saint-Germain de Prés par
             exemple. Les recueils de gravure montrant de telles installations se
-            répandent au XVIII<hi rend="superscript">e</hi> siècle. Voir Anne Le Pas de
+            répandent au XVIII<hi
+                rend="superscript"
+                >e</hi> siècle. Voir Anne Le Pas de
             Sécheval, « Entre hommage et trahison la réception et l’adaptation du
-            baldaquin de saint-Pierre », Ch. Grell, M. Stanic (dir.),<hi rend="italic">
+            baldaquin de saint-Pierre », Ch. Grell, M. Stanic (dir.),<hi
+                rend="italic"
+                >
                 Le Bernin et l’Europe, Du baroque triomphant à l’âge romantique</hi>,
             Paris, presses de la Sorbonne, 2010, p. 377-389.</p>
     </note>
@@ -2062,19 +2340,23 @@
             pour offrir un modèle différent, digne d’une cathédrale en France ?</p>
     </note>
     <note xml:id="c2Nh0277">
-        <p>Desgodets va reprendre à nouveau les propos défendus par l’abbé Thiers (<hi
-                rend="italic">Dissertations ecclésiastiques, op. cit.</hi>) qui
+        <p>Desgodets va reprendre à nouveau les propos défendus par l’abbé Thiers (<hi rend="italic"
+                >Dissertations ecclésiastiques, op. cit.</hi>) qui
             revendique un dépouillement de l’autel pour une plus grande convenance et
             qui abhorre le tabernacle. Desgodets ne va cependant pas aussi loin que le
             religieux critique aussi l’usage du baldaquin. Pour l’usage de ces
-            derniers, Desgodets se fonde sur Cordemoy (<hi rend="italic">op.
+            derniers, Desgodets se fonde sur Cordemoy (<hi
+                rend="italic"
+                >op.
             cit.</hi>). Avec Desgodets, nous sommes bien au cœur des débats théoriques
-            du XVIII<hi rend="superscript">e</hi> siècle, et plus spécialement nous
+            du XVIII<hi
+                rend="superscript"
+                >e</hi> siècle, et plus spécialement nous
             percevons l’hésitation entre « la simplicité argumentée par celle des
             évangiles et des premiers temps de l’Eglise, et un certain faste dans le
             culte pour manifester la divinité. » (Émilie Roffidal-Motte, « Architecture
-            et théorie au XVIII<hi rend="superscript">e</hi> siècle », <hi
-                rend="italic">op. cit.</hi>, p. 238).</p>
+            et théorie au XVIII<hi
+                rend="superscript">e</hi> siècle », <hi rend="italic">op. cit.</hi>, p. 238).</p>
     </note>
     <note xml:id="c2Nh0278">
         <p>Cette précision montre combien Desgodets entend lier spécificité
@@ -2138,8 +2420,10 @@
             différentes parties constitutives de ce baldaquin. Il commence par la
             partie la plus importante, l’autel. Cette forme d’autel tombeau s’inspire
             directement de la pratique romaine. Desgodets présente donc un autel <hi
-                rend="italic">more romano</hi>, modèle qui pose question encore au
-                XVIII<hi rend="superscript">e</hi> siècle.</p>
+                rend="italic"
+                >more romano</hi>, modèle qui pose question encore au
+                XVIII<hi
+                rend="superscript">e</hi> siècle.</p>
     </note>
     <note xml:id="c2Nh0290">
         <p>Desgodets condamne l’emploi des colonnes torses pour des raisons d’optique
@@ -2184,11 +2468,14 @@
             a sans doute consience de ses répétitions mais veut insister sur le fait
             que la connaissance de l’utilisation du mobilier liturgique est
             fondamentale pour la conception de cet espace. Il faut rappeler qu’il est
-            le 1<hi rend="superscript">er</hi> architecte à s’intéresser à la pratique
+            le 1<hi
+                rend="superscript"
+            >er</hi> architecte à s’intéresser à la pratique
             liturgique.</p>
     </note>
     <note xml:id="c2Nh0297">
-        <p>D’Aviler (<hi rend="italic">op. cit.</hi>) indique simplement : « petite
+        <p>D’Aviler (<hi rend="italic"
+            >op. cit.</hi>) indique simplement : « petite
             cave dans l’étage souterrain ». </p>
     </note>
     <note xml:id="c2Nh0298">
@@ -2226,18 +2513,21 @@
     </note>
     <note xml:id="c2Nh0304">
         <p>Le baptistère Saint-Jean le Rond qui avait bénéficié d’une nouvelle façade
-            au XVII<hi rend="superscript">e</hi> siècle sert de baptistère jusqu’au
+            au XVII<hi
+                rend="superscript"
+                >e</hi> siècle sert de baptistère jusqu’au
             XIVe siècle au moins. Il est détruit en 1748 au motif qu’il menace ruine,
             les paroisses ayant par ailleurs réorganisées, notamment dans l’ile de la
             Cité (Xavier Dectot, « Saint-Jean le Rond », A. Erlande-Brandenburg,
-            Jean-Michel Leniaud, François Loyer, Ch. Michel (dir.), <hi rend="italic"
-                >Autour de Notre-Dame</hi>, Paris, DAAVP, 2003, p. 142-143.</p>
+            Jean-Michel Leniaud, François Loyer, Ch. Michel (dir.), <hi
+                rend="italic">Autour de Notre-Dame</hi>, Paris, DAAVP, 2003, p. 142-143.</p>
     </note>
     <note xml:id="c2Nh0305">
         <p>Desgodets montre une fois encore sa bonne connaissance de l’histoire
             religieuse. Il a pu voir le baptistère saint Jean-Baptiste, ou baptistère
             de Constantin lors de son séjour à Rome ; il en fait d’ailleurs le relevé
-                (<hi rend="italic">Recueil</hi>, p. 42). </p>
+                (<hi
+                rend="italic">Recueil</hi>, p. 42). </p>
     </note>
     <note xml:id="c2Nh0306">
         <p>Desgodets va longuement parler des baptistères dans son chapitre sur les
@@ -2255,7 +2545,9 @@
     <note xml:id="c2Nh0309">
         <p>Desgodets commence comme toujours par donner le plan de la partie la plus
             importante de l’édifice, le rez de chaussée. Il suit les principes de
-            Charles Borromée, (<hi rend="italic">Instructionum fabricae et
+            Charles Borromée, (<hi
+                rend="italic"
+                >Instructionum fabricae et
                 supellectilis ecclesiasticae,</hi> Liber II, v. 1572, cap. I-XVIII) qui
             ne retient que le plan en croix latine, le plan centré étant « païen ».</p>
     </note>
@@ -2264,7 +2556,8 @@
             étant placée à la croisée du transept.</p>
     </note>
     <note xml:id="c2Nh0311">
-        <p>À partir du XVI<hi rend="superscript">e</hi> siècle, il arrive assez
+        <p>À partir du XVI<hi rend="superscript"
+            >e</hi> siècle, il arrive assez
             fréquemment, à Paris, que les marquilliers fassent construire une chapelle
             des communions ou une chapelle mariale, hors œuvre et dans l’axe
             (Saint-Etienne du Mont, Saint-Eustache…) Cette chapelle est aussi parfois
@@ -2336,7 +2629,8 @@
             Desgodets reprend le même dispositif que pour la cathédrale.</p>
     </note>
     <note xml:id="c2Nh0324">
-        <p>Depuis le XVI<hi rend="superscript">e</hi> siècle, les Oratoriens donnant
+        <p>Depuis le XVI<hi rend="superscript"
+            >e</hi> siècle, les Oratoriens donnant
             une impulsion à la musique religieuse, les orgues prennent de plus en plus
             d’importance dans la liturgie. Desgodets reprend donc ici le dispositif qui
             se développe alors avec la tribune d’orgue placée au fond de la nef.</p>
@@ -2358,10 +2652,12 @@
             a mis en œuvre dans la chapelle de la Visitation de Paris (1632)</p>
     </note>
     <note xml:id="c2Nh0328">
-        <p>Jusqu’au XVIII<hi rend="superscript">e</hi>, le charnier double la capacité
+        <p>Jusqu’au XVIII<hi rend="superscript"
+                >e</hi>, le charnier double la capacité
             du cimetière qui prolonge toute église. Le charnier est un petit local où
             l’on rassemble les os secs. Voir sur ce sujet, Madeleine Lassère, <hi
-                rend="italic">Villes et cimetières en France de l’Ancien Régime à nos
+                rend="italic"
+                >Villes et cimetières en France de l’Ancien Régime à nos
                 jours, le territoire des morts</hi>, Paris, L’Harmattan, 1997, p. 17.
             Ce type de charnier est encore visible aujourd’hui à Saint-Etienne du Mont
             par exemple.</p>
@@ -2496,7 +2792,9 @@
             calculs pour que les élèves puissent le suivre pas à pas. Il ne faut pas
             oublier en outre que Desgodets avait souhaité développer une théorie
             complète sur les ordres, reflet des travaux académiques. C’est l’origine du
-                <hi rend="italic">Traité des ordres,</hi> conservé à la bibliothèque de
+                <hi
+                rend="italic"
+            >Traité des ordres,</hi> conservé à la bibliothèque de
             l’Institut, qui est présenté au jeune roi Louis XV en 1717.</p>
     </note>
     <note xml:id="c2Nh0350">
@@ -2529,9 +2827,12 @@
             juin 1714, après ce qui a été transcrit ci dessus au sujet du pont de
             Nantes, M. Desgodets et M. de la Hire le fils ont fait voir des desseins
             pour l’arche qu’on propose de rétablir à ce pont proche de la tour de
-            Pirmil », <hi rend="italic">P.V.</hi>, t. IV, p. 53 ; voir aussi
-            Rousteau-Chambon Hélène, « Le pont de Pirmil au XVIII<hi rend="superscript"
-                >e</hi> siècle et l’académie royale d’architecture », <hi rend="italic"
+            Pirmil », <hi
+                rend="italic"
+                >P.V.</hi>, t. IV, p. 53 ; voir aussi
+            Rousteau-Chambon Hélène, « Le pont de Pirmil au XVIII<hi
+                rend="superscript">e</hi> siècle et l’académie royale d’architecture », <hi
+                rend="italic"
                 >Bulletin de la société archéologique et historique de Nantes et de
                 Loire-Atlantique</hi>, 2001, t. 136, p. 163-178.</p>
     </note>
@@ -2555,12 +2856,14 @@
         <p>Desgodets reprend explicitement le plan de ses propos sur la cathédrale.</p>
     </note>
     <note xml:id="c2Nh0360">
-        <p>D’Aviler (<hi rend="italic">op. cit.</hi>) : « ouverture en glacis entre
+        <p>D’Aviler (<hi rend="italic"
+            >op. cit.</hi>) : « ouverture en glacis entre
             deux jouées rampantes pour donner de l’air et un peu de frais à une cave ou
             à un cellier ».</p>
     </note>
     <note xml:id="c2Nh0361">
-        <p>Est-ce la fenêtre en abajour dont d’Aviler <hi rend="italic">(op. cit.)</hi>
+        <p>Est-ce la fenêtre en abajour dont d’Aviler <hi rend="italic"
+            >(op. cit.)</hi>
             donne la définition : « espèce de fenêtre en forme de grand soupirail dont
             l’usage est d’éclairer tout étage souterrain, comme cuisines, offices,
             cours, etc. » ?</p>
@@ -2580,7 +2883,8 @@
             les escaliers sont en nombre important.</p>
     </note>
     <note xml:id="c2Nh0365">
-        <p>Charles Borromée (<hi rend="italic">op. cit</hi>., chap. XXIII) ne prévoit
+        <p>Charles Borromée (<hi rend="italic"
+            >op. cit</hi>., chap. XXIII) ne prévoit
             pas de chapelle pénitentielle mais simplement des confessionaux qui doivent
             être d’un accès facile et situés dans les collatéraux.</p>
     </note>
@@ -2666,7 +2970,8 @@
             structuration des propos. </p>
     </note>
     <note xml:id="c2Nh0381">
-        <p> Croupe d’église selon d’Aviler (<hi rend="italic">op. cit.</hi>) : « partie
+        <p> Croupe d’église selon d’Aviler (<hi rend="italic"
+            >op. cit.</hi>) : « partie
             arrondie du chevet d’une Eglise considérée par le dehors, comme celle de
             Notre-Dame de Paris ». Pour cette présentation desgodets a tendance à
             passer assez souvent de la description intérieure à celle de l’extérieure,
@@ -2674,7 +2979,8 @@
             l’édifice.</p>
     </note>
     <note xml:id="c2Nh0382">
-        <p>D’Aviler, <hi rend="italic">op. cit</hi>., « endroit où deux combles se
+        <p>D’Aviler, <hi rend="italic"
+            >op. cit</hi>., « endroit où deux combles se
             joignant en angle rentrant et qui fait l’effet contraire de
             l’arestier ».</p>
     </note>
@@ -2738,7 +3044,8 @@
             cette reflexion, Desgodets montre avant tout son pragmatisme…</p>
     </note>
     <note xml:id="c2Nh0393">
-        <p>Desgodets est bien un homme du XVIII<hi rend="superscript">e</hi> siècle qui
+        <p>Desgodets est bien un homme du XVIII<hi rend="superscript"
+            >e</hi> siècle qui
             commence à s’intéresser aux problèmes de salubrité, autre principe
             vitruvien de la théorie architecturale et d’hygième.</p>
     </note>
@@ -2763,11 +3070,11 @@
         <p>Desgodets apporte une rare remarque sur le bon goût, thème débattu à
             l’Académie royale d’architecture assez régulièrement. Desgodets livre ainsi
             sa propre définition du bon goût aux académiciens : « M. Desgodets a lu à
-            la Compagnie un escrit intitulé : Du bon goust d'architecture. II définit
+            la Compagnie un escrit intitulé : Du bon goust d’architecture. II définit
             que le bon goust est une convenance proportionnée du tout avec ses parties
             et de toutes les parties entre elles et avec leur tout, qui plaist dans
             tous les temps sans variation. Il entre ensuite dans les principes
-            d'architecture pour donner à sa définition tout l'éclaircissement
+            d’architecture pour donner à sa définition tout l’éclaircissement
             nécessaire. » Par ailleurs, dans son cours sur les ordres, il apporte une
             définition sur le bon goût, en introduction dans le manuscrit conservé dans
             une collection privée et en « conclusion » dans le manuscrit conservé au
@@ -2847,7 +3154,8 @@
     </note>
     <note xml:id="c2Nh0410">
         <p>Les ouvrages généraux sur l’architecture monastique ou conventuelle des
-            Temps modernes restent très peu nombreux. John Evans, (<hi rend="italic"
+            Temps modernes restent très peu nombreux. John Evans, (<hi
+                rend="italic"
                 >Monastic architecture in France : from the Renaissance to
                 theRevolution</hi>, Cambridge, University press, 1964). Les études sur
             l’architecture religieuse restent rares.</p>
@@ -2860,8 +3168,11 @@
             contrairement à ce qu’il pratique d’habitude.</p>
     </note>
     <note xml:id="c2Nh0412">
-        <p>D’Aviler (<hi rend="italic">op. cit.</hi>) apporte une définition au
-            terme couvent : « mot dérivé du latin <hi rend="italic">conventus</hi>,
+        <p>D’Aviler (<hi rend="italic"
+                >op. cit.</hi>) apporte une définition au
+            terme couvent : « mot dérivé du latin <hi
+                rend="italic"
+            >conventus</hi>,
             assemblée. C’est une grande maison surement batie qui consiste en une
             église, cour, chapitre, réfectoire, cloître, jardin, dortoirs &amp;ct où
             des personnes consacrées à Dieu vivent sous une même règle. Les couvents de
@@ -2911,7 +3222,8 @@
             prêtres dans les églises paléochrétiennes.</p>
     </note>
     <note xml:id="c2Nh0420">
-        <p> Oratoire selon d’Aviler (<hi rend="italic">Op. cit.</hi>): « maison près de
+        <p> Oratoire selon d’Aviler (<hi rend="italic"
+            >Op. cit.</hi>): « maison près de
             la chambre à coucher, un cabinet de retraite accompagné ordinairement d’un
             petit autel et d’un prie-Dieu. On a commencé à appeler oratoire, les
             petites chapelles jointes aux monastères où les moines faisaient leurs
@@ -2926,7 +3238,8 @@
     <note xml:id="c2Nh0422">
         <p>Cette distinction dans la disposition diversifiée des confessionaux, en
             fonction du sexe des religieux ne figure pas dans le texte de Ch. Borromée,
-                <hi rend="italic">op. cit</hi>..</p>
+                <hi
+                rend="italic">op. cit</hi>..</p>
     </note>
     <note xml:id="c2Nh0423">
         <p>Dans son modèle, comme dans celui de l’église paroissiale, Desgodets conçoit
@@ -2934,7 +3247,9 @@
             puisqu’il préfère ici le dorique au ionique. Il est vrai que le dorique
             rappelle selon lui la noblesse et la simplicité, ce qui est adéquat pour un
             portique. Sur le problème des ordres en façade dans les lieux de culte voir
-            Armin Krauss, <hi rend="italic">Tempel und Kirche : zur Ausbildung von
+            Armin Krauss, <hi
+                rend="italic"
+                >Tempel und Kirche : zur Ausbildung von
                 Fassade und « portail » in der französischen Sakralarchitektur des 17.
                 und 18 Jahrhunderts</hi>, Weimar, VDG, 2003. </p>
     </note>
@@ -3030,7 +3345,9 @@
     </note>
     <note xml:id="c2Nh0442">
         <p>Contrairement à ce qu’il pratique le plus souvent, les éléments décrits se
-            réfèrent au dessin suivant (3<hi rend="superscript">e</hi> dessin) que
+            réfèrent au dessin suivant (3<hi
+                rend="superscript"
+            >e</hi> dessin) que
             Desgodets annonce beaucoup plus tardivement.</p>
     </note>
     <note xml:id="c2Nh0443">
@@ -3070,8 +3387,11 @@
             Sainte-Marie à Paris.</p>
     </note>
     <note xml:id="c2Nh0450">
-        <p> Selon d’Aviler (<hi rend="italic">op. cit.</hi>), le corridor est un « Mot
-            donné de l’italien <hi rend="italic">corridore</hi>, galerie. C’est une
+        <p> Selon d’Aviler (<hi rend="italic"
+                >op. cit.</hi>), le corridor est un « Mot
+            donné de l’italien <hi
+                rend="italic"
+            >corridore</hi>, galerie. C’est une
             allée entre un ou deux rangs de chambres, pour les communiquer &amp; les
             dégager, comme les corridors de l’hôtel royal des Invalides à Paris. »
             Desgodets utilise souvent ces formes de dégagements dans ces plans donnés
@@ -3116,7 +3436,8 @@
             religieux ? Si Desgodets peut s’appuyer sur les principes généraux du
             concile de Trente et la recherche de réforme d’un certain nombreux d’ordres
             religieux qui visent à une plus grande pauvreté, au XVII<hi
-                rend="superscript">e</hi> siècle surtout, il ne tient pas véritablement
+                rend="superscript"
+            >e</hi> siècle surtout, il ne tient pas véritablement
             compte de la diversité des ordres religieux.</p>
     </note>
     <note xml:id="c2Nh0459">
@@ -3133,14 +3454,16 @@
     <note xml:id="c2Nh0461">
         <p>Desgodets s’intéresse dorénavant aux églises et couvents de femmes. Pour la
             bibliographie récente sur els couvents de femmes voir L. <hi
-                rend="color(222222)">Lecomte, « Ni voir ni être vue, clôture et cura
+                rend="color(222222)"
+                >Lecomte, « Ni voir ni être vue, clôture et cura
                 monialium dans les couvents français aux XVII</hi>
             <hi rend="superscript color(222222)">e</hi>
             <hi rend="color(222222)"> et XVIII</hi>
             <hi rend="superscript color(222222)">e</hi>
             <hi rend="color(222222)"> siècles », Cl. Mignot, M. Chastenet (dir.), </hi>
-            <hi rend="italic color(222222)">L'architecture religieuse européenne au
-                temps des réformes, Actes des deuxièmes rencontres d'architecture
+            <hi rend="italic color(222222)"
+                >L’architecture religieuse européenne au
+                temps des réformes, Actes des deuxièmes rencontres d’architecture
                 européenne,</hi>
             <hi rend="color(222222)"> Paris, Picard, 2009, p. 261-274 ; Ch. Aravaca, </hi>
             <hi rend="italic color(222222)">Règles de</hi>
@@ -3151,10 +3474,12 @@
             <hi rend="apple-converted-space">
                 <seg rend="italic color(222222)"> </seg>
             </hi>
-            <hi rend="italic color(222222)">et pratiques architecturales des ordres et
+            <hi rend="italic color(222222)"
+                >et pratiques architecturales des ordres et
                 congrégations : les fondations post-tridentines à Nantes
                 (1591-1714),</hi>
-            <hi rend="color(222222)"> thèse en cours sous la direction de H.
+            <hi rend="color(222222)"
+                > thèse en cours sous la direction de H.
                 Rousteau-Chambon, G. Saupin, Université de Nantes.</hi>
         </p>
     </note>
@@ -3167,7 +3492,8 @@
             en dépendre. Sur les établissements féminins et notamment le chœur voir
             Laurent Lecomte, « « L’église intérieure », le chœur des religieuses en
             France à l’époque post-tridentine », S. Frommel, L. Lecomte (dir.), <hi
-                rend="italic">La Place du chœur, Architecture et liturgie du Moyen Age
+                rend="italic"
+                >La Place du chœur, Architecture et liturgie du Moyen Age
                 aux Temps modernes</hi>, Paris, Picard, 2012, p. 201-226.</p>
     </note>
     <note xml:id="c2Nh0463">
@@ -3197,14 +3523,16 @@
     <note xml:id="c2Nh0467">
         <p>Cette cloture du chœur est fondamental pour les religieuses. Il s’agit d’une
             des principes les plus strictes pour les religieuses. Voir L. <hi
-                rend="color(222222)">Lecomte, « Ni voir ni être vue, clôture et cura
+                rend="color(222222)"
+                >Lecomte, « Ni voir ni être vue, clôture et cura
                 monialium dans les couvents français aux XVII</hi>
             <hi rend="superscript color(222222)">e</hi>
             <hi rend="color(222222)"> et XVIII</hi>
             <hi rend="superscript color(222222)">e</hi>
             <hi rend="color(222222)"> siècles », Cl. Mignot, M. Chastenet (dir.), </hi>
-            <hi rend="italic color(222222)">L'architecture religieuse européenne au
-                temps des réformes, Actes des deuxièmes rencontres d'architecture
+            <hi rend="italic color(222222)"
+                >L’architecture religieuse européenne au
+                temps des réformes, Actes des deuxièmes rencontres d’architecture
                 européenne,</hi>
             <hi rend="color(222222)"> Paris, Picard, 2009, p. 261-274 ; Ch. Aravaca, </hi>
             <hi rend="italic color(222222)">Règles de</hi>
@@ -3215,10 +3543,12 @@
             <hi rend="apple-converted-space">
                 <seg rend="italic color(222222)"> </seg>
             </hi>
-            <hi rend="italic color(222222)">et pratiques architecturales des ordres et
+            <hi rend="italic color(222222)"
+                >et pratiques architecturales des ordres et
                 congrégations : les fondations post-tridentines à Nantes
                 (1591-1714),</hi>
-            <hi rend="color(222222)"> thèse en cours sous la direction de H.
+            <hi rend="color(222222)"
+                > thèse en cours sous la direction de H.
                 Rousteau-Chambon, G. Saupin, Université de Nantes.</hi>
         </p>
     </note>
@@ -3280,8 +3610,8 @@
     <note xml:id="c2Nh0478">
         <p>Desgodets par ce second dessin, commente les parties hautes et notamment la
             couverture de l’édifice, reprenant pour une part ce qu’il avait déjà prévu
-            pour les églises paroissiales. Son commentaire du 2<hi rend="superscript"
-                >e</hi> dessin reste assez succinct.</p>
+            pour les églises paroissiales. Son commentaire du 2<hi
+                rend="superscript">e</hi> dessin reste assez succinct.</p>
     </note>
     <note xml:id="c2Nh0479">
         <p>Degodets, comme toujours insiste sur le dôme, élément fondamental des
@@ -3294,7 +3624,8 @@
             nécessaires pour les pilastres et trumeaux.</p>
     </note>
     <note xml:id="c2Nh0481">
-        <p>Dans la longue description de ce 3<hi rend="superscript">e</hi> dessin,
+        <p>Dans la longue description de ce 3<hi rend="superscript"
+            >e</hi> dessin,
             Desgodets reprend tous les éléments énoncés précédemment. Cette analyse
             permet de réaffirmer un certain nombre de principes qu’il a pu avancer dans
             les descriptions précédentes, pour les églises cathédrales et paroissiales
@@ -3333,10 +3664,14 @@
             religieux, il apparaît clairement qu’il accorde une moins grande importance
             à ce type de batiments qu’aux édifices religieux. Depuis quelques années,
             les études sur la typologie des bâtiments (J.C. Croizé, J.-P. Frey, P.
-            Pinon, <hi rend="italic">Recherches sur la typologie et les types
+            Pinon, <hi
+                rend="italic"
+                >Recherches sur la typologie et les types
                 architecturaux, actes de la tabe ronde internationale</hi>, Paris,
             L’Harmattan, 1991) et sur l’architecture publique (K. Ottenheym, K. De
-            Jonge, M. Chatenet, <hi rend="italic">Public Builduins in early modern
+            Jonge, M. Chatenet, <hi
+                rend="italic"
+            >Public Builduins in early modern
                 Europe</hi>, Brepols, 2010)</p>
         <p>trouvent un nouveau développement.</p>
     </note>
@@ -3350,13 +3685,16 @@
             hôpital dans chaque ville importante du royaume. Même si ce projet
             n’aboutit pas totalement, des hôpitaux furent édifiés dans toute la France.
             Ces hôpitaux sont alors conçus comme des lieux d’enfermement pour les
-            mendiants, enfants trouvés, prostituées. Dans son <hi rend="italic"
+            mendiants, enfants trouvés, prostituées. Dans son <hi
+                rend="italic"
                 >Dictionnaire</hi>, d’Aviler confond les deux structures puisqu’à
             l’occurence « hôtel-Dieu », il renvoit à « hôpital » (« Grande maison qui
             sert de retraite aux pauvres &amp; aux malades autant pour le secours
             spirituel que pour le temporel, composé principalement de plusieurs salles
             contenant deux rangées de lits. Elle doit être exposée au Levant »). Il
-            n’empêche qu’au XVIII<hi rend="superscript">e</hi> siècle peuvent
+            n’empêche qu’au XVIII<hi
+                rend="superscript"
+            >e</hi> siècle peuvent
             co-exister dans une même ville hôtel-Dieu et hôpital général (Lyon, Paris).
             L’intérêt de Desgodets pour ces structures hospitalières est d’autant plus
             d’actualité qu’un incendie avait ravagé l’hôtel-Dieu de Paris dans la nuit
@@ -3364,27 +3702,37 @@
     </note>
     <note xml:id="c2Nh0490">
         <p>Desgodets va entreprendre cette partie en évoquant un des batiments publics
-            les plus anciens, les hôtels-Dieu. Voir sur ce sujet <hi rend="italic">Dix
+            les plus anciens, les hôtels-Dieu. Voir sur ce sujet <hi
+                rend="italic"
+                >Dix
                 siècles d’histoire hospitalière parisienne : l’Hotel-Dieu de
             Paris</hi>, 651-1650, Paris, 1961 (8 H 3764) ; Murielle Jeorges, « La
             structure hospitalière de la France sous l’Ancien Régime », <hi
-                rend="italic">Annales, économie, Société civile</hi>, 1977, p.
+                rend="italic"
+                >Annales, économie, Société civile</hi>, 1977, p.
             1025-1051 ; F. Béguin, B. Fortier, M. Foucault, B. Kriegel, A. Thalamy, <hi
-                rend="italic">Les machines à guérir : aux origines de l’hôpital
+                rend="italic"
+                >Les machines à guérir : aux origines de l’hôpital
                 moderne</hi>, Bruxelles, P. Mardaga, 1979 ; J. Imbert, <hi
-                rend="italic">Histoire des hôpitaux en France</hi>, Toulouse, Privat,
+                rend="italic"
+                >Histoire des hôpitaux en France</hi>, Toulouse, Privat,
             1982 ; Jean Imbert, « L’évolution de l’architecture hospitalière », <hi
-                rend="italic">Bulletin de la société française d’histoire des
-                hôpitaux</hi>, n° 48, 1984, p. 25-38 ; Daniel Hickey, <hi rend="italic"
+                rend="italic"
+                >Bulletin de la société française d’histoire des
+                hôpitaux</hi>, n° 48, 1984, p. 25-38 ; Daniel Hickey, <hi
+                rend="italic"
                 >Local hospitals in ancient regime France</hi>, Montreal, Mc Gill,
-            1997 ; Pierre-Louis Laget, Claude Laroche, <hi rend="italic">L’hôpital en
+            1997 ; Pierre-Louis Laget, Claude Laroche, <hi
+                rend="italic"
+            >L’hôpital en
                 France, histoire et architecture</hi>, Lieux dits éditions, (coll.
             cahier du patrimoine n°99), Paris, 2012.</p>
     </note>
     <note xml:id="c2Nh0491">
         <p>Desgodets n’est pas le premier architecte à donner un modèle d’hôtel-Dieu
-            puisque Philibert de L’Orme en donne aussi un dans son <hi rend="italic"
-                >Premier tome de l’architecture </hi>(1567). Dans son plan cependant,
+            puisque Philibert de L’Orme en donne aussi un dans son <hi
+                rend="italic"
+            >Premier tome de l’architecture </hi>(1567). Dans son plan cependant,
             Desgodets place une chapelle au centre de la composition, mais il ne
             prévoit que 4 bras de la croix délimitant d’un côté un cloitre et des
             petits espaces circonscrits par les 4 salles des malades. Les bâtiments
@@ -3459,12 +3807,15 @@
             établissement religieux. Les cérémonies religieuses continuent d’ailleurs à
             rythmer la vie hospitalière et les grandes salles des malades sont souvent
             installées dans la contituité de la chapelle dans les hôtels-Dieu anciens
-            (Bourges, Châlons XVI<hi rend="superscript">e</hi> siècle) ou plus récents
+            (Bourges, Châlons XVI<hi
+                rend="superscript"
+                >e</hi> siècle) ou plus récents
             (Baugé 1643-1651, Saint-Riquier 1717-1719). Pourtant après l’édit de 1545,
             les fondations de nombreux hôpitaux relèvent des municipalités et non plus
             des religieux. Desgodets semble avoir pris pour source et synthétiser dans
             le plan qu’il donne, les informations données par H. Sauval (<hi
-                rend="italic">Histoire et recherche des antiquités de la ville de
+                rend="italic"
+                >Histoire et recherche des antiquités de la ville de
                 Paris</hi>, Paris, Charles Moette, 1724, t.I, Livre V, p. 519-528) sur
             l’hôtel-Dieu (pour son personnel) et celui de l’hôpital général
             (Salpétrière, pour son plan).</p>
@@ -3515,7 +3866,8 @@
             Desgodets connaissait, celui de Philippe de La Hire (RIBA, ms 725, B.
             Institut ms 8125). Les deux professeurs entendaient insister sur la
             commodité des édifices, ce qui constitue par ailleurs une réelle
-            préoccupation du XVIII<hi rend="superscript">e</hi> siècle.</p>
+            préoccupation du XVIII<hi
+                rend="superscript">e</hi> siècle.</p>
     </note>
     <note xml:id="c2Nh0510">
         <p>Nous retrouvons une structure proche de celle des couvents de
@@ -3578,27 +3930,33 @@
             soignant. Il en est de même pour le bureau des administrateurs.</p>
     </note>
     <note xml:id="c2Nh0521">
-        <p>Cette disposition peut sembler étonnante car jusqu’au XIX<hi
-                rend="superscript">e</hi> siècle, le médecin ne réside pas
+        <p>Cette disposition peut sembler étonnante car jusqu’au XIX<hi rend="superscript"
+            >e</hi> siècle, le médecin ne réside pas
             continuellement à l’hôpital. Il ne vient que pour faire des visites et
             répondre aux cas d’urgence.</p>
     </note>
     <note xml:id="c2Nh0522">
         <p>Desgodets prévoit donc aussi une séparation stricte entre médécins et
             chirurgiens, séparation qui s’affirme au cours du XVIII<hi
-                rend="superscript">e</hi> siècle, ces derniers depuis le XVII<hi
-                rend="superscript">e</hi> bénéficiant d’un appui royal : Louis XIV
+                rend="superscript">e</hi> siècle, ces derniers depuis le XVII<hi rend="superscript"
+                >e</hi> bénéficiant d’un appui royal : Louis XIV
             avait ainsi chargé le chirurgien, Pierre Dionis, d’enseigner l’anatomie de
             l’homme, enseignement ouvert à tous, dans les jardins du roi. Voir R.
-            Taton, <hi rend="italic">Enseignement et diffusion des sciences en France
+            Taton, <hi
+                rend="italic"
+                >Enseignement et diffusion des sciences en France
                 au XVIII</hi>
             <hi rend="italic superscript">e</hi>
-            <hi rend="italic"> siècle</hi>, Paris, Hermann, 1964 ; P. Dumaître, <hi
-                rend="italic">Histoire de la médecine et du Livre médical</hi>, Paris,
-            Pygmalion, 1978 ; P. Gorny, <hi rend="italic">L’aventure de la
+            <hi rend="italic"> siècle</hi>, Paris, Hermann, 1964 ; P. Dumaître, <hi rend="italic"
+                >Histoire de la médecine et du Livre médical</hi>, Paris,
+            Pygmalion, 1978 ; P. Gorny, <hi
+                rend="italic"
+                >L’aventure de la
                 médecine</hi>, Paris, J.C. Lattès, 1991 ; J. Clair (dir.), M. Lemire,
             « Fortune et infortune de l’anatomie et des préparations anatomiques
-            naturelles et artificielles », <hi rend="italic">L’âme au corps, arts et
+            naturelles et artificielles », <hi
+                rend="italic"
+            >L’âme au corps, arts et
                 sciences 1793-1993</hi>, Grand Palais 1993, RMN-Gallimard-Electa, 1993,
             p. 70-101.</p>
     </note>
@@ -3650,7 +4008,9 @@
     <note xml:id="c2Nh0531">
         <p>Ici Desgodets évoque clairement un ordre attique, ce qui fait l’objet de
             débats en 1709 entre Desgodets, Bullet et La Hire. Dans son Traité sur les
-            ordres (BNF est., ms ha 23a, <hi rend="background(yellow)">v. f° 290</hi>),
+            ordres (BNF est., ms ha 23a, <hi
+                rend="background(yellow)"
+            >v. f° 290</hi>),
             Desgodets le définit comme « une forme d’ordre qui a son caractère
             particulier qui ne se confond point avec les autres ordres, quoique l’ordre
             attique ne doive point être mis en parallèle avec les autres parce qu’il ne
@@ -3740,17 +4100,25 @@
             distribution. Il pourra ainsi s’intéresser plus explicitement à la
             présentation des hotels de villes en relation avec leurs fonctions. Il est
             possible qu’il se soit inspiré à nouveau de l’ouvrae de Sauval (<hi
-                rend="italic">op. cit</hi>., T. II, livre IX, p. 479-484). Pour la
+                rend="italic"
+                >op. cit</hi>., T. II, livre IX, p. 479-484). Pour la
             bibliographie sur les hôtels de ville, voir, Pascal Liévaux, <hi
                 rend="italic">L’architecture des hôtels de ville en France au XVII</hi>
             <hi rend="italic superscript">e</hi>
-            <hi rend="italic"> siècle</hi>, Thèse soutenue sous la direction de C.
-            Mignot, 1992 ; J.-M. Pérouse de Montclos, <hi rend="italic">Hôtels de ville
+            <hi rend="italic"
+                > siècle</hi>, Thèse soutenue sous la direction de C.
+            Mignot, 1992 ; J.-M. Pérouse de Montclos, <hi
+                rend="italic"
+                >Hôtels de ville
                 en France : de la curie romaine à la mairie républicaine, 20 siècles
                 d’architecture monumentale</hi>, Dexia Editions, Imprimerie Nationale,
             2000 ; pour l’hôtel de ville de Paris que Desgodets doit mieux connaître,
-            J.-J. Levêque, <hi rend="italic">L’hôtel de ville de Paris, l’histoire, le
-                musée</hi>, Paris, 1983 ; C. Steeves, <hi rend="italic">The hôtel de
+            J.-J. Levêque, <hi
+                rend="italic"
+                >L’hôtel de ville de Paris, l’histoire, le
+                musée</hi>, Paris, 1983 ; C. Steeves, <hi
+                rend="italic"
+                >The hôtel de
                 ville of Paris : the architecture, urbanisme and politics of François
                 I</hi>, Anne Harbor, 1996.</p>
     </note>
@@ -3763,7 +4131,9 @@
     <note xml:id="c2Nh0547">
         <p>Par cette référence, Desgodets montre l’étendue et la variété de ses
             connaissances. Il indique aussi combien l’économie s’est transformée depuis
-            le XVII<hi rend="superscript">e</hi> siècle avec le développement du
+            le XVII<hi
+                rend="superscript"
+            >e</hi> siècle avec le développement du
             commerce maritime. Les villes de Bordeaux ou de Nantes notamment profitent
             tout particulièrement de ce développement.</p>
     </note>
@@ -3771,7 +4141,9 @@
         <p>Desgodets se contente d’évoquer la fonction commerciale dans les hôtels de
             ville. Il oublie de rappeler l’origine des hôtels de ville, c’est-à-dire la
             volonté d’émancipation des communes, vis à vis des seigneurs. Il est vrai
-            qu’à partir du XVI<hi rend="superscript">e</hi> siècle surtout, le roi
+            qu’à partir du XVI<hi
+                rend="superscript"
+            >e</hi> siècle surtout, le roi
             s’impose dans les villes par des interventions de plus en plus fréquentes.
             Il n’est pas anodin d’ailleurs que Desgodets parle d’un modèle d’hôtel de
             ville après celui d’un hôtel-Dieu. Dans son esprit, les hôtels de ville
@@ -3792,21 +4164,28 @@
     <note xml:id="c2Nh0551">
         <p>Desgodets dans cette présentation reprend les plans de la Renaissance
             italienne de Filarete, Francesco di Giorgio, comme cela est fait
-            communément, (voir Pascal Liévaux, <hi rend="italic">L’architecture des
+            communément, (voir Pascal Liévaux, <hi
+                rend="italic"
+                >L’architecture des
                 hôtels de ville en France au XVII</hi>
             <hi rend="italic superscript">e</hi>
-            <hi rend="italic"> siècle</hi>, Thèse soutenue sous la direction de C.
+            <hi rend="italic"
+                > siècle</hi>, Thèse soutenue sous la direction de C.
             Mignot, 1992, p. 93). Il donne aussi la forme générale des hôtels de ville
-            qui se construisent le plus généralement aux XVII<hi rend="superscript"
-                >e</hi> et XVIII<hi rend="superscript">e</hi> siècles. En rentrant
+            qui se construisent le plus généralement aux XVII<hi
+                rend="superscript">e</hi> et XVIII<hi rend="superscript"
+                >e</hi> siècles. En rentrant
             d’Italie, il avait pu voir celui de Lyon (1646-1654, restauré au début du
-                XVIII<hi rend="superscript">e</hi> siècle) notamment et connaissait
+                XVIII<hi
+                rend="superscript"
+                >e</hi> siècle) notamment et connaissait
             celui de Paris (1532-1549 puis 1606-1628) qui correspondent l’un et l’autre
             à ce schéma général. Par ailleurs, l’architecte Le Carpentier reprend aussi
             ce type de plan dans son projet pour l’hôtel de ville de Rouen, Vincent
             Droguet, « Le projet d’hôtel de ville pour Rouen par l’architecte
             Antoine-Mathieu le Carpentier », in Hélène Rousteau-Chambon (dir.), <hi
-                rend="italic">Jacques V Gabriel et les architectes de la façade
+                rend="italic"
+                >Jacques V Gabriel et les architectes de la façade
                 atlantique</hi>, Paris, Picard, 2004, p. 203-224</p>
     </note>
     <note xml:id="c2Nh0552">
@@ -3820,10 +4199,14 @@
     </note>
     <note xml:id="c2Nh0554">
         <p>Desgodets n’indique que des proportions générales, assez banales. Voir F.
-            Bergot, <hi rend="italic">L’Hôtel de ville de Rennes : une oeuvre de
-                Jacques Gabriel</hi>, Rennes, 1963 ; L. Jacquemin, <hi rend="italic"
+            Bergot, <hi
+                rend="italic"
+                >L’Hôtel de ville de Rennes : une oeuvre de
+                Jacques Gabriel</hi>, Rennes, 1963 ; L. Jacquemin, <hi
+                rend="italic"
                 >Lyon, palais et édifices publics</hi>, ed. de la Taillanderie, 1987;
-            G. Fessy, <hi rend="italic">L’Hôtel de ville de Lyon</hi>, 1998.</p>
+            G. Fessy, <hi
+                rend="italic">L’Hôtel de ville de Lyon</hi>, 1998.</p>
     </note>
     <note xml:id="c2Nh0555">
         <p>Desgodets mêle ici distribution et explication de la structure.</p>
@@ -3864,7 +4247,9 @@
     </note>
     <note xml:id="c2Nh0564">
         <p>La séparation entre les cours basses et cours d’honneur apparaissent dès les
-            premières années du XVII<hi rend="superscript">e</hi> siècle en France ;
+            premières années du XVII<hi
+                rend="superscript"
+            >e</hi> siècle en France ;
             Desgodets adopte explicitement le même principe dans l’architecture
             publique un siècle plus tard.</p>
     </note>
@@ -3876,10 +4261,13 @@
     <note xml:id="c2Nh0566">
         <p>L’escalier monumental joue toujours un grand rôle d’un point de vue
             architectural ainsi que pour les cérémonies et la pompe édilitaires (Pascal
-            Liévaux, <hi rend="italic">L’architecture des hôtels de ville en France au
+            Liévaux, <hi
+                rend="italic"
+                >L’architecture des hôtels de ville en France au
                 XVII</hi>
             <hi rend="italic superscript">e</hi>
-            <hi rend="italic"> siècle</hi>, Thèse soutenue sous la direction de C.
+            <hi rend="italic"
+            > siècle</hi>, Thèse soutenue sous la direction de C.
             Mignot, 1992, p. 93) Ce type de perron se trouvait en façade du parlement
             de Bretagne édifié par Salomon de Brosse en 1618, qui fut détruit par
             Jacques V Gabriel, lors de la construction de la place royale pour que ce
@@ -3893,7 +4281,9 @@
         <p>Desgodets s’est aussi bien renseigné sur le fonctionnement d’un hôtel de
             ville, mais il montre combien il est important de veiller au confort des
             uns et des autres, par le biais d’une architecture adéquate. Il a pu une
-            nouvelle fois s’inspirer de l’<hi rend="italic">Histoire</hi> de Sauval
+            nouvelle fois s’inspirer de l’<hi
+                rend="italic"
+            >Histoire</hi> de Sauval
             (op. cit.) qui est cependant peu explicite quant au fonctionnement précis
             de l’hôtel de ville.</p>
     </note>
@@ -3921,7 +4311,9 @@
             distribution d’un parlement puisqu’il en présenta le plan le 10 mai 1728,
             aux académiciens « M. Desgodets a fait voir à la compagnie un plan qu’il a
             dressé d’un palais de parlement pour servir de leçon aux estudians de
-            l’Académie », (<hi rend="italic">P.V.</hi>, t.V, p. 25) mais il mourut
+            l’Académie », (<hi
+                rend="italic"
+                >P.V.</hi>, t.V, p. 25) mais il mourut
             quelques jours plus tard. Il ne reste aucune trace de ce cours mais
             subsiste la description qu’il en a faite aux académiciens : « Ce plan est
             distribué de manière que toutes les juridictions renfermées à Paris dans
@@ -3940,9 +4332,9 @@
     </note>
     <note xml:id="c2Nh0002a">
         <!-\- TODO : reprendre -\->
-        <p>Rykwert, Adam's house in paradise, Anthony Vidler, L'espace des
-            lumières. Chercher ici les sources de Desgodets pour citer l'exemple
-            du Nord. Comparer également avec d'autres traités.</p>
+        <p>Rykwert, Adam’s house in paradise, Anthony Vidler, L’espace des
+            lumières. Chercher ici les sources de Desgodets pour citer l’exemple
+            du Nord. Comparer également avec d’autres traités.</p>
         <p>La référence au climat est notable.</p>
     </note>
     <note xml:id="c2Nh0003a">
@@ -3956,7 +4348,7 @@
     </note>
     <!-\- notes transmises par HRC -\->
     <note xml:id="c2Nh0001">
-        <p>Les basiliques n'ont pas été traitées et seuls les hôtels de ville
+        <p>Les basiliques n’ont pas été traitées et seuls les hôtels de ville
             ont été traités succintement.</p>
     </note>
     <note xml:id="c2Nh0002">
@@ -3981,8 +4373,8 @@
     </note>
     <note xml:id="c2Nh0004">
         <p>Desgodets reprends ici la théorie vitruvienne des origines de
-            l'architecture dont il pouvait avoir connaissance par la traduction
-            de Claude Perrault (1684) et qu'il adapte ici à la création du
+            l’architecture dont il pouvait avoir connaissance par la traduction
+            de Claude Perrault (1684) et qu’il adapte ici à la création du
             monde.</p>
     </note>
     <note xml:id="c2Nh0005">
@@ -3990,13 +4382,13 @@
             dans les champs, Caïn se jeta sur son frère Abel, et le tua. »,
                 <bibl corresp="#rondet1755" />, <hi rend="italic"
                 >Génèse</hi>, Chapitre 4, verset 8. La démonstration tend à
-            apporter une vision cartésienne de l'événement.</p>
+            apporter une vision cartésienne de l’événement.</p>
     </note>
     <note xml:id="c2Nh0006">
         <!-\- TODO : reprendre -\->
-        <p>Rykwert, Adam's house in paradise, Anthony Vidler, L'espace des
-            lumières. Chercher ici les sources de Desgodets pour citer l'exemple
-            du Nord. Comparer également avec d'autres traités.</p>
+        <p>Rykwert, Adam’s house in paradise, Anthony Vidler, L’espace des
+            lumières. Chercher ici les sources de Desgodets pour citer l’exemple
+            du Nord. Comparer également avec d’autres traités.</p>
         <p>La référence au climat est notable.</p>
         <p>Desgodets se montre systématique dans sa présentation de l’origine de
             l’architecture. Certes, il reprend les propos vitruviens mais il

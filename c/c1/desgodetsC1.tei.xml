@@ -8,7 +8,7 @@
    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
 -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
-   <!-- début de l'en-tête TEI -->
+   <!-- début de l’en-tête TEI -->
    <teiHeader>
       <fileDesc>
          <!-- mentions de titre et de responsabilité -->
@@ -21,7 +21,7 @@
                   <surname>Desgodets</surname>
                </persName>
             </author>
-            <!-- mention de responsabilité principale (responsable scientifique de l'édition) -->
+            <!-- mention de responsabilité principale (responsable scientifique de l’édition) -->
             <principal>
                <persName ref="#RC">
                   <forename>Robert</forename>
@@ -30,18 +30,18 @@
                      <orgName>Centre National de la Recherche
                         Scientifique</orgName>
                      <orgName type="acronym">CNRS</orgName>
-                     <roleName>responsable d'ANR</roleName>
+                     <roleName>responsable d’ANR</roleName>
                   </affiliation>
                </persName>
             </principal>
-            <!-- organismes qui ont financé l'opération -->
+            <!-- organismes qui ont financé l’opération -->
             <funder>
                <orgName>Agence Nationale de Recherche</orgName>
                <orgName type="acronym">ANR</orgName>
                <date from="2008" to="2013">2008-2013</date>
             </funder>
             <funder>
-               <orgName>Association Française d'Histoire de la
+               <orgName>Association Française d’Histoire de la
                   Construction</orgName>
                <orgName type="acronym">AFHC</orgName>
                <date when="2013">2013</date>
@@ -83,10 +83,10 @@
                </persName>
             </respStmt>
          </titleStmt>
-         <!-- mention d'édition -->
+         <!-- mention d’édition -->
          <editionStmt>
             <edition n="1">première édition électronique, <date from="2013" to="2013"
-                  >2008-2013</date></edition>
+               >2008-2013</date></edition>
          </editionStmt>
          <extent><!-- taille du fichier en octet --></extent>
          <!-- information sur la publication électronique -->
@@ -96,7 +96,7 @@
             <idno>c1</idno>
             <!-- responsable de la publication -->
             <publisher>
-               <orgName>Centre de théorie et d'analyse du droit (UMR
+               <orgName>Centre de théorie et d’analyse du droit (UMR
                   7074)</orgName>
                <orgName type="acronym">CTAD</orgName>
                <address>
@@ -114,31 +114,30 @@
                <p>Les images numériques des manuscrits sont mises à disposition par les institutions partenaires mais restent leur propriété exclusive. Celles-ci en autorisent la reproduction et la réutilisation selon leurs propres règles en vigueur. Toute diffusion de ces images, sous quelque forme et sur quelque support que ce soit (papier, audiovisuel, ou numérique), pour quelque finalité que ce soit (pédagogique, scientifique ou commercial), doit faire l’objet d’une demande d’autorisation préalable auprès de l’institution concernée.</p>
             </availability>
             <availability status="restricted" xml:id="c1TextLicence">
-               <p>Le Centre de théorie et d'analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d'Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
+               <p>Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
                   <lb/>Cette licence est disponible en ligne : <ref
                      target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
                      >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</p>
-               <p>Attribution : Vous devez créditer l'œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées. Vous devez indiquer ces informations par tous les moyens possibles mais vous ne pouvez pas suggérer que le Centre de théorie et d'analyse du droit vous soutient ou soutient la façon dont vous avez utilisé son œuvre. 
-                  <lb/>Le Centre de théorie et d'analyse du droit demande à ce que toute publication dérivée de ses ressources électroniques comporte : 
+               <p>Attribution : Vous devez créditer l’œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées. Vous devez indiquer ces informations par tous les moyens possibles mais vous ne pouvez pas suggérer que le Centre de théorie et d’analyse du droit vous soutient ou soutient la façon dont vous avez utilisé son œuvre. 
+                  <lb/>Le Centre de théorie et d’analyse du droit demande à ce que toute publication dérivée de ses ressources électroniques comporte : 
                   <lb/>1. le nom du Centre de théorie
-                  et d'analyse du droit et, pour les publications électroniques,
-                  son logo ainsi que la mention des auteurs de l'édition. 
-                  <lb/>2. l'URI permettant d'accéder à la page citée
-                  sur notre site, ou à la page d'accueil de la ressource
+                  et d’analyse du droit et, pour les publications électroniques,
+                  son logo ainsi que la mention des auteurs de l’édition. 
+                  <lb/>2. l’URI permettant d’accéder à la page citée
+                  sur notre site, ou à la page d’accueil de la ressource
                   <lb/>3. la date et la version du fichier source utilisé.</p>
                <p><hi rend="italic"
-                  >Pas d'Utilisation Commerciale</hi> — Vous n'êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant. 
-                  <lb/>Le Centre de théorie et d'analyse du droit souhaite principalement encourager l'utilisation et l'amélioration de ses ressources électroniques dans l'intérêt de l'enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d'analyse du droit.</p>
+                  >Pas d’Utilisation Commerciale</hi> — Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant. 
+                  <lb/>Le Centre de théorie et d’analyse du droit souhaite principalement encourager l’utilisation et l’amélioration de ses ressources électroniques dans l’intérêt de l’enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d’analyse du droit.</p>
                <p><hi rend="italic"
-                     >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l'œuvre originale, vous devez diffuser l'œuvre modifiée dans les même conditions, c'est à dire avec la même licence avec laquelle l'œuvre originale a été diffusée. 
-                  <lb/>Vous n'êtes pas obligé de signaler votre travail auprès du Centre de théorie et d'analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
-                     type="external" target="mailto:contact@desgodets.net"
-                     >contact@desgodets.net</ref>.</p>
+                     >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
+                  <lb/>Vous n’êtes pas obligé de signaler votre travail auprès du Centre de théorie et d’analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
+                     type="external" target="mailto:contact@desgodets.net">contact@desgodets.net</ref>.</p>
                <p><hi rend="italic"
-                  >Pas de restrictions additionnelles</hi> – Vous n'êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l'œuvre dans les conditions décrites par la licence.</p>
-               <p>Le Centre de théorie et d'analyse du droit s'engage à conserver et à toujours offrir publiquement la version la plus à jour de ses ressources électroniques par l'intermédiaire d'une URI pérenne. 
-                  <lb/>Dans l'intérêt de la communauté scientifique, afin de ne pas disperser les contributions et de permettre les meilleures conditions de collaboration scientifique, le Centre de théorie et d'analyse du droit se propose de recueillir et d'intégrer les corrections et contributions qui lui seront soumises (après validation par un comité scientifique), et à référencer leur origine.</p>
-               <p>Vous n'êtes pas dans l'obligation de respecter la licence pour les éléments ou matériel appartenant au domaine public ou dans le cas où l'utilisation que vous souhaitez faire est couverte par une exception.</p>
+                  >Pas de restrictions additionnelles</hi> – Vous n’êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l’œuvre dans les conditions décrites par la licence.</p>
+               <p>Le Centre de théorie et d’analyse du droit s’engage à conserver et à toujours offrir publiquement la version la plus à jour de ses ressources électroniques par l’intermédiaire d’une URI pérenne. 
+                  <lb/>Dans l’intérêt de la communauté scientifique, afin de ne pas disperser les contributions et de permettre les meilleures conditions de collaboration scientifique, le Centre de théorie et d’analyse du droit se propose de recueillir et d’intégrer les corrections et contributions qui lui seront soumises (après validation par un comité scientifique), et à référencer leur origine.</p>
+               <p>Vous n’êtes pas dans l’obligation de respecter la licence pour les éléments ou matériel appartenant au domaine public ou dans le cas où l’utilisation que vous souhaitez faire est couverte par une exception.</p>
             </availability>
          </publicationStmt>
          <seriesStmt>
@@ -192,13 +191,13 @@
                         Académie, Recueillie par Jean Pinard, élève et étudiant
                         de laditte académie Royalle d’architecture</title>
                      <note>
-                        <p>Suite du cours d'architecture prononcé par Antoine
-                           Desgodets à l'Académie d'architecture concernant les
+                        <p>Suite du cours d’architecture prononcé par Antoine
+                           Desgodets à l’Académie d’architecture concernant les
                            Ordres. Manuscrit incomplet, divisé en trois
                            sections, la première en cinq chapitres, la deuxième
                            en deux chapitres, les autres chapitres et la
-                           troisième section manquent. Illustrations d'une
-                           grande qualité d'exécution, réhaussées de
+                           troisième section manquent. Illustrations d’une
+                           grande qualité d’exécution, réhaussées de
                            couleurs.</p>
                      </note>
                   </msItemStruct>
@@ -221,7 +220,7 @@
                               planches</num>
                         </extent>
                         <foliation>
-                           <p>folioté à l'encre en haut, au centre des pages,
+                           <p>folioté à l’encre en haut, au centre des pages,
                               pagination inscrite au crayon</p>
                         </foliation>
                      </supportDesc>
@@ -232,10 +231,9 @@
                   <!-- description des mains -->
                   <handDesc>
                      <handNote xml:id="c1hand1" scope="major"
-                        >à l'encre
+                        >à l’encre
                         noire</handNote>
-                     <handNote xml:id="c1hand2" scope="minor"
-                        >au
+                     <handNote xml:id="c1hand2" scope="minor">au
                         crayon</handNote>
                   </handDesc>
                   <bindingDesc>
@@ -244,11 +242,11 @@
                </physDesc>
                <!-- TODO NEW -->
                <history>
-                  <!-- origin l'acte fondateur à l'origine du manuscrit -->
+                  <!-- origin l’acte fondateur à l’origine du manuscrit -->
                   <origin/>
                   <!-- la chaîne de transmission -->
                   <provenance/>
-                  <!-- modalité d'entrée dans les collection -->
+                  <!-- modalité d’entrée dans les collection -->
                   <acquisition/>
                </history>
                <additional>
@@ -257,8 +255,8 @@
                   </surrogates>
                   <listBibl>
                      <bibl>Lunsingh Scheurleer, Theodoor Herman, Een exemplaar
-                        van Antoine Desgodets' "Traité de la commodité de
-                        l'architecture" in het Rijksprentenkabinet, s.l., s.n.,
+                        van Antoine Desgodets’ "Traité de la commodité de
+                        l’architecture" in het Rijksprentenkabinet, s.l., s.n.,
                         1964. p. 285-297, ill.</bibl>
                   </listBibl>
                </additional>
@@ -268,7 +266,7 @@
       <encodingDesc>
          <!-- description du projet éditorial -->
          <projectDesc>
-            <p>L'édition des cours de Desgodets fait partie d'un programme de
+            <p>L’édition des cours de Desgodets fait partie d’un programme de
                recherche sur la formalisation du savoir architectural au XVII<hi
                   rend="superscript">e</hi> siècle.</p>
          </projectDesc>
@@ -281,17 +279,16 @@
                      target="http://theleme.enc.sorbonne.fr/cours/edition_epoque_moderne/edition_des_textes"
                         >Conseils pour l’édition des textes de l’époque moderne
                         (XVI<hi
-                        rend="superscript">e</hi>-XVIII<hi rend="superscript"
-                  >e</hi> siècle)</ref>.</p>
+                        rend="superscript">e</hi>-XVIII<hi rend="superscript">e</hi> siècle)</ref>.</p>
             </correction>
             <hyphenation>
-               <p>Pour les ouvrages imprimés, il n'a pas été tenu compte de
-                  l'hyphénation.</p>
+               <p>Pour les ouvrages imprimés, il n’a pas été tenu compte de
+                  l’hyphénation.</p>
             </hyphenation>
             <interpretation>
-               <p>Les interprétations sont traitées au moyen d'un élément
+               <p>Les interprétations sont traitées au moyen d’un élément
                   supplied ou bien sont renvoyées en notes. Une mention de
-                  responsabilité est fournie grâce à l'attribut resp sur le
+                  responsabilité est fournie grâce à l’attribut resp sur le
                   passage concerné.</p>
             </interpretation>
             <normalization>
@@ -302,11 +299,11 @@
                <p>On utilise...</p>
             </stdVals>
             <quotation>
-               <p>Les citations dans le texte sont encodées soit au moyen d'un
-                  élément quote, soit au moyen d'un élément...</p>
+               <p>Les citations dans le texte sont encodées soit au moyen d’un
+                  élément quote, soit au moyen d’un élément...</p>
             </quotation>
          </editorialDecl>
-         <!-- déclaration concernant la méthode d'établissement du corpus (sélection) -->
+         <!-- déclaration concernant la méthode d’établissement du corpus (sélection) -->
          <refsDecl>
             <p>Description du système de référence canonique. Plus tard on
                fournira peut-être une expression régulière.</p>
@@ -320,11 +317,9 @@
       <profileDesc>
          <creation>Le texte été produit avec le logiciel Oxygen</creation>
          <langUsage>
-            <language ident="fre" usage="99"
-               >Français (langue principale du
+            <language ident="fre" usage="99">Français (langue principale du
                corpus)</language>
-            <language ident="lat" usage="01"
-               >Latin (langue utilisée dans le
+            <language ident="lat" usage="01">Latin (langue utilisée dans le
                corpus)</language>
          </langUsage>
          <textClass>
@@ -356,7 +351,7 @@
          <change when="2013-01-07" who="#EC">sérialisation des
             paragraphes</change>
          <change when="2013-01-06" who="#EC"
-            >augmentation de l'en-tête TEI et
+            >augmentation de l’en-tête TEI et
             structuration du texte</change>
          <change when="2012-09-05" who="#EC">première version du
             fichier</change>
@@ -592,7 +587,7 @@
    </facsimile>
    <text corresp="#c1TextLicence">
       <front xml:id="c1Front">
-         <!-- Revoir l'encodage de ces pages de renseignements bibliographiques -->
+         <!-- Revoir l’encodage de ces pages de renseignements bibliographiques -->
          <div type="unknown" xml:id="c1Front00.00">
             <pb xml:id="c1F00v"/>
             <p>Watermerken</p>
@@ -634,7 +629,7 @@
             <docTitle>
                <titlePart type="main" rend="bigger alignCenter"
                   >Traité de la commodité <lb/>de
-                  l'architecture,</titlePart>
+                  l’architecture,</titlePart>
                <titlePart type="sub" rend="alignCenter"
                   >consernant la distribution et les
                   proportions des édiffices,</titlePart>
@@ -826,8 +821,8 @@
                         mistères, ces édiffices furent nommés église ; du nom des assemblées qui sy
                         tenoient, et le nom d’église est toujours restée depuis anexé à cette sorte
                         d’édiffice, pour les distinguer du temple des juifs, et des temples des
-                        idoles; les grandes églises ont aussi été nommées basiliques, à cause que
-                        les evesques y prechoient et y enseignoient la morale évangelique, parce
+                        idoles ; les grandes églises ont aussi été nommées basiliques, à cause que
+                        les evesques y préchoient et y enseignoient la morale évangelique, parce
                         qu’enciennement on nommoit basilique, les grandes salles des palais, où on
                         rendoient la justice, et où les peuples s’assembloient pour les affaires
                         publiques.</p>
@@ -837,15 +832,15 @@
                         églises, où le saint des saints, le verb incarnée le créateur de la nature,
                         habite réellement, dans la sainte Eucharistie, pour y recevoir l’hommage, et
                         l’adoration, des hommes, leur communiquer ses grâces, et les combler de ses
-                        bienfaits, d’une manière plus particulières, et plus, abondante qu'en aucuns
-                        autre lieux de l'univers,; si Jacob a son reveil de la vision de l’échelle
+                        bienfaits, d’une manière plus particulières, et plus, abondante qu’en aucuns
+                        autre lieux de l’univers ; si Jacob a son réveil de la vision de l’échelle
                         miraculeuse qu’il avoit vû en dormant, dit le seigneur est vrayment en se
                         lieu cy, et je ne le sçavois pas, et dans la frayeur dont il se trouva
                         saisie, il ajouta que ce lieu est terrible, ces véritablement la maison de
                         dieu, et la porte du ciel ; si le prophète David ayant formé le dessein de
                         bastir un temple au seigneur, en fut détourné par l’ordre de dieu, cette
                         honneur ayant étée réservé au roy Salomon, que Dieu donna pour cet effet
-                        d'une très grande sagesse, qu’elle attention ne doit pas avoir l’architecte
+                        d’une très grande sagesse, qu’elle attention ne doit pas avoir l’architecte
                         qui entreprend de faire des desseins et de conduire l’astructure d’une
                         église, qui est véritablement la maison de dieu, pour observer régulièrement
                         tous ce que la bienséance et <pb
@@ -945,7 +940,7 @@
                         qui sont au bas de ces desseins.</p>
                      <p xml:id="c1BodyFr01.01.003.p002"
                         >Cette église de Ste Sabine est fort
-                        ancienne, on ne sçait pas en quel temps, ny par qui elle fut bastie; on
+                        ancienne, on ne sçait pas en quel temps, ny par qui elle fut bastie ; on
                         tient vulgairement que c’estoit un temple de Diane, ce qui est de constant
                         est que dans ce cinquième siècle l’an 425 : sous le pontificat de Célestin
                         premier, le cardinal Pierre de Savonne qui étoit titulaire de cette église
@@ -961,7 +956,7 @@
                         et clos de murs, aux deux bouts de ce portique, on entre dans l’église par
                         trois portes, celle du milieu qui entre dans la nef LL est plus large, et
                         plus hautes que les deux autres ces deux dernières sont égalles, l’une à
-                        l’autre; elles entre directement dans les lattereaux, ou bas costés de
+                        l’autre ; elles entre directement dans les lattereaux, ou bas costés de
                         l’église MM, NN ces lattereaux sont chacuns en droites ligne d’un bout de
                         l’église à l’autre, ils sont aussi terminées en niche, ou cul de fours, vers
                         le chevet, ils sont clos d’un costé par le mur de l’enceinte de l’église, et
@@ -978,16 +973,15 @@
                         <space extent="1" unit="pages"/>
                         <pb xml:id="c1F9r" n="9"/><fw type="foliotation" place="top"
                            >9</fw> est de
-                        75 pieds 6 pouces, qui <add
-                           place="above"
-                        >soit</add> à peu prés la moitié de
+                        75 pieds 6 pouces, qui <add place="above"
+                           >soit</add> à peu prés la moitié de
                         la longeure, non compris les niches du chevet, la nef a 42 pieds 2 pouces de
                         large, entre les colonnes, les lattereaux sont d’inégales largeur, celuy à
                         droitte en entrant a 18 pieds entre les colonnes et le mur, et celuy à
-                        gauche n’a que 15 p. 3 po. ½; les murs de l’enceinte de l’église ont 2 pieds
+                        gauche n’a que 15 p. 3 po. ½ ; les murs de l’enceinte de l’église ont 2 pieds
                         d’épaisseur, et celuy du pignon entre le porticle et la nef 2 pieds 4 po, la
                         largeur de la grande niche du presbitere ou chevet de l’église, est de 33
-                        pi. 9 po. ½; et sa profondeur a 22 pieds 3 po., qui est plus que la moitié
+                        pi. 9 po. ½ ; et sa profondeur a 22 pieds 3 po., qui est plus que la moitié
                         de sa largeur mais les niches qui terminent les lattereaux sont en demy
                         cercle l’un un peu plus large que l’autre, approportion de la différence de
                         la largeur des lattereaux. </p>
@@ -1005,7 +999,7 @@
                         du portique à la nef a neuf pieds huit pouces de large, sur seize pieds huit
                         pouces de haut, et les portes des costés, n’ont chacunes que six pieds trois
                         pouces de large, haute à proportion leurs chambranles et couronnement, sont
-                        de marbre blanc; Les colonnes du dedans de l’église qui soutiennent les murs
+                        de marbre blanc ; Les colonnes du dedans de l’église qui soutiennent les murs
                         des costés de la nef avec leurs bases et chapiteaux sont aussi d’ordre
                         corinthien de marbre blanc ; mais plus petites que celle du portique, elles
                         n’ont que deux pieds de diamettre par le bas et dix neuf pieds neuf pouces
@@ -1021,7 +1015,7 @@
                         >Les murs des costés de la nef portent sur
                         des arcades posées jmmediatement sur les chapiteaux des colonnes, il y a
                         autant de fenestres, ou vitreaux, que d’entrecolonnes, de chaque costé de la
-                        nef; elles sont placées à plomb du milieu des entrecolonnes un peu plus haut
+                        nef ; elles sont placées à plomb du milieu des entrecolonnes un peu plus haut
                         que la moitié de la hauteur des murs, au millieu du pignon de l’entré,
                         séparée en trois par deux pettites colonnes ionique, dont la partie du
                         milieu est plus large et plus haute que les deux autres. Il n’y a point
@@ -1041,11 +1035,11 @@
                         <pb xml:id="c1F11r" n="11"/><fw type="foliotation" place="top"
                            >11</fw> un
                         comble, de prés de huit toises de large, sans être apuyé par des arcs et
-                        pilliers butans; il est vray qu’en Italie la charpente est très légère, mais
+                        pilliers butans ; il est vray qu’en Italie la charpente est très légère, mais
                         la tuille y pèse beaucoup plus qu’en France, on remarque à Rome, que la
                         brique de la façon du pays employé avec du mortier, composée de posolum et
                         de chaux, forme un corps aussi lié et comprimé, que s’il étoit d’une seule
-                        pièce; c’est ce qui fait que les édiffices d’Italie, et particulièrement les
+                        pièce ; c’est ce qui fait que les édiffices d’Italie, et particulièrement les
                         églises, sont d’un caractère beaucoup plus léger, et sont de plus longues
                         durées, que les édiffices de France, quoy que ces derniers soient basties de
                         matière plus solides, et qu’il ayent leurs murs forts épais, cependant en
@@ -1054,7 +1048,7 @@
                         >s’</add>y sert rarement de l’inteaux de bois, pour les
                         portes et les fenestres, et on les fermes par le haut, soit en platte bande
                         ou en cintrées avec des briques, et du mortier, et lorsqu’elles sont en
-                        platte bandes, on y fait un ceintre de brique, par le dessus ; à la plus
+                        platte bandes, on y fait un ceintre de brique, par le dessus ; à la plus
                         grande partie des anciens édiffices, les linteaux des portes en platte
                         bande, sont d’un seul morceau de marbre, qui porte carrement par les bouts,
                         sur les piédroits, de même aux colonnades, et portiques, les architraves des
@@ -1133,15 +1127,15 @@
                   <div xml:id="c1BodyFr01.01.006" type="section" n="6">
                      <p xml:id="c1BodyFr01.01.006.p001"
                         >Le plan de l’église de Ste Marie
-                        intrasteueré, c'est-à-dire au-delà du Tibre à Rome, fait le cinquième
+                        intrasteueré, c’est-à-dire au-delà du Tibre à Rome, fait le cinquième
                         dessein du premier chapitre, ce dessein, et les deux autres qui suivent,
                         sont représentés telle qu’est cette église à présent, qui paroist être comme
                         elle étoit anciennement, à la réserve ainsy qu’il a été remarqué sur les
                         desseins de l’église de Sainte Sabine de l’autel A du sanctuaire E du trône
                         B des bancs du presbitère CD du cœur F.F.K. ou les chantres étoient placées,
-                        dans les deux bouts des costes; et la partie K au milieu au devant du
+                        dans les deux bouts des costes ; et la partie K au milieu au devant du
                         sanctuère restoit vuide pour ne point cacher l’autel, les deux lutrins GH
-                        pour l’évangille, et l'épitre, aux deux costes de l’entrée de cœur et de la
+                        pour l’évangille, et l’épitre, aux deux costes de l’entrée de cœur et de la
                         tribune I vers le haut de la nef pour les instructions, et la lecture de
                         propheties. Lesquels sont tous placées suivant l’ancien usage, et non comme
                         ils sont à présent.</p>
@@ -1179,7 +1173,7 @@
                      <p xml:id="c1BodyFr01.01.006.p005"
                         >Le portique qui a quatre vingt un pieds sept
                         pouces, de longeur, dans oeuvre occupe toute la face de l’église ; sa
-                        largeur est de 23 pi ½ entre les colonnes, et le mur du pignon de l’église;
+                        largeur est de 23 pi ½ entre les colonnes, et le mur du pignon de l’église ;
                         sa face est soutenu par quatre colonnes de front terminée à chaque bout par
                         un pilastre à autre. Les entrecolonnements de ce portique sont differens
                         entr’eux, celuy du milieu a 12 pi 6 pouces, ceux de chaque costé ensuitte
@@ -1188,15 +1182,15 @@
                         des portes, qui entre du portique aux lattereaux, la porte du milieu qui
                         entre dans la nef de l’église, à neuf pieds de large, les deux ont chacunes
                         6 pi 1/3 de large, qui est environ les deux tiers de la largeur de la porte
-                        du milieu; la nef a 39 pieds 2 pouces de large, entre les colonnes; et les
+                        du milieu ; la nef a 39 pieds 2 pouces de large, entre les colonnes ; et les
                         bas costés ont chacune environ la moitié de la largeur de la nef, entre les
-                        colonnes et les murs; la longeur de la nef est de 119 pieds ½ le cœur qui
+                        colonnes et les murs ; la longeur de la nef est de 119 pieds ½ le cœur qui
                         est au delà contient toute la largeur de la nef, et des bas costés ensemble,
                         et il y a 27 pieds de profondeur, entre les colonnes qui le sépare de la
                         nef, et le mur du pignon du chevet, la niche du presbitère ou chevet de
                         l’église, a trente pieds de largeur, sur 15 pieds de profondeur, en sorte
-                        que son plan est un demy cercle parfait, toute la longeur de cette église ;
-                        entre les deux pignons, n’ont compris le presbitere, est de 149 pieds ½ ;
+                        que son plan est un demy cercle parfait, toute la longeur de cette église ;
+                        entre les deux pignons, n’ont compris le presbitere, est de 149 pieds ½ ;
                         qui est à peu de chose prés le double de sa largeur, compris la nef, et les
                         bas costés.</p>
                      <space extent="10" unit="lines"/>
@@ -1211,11 +1205,11 @@
                         ces colonnes d’ordre ionique, qui forment douze entrecolonnements égaux,
                         terminées par deux pilastres sans bases, qui ont des chapiteaux corinthien,
                         ces colonnes et pilastres, soutiennent un entablement, dont le profil sera
-                        représenté plus en grand sur le septième dessein cy après; cet entablement
+                        représenté plus en grand sur le septième dessein cy après ; cet entablement
                         est composé d’une architrave, une frise et une corniche, qui a des mutules
                         d’un goût particulier, un mur de brique est élevé fort haut, au dessus de
                         cet entablement, et le mur est terminée d’une autre corniche par le haut,
-                        qui porte le plafond sous le toit de la nef; il y a douze vitreaux ou
+                        qui porte le plafond sous le toit de la nef ; il y a douze vitreaux ou
                         fenestres de chaque costée qui répondent au milieu des douze
                         entrecolonnements.</p>
                      <p xml:id="c1BodyFr01.01.007.p002"
@@ -1308,7 +1302,7 @@
                         de cimaise, la frise est unie et à plomb de la face de l’architrave, la
                         corniche seroit d’assez bon goût, si ces mutules étoient d’une autre forme
                         ils paroissent être faits de plusieurs morceaux, d’une autre distance en
-                        distance, ayant de grand espaces lissent entre deux; ils sont chacuns d’une
+                        distance, ayant de grand espaces lissent entre deux ; ils sont chacuns d’une
                         bande quarré par le bas, couronné de filet, un ove, une autre bande audessus
                         garny de deux modillons qui contiennent avec l’espaces entre deux, la
                         largeur de mutule, dont un larmier, un talon, et son filet, au dessus en
@@ -1347,26 +1341,26 @@
                            >La seconde remarques est leurs
                         distributions, selon l’ancienne pratique de l’église. 1° le vestibule,
                         porche ou portique, en dehors au devant de l’église, où se tenoient les
-                        penitens publique ; et les cahtecumennes auxquels l’entrée de l’église
-                        n’étoit pas permise; 2° la nef avec ses latteraux, où les hommes étoient
-                        placées à droitte, et les femmes à gauche; laissant entre deux un chemin
+                        penitens publique ; et les cahtecumennes auxquels l’entrée de l’église
+                        n’étoit pas permise ; 2° la nef avec ses latteraux, où les hommes étoient
+                        placées à droitte, et les femmes à gauche ; laissant entre deux un chemin
                         libre au milieu de la nef, pour aller au cœur, où les chantres étoient
-                        placées avec ordre des deux costés; 3° il n’y avoit point de chapelle
-                        particulière, le maître autel étoit unique; et isolée, élevé sur un marche
+                        placées avec ordre des deux costés ; 3° il n’y avoit point de chapelle
+                        particulière, le maître autel étoit unique ; et isolée, élevé sur un marche
                         pied d’un ou deux degrées placé au milieu du sanctuaire, qui étoit séparé du
                         cœur par une balustrade, les lutrins pour la lecture de l’évangile, et de
                         l’epitre étoient à l’entrée du cœur, hors l’enceinte du sanctuaire, celuy de
                         l’évangile à la droite de l’autel, et à la gauche du célébrant, et celuy de
                         l’epitre de l’autre costé, ils étoient placées sur de petites strades, de la
                         hauteur d’une marche, pour élever le lecteur, au dessus des autres, et par
-                        là; mettre sa voix plus à portée, d’être entendu de toute l’assemblée; ces
+                        là ; mettre sa voix plus à portée, d’être entendu de toute l’assemblée ; ces
                         par ces même raisons que l’autel étoit élevée par un marche pied d’un ou
                         deux dégrées, au dessus du planum du sanctuaire, lequel planum étoit élevé
                         plus que le cœur, aussi d’un ou deux dégrées, et le cœur d’un dégrée plus
                         haut que la nef, pour mettre le célébrant en spectacle à tous le peuple, qui
                         étoit dans l’église, c’est aussi ce qui autorise un second dégré au
                         marchepied de l’autel, afin quand le célébrant est accompagnée d’un diacre,
-                        et un soudiacre, le soudiacre est sur le planum; le diacre sur la première
+                        et un soudiacre, le soudiacre est sur le planum ; le diacre sur la première
                         marche, et le célébrant sur la seconde du marchepied, étant ainsi élevé l’un
                         plus que l’autre, ils sont tous trois vües de ceux qui sont derrière eux
                         dans le cœur <pb
@@ -1415,7 +1409,7 @@
                         environ le commençement du seizième siècle, cette usage est absolument
                         changé, principalement en France. Plusieurs graves autheurs ecclesiastique,
                         ayant fait connoître que l’on peut offrir à Dieu ses prières publique, et le
-                        divin sacrifice de la Messe, de tous les costés du monde, c'est-à-dire de
+                        divin sacrifice de la Messe, de tous les costés du monde, c’est-à-dire de
                         quelque côté que les églises, et les autels soient tournées: par la raison
                         que Dieu <pb
                            xml:id="c1F20r" n="20"/><fw type="foliotation" place="top"
@@ -1440,10 +1434,10 @@
                         de bois, à l’imitation de celle où notre seigneur Jésus Christ, institua et
                         célébra la première fois le saint sacrifice de son corps, et de son sang,
                         laquelle vray semblablement étoit de bois, et la même ou il avoit soupé avec
-                        ses apostres; Leurs premiers disciples qui furent appellées au sacerdoce, ne
+                        ses apostres ; Leurs premiers disciples qui furent appellées au sacerdoce, ne
                         se servirent point d’autres autels, que des tables de bois, qu’ils placoient
                         selon qu’ils pouroient aux lieux, où ils célébroient le Saint Sacrifice de
-                        la messe; on fit ensuitte ses tables de pierre, de marbre, de porphire, de
+                        la messe ; on fit ensuitte ses tables de pierre, de marbre, de porphire, de
                         bronze, d’or, d’argent ; mais l’usage est restées de célébrer la messe, sur
                         des tables de pierre, soit marbre, porphire, ou autres, et lorsque les
                         autels sont de bois ou de metail, on y encastre au milieu par le dessus une
@@ -1457,8 +1451,8 @@
                         >Pendant les persecution de l’église, comme
                         il n’y avoit pas eu de sûreté à dire la messe dans les lieux qui servoient
                         ordinairement d’église, les chrétiens s’assembloient, comme ils pouvoient
-                        pour l’exercice de leur religion; s’étoit pour l’ordinaire dans des
-                        cavernes, carrières, ou grottes, souterraines; ils y enterrèrent aussi les
+                        pour l’exercice de leur religion ; s’étoit pour l’ordinaire dans des
+                        cavernes, carrières, ou grottes, souterraines ; ils y enterrèrent aussi les
                         corps, de ceux qui avoient étées martirisées, et souffert la mort pour la
                         confession de la foy, ce qui a donnée ce nom de catacombes à ses lieux
                         souterains.</p>
@@ -1490,11 +1484,11 @@
                         mettre sur L’autel, que ce qui regardoient le sacrifice, pas même les
                         reliques des saints, puisqu’ils étoient placées dessous, il y avoit un peu
                         éloigné aux costés de l’autel de petites tables ou credances marqués D aux
-                        figures 1.2.3.5 et 7; sur lesquelles on mettoit tous ce qui étoit nécessaire
+                        figures 1.2.3.5 et 7 ; sur lesquelles on mettoit tous ce qui étoit nécessaire
                         à la cérémonie de la messe, en sorte que suivant cette ancienne tradition,
                         il ne convient pas d’élever des gradins sur les autels, pour y mettre des
                         vases, des fleurs ou autres bijoux, qui attirent la veües des fidelles, et
-                        les distrait de l’attention, qu’ils doivent avoir au sacrifice ; l’autel
+                        les distrait de l’attention, qu’ils doivent avoir au sacrifice ; l’autel
                            demeuroit <gap
                            extent="1" unit="words" reason="binding"
                         /> hors le temps
@@ -1562,14 +1556,14 @@
                         >Anciennement on reservoit la sainte
                         eucharistie pour les malades dans des boëtes, ou vases que l’on a depuis
                         nommé ciboire, comme on fait encore à présent, on enfermoit ses vases dans
-                        des armoires creusées dans les murs de l’église, à costé du sanctuaire; où
+                        des armoires creusées dans les murs de l’église, à costé du sanctuaire ; où
                         on les portoient dans la sacristie, pour y être conservé, avec plus de
                         sûreté, lorsque la liberté de la religion chrétienne fut établie, on
                         suspendit ses vases ou étoit l’eucharistie au dessus de l’autel, sous le
                         petit pavillon K d’étoffe prétieuse, enrichie de broderie, qui les
                         couvroient presque de toutes parts, ces vases étoient enfermés dans de
                         petits tabernacles, fait de différentes formes, il y en avoit en manières de
-                        tour d’Ivoire, d’argent, ou d’or L comme 2, 3 et 4 figures; d’autres qui
+                        tour d’Ivoire, d’argent, ou d’or L comme 2, 3 et 4 figures ; d’autres qui
                         étoient la forme la plus ordinaire, représentoient une colombe M aux 6 et 7
                         figures, dont le corps s’ouvroit pour y enfermer le ciboire où étoit
                         l’eucharistie, ses petits tabernacles, étoient suspendües avec des chaines
@@ -1578,7 +1572,7 @@
                         pour descendre le tabernacle sur l’autel, et le remonter ensuitte à une
                         hauteur assez élevé, pour qu’on y put toucher, ses chaînes, ou cordons
                         étoient arrestés par le bas dans de petites armoires, qui fermoient à clef,
-                        attachées au derrière de la tige de la crosse; Le tout ensemble se nommoit,
+                        attachées au derrière de la tige de la crosse ; Le tout ensemble se nommoit,
                         et se nomme encore suspension, la crosse étoit le simbole de la houlette du
                         bon pasteur.</p>
                      <p xml:id="c1BodyFr01.01.008.p023"
@@ -1594,7 +1588,7 @@
                         autres de quatre, comme sont ceux que l’on voit à Rome, aux églises de St
                         Jean de Latran, de St Pierre au Vatican, de St Paul, de Ste Marie majeure,
                         de St Laurant, de Ste Cécile au delà du Tibre, de Ste Sabine, de St Alexis,
-                        de St Pancrace, de St Eustache, de St Nercé, de St Achille, et les autres;
+                        de St Pancrace, de St Eustache, de St Nercé, de St Achille, et les autres ;
                         Les ancien appelloient ces sortes de dais un ciborie, parce que les premiers
                         qui furent faits, avoient leurs voûtes élevées en forme d’une coupe
                         renversée, qu’ils nommoient ciboria du nom d’un certain fruit d’Egispte, qui
@@ -1626,7 +1620,7 @@
                            rend="superscript"
                            >e</hi> figure est la moitié de l’élévation extérieur, dont le plan de
                         l’entablement qui pose sur les colonnes, est circulaire, et la coupole au
-                        dessus est sphérique; la 7<hi
+                        dessus est sphérique ; la 7<hi
                            rend="superscript"
                         >e</hi> figure est la moitié
                         du profil, ou le plafond P servoit de dais à l’autel, et couvroit le
@@ -1643,13 +1637,13 @@
                         >Le Baptistère étoit ordinairement un</hi> édiffice
                         particulier, proche mais séparée de l’église, on voit à Rome le baptistère
                         de Constantin, qu est à présent une chapelle dédié à St Jean Baptiste, à
-                        costé de l’église de St Jean de Latran; on tient que c’étoit une des salles
+                        costé de l’église de St Jean de Latran ; on tient que c’étoit une des salles
                         du palais de Constatin, joignant son appartement, que cet empereur fit
-                        disposer selon l’ancien usage pour y recevoir le batême; le plan est isi
+                        disposer selon l’ancien usage pour y recevoir le batême ; le plan est isi
                         représentée à la première figure du neufvième dessein, se baptistère est
                         précédée d’un vestibule ou portique A, dont l’entré est soutenue par deux
                         colonnes accompagnés de deux pilastres de chaque costés, sur un même
-                        alignement, qui forment ensemble la façade du portique; de ce vestibule on
+                        alignement, qui forment ensemble la façade du portique ; de ce vestibule on
                         entre par une porte B dans le baptistère C qui est de figure octogone
                         environnée de murs ornées de peinture, huit colonnes D de porphire en ocupe
                         le milieu, elles soutiennent un dôme E, aussi de plan octogone, représentée
@@ -1684,11 +1678,11 @@
                         précédent le baptême, ensuitte ont les faisoient descendre l’uns après
                         l’autre, dans les fonts, où l’evesque les plongeoient trois fois dans l’eau,
                         et à chaque fois il nonmoit une des personnes divine, les bâtisant ainsy par
-                        immersion; depuis ont se contenta d’une grande cuve de marbre, ou de
-                        porphyre, à fleur de terre, comme une begnoire; enfin ont se reduisit à un
+                        immersion ; depuis ont se contenta d’une grande cuve de marbre, ou de
+                        porphyre, à fleur de terre, comme une begnoire ; enfin ont se reduisit à un
                         bassion élevée de terre, comme sont aujourd’huy les fonts baptismeaux où le
                         baptême se fait par infusion, En versant trois fois un forme de croix, l’eau
-                        sur la teste du batisée, et prononçant les mêmes paroles; mais les
+                        sur la teste du batisée, et prononçant les mêmes paroles ; mais les
                         baptistères ont toujours étées et ils doivent être un lieu séparé, joignant
                         l’église, ayant leurs entrées en dehors, par le dessous du porche, ou
                         portique, et une autre porte pour introduire les nouveaux batisées, dans
@@ -1703,10 +1697,10 @@
                         portique, aux endroits les moins incommode, hors des passages, ayant leurs
                         entrées par le dedans de l’église, pour la commodité des officiers destinées
                         pour sonner les cloches, et des sacristains qui sont chargés de les avertir,
-                        des temps où ils doivent sonner; Lorsque les clochers sont de charpente,
+                        des temps où ils doivent sonner ; Lorsque les clochers sont de charpente,
                         faits en manières d’eguilles, ont les a souvent mis vers le milieu du dessus
                         de l’église, répondant vis-à-vis le dehors de la porte du cœur, pour faire
-                        un ornement au dessus du comble de l’église, et y tenir lieu de dôme; mais
+                        un ornement au dessus du comble de l’église, et y tenir lieu de dôme ; mais
                         ils y sont très mal placées, tant pour l’incommoditée du peuple, qui est
                         dans l’église, que les sonneurs embarrassent, que pour la solidité de leur
                         construction, cela a pût s’introduire par les églises des villages, où il y
@@ -1744,11 +1738,11 @@
                         >La religion chrétienne étant devenüe la</hi> religion
                         dominante , les royaumes et les empires entiers ayant embrasséz la foy, une
                         seule église en chaque ville, ne fut plus suffisante, pour contenir tous le
-                        peuple ; ont fut obligée de bastir d’autres églises, dans les differens
+                        peuple ; ont fut obligée de bastir d’autres églises, dans les differens
                         quartiers des villes, et d’y établir des prestres, pour y célébrer l’office
                         divin, afin que chacuns des fidelles, pût assister commodement aux divins
                         mistères, et aux Instructions de la religion. Entretenant par ce moyen
-                        l’union, et l’uniformité entre tous les chrétiens, ses églises quartinière ;
+                        l’union, et l’uniformité entre tous les chrétiens, ses églises quartinière ;
                         furent nommées paroisses, et on nomma curé le principal prestre, que
                         l’evesque avoit chargée d’y faire les fonctions de pasteur à sa place.</p>
                      <p xml:id="c1BodyFr01.02.001.p002"
@@ -1756,7 +1750,7 @@
                         édiffices, de ses differentes églises, elles ne pûrent par encore contenir
                         ensemble, tous les fidelles de chaque quartier, Lesquels étant cependant
                         obligées chacuns en particulier d’entendre la messe, au moins tous les
-                        dimanches, et les festes, marqués par l’église ; on juga appropos pour leurs
+                        dimanches, et les festes, marqués par l’église ; on juga appropos pour leurs
                         en faciliter les moyens, que outre les curez qui avoient l’administration
                         des paroisses, les autres prestres, qui étoient établies pour aider les
                         curés dans leurs ministères, diroient aussy tous la messe, chacuns
@@ -1777,26 +1771,26 @@
                         congrégation, devinrent par la suitte des églises publiques.</p>
                      <p xml:id="c1BodyFr01.02.001.p004"
                         >Ensorte qu’à présent, ont distingue de
-                        quatre sortes d’édiffices, d’eglises publiques; Sçavoir les églises
+                        quatre sortes d’édiffices, d’eglises publiques ; Sçavoir les églises
                         cathédrales, qui doivent être grandes, et spacieuses pour contenir en
                         certains jours de l’année, le concours des fidèlles du dioceze. Les églises
-                        paroissiales, proportionnées au nombre des fidelles de la paroisse; Les
-                        églises monacales, et les conventuelles; ces quatre sortes d’églises, ont
+                        paroissiales, proportionnées au nombre des fidelles de la paroisse ; Les
+                        églises monacales, et les conventuelles ; ces quatre sortes d’églises, ont
                         leurs construction et leurs distribution différentes, les unes, des autres,
                         suivant la destination de leurs usages, dont il sera traitté séparément.</p>
                      <p xml:id="c1BodyFr01.02.001.p005"
                         >Ce second chapitre contient les plans,
-                        élévations, coupes, ou profils géométrale, d’une église cathédrale; Le
+                        élévations, coupes, ou profils géométrale, d’une église cathédrale ; Le
                         premier dessein en est le plan du rez de chaussée, en forme de croix à la
                         moderne, D.E.F.G. avec un Dome C au milieu qui sépare le chœur D, la nef E
                         et les croisillons G.F.</p>
                      <p xml:id="c1BodyFr01.02.001.p006"
                            >La nef, et le chœur, sont accompagnées d’un
-                        bout à l'autre, de deux galleries latterales H.I.K.L, de chaque costées,
-                        soutenues par quatre filles de colonnes; au-delà de ses galleries sont des
+                        bout à l’autre, de deux galleries latterales H.I.K.L, de chaque costées,
+                        soutenues par quatre filles de colonnes ; au-delà de ses galleries sont des
                         chapelles M, au nombre de douze de chaque costés, soutenues par des
-                        pilastres, dont les deux dernières N; au bout vers le chevet de l’église,
-                        sont destinées pour des sacristies; ces chapelles à la réservent des
+                        pilastres, dont les deux dernières N ; au bout vers le chevet de l’église,
+                        sont destinées pour des sacristies ; ces chapelles à la réservent des
                         sacristies, sont entièrement ouvertes du costés des lattereaux, close
                         seulement par des grilles de fers, elles sont séparées les unes des autres,
                         par des murs de refands qui servent de butées aux voûtes de la nef, du
@@ -1812,13 +1806,13 @@
                         d’alignement aux filles de colonnes des lattereaux et d’autres pilastres
                         ployés, et enclavés l’uns dans l’autre, saillans sur la nef, le chœur et les
                         croisillons, sous les quatre principaux arcs doubleaux, qui terminent les
-                        grandes voûtes de l’église, du costé du dôme; Le dôme est soutenue par douze
+                        grandes voûtes de l’église, du costé du dôme ; Le dôme est soutenue par douze
                         pillires 1.2.3.4.5 ; grouppées trois, à trois, par des arcades qui
                         remplissent les angles du quarré, et forme par le haut les quatres masifs au
                         derrière des pannaches de la grande voûte en pendentif du milieu.</p>
                      <p xml:id="c1BodyFr01.02.001.p008"
                         >Le rayons visuel des galleries latterales
-                        HI; est conservé d’un bout à l’autre, au travers des arcades des pilliers du
+                        HI ; est conservé d’un bout à l’autre, au travers des arcades des pilliers du
                         dôme.</p>
                      <p xml:id="c1BodyFr01.02.001.p009"
                         >Les deux autres galleries KL, sont terminées
@@ -1829,12 +1823,12 @@
                         et monter au dessus des combles, et aux tours.</p>
                      <p xml:id="c1BodyFr01.02.001.p010"
                         >Le chevet du chœur est terminée en niche,
-                        soutenues en sa circonférence par des pilastres 6; saillans enclavés avec
+                        soutenues en sa circonférence par des pilastres 6 ; saillans enclavés avec
                         les pilastres 7 qui termine les deux files de colonnes des costés du
                         chœur.</p>
                      <p xml:id="c1BodyFr01.02.001.p011"
                         >Le derrière du chevet du choeur est
-                        environnée d’une gallerie circulaire P; à l’enfilade des premières galleries
+                        environnée d’une gallerie circulaire P ; à l’enfilade des premières galleries
                         lattérales HI, les colonnes et pilastres du chevet du chœur servent d’un
                         costé à porter cette gallerie circulaire, et de l’autre costé se sont des
                         pilastres, qui leurs sont opposées, dont les espaces sont séparées en deux
@@ -1851,18 +1845,18 @@
                         dehors, pour entrer dans l’église. L’une du costé du palais episcopal, et
                         l’autre du costé du cloître des chanoines. Les deux autres passages T proche
                         les bouts de la galleries circulaire, servent de vestibules aux sacristies
-                        N; d’un costé de ses vestibules, sont des pissines, et fontaines 10; pour
+                        N ; d’un costé de ses vestibules, sont des pissines, et fontaines 10 ; pour
                         l’usage des sacristies, et pour laver les mains des prestres, avant la
                         célébration du divin sacrifice, et de l’autre costé sont des escaliers pour
                         descendre aux caves sous l’église, et pour monter au dessus des combles, et
                         aux chambres de trésor qui sont au dessus des sacristies, il se trouve des
                         petits cabinets au derrière de ses escaliers pour les besoins des
-                        ecclésiastiques qui sont dans les sacristies;</p>
+                        ecclésiastiques qui sont dans les sacristies ;</p>
                      <p xml:id="c1BodyFr01.02.001.p013"
                         >Le bout du bas de la nef est aussy terminée
                         en demy octogone, comme les croisillons, la grande porte V de sa principalle
-                        entrée de l’église, est au milieu des deux moyennes portes X; qui sont aux
-                        costés, entre directement aux premières galleries latterales H.I; à costé
+                        entrée de l’église, est au milieu des deux moyennes portes X ; qui sont aux
+                        costés, entre directement aux premières galleries latterales H.I ; à costé
                         des passages de ses moyennes portes, sont des escaliers pour monter au
                         dessus de la grande voûte de la nef et à la tribune des orgues, qui est
                         soutenue par les petites colonnes 13 au-dedans de l’entrée de la grande
@@ -1870,13 +1864,13 @@
                      <p xml:id="c1BodyFr01.02.001.p014"
                         >Au devant de ses trois portes, de la
                         principalle entrée de l’église, est un grand portique Y soutenue en sa face
-                        extérieur, par six colonnes Z, de front; ont monte au portique par un grand
+                        extérieur, par six colonnes Z, de front ; ont monte au portique par un grand
                         peron de sept, neuf ou onze marches, de hauteur, suivant la hauteur que l’on
                         veut donner au socle ou soubassement du grand ordre extérieur de l’église,
                         il y a de pareille peron, mais plus petits, pour monter aux autres portes,
                         des différentes entrées de l’église. l’entrecolonnement 14 ; du milieu du
                         portique, est plus grand que les autres, qui sont tous égaux entre eux, le
-                        milieu des entrecolonnes Z, des extrémités, sont d'enfilade du milieu des
+                        milieu des entrecolonnes Z, des extrémités, sont d’enfilade du milieu des
                         premières galleries HI.</p>
                      <pb xml:id="c1F28r" n="28"/>
                      <fw type="foliotation" place="top">28</fw>
@@ -1897,7 +1891,7 @@
                         premier est que la closture des stales chacheroit l’autel au peuple, qui
                         seroit dans la partie inférieur de l’église, et l’empêcheroit de voir, et
                         entendre le célébrant, et de le suivra aux différents temps de la
-                        célébration, et des cérémonies du sacrifice de la messe; le second est que
+                        célébration, et des cérémonies du sacrifice de la messe ; le second est que
                         le peuple ne pouvant entendre le chant des chantres du chœur, que par
                         reflections indirectes, et derangées par les différentes hauteurs des voûtes
                         du chœur, et des latereaux qui forme differens sons, le chant du peuple
@@ -1917,7 +1911,7 @@
                         entreroit directement jusqu’au sanctuaire, incommoderoit le célébrant et
                         pouroit déranger ce qui seroit sur l’autel, et souffler les cierges qui
                         l’environne. Ces pourquoy il est appropos de mettre de grandes chapelles en
-                        face au milieu des bouts des croisillons, comme sont les chapelles F.G; et y
+                        face au milieu des bouts des croisillons, comme sont les chapelles F.G ; et y
                         faire seulement de moyennes portes 15 dans les pans coupées par des passages
                         obliques qui détourne les vents.</p>
                      <pb xml:id="c1F29v" n="29v"/>
@@ -1926,8 +1920,8 @@
                         cette église, est environ le double de sa largeur, ayant determinée la
                         grandeur de son emplacement, dont la longeur est supposé de quatre vingt
                         quatre toises, depuis le devant A des marches du peron du portique, Jusqu’au
-                        dehors B; de la grande chapelle du chevet, elle pourroit neantmoins être
-                        plus ou moins grande; on divisera cette longeur AB, en vingt espaces, ou
+                        dehors B ; de la grande chapelle du chevet, elle pourroit neantmoins être
+                        plus ou moins grande ; on divisera cette longeur AB, en vingt espaces, ou
                         parties égalles, on en prendra deux, pour la largeur de la nef E, ou du
                         chœur D et une pour la largeur de chacunes des galleries latterales, HI, KL,
                         et des chapelles M., compris la grosseur des colonnes, et des pilastres. Ce
@@ -1936,7 +1930,7 @@
                      <p xml:id="c1BodyFr01.02.001.p019"
                         >Les croisillons FG, auront leurs largeures
                         égalles à celles de la nef et les chapelles étant quarrées, auront chacunes
-                        une espace de largeur, du milieu d’un pilastre à l’autre; lesquelles étant
+                        une espace de largeur, du milieu d’un pilastre à l’autre ; lesquelles étant
                         au nombre de six de chaque costés des croisillons, compris les sacristies,
                         feront ensemble quatorze espaces pour la longeur du rectangle du corps de
                         l’église.</p>
@@ -1947,10 +1941,10 @@
                         du dedans de l’église, on alongera les deux croisillons, et le bas de la
                         nef, chacun d’un demy espace et on y tracera des lignes parallèles aux
                         autres, ont prendra sur ces lignes la largeur d’un espace dans le milieu de
-                        la nef, et de chaque croisllons V pour marquer les centres des pilastres N;
+                        la nef, et de chaque croisllons V pour marquer les centres des pilastres N ;
                         qui accompagne la porte V de la principalle entrée au-dedans de l’église, et
                         les deux grandes chapelles F.G, laissant un demy espace de chaque
-                        costés;</p>
+                        costés ;</p>
                      <p xml:id="c1BodyFr01.02.001.p021"
                            >On divisera un de ses espaces en cinq
                         parties, dont on en prendra une pour faire le diamètre de la grosseur des
@@ -1962,20 +1956,20 @@
                            xml:id="c1F30r" n="30"/><fw type="foliotation" place="top"
                         >30</fw> œuvre, entre les colonnes, ou les
                         pilastres, et les entre colonnements sur la longeur, seront aussi de quatre
-                        diamètres de colonne;</p>
+                        diamètres de colonne ;</p>
                      <p xml:id="c1BodyFr01.02.001.p022"
                         >On donnera aux murs de faces extérieurs des
                         flancs de l’église, un diamètre de colonne, au-delà des centres des
-                        pilastres du fond des chapelles, ainsi l'épaisseur entière de ses murs sera
+                        pilastres du fond des chapelles, ainsi l’épaisseur entière de ses murs sera
                         d’un diamètre et demy, au droit du parment des faces des pilastre intérieurs
                         et extérieurs, tant au droit des chapelles latterales, qu’aux avants corps
-                        des bouts des croisillons; suivant toutes ses mesures la largeur de l’église
+                        des bouts des croisillons ; suivant toutes ses mesures la largeur de l’église
                         de dehors en dehors, au nud des pilastres extérieur au droit des chapelles
                         latterales aura 42 diamètres de colonnes de l’ordre de dedans, et au droit
                         des avant corps des bouts des croisillons aussi de dehors en dehors 47
                         diamètres, la largeur de ses avants corps sera dix diamètres, du milieu de
-                        l’un des pilastres angulaires 15; au milieu de l’autre pilastre angulaire
-                        17; et toute la longeur de la face extérieur des flancs de l’église, depuis
+                        l’un des pilastres angulaires 15 ; au milieu de l’autre pilastre angulaire
+                        17 ; et toute la longeur de la face extérieur des flancs de l’église, depuis
                         le milieu du pilastre angulaire 18, vers le portail jusqu’au milieu de
                         l’autre pilastre angulaire 19 vers le chevet aura 70 diamètres des colonnes
                         du dedans de l’église.</p>
@@ -1983,25 +1977,25 @@
                         >On formera les pilastres 11.12, ployés en
                         angle octogone des bouts des croisillons et du bas de la nef, suivant la
                         proportion marqué, au second dessein du cinquième chapitre, de la seconde
-                        partie du traité des ordres d’architecture, c'est-à-dire qu’ayant divisée le
+                        partie du traité des ordres d’architecture, c’est-à-dire qu’ayant divisée le
                         diamètre des pilastres en 7 parties, on en donnera 4 à chaque demy face
                         ployées.</p>
                      <p xml:id="c1BodyFr01.02.001.p024"
                            >Les huits pilastres ployés aux angles de
                         l’octogone du dôme, seront dans la même proportion, et la largeur des demy
-                        faces de la saillie des pilastres enclavés 1.2.3.4; qui porte les quatre
+                        faces de la saillie des pilastres enclavés 1.2.3.4 ; qui porte les quatre
                         grands arcs doubleaux, qui soutiennent le dôme, et regarde la nef, les
                         croisillons, et le chœur, aura deux tiers de diamètre, les demy faces des
                         autres pilastres joignant en retour au bout des files de colonnes, des
                         costés de la nef et du chœur, et de ceux des croisillons qui leur font
-                        cimetrie, auront de même deux tiers de diamètre; les autres pilastres 6.7.
+                        cimetrie, auront de même deux tiers de diamètre ; les autres pilastres 6.7.
                         enclavés vers le chevet du chœur, seront dans la même proportion tant du
                         costé de la face déclaré doubleau de l’abside que par le costé de la
-                        gallerie circulaire P; comme aussi les autres pilastres 8.9. enclavées <pb
+                        gallerie circulaire P ; comme aussi les autres pilastres 8.9. enclavées <pb
                            xml:id="c1F30v" n="30v"
                         /> de l’autre costé des entrées des bouts de la
                         même gallerie circulaire en sorte que la largeur dans œuvre de la gallerie
-                        circulaire P sera de cinq diamètre un tiers;</p>
+                        circulaire P sera de cinq diamètre un tiers ;</p>
                      <p xml:id="c1BodyFr01.02.001.p025"
                         >La circonférence de la niche du chevet du
                         chœur, est en demy ovale, dont le trait sera expliqué cy après, au troisième
@@ -2010,8 +2004,8 @@
                         >La longeur et la largeur dans oeuuvre de la
                         grande chapelle R du fond du chevet de l’église, est de huit diamètre de
                         colonne au droit du nud de la face des pilastres, la profondeur des quatres
-                        chapelles R;et des passages S; au pourtour extérieur de la gallerie
-                        circulaire, est égalle à la profondeur des chapelles latérales M; la largeur
+                        chapelles R ; et des passages S ; au pourtour extérieur de la gallerie
+                        circulaire, est égalle à la profondeur des chapelles latérales M ; la largeur
                         de ses chapelles, et passages, est aussi égale aux autres, au droit de la
                         circonférence de leur murs de face extérieur, mais elles sont moins larges à
                         leurs entrées suivant la largeur de la distribution des entrepilastres de la
@@ -2019,12 +2013,12 @@
                         la chapelle Q ont la même épaisseur que les murs de faces des flancs de
                         l’église.</p>
                      <p xml:id="c1BodyFr01.02.001.p027"
-                        >Les chapelles O; sous les tours aux costées
+                        >Les chapelles O ; sous les tours aux costées
                         du portique ont les mêmes proportions que les chapelles M des flancs, elles
                         sont moins grandes à l’intérieur, parce que leurs murs sont plus épais pour
                         pouvoir soutenir la pésanteur des tours. Le milieu de leurs pilastres
                         d’encogneure extérieur 23 est dans l’alignement des centres des pilastres du
-                        dedans de l’église qui sépare les galleries latterales KL; des chapelles M
+                        dedans de l’église qui sépare les galleries latterales KL ; des chapelles M
                         en sorte que la saillie du pilastre 23 au-delà du pilastre 19 est égalle à
                         celle du pilastre 19 au dela du pilastre 23.</p>
                      <p xml:id="c1BodyFr01.02.001.p028"
@@ -2041,12 +2035,12 @@
                         pose immeditament sur le pavé qui est au même niveau et de plein pied au
                         pavée de l’église.</p>
                      <p xml:id="c1BodyFr01.02.001.p029"
-                        >L’entrecolonnement 14; du milieu de la face
+                        >L’entrecolonnement 14 ; du milieu de la face
                         du portique, est dans la proportion des entrecolonnements du dedans de
-                        l’église; c'est-à-dire que leurs distances du centre d’une colonne à
+                        l’église ; c’est-à-dire que leurs distances du centre d’une colonne à
                         l’autre, est égale, mais les autres entrecolonnements du portique sont plus
                         serrées, ils sont égaux entr’eux, tant par la face que par les flancs, la
-                        grandeur de leurs espaces est déterminées par les entrecolonnements Z; des
+                        grandeur de leurs espaces est déterminées par les entrecolonnements Z ; des
                         extrémités du portique, dont le milieu est directement d’enfilade à la ligne
                         du milieu des premières galleries latterales HI.</p>
                      <p xml:id="c1BodyFr01.02.001.p030"
@@ -2054,13 +2048,13 @@
                         extérieurs 21.22 de la chapelle Q au-delà du mur de face circulaire du
                         dehors des chapelles R, est égalle à la saillie du retour 18 20 du dehors
                         des murs des faces des sacristies N. de plus l’angle saillant du pilastre
-                        18; jusqu’à l’angle rentrant 20 du même mur circulaire du dehors des
+                        18 ; jusqu’à l’angle rentrant 20 du même mur circulaire du dehors des
                         chapelles R.</p>
                      <p xml:id="c1BodyFr01.02.001.p031"
                         >Les colonnes du baldaquin du sanctuaire du
                         maître autel, et les colonnes 13 qui soutiennent la tribune des orgues ont
                         leurs diamètres, la moitié moins grand que le diamètre des colonnes du
-                        dedans de l’église; les proportions du plan et de l’élévation du baldaquin,
+                        dedans de l’église ; les proportions du plan et de l’élévation du baldaquin,
                         et du maître autel, seront expliquées par des desseins particuliers, plus en
                         grand à la fin de ce chapitre.</p>
                      <space extent="10" unit="pages"/>
@@ -2073,9 +2067,9 @@
                         lieux qui servoient d’église, aux premiers chrétiens donna occasion au temps
                         de la paix, et de la liberté de la religion chrétienne, d’enterrer dans les
                         Eglises, les corps des evesques, et de ceux qui par une distinction
-                        particulière, étoient morts en odeur de saintetés; tous les autres fidelles
+                        particulière, étoient morts en odeur de saintetés ; tous les autres fidelles
                         étant enterrés dans les cimetières, qui sont des espaces de terrein, clos et
-                        benie, destinés pour leurs sepultures; depuis par le respect que l'on doit
+                        benie, destinés pour leurs sepultures ; depuis par le respect que l’on doit
                         aux puissances, Les princes furent aussi enterrées dans les églises, ainsi
                         peu à peu, l’usage est venu d’y enterrer tous ceux qui le requiert, pour se
                         distinguer du commun du peuple, ce qui cause à présent que les églises sont
@@ -2087,7 +2081,7 @@
                         >Il est vray que les églises cathédrales, ne
                         sont pas si exposés à ses incommodités que les églises paroissiales.
                         Cependant pour le peu qu’elles le soient, c’est toujours contre la
-                        bienséance, et la régularité; il seroit bien plus appropos, de faire des
+                        bienséance, et la régularité ; il seroit bien plus appropos, de faire des
                         caves voûtées, dans toutes l’etendüe du dessous de l’église pour y enterrer
                         ceux, à qui cet honneur seroit differée. L’édiffice en seroit plus solide
                         par la liaison que les voûtes des caves, en se contrebuttans l’un l’autre,
@@ -2096,11 +2090,11 @@
                         niveau.</p>
                      <p xml:id="c1BodyFr01.02.002.p003"
                            >Le second dessein des églises cathédrales,
-                        est le plan des murs en fondations, et des caves; le dôme est portée sur les
-                        quatre massifs 1.2.3.4; qui sont joints l’un à l’autre par quatre gros murs
+                        est le plan des murs en fondations, et des caves ; le dôme est portée sur les
+                        quatre massifs 1.2.3.4 ; qui sont joints l’un à l’autre par quatre gros murs
                         5 ; formant ensemble comme au plan du rez de chausséz un quarré à
                         l’extérieur, et un octogone à l’interieur, au-dedans duquel est un autre
-                        enceinte, de moyens murs 6; aussi octogone <pb
+                        enceinte, de moyens murs 6 ; aussi octogone <pb
                            xml:id="c1F32r" n="32"/>
                         <fw type="foliotation" place="top">32</fw>
                         <figure type="plate" copyOf="#c1Pl0011"/>
@@ -2109,34 +2103,34 @@
                         <pb xml:id="c1F33r" n="33"/>
                         <fw type="foliotation" place="top"
                         >33</fw> pour en partager l’etendüe, en
-                        deux caves, celle du milieu c'est octogonalle, sur noyau, et l’autre B; qui
+                        deux caves, celle du milieu c’est octogonalle, sur noyau, et l’autre B ; qui
                         l’environne, est en berceau, dans ces pans de cloître, et d’arrestes au
                         droit des retours des angles de l’octogone.</p>
                      <p xml:id="c1BodyFr01.02.002.p004"
                         >Les murs 7.8.9.10.11.12, qui se continue,
                         d’un bout de l’église à l’autre, soutiennent les files des colonnes, et de
-                        pilastres qui séparent la nef E, le chœur D; et les chapelles M des
-                        galleries latterales HIKL, de même les murs circulaires 14.15; soutiennent
+                        pilastres qui séparent la nef E, le chœur D ; et les chapelles M des
+                        galleries latterales HIKL, de même les murs circulaires 14.15 ; soutiennent
                         les colonnes de la niche, ou cul de four, qui termine le chœur, et les
                         pilastres qui séparent la gallerie circulaire P, des chapelles, et passages,
-                        Q.R.S; du chevet de l’église. Les murs 16; soutiennent les croisillons F.G,
-                        aux costéz du dôme. Le mur circulaire 17; soutient les colonnes du baldaquin
-                        du maître autel;. Les massifs 18;, porte le mur de face de la principalle
+                        Q.R.S ; du chevet de l’église. Les murs 16 ; soutiennent les croisillons F.G,
+                        aux costéz du dôme. Le mur circulaire 17 ; soutient les colonnes du baldaquin
+                        du maître autel ;. Les massifs 18 ;, porte le mur de face de la principalle
                         entrée de l’église, et les petits escaliers qui montent à la tribune des
-                        orgues, et au dessus des voûtes de la nef, les voutes 19; souteinnent les
-                        tours, les murs 20.21.22.23.24; qui environnent tous l’édiffice soutiennent
+                        orgues, et au dessus des voûtes de la nef, les voutes 19 ; souteinnent les
+                        tours, les murs 20.21.22.23.24 ; qui environnent tous l’édiffice soutiennent
                         les murs de faces des costés, et du chevet de l’église, au pourtour du
                         dehors des chapelles, et le mur 25 soutient les colonnes de la face du
-                        portique; les caves D.E.F.G, sous le chœur, sous la nef, et sous les
+                        portique ; les caves D.E.F.G, sous le chœur, sous la nef, et sous les
                         croisillons, sont d’arrestes sur des pilliers quarrées, qui en sépare la
-                        largeur en deux. Les caves sous les galleries latterales H.I.KL; sont voûtés
-                        en berceau d’un bout à l’autre; La cave A sous le chevet du chœur, est voûte
+                        largeur en deux. Les caves sous les galleries latterales H.I.KL ; sont voûtés
+                        en berceau d’un bout à l’autre ; La cave A sous le chevet du chœur, est voûte
                         en berceau sphérique, sur noyau, et la cave P sous la gallerie circulaire au
-                        pourtour du chevet du choeur, est aussi voûtée en berceau sphérique; Les
-                        caveaux sous les tours M.R; sous les chapelles, N sous les sacristie; S sous
-                        les passages des entrées du chevet, sont en voûtes de cloître; la cave Q
+                        pourtour du chevet du choeur, est aussi voûtée en berceau sphérique ; Les
+                        caveaux sous les tours M.R ; sous les chapelles, N sous les sacristie ; S sous
+                        les passages des entrées du chevet, sont en voûtes de cloître ; la cave Q
                         sous la grande chapelle du chevet de l’église, est en voûte d’arreste, et de
-                        cloître sur noyau;</p>
+                        cloître sur noyau ;</p>
                      <p xml:id="c1BodyFr01.02.002.p005"
                            >La cave &amp; ; anciennement nommé
                         confession, sous le sanctuaire, et les maître autel est en voûte sphérique,
@@ -2189,38 +2183,38 @@
                         figure du 3<hi
                            rend="superscript"
                         >e</hi> dessein, qui représente le plan
-                        d’une partie du chevet de l’église; où la ligne 6.D.6, passant par les
+                        d’une partie du chevet de l’église ; où la ligne 6.D.6, passant par les
                         centres des pilastres 6 qui soutiennent l’arc doubleau de la face de
-                        l'abside, ou niche en cul de four, qui remine le chœur, est le petit
+                        l’abside, ou niche en cul de four, qui remine le chœur, est le petit
                         diamètre de l’ovale, coupant à angle droit au point D, centre de l’ovale, la
-                        ligne BG; qui traverse par le milieu la longeur de l’église; ayant prolongée
+                        ligne BG ; qui traverse par le milieu la longeur de l’église ; ayant prolongée
                         la ligne D.6. de part, et d’autre, jusqu’aux centre des pilastres 9.
                         opposées de l’autre costé extérieur de la gallerie circulaire P, et mener la
-                        ligne parallèle 9.A.9; au long des flancs au costés des pilastres 6.9.
-                        coupant la ligne B.Q. au point A; qui est le foyer de l’ovale; des centres 9
-                        par le point A on mènera les lignes 9.A.25; et des mêmes centres des
+                        ligne parallèle 9.A.9 ; au long des flancs au costés des pilastres 6.9.
+                        coupant la ligne B.Q. au point A ; qui est le foyer de l’ovale ; des centres 9
+                        par le point A on mènera les lignes 9.A.25 ; et des mêmes centres des
                         pilastres 9 on tracera les portions de cercles 9.25 ; 6.26 ; entre les
-                        lignes 9.D.9 ;9.A.25; ensuitte du foyer A et des intervales A.26 ; A.25 ; on
-                        tracera les autres portions de cercles, 25.27;23.26;11.12 ; qui formeront
+                        lignes 9.D.9 ; 9.A.25 ; ensuitte du foyer A et des intervales A.26 ; A.25 ; on
+                        tracera les autres portions de cercles, 25.27 ; 23.26 ; 11.12 ; qui formeront
                         les demy ovales, 9.25.13.26 ; et 6.26.11.12 ; sur la circonférence desquels,
                         seront les centres des colonnes, du chevet du chœur et des pilastres opposé,
-                        de l’autre costé de la gallerie circulaire P; du même centre A, on tracera
+                        de l’autre costé de la gallerie circulaire P ; du même centre A, on tracera
                         la circonférence du mur de face circulaire 20.21 ; du dehors des chapelles
                         du chevet de l’église.</p>
                      <p xml:id="c1BodyFr01.02.003.p002"
                            >On divisera la circonférence du demy ovale
-                        9.27.9; en 10 parties égalles, aux points 9.13.14.15.16.17 ; de parts et
-                        d’autres du grand diamètre D.27; et du foyer A on mènera des rayons par tous
+                        9.27.9 ; en 10 parties égalles, aux points 9.13.14.15.16.17 ; de parts et
+                        d’autres du grand diamètre D.27 ; et du foyer A on mènera des rayons par tous
                         les points des divisions 13.14.15.16; que l’on prolongera jusqu’à la face du
-                        mur extérieur des chapelles R; et <pb
+                        mur extérieur des chapelles R ; et <pb
                            xml:id="c1F34v" n="34v"
-                        /> passages S;
-                        pour y marquer le milieu des pilastres de dehors 20.17.18.21; les mêmes
+                        /> passages S ;
+                        pour y marquer le milieu des pilastres de dehors 20.17.18.21 ; les mêmes
                         rayons marquèront de deux en deux sur la circonférence de l’ovale nnterieur
                         du chevet du chœur les centres des colonnes 11.12.</p>
                      <p xml:id="c1BodyFr01.02.003.p003"
                         >On remarquera que par une raison d’optique,
-                        les intervales 6.11; sont plus grand que les autres 11.12 ; afin de les
+                        les intervales 6.11 ; sont plus grand que les autres 11.12 ; afin de les
                         faire paroitre à peut prés égaux, Etant regardée du dedans du chœur, et par
                         le costé de la gallerie circulaire, des environs des pilastres 14; qui sont
                         les seules endroits, dont on les peut voir pour les comparer ensemble, parce
@@ -2269,7 +2263,7 @@
                         >Au-dedans de la chapelle Q il n’y a qu’une
                         allette simple entre les tableaux de l’arcade 27; et les pilastres 28; La
                         largeur de l’interval entre ces pilastres 28; et les angles de pilastre 29;
-                        est de la moitié de la largeur de la face d'un pilastre; l'intervalet le
+                        est de la moitié de la largeur de la face d’un pilastre; l’intervalet le
                         pilastre 30 en retour de l’angle sont dans la même proportion. Les pilastres
                         du dedans de la chapelle Q sont aussi d’ordre corinthien, de même grandeur,
                         hauteur, et proportion que ceux de l’ordre du dedans de l’église; les quatre
@@ -2344,19 +2338,19 @@
                         tous les ordres.</p>
                      <p xml:id="c1BodyFr01.02.003.p012"
                         >Supposant que la largeur de la nef soit
-                        toujours de 9 diamètres, c'est-à-dire qu’il y ait 10 diam. du centre d’une
+                        toujours de 9 diamètres, c’est-à-dire qu’il y ait 10 diam. du centre d’une
                         colonne, au centre de la colonne opposé, de l’autre costé de la nef,. Il
                         faut ajouter à la hauteur de la colonne, avec la base et le chapiteau, deux
                         fois la hauteur de l’entablement et la moitié de la largeur, entre le haut
                         des pilastres saillans 6; qui soutiennent l’arc doubleau, pour en avoir
-                        toute la hauteur ; ainsi pour rendre la chose encore plus sensible, il faut
+                        toute la hauteur ; ainsi pour rendre la chose encore plus sensible, il faut
                         additionner les hauteurs de chaque différentes parties de l’ordre, sçavoir 1
                         mod. ½ pour le socle du bas, 20 mod. pour la colonne, ou pilastre, 4 mod.
                         pour l’entablement 2 mod. ½ pour le soubassement, sous la naissance de la
                         voûte; et 7 mod 22 part ½ moitié de la largeur entre le haut des pilasrtres
                         saillans 6; au droit de leur diminution, pour avoir toute la hauteur, sous
                         la clef de l’arc doubleau, qui est en plein ceintre, il viendra au produit
-                        35 mod 22 p. ½ si l’ordre étoit ionique, il viendroit 33 mod. 22 part ½ ; et
+                        35 mod 22 p. ½ si l’ordre étoit ionique, il viendroit 33 mod. 22 part ½ ; et
                         s’il étoit dorique, il viendroit encore deux mod. moins, pour la hauteur
                         sous la clef de l’arc doubleau, parce que la colonne dorique, n’a que 16
                         mod. de hauteur; et la colonne ionique 18 mod; Ce qui suit la proportion des
@@ -2460,7 +2454,7 @@
                         goutières de pierre autant qu’il est possible, ou du moins de plomb, au
                         deffaut de la pierre, pour écouler les eaux directement, sans les faire
                         passer par le dessous d’un toit à l’autre, et faire les gargouilles ou
-                        goutières assez larges et profondes, pour que l'écoulement des fontes de
+                        goutières assez larges et profondes, pour que l’écoulement des fontes de
                         neiges ne surmonte pas les bords, il faut aussi que la disposition des
                         toits, n’empêche pas le jour des vitreaux, qui éclaire les églises.</p>
                      <pb xml:id="c1F39r" n="39"/>
@@ -2579,7 +2573,7 @@
                         le dôme; les grandes voûtes de chœur D; de la nef E; et des croisillons F.G;
                         en sorte que le bas de l’architrave, sous la grande corniche circulaire,
                         étant d’un sixième du diamètre des colonnes, du grand ordre du dedans de
-                        l’église, plus saillant que le bas de l’archivolte du grand arc doubleau ;
+                        l’église, plus saillant que le bas de l’archivolte du grand arc doubleau ;
                         et la face du socle au dessus de la grande corniche circulaire, étant à
                         plomb du bas de son architrave, l’épaisseur des murs du soubassement du
                         dôme, au droit de se socle, à prendre au milieu des quatre faces 10.E,
@@ -2624,7 +2618,7 @@
                      <p xml:id="c1BodyFr01.02.005.p005"
                         >Les pilastres couplées du dehors du dôme, ne
                         doivent avoir de saillies hors le corps du mur, que la sixième partie de la
-                        largeur de la face des pilastres saillans; C'est-à-dire un tiers de mod; la
+                        largeur de la face des pilastres saillans; C’est-à-dire un tiers de mod; la
                         saillie de leurs bases, entablements et autres membres, doit être suivant la
                         proportion de leur ordre; mais les pilastres du dedans, ne doivent avoir de
                         saillie, hors le nud du mur, que la dixième partie de la largeur de leur
@@ -2777,7 +2771,7 @@
                      <p xml:id="c1BodyFr01.02.005.p021"
                         >S’il n’y avoit point d’amortissement au
                         dessus de la coupole, il suffiroit de le faire en hémisphère régulière;
-                        C'est-à-dire parfaitement ronde, elle paroitroit de tous les endroits d’où
+                        C’est-à-dire parfaitement ronde, elle paroitroit de tous les endroits d’où
                         on la pourroit voir, ce qu’elle fairoit en effet, mais le soubassement de
                         l’amortissement qu’il convient de mettre au dessus coupant une partie du
                         sommet de l’emisphère ; feroit paroitre la coupole écrasé, pour suppléer à
@@ -2824,7 +2818,7 @@
                         du bas,en sorte que la hauteur EL; du soubassement est le quart de la
                         hauteur de l’ordre LR. La hauteur RP du socle au dessus de l’entablement de
                         l’ordre de la lenterne; est égalle au tiers de la hauteur EL, du
-                        soubassement. C'est-à-dire que le socle du haut est égalle à la largeur de
+                        soubassement. C’est-à-dire que le socle du haut est égalle à la largeur de
                         la face des pilastres de l’ordre de la lenterne, parce que l’ordre
                         corinthien de la lenterne doit être dans la juste proportion régulière, sans
                         aucuns changements; quoy que les trois autres grands ordres, ayant leurs
@@ -2955,7 +2949,7 @@
                            xml:id="c1F48v" n="48v"
                         /> l’ediffice étant supposé de la grandeur proposé
                         au premier dessein de ce chapitre, la hauteur de la première balustrade aura
-                        la septième partie, de la hauteur du grand ordre ionique, au dessous, n'ont
+                        la septième partie, de la hauteur du grand ordre ionique, au dessous, n’ont
                         compris le socle; du bas de cet ordre; ont prendra de même la septième
                         partie de hauteur du second ordre des tours, sans le socle pour faire la
                         hauteur de la balustrade qui le couronne, et pour faire la hauteur de la
@@ -2991,7 +2985,7 @@
                         pourtour de ce petit dôme, comme il est marqué au quatrième dessein;</p>
                      <p xml:id="c1BodyFr01.02.006.p011"
                         >Les mesures cottés sur le sixième dessein
-                        sont relatif à celle du dessein précédant; c'est-à-dire que 60 de ses
+                        sont relatif à celle du dessein précédant ; c’est-à-dire que 60 de ses
                         parties font la largeur de la face des pilastres du grand ordre ionique;</p>
                      <space extent="1" unit="lines"/>
                   </div>
@@ -2999,44 +2993,44 @@
                   <fw type="foliotation" place="top">49</fw>
                   <div xml:id="c1BodyFr01.02.007" type="section" n="7">
                      <space extent="2" unit="lines"/>
-                     <!-- Relire cette page en la comparaison à l'autre version -->
+                     <!-- Relire cette page en la comparaison à l’autre version -->
                      <p xml:id="c1BodyFr01.02.007.p001">
                         <hi rend="bigger"
-                           >L'usage à Paris est de faire</hi> en charpente le
+                           >L’usage à Paris est de faire</hi> en charpente le
                            <unclear>hors</unclear> des coupoles des églises, beaucoup plus élevées
                         que leur voûte du dedans qui est de maçonnerie, à la différance des dômes
-                        d'Italie, principalement à Rome, où la même voûte du dedans forme aussi la
-                        coupole du dehors, ce qui rend les dômes d'Italie plus légers que ceux de
+                        d’Italie, principalement à Rome, où la même voûte du dedans forme aussi la
+                        coupole du dehors, ce qui rend les dômes d’Italie plus légers que ceux de
                         Paris, ausquels la longueur, la grosseur et la quantité des pièces de bois,
                         qui sont employés à la structure de la charpente des coupoles des dômes, est
                         une sur charge, qui pesent incomparablement plus que la voûte, et oblige à
                         faire les murs et les pilliers qui <sic>portes</sic> le dôme, plus
-                           <sic>masif</sic>, et par conséquent le dedans de l'église moins dégagées,
-                        qu'aux églises, où la voûte de la calotte sert de coupole.</p>
+                           <sic>masif</sic>, et par conséquent le dedans de l’église moins dégagées,
+                        qu’aux églises, où la voûte de la calotte sert de coupole.</p>
                      <p xml:id="c1BodyFr01.02.007.p002"
                            >Cette pratique à Rome, peut provenir de la
                         facilité de construire les voûtes avec de la brique, et du mortier composé
                         de posolane, et de chaux, lequel sailliant avec la brique presque aussitost
-                        qu'il est <sic>employées</sic>, forme de toute la voûte un corps solide,
-                        comme si elle étoit d'une seule pièce, qui a peu de poussée, cependant ont y
-                        pourroit suppléer par l'arc du trait de la coupe des pierres,
+                        qu’il est <sic>employées</sic>, forme de toute la voûte un corps solide,
+                        comme si elle étoit d’une seule pièce, qui a peu de poussée, cependant ont y
+                        pourroit suppléer par l’arc du trait de la coupe des pierres,
                         particulièrement à Paris, en se servant de <sic>blots</sic> de pierre de
                            S<hi
                            rend="superscript"
                            >t</hi> Leu, qui pèse moins que la brique, et que
-                        l'on peut avoir assée <unclear>gros</unclear>, pour faire le parpin de
-                        l'épaisseur de la voûte, faisant parment au dedans de la calotte, et au
+                        l’on peut avoir assée <unclear>gros</unclear>, pour faire le parpin de
+                        l’épaisseur de la voûte, faisant parment au dedans de la calotte, et au
                         dehors de la coupole, <unclear>en</unclear> bien couler, et sêcher les
                         joints avec siment, composé de tuileaux battus bien fin, et de chaux,
-                        couvrant le dessus de la coupole de table de plomb couturé, comme l'on fait
-                        à Rome, on pourroit aussi tenir la poussée, et l'écartement de la voûte, par
+                        couvrant le dessus de la coupole de table de plomb couturé, comme l’on fait
+                        à Rome, on pourroit aussi tenir la poussée, et l’écartement de la voûte, par
                         des chaines en forme de cercle de fer au pourtour, par le dehors, observant
-                        de ne point enfermer le fer, dans l'épaisseur de la voûte, mais l'encastrer
+                        de ne point enfermer le fer, dans l’épaisseur de la voûte, mais l’encastrer
                         seulement de sa grosseur, afin que le fer venant à rouiller, ne fasse point
                         éclater ny fondre la pierre.</p>
                      <p xml:id="c1BodyFr01.02.007.p003"
                            >Le septième dessein est le profil ou coupe
-                        du dôme, et d'une partie de l'église, suivant la ligne qui passe par le
+                        du dôme, et d’une partie de l’église, suivant la ligne qui passe par le
                         milieu de la longueur des croisillons FG ; les pilastres saillans avec leurs
                         arcs doubleaux AB ; ont les mesmes proportions marqués à la seconde fig.<hi
                            rend="superscript"
@@ -3170,7 +3164,7 @@
                         corps de la lenterne; cette saillie se divise en 3 parties, la saillie du
                         petit socle supérieur du soubassement en a 1; les deux autres se partage en
                         4; la saillie du haut de la gorge en a 1; les 3 autres sont pour la saillie
-                        de la gorge, c'est-à-dire du socle inferieur.</p>
+                        de la gorge, c’est-à-dire du socle inferieur.</p>
                      <p xml:id="c1BodyFr01.02.007.p014"
                            >La hauteur LK de l’ordre corinthien du
                         dehors du corps de la lenterne, qui a compris son entablement, quatre fois
@@ -3490,8 +3484,8 @@
                         pourtour du chevet du chœur, monte dans son comble, parce que cette gallerie
                         circulaire est pluss large que les autres galleries latterales de la nef et
                         du choeur. </p>
-                     <p>A la grande chappelle quarr&amp; du chevet de l'église les arcades des
-                        flancs sont feintes, il n'y a que celle de l'entrée par la gallerie
+                     <p>A la grande chappelle quarr&amp; du chevet de l’église les arcades des
+                        flancs sont feintes, il n’y a que celle de l’entrée par la gallerie
                         circulaire, qui soit entièrement ouverte, dans l’autre arcade de la face
                         opposé, est le vitrail qui éclaire cette chapelle, laquelle est encore
                         éclairé par les huit vitreaux de la lenterne, du haut, la voûte de cette
@@ -3575,7 +3569,7 @@
                         doubleau de l’entré du chœur D; les premiers espaces, ou entrecolonnement
                         3.4. joignant ses gros pilliers, sont fermées par des portes, et grilles de
                         fer à jour, les autres espaces 5.6; et ceux qui suivent au derrière des
-                        stales 7.8; sont clos d’un mur revetus d'un lambris à la hauteur du
+                        stales 7.8; sont clos d’un mur revetus d’un lambris à la hauteur du
                         couronnement des stales 9 et le trône de l’evesque, et 10, celuy du roy; les
                         lignes ponctuées 11.H; marque le milieu des grandes arcades des pans
                         octogone du dôme, par lesquelles pase le rayon visüelle, sur la longueur des
@@ -3659,7 +3653,7 @@
                         >Les lutrins 22. 23, pour chanter l’épitre,
                         et l’évangille sont placées aux angles du sanctuaire, à la face vers la nef,
                         isolées des balustrades, et élevés sur de petit marchepied d’un degré, au
-                        dessus des stales. C'est-à-dire de deux degrées au dessus du planum, afin
+                        dessus des stales. C’est-à-dire de deux degrées au dessus du planum, afin
                         que le diacre, et le soudiacre, soit veües et leur voix endendues de tous le
                         peuple; l’espace entre le derrière du lutrins de l’évangille et la
                         balustrade est pour placer le porte croix, au milieu des deux acolites, qui
@@ -3786,7 +3780,7 @@
                         et la hauteur du cordon avec son filet. au dessous est la douzième partie de
                         la hauteur DE; le diamètre LM; du haut du secteur sphéroïde, sous le cordon
                         est les cinq sixième du diamètre DI; du socle du bas de la coupole,
-                        c'est-à-dire qu’ayant divisé le diamètre DI; en 6 part le diamètre LM en a
+                        c’est-à-dire qu’ayant divisé le diamètre DI; en 6 part le diamètre LM en a
                         5 ; la saillie du cordon au-delà du diamètre LM; est de chaque costé égalle
                         à sa hauteur avec son filet <pb
                            xml:id="c1F63v" n="63v"/>
@@ -3807,7 +3801,7 @@
                         partie des grandes arcades, des pans octogonales de la voûte sphérique en
                         pendentif, et de l’archivolte TV; du grand entablement circulaire du dedans
                         de l’église, qui porte le dôme expliqué en la seconde figure, du huitième
-                        dessein de ce chap.auquel l'ont peut avoir recours, étant seulement
+                        dessein de ce chap.auquel l’ont peut avoir recours, étant seulement
                         représenté icy pour faire connoitre la convenance, et les proportions du
                         baldaquin avec le dedans de l’église.</p>
                      <space extent="14" unit="lines"/>
@@ -4022,7 +4016,7 @@
                         >Les stales du clergé, sont aux deux costés,
                         et aux bouts vers l’entré du chœur, l’estrade ou plancher des hautes stales,
                         s’élargit en forme circulaire dans leur angles, proche l’entré, pour y
-                        placer les lutrins 2.3. de l’évangille, et de l'épitre, élevés chacuns sur
+                        placer les lutrins 2.3. de l’évangille, et de l’épitre, élevés chacuns sur
                         un marchepied de deux dégrées, au dessous de ce plancher, pour que le
                         diacre, et le soudiacre soit veü, et entendüe du peuple, et du clergé
                         lorsquils chantent l’épitre et l’évangille.</p>
@@ -4174,7 +4168,7 @@
                         centre du pilastre d’allette 31 enclavé au derrière du dosseret 32.</p>
                      <p xml:id="c1BodyFr01.03.001.p029"
                         >La distance qui est entre les centres des
-                        pilastres 30 et 31 se divise en 10 parties, c'est-à-dire 5 parties de chaque
+                        pilastres 30 et 31 se divise en 10 parties, c’est-à-dire 5 parties de chaque
                         costé de la ligne du milieu de la croisée EF; cette distance étant de
                         soixante diam. chaque partie sera de six diam; ainsy aux pilliers des
                         encogneures de la croisée de l’église, il y aura 12 diamètres du centre du
@@ -4223,7 +4217,7 @@
                         pilastre d’allette d’angle, les murs de refants qui les séparent ont un demy
                         diamètre d’épaisseur, et l’épaisseur des murs de face des flancs de l’église
                         est d’un diamètre et demy, compris les saillies des petits pilastres
-                        d'angles du dedans et des pilastres de l'ordre extérieur n'ayant de saillie
+                        d’angles du dedans et des pilastres de l’ordre extérieur n’ayant de saillie
                         que la sixième partie de la largeur de leurs faces, l’épaisseur du nud des
                         murs de face est un peu plus d’un diamètre de l’ordre du dedans.</p>
                      <p xml:id="c1BodyFr01.03.001.p035"
@@ -4267,7 +4261,7 @@
                         >Le diamètre des colonnes, et pilastres de
                         l’ordre ionique du portique, et des faces extérieures du pourtour de
                         l’église est d’un cinquième en dehors plus grand que le diamètre des
-                        pilastres de l’ordre corinthien intérieur. C'est-à-dire qu’ayant divisé le
+                        pilastres de l’ordre corinthien intérieur. C’est-à-dire qu’ayant divisé le
                         diamètre de l’ordre intérieur en 60 part, le diamètre de l’ordre extérieur
                         en aura 72; ce qui étant constatée toutes les mesures et proportions des
                         parties extérieures de l’église, seront conté suivant le diamètre de l’ordre
@@ -4632,9 +4626,8 @@
                         au dessus des autres pilastres, ou colonnes des costés de la nef, du chœur,
                         et des croisillons. </p>
                      <pb xml:id="c1F78v" n="78v"/>
-                     <p xml:id="c1BodyFr01.03.003.p012">Par la seconde figure du 3<hi
-                           rend="superscript"
-                        >e</hi> dessein des églises paroissiales, qui est la
+                     <p xml:id="c1BodyFr01.03.003.p012">Par la seconde figure du 3<hi rend="superscript"
+                           >e</hi> dessein des églises paroissiales, qui est la
                         coupe, ou profil du travers de l’église sur la ligne NO; au droit du milieu
                         des arcades du chœur, joignant l’abside, on connoitra les proportions
                         expliqué cy dessus, observant que les mesures sont à conter de la ligne
@@ -4866,7 +4859,7 @@
                         qui éclaire les bouts des croisillons.</p>
                      <p xml:id="c1BodyFr01.03.005.p004"
                            >La voûte du milieu entre les quatre arcs
-                        doubleaux de la croisée ; est aincy qu’il a été dit au dessein précédant, en
+                        doubleaux de la croisée ; est aincy qu’il a été dit au dessein précédant, en
                         pendentif sphérique, dont les pannaches sont couronnées par une corniche
                         circulaire, à la hauteur du dessus des archivoltes, <pb
                            xml:id="c1F82v" n="82v"
@@ -4943,7 +4936,7 @@
                         petite coupole, y ayant une porte pour entrer sur le plancher qui est posé
                         sur les tirans du comble du chœur; Ce comble est terminé en croupe
                         circulaire au dessus de l’abside, et il se continue tous droit, et de même
-                        niveau au dessus de la nef, jusqu'au derrière du mur du portail, qui luy
+                        niveau au dessus de la nef, jusqu’au derrière du mur du portail, qui luy
                         sert de pignon, il se raccordent uniformement par quatre noües, en forme de
                         croix, avec les combles des croisillons, ces derniers sont terminées en
                         croupe quarré, au derrière des frontons des grands avants corps des flancs
@@ -4992,7 +4985,7 @@
                         par un piédouche, qui soutient une croix, le diamètre extérieur du corps de
                         cette lenterne, au nud de la face des pilastres qui la décore, est de la
                         moitié de la hauteur depuis le pavé de la chapelle, jusque sous l’architrave
-                        de l’entablement, C'est-à-dire la moitié de la hauteur du pilastre de
+                        de l’entablement, C’est-à-dire la moitié de la hauteur du pilastre de
                         l’ordre corinthien, avec le chapiteau, la base, et le socle au dessous, et
                         le diamètre intérieur de la lenterne, a les trois quarts de son diamètre
                         extérieur, ainsy l’épaisseur du mur circulaire de la lenterne, compris la
@@ -5075,7 +5068,7 @@
                         part et la gorge avec son petit socle 1, qui fait 87 part. elle se partage
                         derechef en 3 le socle en a 1 qui est de 29 p. et les deux autres qui font
                         58 part, sont pour la gorge. Le contour du dessus de la coupole est en
-                        section sphérique concentrique avec la calotte du dedans, c'est-à-dire
+                        section sphérique concentrique avec la calotte du dedans, c’est-à-dire
                         qu’elles sont tracées d’eux même centres.</p>
                      <p xml:id="c1BodyFr01.03.005.p023"
                         >La hauteur de la lenterne, qui est égalle à
@@ -5095,7 +5088,7 @@
                         croix, est égalle à la sixième partie du diam du bas de la coupole de la
                         lenterne, la hauteur de la croix, est égalle à la hauteur de la petitte
                         coupole, qui est de 135 part. et piédouche a le tiers de cet hauteur, qui
-                        fait 45 p. c'est-à-dire égalle au diamètre de son pleinte du bas, et les
+                        fait 45 p. c’est-à-dire égalle au diamètre de son pleinte du bas, et les
                         bras de la croix ont la même largeur de 45 part. de l’extrémités de l’un des
                         bras à l’extrémité de l’autre. </p>
                      <space extent="1" unit="lines"/>
@@ -5154,7 +5147,7 @@
                         caveaux Q, sous les chapelles, ont leurs ouvertures de moyennes grandeur,
                         dans les socles des murs de faces, et ils s’élargissent au-dedans œuvre,
                         pour communiquer l’air dans les autres caves, au travers des portes, et
-                        petites arcades, qui les communique vis-à-vis l'une de l’autre, les voûtes
+                        petites arcades, qui les communique vis-à-vis l’une de l’autre, les voûtes
                         de toutes ses caves sont de niveau, par le haut de leurs ceintres, et leur
                         air du bas, sont aussi de niveau, pour les rendres de même hauteur, il n’y a
                         point de proportion qui en détermine la hauteur, cela depand de la qualité
@@ -5185,7 +5178,7 @@
                         faut observer à ce peron, comme à tous les autres perons, que le nombre des
                         marches soit impaire ; par l’habitude que l’on a de de finir de monter la la
                         dernière marche du haut, du même pied qui à commencé à monter. La première
-                        marche du bas, c'est-à-dire que si on commence à monter du piédroit, on doit
+                        marche du bas, c’est-à-dire que si on commence à monter du piédroit, on doit
                         finir la dernière marche du haut, par le piedroit, et si on finissoit par le
                         pied gauche, on feroit un espèce de faux pas, ce qui se fait sans y panser. </p>
                      <pb xml:id="c1F87r" n="87"/>
@@ -5499,7 +5492,7 @@
                         mains, la suspension qui renferme notre seigneur, dans les espèces
                         eucharistique, exposé à l’adoration, et à la vénération, des fidelles, un
                         groupe de cherubins, accompagne la suspension, pour marquer, que l’amour de
-                        ce divins sauveur, dans l'établissement de ce sacrement, demande une vraye
+                        ce divins sauveur, dans l’établissement de ce sacrement, demande une vraye
                         reconnoissance, de la part des fidelles, pour lesquels il est institué.</p>
                      <p xml:id="c1BodyFr01.03.008.p007"
                            >Le cordon, pour monter et descendre la
@@ -5596,7 +5589,7 @@
                         >Quoi qu’il puisse y avoir des portes pour
                         communiquer au chœur et à la nef, et aux chapelles, son entrée principalle
                         de même que l’entré de la sacristie, doivent être par le dedans, du
-                        monastère et l'entré du peuple par le dehors, vers le bas de la nef, ce qui
+                        monastère et l’entré du peuple par le dehors, vers le bas de la nef, ce qui
                         rend la distribution, des églises monacales, différente de celles des
                         églises paroissialles. </p>
                      <pb xml:id="c1F95v" n="95v"/>
@@ -5862,7 +5855,7 @@
                         paroissiales, de diam. des colonnes du baldaquin du maître autel, et des
                         colonnes du porche du dedans de l’entré de la nef, a la moitié de la
                         largeur, de la face des pilastres ioniques, du dedans de l’église,
-                        c'est-à-dire d’un mod. ces colonnes étant d’ordre corinthien, leurs hauteur
+                        c’est-à-dire d’un mod. ces colonnes étant d’ordre corinthien, leurs hauteur
                         a plus de la moitié de la hauteur, des pilastres du grand ordre, la distance
                         entre les centres des colonnes de la face du baldaquin est de 7 diam. de ses
                         pilastres, et la distances entre les centres, des colonnes, de l’espace du
@@ -5885,7 +5878,7 @@
                      <p xml:id="c1BodyFr01.04.001.p035"
                         >Le portique est composé de 4 colonnes, dont
                         l’intervalle du milieu est double de ceux des costés, à prendre des centres,
-                        des colonnes, l'intervalles entre ces colonnes et les pilastres au derrière,
+                        des colonnes, l’intervalles entre ces colonnes et les pilastres au derrière,
                         sont les mêmes que les intervalles des bouts du portiques, les intervalles
                         des pilastres, aux costés de la demy lune, sont dans la même proportion; les
                         deux joignant le portique étant égaux, à l’intervalle du milieu, et les deux
@@ -6022,7 +6015,7 @@
                         >du mur</del> entre les faces des
                         pilastres interieur et extérieures est de chaque costés la sixième parties
                         du diam. interieur, ainsi le diam extérieur est les trois quarts du diam
-                        extérieures, c'est-à-dire qu’ayant divisé le diam interieur en 6 part, le
+                        extérieures, c’est-à-dire qu’ayant divisé le diam interieur en 6 part, le
                         diam extérieur en a 8.</p>
                      <p xml:id="c1BodyFr01.04.002.p009"
                         >La hauteur MQ du soubassement interieur de
@@ -6053,7 +6046,7 @@
                         Leurs entablements ont la cinquième parties de la hauteur des pilastres,
                         ainsi le dessus des corniches du dedans et du dehors est de niveau de l’un à
                         l’autre, l’on doit observer de donner du fruit en dedans aux murs
-                        circulaires de la lenternes, c'est-à-dire que le diam du haut <pb
+                        circulaires de la lenternes, c’est-à-dire que le diam du haut <pb
                            xml:id="c1F102r" n="102"/><fw type="foliotation" place="top"
                         >102</fw>
                         soit un peu moins grand que celuy du bas, ainsi qu’il se peut connoistre par
@@ -6095,14 +6088,14 @@
                         >Les vitreaux des grandes voûtes sont de la
                         même grandeur à proportion que les arcades des chapelles, leurs apuis est à
                         la moitié de la hauteur du soubassement de la voûte compris les deux socles,
-                        c'est-à-dire que le dessus des apuis est à 3 mod. 23 part. au dessus de la
+                        c’est-à-dire que le dessus des apuis est à 3 mod. 23 part. au dessus de la
                         corniche de l’entablement du grand ordre, la hauteur de leurs impostes et la
                         largeur de leurs archivoltes est d’un demy mod, il se forme une lunette au
                         pourtour dans la voûte.</p>
                      <p xml:id="c1BodyFr01.04.002.p018"
                            >L’entablement de l’ordre dorique du portail
                         de l’entré de l’église est repété aux deux avant corps des faces extérieures
-                        des flancs, quoy qu’il ny a pas de pilastre, le bas de l’architrave S ; de
+                        des flancs, quoy qu’il ny a pas de pilastre, le bas de l’architrave S ; de
                         l’entablement dorique extérieur étant au niveau du bas de l’architrave T; de
                         l’entablement ionique du dedans de l’église, le pavé V du portique <pb
                            xml:id="c1F102v" n="102v"
@@ -6386,7 +6379,7 @@
                         supérieure qui couronne l’attique du portail, règne aussi dans tous le
                         pourtour extérieure des murs de la nef, du chœur, et des croisillons ; sous
                         l’égout des grands combles, les bouts des combles des croisillons; sous
-                        l'égout des grands combles, les bouts des combles des croisillons sont en
+                        l’égout des grands combles, les bouts des combles des croisillons sont en
                         croupe quarré sur les grands avants corps, leurs faîte forme une croix avec
                         les faistes de la nef, et du chœur, au milieu de laquelle croix, est la
                         lenterne qui termine le haut de cette église, le cordon du haut de son
@@ -6711,13 +6704,13 @@
                            >La largeur du chœur P des religieuses est de
                         18 mod, de même que la largeur des croisillons de l’église, et la longueure
                         du chœur est de quatre travées chacune de même grandeur que l’espace du
-                        costé du croisillons entre la grille et la nef. C'est-à-dire que le chœur
+                        costé du croisillons entre la grille et la nef. C’est-à-dire que le chœur
                         étant décoré du même ordre corinthien du dedans de l’église, les quatre
                         entrepilastres qui compose sa longueure sont chacuns de six mod. comme
                         l’entrepilastre 21 du costé du croisillon qui est or la grille du chœur ce
                         qui fait 41 mod. 1/3 depuis la face de dehors du pilastre 8, qui regarde la
                         nef jusqu’au pilastre de la face de dehors du pilastre 8 qui regarde la nef
-                        jusqu'au pilastre de la face de l’abside du bout du chœur, et 31 mod. 1/3
+                        jusqu’au pilastre de la face de l’abside du bout du chœur, et 31 mod. 1/3
                         pour la longueure du chœur depuis la face de l’abside jusqu’au-dedans des
                         colonnes de la grille. La face du pilastre ployé qui joint à l’abside étant
                         d’un mod 1/3 suivant la <pb
@@ -7772,7 +7765,7 @@
                      <space extent="8" unit="lines"/>
                      <p xml:id="c1BodyFr02.01.003.p001">
                         <hi rend="bigger"
-                        >Les proportions de l'église de l’hotel</hi> dieu et son
+                        >Les proportions de l’église de l’hotel</hi> dieu et son
                         rapport avec les salles des malades se connoistrent mieux par le troisième
                         dessein, où le plan est plus en grand qu’au dessein précédant, cette église
                         est composé d’une Nef circulaire X, au milieu de laquelle est le sanctuaire
@@ -7784,7 +7777,7 @@
                         droit de la face des pilastres, contient quatre fois la largeure de chacunes
                         des salles H.P.T.Q.V.R.S.O. qui y aboutissent et le diamètre du sanctuaire
                         I. entre les centres des huit colonnes qui l’environne a la moitié de celuy
-                        de la nef. C'est-à-dire que le diamètre du sanctuaire qui est au milieu est
+                        de la nef. C’est-à-dire que le diamètre du sanctuaire qui est au milieu est
                         environnée de la nef à prendre du centre de la colonne 70 au centre de la
                         colonne 7 a le double de la largeur des salles, et est la moitié du diamètre
                         de la nef 73.74. entre la face du pilastre 73 et la face de l’autre pilastre
@@ -7879,7 +7872,7 @@
                         metops quarrés dans la frise, au droit de chaque entrecolonnement du milieu
                         de la face d’une colonne à l’autre.</p>
                      <p xml:id="c1BodyFr02.01.004.p004"
-                        >L'intérieur du corps du dôme qui couvre le
+                        >L’intérieur du corps du dôme qui couvre le
                         sanctuaire, est décoré d’un ordre attique au dessus de l’entablement
                         dorique, la hauteur de cet attique à prendre du dessus du socle de ses
                         pilastres, jusqu’au dessus de la corniche de son entablement est précisément
@@ -7909,7 +7902,7 @@
                      <p xml:id="c1BodyFr02.01.004.p007"
                         >La proportion generalle de l’interieur du
                         sanctuaire est conforme à la proportion des arcades de l’ordre dorique,
-                        c'est-à-dire que la hauteur, depuis le haut de la voûte de la calotte,
+                        c’est-à-dire que la hauteur, depuis le haut de la voûte de la calotte,
                         jusqu’au pavé de la nef est le double du diamètre entre les faces
                         Intérieures des colonnes par le bas. </p>
                      <pb xml:id="c1F129v" n="129v"/>
@@ -7925,7 +7918,7 @@
                         leur hauteur au droit du plancher du premier estage par une manière
                         d’Imposte qui règne uniformement dans tous le pourtour des entrepilastres.
                         elle est soutenue par de petits pilastres d’ordre toscan, au dessus est un
-                        espèce d’attique dont la corniche sert d'imposte aux archivoltes des grandes
+                        espèce d’attique dont la corniche sert d’imposte aux archivoltes des grandes
                         arcades, feintes, les allettes et bandeaux unies qui sont en dedans de ces
                         grandes arcades forme les piédroits, ceintres et plattebandes des entrées
                         des salles, celles du premier étage sont fermés sur la nef par des
@@ -8348,7 +8341,7 @@
                      <pb xml:id="c1F140v" n="140v"/>
                      <space extent="1" unit="pages"/>
                   </div>
-                  <!-- Sur un autre papier, dessin d'une autre façon -->
+                  <!-- Sur un autre papier, dessin d’une autre façon -->
                   <div xml:id="c1BodyFr02.02.003">
                      <pb xml:id="c1F141r" n="141"/>
                      <p xml:id="c1BodyFr02.02.003.p001">

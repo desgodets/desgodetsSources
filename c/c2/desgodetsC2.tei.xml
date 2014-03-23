@@ -7,9 +7,9 @@
    Fichier du manuscrit C2 de la Commodité de Desgodets 
    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
 --> 
-<!-- TODO : supprimer les exemples d'encodage mis en commentaire -->
+<!-- TODO : supprimer les exemples d’encodage mis en commentaire -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
-   <!-- début de l'en-tête TEI -->
+   <!-- début de l’en-tête TEI -->
    <teiHeader>
       <fileDesc>
          <!-- mentions de titre et de responsabilité -->
@@ -22,7 +22,7 @@
                   <surname>Desgodets</surname>
                </persName>
             </author>
-            <!-- mention de responsabilité principale (responsable scientifique de l'édition) -->
+            <!-- mention de responsabilité principale (responsable scientifique de l’édition) -->
             <principal>
                <persName ref="#RC">
                   <forename>Robert</forename>
@@ -30,18 +30,18 @@
                   <affiliation>
                      <orgName>Centre National de la Recherche Scientifique</orgName>
                      <orgName type="acronym">CNRS</orgName>
-                     <roleName>responsable d'ANR</roleName>
+                     <roleName>responsable d’ANR</roleName>
                   </affiliation>
                </persName>
             </principal>
-            <!-- organismes qui ont financé l'opération -->
+            <!-- organismes qui ont financé l’opération -->
             <funder>
                <orgName>Agence Nationale de Recherche</orgName>
                <orgName type="acronym">ANR</orgName>
                <date from="2008" to="2013">2008-2013</date>
             </funder>
             <funder>
-               <orgName>Association Française d'Histoire de la Construction</orgName>
+               <orgName>Association Française d’Histoire de la Construction</orgName>
                <orgName type="acronym">AFHC</orgName>
                <date when="2013">2013</date>
             </funder>
@@ -82,7 +82,7 @@
                </persName>
             </respStmt>
          </titleStmt>
-         <!-- mention d'édition -->
+         <!-- mention d’édition -->
          <editionStmt>
             <edition n="1">première édition électronique, <date from="2013" to="2013"
                   >2008-2013</date></edition>
@@ -95,7 +95,7 @@
             <idno n="criticalEdition" type="URI">c2</idno>
             <!-- responsable de la publication -->
             <publisher>
-               <orgName>Centre de théorie et d'analyse du droit (UMR 7074)</orgName>
+               <orgName>Centre de théorie et d’analyse du droit (UMR 7074)</orgName>
                <orgName type="acronym">CTAD</orgName>
                <address> <addrLine>Université Paris Ouest-Nanterre La Défense</addrLine> <addrLine>UFR Droit et Science politique</addrLine> <addrLine>Bâtiment F. - Bur. 404</addrLine> <addrLine>200, Avenue de la République</addrLine> <addrLine>92001 Nanterre Cedex</addrLine> <addrLine>France</addrLine> <addrLine>http://ctad.u-paris10.fr/cdr-theorie-droit/</addrLine> <addrLine>contact@desgodets.fr</addrLine> </address>
             </publisher>
@@ -103,40 +103,40 @@
                <p>Les images numériques des manuscrits sont mises à disposition par les institutions partenaires mais restent leur propriété exclusive. Celles-ci en autorisent la reproduction et la réutilisation selon leurs propres règles en vigueur. Toute diffusion de ces images, sous quelque forme et sur quelque support que ce soit (papier, audiovisuel, ou numérique), pour quelque finalité que ce soit (pédagogique, scientifique ou commercial), doit faire l’objet d’une demande d’autorisation préalable auprès de l’institution concernée.</p>
             </availability>
             <availability status="restricted" xml:id="c2TextLicence">
-               <p>Le Centre de théorie et d'analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d'Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
+               <p>Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
                   <lb/>Cette licence est disponible en ligne : <ref
                      target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
                      >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</p>
-               <p>Attribution : Vous devez créditer l'œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées. Vous devez indiquer ces informations par tous les moyens possibles mais vous ne pouvez pas suggérer que le Centre de théorie et d'analyse du droit vous soutient ou soutient la façon dont vous avez utilisé son œuvre. 
-                  <lb/>Le Centre de théorie et d'analyse du droit demande à ce que toute publication dérivée de ses ressources électroniques comporte : 
+               <p>Attribution : Vous devez créditer l’œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées. Vous devez indiquer ces informations par tous les moyens possibles mais vous ne pouvez pas suggérer que le Centre de théorie et d’analyse du droit vous soutient ou soutient la façon dont vous avez utilisé son œuvre. 
+                  <lb/>Le Centre de théorie et d’analyse du droit demande à ce que toute publication dérivée de ses ressources électroniques comporte : 
                   <lb/>1. le nom du Centre de théorie
-                  et d'analyse du droit et, pour les publications électroniques,
-                  son logo ainsi que la mention des auteurs de l'édition. 
-                  <lb/>2. l'URI permettant d'accéder à la page citée
-                  sur notre site, ou à la page d'accueil de la ressource
+                  et d’analyse du droit et, pour les publications électroniques,
+                  son logo ainsi que la mention des auteurs de l’édition. 
+                  <lb/>2. l’URI permettant d’accéder à la page citée
+                  sur notre site, ou à la page d’accueil de la ressource
                   <lb/>3. la date et la version du fichier source utilisé.</p>
                <p><hi rend="italic"
-                  >Pas d'Utilisation Commerciale</hi> — Vous n'êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant. 
-                  <lb/>Le Centre de théorie et d'analyse du droit souhaite principalement encourager l'utilisation et l'amélioration de ses ressources électroniques dans l'intérêt de l'enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d'analyse du droit.</p>
+                  >Pas d’Utilisation Commerciale</hi> — Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant. 
+                  <lb/>Le Centre de théorie et d’analyse du droit souhaite principalement encourager l’utilisation et l’amélioration de ses ressources électroniques dans l’intérêt de l’enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d’analyse du droit.</p>
                <p><hi rend="italic"
-                     >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l'œuvre originale, vous devez diffuser l'œuvre modifiée dans les même conditions, c'est à dire avec la même licence avec laquelle l'œuvre originale a été diffusée. 
-                  <lb/>Vous n'êtes pas obligé de signaler votre travail auprès du Centre de théorie et d'analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
+                     >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
+                  <lb/>Vous n’êtes pas obligé de signaler votre travail auprès du Centre de théorie et d’analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
                      type="external" target="mailto:contact@desgodets.net"
                      >contact@desgodets.net</ref>.</p>
                <p><hi rend="italic"
-                  >Pas de restrictions additionnelles</hi> – Vous n'êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l'œuvre dans les conditions décrites par la licence.</p>
-               <p>Le Centre de théorie et d'analyse du droit s'engage à conserver et à toujours offrir publiquement la version la plus à jour de ses ressources électroniques par l'intermédiaire d'une URI pérenne. 
-                  <lb/>Dans l'intérêt de la communauté scientifique, afin de ne pas disperser les contributions et de permettre les meilleures conditions de collaboration scientifique, le Centre de théorie et d'analyse du droit se propose de recueillir et d'intégrer les corrections et contributions qui lui seront soumises (après validation par un comité scientifique), et à référencer leur origine.</p>
-               <p>Vous n'êtes pas dans l'obligation de respecter la licence pour les éléments ou matériel appartenant au domaine public ou dans le cas où l'utilisation que vous souhaitez faire est couverte par une exception.</p>
+                  >Pas de restrictions additionnelles</hi> – Vous n’êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l’œuvre dans les conditions décrites par la licence.</p>
+               <p>Le Centre de théorie et d’analyse du droit s’engage à conserver et à toujours offrir publiquement la version la plus à jour de ses ressources électroniques par l’intermédiaire d’une URI pérenne. 
+                  <lb/>Dans l’intérêt de la communauté scientifique, afin de ne pas disperser les contributions et de permettre les meilleures conditions de collaboration scientifique, le Centre de théorie et d’analyse du droit se propose de recueillir et d’intégrer les corrections et contributions qui lui seront soumises (après validation par un comité scientifique), et à référencer leur origine.</p>
+               <p>Vous n’êtes pas dans l’obligation de respecter la licence pour les éléments ou matériel appartenant au domaine public ou dans le cas où l’utilisation que vous souhaitez faire est couverte par une exception.</p>
             </availability>
          </publicationStmt>
-         <!-- ajout d'un élément pour traiter le corpus général et réduire la hiérarchie des titres -->
+         <!-- ajout d’un élément pour traiter le corpus général et réduire la hiérarchie des titres -->
          <seriesStmt>
             <title xml:lang="fre" type="main">Les cours de Desgodets</title>
             <title xml:lang="fre" type="sub">une édition électronique</title>
             <idno type="URI">http://www.desgodets.net</idno>
          </seriesStmt>
-         <!-- ajout d'un élément pour DC.description -->
+         <!-- ajout d’un élément pour DC.description -->
          <notesStmt>
             <note xml:lang="fre" type="abstract"
                >Texte de description pour DC.description</note>
@@ -183,7 +183,7 @@
                         >églises</term> et autres lieux pieux, la seconde section contient les basiliques, les hôtels de ville et de commerce, et la troisième section contient les palais, les hôtels et les maisons particulières servant au logement, expliqué en l’Académie Royale d’architecture par Monsieur Desgodets architecte des Bastimens du Roy et professeur de laditte Académie, Recueillie par Jean Pinard, élève et étudiant de laditte académie Royalle d’architecture</title>
                      <!--<colophon>[colophon si présent]</colophon>-->
                      <note>
-                        <p>Suite du cours d'architecture prononcé par Antoine Desgodets à l'Académie d'architecture concernant les Ordres. Manuscrit incomplet, divisé en trois sections, la première en cinq chapitres, la deuxième en deux chapitres, les autres chapitres et la troisième section manquent.</p>
+                        <p>Suite du cours d’architecture prononcé par Antoine Desgodets à l’Académie d’architecture concernant les Ordres. Manuscrit incomplet, divisé en trois sections, la première en cinq chapitres, la deuxième en deux chapitres, les autres chapitres et la troisième section manquent.</p>
                      </note>
                      <textLang mainLang="fre" otherLangs="lat ita"
                         >texte en français, quelques passages en latin et en italien.</textLang>
@@ -218,14 +218,14 @@
                   </objectDesc>
                   <handDesc>
                      <handNote xml:id="c2Hand1" scope="major"
-                        >à l'encre noire</handNote>
+                        >à l’encre noire</handNote>
                      <!-- handNote est répétable et peut contenir une localisation avec locus -->
                      <!-- TODO retirer cette note de main fournie pour exemple -->
                      <handNote xml:id="c2Hand2" scope="minor"
-                        >à l'encre noire</handNote>
+                        >à l’encre noire</handNote>
                   </handDesc>
                   <decoDesc>
-                     <decoNote>le manuscrit contient 42 planches au lavis d'une grande qualité d'exécution</decoNote>
+                     <decoNote>le manuscrit contient 42 planches au lavis d’une grande qualité d’exécution</decoNote>
                      <!-- decoNote est répétable et peut contenir une localisation avec locus -->
                   </decoDesc>
                   <bindingDesc>
@@ -235,26 +235,26 @@
                         <decoNote>dorure au fer</decoNote>
                      </binding>
                   </bindingDesc>
-                  <!-- <accMat>[description du matériel d'accompagnement, s'il y en a]</accMat> -->
+                  <!-- <accMat>[description du matériel d’accompagnement, s’il y en a]</accMat> -->
                </physDesc>
                <history>
                   <origin>
                      <p>Copié au cours du <origDate notBefore="1725" notAfter="1785"
                               >XVIII<hi rend="superscript"
-                        >e</hi> siècle</origDate> ce manuscrit est pour ainsi dire en tous points identique à celui conservé au Rijk. La numérotation des planches semble indiquer qu'il a pu être copié d'après un même original.</p>
+                        >e</hi> siècle</origDate> ce manuscrit est pour ainsi dire en tous points identique à celui conservé au Rijk. La numérotation des planches semble indiquer qu’il a pu être copié d’après un même original.</p>
                   </origin>
                   <provenance>
                      <p>[Si nous avions eu des informations sur la provenance].</p>
                   </provenance>
                   <acquisition>
-                     <p>Entré par le biais d'une acquisition du cabinet des Estampes de la bibliothèque du roi circa 1785.</p>
+                     <p>Entré par le biais d’une acquisition du cabinet des Estampes de la bibliothèque du roi circa 1785.</p>
                   </acquisition>
                </history>
                <additional>
                   <surrogates>
                      <idno>microfilm R 710124-710264</idno>
                   </surrogates>
-                  <!-- références bibliographiques sur l'exemplaire -->
+                  <!-- références bibliographiques sur l’exemplaire -->
                   <listBibl>
                      <bibl corresp="scheurleer1964"/>
                   </listBibl>
@@ -265,7 +265,7 @@
       <encodingDesc>
          <!-- description du projet éditorial -->
          <projectDesc>
-            <p>L'édition des cours de Desgodets fait partie d'un programme de recherche sur la formalisation du savoir architectural au XVII<hi
+            <p>L’édition des cours de Desgodets fait partie d’un programme de recherche sur la formalisation du savoir architectural au XVII<hi
                   rend="superscript">e</hi> siècle.</p>
          </projectDesc>
          <!-- déclaration des principes éditoriaux -->
@@ -279,10 +279,10 @@
                      >e</hi> siècle)</ref>.</p>
             </correction>
             <hyphenation>
-               <p>Pour les ouvrages imprimés, il n'a pas été tenu compte de l'hyphénation.</p>
+               <p>Pour les ouvrages imprimés, il n’a pas été tenu compte de l’hyphénation.</p>
             </hyphenation>
             <interpretation>
-               <p>Les interprétations sont traitées au moyen d'un élément supplied ou bien sont renvoyées en notes. Une mention de responsabilité est fournie grâce à l'attribut resp sur le passage concerné.</p>
+               <p>Les interprétations sont traitées au moyen d’un élément supplied ou bien sont renvoyées en notes. Une mention de responsabilité est fournie grâce à l’attribut resp sur le passage concerné.</p>
             </interpretation>
             <normalization>
                <p>La ponctuation ainsi que les majuscules ont été normalisées. Les abréviations ont été développées.</p>
@@ -291,10 +291,10 @@
                <p>On utilise...</p>
             </stdVals>
             <quotation>
-               <p>Les citations dans le texte sont encodées soit au moyen d'un élément quote, soit au moyen d'un élément q. Les guillemets doivent donc être restitués en conséquence.</p>
+               <p>Les citations dans le texte sont encodées soit au moyen d’un élément quote, soit au moyen d’un élément q. Les guillemets doivent donc être restitués en conséquence.</p>
             </quotation>
          </editorialDecl>
-         <!-- déclaration concernant la méthode d'établissement du corpus (sélection) -->
+         <!-- déclaration concernant la méthode d’établissement du corpus (sélection) -->
          <refsDecl>
             <p>Description du système de référence canonique. Plus tard on fournira peut-être une expression régulière.</p>
          </refsDecl>
@@ -339,10 +339,11 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
+         <change when="2013-03-24" who="#EC">version beta</change>
          <change when="2013-04-11" who="#EC">mise à jour du teiHeader</change>
          <change when="2013-01-07" who="#EC">sérialisation des paragraphes</change>
          <change when="2013-01-06" who="#EC"
-            >augmentation de l'en-tête TEI et structuration du texte</change>
+            >augmentation de l’en-tête TEI et structuration du texte</change>
          <change when="2012-09-05" who="#EC">première version du fichier</change>
       </revisionDesc>
    </teiHeader>
@@ -562,30 +563,35 @@
    </facsimile>
    <text corresp="#c2TextLicence">
       <front xml:id="c2Front">
-         <!-- Page d'avant-titre -->
-         <titlePage xml:lang="fre" type="beforeTitlePage" xml:id="c2Front00">
+         <!-- Page d’avant-titre -->
+         <titlePage xml:id="c2Front00" type="beforeTitlePage" xml:lang="fre">
             <pb xml:id="c2F1r"/>
             <!-- traiter les n° -->
             <!-- <p>N° 2969</p> <p>41</p> -->
             <gap reason="notReproduced" extent="7" unit="pages"/>
             <!-- Papier utilisé pour la reliure de O5 et C2, filigrane cuir fleuredelyssé couronné -->
             <docTitle>
-               <titlePart type="main">Œuvres <lb/>de <lb/>Desgodest.</titlePart>
+               <titlePart type="main"
+                  >Œuvres 
+                  <lb/>de 
+                  <lb/>Desgodest.</titlePart>
                <titlePart type="sub">Tome II.</titlePart>
                <gap extent="1" unit="pages" reason="notReproduced"/>
             </docTitle>
             <!-- Papier utilisé pour la reliure de O5 et C2, filigrane cuir fleuredelyssé couronné -->
          </titlePage>
          <!-- Page de titre-->
-         <titlePage xml:id="c2Front01" xml:lang="fre" type="titlePage">
+         <titlePage xml:id="c2Front01" type="titlePage" xml:lang="fre">
             <pb xml:id="c2F2r" n="1"/>
-            <!-- Rendre compte de la présence d'une signature en haut à droite sur le manuscrit. La même signature que sur ha23 tome 1 du traité des ordres. -->
+            <!-- Rendre compte de la présence d’une signature en haut à droite sur le manuscrit. La même signature que sur ha23 tome 1 du traité des ordres. -->
             <docTitle>
                <titlePart type="main" rend="bigger alignCenter"
-                     >Traité de la commodité <lb/>de l’architecture<ref
+                     >Traité de la commodité 
+                  <lb/>de l’architecture<ref
                      type="noteHistorical" target="#c2Nh0001"/></titlePart>
                <titlePart type="sub" rend="italic alignCenter"
-                     >Concernant la distribution <lb/>et la proportion des <term
+                     >Concernant la distribution 
+                  <lb/>et la proportion des <term
                      type="gT" ref="#edifice"><choice>
                         <orig>édiffices</orig>
                         <reg>édifices</reg>
@@ -611,7 +617,7 @@
             </argument>
             <byline>
                <hi rend="bigger"
-                     >Expliqué</hi>, en l’accademie Royale d’architecture, par <docAuthor>Monsieur <persName
+                     >Expliqué</hi>, en l’accadémie royale d’architecture, par <docAuthor>Monsieur <persName
                      ref="#desgodets">Desgodets</persName> architecte des Bâtimens du Roy et professeur de <choice>
                      <abbr>lad.</abbr>
                      <expan>ladite</expan>
@@ -623,9 +629,9 @@
                   <expan>ladite</expan>
                </choice> Accadémie Royale d’architecture.</byline>
             <pb xml:id="c2F2v" n="2"/>
-            <!-- L'élément <docAuthor> ne prend pas d'attribut type pour distinguer l'auteur du copiste... -->
+            <!-- L’élément <docAuthor> ne prend pas d’attribut type pour distinguer l’auteur du copiste... -->
             <!-- filigrane huchet dans un cuir couronné. Le manuscrit est remonté : 35,5x25 = 39x25-->
-            <!-- Les planches sont d'un autre papier, recoupées lors de la reliure. Filigrane raisin -->
+            <!-- Les planches sont d’un autre papier, recoupées lors de la reliure. Filigrane raisin -->
          </titlePage>
          <!-- Préface -->
          <div xml:id="c2FrontFr" xml:lang="fre" type="transcription">
@@ -1076,7 +1082,7 @@
                            >coros</foreign>, ou autrement cancel du mot latin <foreign
                            xml:lang="lat">concelli</foreign>, à l’entrée du <term
                            type="gT" ref="#chœur"
-                        >cœur</term> etoit l’ambon R, c'est-à-dire une tribune élevée où l’on montoit par des degrez des deux cotés servant aux lectures publiques, cette tribune a depuis été nommé pupitre, lutrin ou jubé, si lambon etoit unique, il etoit placé au milieu, mais quelquefois on en faisoit deux pour ne point cacher l’autel ; l’un à gauche en regardant l’autel pour la lecture de l’Évangile et l’autre à droite pour l’Épitre et même un troisième pour la lecture des Prophéties, comme sont à présent les chaires à prescher tout le reste de la basilique étoit remplie de bancs rangés avec un grand ordre.</p>
+                        >cœur</term> etoit l’ambon R, c’est-à-dire une tribune élevée où l’on montoit par des degrez des deux cotés servant aux lectures publiques, cette tribune a depuis été nommé pupitre, lutrin ou jubé, si lambon etoit unique, il etoit placé au milieu, mais quelquefois on en faisoit deux pour ne point cacher l’autel ; l’un à gauche en regardant l’autel pour la lecture de l’Évangile et l’autre à droite pour l’Épitre et même un troisième pour la lecture des Prophéties, comme sont à présent les chaires à prescher tout le reste de la basilique étoit remplie de bancs rangés avec un grand ordre.</p>
                      <p xml:id="c2BodyFr01.01.002.p008">
                         <hi rend="bigger">Des</hi> deux cotés de l’<term type="gT"
                            ref="#eglise"
@@ -1194,7 +1200,7 @@
                            type="gT" ref="#niche">en niches</term> ou <term type="gT"
                            ref="#culDeFour">cul de fours</term> vers le <term type="gT"
                            ref="#chevet"
-                           >chevet</term>, ils sont clos d’un coté par le mur de l'enceinte de l’<term
+                           >chevet</term>, ils sont clos d’un coté par le mur de l’enceinte de l’<term
                            type="gT" ref="#eglise"
                            >église</term>, et par l’autre coté, ils sont séparés de la <term
                            type="gT" ref="#nef">nef</term> et du <term type="gT"
@@ -1380,14 +1386,14 @@
                            </choice></term> étant posées sur le pavé de l’<term
                            type="gT" ref="#eglise"
                         >église</term>, la largeur des côtés est le cinq treizième de la largeur du creux des canneaux. Leurs arrestes sont adoucies un peu en rond, depuis le bas jusqu’en haut, peut être pour éviter les écornures, peut être aussy par un goût particulier pour leur donner plus d’union et rendre les ombres des canneaux moins dures, ne recevant leur jour que d’en haut. </p>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.01.005.p003">
                         <hi rend="bigger"
                            >Le profil</hi> de la baze des colonnes cotté P <ref
                            type="internal"
                            >à la seconde figure</ref> est attique d’assez bon goût, telle qu’elle étoit en usage chez les anciens pour les trois ordres supérieurs<ref
                            type="noteHistorical" target="#c2Nh0082"/>.</p>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.01.005.p004">
                         <hi rend="bigger"
                            >Le chapiteau</hi> est dessiné <ref>à la troisième figure</ref><ref
@@ -1425,7 +1431,7 @@
                               ref="#romeSteMarieInTrastevere">église de <choice>
                                  <abbr>S<hi rend="superscript">te</hi></abbr>
                                  <expan>Sainte</expan>
-                              </choice> Marie Intrasteveré</placeName></hi>, c'est-à-dire au-delà du <placeName>Tibre</placeName> à <placeName
+                              </choice> Marie Intrasteveré</placeName></hi>, c’est-à-dire au-delà du <placeName>Tibre</placeName> à <placeName
                            ref="#rome"
                            >Rome</placeName>, fait le <ref>cinquième dessein du premier chapitre</ref>. Ce dessein et les deux autres qui suivent, sont représentés tels qu’est cette <term
                            type="gT" ref="#eglise"
@@ -1773,7 +1779,7 @@
                            rend="superscript"
                            >e</hi> figure, sur le même dessein, n’a rien de recommandable, que ses ornemens qui sont travaillés avec une grande délicatesse<ref
                            type="noteHistorical" target="#c2Nh0094"/>.</p>
-                     <!-- NOT S'agit-il d'une division du texte ? -->
+                     <!-- NOT S’agit-il d’une division du texte ? -->
                      <p xml:id="c2BodyFr01.01.008.p005">
                         <hi rend="bigger bold">Les desseins de ses <term type="gT"
                               ref="#eglise">églises</term>, de <placeName
@@ -1842,7 +1848,7 @@
                            >église</term>, lorsque par quelqu’empêchement l’évêque ne disoit pas la messe, le prêtre qui la célèbroit à sa place avec le diacre, et le soudicacre qui l’assistoient étoit placé pendant le Gloria in excelsis et le Credo, dans des chaires, cotté D sur les plans, tous les autres diacres et soudiacres, avoient aussy leurs places marquées séparément au devant du presbitère<ref
                            type="noteHistorical" target="#c2Nh0101"/>.</p>
                      <pb xml:id="c2F21r" n="p39"/>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.01.008.p008">
                         <hi rend="bigger bold"
                         >L’ancienne</hi> tradition étoit de faire les prières publiques la face tournée vers l’Orient, ce qui pouvoit provenir de ce que comme on priait dès le matin. Il étoit tout naturel de se tourner du coté d’où venoit le jour, pour être éclairé à faire les lectures.</p>
@@ -1875,7 +1881,7 @@
                            type="gT" ref="#eglise"
                            >églises</term> seroient régulièrement tournées à l’Orient, et l’usage en avoit longtemps prevalu<ref
                            type="noteHistorical" target="#c2Nh0105"
-                           />. Mais il paroit que depuis environ le commençement du seizième siècle, cet usage est absolument changé, principalement en France. Plusieurs graves auteurs ecclésiastiques ayant fait connoître que l’on peut offrir à Dieu ses prières publiques, et le divin sacrifice de la messe, de tous les côtés du monde, c'est-à-dire de quelque côté que les <term
+                           />. Mais il paroit que depuis environ le commençement du seizième siècle, cet usage est absolument changé, principalement en France. Plusieurs graves auteurs ecclésiastiques ayant fait connoître que l’on peut offrir à Dieu ses prières publiques, et le divin sacrifice de la messe, de tous les côtés du monde, c’est-à-dire de quelque côté que les <term
                            type="gT" ref="#eglise"
                         >églises</term> et les autels soient tournées ; par la raison que Dieu est également partout et qu’il est présens en tous lieux.</p>
                      <p xml:id="c2BodyFr01.01.008.p011">
@@ -1892,7 +1898,7 @@
                            >Par</hi> les raisons marquées cy dessus, le maitre autel doit toujours être en face du peuple<ref
                            type="noteHistorical" target="#c2Nh0107"
                         />, pour que le célébrant et le peuple ayent leur visage tourné du même côté, puisqu’ils ne composent tous ensemble qu’une même Église, qu’ils offrent tous le même Sacrifice et que leurs prières sont communes.</p>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.01.008.p013">
                         <hi rend="bigger"
                            >Anciennement</hi> Les autels étoient des tables de bois<ref
@@ -2002,7 +2008,7 @@
                                  >e</hi></abbr><expan>troisième</expan></choice> figure</ref>, les <term
                            type="gT" ref="#voile"
                         >voils</term> ont depuis introduits les parements que l’on met au devant des autels.</p>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.01.008.p022">
                         <hi rend="bigger"
                            >Anciennement</hi> on reservoit la sainte eucharistie pour les malades, dans des boëtes, ou vazes que l’on a depuis nommé ciboire comme on fait encore à présent, on enfermoit ces vazes dans des armoires creusées dans les murs de l’<term
@@ -2171,7 +2177,7 @@
                      <pb xml:id="c2F27v" n="p52"/>
                      <figure type="plate" copyOf="#c2Pl0010"/>
                      <pb xml:id="c2F28r" n="p53"/>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.01.009.p006">
                         <hi rend="bigger bold"
                            >Depuis</hi> environ le septième siècle, que l’usage a été reçu de sonner des cloches<ref
@@ -2404,7 +2410,7 @@
                            type="gT" ref="#socle"
                            >socle</term> ou soubassement du grand ordre extérieur de l’église. Il y a de pareilles perrons, mais plus petits, pour monter aux autres Portes, des différents entrées de l’église. L’entrecolonnement 14 du milieu du <term
                            type="gT" ref="#portique"
-                        >portique</term>, est plus grand que les autres, qui sont tous égaux entr’eux. Le milieu des entrecolonnes Z, des extrémités, sont d'enfilade du milieu des premières galleries HI. </p>
+                        >portique</term>, est plus grand que les autres, qui sont tous égaux entr’eux. Le milieu des entrecolonnes Z, des extrémités, sont d’enfilade du milieu des premières galleries HI. </p>
                      <p xml:id="c2BodyFr01.02.001.p015">
                         <hi rend="bigger">Le maître autel</hi> est placé sous le <term
                            type="gT" ref="#dome">dôme</term><ref type="noteHistorical"
@@ -2445,7 +2451,7 @@
                            >église</term>, parce que le bruit, l’air et le vent de dehors, qui entreroit directement jusqu’au sanctuaire, incommoderoit le célébrant et pourroit dérranger ce qui seroit sur l’autel et souffler les cierges qui l’environnent. C’est pourquoy il est à propos de mettre de grandes chapelles en face au milieu des bouts des <term
                            type="gT" ref="#croisillon"
                         >croisillons</term> comme sont les chapelles F.G. et y faire seulement de moyennes portes 15 dans les pans coupés par des passages obliques qui détournent les vents.</p>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.02.001.p017">
                         <hi rend="bigger bold">À l’égard</hi> des proportions<ref
                            type="noteHistorical" target="#c2Nh0158"
@@ -2544,7 +2550,7 @@
                            ref="#nef"
                            >nef</term>, suivant la proportion marquée au second dessein du cinquième chapitre de la seconde partie du traité des ordres d’architecture<ref
                            type="noteHistorical" target="#c2Nh0162"
-                           />. C'est-à-dire, qu’ayant divisé le diamètre des <term
+                           />. C’est-à-dire, qu’ayant divisé le diamètre des <term
                            type="gT" ref="#pilastre"
                         >pilastres</term> en 7 parties, on en donnera 4 à chaque demye face ployée.</p>
                      <p xml:id="c2BodyFr01.02.001.p023">
@@ -2637,7 +2643,7 @@
                         <hi rend="bigger"
                            >L’entrecolonnement</hi> 14, du milieu de la face du <term
                            type="gT" ref="#portique"
-                           >portique</term>, est dans la proportion des entrecolonnemens du dedans de l’église. C'est-à-dire que leur distance du centre d’une colomne à l’autre, est égale, mais les autres entrecolonnemens du <term
+                           >portique</term>, est dans la proportion des entrecolonnemens du dedans de l’église. C’est-à-dire que leur distance du centre d’une colomne à l’autre, est égale, mais les autres entrecolonnemens du <term
                            type="gT" ref="#portique"
                            >portique</term> sont plus serrés. Ils sont égaux entr’eux, tant par la face que par les flancs. La grandeur de leur espace est déterminée par les entrecolonnemens Z, des extrémités du <term
                            type="gT" ref="#portique"
@@ -2676,7 +2682,7 @@
                            type="gT" ref="#eglise"
                            >églises</term> les corps des évêques et de ceux qui par une distinction particulière étoient morts en odeur de sainteté<ref
                            type="noteHistorical" target="#c2Nh0166"
-                           />. Tous les autres fidelles étant enterrés dans les cimetières qui sont des espaces de terrein, clos et bénis, destinés pour leur sépulture. Depuis par le respect que l'on doit aux puissances, les Princes furent aussy enterrées dans les <term
+                           />. Tous les autres fidelles étant enterrés dans les cimetières qui sont des espaces de terrein, clos et bénis, destinés pour leur sépulture. Depuis par le respect que l’on doit aux puissances, les Princes furent aussy enterrées dans les <term
                            type="gT" ref="#eglise"
                            >églises</term>. Ainsy peu à peu, l’usage est venu d’y enterrer tous ceux qui le requièrent pour se distinguer du commun du peuple <pb
                            xml:id="c2F33r" n="p63"/>
@@ -3078,7 +3084,7 @@
                         />, la même proportion se trouvera plus aisément par la règle suivante, commune à tous les ordres.</p>
                      <p xml:id="c2BodyFr01.02.003.p012">
                         <hi rend="bigger"
-                           >Suposant</hi> que la largeur de la nef soit toujours de 9 diamètres, c'est-à-dire qu’il y ait 10 diamètres du centre d’une colonne au centre <pb
+                           >Suposant</hi> que la largeur de la nef soit toujours de 9 diamètres, c’est-à-dire qu’il y ait 10 diamètres du centre d’une colonne au centre <pb
                            xml:id="c2F38v" n="p74"
                            /> de la colomne oposée, de l’autre côté de la <term
                            type="gT" ref="#nef"
@@ -3516,7 +3522,7 @@
                            type="gT" ref="pilastreSaillant">pilastres <choice>
                               <orig>saillans</orig>
                               <reg>saillants</reg>
-                           </choice></term>. C'est-à-dire un tiers de module la saillie de leur baze, <term
+                           </choice></term>. C’est-à-dire un tiers de module la saillie de leur baze, <term
                            type="gT" ref="#entablement"
                            >entablement</term> et autres membres, doit être suivant la proportion de leur ordre, mais les <term
                            type="gT" ref="#pilastre"
@@ -3745,7 +3751,7 @@
                               <reg>colonnes</reg>
                            </choice></term> du premier ordre du bas.</p>
                      <pb xml:id="c2F45v" n="p88"/>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.02.005.p019">
                         <hi rend="bigger"
                            >Le dôme</hi> est composé de trois parties principalles. sçavoir le corps en forme de tour, décoré d’un ordre d’architecture, la <term
@@ -3772,7 +3778,7 @@
                         <hi rend="bigger"
                            >S’il</hi> n’y avoit point d’amortissement au dessus de la <term
                            type="gT" ref="#coupole"
-                           >coupole</term>, il suffiroit de le faire en émisphère régulière. C'est-à-dire parfaitement ronde, elle paroitroit de tous les endroits d’où on la pourroit voir, ce qu’elle feroit en effet, mais le soubassement de l’amortissement qu’il convient de mettre au dessus coupant une partie du sommet de l’émisphère ; feroit paroitre la <term
+                           >coupole</term>, il suffiroit de le faire en émisphère régulière. C’est-à-dire parfaitement ronde, elle paroitroit de tous les endroits d’où on la pourroit voir, ce qu’elle feroit en effet, mais le soubassement de l’amortissement qu’il convient de mettre au dessus coupant une partie du sommet de l’émisphère ; feroit paroitre la <term
                            type="gT" ref="#coupole"
                         >coupole</term> écrasée pour suplier à ce deffaut, il est nécessaire d’élever le dessous du soubassement autant que le secteur sphérique qu’il cache auroit de hauteur s’il étoit existant.</p>
                      <p xml:id="c2BodyFr01.02.005.p022">
@@ -3835,7 +3841,7 @@
                            >socle</term> du bas. En sorte que la hauteur EL, du soubassement est le quart de la hauteur de l’ordre LR. La hauteur RP du <term
                            type="gT" ref="#socle">socle</term> au dessus de l’<term
                            type="gT" ref="#entablement"
-                           >entablement</term> de l’ordre de la lanterne, est égale au tiers de la hauteur EL, du soubassement. C'est-à-dire que le <term
+                           >entablement</term> de l’ordre de la lanterne, est égale au tiers de la hauteur EL, du soubassement. C’est-à-dire que le <term
                            type="gT" ref="#socle"
                            >socle</term> du haut est égale à la largeur de la face des <term
                            type="gT" ref="#pilastre"
@@ -3936,7 +3942,7 @@
                            >église</term> au milieu des deux chapelles circulaires RR, avec le flanc 20.22, du retour des chapelles latérales, lequel est de même saillie, façon et cimetrie que le flanc 21.22 de la grande chapelle du <term
                            type="gT" ref="#chevet"
                         >chevet</term>, font ensemble une autre espèce de cimetrie et petite façade régulière sur la diagonalle.</p>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.02.006.p004">
                         <hi rend="bigger">L’ordre</hi> du <term type="gT"
                            ref="#portique"
@@ -4098,7 +4104,7 @@
                         >dôme</term>, comme il est marqué au quatrième dessein.</p>
                      <p xml:id="c2BodyFr01.02.006.p011">
                         <hi rend="bigger"
-                           >Les</hi> mesures cottés sur le sixième dessein sont relatives à celles du dessein précédant, c'est-à-dire que 60 de ces parties font la largeur de la face des <term
+                           >Les</hi> mesures cottés sur le sixième dessein sont relatives à celles du dessein précédant, c’est-à-dire que 60 de ces parties font la largeur de la face des <term
                            type="gT" ref="#pilastre"
                         >pilastres</term> du grand ordre ionique. </p>
                   </div>
@@ -4347,7 +4353,7 @@
                            type="gT" ref="#pilastre"
                            >pilastres</term>, est de chacque côté un sixième du diamètre du corps de la lanterne. Cette saillie se divise en 3 parties, la saillie du petit <term
                            type="gT" ref="#socle"
-                           >socle</term> supérieur du soubassement en a 1, les deux autres se partagent en 4, la saillie du haut de la gorge en a 1, les 3 autres sont pour la saillie de la gorge, c'est-à-dire du <term
+                           >socle</term> supérieur du soubassement en a 1, les deux autres se partagent en 4, la saillie du haut de la gorge en a 1, les 3 autres sont pour la saillie de la gorge, c’est-à-dire du <term
                            type="gT" ref="#socle">socle</term> inferieur.</p>
                      <p xml:id="c2BodyFr01.02.007.p012">
                         <hi rend="bigger"
@@ -4733,7 +4739,7 @@
                            type="gT" ref="#entablement"
                            >entablement</term> du second ordre des tours, est au niveau du dessus de la corniche DE, du soubassement du <term
                            type="gT" ref="#dome">dôme</term>.</p>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.02.009.p004">
                         <hi rend="bigger">L’<term type="gT" ref="#entablement"
                               >entablement</term></hi> du grand ordre corinthien du dedans de l’<term
@@ -4988,7 +4994,7 @@
                            >Les</hi> lutrins 22. 23. pour chanter l’Epitre, et l’Evangile sont placés aux angles du sanctuaire, à la face vers la <term
                            type="gT" ref="#nef">nef</term>, isolées des <term type="gT"
                            ref="#balustrade"
-                           >balustrades</term> et élevés sur de petits marchepied d’un degré au dessus des stales. C'est-à-dire de deux degrés au dessus du planum, afin que le Diacre et le soudiacre soient vus et leurs voix entendues de tous le Peuple. L’espace entre le derrière du lutrins de l’Evangile et la <term
+                           >balustrades</term> et élevés sur de petits marchepied d’un degré au dessus des stales. C’est-à-dire de deux degrés au dessus du planum, afin que le Diacre et le soudiacre soient vus et leurs voix entendues de tous le Peuple. L’espace entre le derrière du lutrins de l’Evangile et la <term
                            type="gT" ref="#balustrade"
                            >balustrade</term> est pour placer le porte Croix au milieu des deux acolites qui tiennent des chandelliers avec des cierges allumées pendant que le Diacre chante l’Évangile. Les deux <term
                            type="gT" ref="#escalier"
@@ -5059,7 +5065,7 @@
                            >escaliers</term> qui descendent au caveau sous le sanctuaire ont été <pb
                            xml:id="c2F62v" n="p122"
                         /> expliqués au dessein précédant.</p>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.02.011.p004">
                         <hi rend="bigger">L’ordre</hi> du <term type="gT"
                            ref="#baldaquin"
@@ -5092,7 +5098,7 @@
                            type="gT" ref="#entablement">entablement</term>, la <term
                            type="gT" ref="#coupole"
                         >coupole</term>, l’amortissement du haut ne sauroit être que de bronze creux ou de quelqu’autre matière plus légère avec des armatures de fer, afin de ne point surcharger les colonnes.</p>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.02.011.p007">
                         <hi rend="bigger">L’<term type="gT" ref="#entablement"
                               >entablement</term></hi> ne règne que sur les entrecolonnemens des deux côtés, les entrecolonnemens des faces qui regardent la <term
@@ -5144,7 +5150,7 @@
                            >coupole</term> est le tiers de la hauteur de l’ordre AB et la hauteur du cordon avec son filet. Au dessous est la douzième partie de la hauteur DE, le diamètre LM du haut du secteur sphéroïde, sous le cordon, est les cinq sixième du diamètre DI du <term
                            type="gT" ref="#socle">socle</term> du Bas de la <term
                            type="gT" ref="#coupole"
-                        >coupole</term>. C'est-à-dire qu’ayant divisé le diamètre DI, en 6 parties Le diamètre LM en a 5 ; la saillie du cordon au-delà du diamètre LM est de chacque côté égalle à sa hauteur avec son filet. </p>
+                        >coupole</term>. C’est-à-dire qu’ayant divisé le diamètre DI, en 6 parties Le diamètre LM en a 5 ; la saillie du cordon au-delà du diamètre LM est de chacque côté égalle à sa hauteur avec son filet. </p>
                      <p xml:id="c2BodyFr01.02.011.p012">
                         <hi rend="bigger"
                            >La</hi> hauteur EF, du gorgerin avec ses listeaux du haut et du bas, est la cinquième partie de la hauteur DE. Le diamètre NO du creux du gorgerin à neuf dixième du diamètre LM. La hauteur FG des consolles est les cinq septième de la hauteur DE. Les roulleaux du bas FP, ont le tiers de la hauteur des consolles FG. Le filet du haut de la grande doucine qui termine le dessus de la <term
@@ -5222,7 +5228,7 @@
                            >Le</hi> caveau des Reliques n’a point de communication avec les caves 32. 33 ; et les autres du dessous de l’<term
                            type="gT" ref="#eglise"
                         >église</term>, quoy que leur aire du bas soit au même niveau. Celuy du caveau 30 est pavé de marbre ou de dalle de pierres, posées sur un masif de maçonnerie pour le rendre plus sec, et les autres caves ne sont point pavées afin d’y pouvoir enterrer les morts.</p>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.02.012.p005">
                         <hi rend="bigger">L’Entablemens</hi> du <term type="gT"
                            ref="#baldaquin">baldaquin</term> et le petit <term
@@ -5384,7 +5390,7 @@
                            type="gT" ref="#nef">nef</term> et du <term type="gT"
                            ref="#chœur"
                         >chœur</term>. Ils sont Tous ouverts par le haut et clos par le bas de grille de fer à jour.</p>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.03.001.p006">
                         <hi rend="bigger"
                            >L’office</hi> divin se célébrant ordinairement aux paroisses en plein jour pour la commodité des paroissiens qui y assistent, le pourtour du <term
@@ -5576,7 +5582,7 @@
                         <hi rend="bigger"
                            >La</hi> distance qui est Entre les centres des <term
                            type="gT" ref="#pilastre"
-                           >pilastres</term> 30. 31 se divise en 10 parties. C'est-à-dire 5 parties de chacque côté de la ligne du milieu de la croisée EF. Cette distance Etant de 60 diamètres chacque partie sera de six diamètres, ainsy aux Pilliers des Encoignures de la Croisée de l’<term
+                           >pilastres</term> 30. 31 se divise en 10 parties. C’est-à-dire 5 parties de chacque côté de la ligne du milieu de la croisée EF. Cette distance Etant de 60 diamètres chacque partie sera de six diamètres, ainsy aux Pilliers des Encoignures de la Croisée de l’<term
                            type="gT" ref="#eglise"
                            >église</term>, il y aura 12 diamètres du centre du <term
                            type="gT" ref="#pilastre">pilastre</term> 33 à l’<term
@@ -5718,7 +5724,7 @@
                            ref="#chœur"
                            >chœur</term> sont de deux tiers de diamètre, suivant la proportion des <term
                            type="gT" ref="pilastrePloye">Pilastres ployés</term>.</p>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.03.001.p038">
                         <hi rend="bigger"
                            >L’Epaisseur</hi> du mur du Portail entre le <term type="gT"
@@ -5741,7 +5747,7 @@
                            type="gT" ref="#eglise"
                            >église</term>, est d’un cinquième en dehors plus grand que le Diamètre des <term
                            type="gT" ref="#pilastre"
-                           >pilastres</term> de l’ordre Corinthien intérieur. C'est-à-dire qu’ayant divisé le Diamètre de l’ordre intérieur en 60 parties, le Diamètre de l’ordre Extérieur en aura 72. Ce qui Etant constaté, toutes les mesures et proportions des parties Extérieures de l’<term
+                           >pilastres</term> de l’ordre Corinthien intérieur. C’est-à-dire qu’ayant divisé le Diamètre de l’ordre intérieur en 60 parties, le Diamètre de l’ordre Extérieur en aura 72. Ce qui Etant constaté, toutes les mesures et proportions des parties Extérieures de l’<term
                            type="gT" ref="#eglise"
                            >église</term> seront comptées suivant le Diamètre de l’ordre ionique du <term
                            type="gT" ref="#portique"
@@ -6037,7 +6043,7 @@
                            >abside</term>, et des Environs du <term type="gT"
                            ref="#chevet">chevet</term> du <term type="gT" ref="#chœur"
                            >chœur</term>, représentés en la première figure du Troisième dessein.</p>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.03.003.p002">
                         <hi rend="bigger">L’<term type="gT" ref="#abside"
                            >abside</term> Z</hi> du <term type="gT" ref="#chevet"
@@ -6082,7 +6088,7 @@
                            >pilastres</term> 2.16.17.3 doit être parallèle et suivre le contour du plan de l’<term
                            type="gT" ref="#entablement">entablement</term> de l’<term
                            type="gT" ref="#abside">abside</term>.</p>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.03.003.p003">
                         <hi rend="bigger">L’arcade</hi> 12.13. du fond de l’<term
                            type="gT" ref="#abside"
@@ -6645,7 +6651,7 @@
                            type="gT" ref="#nef">nef</term>, l’<term type="gT"
                            ref="#arcade"
                         >arcade</term> n’est feinte que par le dedans, et il n’est point ouvert dans son ceintre.</p>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.03.005.p006">
                         <hi rend="bigger">L’<term type="gT" ref="#arcade"
                            >arcade</term></hi> du fond de l’<term type="gT"
@@ -6724,7 +6730,7 @@
                            type="gT" ref="#abside"
                            >abside</term>, et il se continuë tout droit et de même niveau au dessus de la <term
                            type="gT" ref="#nef"
-                           >nef</term>, jusqu'au derrière du mur du portail, qui luy sert de Pignon. Il se raccorde uniformement par quatre noües, en forme de Croix avec les Combles des <term
+                           >nef</term>, jusqu’au derrière du mur du portail, qui luy sert de Pignon. Il se raccorde uniformement par quatre noües, en forme de Croix avec les Combles des <term
                            type="gT" ref="#croisillon"
                            >croisillons</term>. Ces derniers sont terminés en croupe carrée, au derrière des frontons des grands avant corps des flancs de l’<term
                            type="gT" ref="#eglise">église</term>.</p>
@@ -6790,7 +6796,7 @@
                            xml:id="c2F84v" n="p166"
                            /> depuis le Pavé de la Chapelle, jusques sous l’architrave de l’<term
                            type="gT" ref="#entablement"
-                           >entablement</term>, c'est-à-dire la moitié de la hauteur du <term
+                           >entablement</term>, c’est-à-dire la moitié de la hauteur du <term
                            type="gT" ref="#pilastre"
                            >pilastre</term> de l’ordre Corinthien, avec le <term
                            type="gT" ref="#chapiteau"
@@ -6801,7 +6807,7 @@
                            >pilastres</term> a la huitième partie de son diamètre Extérieur. Le bas de la Chapelle de la Communion, est Eclairé au Travers des <term
                            type="gT" ref="#arcade"
                         >arcades</term> par les vitreaux du Charnier.</p>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.03.005.p017">
                         <hi rend="bigger"
                            >L’autel</hi> est isolée à deux faces posé sur un marchepied Elevé sur un petit Planum de la hauteur d’une marche, environné d’une <term
@@ -6858,7 +6864,7 @@
                            >socle</term> de ce dernier, qui a quatre cinquième <pb
                            xml:id="c2F85r" n="p167"
                         /> de Diamètre de hauteur, ainsy la grosseur de la colomne de l’ordre ionique Etant La neuvième partie de sa hauteur, son Diamètre aura un cinquième de l’ordre Corinthien du dedans.</p>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.03.005.p021">
                         <hi rend="bigger">L’ordre</hi> ionique du <term type="gT"
                            ref="#portique"
@@ -6920,7 +6926,7 @@
                            type="gT" ref="#socle"
                            >socle</term> en a 1 qui est de 29 parties, et les deux autres qui font 58 parties sont pour la gorge. Le contour du dessus de la <term
                            type="gT" ref="#coupole"
-                        >coupole</term> est en Section Sphérique concentrique avec la Calotte du dedans, c'est-à-dire qu’elles sont tracées d’un même Centre.</p>
+                        >coupole</term> est en Section Sphérique concentrique avec la Calotte du dedans, c’est-à-dire qu’elles sont tracées d’un même Centre.</p>
                      <p xml:id="c2BodyFr01.03.005.p025">
                         <hi rend="bigger"
                            >La</hi> hauteur de la lanterne qui est Egale à son diamètre extérieur, étant la moitié de la hauteur du <term
@@ -6946,7 +6952,7 @@
                         <hi rend="bigger"
                            >Le</hi> Diamètre du plinte du piédouche de la Croix, est Egal à la sixième partie du Diamètre du bas de la <term
                            type="gT" ref="#coupole"
-                        >coupole</term> de la Lanterne, la hauteur de la Croix, est Egale à la hauteur de la petite Coupole qui est de 135 parties, le piédouche a le tiers de cet hauteur qui fait 45 parties, c'est-à-dire Egalles au diamètre de son pleinte du bas, et les bras de la Croix ont la même largeur de 45 parties de L’extrémité de l’un des bras à l’extrémité de l’autre. </p>
+                        >coupole</term> de la Lanterne, la hauteur de la Croix, est Egale à la hauteur de la petite Coupole qui est de 135 parties, le piédouche a le tiers de cet hauteur qui fait 45 parties, c’est-à-dire Egalles au diamètre de son pleinte du bas, et les bras de la Croix ont la même largeur de 45 parties de L’extrémité de l’un des bras à l’extrémité de l’autre. </p>
                   </div>
                   <div xml:id="c2BodyFr01.03.006" type="section" n="6">
                      <p xml:id="c2BodyFr01.03.006.p001">
@@ -6996,7 +7002,7 @@
                            >pilastre</term> plus Elevée que la <term type="gT"
                            ref="#voute">voûte</term> de l’<term type="gT" ref="#abside"
                            >abside</term>.</p>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.03.006.p004">
                         <hi rend="bigger">L’<term type="gT" ref="#entablement"
                               >entablement</term></hi> du grand ordre Corinthien, et le soubassement de la voûte, règnent dans le pourtour du dedans de l’<term
@@ -7065,7 +7071,7 @@
                            type="gT" ref="#socle"
                            >socle</term>, ou du soubassement, qui soutient l’ordre de la décoration des faces Extérieures de l’<term
                            type="gT" ref="#eglise"
-                           >église</term>. Il faut observer au Perron, comme à tous les autres Perrons, que le nombre des marches soit impaire, par l’habitude que l’on a de finir de monter la dernière marche du haut du même pied qui à commencé à monter la première marche du bas. C'est-à-dire que si on commence à monter du piédroit on doit finir la dernière marche du haut <pb
+                           >église</term>. Il faut observer au Perron, comme à tous les autres Perrons, que le nombre des marches soit impaire, par l’habitude que l’on a de finir de monter la dernière marche du haut du même pied qui à commencé à monter la première marche du bas. C’est-à-dire que si on commence à monter du piédroit on doit finir la dernière marche du haut <pb
                            xml:id="c2F88r" n="p173"
                         /> par le piedroit. Et si on finissoit par le pied gauche, on feroit un espèce de faux pas, ce qui se fait sans y penser. </p>
                      <p xml:id="c2BodyFr01.03.006.p010">
@@ -7435,7 +7441,7 @@
                            >pilastres</term> des deux bouts du gradin, sont ornées chacun d’une chutte de festons d’instrumens de la Passion ou autres, à l’usage du sacrifice et le Panneau de l’avant corps du milieu est remply d’un Bas relief, représentant la descente de Croix de <persName
                            ref="#jesusChrist"
                         >Notre Seigneur Jésus Christ</persName>, sujet qui convient avec le Crucifix qui est posé sur le milieu du gradin accompagné des chandelliers et des cierges à côtés.</p>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.03.008.p005">
                         <hi rend="bigger bold"
                            >Notre Seigneur Jésus Christ</hi> est représenté vers le haut de l’<term
@@ -7824,12 +7830,12 @@
                            >église</term>, servira de jardin au Monastère ou aux <term
                            type="gT" ref="#corpsDeLogis"
                         >corps de logis</term> particuliers.</p>
-                     <!-- Ce paragraphe n'avait pas été transcrit, relire. -->
+                     <!-- Ce paragraphe n’avait pas été transcrit, relire. -->
                      <p xml:id="c2BodyFr01.04.001.p028">
                         <hi rend="bigger"
-                           >Pour</hi> ce qui concerne les proportions du plan du dedans de l'<term
+                           >Pour</hi> ce qui concerne les proportions du plan du dedans de l’<term
                            type="gT" ref="#eglise"
-                           >église</term>, toute la longueur dedepuis le dedans œuvres des murs du fonds de l'<term
+                           >église</term>, toute la longueur dedepuis le dedans œuvres des murs du fonds de l’<term
                            type="gT" ref="#abside">abside</term> du <term type="gT"
                            ref="#chevet">chevet</term> du <term type="gT" ref="#chœur"
                            >chœur</term>, se divise en 13 parties, dont une de ces parties, fait la distance <term
@@ -7842,14 +7848,14 @@
                            ref="#pilastre"
                            >pilastre</term> en avant Corps 1 du pillier de la Croisée et le milieu de la face du <term
                            type="gT" ref="#pilastre"
-                           >pilastre</term> 35 de L'entrée du <term type="gT"
+                           >pilastre</term> 35 de L’entrée du <term type="gT"
                            ref="#chœur">chœur</term>, joignant le <term type="gT"
                            ref="#pilastre"
-                           >pilastre</term> en avant Corps, 4 de l'autre Pillier de la Croisée, est de 3 des mêmes parties ; La même chose Sobserve sur le Travers de la Croisée, y ayant trois parties du milieu de la face du <term
+                           >pilastre</term> en avant Corps, 4 de l’autre Pillier de la Croisée, est de 3 des mêmes parties ; La même chose Sobserve sur le Travers de la Croisée, y ayant trois parties du milieu de la face du <term
                            type="gT" ref="#pilastre"
-                           >pilastre</term> 36 de l'un des Pilliers de la Croisée au milieu de la face du <term
+                           >pilastre</term> 36 de l’un des Pilliers de la Croisée au milieu de la face du <term
                            type="gT" ref="#pilastre"
-                           >pilastre</term> 37 au Pillier de la Croisée de l'autre Côté de la <term
+                           >pilastre</term> 37 au Pillier de la Croisée de l’autre Côté de la <term
                            type="gT" ref="#nef"
                            >nef</term>, et une partie de chaque Côté du milieu de la face du <term
                            type="gT" ref="#pilastre"
@@ -7859,7 +7865,7 @@
                            type="gT" ref="#pilastre"
                            >pilastre</term> 36 au milieu de la face du <term type="gT"
                            ref="#pilastre"
-                           >pilastre</term> 39, il faut Entendre que l'on compte les milieux des faces des <term
+                           >pilastre</term> 39, il faut Entendre que l’on compte les milieux des faces des <term
                            type="gT" ref="#pilastre"
                            >pilastres</term> 30. 34. 35. 36. 37. 38. 39. Comme si les faces de ces <term
                            type="gT" ref="#pilastre"
@@ -7961,7 +7967,7 @@
                            type="gT" ref="#nef"
                            >nef</term> a la moitié de la largeur de la face des Pilastres ioniques du dedans de l’<term
                            type="gT" ref="#eglise"
-                           >église</term>, c'est-à-dire d’un module. Ces colonnes Etant d’ordre corinthien leur hauteur a plus de la moitié de la hauteur des <term
+                           >église</term>, c’est-à-dire d’un module. Ces colonnes Etant d’ordre corinthien leur hauteur a plus de la moitié de la hauteur des <term
                            type="gT" ref="#pilastre"
                            >pilastres</term> du grand ordre. La distance Entre les centres des <term
                            type="gT" ref="#colonne"><choice>
@@ -8216,7 +8222,7 @@
                            type="gT" ref="#pilastre"
                            >pilastres</term> est comme il a été dit cy dessus le tiers du diamètre de la grande calotte. L’épaisseur du mur circulaire de la lanterne à prendre Entre les faces des <term
                            type="gT" ref="#pilastre"
-                        >pilastres</term> intérieurs et Extérieurs, est de chacque côtés la sixième partie du Diamètre intérieur. Ainsy le diamètre extérieur est les trois quarts du diamètre extérieur, c'est-à-dire qu’ayant divisé le diamètre intérieur en 6 parties, le diam Extérieur en a 8.</p>
+                        >pilastres</term> intérieurs et Extérieurs, est de chacque côtés la sixième partie du Diamètre intérieur. Ainsy le diamètre extérieur est les trois quarts du diamètre extérieur, c’est-à-dire qu’ayant divisé le diamètre intérieur en 6 parties, le diam Extérieur en a 8.</p>
                      <p xml:id="c2BodyFr01.04.002.p009">
                         <hi rend="bigger"
                            >La</hi> hauteur MQ du soubassement intérieur de la lanterne est Egale à son demy diamètre intérieur, cette hauteur se divise en 8 parties, les 2 premières parties du bas sont pour le cordon, 2 autres au dessus pour le <term
@@ -8245,7 +8251,7 @@
                            ref="#corniche"
                            >corniches</term> du dedans et du dehors est de niveau de l’un à l’autre. L’on doit observer de donner <term
                            type="gT" ref="#fruit"
-                           >du fruit</term> en dedans aux murs circulaires de la lanterne, c'est-à-dire que le Diamètre du haut soit un peu moins grand que celuy du bas, ainsy qu’il se peut connoitre par les mesures cottés, lesquelles mesures sont suivant le mod. des <term
+                           >du fruit</term> en dedans aux murs circulaires de la lanterne, c’est-à-dire que le Diamètre du haut soit un peu moins grand que celuy du bas, ainsy qu’il se peut connoitre par les mesures cottés, lesquelles mesures sont suivant le mod. des <term
                            type="gT" ref="#pilastreIonique"
                            >pilastres ioniques</term> du grand ordre du dedans de l’<term
                            type="gT" ref="#eglise">église</term>.</p>
@@ -8311,7 +8317,7 @@
                            >arcades</term> des Chapelles, leurs apuis est à la moitié de la hauteur du soubassement de la <term
                            type="gT" ref="#voute">voûte</term> compris les deux <term
                            type="gT" ref="#socle"
-                           >socles</term>. C'est-à-dire que le dessus des apuis est à 3 modules 23 parties au dessus de la <term
+                           >socles</term>. C’est-à-dire que le dessus des apuis est à 3 modules 23 parties au dessus de la <term
                            type="gT" ref="#corniche">corniche</term> de l’<term
                            type="gT" ref="#entablement"
                            >entablement</term> du grand ordre. La hauteur de leurs <term
@@ -9004,7 +9010,7 @@
                            type="gT" ref="#entablementDorique"
                            >entablement dorique</term>. De même que la <term type="gT"
                            ref="#cornicheDEntablement"
-                           >corniche d'entablement</term> extérieure des chapelles latérales des <term
+                           >corniche d’entablement</term> extérieure des chapelles latérales des <term
                            type="gT" ref="#basCotes">bas côtés</term> de l’<term
                            type="gT" ref="#eglise"
                                  ><choice><orig>églize</orig><expan>église</expan></choice></term>, ainsy qu’il a été expliqué cy dessus <ref
@@ -9273,7 +9279,7 @@
                            >chœur</term> est de quatre travées, chacune de même grandeur que l’espace du côté des <term
                            type="gT" ref="#croisillon"
                            >croisillons</term> entre la grille et la <term type="gT"
-                           ref="#nef">nef</term>. C'est-à-dire que le <term type="gT"
+                           ref="#nef">nef</term>. C’est-à-dire que le <term type="gT"
                            ref="#chœur"
                            >chœur</term> étant décoré du même ordre corinthien du dedans de l’<term
                            type="gT" ref="#eglise"
@@ -9690,7 +9696,7 @@
                            type="gT" ref="#nef"
                            >nef</term> est de trois degrès plus bas, afin que les religieuses voyent le maitre autel et les autels des chapelles par le dessus de la teste du peuple qui est dans l’<term
                            type="gT" ref="#eglise">église</term>.</p>
-                     <!-- NOT S'agit-il d'une sous-disivision du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-disivision du texte ? -->
                      <p xml:id="c2BodyFr01.05.002.p016">
                         <hi rend="bigger">Le comble</hi> du <term type="gT"
                            ref="#chœur"
@@ -9818,7 +9824,7 @@
                            >dôme</term>, avec une partie de l’élévation de la face extérieur du <term
                            type="gT" ref="#chœur"
                         >chœur</term> et des bâtimens du couvent.</p>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.05.003.p002">
                         <hi rend="bigger"
                            ><ref>À la première figure</ref></hi> qui est le profil du <term
@@ -9902,7 +9908,7 @@
                            >églises</term>. Le profil de celuy cy en fait connoître la construction particulière, le bas est en gorge au dessus du <term
                            type="gT" ref="#socle"
                         >socle</term> et ceintré par le haut, dont le dessus sera couvert de plomb ainsy que le bas de la gorge et le reste ou la pente est suffisante pourra être couvert d’ardoise.</p>
-                     <!-- NOT S'agit-il d'une sous-division du texte ? -->
+                     <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.05.003.p007">
                         <hi rend="bigger"
                            >La seconde figure</hi> est le profil de la moitié du <term
@@ -10471,7 +10477,7 @@
                            >avant cœur</term> G, au dessus du <term type="gT"
                            ref="#vestibule"
                            >vestibule</term> du rez de chaussée. La chambre 18 à côté du bas du <term
-                           type="gT" ref="#chœur">cœur</term> joignant l'<term
+                           type="gT" ref="#chœur">cœur</term> joignant l’<term
                            type="gT" ref="#eglise"
                            >église</term> sert de sacristie aux religieuses, pour serrer les livres <pb
                            xml:id="c2F130v" n="p257"
@@ -10612,7 +10618,7 @@
                               <reg>colonnes</reg>
                            </choice></term> qui l’environnent a la moitié de celuy de la <term
                            type="gT" ref="#nef"
-                           >nef</term>. C'est à dire que le diamètre du sanctuaire qui est au milieu, est environné de la <term
+                           >nef</term>. C’est à dire que le diamètre du sanctuaire qui est au milieu, est environné de la <term
                            type="gT" ref="#nef"
                            >nef</term>, à prendre du centre de la colomne 70 au centre de la colomne 71, a le double de la largeur des salles et est la moitié du diamètre de la <term
                            type="gT" ref="#nef"
@@ -10838,7 +10844,7 @@
                            >La</hi> proportion générale de l’intérieur du sanctuaire est conforme à la proportion des <term
                            type="gT" ref="#arcade">arcades</term> de l’<term type="gT"
                            ref="#ordreDorique"
-                           >ordre dorique</term>, c'est-à-dire que la hauteur depuis le haut de la <term
+                           >ordre dorique</term>, c’est-à-dire que la hauteur depuis le haut de la <term
                            type="gT" ref="#voute">voûte</term> de la <term type="gT"
                            ref="#calotte">calotte</term>, Jusqu’au pavé de la <term
                            type="gT" ref="#nef"
@@ -10986,7 +10992,7 @@
                            type="gT" ref="#grenier"
                            >greniers</term> que l’on pourroit <term type="gT"
                            ref="#lambris"><choice>
-                              <orig>l'ambrisser</orig>
+                              <orig>l’ambrisser</orig>
                               <reg>lambrissé</reg>
                            </choice></term> et disposer pour y mettre des malades. Si les salles du <term
                            type="gT" ref="#rezDeChaussee"
@@ -11130,7 +11136,7 @@
                   <div xml:id="c2BodyFr02.02.001" type="section" n="1">
                      <p xml:id="c2BodyFr02.02.001.p001">
                         <hi rend="bigger bold"
-                        >C’est par le commerce que les états</hi> se forment, s'acroisent, se soutiennent et se conservent dans l’abondance. Les peuples qui habitent de difficile abord sont ordinairement dans l’indigence, lorsqu’ils sont obligés de consommer entr’eux ce que la terre produit par leurs cultures, et leurs îndustries, sans en pouvoir faire part à leurs voisins, et sans aussy pouvoir recevoir de secours de ce qui croit dans les autres paÿs, à cause de la longueur des chemins et de l’éloignement des rivières navigables, sur lesquelles les marchandises se peuvent transporter à peu de frais et plus les rivières traversent de provinces, plus les villes qui les bordent ont de trafic et sont peuplées, mais principalement les villes maritimes qui ont des ports seures et aisés, placés à l’embouchure de ces rivières, où différentes marchandises arrivent de toutes les parties du monde.</p>
+                        >C’est par le commerce que les états</hi> se forment, s’acroisent, se soutiennent et se conservent dans l’abondance. Les peuples qui habitent de difficile abord sont ordinairement dans l’indigence, lorsqu’ils sont obligés de consommer entr’eux ce que la terre produit par leurs cultures, et leurs îndustries, sans en pouvoir faire part à leurs voisins, et sans aussy pouvoir recevoir de secours de ce qui croit dans les autres paÿs, à cause de la longueur des chemins et de l’éloignement des rivières navigables, sur lesquelles les marchandises se peuvent transporter à peu de frais et plus les rivières traversent de provinces, plus les villes qui les bordent ont de trafic et sont peuplées, mais principalement les villes maritimes qui ont des ports seures et aisés, placés à l’embouchure de ces rivières, où différentes marchandises arrivent de toutes les parties du monde.</p>
                      <p xml:id="c2BodyFr02.02.001.p002">
                         <hi rend="bigger"
                            >Les</hi> marchands s’assemblent pour faire leur commerce et trafiquer leurs marchandises, les unes pour les autres, en espèces ou autrement dans des lieux de la ville où ils peuvent se parler commodement sans être interrompu des passants. Et les villes bien policées, ont des édifices publics destinés à l’usage des marchands proche les grandes places et sur les ports où les marchandises se déchargent. Ces sortes d’<term
@@ -11374,11 +11380,11 @@
       </body>
       <back xml:id="c2Back">
          <div xml:id="c2BackFr" xml:lang="fre">
-            <!-- Inclusion du fichier de notes d'apparat historique -->
+            <!-- Inclusion du fichier de notes d’apparat historique -->
             <xi:include href="divs/desgodetsC2NotesHistorical.tei.xml" parse="xml">
                <xi:fallback>Fichier de notes de C2 non trouvé</xi:fallback>
             </xi:include>
-            <!-- Inclusion du fichier de notes d'apparat critique -->
+            <!-- Inclusion du fichier de notes d’apparat critique -->
             <xi:include href="divs/desgodetsC2NotesCritical.tei.xml" parse="xml">
                <xi:fallback>Fichier de notes critiques de C2 non trouvé</xi:fallback>
             </xi:include>

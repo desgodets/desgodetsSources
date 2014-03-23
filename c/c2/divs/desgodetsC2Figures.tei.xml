@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <!-- fichier inclus de liste des figures de C2 -->
-<!-- RMQ le fichier est traité en fichier inclus pour faciliter le travail d'édition sur le document. -->
+<!-- RMQ le fichier est traité en fichier inclus pour faciliter le travail d’édition sur le document. -->
 <!-- figDesc est destiné à accueillir la légende normalisée des figures -->
-<!--La lettre des planches est pour ainsi dire identique, on peut simplement dire que les dessins du manuscrit C2 de la Bnf sont plus habiles que ceux du manuscrit C1 du Rijk. Parfois les deux manuscrits reproduisent les mêmes erreurs dans le titre des planches (pour le titre "églises monacale" par exemple) et il manque dans les deux témoins la planche IX des "Églises cathédrales". En revanche le volume C1 présente une erreur de numérotation c1Pl0012 absente de C2. Par ailleurs, dans C2, à la planche c2Pl0028, figure rayé un numéo "93" qui est celui de la même page dans C1, c'est aussi le cas aux planches c2Pl0040 et c2Pl0041 où figurent rayés les numéros 133 et 136 qui sont les numéros de page de C1. Les proportions du dessin des modénatures étant plus précises dans C2. Il semble que la première figure manque dans C1, mais cela est peut-être dû à une lacune dans la reproduction. Sous réserve d'une analyse textuelle et d'une vérification du manuscrit C1, il est probable que ces deux manuscrits aient été copiés d'une même source, le manuscrit C1 reproduisant exactement l'original et donc sa pagination. Le fait que l'on constate la même lacune dans les deux volumes pour la planche numéro IX du chapitre des Églises cathédrales tend à confirmer cette hypothèse. -->
+<!--La lettre des planches est pour ainsi dire identique, on peut simplement dire que les dessins du manuscrit C2 de la Bnf sont plus habiles que ceux du manuscrit C1 du Rijk. Parfois les deux manuscrits reproduisent les mêmes erreurs dans le titre des planches (pour le titre "églises monacale" par exemple) et il manque dans les deux témoins la planche IX des "Églises cathédrales". En revanche le volume C1 présente une erreur de numérotation c1Pl0012 absente de C2. Par ailleurs, dans C2, à la planche c2Pl0028, figure rayé un numéo "93" qui est celui de la même page dans C1, c’est aussi le cas aux planches c2Pl0040 et c2Pl0041 où figurent rayés les numéros 133 et 136 qui sont les numéros de page de C1. Les proportions du dessin des modénatures étant plus précises dans C2. Il semble que la première figure manque dans C1, mais cela est peut-être dû à une lacune dans la reproduction. Sous réserve d’une analyse textuelle et d’une vérification du manuscrit C1, il est probable que ces deux manuscrits aient été copiés d’une même source, le manuscrit C1 reproduisant exactement l’original et donc sa pagination. Le fait que l’on constate la même lacune dans les deux volumes pour la planche numéro IX du chapitre des Églises cathédrales tend à confirmer cette hypothèse. -->
 <div xmlns="http://www.tei-c.org/ns/1.0" type="figures" xml:id="c2BackFr03"
     xml:lang="fre">
     <head>Liste des figures</head>
@@ -15,12 +15,12 @@
         <fw type="header"><hi rend="capital"> Description</hi> des anciennes <hi
                 rend="capital">églises</hi>.</fw>
         <fw type="chapterNum">Ch. <num n="1">I<hi rend="superscript">re</hi></num></fw>
-        <!-- TODO: Essayer d'encoder la numérotation -->
+        <!-- TODO: Essayer d’encoder la numérotation -->
         <head>Plan de lancienne Église de <placeName ref="#tyr">Tyr</placeName></head>
         <!-- élément vide figDesc destiné à accueillir les légendes normalisées -->
-        <!-- essai d'encodage avec msDesc dans figDesc -->
+        <!-- essai d’encodage avec msDesc dans figDesc -->
         <!-- <figDesc> <msDesc> <msIdentifier copyOf="#c2msIdentifier" /> <msContents> <msItemStruct> <locus from="#c2F9v" to="#c2F10" /> <author> <persName xml:lang="fre" full="yes">Desgodets, Antoine (1653-1728)</persName> </author> <respStmt> <resp key="com">compillateur</resp> <persName xml:lang="fre"> <forename>Jean</forename> <surname>Pinard</surname> </persName> </respStmt> <respStmt> <resp key="acp">artiste copiste</resp> <persName xml:lang="fre"> <forename>Jean</forename> <surname>Pinard</surname> </persName> </respStmt> <title type="supplied">Titre de la planche</title> </msItemStruct> </msContents> <physDesc> <objectDesc> <supportDesc> <support> <objectType>page du manuscrit</objectType> <material>papier</material> <watermark>raisins similaire à <ref>[référence]</ref>, <date>1570-1758</date></watermark> </support> <extent> <dimensions type="leaves"> <dim quantity="2" unit="leaves">1 folio</dim> <height quantity="410" unit="mm" /> <width quantity="250" unit="mm" /> <depth quantity="4" unit="mm" /> </dimensions> </extent> </supportDesc> </objectDesc> <decoDesc> <decoNote>dessin au lavis et mine de plomb</decoNote> </decoDesc> </physDesc> <history> <origin> <origDate>c. 1726</origDate> </origin> </history> </msDesc> </figDesc> -->
-        <!-- essai d'encodage directement dans figDesc -->
+        <!-- essai d’encodage directement dans figDesc -->
         <!-- <figDesc> <title><num>figure 1</num>titre de la figure</title> <desc>texte de description</desc> <locus from="#c2F9v" to="#c2F10">folio f9v à f10</locus> <dimensions> <height quantity="999" unit="mm" /> <width quantity="999" unit="mm" /> </dimensions> <material>papier</material> </figDesc>-->
         <!-- on a hésité à fournir la légende dans teiHeader, decoNote avec locus, ou msItem -->
         <!-- la solution retenue est la suivante, plus directe et plus simple -->
@@ -73,7 +73,8 @@
             <label>
                 <num n="3">3</num>
             </label>
-            <title>Coupe sur la longueur de l’église de <placeName ref="#romeSteSabine">Sainte-Sabine</placeName></title>
+            <title>Coupe sur la longueur de l’église de <placeName ref="#romeSteSabine"
+                    >Sainte-Sabine</placeName></title>
             <desc>plume et lavis, encres noire, jaune et rouge</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
@@ -260,7 +261,7 @@
             <label>
                 <num n="8">8</num>
             </label>
-            <title>Plans, coupes, et élévations d'autels dans les anciennes églises</title>
+            <title>Plans, coupes, et élévations d’autels dans les anciennes églises</title>
             <desc>plume et lavis, encres noire, jaune et rouge</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
@@ -278,7 +279,7 @@
                 <label>
                     <num n="1">1</num>
                 </label>
-                <title>Plan d'un autel</title>
+                <title>Plan d’un autel</title>
                 <dimensions/>
             </figDesc>
         </figure>
@@ -291,7 +292,7 @@
                 <label>
                     <num n="2">2</num>
                 </label>
-                <title>Coupe d'un autel</title>
+                <title>Coupe d’un autel</title>
                 <dimensions/>
             </figDesc>
         </figure>
@@ -304,7 +305,7 @@
                 <label>
                     <num n="3">3</num>
                 </label>
-                <title>Élévation d'un autel</title>
+                <title>Élévation d’un autel</title>
                 <dimensions/>
             </figDesc>
         </figure>
@@ -317,7 +318,7 @@
                 <label>
                     <num n="4">4</num>
                 </label>
-                <title>Élévation d'un autel</title>
+                <title>Élévation d’un autel</title>
                 <dimensions/>
             </figDesc>
         </figure>
@@ -330,7 +331,7 @@
                 <label>
                     <num n="5">5</num>
                 </label>
-                <title>Plan d'un autel avec baldaquin</title>
+                <title>Plan d’un autel avec baldaquin</title>
                 <dimensions/>
             </figDesc>
         </figure>
@@ -343,7 +344,7 @@
                 <label>
                     <num n="6">6</num>
                 </label>
-                <title>Élévation d'un autel avec baldaquin</title>
+                <title>Élévation d’un autel avec baldaquin</title>
                 <dimensions/>
             </figDesc>
         </figure>
@@ -356,7 +357,7 @@
                 <label>
                     <num n="7">7</num>
                 </label>
-                <title>Coupe d'un autel avec baldaquin</title>
+                <title>Coupe d’un autel avec baldaquin</title>
                 <dimensions/>
             </figDesc>
         </figure>
@@ -382,8 +383,10 @@
             </dimensions>
         </figDesc>
         <figure xml:id="c2Fig0009.01">
-            <head><num n="1">I<hi rend="superscript">e</hi> Fig<hi rend="superscript"
-                        >e</hi></num></head>
+            <head>
+                <num n="1">I<hi rend="superscript">e</hi> Fig<hi rend="superscript"
+                        >e</hi></num>
+            </head>
             <figDesc>
                 <label>
                     <num n="1">1</num>
@@ -417,7 +420,7 @@
             <label>
                 <num n="10">10</num>
             </label>
-            <title>Plan de l'<term target="#egliseCathedrale"
+            <title>Plan de l’<term target="#egliseCathedrale"
                 >église cathédrale</term></title>
             <desc>plume et encre noire</desc>
             <dimensions>
@@ -437,7 +440,7 @@
                 <num n="11">11</num>
             </label>
             <title>Plan des <term type="gT" ref="#cave">caves</term> et <term type="gT"
-                    ref="#fondation">fondations</term> de l'<term type="gT"
+                    ref="#fondation">fondations</term> de l’<term type="gT"
                     target="#egliseCathedrale">église cathédrale</term></title>
             <desc>plume et encre noire</desc>
             <dimensions>
@@ -458,7 +461,7 @@
             <title>Plan du <term type="gT" ref="#chevet"
                     >chevet</term>, coupe transversale, et profil des <term type="gT"
                     ref="#architrave">architraves</term> des <term type="gT"
-                    ref="#collateral">collatéraux</term> de l'<term type="gT"
+                    ref="#collateral">collatéraux</term> de l’<term type="gT"
                     target="#egliseCathedrale">église cathédrale</term></title>
             <desc>plume et lavis, encres noire, jaune et rouge</desc>
             <dimensions>
@@ -474,7 +477,7 @@
                 <label>
                     <num n="1">1</num>
                 </label>
-                <title>Plan du <term type="gT" ref="#chevet">chevet</term> de l'<term
+                <title>Plan du <term type="gT" ref="#chevet">chevet</term> de l’<term
                         type="gT" target="#egliseCathedrale"
                     >église cathédrale</term></title>
             </figDesc>
@@ -488,7 +491,7 @@
                 <label>
                     <num n="2">2</num>
                 </label>
-                <title>Coupe transversale l'<term type="gT" ref="#egliseCathedrale"
+                <title>Coupe transversale l’<term type="gT" ref="#egliseCathedrale"
                         >église cathédrale</term></title>
             </figDesc>
         </figure>
@@ -501,7 +504,7 @@
                 </label>
                 <title>Profil des <term type="gT" ref="#architrave"
                         >architraves</term> des <term type="gT" ref="#collateral"
-                        >collatéraux</term> de l'<term type="gT"
+                        >collatéraux</term> de l’<term type="gT"
                         ref="#egliseCathedrale">église cathédrale</term></title>
             </figDesc>
         </figure>
@@ -516,7 +519,7 @@
                 <num n="13">13</num>
             </label>
             <title>Plan du <term type="gT" ref="#premierEtage"
-                    >premier étage</term> de l'<term type="gT" ref="#egliseCathedrale"
+                    >premier étage</term> de l’<term type="gT" ref="#egliseCathedrale"
                     >église cathédrale</term></title>
             <desc>plume et lavis, encres noire et bleue</desc>
             <dimensions>
@@ -535,7 +538,7 @@
                 <num n="14">14</num>
             </label>
             <title>Plans du <term type="gT" ref="#dome"
-                    >dôme</term> et élévation de la façade principale de l'<term
+                    >dôme</term> et élévation de la façade principale de l’<term
                     type="gT" ref="#egliseCathedrale">église cathédrale</term></title>
             <desc>plume et lavis, encres noire, jaune et bleue</desc>
             <dimensions>
@@ -550,7 +553,7 @@
                     <num n="1"/>
                     <title>Plan du <term type="gT" ref="#sousbassement"
                             >sousbassement</term> du <term type="gT" ref="#dome"
-                            >dôme</term> de l'<term type="gT" ref="#egliseCathedrale"
+                            >dôme</term> de l’<term type="gT" ref="#egliseCathedrale"
                             >église cathédrale</term></title>
                     <!-- TODO vérifier si sousbassement est adapté -->
                 </label>
@@ -563,7 +566,7 @@
                     <num n="2"/>
                 </label>
                 <title>Plan du <term type="gT" ref="#tambour"
-                        >tambour</term> du dôme de l'<term type="gT"
+                        >tambour</term> du dôme de l’<term type="gT"
                         ref="#egliseCathedrale">église cathédrale</term></title>
             </figDesc>
         </figure>
@@ -576,7 +579,7 @@
                     <num n="3"/>
                 </label>
                 <title>Plan de la <term type="gT" ref="#lanterne"
-                        >lanterne</term> du dôme de l'<term type="gT"
+                        >lanterne</term> du dôme de l’<term type="gT"
                         ref="#egliseCathedrale">église cathédrale</term></title>
             </figDesc>
         </figure>
@@ -587,7 +590,7 @@
                 <label>
                     <num n="4"/>
                 </label>
-                <title>Élévation de la façade principale de l'<term type="gT"
+                <title>Élévation de la façade principale de l’<term type="gT"
                         ref="#egliseCathedrale">église cathédrale</term></title>
             </figDesc>
         </figure>
@@ -603,7 +606,7 @@
             <label>
                 <num n="15">15</num>
             </label>
-            <title>Élévation latérale  de l'<term type="gT" ref="#egliseCathedrale"
+            <title>Élévation latérale  de l’<term type="gT" ref="#egliseCathedrale"
                     >église cathédrale</term></title>
             <desc>plume et lavis, encres noire, jaune et bleue</desc>
             <dimensions>
@@ -622,7 +625,7 @@
                 <num n="16">16</num>
             </label>
             <title>Coupe transversale au niveau de la croisée du <term type="gT"
-                    ref="#transept">transept</term> de l'<term type="gT"
+                    ref="#transept">transept</term> de l’<term type="gT"
                     ref="#egliseCathedrale">église cathédrale</term></title>
             <desc>plume et lavis, encres noire, rouge et jaune</desc>
             <dimensions>
@@ -641,7 +644,7 @@
                 <num n="17">17</num>
             </label>
             <title>Coupe transversale de la chapelle axiale et du <term type="gT"
-                    ref="#transept">transept</term>  de l'<term type="gT"
+                    ref="#transept">transept</term>  de l’<term type="gT"
                     ref="#egliseCathedrale">église cathédrale</term></title>
             <desc>plume et lavis, encres noire, rouge et jaune</desc>
             <dimensions>
@@ -657,8 +660,8 @@
                 <label>
                     <num n="1">1</num>
                 </label>
-                <title>Coupe transversale de la chapelle axiale de l'<term type="gT"
-                    ref="#egliseCathedrale">église cathédrale</term></title>
+                <title>Coupe transversale de la chapelle axiale de l’<term type="gT"
+                        ref="#egliseCathedrale">église cathédrale</term></title>
             </figDesc>
         </figure>
         <figure xml:id="c2Fig0017.02">
@@ -669,8 +672,9 @@
                 <label>
                     <num n="2">2</num>
                 </label>
-                <title>Coupe transversale du <term type="gT" ref="#transept">transept</term> de l'<term type="gT"
-                    ref="#egliseCathedrale">église cathédrale</term></title>
+                <title>Coupe transversale du <term type="gT" ref="#transept"
+                        >transept</term> de l’<term type="gT" ref="#egliseCathedrale"
+                        >église cathédrale</term></title>
             </figDesc>
         </figure>
     </figure>
@@ -679,15 +683,14 @@
     <figure xml:id="c2Pl0018" type="plate" facs="#c2FacsPl0018">
         <fw type="header"><num n="10">X dessein.</num>
             <hi rend="capital"> Église cathédrale</hi> Cha. II</fw>
-        <!-- TODO: Vérifier qu'il s'agit bien de la X sur le manuscrit -->
+        <!-- TODO: Vérifier qu’il s’agit bien de la X sur le manuscrit -->
         <figDesc>
             <locus from="#c2F59r" n="p115">p. 115</locus>
             <label>
                 <num n="18">18</num>
             </label>
-            <title>Plan du <term type="gT"
-                ref="#chœur">chœur</term> de l'<term type="gT"
-                    ref="#egliseCathedrale">église cathédrale</term></title>
+            <title>Plan du <term type="gT" ref="#chœur">chœur</term> de l’<term
+                    type="gT" ref="#egliseCathedrale">église cathédrale</term></title>
             <desc>plume et encre noire</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
@@ -705,10 +708,12 @@
             <label>
                 <num n="19">19</num>
             </label>
-            <title>Élévation du <term type="gT"
-                ref="#chœur">chœur</term> de l'<term type="gT"
-                    ref="#egliseCathedrale">église cathédrale</term> en avant du <term type="gT" ref="#baldaquin">baldaquin</term> du <term type="gT" ref="#maitreAutel">maître autel</term></title>
-            <desc>plume et lavis à l'encre noire</desc>
+            <title>Élévation du <term type="gT" ref="#chœur">chœur</term> de l’<term
+                    type="gT" ref="#egliseCathedrale"
+                    >église cathédrale</term> en avant du <term type="gT"
+                    ref="#baldaquin">baldaquin</term> du <term type="gT"
+                    ref="#maitreAutel">maître autel</term></title>
+            <desc>plume et lavis à l’encre noire</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
                 <width quantity="42" unit="mm"/>
@@ -724,9 +729,10 @@
             <label>
                 <num n="20">20</num>
             </label>
-            <title>Coupe transversale du <term type="gT"
-                ref="#baldaquin">baldaquin</term> du <term type="gT" ref="#maitreAutel">maître autel</term> de l'<term type="gT"
-                    ref="#egliseCathedrale">église cathédrale</term></title>
+            <title>Coupe transversale du <term type="gT" ref="#baldaquin"
+                    >baldaquin</term> du <term type="gT" ref="#maitreAutel"
+                    >maître autel</term> de l’<term type="gT" ref="#egliseCathedrale"
+                    >église cathédrale</term></title>
             <desc>plume et lavis, encres noire et rouge</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
@@ -746,8 +752,8 @@
             <label>
                 <num n="21">21</num>
             </label>
-            <title>Plan de l'<term type="gT"
-                    ref="#egliseParoissiale">église paroissiale</term></title>
+            <title>Plan de l’<term type="gT" ref="#egliseParoissiale"
+                    >église paroissiale</term></title>
             <desc>plume et encre noire</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
@@ -765,8 +771,9 @@
             <label>
                 <num n="22">22</num>
             </label>
-            <title>Plan des <term type="gT" ref="#cave">caves</term> et <term type="gT" ref="#fondation">fondations</term> de l'<term type="gT"
-                ref="#egliseParoissiale">église paroissiale</term></title>
+            <title>Plan des <term type="gT" ref="#cave">caves</term> et <term type="gT"
+                    ref="#fondation">fondations</term> de l’<term type="gT"
+                    ref="#egliseParoissiale">église paroissiale</term></title>
             <desc>plume et encre noire</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
@@ -783,9 +790,11 @@
             <label>
                 <num n="23">23</num>
             </label>
-            <title>Coupe transversale de la <term type="gT" ref="#nef">nef</term> et plan du <term type="gT" ref="#chœur">chœur</term> de l'<term type="gT"
-                ref="#egliseParoissiale">église paroissiale</term></title>
-            <desc>plume et lavis à l'encre noire et rouge</desc>
+            <title>Coupe transversale de la <term type="gT" ref="#nef"
+                    >nef</term> et plan du <term type="gT" ref="#chœur"
+                    >chœur</term> de l’<term type="gT" ref="#egliseParoissiale"
+                    >église paroissiale</term></title>
+            <desc>plume et lavis à l’encre noire et rouge</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
                 <width quantity="42" unit="mm"/>
@@ -799,8 +808,9 @@
                 <label>
                     <num n="1">1</num>
                 </label>
-                <title>Plan du <term type="gT" ref="#chœur">chœur</term> de l'<term type="gT"
-                    ref="#egliseParoissiale">église paroissiale</term></title>
+                <title>Plan du <term type="gT" ref="#chœur">chœur</term> de l’<term
+                        type="gT" ref="#egliseParoissiale"
+                    >église paroissiale</term></title>
             </figDesc>
         </figure>
         <figure xml:id="c2Fig0023.02">
@@ -811,8 +821,8 @@
                 <label>
                     <num n="2">2</num>
                 </label>
-                <title>Coupe transversale de l'<term type="gT"
-                    ref="#egliseParoissiale">église paroissiale</term></title>
+                <title>Coupe transversale de l’<term type="gT" ref="#egliseParoissiale"
+                        >église paroissiale</term></title>
             </figDesc>
         </figure>
     </figure>
@@ -825,9 +835,10 @@
             <label>
                 <num n="24">24</num>
             </label>
-            <title>Plan du <term type="gT" ref="#premierEtage">premier étage</term> de l'<term type="gT"
-                ref="#egliseParoissiale">église paroissiale</term></title>
-            <desc>plume et lavis à l'encre noire</desc>
+            <title>Plan du <term type="gT" ref="#premierEtage"
+                    >premier étage</term> de l’<term type="gT" ref="#egliseParoissiale"
+                    >église paroissiale</term></title>
+            <desc>plume et lavis à l’encre noire</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
                 <width quantity="42" unit="mm"/>
@@ -844,8 +855,8 @@
             <label>
                 <num n="25">25</num>
             </label>
-            <title>Coupe longitudinale de l'<term type="gT"
-                ref="#egliseParoissiale">église paroissiale</term></title>
+            <title>Coupe longitudinale de l’<term type="gT" ref="#egliseParoissiale"
+                    >église paroissiale</term></title>
             <desc>plume et lavis, encres noire, jaune et rouge</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
@@ -862,8 +873,9 @@
             <label>
                 <num n="26">26</num>
             </label>
-            <title>Coupe transversale et élévations du chevet et de la façade principale de l'<term type="gT"
-                ref="#egliseParoissiale">église paroissiale</term></title>
+            <title>Coupe transversale et élévations du chevet et de la façade principale de l’<term
+                    type="gT" ref="#egliseParoissiale"
+                >église paroissiale</term></title>
             <desc>plume et lavis, encres noire, jaune et rouge</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
@@ -878,8 +890,8 @@
                 <label>
                     <num n="1">1</num>
                 </label>
-                <title>Coupe transversale de l'<term type="gT"
-                    ref="#egliseParoissiale">église paroissiale</term></title>
+                <title>Coupe transversale de l’<term type="gT" ref="#egliseParoissiale"
+                        >église paroissiale</term></title>
             </figDesc>
         </figure>
         <figure xml:id="c2Fig0026.02">
@@ -890,8 +902,8 @@
                 <label>
                     <num n="2">2</num>
                 </label>
-                <title>Élévation de la façade principale de l'<term type="gT"
-                    ref="#egliseParoissiale">église paroissiale</term></title>
+                <title>Élévation de la façade principale de l’<term type="gT"
+                        ref="#egliseParoissiale">église paroissiale</term></title>
             </figDesc>
         </figure>
         <figure xml:id="c2Fig0026.03">
@@ -902,8 +914,9 @@
                 <label>
                     <num n="3">3</num>
                 </label>
-                <title>Élévation du <term type="gT" ref="#chevet">chevet</term> de l'<term type="gT"
-                    ref="#egliseParoissiale">église paroissiale</term></title>
+                <title>Élévation du <term type="gT" ref="#chevet"
+                        >chevet</term> de l’<term type="gT" ref="#egliseParoissiale"
+                        >église paroissiale</term></title>
             </figDesc>
         </figure>
     </figure>
@@ -916,8 +929,9 @@
             <label>
                 <num n="27">27</num>
             </label>
-            <title>Plan du <term type="gT" ref="#chœur">chœur</term> de l'<term type="gT"
-                ref="#egliseParoissiale">église paroissiale</term></title>
+            <title>Plan du <term type="gT" ref="#chœur">chœur</term> de l’<term
+                    type="gT" ref="#egliseParoissiale"
+                >église paroissiale</term></title>
             <desc>plume et encre noire</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
@@ -935,8 +949,9 @@
             <label>
                 <num n="28">28</num>
             </label>
-            <title>Élévation du <term type="gT" ref="#maitreAutel">maître autel</term> de l'<term type="gT"
-                ref="#egliseParoissiale">église paroissiale</term></title>
+            <title>Élévation du <term type="gT" ref="#maitreAutel"
+                    >maître autel</term> de l’<term type="gT" ref="#egliseParoissiale"
+                    >église paroissiale</term></title>
             <desc>plume et lavis, encres noire et rouge</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
@@ -957,8 +972,8 @@
             <label>
                 <num n="29">29</num>
             </label>
-            <title>Plan de l'<term type="gT"
-                ref="#egliseMonacale">église monacale</term></title>
+            <title>Plan de l’<term type="gT" ref="#egliseMonacale"
+                    >église monacale</term></title>
             <desc>plume et encre noire</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
@@ -976,9 +991,9 @@
             <label>
                 <num n="30">30</num>
             </label>
-            <title>Coupe transversale de l'<term type="gT"
-                ref="#egliseMonacale">église monacale</term></title>
-            <desc>plume et lavis à l'encre noire</desc>
+            <title>Coupe transversale de l’<term type="gT" ref="#egliseMonacale"
+                    >église monacale</term></title>
+            <desc>plume et lavis à l’encre noire</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
                 <width quantity="42" unit="mm"/>
@@ -994,8 +1009,8 @@
             <label>
                 <num n="31">31</num>
             </label>
-            <title>Coupe longitudinale de l'<term type="gT"
-                ref="#egliseMonacale">église monacale</term></title>
+            <title>Coupe longitudinale de l’<term type="gT" ref="#egliseMonacale"
+                    >église monacale</term></title>
             <desc>plume et lavis, encres noire, jaune et rouge</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
@@ -1012,8 +1027,10 @@
             <label>
                 <num n="32">32</num>
             </label>
-            <title>Coupe transversale en avant du <term type="gT" ref="#baldaquin">baldaquin</term> du <term type="gT" ref="#maitreAutel">maître autel</term> et élévation de la façade principale de l'<term type="gT"
-                ref="#egliseMonacale">église monacale</term></title>
+            <title>Coupe transversale en avant du <term type="gT" ref="#baldaquin"
+                    >baldaquin</term> du <term type="gT" ref="#maitreAutel"
+                    >maître autel</term> et élévation de la façade principale de l’<term
+                    type="gT" ref="#egliseMonacale">église monacale</term></title>
             <desc>plume et lavis, encres noire, jaune et rouge</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
@@ -1028,8 +1045,10 @@
                 <label>
                     <num n="1">1</num>
                 </label>
-                <title>Coupe transversale en avant du <term type="gT" ref="#baldaquin">baldaquin</term> du <term type="gT" ref="#maitreAutel">maître autel</term> de l'<term type="gT"
-                    ref="#egliseMonacale">église monacale</term></title>
+                <title>Coupe transversale en avant du <term type="gT" ref="#baldaquin"
+                        >baldaquin</term> du <term type="gT" ref="#maitreAutel"
+                        >maître autel</term> de l’<term type="gT" ref="#egliseMonacale"
+                        >église monacale</term></title>
             </figDesc>
         </figure>
         <figure xml:id="c2Fig0032.02">
@@ -1040,8 +1059,8 @@
                 <label>
                     <num n="2">2</num>
                 </label>
-                <title>Élévation de la façade principale de l'<term type="gT"
-                ref="#egliseMonacale">église monacale</term></title>
+                <title>Élévation de la façade principale de l’<term type="gT"
+                        ref="#egliseMonacale">église monacale</term></title>
             </figDesc>
         </figure>
     </figure>
@@ -1057,8 +1076,8 @@
             <label>
                 <num n="33">33</num>
             </label>
-            <title>Plan de l'<term type="gT"
-                ref="#egliseConventuelle">église conventuelle</term></title>
+            <title>Plan de l’<term type="gT" ref="#egliseConventuelle"
+                    >église conventuelle</term></title>
             <desc>plume et encre noire</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
@@ -1075,8 +1094,9 @@
             <label>
                 <num n="34">34</num>
             </label>
-            <title>Coupe longitudinale et plan du <term type="gT" ref="#premierEtage">premier étage</term> de l'<term type="gT"
-                ref="#egliseConventuelle">église conventuelle</term></title>
+            <title>Coupe longitudinale et plan du <term type="gT" ref="#premierEtage"
+                    >premier étage</term> de l’<term type="gT"
+                    ref="#egliseConventuelle">église conventuelle</term></title>
             <desc>plume et lavis, encres noire, jaune et rouge</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
@@ -1091,8 +1111,9 @@
                 <label>
                     <num n="1">1</num>
                 </label>
-                <title>Coupe longitudinale dans l'axe du chœur des religieuses de l'<term type="gT"
-                    ref="#egliseConventuelle">église conventuelle</term></title>
+                <title>Coupe longitudinale dans l’axe du chœur des religieuses de l’<term
+                        type="gT" ref="#egliseConventuelle"
+                    >église conventuelle</term></title>
             </figDesc>
         </figure>
         <figure xml:id="c2Fig0034.02">
@@ -1103,8 +1124,9 @@
                 <label>
                     <num n="2">2</num>
                 </label>
-                <title>Plan du <term type="gT" ref="#premierEtage">premier étage</term> de l'<term type="gT"
-                    ref="#egliseConventuelle">église conventuelle</term></title>
+                <title>Plan du <term type="gT" ref="#premierEtage"
+                        >premier étage</term> de l’<term type="gT"
+                        ref="#egliseConventuelle">église conventuelle</term></title>
             </figDesc>
         </figure>
     </figure>
@@ -1117,8 +1139,8 @@
             <label>
                 <num n="35">35</num>
             </label>
-            <title>Coupes transversales de l'<term type="gT"
-                ref="#egliseConventuelle">église conventuelle</term> perpendiculairement au chœur des religieuses et élévation de la façade principale</title>
+            <title>Coupes transversales de l’<term type="gT" ref="#egliseConventuelle"
+                    >église conventuelle</term> perpendiculairement au chœur des religieuses et élévation de la façade principale</title>
             <desc>plume et lavis, encres noire, jaune, rouge et bleue</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
@@ -1133,8 +1155,10 @@
                 <label>
                     <num n="1">1</num>
                 </label>
-                <title>Coupe transversale de l'<term type="gT"
-                    ref="#egliseConventuelle">église conventuelle</term> prise perpendiculairement à l'axe du chœur des religieuses, en avant de l'<term type="gT" ref="autel">autel</term></title>
+                <title>Coupe transversale de l’<term type="gT"
+                        ref="#egliseConventuelle"
+                        >église conventuelle</term> prise perpendiculairement à l’axe du chœur des religieuses, en avant de l’<term
+                        type="gT" ref="autel">autel</term></title>
             </figDesc>
         </figure>
         <figure xml:id="c2Fig0035.02">
@@ -1142,8 +1166,8 @@
                 <label>
                     <num n="2">2</num>
                 </label>
-                <title>Coupe transversale du chœur des religieuses de l'<term type="gT"
-                    ref="#egliseConventuelle">église conventuelle</term></title>
+                <title>Coupe transversale du chœur des religieuses de l’<term type="gT"
+                        ref="#egliseConventuelle">église conventuelle</term></title>
             </figDesc>
         </figure>
         <figure xml:id="c2Fig0035.03">
@@ -1151,8 +1175,8 @@
                 <label>
                     <num n="3">3</num>
                 </label>
-                <title>Élévation de la façade principale de l'<term type="gT"
-                    ref="#egliseConventuelle">église conventuelle</term></title>
+                <title>Élévation de la façade principale de l’<term type="gT"
+                        ref="#egliseConventuelle">église conventuelle</term></title>
             </figDesc>
         </figure>
     </figure>
@@ -1168,7 +1192,9 @@
             <label>
                 <num n="36">36</num>
             </label>
-            <title>Plan du <term type="gT" ref="#rezDeChaussee">rez-de-chaussée</term> de l'<term type="gT" ref="#hopital">hôtel-dieu</term></title>
+            <title>Plan du <term type="gT" ref="#rezDeChaussee"
+                    >rez-de-chaussée</term> de l’<term type="gT" ref="#hopital"
+                    >hôtel-dieu</term></title>
             <desc>plume et encre noire</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
@@ -1185,7 +1211,9 @@
             <label>
                 <num n="37">37</num>
             </label>
-            <title>Plan du <term type="gT" ref="#premierEtage">premier étage</term> de l'<term type="gT" ref="#hopital">hôtel-dieu</term></title>
+            <title>Plan du <term type="gT" ref="#premierEtage"
+                    >premier étage</term> de l’<term type="gT" ref="#hopital"
+                    >hôtel-dieu</term></title>
             <desc>plume et encre noire</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
@@ -1202,7 +1230,10 @@
             <label>
                 <num n="38">38</num>
             </label>
-            <title>Plan du <term type="gT" ref="#rezDeChaussee">rez-de-chaussée</term> de la <term type="gT" ref="#chapelle">chapelle</term> de l'<term type="gT" ref="#hopital">hôtel-dieu</term></title>
+            <title>Plan du <term type="gT" ref="#rezDeChaussee"
+                    >rez-de-chaussée</term> de la <term type="gT" ref="#chapelle"
+                    >chapelle</term> de l’<term type="gT" ref="#hopital"
+                    >hôtel-dieu</term></title>
             <desc>plume et encre noire</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
@@ -1219,7 +1250,9 @@
             <label>
                 <num n="39">39</num>
             </label>
-            <title>Coupe longitudinale de la <term type="gT" ref="#chapelle">chapelle</term> de l'<term type="gT" ref="#hopital">hôtel-dieu</term> et élévation de la façade principale</title>
+            <title>Coupe longitudinale de la <term type="gT" ref="#chapelle"
+                    >chapelle</term> de l’<term type="gT" ref="#hopital"
+                    >hôtel-dieu</term> et élévation de la façade principale</title>
             <desc>plume et lavis, encres noire, jaune, rouge et bleue</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
@@ -1234,7 +1267,9 @@
                 <label>
                     <num n="1">1</num>
                 </label>
-                <title>Coupe longitudinale de la <term type="gT" ref="#chapelle">chapelle</term> de l'<term type="gT" ref="#hopital">hôtel-dieu</term></title>
+                <title>Coupe longitudinale de la <term type="gT" ref="#chapelle"
+                        >chapelle</term> de l’<term type="gT" ref="#hopital"
+                        >hôtel-dieu</term></title>
             </figDesc>
         </figure>
         <figure xml:id="c2Fig0039.02">
@@ -1245,7 +1280,8 @@
                 <label>
                     <num n="2">2</num>
                 </label>
-                <title>Élévation de la façade principale de l'<term type="gT" ref="#hopital">hôtel-dieu</term></title>
+                <title>Élévation de la façade principale de l’<term type="gT"
+                        ref="#hopital">hôtel-dieu</term></title>
             </figDesc>
         </figure>
     </figure>
@@ -1262,7 +1298,9 @@
             <label>
                 <num n="40">40</num>
             </label>
-            <title>Plan du <term type="gT" ref="#premierEtage">premier étage</term> de l'<term type="gT" ref="#hotelDeVille">hôtel de ville</term></title>
+            <title>Plan du <term type="gT" ref="#premierEtage"
+                    >premier étage</term> de l’<term type="gT" ref="#hotelDeVille"
+                    >hôtel de ville</term></title>
             <desc>plume et encre noire</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
@@ -1280,8 +1318,9 @@
             <label>
                 <num n="40">40</num>
             </label>
-            <title>Plan de l'<term type="gT" ref="#hotelDeVille">hôtel de ville</term></title>
-            <!-- TODO identifier l'étage -->
+            <title>Plan de l’<term type="gT" ref="#hotelDeVille"
+                >hôtel de ville</term></title>
+            <!-- TODO identifier l’étage -->
             <desc>plume et encre noire</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
