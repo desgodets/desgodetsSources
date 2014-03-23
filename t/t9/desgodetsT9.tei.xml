@@ -9,7 +9,7 @@
 -->
 <!-- TODO : supprimer les exemples d'encodage mis en commentaire dans le header -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <!-- début de l'en-<term type="gT" ref="#tete">tête</term> TEI -->
+    <!-- début de l'en-tête TEI -->
     <teiHeader>
         <fileDesc>
             <!-- mentions de titre et de responsabilité -->
@@ -241,7 +241,7 @@
                             </supportDesc>
                             <layoutDesc>
                                 <layout columns="1" ruledLines="25 30">texte sur une colonne, 25 à
-                                    30 <term type="gT" ref="#ligne">lignes</term> réglées</layout>
+                                    30 lignes réglées</layout>
                                 <!-- layout est répétable et peut contenir une localisation avec locus -->
                             </layoutDesc>
                         </objectDesc>
@@ -302,7 +302,7 @@
                 <interpretation>
                     <p>Les interprétations sont traitées au moyen d’un élément supplied ou bien sont
                         renvoyées en notes. Une mention de responsabilité est fournie grâce à
-                        l’attribut resp sur le <term type="gT" ref="#passage">passage</term> concerné.</p>
+                        l’attribut resp sur le passage concerné.</p>
                 </interpretation>
                 <normalization>
                     <p>La ponctuation ainsi que les majuscules ont été normalisées. Les abréviations
