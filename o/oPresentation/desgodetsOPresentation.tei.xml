@@ -1404,7 +1404,7 @@
             </div>
         </body>
         <back xml:id="oPresentationBack">
-            <div>
+            
                 <div xml:id="oPresentationBackFr" xml:lang="fre">
                     <!-- sortie du tableau de tradition (liste des témoins) à partir de listWit dans desgodetsC.tei.xml et des en-tête des témoins concernés -->
                     <divGen n="tradition" type="tradition">
@@ -1429,7 +1429,7 @@
                         <!-- générer une division div de type="biblio" en posant une ancre (xml:id=concat({idDuFichier},'Biblio') ), contenant la liste des références bibliographiques citées dans le corps de l'édition du manuscrit concerné -->
                     </divGen>
                 </div>
-            </div>
+            
         </back>
     </text>
 </TEI>
