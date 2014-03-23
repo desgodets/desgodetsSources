@@ -10,8 +10,8 @@
 
 <!-- RMQ : fichier principal qui contient toutes les composantes de l'édition électronique : le texte de présentation générale du corpus et du travail d'édition ; les fichiers racines de corpus pour chacun des Cours édités ; les sections communes à l'édition du corpus général des cours de Desgodets (index nominum, index locorum, index rerum, glossaires des termes techniques et juridiques, et bibliographie). -->
 <!-- TODO : renseigner les l'élément sourceDesc correctement -->
-<teiCorpus  xmlns="http://www.tei-c.org/ns/1.0" 
-            xmlns:xi="http://www.w3.org/2001/XInclude">
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xi="http://www.w3.org/2001/XInclude">
     <!-- début de l'en-tête TEI -->
     <teiHeader>
         <fileDesc>
@@ -80,6 +80,14 @@
                         <forename>Juliette</forename>
                         <surname>Hernu</surname>
                     </persName>
+                    <persName xml:id="JS">
+                        <forename>Joël</forename>
+                        <surname>Sakarovitch</surname>
+                    </persName>
+                    <persName xml:id="GR">
+                        <persName>Gabrielle</persName>
+                        <surname>de Roincé</surname>
+                    </persName>
                     <persName xml:id="HRC">
                         <forename>Hélène</forename>
                         <surname>Rousteau-Chambon</surname>
@@ -103,6 +111,10 @@
                     <persName ref="#JH">
                         <forename>Juliette</forename>
                         <surname>Hernu</surname>
+                    </persName>
+                    <persName ref="#LT">
+                        <forename>Linnéa</forename>
+                        <surname>Tilly</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -128,14 +140,15 @@
             </titleStmt>
             <!-- mention d'édition -->
             <editionStmt>
-                <edition n="1">première édition électronique, <date from="2013" to="2013">2008-2013</date></edition>
+                <edition n="1">première édition électronique, <date from="2013"
+                        to="2013">2008-2013</date></edition>
             </editionStmt>
             <extent><!-- TODO : taille du fichier en octet --></extent>
             <!-- information sur la publication électronique -->
             <publicationStmt>
                 <date when="2013">2013</date>
                 <!-- voir si on attribue un DOI ou un identifiant ARK aux fichiers édités -->
-                <idno>desgodets</idno>
+                <idno type="URI">http://www.desgodets.net</idno>
                 <!-- responsable de la publication -->
                 <publisher>
                     <orgName>Centre de théorie et d'analyse du droit (UMR 7074)</orgName>
@@ -151,17 +164,35 @@
                         <addrLine>contact@desgodets.fr</addrLine>
                     </address>
                 </publisher>
-                <availability status="restricted">
-                    <p>Le Centre de théorie et d'analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons : « Paternité - Pas d'Utilisation Commerciale - Pas de Modification ; 3.0 France ».
+                <availability status="restricted" xml:id="imagesLicence">
+                    <p>Les images numériques des manuscrits sont mises à disposition par les institutions partenaires mais restent leur propriété exclusive. Celles-ci en autorisent la reproduction et la réutilisation selon leurs propres règles en vigueur. Toute diffusion de ces images, sous quelque forme et sur quelque support que ce soit (papier, audiovisuel, ou numérique), pour quelque finalité que ce soit (pédagogique, scientifique ou commercial), doit faire l’objet d’une demande d’autorisation préalable auprès de l’institution concernée.</p>
+                </availability>
+                <availability status="restricted" xml:id="textLicence">
+                    <p>Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
                         <lb/>Cette licence est disponible en ligne : <ref
-                            target="http://creativecommons.org/licences/by-nc-nd/3.0/fr">http://creativecommons.org/licenses/by-nc-nd/3.0/fr/</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</p>
-                    <p>Pas d'Utilisation Commerciale : Le Centre de théorie et d'analyse du droit souhaite encourager l'utilisation et l'amélioration de ses ressources électroniques, pour les intérêts de l'enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d'analyse du droit.</p>
-                    <p>Pas de Modification : Afin de mieux servir la communauté scientifique, Le Centre de théorie et d'analyse du droit s'engage à conserver et à toujours offrir publiquement la version la plus à jour de ses ressources électroniques par une URI pérenne. Il s'engage à les corriger et à les améliorer, à intégrer les contributions qui lui sont soumises (après validation par un comité scientifique), et à référencer l'origine de ces contributions. Toute modification de la ressource qui ne serait pas reversée à la version de référence sous l'autorité éditoriale du Centre de théorie et d'analyse du droit doit faire l'objet de l'accord de celui-ci, afin de ne pas disperser les contributions et de permettre les meilleures conditions possibles de collaboration scientifique.</p>
-                    <p>Paternité : Le Centre de théorie et d'analyse du droit demande à ce que toute publication dérivée de ses ressources électroniques comporte :
-                        <lb/>1. le nom du Centre de théorie et d'analyse du droit et, pour les publications électroniques, son logo
-                        <lb/>2. l'URI permettant d'accéder à la page citée sur notre site, ou à la page d'accueil de la ressource
-                        <lb/>3. la date du fichier source utilisé.
-                    </p>
+                            target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
+                            >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</p>
+                    <p>Attribution : Vous devez créditer l’œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées. Vous devez indiquer ces informations par tous les moyens possibles mais vous ne pouvez pas suggérer que le Centre de théorie et d’analyse du droit vous soutient ou soutient la façon dont vous avez utilisé son œuvre. 
+                        <lb/>Le Centre de théorie et d’analyse du droit demande à ce que toute publication dérivée de ses ressources électroniques comporte : 
+                        <lb/>1. le nom du Centre de théorie
+                        et d’analyse du droit et, pour les publications électroniques,
+                        son logo ainsi que la mention des auteurs de l’édition. 
+                        <lb/>2. l’URI permettant d’accéder à la page citée
+                        sur notre site, ou à la page d’accueil de la ressource
+                        <lb/>3. la date et la version du fichier source utilisé.</p>
+                    <p><hi rend="italic"
+                        >Pas d’Utilisation Commerciale</hi> — Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant. 
+                        <lb/>Le Centre de théorie et d’analyse du droit souhaite principalement encourager l’utilisation et l’amélioration de ses ressources électroniques dans l’intérêt de l’enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d’analyse du droit.</p>
+                    <p><hi rend="italic"
+                        >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
+                        <lb/>Vous n’êtes pas obligé de signaler votre travail auprès du Centre de théorie et d’analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
+                            type="external" target="mailto:contact@desgodets.net"
+                            >contact@desgodets.net</ref>.</p>
+                    <p><hi rend="italic"
+                        >Pas de restrictions additionnelles</hi> – Vous n’êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l’œuvre dans les conditions décrites par la licence.</p>
+                    <p>Le Centre de théorie et d’analyse du droit s’engage à conserver et à toujours offrir publiquement la version la plus à jour de ses ressources électroniques par l’intermédiaire d’une URI pérenne. 
+                        <lb/>Dans l’intérêt de la communauté scientifique, afin de ne pas disperser les contributions et de permettre les meilleures conditions de collaboration scientifique, le Centre de théorie et d’analyse du droit se propose de recueillir et d’intégrer les corrections et contributions qui lui seront soumises (après validation par un comité scientifique), et à référencer leur origine.</p>
+                    <p>Vous n’êtes pas dans l’obligation de respecter la licence pour les éléments ou matériel appartenant au domaine public ou dans le cas où l’utilisation que vous souhaitez faire est couverte par une exception.</p>
                 </availability>
             </publicationStmt>
             <!--<notesStmt>
@@ -176,12 +207,18 @@
         <encodingDesc>
             <!-- description du projet éditorial -->
             <projectDesc>
-                <p>L'édition des cours de Desgodets fait partie d'un programme de recherche sur la formalisation du savoir architectural au XVII<hi rend="superscript">e</hi> siècle.</p>
+                <p>L'édition des cours de Desgodets fait partie d'un programme de recherche sur la formalisation du savoir architectural au XVII<hi
+                        rend="superscript">e</hi> siècle.</p>
             </projectDesc>
             <!-- déclaration des principes éditoriaux -->
             <editorialDecl>
                 <correction>
-                    <p>La syntaxe originale du manuscrit a été respectée en suivant les indications de Bernard Barbiche, <ref type="external" target="http://theleme.enc.sorbonne.fr/cours/edition_epoque_moderne/edition_des_textes">Conseils pour l’édition des textes de l’époque moderne (XVI<hi rend="superscript">e</hi>-XVIII<hi rend="superscript">e</hi> siècle)</ref>.</p>
+                    <p>La syntaxe originale du manuscrit a été respectée en suivant les indications de Bernard Barbiche, <ref
+                            type="external"
+                            target="http://theleme.enc.sorbonne.fr/cours/edition_epoque_moderne/edition_des_textes"
+                                >Conseils pour l’édition des textes de l’époque moderne (XVI<hi
+                                rend="superscript">e</hi>-XVIII<hi rend="superscript"
+                                >e</hi> siècle)</ref>.</p>
                 </correction>
                 <hyphenation>
                     <p>Pour les ouvrages imprimés, il n'a pas été tenu compte de l'hyphénation.</p>
@@ -194,7 +231,7 @@
                 </normalization>
                 <stdVals>
                     <p>On utilise...</p>
-                </stdVals>      
+                </stdVals>
                 <quotation>
                     <p>Les citations dans le texte sont encodées soit au moyen d'un élément quote, soit au moyen d'un élément...</p>
                 </quotation>
@@ -206,14 +243,16 @@
             <samplingDecl>
                 <p>Le manuscrit a été transcrit intégralement [dans certains cas ce ne sera pas le cas].</p>
             </samplingDecl>
-            <variantEncoding method="location-referenced" location="external" />
+            <variantEncoding method="location-referenced" location="external"/>
         </encodingDesc>
         <!-- présentation du profil de fichier -->
         <profileDesc>
             <creation>Le texte été produit avec le logiciel Oxygen</creation>
             <langUsage>
-                <language ident="fre" usage="99">Français (langue principale du corpus)</language>
-                <language ident="lat" usage="01">Latin (langue utilisée dans le corpus)</language>
+                <language ident="fre" usage="99"
+                    >Français (langue principale du corpus)</language>
+                <language ident="lat" usage="01"
+                    >Latin (langue utilisée dans le corpus)</language>
                 <!-- TODO : évaluer les langues -->
             </langUsage>
             <textClass>
@@ -223,25 +262,28 @@
                     <term>France</term>
                     <term>Architecture –– Philosophie</term>
                 </keywords>
-                <keywords xml:lang="eng" scheme="http://id.loc.gov/authorities/about.html#lcsh">
+                <keywords xml:lang="eng"
+                    scheme="http://id.loc.gov/authorities/about.html#lcsh">
                     <term>Architecture, Modern</term>
                     <term>17th-18th centuries</term>
                     <term>France</term>
                     <term>Architecture -- Philosophy</term>
                 </keywords>
-                <classCode scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
+                <classCode
+                    scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
                     <term>Text</term>
                 </classCode>
             </textClass>
         </profileDesc>
         <revisionDesc>
-            <change when="2013-01-06" who="#EC">augmentation de l'en-tête TEI, création de la liste de témoins, et inclusion de la présentation</change>
+            <change when="2013-01-06" who="#EC"
+                >augmentation de l'en-tête TEI, création de la liste de témoins, et inclusion de la présentation</change>
             <change when="2012-09-05" who="#EC">première version du fichier</change>
         </revisionDesc>
     </teiHeader>
-    
+
     <!-- Prévoir un fichier XML-TEI de présentation générale du projet à inclure à cet endroit -->
-    
+
     <!-- Inclusion du fichier teiCorpus relatif aux manuscrits des Ordres (O) -->
     <xi:include href="o/desgodetsO.tei.xml" parse="xml">
         <xi:fallback>Fichier teiCorpus des manuscrits des Ordres de Desgodets non trouvé</xi:fallback>
@@ -266,7 +308,7 @@
     <xi:include href="divs/desgodetsIndexLocorum.tei.xml" parse="xml">
         <xi:fallback>Fichier tei de l'index locorum non trouvé</xi:fallback>
     </xi:include>
-    
+
     <xi:include href="divs/desgodetsIndexNominum.tei.xml" parse="xml">
         <xi:fallback>Fichier tei de l'index nominum non trouvé</xi:fallback>
     </xi:include>
@@ -274,11 +316,11 @@
     <xi:include href="divs/desgodetsIndexRerum.tei.xml" parse="xml">
         <xi:fallback>Fichier tei de l'index rerum non trouvé</xi:fallback>
     </xi:include>
-    
+
     <xi:include href="divs/desgodetsGlossariumJuris.tei.xml" parse="xml">
         <xi:fallback>Fichier tei du glossaire des termes juridiques non trouvé</xi:fallback>
     </xi:include>
-    
+
     <xi:include href="divs/desgodetsGlossariumTechnicae.tei.xml" parse="xml">
         <xi:fallback>Fichier tei du glossaire des termes techniques non trouvé</xi:fallback>
     </xi:include>
@@ -286,4 +328,5 @@
     <xi:include href="divs/desgodetsBiblio.tei.xml" parse="xml">
         <xi:fallback>Fichier tei de la bibliographie non trouvé</xi:fallback>
     </xi:include>
+    
 </teiCorpus>
