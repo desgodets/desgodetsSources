@@ -783,14 +783,16 @@
                     <p xml:id="t9FrontFr01.p015"
                         >Lorsque les fractions des calculs sont rapportées
                         par pieds pouces et <term
-                        type="gT" ref="#ligne"
-                        >lignes</term>, l’on doit entendre que les pieds sont <choice>
-                        <orig>quarrés</orig><reg>carrés</reg></choice>,
-                        mais les pouces n’y les <term
-                        type="gT" ref="#ligne"
+                        type="gT" ref="#ligne">lignes</term>, l’on doit entendre que les pieds sont <choice>
+                        <orig>quarrés</orig>
+                        <reg>carrés</reg>
+                        </choice>,
+                        mais les pouces n’y les <term type="gT"
+                        ref="#ligne"
                         >lignes</term> ne le sont pas, il ne faut que douze de ces
                         pouces pour faire un pied <del
-                        rend="strikethrough">quarré de même qu’il ne
+                        rend="strikethrough"
+                        >quarré de même qu’il ne
                             faut</del> que 12 <term
                         type="gT" ref="#ligne">lignes</term> pour faire un des pouces du calcul.</p>
                     <p xml:id="t9FrontFr01.p016">Quand dans la pratique on faits le <term type="gT"
@@ -848,8 +850,8 @@
                         >largeur</term> réduite et compensée le fort
                         au faible et l’on ne compte rien pour les queues de <term
                         type="gT" ref="#pierre">pierre</term> de l’<term type="gT" ref="#arc"
-                        >arc</term>qui entre dans les <term type="gT" ref="#mur">murs</term> <add
-                        place="above">ou <term type="gT" ref="#contremur">contremurs</term>
+                        >arc</term> qui entre dans les <term type="gT" ref="#mur">murs</term> <add
+                        place="above"> ou <term type="gT" ref="#contremur">contremurs</term>
                         </add>, quoique ces <term type="gT" ref="#mur">murs</term> et <term
                         type="gT" ref="#contremur">contremurs</term> soient comptés <pb
                         xml:id="t9P6" n="p6"/> <fw type="pageNum"
@@ -872,16 +874,14 @@
                         <lb/>du toisé des bâtimens</head>
                     <metamark rend="doubleLine alignCenter"/>
                     <div xml:id="t9BodyFr01.01" type="chapter" n="1">
-                        <head rend="alignCenter"> <label rend="bigger">Chapitre premier</label>
-                            <lb/>De la <term type="gT" ref="#maconnerie" ana="#imaconnerie"
-                            >maçonnerie</term> à <term type="gT" ref="#toiseCourante"
-                            >toise
-                                courante</term></head>
+                        <head rend="alignCenter"> <label rend="bigger"
+                            ><num>Chapitre premier</num></label> <lb/>De la <term type="gT"
+                            ref="#maconnerie" ana="#imaconnerie">maçonnerie</term> à <term type="gT"
+                            ref="#toiseCourante">toise courante</term></head>
                         <div xml:id="t9BodyFr01.01.001">
-                            <label n="1"> <num>1°.</num> </label>
-                            <p xml:id="t9BodyFr01.01.001.p001">La <term type="gT"
-                                target="#toiseCourante">toise courante</term>
-                                <!-- TODO -->à 6 pieds de <term type="gT" ref="#longueur"
+                            <p xml:id="t9BodyFr01.01.001.p001"><label n="1"> <num>1°.</num>
+                                </label> La <term type="gT" target="#toiseCourante"
+                                >toise courante</term> a 6 pieds de <term type="gT" ref="#longueur"
                                 >longueur</term>, chaque pied est de 12 : pouces,
                                 et chaque pouce a 12 <term
                                 type="gT" ref="#ligne"
@@ -891,7 +891,7 @@
                         </div>
                         <div xml:id="t9BodyFr01.01.002">
                             <p xml:id="t9BodyFr01.01.002.p001"> <label n="2"><num>2°.</num>
-                                </label>Les <term type="gT" ref="#ouvrage">ouvrages</term> de <term
+                                </label> Les <term type="gT" ref="#ouvrage">ouvrages</term> de <term
                                 type="gT" ref="#maconnerie" ana="#imaconnerie"
                                 >maçonnerie</term> d’une longue suitte
                                 uniformes comme les <term
@@ -944,7 +944,7 @@
                         </div>
                     </div>
                     <div xml:id="t9BodyFr01.02" type="chapter" n="2">
-                        <head rend="alignCenter"> <label rend="bigger">Chapitre 2</label>
+                        <head rend="alignCenter"> <label rend="bigger"><num>Chapitre 2</num></label>
                             <lb/>Toisé de la <term type="gT" ref="#maconnerie" ana="#imaconnerie"
                             >maçonnerie</term> en cube</head>
                         <p xml:id="t9BodyFr01.02.p001"> <label>1°.</label> La <term type="gT"
@@ -967,8 +967,8 @@
                                 <term type="gT"
                             ref="#fortification" ana="#ifortification"
                             >fortification</term> et autres <term type="gT" ref="#ouvrage"
-                            >ouvrages</term> où il y a de <add place="above">gros</add> <term
-                            type="gT" ref="#massif">massifs</term> de <term type="gT"
+                            >ouvrages</term> où il y a de <add place="above">gros </add> <term
+                            type="gT" ref="#massif"> massifs</term> de <term type="gT"
                             ref="#maconnerie" ana="#imaconnerie">maçonnerie</term> se <term
                             type="gT" ref="#toiser"
                             >toisent</term>
@@ -981,7 +981,7 @@
                             <label>3°.</label> Il est quelques fois marqué dans le <term type="gJ"
                             ref="#devis">devis</term> que tous les <term type="gT" ref="#ouvrage"
                             >ouvrages</term> de l’<term type="gT" ref="#edifice"
-                            >édifice</term>de
+                            >édifice</term> de
                             quelque nature qu’ils soient avec les <term
                             type="gT" ref="#saillie">saillies</term> d’<term type="gT"
                             ref="#architecture"
@@ -1018,7 +1018,7 @@
                             ref="#ornement"><choice>
                             <orig>ornemens</orig>
                             <reg>ornements</reg>
-                            </choice></term>,, et l’on en déduits et rabat générallement le vuide des <term
+                            </choice></term>, et l’on en <sic>déduits</sic> et rabat générallement le vuide des <term
                             type="gT" ref="#baie"><choice>
                             <orig>bayes</orig>
                             <reg>baies</reg>
@@ -1039,9 +1039,7 @@
                             <reg>barbe à cane</reg>
                             </choice> </term>, embranchemens tuyaux de <term type="gT"
                             ref="#cheminee" ana="#icheminee">cheminée</term> passants dans les <term
-                            type="gT" ref="#corpsDuMur"
-                            >corps des murs</term>,<!-- JH:vérifier si indexation ok. Plusieurs pareils. EC : Ok pour moi-->
-                            même aux <term
+                            type="gT" ref="#corpsDuMur">corps des murs</term>, même aux <term
                             type="gT" ref="#saillie"
                             >saillies</term> d’architecture, les espaces entre les <term type="gT"
                             ref="#modillon">modillons</term> <pb xml:id="t9P9" n="p9"/> <fw
@@ -1224,7 +1222,7 @@
                     <pb xml:id="t9P11" n="p11"/>
                     <fw type="pagination" n="11">11</fw>
                     <div xml:id="t9BodyFr01.03" type="chapter" n="3">
-                        <head rend="alignCenter"> <label rend="bigger">Chapitre 3<hi
+                        <head rend="alignCenter"> <label rend="bigger"><num>Chapitre 3</num><hi
                             rend="superscript">e</hi> </label> <lb/><term type="gT"
                             ref="#maconnerie" ana="#imaconnerie">maçonnerie</term> à la <term
                             type="gT" ref="#toiseSuperficielle">toise superficielle</term></head>
@@ -1755,8 +1753,9 @@
                             ref="#marche">marches</term>.</p>
                     </div>
                     <div xml:id="t9BodyFr01.04" type="chapter" n="4">
-                        <head rend="alignCenter"> <label rend="bigger">Chapitre 4.</label>
-                            <lb/>Toisé des <term type="gT" ref="#baie"><choice>
+                        <head rend="alignCenter"> <label rend="bigger"
+                            ><num>Chapitre 4.</num></label> <lb/>Toisé des <term type="gT"
+                            ref="#baie"><choice>
                             <orig>bayes</orig>
                             <reg>baies</reg>
                             </choice></term></head>
@@ -2306,8 +2305,9 @@
                     <pb xml:id="t9P21" n="p21"/>
                     <fw type="pageNum">21</fw>
                     <div xml:id="t9BodyFr01.05" type="chapter" n="5">
-                        <head rend="alignCenter"> <label>Chapitre 5.</label> <lb/>Toisé des <term
-                            type="gT" ref="#puits" ana="#ipuits">puits</term></head>
+                        <head rend="alignCenter"> <label><num>Chapitre 5.</num></label>
+                            <lb/>Toisé des <term type="gT" ref="#puits" ana="#ipuits"
+                            >puits</term></head>
                         <p xml:id="t9BodyFr01.05.p001">1. Les <term type="gT" ref="#puits"
                             ana="#ipuits">puits</term> se <term type="gT" ref="#toiser"
                             >toisent</term> ordinairement sur leur <term type="gT" ref="#hauteur"
@@ -2462,7 +2462,7 @@
                     <pb xml:id="t9P23" n="p23"/>
                     <fw type="pageNum">23</fw>
                     <div xml:id="t9BodyFr01.06" type="chapter" n="6">
-                        <head rend="alignCenter"> <label>Chapitre 6</label> </head>
+                        <head rend="alignCenter"> <label><num>Chapitre 6</num></label> </head>
                         <p xml:id="t9BodyFr01.06.p001">1. Touttes les <term type="gT" ref="#voute"
                             >voûtes</term> en général se <term type="gT" ref="#toiser"
                             >toisent</term>
@@ -2527,11 +2527,10 @@
                             ref="#toiser"
                             >toiser</term> justement, parce que si l’on toisoit
                             les <term
-                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete">voûte d’<term
-                            type="gT" ref="#arête"><choice>
+                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete">voûte d’<choice>
                             <orig>arreste</orig>
                             <reg>arête</reg>
-                            </choice></term> </term> comme les <term type="gT" ref="#vouteEnBerceau"
+                            </choice></term> comme les <term type="gT" ref="#vouteEnBerceau"
                             ana="#ivouteEnBerceau"
                             >voûte en berceau</term>, le propriétaire
                             payeroit plus qu’il ne devroit et si l’on toisoit les <term
@@ -2643,10 +2642,9 @@
                             ref="#pleinCintre"><choice>
                             <orig>plein ceintre</orig>
                             <reg>plein cintre</reg>
-                            </choice></term>,<!-- JH comment rétablir l'ortho de plein-cintre ? EC le mot n'était pas à l'intérieur de term, je l'ai remis -->
-                            c’est à dire lorsque leurs <term
-                            type="gT" ref="#circonference">circonférences</term> est en <term
-                            type="gT" ref="#demi">demi</term> <term type="gT" ref="#cercle"
+                            </choice></term>, c’est à dire lorsque leurs <term type="gT"
+                            ref="#circonference">circonférences</term> est en <term type="gT"
+                            ref="#demi">demi</term> <term type="gT" ref="#cercle"
                             >cercle</term>, la règle
                             <term type="gT"
                             ref="#geometrique">géométrique</term> est aisée à <pb xml:id="t9P25"
@@ -2932,7 +2930,9 @@
                             </choice></term> de 7 pieds de <term type="gT" ref="#hauteur"
                             >hauteur</term> sur un plan quarré de 14
                             pieds de <term
-                            type="gT" ref="#diametre">diamettre</term> ou côté du quarré ayant multiplié la <term type="gT" ref="#circonference"
+                            type="gT" ref="#diametre"
+                            >diamettre</term> ou côté du quarré ayant multiplié la <term type="gT"
+                            ref="#circonference"
                             >circonférence</term> de
                             22 pieds par la <term
                             type="gT" ref="#longueur"
@@ -2948,7 +2948,9 @@
                             <reg>cintre</reg>
                             </choice></term> est <sic>oval</sic> surmontée de 9. pieds de
                             <term
-                            type="gT" ref="#hauteur">hauteur</term> sur le même plan, quarré de 14 pieds de <term type="gT" ref="#diametre"><choice>
+                            type="gT" ref="#hauteur"
+                            >hauteur</term> sur le même plan, quarré de 14 pieds de <term type="gT"
+                            ref="#diametre"><choice>
                             <orig>diamettre</orig>
                             <reg>diamètre</reg>
                             </choice></term>, la
@@ -2970,8 +2972,9 @@
                             >voûte en berceau
                             </term>étoit ovale surbaissée de 5 pieds de <term
                             type="gT" ref="#hauteur"
-                            >hauteur</term> sur le même plan quarré, la <term type="gT" ref="#circonference"
-                            >circonférence</term> <term type="gT" ref="#geometrique"
+                            >hauteur</term> sur le même plan quarré, la <term type="gT"
+                            ref="#circonference">circonférence</term> <term type="gT"
+                            ref="#geometrique"
                             >géométrique</term> qui est 18 pieds 7 pouces 1 ligne
                             2/3 étant multipliée par 14 pieds produisent pour la superficie de la
                                 <term
@@ -3242,7 +3245,7 @@
                                 <term
                             type="gT" ref="#vouteSurmontee #vouteSurbaissee" ana="#ivouteSurmontee"
                             >voûtes
-                                    surmontées ou surbaissées</term><!-- JH : vérifier si indexation ok EC: ok pour moi -->, quoique par le calcul les reins
+                                    surmontées ou surbaissées</term><!-- TODO vérifier le rendu -->, quoique par le calcul les reins
                             étant réduits à l’épaisseur de la <term
                             type="gT" ref="#voute"
                             >voûte</term>, en continuant environ le quart
@@ -3312,13 +3315,13 @@
                             type="gT" ref="#voute">voûtes</term>.</p>
                     </div>
                     <div xml:id="t9BodyFr01.07" type="chapter" n="7">
-                        <head rend="alignCenter"> <label>Chapitre 7<hi rend="superscript">e</hi>
-                            </label> <lb/><term type="gT" ref="#toise">toisé</term> des <term
-                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete">voûte d’<term
-                            type="gT" ref="#arête"><choice>
+                        <head rend="alignCenter"> <label><num>Chapitre 7<hi rend="superscript"
+                            >e</hi></num></label> <lb/><term type="gT" ref="#toise"
+                            >toisé</term> des <term type="gT" ref="#vouteDArrete"
+                            ana="#ivouteDArrete">voûte d’<choice>
                             <orig>arreste</orig>
                             <reg>arête</reg>
-                            </choice></term> </term> </head>
+                            </choice></term></head>
                         <p xml:id="t9BodyFr01.07.p001">1. Les <term type="gT" ref="#vouteDArrete"
                             ana="#ivouteDArrete"><choice>
                             <orig>voûtes d'arreste</orig>
@@ -3338,7 +3341,8 @@
                             ref="#diametre"><choice>
                             <orig>diamettre</orig>
                             <reg>diamètre</reg>
-                            </choice></term>, et du produit en oter le quarré du même <term type="gT" ref="#diametre"><choice>
+                            </choice></term>, et du produit en oter le quarré du même <term
+                            type="gT" ref="#diametre"><choice>
                             <orig>diamettre</orig>
                             <reg>diamètre</reg>
                             </choice></term>, ce qui
@@ -3350,7 +3354,8 @@
                         <p xml:id="t9BodyFr01.07.p002">Exemple. Le <term type="gT" ref="#diametre"
                             >diamettre</term> du plan c’est à dire le
                             <add
-                            place="above">côté du</add> quarré étant de 14 pieds, la
+                            place="above"
+                            >côté du</add> quarré étant de 14 pieds, la
                             <term
                             type="gT" ref="#circonference">circonférence</term> du pourtour du <term
                             type="gT" ref="#cintre"><choice>
@@ -3362,8 +3367,8 @@
                             type="gT" ref="#demi">demi</term> <term type="gT" ref="#diametre"
                             >diamettre</term> qui est de 7
                             pieds, le produit sera 77 pieds en superficie dont ayant oté 49 pieds
-                            quarré de <term type="gT" ref="#demi">demi</term> <term
-                            type="gT" ref="#diametre"><choice>
+                            quarré de <term
+                            type="gT" ref="#demi">demi</term> <term type="gT" ref="#diametre"><choice>
                             <orig>diamettre</orig>
                             <reg>diamètre</reg>
                             </choice></term>, il restera 28 pieds, lesquels étant
@@ -3422,26 +3427,22 @@
                         <p xml:id="t9BodyFr01.07.p005"
                             >3. Les règles précédentes n’étant que pour
                             des <term
-                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete"
-                            >voûte
-                                d’<term type="gT"
-                            ref="#vouteDArrete" ana="#ivouteDArrete"><choice>
+                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete">voûte
+                                d’<choice>
                             <orig>voûtes d'arreste</orig>
                             <reg>voûtes d'arête</reg>
                             </choice></term> en  <term type="gT" ref="#pleinCintre"><choice>
                             <orig>plein ceintre</orig>
                             <reg>plein-cintre</reg>
-                            </choice></term> sur des plans <term type="gT" ref="#planCarre"><choice>
+                            </choice></term> sur des <term type="gT" ref="#planCarre">plans <choice>
                             <orig>quarrés</orig>
                             <reg>carrés</reg>
-                            </choice></term></term>, lesquelles règles ne conviennent pas pour les <term
+                            </choice></term>, lesquelles règles ne conviennent pas pour les <term
                             type="gT" ref="#vouteSurmontee" ana="#ivouteSurmontee"
-                            >voûte surmontée</term> ou surmontées<!--JH: quelle régul ? EC: le "ou surmontées" était dans le texte ? sioui, il n'est pas nécessaire de normaliser l'accord. -->, il est
+                            >voûte surmontée</term> ou surmontées<!-- TODO JH: quelle régul ? EC: le "ou surmontées" était dans le texte ? sioui, il n'est pas nécessaire de normaliser l'accord. -->, il est
                             nécessaire de donner une règle générale qui puisse servir à <term
-                            type="gT" ref="#toiser"
-                            >toiser</term> les
-                            <term type="gT"
-                            ref="#vouteDArrete" ana="#ivouteDArrete"> <choice>
+                            type="gT" ref="#toiser">toiser</term> les <term type="gT"
+                            ref="#vouteDArrete" ana="#ivouteDArrete"><choice>
                             <orig>voûtes d'arreste</orig>
                             <reg>voûtes d'arête</reg>
                             </choice>
@@ -3463,7 +3464,9 @@
                             <orig>voûtes d'arreste</orig>
                             <reg>voûtes d'arête</reg>
                             </choice></term> estre sur des <term type="gT" ref="#planCarre">plans <choice>
-                            <orig>quarrés</orig><reg>carrés</reg></choice></term>, il faut ôter la <term type="gT" ref="#longueur"
+                            <orig>quarrés</orig>
+                            <reg>carrés</reg>
+                            </choice></term>, il faut ôter la <term type="gT" ref="#longueur"
                             >longueur</term> de leur
                             <term type="gT"
                             ref="#diametre">diamettre</term> de leur <term type="gT"
@@ -3486,7 +3489,8 @@
                             </choice></term> en  <term type="gT" ref="#pleinCintre"><choice>
                             <orig>plein ceintre</orig>
                             <reg>plein-cintre</reg>
-                            </choice></term> sur un plan quarré, ôtant le <term type="gT" ref="#diametre"
+                            </choice></term> sur un plan quarré, ôtant le <term type="gT"
+                            ref="#diametre"
                             >diamettre</term> 14 pieds
                             de la <term
                             type="gT" ref="#circonference"
@@ -3517,8 +3521,8 @@
                             11 pouces 4 1/2 <term
                             type="gT" ref="#ligne"
                             >lignes</term>, lesquels étant multipliés par 14 pieds côté du 
-                            quarré produisent pour la superficie de la <term type="gT"
-                            ref="#voute"
+                            quarré produisent pour la superficie de la <term
+                            type="gT" ref="#voute"
                             >voûte</term> 234 pieds 3 pouces 9
                             3/4 <term
                             type="gT" ref="#ligne">lignes</term>.</p>
@@ -3641,11 +3645,10 @@
                             trapèzes.</p>
                         <p xml:id="t9BodyFr01.07.p013"> <supplied reason="omitted">10</supplied>
                             <!-- TODO voir affichage car pas prévu dans le stylage --> Aux <term
-                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete">voûte d’<term
-                            type="gT" ref="#arête"><choice>
+                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete">voûte d’<choice>
                             <orig>arreste</orig>
                             <reg>arête</reg>
-                            </choice></term> </term> posées sur des  <term type="gT" ref="#pilier"><choice>
+                            </choice></term> posées sur des  <term type="gT" ref="#pilier"><choice>
                             <orig>pilliers</orig>
                             <reg>piliers</reg>
                             </choice></term> ou dosserets on doit <term type="gT" ref="#toiser"
@@ -3705,10 +3708,10 @@
                             26. 27.<pb
                             xml:id="t9P35" n="p35"/> <fw type="pageNum"
                             >35</fw> 16. seront toisées en <term type="gT" ref="#vouteDArrete"
-                            ana="#ivouteDArrete">voûte d’<term type="gT" ref="#arête"><choice>
+                            ana="#ivouteDArrete">voûte d’<choice>
                             <orig>arreste</orig>
                             <reg>arête</reg>
-                            </choice></term>
+                            </choice>
                             </term> suivant les trois premiers articles de ce chapitre estant en
                              <term
                             type="gT" ref="#pleinCintre"><choice>
@@ -3751,11 +3754,10 @@
                             ref="#voute">voûte</term>,
                             l’on doit <term
                             type="gT" ref="#toiser">toiser</term> l’endroit des lunettes comme <term
-                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete">voûte d’<term
-                            type="gT" ref="#arête"><choice>
+                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete">voûte d’<choice>
                             <orig>arreste</orig>
                             <reg>arête</reg>
-                            </choice></term> </term>, et le surplus en <term type="gT"
+                            </choice> </term>, et le surplus en <term type="gT"
                             ref="#vouteEnBerceau" ana="#ivouteEnBerceau"
                             >voûte en
                                 berceau</term>.</p>
@@ -3801,11 +3803,10 @@
                             <reg>arête</reg>
                             </choice></term> s.</p>
                         <p xml:id="t9BodyFr01.07.p017">14. Les reins des <term type="gT"
-                            ref="#vouteDArrete" ana="#ivouteDArrete">voûte d’<term type="gT"
-                            ref="#arête"><choice>
+                            ref="#vouteDArrete" ana="#ivouteDArrete">voûte d’<choice>
                             <orig>arreste</orig>
                             <reg>arête</reg>
-                            </choice></term> </term> au dessus de 6 pieds 1/2 de <term type="gT"
+                            </choice> </term> au dessus de 6 pieds 1/2 de <term type="gT"
                             ref="#diametre">diamettre</term> estant remplis de <term type="gT"
                             ref="#maconnerie" ana="#imaconnerie"
                             >maçonnerie</term> au
@@ -3831,13 +3832,11 @@
                             <reg>piliers</reg>
                             </choice></term> et dosserets qui soutiennent
                             les <term
-                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete"
-                            >voûte
-                                    d’<term type="gT"
-                            ref="#arête"><choice>
+                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete">voûte
+                                    d’<choice>
                             <orig>arreste</orig>
                             <reg>arête</reg>
-                            </choice></term> </term> ne se <term type="gT" ref="#toiser"
+                            </choice></term> ne se <term type="gT" ref="#toiser"
                             >toisent</term> que depuis le bas de leurs fondations jusqu’à la
                             <term
                             type="gT" ref="#naissance">naissance</term> du retombé de la <term
@@ -3872,13 +3871,15 @@
                             ref="#voute">voûte</term>.</p>
                     </div>
                     <div xml:id="t9BodyFr01.08" type="chapter" n="8">
-                        <head rend="alignCenter"> <label>Chapitre 8<hi rend="superscript">e</hi>
-                            </label> <lb/><term type="gT" ref="#toise">toisé</term> des <term
-                            type="gT" ref="#vouteDeCloitre" ana="#ivouteDeCloitre"><choice>
+                        <head rend="alignCenter"> <label><num>Chapitre 8<hi rend="superscript"
+                            >e</hi></num> </label> <lb/><term type="gT" ref="#toise"
+                            >toisé</term> des <term type="gT" ref="#vouteDeCloitre"
+                            ana="#ivouteDeCloitre"><choice>
                             <orig>voûte de cloître</orig>
                             <reg>voûtes de cloître</reg>
                             </choice></term>
-                            sur des <lb/>plans quadrilatères</head>
+                            sur des 
+                            <lb/>plans quadrilatères</head>
                         <!-- TODO peut-être une division -->
                         <p xml:id="t9BodyFr01.08.p001" rend="alignCenter"> <hi rend="italic bold"
                             >Règle géométrique</hi> </p>
@@ -3900,11 +3901,12 @@
                             >clef</term> de la <term type="gT" ref="#voute"
                             >voûte</term> à la retombée de sa <term type="gT" ref="#naissance"
                             >naissance</term>
-                            au point du milieu de l’un des côtés du quarré du plan de la <term type="gT" ref="#voute"
+                            au point du milieu de l’un des côtés du quarré du plan de la <term
+                            type="gT" ref="#voute"
                             >voûte</term>,
-                            quatre fois le quarré de cette <term type="gT" ref="#ligne"
-                            >ligne</term> fera la superficie de la <term type="gT"
-                            ref="#vouteDeCloitre" ana="#ivouteDeCloitre"
+                            quatre fois le quarré de cette <term
+                            type="gT" ref="#ligne">ligne</term> fera la superficie de la <term
+                            type="gT" ref="#vouteDeCloitre" ana="#ivouteDeCloitre"
                             >voûte de
                                 cloître</term>.</p>
                         <pb xml:id="t9P37" n="p37"/>
@@ -3923,7 +3925,8 @@
                             ref="#naissance"
                             >naissance</term> du bas qui est la même chose
                             que la moitié de la <term
-                            type="gT" ref="#diagonale">diagonale</term> du quarré sera de 9 pieds 10 pouces 9
+                            type="gT" ref="#diagonale"
+                            >diagonale</term> du quarré sera de 9 pieds 10 pouces 9
                             <term
                             type="gT" ref="#ligne">lignes</term> 1/2. dont le quarré est 98 pieds lequel étant multiplié par 4
                             produit <subst>
@@ -3932,11 +3935,12 @@
                             </subst>
                             <!-- TODO vérifier l'affichage --> pieds pour la superficie de la <term
                             type="gT" ref="#voute">voûte</term>. </p>
-                        <p xml:id="t9BodyFr01.08.p005">2. Autrement le quarré de la <term type="gT" ref="#diagonale"
+                        <p xml:id="t9BodyFr01.08.p005">2. Autrement le quarré de la <term type="gT"
+                            ref="#diagonale"
                             >diagonale</term> du
-                            plan quarré de la <term type="gT" ref="#vouteDeCloitre"
-                            ana="#ivouteDeCloitre">voûte de cloître</term> en  <term type="gT"
-                            ref="#pleinCintre"><choice>
+                            plan quarré de la <term
+                            type="gT" ref="#vouteDeCloitre" ana="#ivouteDeCloitre"
+                            >voûte de cloître</term> en  <term type="gT" ref="#pleinCintre"><choice>
                             <orig>plein ceintre</orig>
                             <reg>plein-cintre</reg>
                             </choice></term> est
@@ -3956,9 +3960,10 @@
                             <reg>diamètre</reg>
                             </choice></term>, la <term type="gT" ref="#diagonale"
                             >diagonale</term> sera de 19 pieds 9 pouces 7 <term type="gT"
-                            ref="#ligne">lignes</term> dont
-                            le quarré est 392 pieds pour la superficie de la <term type="gT"
-                            ref="#voute">voûte</term>.</p>
+                            ref="#ligne"
+                            >lignes</term> dont
+                            le quarré est 392 pieds pour la superficie de la <term
+                            type="gT" ref="#voute">voûte</term>.</p>
                         <p xml:id="t9BodyFr01.08.p007">3. La superficie de la <term type="gT"
                             ref="#vouteDeCloitre" ana="#ivouteDeCloitre"
                             >voûte de cloître</term>
@@ -3980,9 +3985,10 @@
                             <orig>plein ceintre</orig>
                             <reg>plein-cintre</reg>
                             </choice></term> sur
-                            un plan quarré est à la superficie du <term type="gT" ref="#cercle"
-                            >cercle</term> de sa <term type="gT" ref="#base">base</term><ref
-                            type="noteCritical" target="#t9Nc0012"/>. <hi rend="bigger">Exemple</hi>
+                            un plan quarré est à la superficie du <term
+                            type="gT" ref="#cercle">cercle</term> de sa <term type="gT" ref="#base"
+                            >base</term><ref type="noteCritical" target="#t9Nc0012"/>. <hi
+                            rend="bigger">Exemple</hi>
                             <!-- TODO vérifier --> Le côté du plan quarré estant de 14 pieds sa
                             superficie sera de 196 pieds dont le double est 392 pieds qui est égal à
                             la superficie de la <term
@@ -3998,18 +4004,17 @@
                             <reg>voûtes de cloître</reg>
                             </choice></term> ainsi qu’il a été dit
                             pour les <term
-                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete"
-                            >voûte
-                                    d’<term type="gT"
-                            ref="#arête"><choice>
+                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete">voûte
+                                    d’<choice>
                             <orig>arreste</orig>
                             <reg>arête</reg>
-                            </choice></term> </term> ne sont pas toujours en  <term type="gT"
+                            </choice></term> ne sont pas toujours en  <term type="gT"
                             ref="#pleinCintre"><choice>
                             <orig>plein ceintre</orig>
                             <reg>plein-cintre</reg>
                             </choice></term> sur des plans <pb xml:id="t9P38" n="p38"/> <fw
-                            type="pageNum">38</fw> quarrés il est à propos de donner une règle
+                            type="pageNum"
+                            >38</fw> quarrés il est à propos de donner une règle
                             pratique générale qui puisse servir à <term
                             type="gT" ref="#toiser">toiser</term> toutes sortes de <term type="gT"
                             ref="#vouteDeCloitre" ana="#ivouteDeCloitre"><choice>
@@ -4029,8 +4034,8 @@
                             <orig>voûte de cloître</orig>
                             <reg>voûtes de cloître</reg>
                             </choice></term>
-                            que ce soit sur des plans quarrés, il faut ajouter à la <term type="gT"
-                            ref="#circonference"
+                            que ce soit sur des plans quarrés, il faut ajouter à la <term
+                            type="gT" ref="#circonference"
                             >circonférence</term> du
                             pourtour de la <term
                             type="gT" ref="#voute"
@@ -4051,7 +4056,8 @@
                             ref="#pleinCintre"><choice>
                             <orig>plein ceintre</orig>
                             <reg>plein-cintre</reg>
-                            </choice></term> sur un plan quarré de 14 pieds de <term type="gT" ref="#diametre"><choice>
+                            </choice></term> sur un plan quarré de 14 pieds de <term type="gT"
+                            ref="#diametre"><choice>
                             <orig>diamettre</orig>
                             <reg>diamètre</reg>
                             </choice></term>. </p>
@@ -4071,7 +4077,9 @@
                             ana="#ivouteDeCloitre"
                             >voûtes de cloître</term> surmontées de 9 pieds
                             de <term
-                            type="gT" ref="#hauteur">hauteur</term> sur le même plan quarré ayant ôté le <term type="gT" ref="#diametre"
+                            type="gT" ref="#hauteur"
+                            >hauteur</term> sur le même plan quarré ayant ôté le <term type="gT"
+                            ref="#diametre"
                             >diamettre</term> 14 pieds de la
                             <term
                             type="gT" ref="#circonference"
@@ -4104,11 +4112,12 @@
                             ref="#vouteDeCloitre" ana="#ivouteDeCloitre"
                             >voûte de cloître</term>
                             est surbaissée de 5 pieds de <term
-                            type="gT" ref="#hauteur">hauteur</term> sur le même plan quarré la
-                            <term type="gT"
-                            ref="#circonference">circonférence</term> de son <term type="gT"
-                            ref="#centre">centre</term> seroit 18 pieds 7 pouces 1 <term type="gT"
-                            ref="#ligne"
+                            type="gT" ref="#hauteur"
+                            >hauteur</term> sur le même plan quarré la
+                            <term
+                            type="gT" ref="#circonference">circonférence</term> de son <term
+                            type="gT" ref="#centre">centre</term> seroit 18 pieds 7 pouces 1 <term
+                            type="gT" ref="#ligne"
                             >ligne</term> 2/3. La
                             différence entre cette <term
                             type="gT" ref="#circonference">circonférence</term> et le <term
@@ -4256,11 +4265,10 @@
                             <orig>ceintres</orig>
                             <reg>cintres</reg>
                             </choice></term>, à la différence de celle des <term type="gT"
-                            ref="#vouteDArrete" ana="#ivouteDArrete">voûtes d’<term type="gT"
-                            ref="#arête"><choice>
-                            <orig>arreste</orig>
-                            <reg>arête</reg>
-                            </choice></term> s</term> qui se comptent que comme
+                            ref="#vouteDArrete" ana="#ivouteDArrete">voûtes d’<choice>
+                            <orig>arrestes</orig>
+                            <reg>arêtes</reg>
+                            </choice></term> qui se comptent que comme
                             sailies d’<term
                             type="gT" ref="#architecture"
                             >architecture</term> pour
@@ -4350,13 +4358,11 @@
                             type="gT" ref="#diametre"
                             >diamettre</term> contient en superficie 308 pieds dont le double est 616 pieds,
                             la <term
-                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete"
-                            >voûte
-                                    d’<term type="gT"
-                            ref="#arête"><choice>
+                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete">voûte
+                                    d’<choice>
                             <orig>arreste</orig>
                             <reg>arête</reg>
-                            </choice></term> </term> en  <term type="gT" ref="#pleinCintre"><choice>
+                            </choice> </term> en  <term type="gT" ref="#pleinCintre"><choice>
                             <orig>plein ceintre</orig>
                             <reg>plein-cintre</reg>
                             </choice></term> sur le même plan quarré contient 224 pieds, et
@@ -4383,13 +4389,11 @@
                             type="gT" ref="#vouteEnBerceau" ana="#ivouteEnBerceau"
                             >voûtes en berceau</term> qui se croisent dans les règles, et qu’une
                                 <term
-                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete"
-                            >voûte
-                                    d’<term type="gT"
-                            ref="#arête"><choice>
+                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete">voûte
+                                    d’<choice>
                             <orig>arreste</orig>
                             <reg>arête</reg>
-                            </choice></term> </term> est <term type="gT" ref="#composer"
+                            </choice></term> est <term type="gT" ref="#composer"
                             >composée</term> de 4 lunettes, deux desquelles lunettes font le
                             supplément de la <term
                             type="gT" ref="#vouteDeCloitre" ana="#ivouteDeCloitre"
@@ -4407,10 +4411,11 @@
                         <p xml:id="t9BodyFr01.08.p024">17. <hi rend="bigger"
                             >Autre exemple</hi> aux
                             <term type="gT"
-                            ref="#voute">voûtes</term> <del rend="strikethrough">surbaissées</del>
-                            <!--JH : encadrer pour indexation de "voûtes surbaissées" ? EC : oui en général, mais ici del contient un passage ratturé, donc ne pas l'intégrer -->
-                            <add place="above">de neuf pieds</add> <pb xml:id="t9P42" n="p42"/> <fw
-                            type="pageNum">42</fw> de montée ou <term type="gT" ref="#hauteur"
+                            ref="#voute">voûtes</term> <subst>
+                            <del rend="strikethrough">surbaissées</del>
+                            <add place="above">de neuf pieds</add>
+                            </subst> <pb xml:id="t9P42" n="p42"/> <fw type="pageNum"
+                            >42</fw> de montée ou <term type="gT" ref="#hauteur"
                             >hauteur</term> sur le même plan quarré
                             de 14 pieds de <term
                             type="gT" ref="#diametre">diamettre</term> la superficie de la <term
@@ -4421,27 +4426,26 @@
                             >lignes</term> dont le double est de 698
                             pieds 6 pouces 6 <term
                             type="gT" ref="#ligne">lignes</term>, la superficie de la <term
-                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete">voûte d’<term
-                            type="gT" ref="#arête"><choice>
+                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete">voûte d’<choice>
                             <orig>arreste</orig>
                             <reg>arête</reg>
-                            </choice></term>
+                            </choice>
                             </term> est de 9 pieds de montée sur le même plan est de 234 pieds 3
                             pouces 9 <term
                             type="gT" ref="#ligne">lignes</term> 3/4 et la superficie de la <term
                             type="gT" ref="#vouteDeCloitre" ana="#ivouteDeCloitre"
                             >voûte de cloître</term>
                             de même <term
-                            type="gT" ref="#hauteur">hauteur</term> sur le même plan quarré est de 464 pieds 2 pouces 8
+                            type="gT" ref="#hauteur"
+                            >hauteur</term> sur le même plan quarré est de 464 pieds 2 pouces 8
                             <term
                             type="gT" ref="#ligne"
                             >lignes</term> 1/4 laquelle superficie étant jointe avec celle de la <term
-                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete">voûte d’<term
-                            type="gT" ref="#arête"><choice>
+                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete">voûte d’<choice>
                             <orig>arreste</orig>
                             <reg>arête</reg>
-                            </choice></term> </term> font ensemble 698 pieds 6 pouces 6 <term
-                            type="gT" ref="#ligne"
+                            </choice></term> font ensemble 698 pieds 6 pouces 6 <term type="gT"
+                            ref="#ligne"
                             >lignes</term> de même que le double
                             de la <term
                             type="gT" ref="#vouteEnBerceau" ana="#ivouteEnBerceau"
@@ -4453,7 +4457,8 @@
                             ref="#vouteSurmontee" ana="#ivouteSurmontee"
                             >voûtes
                                 surmontées</term> de 5 pieds de <term
-                            type="gT" ref="#hauteur">hauteur</term> sur le même plan quarré de
+                            type="gT" ref="#hauteur"
+                            >hauteur</term> sur le même plan quarré de
                             14 pieds de <term
                             type="gT" ref="#diametre"><choice>
                             <orig>diamettre</orig>
@@ -4463,13 +4468,12 @@
                             >voûte en berceau</term> contient en
                             superficie 260 pieds 3 pouces 11 <term
                             type="gT" ref="#ligne">lignes</term> 1/3 la <term type="gT"
-                            ref="#vouteDArrete" ana="#ivouteDArrete">voûte d’<term type="gT"
-                            ref="#arête"><choice>
+                            ref="#vouteDArrete" ana="#ivouteDArrete">voûte d’<choice>
                             <orig>arreste</orig>
                             <reg>arête</reg>
-                            </choice></term> </term> est de 212 pieds 11 <term type="gT"
-                            ref="#ligne">lignes</term> 5/6 et la <term type="gT"
-                            ref="#vouteDeCloitre" ana="#ivouteDeCloitre"
+                            </choice></term> est de 212 pieds 11 <term type="gT" ref="#ligne"
+                            >lignes</term> 5/6 et la <term type="gT" ref="#vouteDeCloitre"
+                            ana="#ivouteDeCloitre"
                             >voûte de cloître</term>
                             308 pieds 6 pouces 10 <term
                             type="gT" ref="#ligne">lignes</term> 5/6 la <term type="gT"
@@ -4490,11 +4494,10 @@
                             type="gT" ref="#voute"
                             >voûtes</term> sur un plan rectangle plus long d’un
                             sens que de l’autre les superficies de la <term
-                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete">voûte d’<term
-                            type="gT" ref="#arête"><choice>
+                            type="gT" ref="#vouteDArrete" ana="#ivouteDArrete">voûte d’<choice>
                             <orig>arreste</orig>
                             <reg>arête</reg>
-                            </choice></term> </term> et de la <term type="gT" ref="#vouteDeCloitre"
+                            </choice></term> et de la <term type="gT" ref="#vouteDeCloitre"
                             ana="#ivouteDeCloitre"
                             >voûte de cloître</term> ensemble sont égales
                             aux deux superficies des <term
@@ -4530,14 +4533,12 @@
                             type="noteCritical" target="#t9Nc0015"
                             />, la
                                 <term type="gT"
-                            ref="#vouteDArrete" ana="#ivouteDArrete"
-                            >voûte
-                                    d’<term type="gT"
-                            ref="#arête"><choice>
+                            ref="#vouteDArrete" ana="#ivouteDArrete">voûte
+                                    d’<choice>
                             <orig>arreste</orig>
                             <reg>arête</reg>
-                            </choice></term> </term> sur le même plan rectangle et de même <term
-                            type="gT" ref="#hauteur"
+                            </choice></term> sur le même plan rectangle et de même <term type="gT"
+                            ref="#hauteur"
                             >hauteur</term> contient 282
                             pieds, et la <term
                             type="gT" ref="#vouteDeCloitre" ana="#ivouteDeCloitre"
@@ -4579,8 +4580,8 @@
                             rapportées par pieds pouces et <term
                             type="gT" ref="#ligne"
                             >lignes</term>, l’on doit entendre que les pieds
-                            sont quarrés, mais pour les pouces n’y les <term type="gT"
-                            ref="#ligne"
+                            sont quarrés, mais pour les pouces n’y les <term
+                            type="gT" ref="#ligne"
                             >lignes</term> ne le sont pas il ne
                             faut que 12 de ces pouces pour faire au pied quarré de même qu’il ne
                             faut que 12 pieds pour faire un de ces pouces du calcul.</p>
@@ -4652,9 +4653,10 @@
                             type="gT" ref="#voute">voûte</term>.</p>
                     </div>
                     <div xml:id="t9BodyFr01.09" type="chapter" n="9">
-                        <head rend="alignCenter"> <num>Chapitre 9<hi rend="superscript"
-                            >e</hi>. </num> <lb/><term type="gT" ref="#toise">toisé</term> des <term
-                            type="gT" ref="#vouteDeCloitre" ana="#ivouteDeCloitre"
+                        <head rend="alignCenter"> <label><num>Chapitre 9<hi rend="superscript"
+                            >e</hi>.</num></label> <lb/><term type="gT" ref="#toise"
+                            >toisé</term> des <term type="gT" ref="#vouteDeCloitre"
+                            ana="#ivouteDeCloitre"
                             >voûtes de
                                 cloître</term> sur des 
                             <lb/>plans poligones</head>
@@ -4937,9 +4939,10 @@
                             traitté.</p>
                     </div>
                     <div xml:id="t9BodyFr01.10" type="chapter" n="10">
-                        <head rend="alignCenter"> <num>Chapitre 10<hi rend="superscript"
-                            >e</hi>. </num> <lb/><term type="gT" ref="#toise">toisé</term> des <term
-                            type="gT" ref="#vouteSpherique" ana="#ivouteSpherique"
+                        <head rend="alignCenter"> <label><num>Chapitre 10<hi rend="superscript"
+                            >e</hi>. </num></label> <lb/><term type="gT" ref="#toise"
+                            >toisé</term> des <term type="gT" ref="#vouteSpherique"
+                            ana="#ivouteSpherique"
                             >voûtes
                                 sphériques</term></head>
                         <p xml:id="t9BodyFr01.10.p001">1. Le <term type="gT" ref="#toise"
@@ -5063,8 +5066,8 @@
                             dont la <term
                             type="gT" ref="#voute">voûte</term> est la moitié.</p>
                         <p xml:id="t9BodyFr01.10.p010"
-                            >5. Par une autre règle ayant multiplié le quarré du <term type="gT" ref="#diametre"
-                            >diamettre</term> du grand <term type="gT" ref="#cercle"
+                            >5. Par une autre règle ayant multiplié le quarré du <term type="gT"
+                            ref="#diametre">diamettre</term> du grand <term type="gT" ref="#cercle"
                             >cercle</term> de la <term type="gT" ref="#naissance"
                             >naissance</term> ou baze de la <term type="gT" ref="#vouteSpherique"
                             ana="#ivouteSpherique"
@@ -5078,7 +5081,8 @@
                             >cercle</term> de la <term type="gT" ref="#naissance"
                             >naissance</term> de la
                             <term type="gT"
-                            ref="#voute">voûte</term> étant de 14 pieds son quarré 196 pieds lesquels étant multipliée
+                            ref="#voute"
+                            >voûte</term> étant de 14 pieds son quarré 196 pieds lesquels étant multipliée
                             par 3 et 1/7 produisent 616 pieds pour la superficie de toute la sphère
                             de 14 pieds de <term
                             type="gT" ref="#diametre">diamettre</term> <pb xml:id="t9P49" n="p49"/>
@@ -5278,8 +5282,8 @@
                             type="gT" ref="#vouteSpherique" ana="#ivouteSpherique"
                             >voûtes sphériques</term> en <term type="gT" ref="#pendentif"
                             >pendentifs</term>s sur un
-                            plan quarré ou sur tel autre plan poligone recti<term type="gT"
-                            ref="#ligne"
+                            plan quarré ou sur tel autre plan poligone recti<term
+                            type="gT" ref="#ligne"
                             >ligne</term> qu’il sera
                             proposé. Car ayant mesuré la superficie de toute la <term
                             type="gT" ref="#vouteSpherique" ana="#ivouteSpherique"
@@ -5391,9 +5395,10 @@
                             proportion</p>
                     </div>
                     <div xml:id="t9BodyFr01.11" type="chapter" n="11">
-                        <head rend="alignCenter"> <num>Chapitre 11<hi rend="superscript"
-                            >e</hi>. </num> <lb/><term type="gT" ref="#toise">toisé</term> des <term
-                            type="gT" ref="#vouteSpheroide" ana="#ivouteSpheroide"
+                        <head rend="alignCenter"> <label><num>Chapitre 11<hi rend="superscript"
+                            >e</hi>.</num></label> <lb/><term type="gT" ref="#toise"
+                            >toisé</term> des <term type="gT" ref="#vouteSpheroide"
+                            ana="#ivouteSpheroide"
                             >voûtes
                                 sphéroïdes</term> </head>
                         <p xml:id="t9BodyFr01.11.p001">1. Le <term type="gT" ref="#toise"
@@ -5864,9 +5869,9 @@
                     <pb xml:id="t9P57" n="p57"/>
                     <fw type="pageNum">57</fw>
                     <div xml:id="t9BodyFr01.12" type="chapter" n="12">
-                        <head rend="alignCenter"> <num>Chapitre 12 :</num> <lb/><term type="gT"
-                            ref="#toise">toisé</term> des <term type="gT" ref="#vouteSurNoyau"
-                            ana="#ivouteSurNoyau"
+                        <head rend="alignCenter"> <label><num>Chapitre 12 :</num></label> <lb/><term
+                            type="gT" ref="#toise">toisé</term> des <term type="gT"
+                            ref="#vouteSurNoyau" ana="#ivouteSurNoyau"
                             >voûtes sur le
                                 noyau</term> </head>
                         <p xml:id="t9BodyFr01.12.p001">1. On nomme <term type="gT"
@@ -5917,16 +5922,18 @@
                             noyau</term> en plan
                             quarré</p>
                         <p xml:id="t9BodyFr01.12.p004">Les <term type="gT" ref="#vouteSurNoyau"
-                            ana="#ivouteSurNoyau">voûtes sur noyau</term> en plan quarré ont
+                            ana="#ivouteSurNoyau"
+                            >voûtes sur noyau</term> en plan quarré ont
                             leur retombées ou <term
                             type="gT" ref="#naissance">naissances</term> de leurs <term type="gT"
                             ref="#cintre"><choice>
                             <orig>ceintres</orig>
                             <reg>cintres</reg>
                             </choice></term> sur les <term type="gT" ref="#mur"
-                            >murs</term> du plan quarré, et sur le <term type="gT" ref="#noyau">noyau</term> quarré qui est au milieu leur <term type="gT" ref="#toise"
-                            >toisé</term> se fait en additionnant 2 des côtés du quarré avec 2 des <term type="gT" ref="#face"
-                            >faces</term> du  <term type="gT" ref="#pilier"><choice>
+                            >murs</term> du plan quarré, et sur le <term type="gT" ref="#noyau"
+                            >noyau</term> quarré qui est au milieu leur <term type="gT" ref="#toise"
+                            >toisé</term> se fait en additionnant 2 des côtés du quarré avec 2 des <term
+                            type="gT" ref="#face">faces</term> du  <term type="gT" ref="#pilier"><choice>
                             <orig>pillier</orig>
                             <reg>pilier</reg>
                             </choice></term> du milieu, les multipliant par la
@@ -5934,24 +5941,25 @@
                             type="gT" ref="#circonference">circonférence</term> de la <term
                             type="gT" ref="#voute"
                             >voûte</term>, le produit en sera la superficie. Exemple au
-                            plan quarré ABCD en la 8<hi rend="superscript"
-                            >e</hi> figure, la <term type="gT" ref="#voute"
+                            plan quarré ABCD en la 8<hi
+                            rend="superscript">e</hi> figure, la <term type="gT" ref="#voute"
                             >voûte</term> a
                             sa <term type="gT"
                             ref="#naissance"
                             >naissance</term> de niveau sur chacun des 4 côtés du quarré et sur chacune
                             des <term
                             type="gT" ref="#face">faces</term> du  <term type="gT" ref="#pilier"
-                            >pilier</term> en noyeau EFGH qui est au milieu de l’espace du quarré. Les 4 <term type="gT" ref="#voute"
-                            >voûtes</term> des 4 côtés sont en  <term type="gT" ref="#pleinCintre"><choice>
+                            >pilier</term> en noyeau EFGH qui est au milieu de l’espace du quarré. Les 4 <term
+                            type="gT" ref="#voute">voûtes</term> des 4 côtés sont en  <term
+                            type="gT" ref="#pleinCintre"><choice>
                             <orig>plein ceintre</orig>
                             <reg>plein-cintre</reg>
                             </choice></term> égalles à celles
                             du côté IKL, les 4 portions des <term
                             type="gT" ref="#voute">voûtes</term> qui posent sur les 4 <term
-                            type="gT" ref="#mur">murs</term> du quarré jusqu’au sommet K de la <term type="gT"
-                            ref="#circonference">circonférence</term> de leur <term type="gT"
-                            ref="#cintre"><choice>
+                            type="gT" ref="#mur">murs</term> du quarré jusqu’au sommet K de la <term
+                            type="gT" ref="#circonference">circonférence</term> de leur <term
+                            type="gT" ref="#cintre"><choice>
                             <orig>ceintre</orig>
                             <reg>cintre</reg>
                             </choice></term>, c’est à
@@ -5974,13 +5982,11 @@
                             </choice></term> de la <term type="gT" ref="#voute"
                             >voûte</term> sont en
                                 <term type="gT"
-                            ref="#vouteDArrete" ana="#ivouteDArrete"
-                            >voûte
-                                    d’<term type="gT"
-                            ref="#arête"><choice>
+                            ref="#vouteDArrete" ana="#ivouteDArrete">voûte
+                                    d’<choice>
                             <orig>arreste</orig>
                             <reg>arête</reg>
-                            </choice></term> </term>. Il a été démontré au 8<hi rend="superscript"
+                            </choice></term>. Il a été démontré au 8<hi rend="superscript"
                             >e</hi>. chapitre
                             que la <term type="gT"
                             ref="#vouteDeCloitre" ana="#ivouteDeCloitre"
@@ -6022,15 +6028,17 @@
                             ref="#face">face</term> de <term type="gT" ref="#noyau">noyau</term> EF estre de
                             4 pieds <subst>
                             <add rend="overWriting">et chaque</add>
-                            </subst> côté des <term type="gT" ref="#mur">murs</term> du quarré AB estre de 32 pieds le <term type="gT" ref="#diametre"
+                            </subst> côté des <term type="gT" ref="#mur"
+                            >murs</term> du quarré AB estre de 32 pieds le <term type="gT"
+                            ref="#diametre"
                             >diamettre</term> IL de
                             la <term type="gT"
                             ref="#voute">voûte</term> sera de 14 pieds, et sa <term type="gT"
                             ref="#circonference"
                             >circonférence</term> IKL 22 pieds, laquelle
                             estant multipliée par 12 pieds pourtour des 2 côtés du quarré et des 2
-                            <term type="gT"
-                            ref="#face">faces</term> de <term type="gT" ref="#noyau"
+                            <term
+                            type="gT" ref="#face">faces</term> de <term type="gT" ref="#noyau"
                             >noyau</term> produisent 1584 pieds pour la superficie des 4 côtés de
                             la <term
                             type="gT" ref="#voute">voûte</term>. </p>
@@ -6411,7 +6419,7 @@
                             <orig>plans quarrés</orig>
                             <reg>plans carrés</reg>
                             </choice> ou
-                                    circulaires</term>, lorsque les poligones sont réguliers ou comme celles qui<!-- JH:vérifier l'indexation EC: Ok pour moi -->
+                                    circulaires</term>, lorsque les poligones sont réguliers ou comme celles qui 
                             sont sur des plans <pb
                             xml:id="t9P62" n="p62"/> <fw type="pageNum"
                             >62</fw> rectangles, quand les poligones sont plus
@@ -6484,8 +6492,8 @@
                             plans quadrilatères ou poligones</p>
                     </div>
                     <div xml:id="t9BodyFr01.13" type="chapter" n="13">
-                        <head rend="alignCenter"> <num>Chapitre 13.</num> <lb/><term type="gT"
-                            ref="#toise">toisé</term> des <term type="gT" ref="#voute"
+                        <head rend="alignCenter"> <label><num>Chapitre 13.</num></label> <lb/><term
+                            type="gT" ref="#toise">toisé</term> des <term type="gT" ref="#voute"
                             >voûtes</term> en <term type="gT" ref="#visSaintGilles"
                             ana="#ivisSaintGilles"
                             >vis Saint
@@ -6931,9 +6939,9 @@
                             >voûte</term> en <term type="gT" ref="#visSaintGilles"
                             ana="#ivisSaintGilles"
                             >vis Saint Gilles</term>
-                            sur un plan quarré se <term type="gT" ref="#toiser"
-                            >toise</term> en ajoutant la <term type="gT" ref="#longueur"
-                            >longueur</term> de sa <term type="gT" ref="#naissance"
+                            sur un plan quarré se <term
+                            type="gT" ref="#toiser">toise</term> en ajoutant la <term type="gT"
+                            ref="#longueur">longueur</term> de sa <term type="gT" ref="#naissance"
                             >naissance</term>
                             rampante de l’autre <term
                             type="gT" ref="#naissance">naissance</term> de la même <term type="gT"
@@ -6974,8 +6982,8 @@
                             type="gT" ref="#centre">centres</term> des 4 <term type="gT"
                             ref="#diametre"
                             >diamettres</term> sont de 21. pieds sur
-                            lesquels côtés du quarré du milieu sont réglés le rampant de la <term type="gT"
-                            ref="#voute"
+                            lesquels côtés du quarré du milieu sont réglés le rampant de la <term
+                            type="gT" ref="#voute"
                             >voûte</term> en
                             ayant prolongé 2 <del
                             rend="strikethrough"
@@ -6997,10 +7005,10 @@
                             <term
                             type="gT" ref="#hauteur">hauteur</term> qui doit estre la <term
                             type="gT" ref="#rampe" ana="#irampe"
-                            >rampe </term>sur le côté IK du quarré du milieu de la <term type="gT" ref="#voute"
-                            >voûte</term>,
-                            laquelle <term type="gT"
-                            ref="#hauteur"
+                            >rampe </term>sur le côté IK du quarré du milieu de la <term type="gT"
+                            ref="#voute">voûte</term>,
+                            laquelle <term
+                            type="gT" ref="#hauteur"
                             >hauteur</term> on suppose avoir 10. pieds pour former le rampant PX
                             par lequel point X ayant mené le <term
                             type="gT" ref="#diametre"
@@ -7306,7 +7314,8 @@
                             >vis Saint Gilles</term> sur un plan rectangle
                             plus long que large se fera aussi par la même règle du <term
                             type="gT" ref="#toise">toisé</term> d’une pareille <term type="gT"
-                            ref="#voute">voûte</term> sur un plan quarré en
+                            ref="#voute"
+                            >voûte</term> sur un plan quarré en
                             ajoutant la <term
                             type="gT" ref="#longueur">longueur</term> de l’autre la <term type="gT"
                             ref="#naissance"
@@ -7338,8 +7347,8 @@
                             >voûte</term> en <term type="gT" ref="#visSaintGilles"
                             ana="#ivisSaintGilles"
                             >vis Saint Gilles</term>
-                            sur un plan quarré long ABCD dont les <term type="gT" ref="#face"
-                            >faces</term> du <term type="gT" ref="#noyau"
+                            sur un plan quarré long ABCD dont les <term
+                            type="gT" ref="#face">faces</term> du <term type="gT" ref="#noyau"
                             >noyau</term> EFGH sont
                                 <sic>chacunes</sic> également distantes des <term
                             type="gT" ref="#mur"
@@ -7377,7 +7386,7 @@
                             type="gT" ref="#naissance">naissances</term> de la <term type="gT"
                             ref="#voute">voûte</term> sur les 2 <term type="gT" ref="#mur"
                             >murs</term> AB, BC, et sur les 2 <term type="gT" ref="#face"
-                            >faces</term> du
+                            >faces</term> du 
                             <term type="gT"
                             ref="#noyau"
                             >noyau</term> opposé EF, FG, les additionner ensemble et les multiplier par la
@@ -7388,7 +7397,7 @@
                             <reg>cintre</reg>
                             </choice></term> de la <term type="gT" ref="#voute"
                             >voûte</term> sur le <term type="gT" ref="#diametre"
-                            >diamettre</term> ON prise
+                            >diamettre</term> ON prise 
                             <term type="gT"
                             ref="#dEquerre">d'équerre</term> à la <term type="gT" ref="#rampe"
                             ana="#irampe"
@@ -7396,7 +7405,7 @@
                             </term>au droit des <term type="gT"
                             ref="#ligne">lignes</term> du milieu de la <term type="gT"
                             ref="#largeur">largeur</term> de la <term type="gT" ref="#voute"
-                            >voûte</term> IKLM le
+                            >voûte</term> IKLM le 
                             produit sera la superficie entière des 4. côtés de la <term
                             type="gT" ref="#voute">voûte</term> en <term type="gT"
                             ref="#visSaintGilles" ana="#ivisSaintGilles"
@@ -7451,7 +7460,8 @@
                             >creuses</term> que saillantes en <term type="gT" ref="#visSaintGilles"
                             ana="#ivisSaintGilles"
                             >vis Saint Gilles</term>
-                            sur des plans quarrés ou rectangles se <term type="gT" ref="#toiser"
+                            sur des plans quarrés ou rectangles se <term
+                            type="gT" ref="#toiser"
                             >toisent</term> au pied courant comme les
                             <term
                             type="gT" ref="#saillie">saillies</term> d’<term type="gT"
@@ -7465,10 +7475,9 @@
                             type="gT" ref="#voute">voûte</term>.</p>
                     </div>
                     <div xml:id="t9BodyFr01.14" type="chapter" n="14">
-                        <head rend="alignCenter"> <num>Chapitre 14<hi rend="superscript"
-                            >e</hi>.</num> 
-                            <lb/><term type="gT" ref="#toise">toisé</term> des <term
-                            type="gT" ref="#voute"
+                        <head rend="alignCenter"> <label><num>Chapitre 14<hi rend="superscript"
+                            >e</hi>.</num></label> <lb/><term type="gT" ref="#toise"
+                            >toisé</term> des <term type="gT" ref="#voute"
                             >voûtes</term> en
                             trompe</head>
                         <p xml:id="t9BodyFr01.14.p001">1. Il y a une autre espèce de <term type="gT"
@@ -9308,9 +9317,10 @@
                             >tête</term> occupe une partie des reins.</p>
                     </div>
                     <div xml:id="t9BodyFr01.15" type="chapter" n="15">
-                        <head rend="alignCenter"> <num>Chapitre 15<hi rend="superscript"
-                            >e </hi>.</num> <lb/><term type="gT" ref="#toise">toisé</term> des <term
-                            type="gT" ref="#arriereVoussure">arrières voussures</term> </head>
+                        <head rend="alignCenter"> <label><num>Chapitre 15<hi rend="superscript"
+                            >e </hi>.</num></label> <lb/><term type="gT" ref="#toise"
+                            >toisé</term> des <term type="gT" ref="#arriereVoussure"
+                            >arrières voussures</term> </head>
                         <p xml:id="t9BodyFr01.15.p001">1. Afin de ne rien omettre du <term type="gT"
                             ref="#toise"
                             >toisé</term> superficiel, il faut encore expliquer le
@@ -10000,8 +10010,8 @@
                             >toisé</term> général de toute l’arrièrre voussure.</p>
                     </div>
                     <div xml:id="t9BodyFr01.16" type="chapter" n="16">
-                        <head rend="alignCenter"> <num>Chapitre 16.</num> <lb/>Toisé des <term
-                            type="gT" ref="#moulure"
+                        <head rend="alignCenter"> <label><num>Chapitre 16.</num></label>
+                            <lb/>Toisé des <term type="gT" ref="#moulure"
                             >moulures</term>
                             d’architecture. </head>
                         <p xml:id="t9BodyFr01.16.p001">1. Le <term type="gT" ref="#toise"
@@ -10623,10 +10633,9 @@
                             >dégagement</term> en grains d’orges, ne sont point réputés estres
                                 <term
                             type="gT" ref="#moulure">moulures</term> ni <term type="gT"
-                            ref="#membre">membres</term> d’<term type="gT" ref="#architecture"><term
-                            type="gT" ref="#architecture">architectures</term>
-                            </term> , et ils ne sont point comptés dans le <term type="gT"
-                            ref="#toise">toisé</term>.</p>
+                            ref="#membreDArchitecture"
+                            >membres d’architectures</term>, et ils ne sont point comptés dans le <term
+                            type="gT" ref="#toise">toisé</term>.</p>
                         <p xml:id="t9BodyFr01.16.p030">30. Les <term type="gT" ref="#scotie"
                             >scoties</term> en <term type="gT" ref="#demi">demi</term> <term
                             type="gT" ref="#cercle"
@@ -10651,7 +10660,8 @@
                             >face</term> sont chacun
                             pour 1/4 de pied.</p>
                         <p xml:id="t9BodyFr01.16.p031">31. Les <term type="gT" ref="#bossage"
-                            ana="#ibossage">bossages</term> quarrés 51. entre 2 champs droits
+                            ana="#ibossage"
+                            >bossages</term> quarrés 51. entre 2 champs droits
                             sont comptés chacun avec un de leur champ pour un1 pied courant à cause
                             des 4 <term
                             type="gT" ref="#face"
@@ -10727,7 +10737,8 @@
                             pour 1/4 de pied<ref
                             type="noteCritical" target="#t9Nc0028"/>.</p>
                         <p xml:id="t9BodyFr01.16.p036">36. Les <term type="gT" ref="#table"
-                            >tables</term> de <term type="gT" ref="#relief">relief</term> quarrés 55. sont
+                            >tables</term> de <term type="gT" ref="#relief"
+                            >relief</term> quarrés 55. sont
                             comptées pour 3/4 de pied courant sur leur <term
                             type="gT" ref="#longueur">longueur</term> à cause des 3 <term type="gT"
                             ref="#face"
@@ -10815,10 +10826,9 @@
                             type="gT" ref="#ouvrage">ouvrages</term> de <term type="gT"
                             ref="#pierre">pierre</term> ou de <term type="gT" ref="#marbre"
                             ana="#imarbre">marbre </term>, lorsque les <term type="gT"
-                            ref="#saillie">saillies</term>
-                                d’<term
-                            type="gT" ref="#architecture"><term type="gT" ref="#architecture"
-                            >architectures</term> </term> ne sont que pour façon, le cube du <term
+                            ref="#saillie"
+                            >saillies</term>
+                                d’architectures ne sont que pour façon, le cube du <term
                             type="gT" ref="#marbre" ana="#imarbre">marbre </term>et de la <term
                             type="gT" ref="#pierre"
                             >pierre</term> étant compté à part ;
@@ -11208,8 +11218,8 @@
                             ainsi qu’il est expliqué à l’article 29 cy devant.</p>
                     </div>
                     <div xml:id="t9BodyFr01.17" type="chapter" n="17">
-                        <head rend="alignCenter"> <num>Chapitre 17.</num> <lb/><term type="gT"
-                            ref="#toise">toisé</term> des <term type="gT" ref="#ornement"><choice>
+                        <head rend="alignCenter"> <label><num>Chapitre 17.</num></label> <lb/><term
+                            type="gT" ref="#toise">toisé</term> des <term type="gT" ref="#ornement"><choice>
                             <orig>ornemens</orig>
                             <reg>ornements</reg>
                             </choice></term>,
@@ -11835,9 +11845,9 @@
                         </p>
                     </div>
                     <div xml:id="t9BodyFr01.18" type="chapter" n="18">
-                        <head rend="alignCenter"> <num>Chapitre 18.</num> <lb/><term type="gT"
-                            ref="#toise">toisé</term> des légers <term type="gT" ref="#ouvrage"
-                            >ouvrages</term> </head>
+                        <head rend="alignCenter"> <label><num>Chapitre 18.</num></label> <lb/><term
+                            type="gT" ref="#toise">toisé</term> des légers <term type="gT"
+                            ref="#ouvrage">ouvrages</term> </head>
                         <p xml:id="t9BodyFr01.18.p001">1. L’on nomme légers <term type="gT"
                             ref="#ouvrage"
                             >ouvrages</term> tous les mêmes
@@ -13966,8 +13976,8 @@
                             <abbr>cou<hi rend="superscript">r</hi> </abbr>
                             <expan>courante</expan>
                             </choice> est comptée pour une <term type="gT" ref="#toise"
-                            >toise</term> de légers <term type="gT" ref="#ouvrage"><term type="gT"
-                            ref="#ouvrage">ouvrages</term></term>. </p>
+                            >toise</term> de légers <term type="gT" ref="#ouvrage"
+                            >ouvrages</term>. </p>
                         <p xml:id="t9BodyFr01.18.p098"
                             >90. Les <sic>chaussées</sic> d’aisances de
                             pareille poterie placées dans les épaisseurs des <term
@@ -14098,7 +14108,7 @@
                             >toiser</term> les
                             <sic>chaussées</sic> d’aisances du <term
                             type="gT" ref="#boisseau"
-                            >boisseau</term>, l’on a aucun égard à la
+                            >boisseau</term>, l’on a aucun égard à la 
                             <term
                             type="gT" ref="#grosseur">grosseur</term> des pots ou <term type="gT"
                             ref="#boisseau"
@@ -14658,8 +14668,8 @@
                         bâtimens <lb/>concernant la <term
                         type="gT" ref="#charpente" ana="#icharpente">charpente </term></head>
                     <div xml:id="t9BodyFr02.01" type="chapter" n="1">
-                        <head rend="alignCenter"> <num>Chapitre 1<hi rend="superscript">er</hi>
-                            </num> </head>
+                        <head rend="alignCenter"> <label><num>Chapitre 1<hi rend="superscript"
+                            >er</hi> </num></label> </head>
                         <p xml:id="t9BodyFr02.01.p001">1<hi rend="superscript">er</hi>. Le <term
                             type="gT" ref="#toise">toisé</term> des bois de <term type="gT"
                             ref="#charpenterie" ana="#icharpenterie"
@@ -14689,7 +14699,7 @@
                             >solives</term> de ces <term type="gT" ref="#travée"
                             >travées</term> étoient de même <term type="gT" ref="#longueur"
                             >longueur</term> et <term type="gT" ref="#grosseur"
-                            >grosseur</term> on<hi rend="annotation_reference"> <ref
+                            >grosseur</term> on <hi rend="annotation_reference"> <ref
                             type="noteHistorical" target="#t9Nh0002"/>
                             </hi> les comptoit au cent et on les réduisoit par le calcul, les
                             <term
@@ -14757,7 +14767,8 @@
                             <expan>pieds</expan>
                             </choice> de long, et il faut 72 de ces échalats pour faire une pièce
                             parce que la pièce étant de 2 <term
-                            type="gT" ref="#toise">toises</term> de long de 6 pouces de gros quarré,
+                            type="gT" ref="#toise"
+                            >toises</term> de long de 6 pouces de gros quarré,
                             le <hi
                             rend="annotation_reference"> <ref type="noteHistorical"
                             target="#t9Nh0003"/> </hi>bout de sa coupe contient 36 <choice>
@@ -14771,8 +14782,7 @@
                             >toises</term> 72 échalats qui font la pièce, en
                             sorte que un échalat de 6 pieds de long 1 pouce de gros quarré produit 2
                             pouces de <term
-                            type="gT" ref="#longueur"
-                            >longueur</term> de pièce, et 6 échalats produisent un pied de long, 6
+                            type="gT" ref="#longueur">longueur</term> de pièce, et 6 échalats produisent un pied de long, 6
                             pieds de long de 3 et 4 pouces de gros produisent 2 pieds courans, ou
                             1/6 de pièce, 6 pieds de long de 4 pouces de gros quarré produisent 2 <choice>
                             <abbr>pi.</abbr>
@@ -14901,10 +14911,12 @@
                             <abbr>po<hi rend="superscript">s</hi> </abbr>
                             <expan>pouces</expan>
                             </choice>, la <term type="gT" ref="#grosseur"
-                            >grosseur</term> seroit de 6 pouces quarrés, et si la <term type="gT" ref="#grosseur"
+                            >grosseur</term> seroit de 6 pouces quarrés, et si la <term type="gT"
+                            ref="#grosseur"
                             >grosseur</term>
                             étoit de 20 pouces, la <term
-                            type="gT" ref="#grosseur">grosseur</term> seroit de 5 pouces quarrés ainsi des
+                            type="gT" ref="#grosseur"
+                            >grosseur</term> seroit de 5 pouces quarrés ainsi des
                                 autres.<ref
                             type="noteCritical" target="#t9Nc0037"/> </p>
                         <p xml:id="t9BodyFr02.01.p008"
@@ -14916,10 +14928,10 @@
                             </choice>.</p>
                     </div>
                     <div xml:id="t9BodyFr02.02" type="chapter" n="2">
-                        <head rend="alignCenter"> <num>Chapitre 2.</num> <lb/>L’usage de la <term
-                            type="gT" ref="#charpenterie" ana="#icharpenterie"
-                            >charpenterie</term>. (du <term type="gT" ref="#toise"
-                            >toisé</term>).</head>
+                        <head rend="alignCenter"> <label><num>Chapitre 2.</num></label>
+                            <lb/>L’usage de la <term type="gT" ref="#charpenterie"
+                            ana="#icharpenterie">charpenterie</term>. (du <term type="gT"
+                            ref="#toise">toisé</term>).</head>
                         <p xml:id="t9BodyFr02.02.p001"
                             >1. Il y a 2 différentes <sic>manière</sic> de
                             <term
@@ -15004,7 +15016,8 @@
                             <abbr>pi.</abbr>
                             <expan>pieds</expan>
                             </choice> 1/2 en sus. </p>
-                        <p xml:id="t9BodyFr02.02.p005">5. Cela sous prétexte que les bois quarrés qui arrivent à <placeName
+                        <p xml:id="t9BodyFr02.02.p005"
+                            >5. Cela sous prétexte que les bois quarrés qui arrivent à <placeName
                             ref="#paris"
                             >Paris</placeName> ont leurs
                             <term type="gT"
@@ -15054,9 +15067,10 @@
                     <pb xml:id="t9P135" n="p135"/>
                     <fw type="pageNum">135</fw>
                     <div xml:id="t9BodyFr02.03" type="chapter" n="3">
-                        <head rend="alignCenter"> <num>Chapitre 3<hi rend="superscript"
-                            >e</hi>.</num> <lb/><term type="gT" ref="#toise">toisé</term> des <term
-                            type="gT" ref="#plancher" ana="#iplancher">planchers</term> </head>
+                        <head rend="alignCenter"> <label><num>Chapitre 3<hi rend="superscript"
+                            >e</hi>.</num></label> <lb/><term type="gT" ref="#toise"
+                            >toisé</term> des <term type="gT" ref="#plancher" ana="#iplancher"
+                            >planchers</term> </head>
                         <p xml:id="t9BodyFr02.03.p001">1. La seconde chose à observer est au <term
                             type="gT" ref="#toise">toisé</term> de chaque espèce d’<term type="gT"
                             ref="#ouvrage">ouvrage</term> de
@@ -15490,8 +15504,8 @@
                             qui y sont assemblés chacun pour ce <sic>qui sont</sic>.</p>
                     </div>
                     <div xml:id="t9BodyFr02.04" type="chapter" n="4">
-                        <head rend="alignCenter"> <num>Chapitre 4.</num> <lb/><term type="gT"
-                            ref="#toise">toisé</term> des <term type="gT" ref="#panDeBois"
+                        <head rend="alignCenter"> <label><num>Chapitre 4.</num></label> <lb/><term
+                            type="gT" ref="#toise">toisé</term> des <term type="gT" ref="#panDeBois"
                             ana="#ipanDeBois">pans de bois</term> et <term type="gT" ref="#cloison"
                             ana="#icloison">cloison</term>.</head>
                         <p xml:id="t9BodyFr02.04.p001">1. Aux <term type="gT" ref="#panDeBois"
@@ -15721,8 +15735,8 @@
                             de gros sont toisés et réduits pour ce qu’ils contiennent.</p>
                     </div>
                     <div xml:id="t9BodyFr02.05" type="chapter" n="5">
-                        <head rend="alignCenter"> <num>Chapitre 5</num> <lb/><term type="gT"
-                            ref="#toise">toisé</term> des <term type="gT" ref="#escalier"
+                        <head rend="alignCenter"> <label><num>Chapitre 5</num></label> <lb/><term
+                            type="gT" ref="#toise">toisé</term> des <term type="gT" ref="#escalier"
                             ana="#iescalier">escaliers</term> de <term type="gT" ref="#charpente"
                             ana="#icharpente">charpente </term></head>
                         <p xml:id="t9BodyFr02.05.p001">1. Aux <term type="gT" ref="#escalier"
@@ -15809,10 +15823,9 @@
                             ref="#cordeau">cordeau</term>.</p>
                         <p xml:id="t9BodyFr02.05.p004">4. Aux <term type="gT" ref="#escalier"
                             ana="#iescalier">escaliers</term> où il se fait des <term type="gT"
-                            ref="#balustre">balustres</term> quarrés dont les <term type="gT" ref="#moulure"><term type="gT"
+                            ref="#balustre">balustres</term> quarrés dont les <term type="gT"
                             ref="#moulure"
-                            >moulures</term></term>
-                            sont travaillées à la main, droits ou rampans, 2 de ces <term
+                            >moulures</term> sont travaillées à la main, droits ou rampans, 2 de ces <term
                             type="gT" ref="#balustre"
                             >balustres</term> sont comptés pour une pièce à
                             l’égard des <term
@@ -15895,10 +15908,10 @@
                             type="gT" ref="#toise">toisé</term>.</p>
                     </div>
                     <div xml:id="t9BodyFr02.06" type="chapter" n="6">
-                        <head rend="alignCenter"> <num>Chapitre 6<hi rend="superscript">e</hi>
-                            </num> <lb/>Toisé des <term type="gT" ref="#calotte" ana="#iCalotte"
-                            >calottes</term> et <term type="gT" ref="#dome" ana="#idome"
-                            >dômes</term> et autres <term type="gT" ref="#ouvrage"
+                        <head rend="alignCenter"> <label><num>Chapitre 6<hi rend="superscript"
+                            >e</hi></num> </label> <lb/>Toisé des <term type="gT" ref="#calotte"
+                            ana="#iCalotte">calottes</term> et <term type="gT" ref="#dome"
+                            ana="#idome">dômes</term> et autres <term type="gT" ref="#ouvrage"
                             >ouvrages</term> de <term type="gT" ref="#charpenterie"
                             ana="#icharpenterie">charpenterie</term>
                             <lb/>dont les bois sont élégis</head>
@@ -16065,8 +16078,8 @@
                             type="gT" ref="#grosseur">grosseur</term> du poteau.</p>
                     </div>
                     <div xml:id="t9BodyFr02.07" type="chapter" n="7">
-                        <head rend="alignCenter"> <num>Chapitre 7<hi rend="superscript"
-                            >e</hi>.</num> <lb/>Toisé de la <term type="gT" ref="#charpente"
+                        <head rend="alignCenter"> <label><num>Chapitre 7<hi rend="superscript"
+                            >e</hi>.</num></label> <lb/>Toisé de la <term type="gT" ref="#charpente"
                             ana="#icharpente">charpente </term>des <term type="gT" ref="#ecurie"
                             ana="#iEcuries">écuries</term> </head>
                         <p xml:id="t9BodyFr02.07.p001">1. Les mangeoires des <term type="gT"
@@ -16112,7 +16125,8 @@
                             manières : la plus simple qui est à roulons de fresnes planés,
                             assemblés, à torillons par le haut et par le bas avec des trous de
                             tarrière percés dans 2 <term
-                            type="gT" ref="#chevron">chevrons</term> quarrés, chaque <term type="gT" ref="#toiseCourante"
+                            type="gT" ref="#chevron">chevrons</term> quarrés, chaque <term type="gT"
+                            ref="#toiseCourante"
                             >toise courante</term> de ces sortes de
                             rateliers est comptée pour une pièce de bois <term
                             type="gT" ref="#charpente" ana="#icharpente"
@@ -16122,7 +16136,8 @@
                             >grosseur</term>
                             assemblés de même à torillons par le haut et par le bas dans des trous
                             de tarrière, percés dans des <term
-                            type="gT" ref="#chevron">chevrons</term> quarrés rabotés sur toute leur
+                            type="gT" ref="#chevron"
+                            >chevrons</term> quarrés rabotés sur toute leur
                             <term
                             type="gT" ref="#face">face</term>, les <term type="gT" ref="#arête"><choice>
                             <orig>arreste</orig>
@@ -16164,12 +16179,13 @@
                     <pb xml:id="t9P146" n="p146"/>
                     <fw type="pageNum">146</fw>
                     <div xml:id="t9BodyFr02.08" type="chapter" n="8">
-                        <head rend="alignCenter"> <num>Chapitre 8<hi rend="superscript">e</hi>
-                            </num> <lb/>Toisé des <term type="gT" ref="#ouvrage"
+                        <head rend="alignCenter"> <label><num>Chapitre 8<hi rend="superscript"
+                            >e</hi> </num></label> <lb/>Toisé des <term type="gT" ref="#ouvrage"
                             >ouvrages</term> de <term type="gT" ref="#charpenterie"
                             ana="#icharpenterie"
                             >charpenterie</term> en vieux bois et
-                            des<lb/>étayemens</head>
+                            des 
+                            <lb/>étayemens</head>
                         <p xml:id="t9BodyFr02.08.p001"
                             >1. Quand les vieux bois que l’on remploye
                             dans les bâtimens ont été donnés en compte au <term
@@ -16235,9 +16251,9 @@
                     <pb xml:id="t9P147" n="p147"/>
                     <fw type="pageNum">147</fw>
                     <div xml:id="t9BodyFr02.09" type="chapter" n="9">
-                        <head rend="alignCenter"> <num>Chapitre 9</num> <lb/><term type="gT"
-                            ref="#parallele">parallèle</term>du <term type="gT" ref="#toise"
-                            >toisé</term> de la <term type="gT" ref="#charpenterie"
+                        <head rend="alignCenter"> <label><num>Chapitre 9</num></label> <lb/><term
+                            type="gT" ref="#parallele">parallèle</term>du <term type="gT"
+                            ref="#toise">toisé</term> de la <term type="gT" ref="#charpenterie"
                             ana="#icharpenterie"
                             >charpenterie</term> à l’usage des<lb/> bâtimens du roy, et du <term
                             type="gT" ref="#toise">toisé</term> aux <term type="gJ"
@@ -16384,9 +16400,9 @@
                         <lb/>concernant la couverture.</head>
                     <!-- TODO vérifier s'il n'y a pas une accolade -->
                     <div xml:id="t9BodyFr03.01" type="chapter" n="1">
-                        <head rend="alignCenter"> <num>Chapitre 1<hi rend="superscript">er</hi>
-                            </num> <lb/>Qualités des <term type="gT" ref="#couverture"
-                            >couvertures</term></head>
+                        <head rend="alignCenter"> <label><num>Chapitre 1<hi rend="superscript"
+                            >er</hi></num> </label> <lb/>Qualités des <term type="gT"
+                            ref="#couverture">couvertures</term></head>
                         <p xml:id="t9BodyFr03.01.p001">1. Il y a trois sortes de <term type="gT"
                             ref="#couverture"
                             >couvertures</term> à
@@ -16560,8 +16576,8 @@
                             ref="#toiser">toisent</term> l’une comme l’autre de la même manière.</p>
                     </div>
                     <div xml:id="t9BodyFr03.02" type="chapter" n="2">
-                        <head rend="alignCenter"> <num>Chapitre 2<hi rend="superscript">e</hi>
-                            </num> <lb/><term type="gT" ref="#toise"
+                        <head rend="alignCenter"> <label><num>Chapitre 2<hi rend="superscript"
+                            >e</hi> </num></label> <lb/><term type="gT" ref="#toise"
                             >toisé</term> superficiel des
                             <term
                             type="gT" ref="#couverture">couvertures</term></head>
@@ -16808,9 +16824,9 @@
                             souche.</p>
                     </div>
                     <div xml:id="t9BodyFr03.03" type="chapter" n="3">
-                        <head rend="alignCenter"> <num>Chapitre 3<hi rend="superscript">e</hi>
-                            </num> <lb/><term type="gT" ref="#toise">toisé</term> de la <term
-                            type="gT" ref="#couverture"
+                        <head rend="alignCenter"> <label><num>Chapitre 3<hi rend="superscript"
+                            >e</hi></num> </label> <lb/><term type="gT" ref="#toise"
+                            >toisé</term> de la <term type="gT" ref="#couverture"
                             >couverture</term> des
                                 <term type="gT"
                             ref="#lucarne" ana="#ilucarnes"
@@ -17013,8 +17029,8 @@
                             ref="#toiser">toise</term> l’armature à part suivant sa superficie.</p>
                     </div>
                     <div xml:id="t9BodyFr03.04" type="chapter" n="4">
-                        <head rend="alignCenter"> <num>Chapitre 4</num> <lb/><term type="gT"
-                            ref="#toise">toisé</term> des <term type="gT" ref="#saillie"
+                        <head rend="alignCenter"> <label><num>Chapitre 4</num></label> <lb/><term
+                            type="gT" ref="#toise">toisé</term> des <term type="gT" ref="#saillie"
                             >saillies</term> de
                             <term type="gT"
                             ref="#couverture">couverture</term> aux <term type="gJ"
@@ -17664,8 +17680,7 @@
                 <pb xml:id="t9P162" n="p162"/>
                 <fw type="pageNum">162</fw>
                 <div xml:id="t9BodyFr04" type="part" n="4">
-                    <head rend="alignCenter"> <num>Section 4</num> 
-                        <lb/>Du traité du <term type="gT"
+                    <head rend="alignCenter"> <num>Section 4</num> <lb/>Du traité du <term type="gT"
                         ref="#toise"
                         >toisé</term> des bâtimens 
                         <lb/>concernant 
@@ -17715,7 +17730,7 @@
                         >ouvrages</term> sont
                         contenus dans cette présente section.</p>
                     <div xml:id="t9BodyFr04.01" type="chapter" n="1">
-                        <head rend="alignCenter"> <num>Chapitre premier</num>
+                        <head rend="alignCenter"> <label><num>Chapitre premier</num></label>
                             <lb/>Concernant la <term type="gT" ref="#plomberie" ana="#iplomberie"
                             >plomberie</term> </head>
                         <p xml:id="t9BodyFr04.01.p001">1. Les <term type="gT" ref="#ouvrage"
@@ -17817,9 +17832,9 @@
                             différemment pour estre comptés sur divers prix.</p>
                     </div>
                     <div xml:id="t9BodyFr04.02" type="chapter" n="2">
-                        <head rend="alignCenter"> <num>Chapitre 2<hi rend="superscript">e</hi>
-                            </num> <lb/>Concernant le <term type="gT" ref="#carrelage"
-                            >carrelage</term> </head>
+                        <head rend="alignCenter"> <label><num>Chapitre 2<hi rend="superscript"
+                            >e</hi></num> </label> <lb/>Concernant le <term type="gT"
+                            ref="#carrelage">carrelage</term> </head>
                         <p xml:id="t9BodyFr04.02.p001">1. L’on entend vulgairement par les <term
                             type="gT" ref="#ouvrage"
                             >ouvrages</term>
@@ -17949,9 +17964,9 @@
                     <pb xml:id="t9P166" n="p166"/>
                     <fw type="pageNum">166</fw>
                     <div xml:id="t9BodyFr04.03" type="chapter" n="3">
-                        <head rend="alignCenter"> <num>Chapitre 3<hi rend="superscript">e</hi>
-                            </num> <lb/>Concernant la <term type="gT" ref="#menuiserie"
-                            >menuiserie</term></head>
+                        <head rend="alignCenter"> <label><num>Chapitre 3<hi rend="superscript"
+                            >e</hi></num> </label> <lb/>Concernant la <term type="gT"
+                            ref="#menuiserie">menuiserie</term></head>
                         <p xml:id="t9BodyFr04.03.p001">1. Il y a 2 sortes de <term type="gT"
                             ref="#toise">toisé</term> pour la <term type="gT" ref="#menuiserie"
                             >menuiserie</term>, l’une à <term type="gT" ref="#toiseSuperficielle"
@@ -17993,8 +18008,8 @@
                             >pièces</term> parquetées que l’on réduit à la <term type="gT"
                             ref="#toiseSuperficielle"
                             >toise superficielle</term> de 36
-                            pieds quarrés on rabat la place des astres, foyers, <term type="gT"
-                            ref="#passage"
+                            pieds quarrés on rabat la place des astres, foyers, <term
+                            type="gT" ref="#passage"
                             >passages</term> de tuyaux
                             de <term
                             type="gT" ref="#cheminee" ana="#icheminee"
@@ -18347,8 +18362,9 @@
                     <pb xml:id="t9P170" n="p170"/>
                     <fw type="pageNum">170</fw>
                     <div xml:id="t9BodyFr04.04" type="chapter" n="4">
-                        <head rend="alignCenter"> <num>Chapitre 4</num> <lb/>Concernant la <term
-                            type="gT" ref="#serrurerie" ana="#iserrurerie">serrurerie</term> </head>
+                        <head rend="alignCenter"> <label><num>Chapitre 4</num></label>
+                            <lb/>Concernant la <term type="gT" ref="#serrurerie" ana="#iserrurerie"
+                            >serrurerie</term> </head>
                         <p xml:id="t9BodyFr04.04.p001">1. La <term type="gT" ref="#serrurerie"
                             ana="#iserrurerie"
                             >serrurerie</term> se compte au poid, pièce et
@@ -18383,9 +18399,8 @@
                             ref="#chevillette">chevillettes</term>, <term type="gT" ref="#tige"
                             >tiges</term>, <term type="gT" ref="#clou"
                             >cloux</term> de charrette et de batteau, <term type="gT" ref="#barreau"
-                            >barreaux</term>, <term type="gT" ref="#grille"><term type="gT"
-                            ref="#grille">grilles</term></term>, <term type="gT" ref="#porte"
-                            >portes</term> de <term type="gT" ref="#fer"
+                            >barreaux</term>, <term type="gT" ref="#grille">grilles</term>, <term
+                            type="gT" ref="#porte">portes</term> de <term type="gT" ref="#fer"
                             >fer</term> avec leurs garnitures, scavoir <term type="gT" ref="#fiche"
                             >fiches</term>, <term type="gT" ref="#serrureAGaches"
                             >serrures à gaches</term>, <term type="gT"
@@ -18542,9 +18557,9 @@
                     <pb xml:id="t9P173" n="p173"/>
                     <fw type="pageNum">173</fw>
                     <div xml:id="t9BodyFr04.05" type="chapter" n="5">
-                        <head rend="alignCenter"> <num>Chapitre 5<hi rend="superscript">e</hi>
-                            </num> <lb/>Concernant la <term type="gT" ref="#vitrerie"
-                            ana="#ivitrerie">vitrerie</term> </head>
+                        <head rend="alignCenter"> <label><num>Chapitre 5<hi rend="superscript"
+                            >e</hi></num> </label> <lb/>Concernant la <term type="gT"
+                            ref="#vitrerie" ana="#ivitrerie">vitrerie</term> </head>
                         <p xml:id="t9BodyFr04.05.p001">1. Il y a trois sortes d’<term type="gT"
                             ref="#ouvrage">ouvrages</term> de <term type="gT" ref="#vitrerie"
                             ana="#ivitrerie"
@@ -18719,8 +18734,9 @@
                             feuille de papier.</p>
                     </div>
                     <div xml:id="t9BodyFr04.06" type="chapter" n="6">
-                        <head rend="alignCenter"> <num>Chapitre 6</num> <lb/>Concernant le <term
-                            type="gT" ref="#pave" ana="#ipave">pavé</term></head>
+                        <head rend="alignCenter"> <label><num>Chapitre 6</num></label>
+                            <lb/>Concernant le <term type="gT" ref="#pave" ana="#ipave"
+                            >pavé</term></head>
                         <p xml:id="t9BodyFr04.06.p001">1. L’on entend par le terme de <term
                             type="gT" ref="#pave" ana="#ipave"
                             >pavé</term> dans ce chapitre, le
@@ -18836,7 +18852,8 @@
                             type="gT" ref="#pave" ana="#ipave"
                             >pavé</term> fendu en 3 de
                             5 pouces 3 <term
-                            type="gT" ref="#ligne">lignes</term> en quarré, bien équarri et uni, proprement taillé par
+                            type="gT" ref="#ligne"
+                            >lignes</term> en quarré, bien équarri et uni, proprement taillé par
                             le dessus et par les joints ; il se pose aussi avec <term
                             type="gT" ref="#mortier"
                             >mortier</term> de chaux et
@@ -18909,8 +18926,8 @@
                             de tous.</p>
                     </div>
                     <div xml:id="t9BodyFr04.07" type="chapter" n="7">
-                        <head rend="alignCenter"> <num>Chapitre 7</num> <lb/>Concernant la <term
-                            type="gT" ref="#marbre" ana="#imarbre"
+                        <head rend="alignCenter"> <label><num>Chapitre 7</num></label>
+                            <lb/>Concernant la <term type="gT" ref="#marbre" ana="#imarbre"
                             >marbre
                             </term>rie</head>
                         <p xml:id="t9BodyFr04.07.p001">1. Il y a 2 choses à considérer aux <term
@@ -19042,9 +19059,10 @@
                             >longueur</term> et <term type="gT" ref="#largeur">largeur</term>, <term
                             type="gT" ref="#hauteur"
                             >hauteur</term> ou
-                            pourtour, se réduisent au pied quarré. Ils se <pb xml:id="t9P179" n="p179"/> <fw
-                            type="pageNum">179</fw> payent sur un prix convenable à l’<term
-                            type="gT" ref="#ouvrage"
+                            pourtour, se réduisent au pied quarré. Ils se <pb
+                            xml:id="t9P179" n="p179"/> <fw type="pageNum"
+                            >179</fw> payent sur un prix convenable à l’<term type="gT"
+                            ref="#ouvrage"
                             >ouvrage,</term>
                             ceux qui sont de sciage ou ceux qui sont dressés avec un ciseau, ceux
                             qui ne sont qu’adoucis, et ceux qui sont adoucis et polis
@@ -19185,7 +19203,8 @@
                             ana="#ipave">pavé</term>  de <term type="gT" ref="#marbre"
                             ana="#imarbre"
                             >marbre </term>blancs et noirs ou d’autres couleurs à
-                            pans ou quarrés et les <term type="gT" ref="#pave" ana="#ipave"
+                            pans ou quarrés et les <term
+                            type="gT" ref="#pave" ana="#ipave"
                             >pavé
                             </term> de lierre et <term type="gT"
                             ref="#marbre" ana="#imarbre"
@@ -19220,9 +19239,9 @@
                             type="gT" ref="#platre">plâtre</term> pour les poser.</p>
                     </div>
                     <div xml:id="t9BodyFr04.08" type="chapter" n="8">
-                        <head rend="alignCenter"> <num>Chapitre 8<hi rend="superscript">e</hi>
-                            </num> <lb/>Concernant la <term type="gT" ref="#sculpture"
-                            ana="#isculpture">sculpture </term></head>
+                        <head rend="alignCenter"> <label><num>Chapitre 8<hi rend="superscript"
+                            >e</hi></num> </label> <lb/>Concernant la <term type="gT"
+                            ref="#sculpture" ana="#isculpture">sculpture </term></head>
                         <p xml:id="t9BodyFr04.08.p001"
                             >1. Lorsque l’on propose dans ce chapitre le
                             <term
@@ -19408,7 +19427,7 @@
                     <pb xml:id="t9P182" n="p182"/>
                     <fw type="pageNum">182</fw>
                     <div xml:id="t9BodyFr04.09" type="chapter" n="9">
-                        <head rend="alignCenter"> <num>Chapitre 9</num>
+                        <head rend="alignCenter"> <label><num>Chapitre 9</num></label>
                             <lb/>Concernant la dorure</head>
                         <p xml:id="t9BodyFr04.09.p001"
                             >1. Il y a 2 sortes de dorrures dans les
@@ -19569,9 +19588,10 @@
                             que l’on réduit aussi au pied quarré.</p>
                     </div>
                     <div xml:id="t9BodyFr04.10" type="chapter" n="10">
-                        <head rend="alignCenter"> <num>Chapitre 10<hi rend="superscript">e</hi>
-                            </num> <lb/>Concernant la <term type="gT" ref="#peinture"
-                            ana="#ipeinture">peinture </term>et les impressions des couleurs</head>
+                        <head rend="alignCenter"> <label><num>Chapitre 10<hi rend="superscript"
+                            >e</hi></num> </label> <lb/>Concernant la <term type="gT"
+                            ref="#peinture" ana="#ipeinture"
+                            >peinture </term>et les impressions des couleurs</head>
                         <p xml:id="t9BodyFr04.10.p001">1. Les <term type="gT" ref="#peinture"
                             ana="#ipeinture"
                             >peintures</term> ordinaires des bâtimens que l’on
@@ -19975,8 +19995,9 @@
                             type="gT" ref="#proportionner">proportionnés</term> à l’ouvrage. </p>
                     </div>
                     <div xml:id="t9BodyFr04.11" type="chapter" n="11">
-                        <head rend="alignCenter"> <num>Chapitre 11<hi rend="superscript">e</hi>
-                            </num> <lb/>Conclusion du traité du <term type="gT" ref="#toise"
+                        <head rend="alignCenter"> <label><num>Chapitre 11<hi rend="superscript"
+                            >e</hi></num> </label> <lb/>Conclusion du traité du <term type="gT"
+                            ref="#toise"
                             >toisé</term>
                             des bâtimens</head>
                         <p xml:id="t9BodyFr04.11.p001"
@@ -20107,11 +20128,10 @@
                         <p xml:id="t9BackFr01.01.p010">Chapitre 6. Toisé des <term type="gT"
                             ref="#voute">voûtes</term> 23</p>
                         <p xml:id="t9BackFr01.01.p011">Chapitre 7. Toisé des <term type="gT"
-                            ref="#vouteDArrete" ana="#ivouteDArrete">voûtes d’<term type="gT"
-                            ref="#arête"><choice>
-                            <orig>arreste</orig>
-                            <reg>arête</reg>
-                            </choice></term> s</term> 31</p>
+                            ref="#vouteDArrete" ana="#ivouteDArrete">voûtes d’<choice>
+                            <orig>arrestes</orig>
+                            <reg>arêtes</reg>
+                            </choice></term> 31</p>
                         <p xml:id="t9BackFr01.01.p012">Chapitre 8. Toisé des <term type="gT"
                             ref="#vouteDeCloitre" ana="#ivouteDeCloitre"
                             >voûtes de
