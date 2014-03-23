@@ -73,7 +73,7 @@
             <label>
                 <num n="3">3</num>
             </label>
-            <title>Coupe sur la longueur de l’église de Sainte-Sabine</title>
+            <title>Coupe sur la longueur de l’église de <placeName ref="#romeSteSabine">Sainte-Sabine</placeName></title>
             <desc>plume et lavis, encres noire, jaune et rouge</desc>
             <dimensions>
                 <height quantity="21" unit="mm"/>
@@ -129,7 +129,7 @@
                 <label>
                     <num n="3">3</num>
                 </label>
-                <title>Face, coupe et profil des châpiteaux qui séparent la nef des bas-côtés</title>
+                <title>Face, coupe et profil des chapiteaux qui séparent la nef des bas-côtés</title>
                 <dimensions/>
             </figDesc>
         </figure>
@@ -511,6 +511,7 @@
         <fw type="header"><num n="4">IIII dessein.</num>
             <hi rend="capital">Église cathédrale</hi> Cha. II Section. I</fw>
         <figDesc>
+            <locus from="#c2F40r" n="p77">p. 77</locus>
             <label>
                 <num n="13">13</num>
             </label>
@@ -529,7 +530,7 @@
         <fw type="header"><num n="5">V dessein.</num>
             <hi rend="capital"> Église cathédrale</hi> Cha. II Section. I</fw>
         <figDesc>
-            <locus from="c2F42v" n="p82">p. 82</locus>
+            <locus from="#c2F42v" n="p82">p. 82</locus>
             <label>
                 <num n="14">14</num>
             </label>
