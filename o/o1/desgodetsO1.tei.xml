@@ -84,7 +84,7 @@
          <!-- mention d’édition -->
          <editionStmt>
             <edition n="1">première édition électronique, <date from="2013" to="2013"
-               >2008-2013</date> </edition>
+               >2008-2013</date>, version Beta</edition>
          </editionStmt>
          <extent><!-- taille du fichier en octet --></extent>
          <!-- information sur la publication électronique -->
