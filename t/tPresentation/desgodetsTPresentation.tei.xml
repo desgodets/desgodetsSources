@@ -291,7 +291,7 @@
                         assez peu courante), pourraient laisser penser à une filiation
                         entre deux manuscrits, ou du moins à l’utilisation d’un modèle
                         identique.</p>
-                    <table>
+                    <!--<table>
                         <row>
                             <cell/>
                             <cell>Présence d’une série complète de figures</cell>
@@ -484,6 +484,252 @@
                             <cell>Non</cell>
                             <cell>Bonne</cell>
                             <cell>Oui</cell>
+                            <cell>288</cell>
+                            <cell>227</cell>
+                            <cell>Pas de date</cell>
+                            <cell>1754</cell>
+                        </row>
+                    </table>-->
+                    <table>
+                        <row>
+                            <cell/>
+                            <cell>Présence d’une série complète de figures</cell>
+                            <cell>Lisibilité des planches</cell>
+                            <cell>Figures en planches ou dispersées</cell>
+                            <cell>Texte comportant tous les chapitres du cours</cell>
+                            <cell>Lisibilité du texte</cell>
+                            <cell>Texte copié par un scripteur français</cell>
+                        </row>
+                        <row>
+                            <cell>T1</cell>
+                            <cell>Oui</cell>
+                            <cell>Bonne</cell>
+                            <cell>Fig</cell>
+                            <cell>Non</cell>
+                            <cell>Bonne</cell>
+                            <cell>Oui</cell>
+                        </row>
+                        <row>
+                            <cell>T2</cell>
+                            <cell>Oui</cell>
+                            <cell>Bonne</cell>
+                            <cell>Pl</cell>
+                            <cell>Non</cell>
+                            <cell>Bonne</cell>
+                            <cell>Oui</cell>
+                        </row>
+                        <row>
+                            <cell>T3</cell>
+                            <cell>Non <lb/>(- 3)
+                            </cell>
+                            <cell>Moyenne</cell>
+                            <cell>Pl</cell>
+                            <cell>Oui</cell>
+                            <cell>Moyen-ne</cell>
+                            <cell>Oui</cell>
+                        </row>
+                        <row>
+                            <cell>T4</cell>
+                            <cell>Oui </cell>
+                            <cell>Bonne</cell>
+                            <cell>Fig</cell>
+                            <cell>Oui</cell>
+                            <cell>Bonne</cell>
+                            <cell>Oui</cell>
+                        </row>
+                        <row>
+                            <cell>T5</cell>
+                            <cell>Non <lb/>(- 2)</cell>
+                            <cell>Bonne</cell>
+                            <cell>Fig</cell>
+                            <cell>Oui</cell>
+                            <cell>Bonne</cell>
+                            <cell>Oui</cell>
+                        </row>
+                        <row>
+                            <cell>T6</cell>
+                            <cell>Non</cell>
+                            <cell>Moyenne</cell>
+                            <cell>Fig</cell>
+                            <cell>Non</cell>
+                            <cell>Sans objet</cell>
+                            <cell>Oui</cell>
+                        </row>
+                        <row>
+                            <cell>T7</cell>
+                            <cell>Sans objet</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>T8</cell>
+                            <cell>Non <lb/>(- 4)</cell>
+                            <cell>Moyenne</cell>
+                            <cell>Fig</cell>
+                            <cell>Non</cell>
+                            <cell>Moyen-ne</cell>
+                            <cell>Oui</cell>
+                        </row>
+                        <row>
+                            <cell>T9</cell>
+                            <cell>Non <lb/>(- 2)</cell>
+                            <cell>Bonne</cell>
+                            <cell>Pl</cell>
+                            <cell>Oui</cell>
+                            <cell>Bonne</cell>
+                            <cell>Oui</cell>
+                        </row>
+                        <row>
+                            <cell>T10</cell>
+                            <cell>Non <lb/>(slt 6 fig.)</cell>
+                            <cell>Bonne</cell>
+                            <cell>Fig</cell>
+                            <cell>Oui</cell>
+                            <cell>Bonne</cell>
+                            <cell>Oui</cell>
+                        </row>
+                        <row>
+                            <cell>T11</cell>
+                            <cell>Non <lb/>(- 2)</cell>
+                            <cell>Bonne</cell>
+                            <cell>Pl</cell>
+                            <cell>Oui</cell>
+                            <cell>Bonne</cell>
+                            <cell>Oui</cell>
+                        </row>
+                        <row>
+                            <cell>T12</cell>
+                            <cell>Non <lb/>(- 10)</cell>
+                            <cell>Bonne</cell>
+                            <cell>Fig</cell>
+                            <cell>Oui</cell>
+                            <cell>Moyen-ne</cell>
+                            <cell>Oui</cell>
+                        </row>
+                        <row>
+                            <cell>T13</cell>
+                            <cell>Non <lb/>(- 2)</cell>
+                            <cell>Bonne</cell>
+                            <cell>Pl</cell>
+                            <cell>Oui</cell>
+                            <cell>Bonne</cell>
+                            <cell>Oui</cell>
+                        </row>
+                        <row>
+                            <cell>T14</cell>
+                            <cell>Oui</cell>
+                            <cell>Bonne</cell>
+                            <cell>Pl</cell>
+                            <cell>Non</cell>
+                            <cell>Bonne</cell>
+                            <cell>Oui</cell>
+                        </row>
+                    </table>
+                    <table>
+                        <row>
+                            <cell/>
+                            <cell>Hauteur</cell>
+                            <cell>Largeur</cell>
+                            <cell>Dates mentionnées dans le manuscrit</cell>
+                            <cell>Elément de datation autre (filigrane, historique)
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>T1</cell>
+                            <cell>215</cell>
+                            <cell>165</cell>
+                            <cell>1724 </cell>
+                            <cell>Début XVIII<hi rend="superscript">e</hi> s.</cell>
+                        </row>
+                        <row>
+                            <cell>T2</cell>
+                            <cell>353</cell>
+                            <cell>227</cell>
+                            <cell>1724</cell>
+                            <cell>Pas de Filigrane</cell>
+                        </row>
+                        <row>
+                            <cell>T3</cell>
+                            <cell>183</cell>
+                            <cell>120</cell>
+                            <cell>Pas de date</cell>
+                            <cell>Filigrane à identifier</cell>
+                        </row>
+                        <row>
+                            <cell>T4</cell>
+                            <cell>225</cell>
+                            <cell>175</cell>
+                            <cell>1755</cell>
+                            <cell>1751</cell>
+                        </row>
+                        <row>
+                            <cell>T5</cell>
+                            <cell>190</cell>
+                            <cell>140</cell>
+                            <cell>Achevé en déc. 1725</cell>
+                            <cell>Filigrane à identifier</cell>
+                        </row>
+                        <row>
+                            <cell>T6</cell>
+                            <cell>272</cell>
+                            <cell>255</cell>
+                            <cell>Commencé à dicter le 17 nov. 1725</cell>
+                            <cell>Filigrane à identifier</cell>
+                        </row>
+                        <row>
+                            <cell>T7</cell>
+                            <cell>Sans objet</cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>T8</cell>
+                            <cell>180</cell>
+                            <cell>120</cell>
+                            <cell>1736</cell>
+                            <cell>Filigrane à identifier</cell>
+                        </row>
+                        <row>
+                            <cell>T9</cell>
+                            <cell>240</cell>
+                            <cell>185</cell>
+                            <cell>1745</cell>
+                            <cell>1742</cell>
+                        </row>
+                        <row>
+                            <cell>T10</cell>
+                            <cell>105</cell>
+                            <cell>160</cell>
+                            <cell>Pas de date</cell>
+                            <cell>Filigrane à identifier</cell>
+                        </row>
+                        <row>
+                            <cell>T11</cell>
+                            <cell>220</cell>
+                            <cell>168</cell>
+                            <cell>1753</cell>
+                            <cell>Filigrane à identifier</cell>
+                        </row>
+                        <row>
+                            <cell>T12</cell>
+                            <cell>255</cell>
+                            <cell>200</cell>
+                            <cell>Achevé le 24 nov. 1764</cell>
+                            <cell>1745-1749</cell>
+                        </row>
+                        <row>
+                            <cell>T13</cell>
+                            <cell>200</cell>
+                            <cell>150</cell>
+                            <cell>Pas de date</cell>
+                            <cell>1767</cell>
+                        </row>
+                        <row>
+                            <cell>T14</cell>
                             <cell>288</cell>
                             <cell>227</cell>
                             <cell>Pas de date</cell>
