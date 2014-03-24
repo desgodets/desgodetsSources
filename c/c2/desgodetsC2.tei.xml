@@ -4196,13 +4196,17 @@
                         xml:id="c2F55r" n="p107"/> l’alignement des <term type="gT"
                         ref="#colonne"><choice> <orig>colomnes</orig>
                         <reg>colonnes</reg>
-                        </choice></term>. Les caves IL sous les galleries latéralles, sont en berceau d’un bout à l’autre, et les caveaux M sont en <term
+                        </choice></term>. Les caves IL<ref
+                           type="noteHistorical" target="#c2Nh0251"
+                        /> sous les galleries latéralles, sont en berceau d’un bout à l’autre, et les caveaux M sont en <term
                         type="gT" ref="#vouteDeCloitre">voûte de <choice>
                         <orig>cloistre</orig> <reg>cloître</reg>
                         </choice></term> sous chacune des chapelles. Toutes ces caves et caveaux se communiquent les uns aux autres, par des portes d’enfilades, dans la largeur de l’<term
                         type="gT" ref="#eglise"
-                        >église</term> sous le milieu de chacque entrecolonnement. Vis-à-vis desquelles enfilades, sont des soupiraaux 5 en abajour, sur le dehors au droit du milieu des faces de touttes les chapelles, ainsy qu’il est marqué par ce profil et par le plan des caves au <ref>second dessein</ref>. Ces soupiraux sont fermés par des grilles de fer maillées ajour pour donner de l’air aux caves.</p>
-                     <p xml:id="c2BodyFr01.02.008.p005"> <hi rend="bigger">Les</hi>
+                           >église</term> sous le milieu de chacque entrecolonnement. Vis-à-vis desquelles enfilades, sont des soupiraaux 5 en abajour, sur le dehors au droit du milieu des faces de touttes les chapelles, ainsy qu’il est marqué par ce profil et par le plan des caves au <ref>second dessein</ref>. Ces soupiraux sont fermés par des grilles de fer maillées ajour pour donner de l’air aux caves<ref
+                              type="noteHistorical" target="#c2Nh0252"
+                           />.</p>
+                     <p xml:id="c2BodyFr01.02.008.p005"><hi rend="bigger">Les</hi>
                         <term type="gT" ref="#tirant"><choice> <orig>tirans</orig>
                         <reg>tirants</reg>
                         </choice></term> des fermes des combles, au dessus des grandes <term
@@ -4286,7 +4290,9 @@
                         type="gT" ref="#croisillon"
                         >croisillons</term> les plus proches du <term type="gT"
                         ref="#dome"
-                        >dôme</term>, forment les secondes galleries lateralles. L’<term
+                           >dôme</term>, forment les secondes galleries lateralles<ref
+                              type="noteHistorical" target="#c2Nh0253"
+                           />. L’<term
                         type="gT" ref="#imposte">imposte</term> des <term type="gT"
                         ref="#arcade">arcades</term> des pilliers du <term type="gT"
                         ref="#dome"
@@ -4294,7 +4300,9 @@
                         type="gT" ref="#imposte"
                         >imposte</term> est un grand panneau d’architecture où on pourroit mettre un tableau de peinture, ce dessus de l’<term
                         type="gT" ref="#imposte">imposte</term> <pb xml:id="c2F56r"
-                        n="p109"/> est orné d’un bas relief rond.</p>
+                           n="p109"/> est orné d’un bas relief rond<ref
+                              type="noteHistorical" target="#c2Nh0254"
+                           />.</p>
                      <p xml:id="c2BodyFr01.02.008.p011"> <hi rend="bigger"
                         >Les</hi> pans des demis octogonnes où sont les petites portes pour entrer dans l’<term
                         type="gT" ref="#eglise"
@@ -4315,19 +4323,27 @@
                         type="gT" ref="#voute"
                         >voûtes</term> par de petits arcs doubleaux ornés au-dedans de leur ceintre, par des bas reliefs ronds. Les pannaches de la grande voûte sphérique en pendentif au dessus, sont lisses, destinés pour y mettre de la peinture, de même que la grande calotte du <term
                         type="gT" ref="#dome"
-                        >dôme</term>, et la petite calotte de la lanterne. La peinture rendant ces parties de l’Ediffice plus léger, que ne feroit des sujets de sculpture.</p>
+                           >dôme</term>, et la petite calotte de la lanterne. La peinture rendant ces parties de l’Ediffice plus léger, que ne feroit des sujets de sculpture<ref
+                              type="noteHistorical" target="#c2Nh0255"
+                           />.</p>
                      <p xml:id="c2BodyFr01.02.008.p012"> <hi rend="bigger"
                         >Le</hi> grand <term type="gT" ref="#entablementCirculaire"
                         >entablement circulaire</term> qui soutient le <term type="gT"
                         ref="#dome"
-                        >dôme</term> au dessus des pannaches, doit être suivant les profils de l’ordre composé, pour convenir à l’ordre corinthien du dessus, observant que les saillies de l’architrave et de la <term
+                           >dôme</term> au dessus des pannaches, doit être suivant les profils de l’ordre composé, pour convenir à l’ordre corinthien du dessus<ref
+                              type="noteHistorical" target="#c2Nh0256"
+                           />, observant que les saillies de l’architrave et de la <term
                         type="gT" ref="#corniche">corniche</term> de cet <term
                         type="gT" ref="#entablementCirculaire"
-                        >entablement circulaire</term>, ne soit que les trois quarts de ce qu’elle devroit être, à proportion de leur hauteur. Parce que ne pouvant être vuë que par le dessous, les hauteurs diminuent et les saillies augmentent par des raisons d’optiques. La frise est droite et lisse, le bas des apuis des vitreaux au-dedans du <term
+                           >entablement circulaire</term>, ne soit que les trois quarts de ce qu’elle devroit être, à proportion de leur hauteur. Parce que ne pouvant être vuë que par le dessous, les hauteurs diminuent et les saillies augmentent par des raisons d’optiques<ref
+                              type="noteHistorical" target="#c2Nh0257"
+                           />. La frise est droite et lisse, le bas des apuis des vitreaux au-dedans du <term
                         type="gT" ref="#dome"
                         >dôme</term> est ornée de panneaux d’architecture, et les entrepiédestaux au dessous doivent être lisses. On y pourroit peindre dans les milieux des trophées d’<term
                         type="gT" ref="#eglise"
-                        >église</term> en camayeux comme par faissaux suspendus, et decoupés sur le fond blanc du mur, où les bustes des douze apôtres en medailles, ou d’autres sujets pieux dans le même goût, observant que la peinture n’en occupe que la partie du milieu et que les fonds et les côtés restent de la couleur du mur. Le diamètre <pb
+                           >église</term> en camayeux comme par faissaux suspendus, et decoupés sur le fond blanc du mur, où les bustes des douze apôtres en medailles, ou d’autres sujets pieux dans le même goût, observant que la peinture n’en occupe que la partie du milieu et que les fonds et les côtés restent de la couleur du mur<ref
+                              type="noteHistorical" target="#c2Nh0258"
+                           />. Le diamètre <pb
                         xml:id="c2F56v" n="p110"/> des <term type="gT" ref="#colonne"
                         ><choice> <orig>colomnes</orig> <reg>colonnes</reg>
                         </choice></term> du <term type="gT" ref="#baldaquin"
@@ -4339,9 +4355,12 @@
                         ref="#baldaquin"
                         >baldaquin</term>, pose sur le planum qui est au niveau du dessus du <term
                         type="gT" ref="#socle"
-                        >socle</term> du grand ordre. Le marche pied du maître autel doit être de trois degrés plus haut que le planum, et le marche pied des lutrins ou pupitres de l’epitre et de l’Evangile, un degré moins élevé que celuy de l’autel.</p>
+                           >socle</term> du grand ordre. Le marche pied du maître autel doit être de trois degrés plus haut que le planum, et le marche pied des lutrins ou pupitres de l’Épitre et de l’Évangile, un degré moins élevé que celuy de l’autel<ref
+                              type="noteHistorical" target="#c2Nh0259"
+                           />.</p>
                      <p xml:id="c2BodyFr01.02.008.p013"> <hi rend="bigger"
-                        >Le</hi> maître autel et son baldaquin seront représentés par des desseins plus en grand à la fin de ce chapitre.</p>
+                        >Le</hi> maître autel et son baldaquin seront représentés par des desseins plus en grand à la fin de ce chapitre<ref
+                           type="noteHistorical" target="#c2Nh0260"/>.</p>
                   </div>
                   <div xml:id="c2BodyFr01.02.009" type="section" n="9">
                      <p xml:id="c2BodyFr01.02.009.p001"> <hi rend="bigger bold"
@@ -4353,7 +4372,9 @@
                         type="gT" ref="#portique"
                         >portique</term> de la principalle entrée, jusqu’au dehors de la chapelle du <term
                         type="gT" ref="#chevet"
-                        >chevet</term> B. Les proportions extérieures sont les mêmes à l’un et à l’autre, et les proportions intérieures ont étés expliquées au dessein précédent.</p>
+                           >chevet</term> B. Les proportions extérieures sont les mêmes à l’un et à l’autre, et les proportions intérieures ont étés expliquées au dessein précédent<ref
+                              type="noteHistorical" target="#c2Nh0261"
+                           />.</p>
                      <p xml:id="c2BodyFr01.02.009.p002"> <hi rend="bigger">Au</hi>
                         <term type="gT" ref="#vestibule">vestibule</term> du <term
                         type="gT" ref="#portique">portique</term> Z, les <term
@@ -4364,7 +4385,9 @@
                         >église</term>, ainsy que ceux de la face sous le vestibule aux côtés de la grande porte de la principalle entrée de l’<term
                         type="gT" ref="#eglise"
                         >église</term>, sont ornés de niches au dessus de la pleinte, qui est à la hauteur des apuis des vitreaux. Dans ces niches sont les statues des saints patrons de l’<term
-                        type="gT" ref="#eglise">église</term>. L’<term type="gT"
+                           type="gT" ref="#eglise">église</term><ref
+                              type="noteHistorical" target="#c2Nh0262"
+                           />. L’<term type="gT"
                         ref="#imposte"
                         >imposte</term> des vitreaux règne au dessus des Niches, avec des bas reliefs ronds, dans les espaces sous l’architrave, le haut du <term
                         type="gT" ref="#vestibule">vestibule</term> est en <term
@@ -4400,7 +4423,9 @@
                      <p xml:id="c2BodyFr01.02.009.p005"> <hi rend="bigger"
                         >Au</hi> comble des grandes <term type="gT" ref="#voute"
                         >voûtes</term> les tirants qui soutiennent les fermes, ne touchent point sur les <term
-                        type="gT" ref="#voute">voûtes</term>. Ces <term type="gT"
+                           type="gT" ref="#voute">voûtes</term><ref
+                              type="noteHistorical" target="#c2Nh0263"
+                           />. Ces <term type="gT"
                         ref="#tirant"><choice> <orig>tirans</orig> <reg>tirants</reg>
                         </choice></term> portent un <term type="gT" ref="#plancher"
                         >plancher</term> qui conduit par des passages en degrés au travers des murs du soubassement du <term
@@ -4416,18 +4441,22 @@
                         type="gT" ref="#dome"
                         >dôme</term>, fait connoitre le raport et la proportion qu’il a avec le grand ordre du dedans de l’<term
                         type="gT" ref="#eglise"
-                        >église</term>. La hauteur de son planum du marchepied du maître autel, et de cleuy de l’autel de frerie, qui régarde le <term
+                           >église</term><ref
+                              type="noteHistorical" target="#c2Nh0264"
+                           />. La hauteur de son planum du marchepied du maître autel, et de cleuy de l’autel de frerie, qui régarde le <term
                         type="gT" ref="#chœur">chœur</term>, la forme des petits <term
                         type="gT" ref="#escalier"
-                        >escaliers</term> qui descendent dans la cave du trésor, ou confession des Reliques, qui est sous le <term
+                           >escaliers</term> qui descendent dans la cave du trésor<ref
+                              type="noteHistorical" target="#c2Nh0265"
+                           />, ou confession des reliques, qui est sous le <term
                         type="gT" ref="#baldaquin"
                         >baldaquin</term>, et l’ouverture de la <term type="gT"
                         ref="#voute"
-                        >voûte</term> qui repond sous le maître autel, pour se conformer à l’ancienne Rubrique de l’<term
+                        >voûte</term> qui repond sous le maître autel, pour se conformer à l’ancienne rubrique de l’<term
                         type="gT" ref="#eglise"
                         >église</term>, qui plaçoient les maîtres autels, qui étoient pour l’ordinaire uniques en chacque <term
                         type="gT" ref="#eglise"
-                        >église</term>, sur les tombeaux des Saints Martyrs. Cette cave du trésor ne doit point avoir de communication avec les autres caves, de l’<term
+                        >église</term>, sur les tombeaux des saints martyrs. Cette cave du trésor ne doit point avoir de communication avec les autres caves, de l’<term
                         type="gT" ref="#eglise"
                         >église</term> destinées pour la sépulture des fidelles.</p>
                      <p xml:id="c2BodyFr01.02.009.p007"> <hi rend="bigger"
@@ -4435,7 +4464,9 @@
                         type="gT" ref="#baldaquin"
                         >baldaquin</term> est tout à jour, et doit être seulement fermé par une porte en grille <pb
                         xml:id="c2F57v" n="p112"
-                        /> de fer, afin que les fidelles qui sont dans les latéreaux puissent voir le maître autel aux travers des barreaux. les autres entrecolonnemens du pourtour du <term
+                        /> de fer, afin que les fidelles qui sont dans les latéreaux puissent voir le maître autel aux travers des barreaux<ref
+                           type="noteHistorical" target="#c2Nh0266"
+                        />. les autres entrecolonnemens du pourtour du <term
                         type="gT" ref="#chœur"
                         >chœur</term> de l’abside sont clos d’un mur ou lambris au derrière des hautes chaires ou stales, jusqu’à la hauteur des apuits des grands vitreaux des chapelles, à la réserve de l’Entrecolonnement du milieu du <term
                         type="gT" ref="#chevet"
@@ -4447,7 +4478,8 @@
                         ref="#chevet">chevet</term> du <term type="gT" ref="#chœur"
                         >chœur</term>, monte dans son comble, parce que cette gallerie circulaire est plus large que les autres galleries latéralles de la <term
                         type="gT" ref="#nef">nef</term> du <term type="gT" ref="#chœur"
-                        >chœur</term>. </p>
+                           >chœur</term><ref
+                              type="noteHistorical" target="#c2Nh0267"/>.</p>
                      <p xml:id="c2BodyFr01.02.009.p009"> <hi rend="bigger"
                         >À</hi> la grande chapelle carrée du <term type="gT"
                         ref="#chevet">chevet</term> de l’<term type="gT" ref="#eglise"
@@ -4485,7 +4517,8 @@
                         type="gT" ref="#socle">socle</term> au dessus de la <term
                         type="gT" ref="#corniche"
                         >corniche</term>, est égalle à la largeur de la face d’un de ses <term
-                        type="gT" ref="#pilastre">pilastres</term>.</p>
+                           type="gT" ref="#pilastre">pilastres</term><ref
+                              type="noteHistorical" target="#c2Nh0268"/>.</p>
                      <pb xml:id="c2F58r" n="p113"/>
                      <p xml:id="c2BodyFr01.02.009.p011"> <hi rend="bigger"
                         >La</hi> hauteur et le trait extérieur de la petite <term
@@ -4493,7 +4526,9 @@
                         >coupole</term> de cette lanterne, est dans la même proportion de la grande <term
                         type="gT" ref="#coupole">coupole</term> du <term type="gT"
                         ref="#dome"
-                        >dôme</term>. Et le trait de la petite calotte du dedans est en plein ceintre pour convenir au goût de la <term
+                           >dôme</term><ref
+                              type="noteHistorical" target="#c2Nh0269"
+                           />. Et le trait de la petite calotte du dedans est en plein ceintre pour convenir au goût de la <term
                         type="gT" ref="#vouteSurbaissee"
                         >voûte surbaissée</term> de la chapelle. Ce qui forme deux espèces de <term
                         type="gT" ref="#voute"
@@ -4503,14 +4538,17 @@
                      <p xml:id="c2BodyFr01.02.009.p012"> <hi rend="bigger"
                         >La</hi> croix qui termine la <term type="gT" ref="#coupole"
                         >coupole</term> de cette lanterne avec son piédouche, sont dans la proportion de la grande croix de la lanterne au dessus du <term
-                        type="gT" ref="#dome">dôme</term>.</p>
+                           type="gT" ref="#dome">dôme</term><ref
+                              type="noteHistorical" target="#c2Nh0270"/>.</p>
                      <p xml:id="c2BodyFr01.02.009.p013"> <hi rend="bigger">La</hi>
                         <term type="gT" ref="#voute"
                         >voûte</term> de cette chapelle du <term type="gT"
                         ref="#chevet">chevet</term> de l’<term type="gT" ref="#eglise"
                         >église</term>, la petite calote, et les <term type="gT"
                         ref="#trumeau"
-                        >trumeaux</term> entre les vitreaux par le dedans de la lanterne, sont lisses et si on les vouloit décorer il conviendroist que ce fut en peinture, afin de les faire paroitre plus légers. Le profil de la <term
+                           >trumeaux</term> entre les vitreaux par le dedans de la lanterne, sont lisses et si on les vouloit décorer il conviendroist que ce fut en peinture, afin de les faire paroitre plus légers<ref
+                              type="noteHistorical" target="#c2Nh0271"
+                           />. Le profil de la <term
                         type="gT" ref="#corniche"
                         >corniche</term> du haut sous la petite calotte, doit aussy être d’un goût léger, et la frise soutenue par un astragale avec son filet qui y sert d’architecture, le soubassement sous les vitreaux par le dedans en forme de piédestal toscan, et le cordon qui le porte sont à peu prés du goût du soubassement et cordon du dedans de la lanterne du grand <term
                         type="gT" ref="#dome"
@@ -4521,7 +4559,8 @@
                         type="gT" ref="#eglie"
                         >église</term>. Le marchepied est élevé de deux marches, et le planum au pourtour d’une autre marche, environné d’une <term
                         type="gT" ref="#balustrade"
-                        >balustrade</term> à hauteur d’apuy, pour empêcher le peuple d’aprocher trop prés de l’autel, pendant la célébration de la messe.</p>
+                           >balustrade</term> à hauteur d’apuy, pour empêcher le peuple d’aprocher trop prés de l’autel, pendant la célébration de la messe<ref
+                              type="noteHistorical" target="#c2Nh0272"/>.</p>
                   </div>
                   <div xml:id="c2BodyFr01.02.010" type="section" n="10">
                      <p xml:id="c2BodyFr01.02.010.p001"> <hi rend="bigger bold"
@@ -4529,7 +4568,9 @@
                         type="gT" ref="#nef"
                         >nef</term>, ne soit pas fort ancien dans l’<term type="gT"
                         ref="#eglise"
-                        >église</term>, l’utilité en autorise la pratique par les raisons expliquées au <ref>premier dessein de ce chapitre</ref>. Néanmoins, le sanctuaire qui environne le maître autel, ce qui l’accompagne et le <term
+                           >église</term>, l’utilité en autorise la pratique par les raisons expliquées au <ref>premier dessein de ce chapitre</ref><ref
+                              type="noteHistorical" target="#c2Nh0273"
+                           />. Néanmoins, le sanctuaire qui environne le maître autel, ce qui l’accompagne et le <term
                         type="gT" ref="#baldaquin"
                         >baldaquin</term> qui les couvre, doivent être disposés pour la célébration des Divins Mystères <pb
                         xml:id="c2F58v" n="p114"
@@ -4539,7 +4580,9 @@
                         type="gT" ref="#baldaquin"
                         >baldaquin</term> et, de ce qui accompagne le maître autel, il a été réservé de le faire par les trois desseins suivants, uniquement destinés à se sujet, dont le premier qui est le dixième du chapitre des <term
                         type="gT" ref="#egliseCathedrale"
-                        >églises cathédrales</term> en est le plan. Le <term type="gT"
+                           >églises cathédrales</term> en est le plan<ref
+                              type="noteHistorical" target="#c2Nh0274"
+                           />. Le <term type="gT"
                         ref="#dome"
                         >dôme</term> dont la croix C est le centre est soutenuë en partie par les gros pilliers 1.2 ; où sont les <term
                         type="gT" ref="pilastreSaillant">pilastres <choice>
@@ -4547,7 +4590,9 @@
                         </choice></term> qui portent le grand <term type="gT"
                         ref="#arcDoubleau">arc doubleau</term> de l’Entrée du <term
                         type="gT" ref="#chœur"
-                        >chœur</term> D. Les premiers espaces, ou entrecolonnement 3.4. joignant ces gros pilliers sont fermés par des portes et grilles de fer à jour, les autres espaces 5.6. et ceux qui suivent au derrière des stales 7.8. sont clos d’un mur revêtu d’un lambry à la hauteur du couronnement des stales 9 est le trône de l’Évêque, et 10, celuy du Roy. Les lignes ponctuées 11.H, marquent le milieu des grandes <term
+                           >chœur</term> D. Les premiers espaces, ou entrecolonnement 3.4. joignant ces gros pilliers sont fermés par des portes et grilles de fer à jour, les autres espaces 5.6. et ceux qui suivent au derrière des stales 7.8. sont clos d’un mur revêtu d’un lambry à la hauteur du couronnement des stales 9 est le trône de l’évêque, et 10, celuy du roy<ref
+                              type="noteHistorical" target="#c2Nh0275"
+                           />. Les lignes ponctuées 11.H, marquent le milieu des grandes <term
                         type="gT" ref="#arcade"
                         >arcades</term> des pans octogonnes du <term type="gT"
                         ref="#dome"
@@ -4556,7 +4601,9 @@
                         >église</term>, par les entrepilastres des secondes galleries, et des chapelles lateralles, le tout en la manière et suivant les proportions expliquées au premier dessein de ce chapitre.</p>
                      <p xml:id="c2BodyFr01.02.010.p003"> <hi rend="bigger"
                         >Le</hi> plan du <term type="gT" ref="#baldaquin"
-                        >baldaquin</term> est circulaire, le diamètre des six colonnes qui le soutiennent est comme il a été dit la moitié du diamètre des <term
+                           >baldaquin</term> est circulaire, le diamètre des six colonnes<ref
+                              type="noteHistorical" target="#c2Nh0276"
+                           /> qui le soutiennent est comme il a été dit la moitié du diamètre des <term
                         type="gT" ref="#colonne"><choice> <orig>colomnes</orig>
                         <reg>colonnes</reg>
                         </choice></term> du grand ordre du dedans de l’église. Ces <term
@@ -4580,20 +4627,29 @@
                      <pb xml:id="c2F59v" n="p116"/>
                      <pb xml:id="c2F60r" n="p117"/>
                      <p xml:id="c2BodyFr01.02.010.p006"> <hi rend="bigger"
-                        >Le</hi> maître autel &amp; n’est pas placé dans le milieu du sanctuaire, mais il est dans l’allignement du milieu des grandes <term
+                        >Le</hi> maître autel<ref type="noteHistorical" target="#c2Nh0277"
+                        /> &amp; n’est pas placé dans le milieu du sanctuaire, mais il est dans l’allignement du milieu des grandes <term
                         type="gT" ref="#arcade"
                         >arcades</term> H, afin d’être veües des secondes galleries l’atérales, au travers des autres <term
                         type="gT" ref="#arcade">arcades</term> des pilliers du <term
                         type="gT" ref="#dome"
-                        >dôme</term>. Le célébrant peut aussy être vü des autres galleries l’atérales par les grilles de fer 3.4 ; des premiers entrecolonnemens, il est vü à plein du <term
+                           >dôme</term><ref
+                              type="noteHistorical" target="#c2Nh0278"
+                           />. Le célébrant peut aussy être vü des autres galleries l’atérales par les grilles de fer 3.4 ; des premiers entrecolonnemens, il est vü à plein du <term
                         type="gT" ref="#chœur">chœur</term>, de toute la <term
                         type="gT" ref="#nef"
                         >nef</term>, de la plus grande partie des <term type="gT"
                         ref="#croisillon"
-                        >croisillons</term>, et de quelques parties des galleries laterales du bas de l’église. Ensorte que dans les plus grandes solemnités, la célébration de la messe, pourra être vue de presque de tout le peuple qui sera dans l’<term
+                           >croisillons</term>, et de quelques parties des galleries laterales du bas de l’église<ref
+                              type="noteHistorical" target="#c2Nh0279"
+                           />. Ensorte que dans les plus grandes solemnités, la célébration de la messe, pourra être vue de presque de tout le peuple qui sera dans l’<term
                         type="gT" ref="#eglise">église</term>.</p>
                      <p xml:id="c2BodyFr01.02.010.p007"> <hi rend="bigger"
-                        >Le</hi> maître autel est isolée, afin de tourner à l’entour pour faire les encencemens, on ne doit rien poser dessus que les napes et ce qui sert au sacrifice de la messe. La Croix et les chandelliers sont placés sur un gradin 12 un peu éloignés au derrière, laissant un passage entre deux. La table de l’autel est de 12 pieds de long, sur 3 pieds ½ de large, elle est posée sur un marchepied 13 élevé de trois dégrés au dessus du planum du sanctuaire 14. La largeur du marchepied est de 3 pieds vers les bouts, il s’élargit en portion de cercle dans le milieu, pour que le Diacre, et le soudiacre puissent passer derrière le célébrant, sans descendre les dégrés. Lorsqu’ils changent en même tems, l’un de la droite à la gauche, et l’autre de la gauche à la droite. Les trois degrés qu’y montent sont nécessaires quand le célébrant dit la secrette, la préface, le Pater et la post communion. Où étant sur le marchepied proche l’autel, le Diacre est derrière le célébrant, sur le second degré, le soudiacre sur le premier degré derrière le diacre. Les acolites et les turifères sur le planum proche l’Entrée du Sanctuaire, ainsy élevé d’un degré, les uns plus que les autres, ils sont tous vüs du Peuple. C’est pourquoy on fait ordinairement ces degrés chacuns d’un demy pied de hauteur.</p>
+                        >Le</hi> maître autel est isolée, afin de tourner à l’entour pour faire les encencemens<ref
+                           type="noteHistorical" target="#c2Nh0280"
+                        />. On ne doit rien poser dessus que les napes et ce qui sert au sacrifice de la messe. La croix et les chandelliers sont placés sur un gradin 12 un peu éloignés au derrière, laissant un passage entre deux. La table de l’autel est de 12 pieds de long, sur 3 pieds ½ de large, elle est posée sur un marchepied 13 élevé de trois dégrés au dessus du planum du sanctuaire 14. La largeur du marchepied est de 3 pieds vers les bouts, il s’élargit en portion de cercle dans le milieu, pour que le Diacre, et le soudiacre puissent passer derrière le célébrant, sans descendre les dégrés<ref
+                           type="noteHistorical" target="#c2Nh0282"
+                        />. Lorsqu’ils changent en même tems, l’un de la droite à la gauche, et l’autre de la gauche à la droite. Les trois degrés qu’y montent sont nécessaires quand le célébrant dit la secrette, la préface, le Pater et la post communion. Où étant sur le marchepied proche l’autel, le diacre est derrière le célébrant, sur le second degré, le soudiacre sur le premier degré derrière le diacre. Les acolites et les turifères sur le planum proche l’Entrée du Sanctuaire, ainsy élevé d’un degré, les uns plus que les autres, ils sont tous vüs du peuple. C’est pourquoy on fait ordinairement ces degrés chacuns d’un demy pied de hauteur.</p>
                      <p xml:id="c2BodyFr01.02.010.p008"> <hi rend="bigger"
                         >Le</hi> planum du sanctuaire est à la hauteur du dessus du <term
                         type="gT" ref="#socle">socle</term> des <term type="gT"
@@ -4606,7 +4662,9 @@
                         type="gT" ref="#nef"
                         >nef</term> par le grand perron 15, composé d’un nombre impaire de degrés pour être plus aisé à monter, on y monte <pb
                         xml:id="c2F60v" n="p118"
-                        /> aussy du côtés du chœur par d’autres degrés 16.17 fermés comme il est dit par des grilles de fer. Les crédances 18. 19. sont posées sans marchepied sur le planum un peu éloigné et plus reculé que l’autel. Elles servent l’une à poser le livre des évangiles, et l’autre celuy des épitres, le calice, le bassin, les burelles et les autres choses nécessaires pour le sacrifice pendant l’introït et le commencement de la messe.</p>
+                        /> aussy du côtés du chœur par d’autres degrés 16.17 fermés comme il est dit par des grilles de fer. Les crédances 18. 19. sont posées sans marchepied sur le planum un peu éloigné et plus reculé que l’autel. Elles servent l’une à poser le livre des Évangiles, et l’autre celuy des Épitres<ref
+                           type="noteHistorical" target="#c2Nh0283"
+                        />, le calice, le bassin, les burelles et les autres choses nécessaires pour le sacrifice pendant l’introït et le commencement de la messe.</p>
                      <p xml:id="c2BodyFr01.02.010.p009"> <hi rend="bigger"
                         >En</hi> dedans le sanctuaire, aux deux côtés vers l’entrée sont des strades 20.21. élevés d’un degré plus que le planum, sur celle du côté de l’Épitre, sont placés trois sièges pour asseoir le célébrant au milieu du Diacre et du Soudiacre, et d’autres sièges sur l’autre strade du côté de l’Évangile, pour asseoir les indust pendant le Gloria in Excelsis et le Crédo : après que le célébrant les a entonné à l’autel.</p>
                      <p xml:id="c2BodyFr01.02.010.p010"> <hi rend="bigger"
@@ -4628,7 +4686,8 @@
                         type="gT" ref="#escalier"
                         >escaliers</term> servent aux cérémonies des festes des patrons, l’un à descendre et l’autre à remonter pour éviter la confusion.</p>
                      <p xml:id="c2BodyFr01.02.010.p011"> <hi rend="bigger"
-                        >L’autel</hi> de ferie 26 est en dedans le <term type="gT"
+                        >L’autel</hi> de ferie 26<ref type="noteHistorical" target="#c2Nh0284"
+                        /> est en dedans le <term type="gT"
                         ref="#chœur"
                         >chœur</term>, adossé au derrière du gradin qui porte la Croix et les chandelliers du maître autel. Son marchepied est élevé de deux degrés au dessus du pavé du <term
                         type="gT" ref="#chœur">chœur</term>, et de <pb xml:id="c2F61r"
@@ -4648,9 +4707,14 @@
                      <p xml:id="c2BodyFr01.02.010.p013"> <hi rend="bigger"
                         >L’élévation</hi> du maître autel et de son <term type="gT"
                         ref="#baldaquin"
-                        >baldaquin</term> doit répondre à la régularité de leur plan, la vénération de leur usage demande de la modestie, et de la sagesse dans leur décoration qui doit être serieuse et convenir au sujet, pour inspirer le respect et la dévotion duë aux Mistères qui s’y opèrent et à la divinité de <persName
+                           >baldaquin</term> doit répondre à la régularité de leur plan, la vénération de leur usage demande de la modestie, et de la sagesse dans leur décoration qui doit être serieuse et convenir au sujet<ref
+                              type="noteHistorical" target="#c2Nh0285"
+                           />, pour inspirer le respect et la dévotion duë aux Mistères qui s’y opèrent et à la divinité de <persName
                         ref="#jesusChrist"
-                        >Jésus Christ</persName>, qui y habite corporellement au Saint Sacrement, contenüe dans la suspension où il est exposé à l’adoration des fidelles, on y doit employer tout ce que l’art a de plus excellant et en banir les décorations profannes, grotesques et chimériques de théâtres, qui n’ont point d’autre beauté que le caprice de leur nouveautés.</p>
+                              >Jésus Christ</persName>, qui y habite corporellement au Saint Sacrement, contenüe dans la suspension où il est exposé à l’adoration des fidelles<ref
+                                 type="noteHistorical" target="#c2Nh0286"
+                              />, on y doit employer tout ce que l’art a de plus excellant et en banir les décorations profannes, grotesques et chimériques de théâtres, qui n’ont point d’autre beauté que le caprice de leur nouveautés<ref
+                                 type="noteHistorical" target="#c2Nh0287"/>.</p>
                   </div>
                   <div xml:id="c2BodyFr01.02.011" type="section" n="11">
                      <p xml:id="c2BodyFr01.02.011.p001"> <hi rend="bigger bold"
@@ -4658,9 +4722,11 @@
                         type="gT" ref="#baldaquin">baldaquin</term> vers la <term
                         type="gT" ref="#nef">nef</term> de l’<term type="gT"
                         ref="#eglise"
-                        >église</term>, et le <ref>douzième dessein</ref> en représentera le profil de l’autre sens.</p>
+                           >église</term>, et le <ref>douzième dessein</ref> en représentera le profil de l’autre sens<ref
+                              type="noteHistorical" target="#c2Nh0288"/>.</p>
                      <p xml:id="c2BodyFr01.02.011.p002"> <hi rend="bigger"
-                        >L’autel</hi> est fait en manière de tombeau, ayant des ouvertures closes par des grillages d’ornements aux faces de devant et de derrières, pour faire connoitre qu’ils renferment des Reliques des Saints suivant l’ancienne pratique de l’Église, la Croix et les chandelliers qui paroissent être sur l’autel sont posés sur un gradin de même hauteur un peu plus éloignés par le derrière.</p>
+                        >L’autel</hi> est fait en manière de tombeau<ref type="noteHistorical" target="#c2Nh0289"
+                        />, ayant des ouvertures closes par des grillages d’ornements aux faces de devant et de derrières, pour faire connoitre qu’ils renferment des Reliques des Saints suivant l’ancienne pratique de l’Église, la Croix et les chandelliers qui paroissent être sur l’autel sont posés sur un gradin de même hauteur un peu plus éloignés par le derrière.</p>
                      <p xml:id="c2BodyFr01.02.011.p003"> <hi rend="bigger">La</hi>
                         <term type="gT" ref="#balustrade"
                         >balustrade</term> qui environne le Sanctuaire pose sur le <term
@@ -4692,11 +4758,12 @@
                         type="gT" ref="#colonne"><choice> <orig>colomnes</orig>
                         <reg>colonnes</reg>
                         </choice></term> torses ne sont pas dans la purété de l’architecture, et par conséquent ne conviennent pas aux <term
-                        type="gT" ref="#eglise">églises</term>.</p>
+                           type="gT" ref="#eglise">églises</term><ref
+                              type="noteHistorical" target="#c2Nh0290"/>.</p>
                      <p xml:id="c2BodyFr01.02.011.p006"> <hi rend="bigger"
                         >Le</hi> marbre blanc conviendroit mieux que tout autre matière, pour faire le fût et les bazes des colonnes du <term
                         type="gT" ref="#baldaquin"
-                        >baldaquin</term>, et le bronze pour faire leur chapiteaux. Ces colonnes étant plus éloignées que les entrecolonnemens corinthiens ordinaires, pour donner plus d’espace au Sanctuaire, et pour ne point cacher l’autel. l’<term
+                        >baldaquin</term>, et le bronze pour faire leur chapiteaux. Ces colonnes étant plus éloignées que les entrecolonnemens corinthiens ordinaires, pour donner plus d’espace au sanctuaire, et pour ne point cacher l’autel. l’<term
                         type="gT" ref="#entablement">entablement</term>, la <term
                         type="gT" ref="#coupole"
                         >coupole</term>, l’amortissement du haut ne sauroit être que de bronze creux ou de quelqu’autre matière plus légère avec des armatures de fer, afin de ne point surcharger les colonnes.</p>
@@ -4711,7 +4778,9 @@
                         type="gT" ref="#entablement"
                         >entablement</term>, pour donner au <term type="gT"
                         ref="#baldaquin"
-                        >baldaquin</term> un plus grand aspect de légèreté et exposer en vue la suspension et le plafond qui couvre le sanctuaire.</p>
+                           >baldaquin</term> un plus grand aspect de légèreté et exposer en vue la suspension<ref
+                              type="noteHistorical" target="#c2Nh0291"
+                           /> et le plafond qui couvre le sanctuaire.</p>
                      <p xml:id="c2BodyFr01.02.011.p008"> <hi rend="bigger">La</hi>
                         <term type="gT" ref="#coupole"
                         >coupole</term> est close dans tout son pourtour au dessus des <term
@@ -4723,14 +4792,16 @@
                         >Le simbole de la foy est représenté au dessus de l’archivolte <pb
                         xml:id="c2F63r" n="p123"/> de l’<term type="gT" ref="#arcade"
                         >arcade</term> qui regarde la <term type="gT" ref="#nef"
-                        >nef</term> par un ange tenant un calice d’une main, et de l’autre main le livre de l’Évangille apuyé sur son genouil, marque de sa stabilité. Une gloire environne ce simbole et le bas de la <term
+                           >nef</term> par un ange tenant un calice d’une main<ref
+                              type="noteHistorical" target="#c2Nh0292"
+                           />, et de l’autre main le livre de l’Évangille apuyé sur son genouil, marque de sa stabilité. Une gloire environne ce simbole et le bas de la <term
                         type="gT" ref="#coupole"
                         >coupole</term> est orné de six côtes qui répondent aux <term
                         type="gT" ref="#colonne"><choice> <orig>colomnes</orig>
                         <reg>colonnes</reg>
                         </choice></term> avec des panneaux d’architecture entre les costes, enrichis de sculpture au milieu, et de groupes de chérubins par le haut sous le cordon, simbole de l’amour de Dieu, et de la Charité Chrétienne.</p>
                      <p xml:id="c2BodyFr01.02.011.p010"> <hi rend="bigger"
-                        >La</hi> Croix Elevée sur un globe, soutenu par deux anges simbole de l’espérance, termine le haut du <term
+                        >La</hi> croix élevée sur un globe, soutenu par deux anges simbole de l’espérance, termine le haut du <term
                         type="gT" ref="#baldaquin">baldaquin</term>.</p>
                      <p xml:id="c2BodyFr01.02.011.p011"> <hi rend="bigger">Le</hi>
                         <term type="gT" ref="#socle"
@@ -4740,7 +4811,9 @@
                         type="gT" ref="#arcade"
                         >arcades</term> des deux faces sont en plein ceintres, au dessus du <term
                         type="gT" ref="#socle"
-                        >socle</term> qui leur sert de cousinet. La hauteur DE du dessus du <term
+                           >socle</term> qui leur sert de cousinet<ref
+                              type="noteHistorical" target="#c2Nh0293"
+                           />. La hauteur DE du dessus du <term
                         type="gT" ref="#socle"
                         >socle</term> au dessus du cordon qui couronne la partie sphéroïde de la <term
                         type="gT" ref="#coupole"
@@ -4764,7 +4837,9 @@
                         ref="#eglise">église</term>, qui porte le <term type="gT"
                         ref="#dome">dôme</term> expliqué en la <ref type="figure"
                         target="#c2Fig0008.02"
-                        >seconde figure du huitième dessein de ce chapitre</ref>, auquel l’on peut avoir recours, étant seulement représenté icy pour faire connoitre la convenance et les proportions du <term
+                           >seconde figure du huitième dessein de ce chapitre</ref>, auquel l’on peut avoir recours<ref
+                              type="noteHistorical" target="#c2Nh0294"
+                           />, étant seulement représenté icy pour faire connoitre la convenance et les proportions du <term
                         type="gT" ref="#baldaquin"
                         >baldaquin</term> avec le dedans de l’<term type="gT"
                         ref="#eglise">église</term>. </p>
@@ -4787,11 +4862,14 @@
                         type="gT" ref="#chœur"
                         >chœur</term> D, dont le pavé est d’une marche plus haute que celuy de la <term
                         type="gT" ref="#nef"
-                        >nef</term>. Le dessus du gradin 12, sur lequel pose la Croix, et les chandelliers, est au niveau du dessus de la table de l’autel. Les crédances 19 sont en dedans le Sanctuaire proche les entrées 17 des côtés, un peu moins élevés que la <term
+                           >nef</term>. Le dessus du gradin 12, sur lequel pose la Croix, et les chandelliers, est au niveau du dessus de la table de l’autel<ref
+                              type="noteHistorical" target="#c2Nh0295"
+                           />. Les crédances 19 sont en dedans le Sanctuaire proche les entrées 17 des côtés, un peu moins élevés que la <term
                         type="gT" ref="#balustrade"
                         >balustrade</term> qui environne le sanctuaire, proche les entrées 17. Le lutrin 23 et son oposé sont à hauteur de la vuë d’un homme, au dessus de leur marchepied, qui sont de deux marches plus haut que le planum. La <term
                         type="gT" ref="#balustrade"
-                        >balustrade</term> étant à peu prés de la moitié de la hauteur d’un homme, le Diacre et le soudiacre sont presque entièrement vüs du peuple lorsqu’ils chantent l’Évangille et l’Épitre.</p>
+                           >balustrade</term> étant à peu prés de la moitié de la hauteur d’un homme, le diacre et le soudiacre sont presque entièrement vus du peuple lorsqu’ils chantent l’Évangille et l’Épitre<ref
+                              type="noteHistorical" target="#c2Nh0296"/>.</p>
                      <p xml:id="c2BodyFr01.02.012.p002"> <hi rend="bigger"
                         >La</hi> table de l’autel de ferie 26, en dedans le <term
                         type="gT" ref="#chœur"
@@ -4801,7 +4879,10 @@
                         xml:id="c2F64v" n="p126"/> <pb xml:id="c2F65r" n="p127"
                         /> par consequent de 7 marches moins haut que le marchepied du maître autel.</p>
                      <p xml:id="c2BodyFr01.02.012.p003"> <hi rend="bigger"
-                        >Le</hi> caveau circulaire 30, nommé anciennement confession est en voûte sphérique directement sous le sanctuaire, ayant par le haut de sa <term
+                        >Le</hi> caveau<ref type="noteHistorical" target="#c2Nh0297"
+                        /> circulaire 30, nommé anciennement confession<ref type="noteHistorical"
+                           target="#c2Nh0298"
+                        /> est en voûte sphérique directement sous le sanctuaire, ayant par le haut de sa <term
                         type="gT" ref="#voute"
                         >voûte</term> une ouverture 29, sous le maître autel qui est creux dans toute sa largeur. Dans ce caveau aplomb du maître autel, est un autre autel 28 creux comme l’autre, dans lequel est la chasse du Saint Patron titulaire de l’<term
                         type="gT" ref="#eglise"
@@ -4809,14 +4890,17 @@
                         type="gT" ref="#escalier"
                         >escalier</term> 25 et par un autre <term type="gT"
                         ref="#escalier"
-                        >escalier</term> oposé, ainsy qu’il a été expliqué au second, dixième et onzième dessein précédent.</p>
+                           >escalier</term> oposé, ainsy qu’il a été expliqué au second, dixième et onzième dessein précédent<ref
+                              type="noteHistorical" target="#c2Nh0299"/>.</p>
                      <p xml:id="c2BodyFr01.02.012.p004"> <hi rend="bigger"
                         >Le</hi> caveau des Reliques n’a point de communication avec les caves 32. 33 ; et les autres du dessous de l’<term
                         type="gT" ref="#eglise"
-                        >église</term>, quoy que leur aire du bas soit au même niveau. Celuy du caveau 30 est pavé de marbre ou de dalle de pierres, posées sur un masif de maçonnerie pour le rendre plus sec, et les autres caves ne sont point pavées afin d’y pouvoir enterrer les morts.</p>
+                           >église</term>, quoy que leur aire du bas soit au même niveau. Celuy du caveau 30 est pavé de marbre ou de dalle de pierres, posées sur un masif de maçonnerie pour le rendre plus sec, et les autres caves ne sont point pavées afin d’y pouvoir enterrer les morts<ref
+                              type="noteHistorical" target="#c2Nh0300"
+                           />.</p>
                      <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.02.012.p005"> <hi rend="bigger"
-                        >L’Entablemens</hi> du <term type="gT" ref="#baldaquin"
+                        >L’entablemens</hi> du <term type="gT" ref="#baldaquin"
                         >baldaquin</term> et le petit <term type="gT" ref="#socle"
                         >socle</term> au dessus de la <term type="gT" ref="#corniche"
                         >corniche</term>, règne également par le dedans, comme par le dehors. Les retours par les côtés des <term
