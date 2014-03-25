@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-      <fileDesc>
-         <!-- mentions de titre et de responsabilité -->
+      <fileDesc><!-- mentions de titre et de responsabilité -->
          <titleStmt>
             <title xml:lang="fre" type="main">Traité des servitudes</title>
             <title xml:lang="fre" type="sub">manuscrit S1</title>
@@ -514,14 +513,8 @@
                   <hi rend="bigger">Les</hi> servitudes personnelles sont attachées à
                   des personnes de servile condition, que l’on nomme fiefs, et que
                   quelques coutumes de France appellent mortaillables, comme celles de
-                     <placeName ref="#MeauxSeineEtMarneFrance"
-                             full="Meaux (Seine-et-Marne, France)"
-                             idno="http://catalogue.bnf.fr/ark:/12148/cb15275624h/PUBLIC">Meaux</placeName>, <placeName>Bourgogne</placeName>
-                  <ref type="noteHistorical" target="#s1Nh0002"/>, <placeName ref="#ChaumontHauteMarneFrance"
-                             full="Chaumont (Haute-Marne, France)"
-                             idno="http://catalogue.bnf.fr/ark:/12148/cb15263371h/PUBLIC">Chaumont</placeName>, <placeName>Auvergne</placeName>, <placeName ref="#BourbonnaisProvinceDuFrance"
-                             full="Bourbonnais, Province du (France)"
-                             idno="http://catalogue.bnf.fr/ark:/12148/cb153221685/PUBLIC">Bourbonnois</placeName>, <placeName>La Marche</placeName>
+                     <placeName ref="#MeauxSeineEtMarneFrance">Meaux</placeName>, <placeName>Bourgogne</placeName>
+                  <ref type="noteHistorical" target="#s1Nh0002"/>, <placeName ref="#ChaumontHauteMarneFrance">Chaumont</placeName>, <placeName>Auvergne</placeName>, <placeName ref="#BourbonnaisProvinceDuFrance">Bourbonnois</placeName>, <placeName>La Marche</placeName>
                   <ref type="noteHistorical" target="#s1Nh0003"/> et <placeName>Nivernois</placeName>
                   <ref type="noteHistorical" target="#s1Nh0004"/>, lesquelles sont particulières en ces servitudes. Ces sortes
                   de servitudes sont des droits que les seigneurs ont sur les
@@ -643,53 +636,37 @@
                   <div>
                      <head>A.</head>
                      <p>
-                        <placeName ref="#DaxLandesFrance"
-                                   full="Dax (Landes, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15259030b/PUBLIC">« Acqs »</placeName>, ville, cité, prévôté et
+                        <placeName ref="#DaxLandesFrance">« Acqs »</placeName>, ville, cité, prévôté et
                         ressort, f° 120 v°</p>
                      <p>
-                        <placeName ref="#AireSurLaLysPasDeCalaisFrance"
-                                   full="Aire-sur-la-Lys (Pas-de-Calais, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152684563/PUBLIC">« Aire »</placeName>, locale, f° 59 r°</p>
+                        <placeName ref="#AireSurLaLysPasDeCalaisFrance">« Aire »</placeName>, locale, f° 59 r°</p>
                      <p>
                         <placeName>Allemagne et Vosge</placeName>
                         <ref type="noteHistorical" target="#s1Nh0006"/>, f° 89 v°</p>
                      <p>
-                        <placeName ref="#AlenconOrneFrance"
-                                   full="Alençon (Orne, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15267936m/PUBLIC">« Allençon »</placeName>, locale, f° 81 r°</p>
+                        <placeName ref="#AlenconOrneFrance">« Allençon »</placeName>, locale, f° 81 r°</p>
                      <p>
-                        <placeName ref="#AlluyesEureEtLoirFrance"
-                                   full="Alluyes (Eure-et-Loir, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15253936f/PUBLIC">« Alluye »</placeName> au <placeName>Perche Goüet</placeName>
+                        <placeName ref="#AlluyesEureEtLoirFrance">« Alluye »</placeName> au <placeName>Perche Goüet</placeName>
                         <ref type="noteHistorical" target="#s1Nh0007"/>, baronnie et
                         chastellenie, f° 103 v°</p>
                      <p>
-                        <placeName ref="#AmboiseIndreEtLoireFrance"
-                                   full="Amboise (Indre-et-Loire, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15257555k/PUBLIC">« Amboise »</placeName>, <choice>
+                        <placeName ref="#AmboiseIndreEtLoireFrance">« Amboise »</placeName>, <choice>
                            <abbr>loc<hi rend="superscript">le</hi>
                            </abbr>
                            <expan>locale</expan>
                         </choice>, f° 96
                         r°</p>
                      <p>
-                        <placeName ref="#AmiensSommeFrance"
-                                   full="Amiens (Somme, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15276507w/PUBLIC">« Amiens »</placeName>, baillage, f° 47
+                        <placeName ref="#AmiensSommeFrance">« Amiens »</placeName>, baillage, f° 47
                         v°</p>
                      <p>
-                        <placeName ref="#AmiensSommeFrance"
-                                   full="Amiens (Somme, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15276507w/PUBLIC">« Amiens »</placeName>, ville, etc., f° 48
+                        <placeName ref="#AmiensSommeFrance">« Amiens »</placeName>, ville, etc., f° 48
                         r°</p>
                      <p>
                         <placeName>Anapes</placeName>
                         <ref type="noteHistorical" target="#s1Nh0008"/>, loc<hi rend="superscript">le</hi>, f° 61 r°</p>
                      <p>
-                        <placeName ref="#LesAndelysEureFrance"
-                                   full="Les Andelys (Eure, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15253258t/PUBLIC">Andely</placeName>
+                        <placeName ref="#LesAndelysEureFrance">Andely</placeName>
                         <choice>
                            <abbr>loc<hi rend="superscript">le</hi>
                            </abbr>
@@ -704,22 +681,16 @@
                         <ref type="noteHistorical" target="#s1Nh0010"/>, duché, f° 97
                         v°</p>
                      <p>
-                        <placeName ref="#ArmentieresNordFrance"
-                                   full="Armentières (Nord, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15266595s/PUBLIC">Armentiers</placeName>, <choice>
+                        <placeName ref="#ArmentieresNordFrance">Armentiers</placeName>, <choice>
                            <abbr>loc<hi rend="superscript">le</hi>
                            </abbr>
                            <expan>locale</expan>
                         </choice>, f° 61 r°</p>
                      <cb/>
                      <p>
-                        <placeName ref="#ArquesLaBatailleSeineMaritimeFrance"
-                                   full="Arques-la-Bataille (Seine-Maritime, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15274614z/PUBLIC">Arques</placeName>, locale, f° 80 v°</p>
+                        <placeName ref="#ArquesLaBatailleSeineMaritimeFrance">Arques</placeName>, locale, f° 80 v°</p>
                      <p>
-                        <placeName ref="#ArrasPasDeCalaisFrance"
-                                   full="Arras (Pas-de-Calais, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152684830/PUBLIC">Arras</placeName>, <choice>
+                        <placeName ref="#ArrasPasDeCalaisFrance">Arras</placeName>, <choice>
                            <abbr>loc<hi rend="superscript">le</hi>
                            </abbr>
                            <expan>locale</expan>
@@ -729,9 +700,7 @@
                         <ref type="noteHistorical" target="#s1Nh0011"/>, comté, f° 58
                         v°</p>
                      <p>
-                        <placeName ref="#HauterocheCoteDOrFrance"
-                                   full="Hauteroche (Côte-d'Or, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152506017/PUBLIC">Autroche</placeName>, <choice>
+                        <placeName ref="#HauterocheCoteDOrFrance">Autroche</placeName>, <choice>
                            <abbr>loc<hi rend="superscript">le</hi>
                            </abbr>
                            <expan>locale</expan>
@@ -744,14 +713,10 @@
                         <placeName>Auvergne</placeName>, comté, f° 116
                         v°</p>
                      <p>
-                        <placeName ref="#AuxerreComteDFrance"
-                                   full="Auxerre, Comté d' (France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb153769284/PUBLIC">Auxerre</placeName>, comté et baillage, f°
+                        <placeName ref="#AuxerreComteDFrance">Auxerre</placeName>, comté et baillage, f°
                         17 v°</p>
                      <p>
-                        <placeName ref="#AzayLeFerronIndreFrance"
-                                   full="Azay-le-Ferron (Indre, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15257314f/PUBLIC">Azay le Feron</placeName>, <choice>
+                        <placeName ref="#AzayLeFerronIndreFrance">Azay le Feron</placeName>, <choice>
                            <abbr>loc<hi rend="superscript">le</hi>
                            </abbr>
                            <expan>locale</expan>
@@ -774,9 +739,7 @@
                            <expan>locale</expan>
                         </choice>, f° 61 v°</p>
                      <p>
-                        <placeName ref="#BapaumePasDeCalaisFrance"
-                                   full="Bapaume (Pas-de-Calais, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152685222/PUBLIC">Bappalme</placeName>, <choice>
+                        <placeName ref="#BapaumePasDeCalaisFrance">Bappalme</placeName>, <choice>
                            <abbr>loc<hi rend="superscript">le</hi>
                            </abbr>
                            <expan>locale</expan>
@@ -785,56 +748,34 @@
                      <fw type="runningHead">Table</fw>
                      <cb/>
                      <p>
-                        <placeName ref="#BarLeDucMeuseFrance"
-                                   full="Bar-le-Duc (Meuse, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152646978/PUBLIC">Bar</placeName>, f° 45 v°</p>
+                        <placeName ref="#BarLeDucMeuseFrance">Bar</placeName>, f° 45 v°</p>
                      <p>
-                        <placeName ref="#LaBasseeNordFrance"
-                                   full="La Bassée (Nord, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15266627k/PUBLIC">Bassée</placeName>, locale, f° 61 r°</p>
+                        <placeName ref="#LaBasseeNordFrance">Bassée</placeName>, locale, f° 61 r°</p>
                      <p>
-                        <placeName ref="#BayeuxCalvadosFrance"
-                                   full="Bayeux (Calvados, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15247463q/PUBLIC">Bayeux</placeName>, loc<hi rend="superscript">le</hi>, f° 80 v°</p>
+                        <placeName ref="#BayeuxCalvadosFrance">Bayeux</placeName>, loc<hi rend="superscript">le</hi>, f° 80 v°</p>
                      <p>
-                        <placeName ref="#BayonnePyreneesAtlantiquesFrance"
-                                   full="Bayonne (Pyrénées-Atlantiques, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15269925f/PUBLIC">Bayonne</placeName>, ville, cité etc., f°
+                        <placeName ref="#BayonnePyreneesAtlantiquesFrance">Bayonne</placeName>, ville, cité etc., f°
                         121 v°</p>
                      <p>
-                        <placeName ref="#LaBazocheGouetEureEtLoirFrance"
-                                   full="La Bazoche-Gouët (Eure-et-Loir, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15253958r/PUBLIC">Bazoche Goüet</placeName>, châtellenie, f° 103
+                        <placeName ref="#LaBazocheGouetEureEtLoirFrance">Bazoche Goüet</placeName>, châtellenie, f° 103
                         v°</p>
                      <p>
                         <placeName>Béarn</placeName>
                         <ref type="noteHistorical" target="#s1Nh0014"/>, f° 140 r°</p>
                      <p>
-                        <placeName ref="#BeaumontSurOiseValDOiseFrance"
-                                   full="Beaumont-sur-Oise (Val-d'Oise, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15280384j/PUBLIC">Beaumont sur Oise</placeName>, f° 29 v°</p>
+                        <placeName ref="#BeaumontSurOiseValDOiseFrance">Beaumont sur Oise</placeName>, f° 29 v°</p>
                      <p>
-                        <placeName ref="#BeaumontLeRogerEureFrance"
-                                   full="Beaumont-le-Roger (Eure, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152532920/PUBLIC">Beaumont le Roger</placeName>, f° 80 v°</p>
+                        <placeName ref="#BeaumontLeRogerEureFrance">Beaumont le Roger</placeName>, f° 80 v°</p>
                      <p>
-                        <placeName ref="#BeauquesneSommeFrance"
-                                   full="Beauquesne (Somme, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152765563/PUBLIC">Beauquesne</placeName>, prévôté, foraine
+                        <placeName ref="#BeauquesneSommeFrance">Beauquesne</placeName>, prévôté, foraine
                         d’Artois, f° 49 v°</p>
                      <p>
-                        <placeName ref="#BellotSeineEtMarneFrance"
-                                   full="Bellot (Seine-et-Marne, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152753716/PUBLIC">Belot</placeName> et [Chamigny ; <placeName>Chamigny (Seine-et-Marne,
+                        <placeName ref="#BellotSeineEtMarneFrance">Belot</placeName> et [Chamigny ; <placeName>Chamigny (Seine-et-Marne,
                            France) ; http://catalogue.bnf.fr/ark:/12148/cb15275419c/PUBLIC]</placeName>, loc<hi rend="superscript">le</hi>, f° 10 r°</p>
                      <p>
-                        <placeName ref="#BerryDucheDeFrance"
-                                   full="Berry, Duché de (France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152960475/PUBLIC">Berry, duché</placeName>, f° 107 v°</p>
+                        <placeName ref="#BerryDucheDeFrance">Berry, duché</placeName>, f° 107 v°</p>
                      <p>
-                        <placeName ref="#BethisySaintPierreOiseFrance"
-                                   full="Béthisy-Saint-Pierre (Oise, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15267307c/PUBLIC">Bethisy</placeName>
+                        <placeName ref="#BethisySaintPierreOiseFrance">Bethisy</placeName>
                         <!--TODO ou Béthisy-Saint-Martin
                            (Oise, France); http://catalogue.bnf.fr/ark:/12148/cb152673061/PUBLIC]-->
                         <choice>
@@ -842,251 +783,145 @@
                            </abbr>
                            <expan>châtellenie</expan>
                         </choice> et enclave de
-                           <placeName ref="#ValoisDucheDeFrance"
-                                   full="Valois, Duché de (France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15219481h/PUBLIC">Valois</placeName>, f° 35 v°</p>
+                           <placeName ref="#ValoisDucheDeFrance">Valois</placeName>, f° 35 v°</p>
                      <p>
-                        <placeName ref="#BethunePasDeCalaisFrance"
-                                   full="Béthune (Pas-de-Calais, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15268561z/PUBLIC">Béthune</placeName>, loc<hi rend="superscript">le</hi>, f° 59 r°</p>
+                        <placeName ref="#BethunePasDeCalaisFrance">Béthune</placeName>, loc<hi rend="superscript">le</hi>, f° 59 r°</p>
                      <p>
-                        <placeName ref="#BillyLoirEtCherFrance"
-                                   full="Billy (Loir-et-Cher, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15259292f/PUBLIC">Billy au Païs de Dunois</placeName>, locale, f° 107 r°</p>
+                        <placeName ref="#BillyLoirEtCherFrance">Billy au Païs de Dunois</placeName>, locale, f° 107 r°</p>
                      <p>
-                        <placeName ref="#BillyAllierFrance"
-                                   full="Billy (Allier, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152440480/PUBLIC">Billy en Bourbonnois</placeName>, loc<hi rend="superscript">le</hi>, f° 115 v°</p>
+                        <placeName ref="#BillyAllierFrance">Billy en Bourbonnois</placeName>, loc<hi rend="superscript">le</hi>, f° 115 v°</p>
                      <cb/>
                      <p>
-                        <placeName ref="#BloisLoirEtCherFrance"
-                                   full="Blois (Loir-et-Cher, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152592944/PUBLIC">Blois</placeName>, comté, f° 104 v°</p>
+                        <placeName ref="#BloisLoirEtCherFrance">Blois</placeName>, comté, f° 104 v°</p>
                      <p>
-                        <placeName ref="#BougesLeChateauIndreFrance"
-                                   full="Bouges-le-Château (Indre, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15257327s/PUBLIC">Bouge</placeName>, locale, f° 107 v°</p>
+                        <placeName ref="#BougesLeChateauIndreFrance">Bouge</placeName>, locale, f° 107 v°</p>
                      <p>
-                        <placeName ref="#BouvinesNordFrance"
-                                   full="Bouvines (Nord, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15266681c/PUBLIC">Bovines</placeName>, loc<hi rend="superscript">le</hi>, f° 61 r°</p>
+                        <placeName ref="#BouvinesNordFrance">Bovines</placeName>, loc<hi rend="superscript">le</hi>, f° 61 r°</p>
                      <p>
                         <placeName>Boulonnois</placeName>
                         <ref type="noteHistorical" target="#s1Nh0015"/>, sénéchaussée
                         et comté, f° 53 v°</p>
                      <p>
-                        <placeName ref="#BoulogneSurMerPasDeCalaisFrance"
-                                   full="Boulogne-sur-Mer (Pas-de-Calais, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15268602q/PUBLIC">Boulogne</placeName>, ville etc. loc<hi rend="superscript">le</hi>, f° 58 r°</p>
+                        <placeName ref="#BoulogneSurMerPasDeCalaisFrance">Boulogne</placeName>, ville etc. loc<hi rend="superscript">le</hi>, f° 58 r°</p>
                      <p>
-                        <placeName ref="#BourbonnaisProvinceDuFrance"
-                                   full="Bourbonnais, Province du (France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb153221685/PUBLIC">Bourbonnois</placeName>, duché, f° 112 v°</p>
+                        <placeName ref="#BourbonnaisProvinceDuFrance">Bourbonnois</placeName>, duché, f° 112 v°</p>
                      <p>
-                        <placeName ref="#BordeauxGirondeFrance"
-                                   full="Bordeaux (Gironde, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152418385/PUBLIC">Bordeaux</placeName>, sénéchaussée de <placeName ref="#GuyenneProvinceDeFrance"
-                                   full="Guyenne, Province de (France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb153229869/PUBLIC">Guyenne</placeName>
+                        <placeName ref="#BordeauxGirondeFrance">Bordeaux</placeName>, sénéchaussée de <placeName ref="#GuyenneProvinceDeFrance">Guyenne</placeName>
                          et païs de Bordelois, f° 120
                         v°</p>
                      <p>
-                        <placeName ref="#BourgesCherFrance"
-                                   full="Bourges (Cher, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152493799/PUBLIC">Bourges</placeName>, ville, f° [blanc]</p>
+                        <placeName ref="#BourgesCherFrance">Bourges</placeName>, ville, f° [blanc]</p>
                      <p>
                         <placeName>Bourgogne</placeName>
                         <ref type="noteHistorical" target="#s1Nh0016"/>, duché, f° 62
                         r°</p>
                      <p>
-                        <placeName ref="#FrancheComteProvinceDeFrance"
-                                   full="Franche-Comté, Province de (France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152988215/PUBLIC">Bourgogne</placeName>, comté, f° 62 r°</p>
+                        <placeName ref="#FrancheComteProvinceDeFrance">Bourgogne</placeName>, comté, f° 62 r°</p>
                      <p>
                         <placeName>Bourt dit Labourt</placeName>
                         <ref type="noteHistorical" target="#s1Nh0017"/>, baillage, f°
                         126 v°</p>
                      <p>
-                        <placeName ref="#BousigniesNordFrance"
-                                   full="Bousignies (Nord, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15266675f/PUBLIC">Bousignies</placeName>, loc<hi rend="superscript">le</hi>, f° 61 r°</p>
+                        <placeName ref="#BousigniesNordFrance">Bousignies</placeName>, loc<hi rend="superscript">le</hi>, f° 61 r°</p>
                      <p>
                         <placeName>Boutillerie</placeName>
                         <ref type="noteHistorical" target="#s1Nh0018"/>, loc<hi rend="superscript">le</hi>, f° 61 v°</p>
                      <pb xml:id="s1Fol9" n="a9"/>
                      <fw type="runningHead">des coutumes</fw>
                      <p>
-                        <placeName ref="#BragayracHauteGaronneFrance"
-                                   full="Bragayrac (Haute-Garonne, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15255083z/PUBLIC">Bragerac</placeName>, f° 94 v°</p>
+                        <placeName ref="#BragayracHauteGaronneFrance">Bragerac</placeName>, f° 94 v°</p>
                      <p>
                         <placeName>Bretagne</placeName>
                         <ref type="noteHistorical" target="#s1Nh0019"/>, duché, f° 127
                         v°</p>
                      <p>
-                        <placeName ref="#BreteuilEureFrance"
-                                   full="Breteuil (Eure, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15253351p/PUBLIC">Breteüil</placeName>
-                         et <placeName ref="#ConchesEnOucheEureFrance"
-                                   full="Conches-en-Ouche (Eure, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15253404f/PUBLIC">Conches</placeName>, locales, f° 80 v°</p>
+                        <placeName ref="#BreteuilEureFrance">Breteüil</placeName>
+                         et <placeName ref="#ConchesEnOucheEureFrance">Conches</placeName>, locales, f° 80 v°</p>
                      <p>
-                        <placeName ref="#BrouEureEtLoirFrance"
-                                   full="Brou (Eure-et-Loir, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15253992x/PUBLIC">Brou</placeName>
+                        <placeName ref="#BrouEureEtLoirFrance">Brou</placeName>
                         au <placeName>Perche Goüet</placeName>
                         <ref type="noteHistorical" target="#s1Nh0020"/> , f° 103
                         v°</p>
                      <p>
-                        <placeName ref="#YrondeEtBuronPuyDeDomeFrance"
-                                   full="Yronde-et-Buron (Puy-de-Dôme, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152698224/PUBLIC">Buron</placeName> en <placeName>Auvergne</placeName>
+                        <placeName ref="#YrondeEtBuronPuyDeDomeFrance">Buron</placeName> en <placeName>Auvergne</placeName>
                         <ref type="noteHistorical" target="#s1Nh0021"/> , loc<hi rend="superscript">le</hi>, f° 116 v°</p>
                      <p>
-                        <placeName ref="#BusseolPuyDeDomeFrance"
-                                   full="Busséol (Puy-de-Dôme, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15269409t/PUBLIC">Busséol</placeName>
+                        <placeName ref="#BusseolPuyDeDomeFrance">Busséol</placeName>
                          en <placeName>Auvergne</placeName>, loc<hi rend="superscript">le</hi>, f° 116 v°</p>
                      <p>
-                        <placeName ref="#BuxeuilIndreFrance"
-                                   full="Buxeuil (Indre, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15257333q/PUBLIC">Buxeil</placeName>, chat<hi rend="superscript">nie</hi>, loc<hi rend="superscript">le</hi>, f° 107 v°</p>
+                        <placeName ref="#BuxeuilIndreFrance">Buxeil</placeName>, chat<hi rend="superscript">nie</hi>, loc<hi rend="superscript">le</hi>, f° 107 v°</p>
                      <p>
-                        <placeName ref="#BuzancaisIndreFrance"
-                                   full="Buzançais (Indre, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15257335d/PUBLIC">Buzançois</placeName>, loc<hi rend="superscript">le</hi>, f° 96 r°</p>
+                        <placeName ref="#BuzancaisIndreFrance">Buzançois</placeName>, loc<hi rend="superscript">le</hi>, f° 96 r°</p>
                   </div>
                   <div>
                      <head>C.</head>
                      <p>
-                        <placeName ref="#CaenCalvadosFrance"
-                                   full="Caen (Calvados, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15247532q/PUBLIC">Caen</placeName>, locale, f° 80 v°</p>
+                        <placeName ref="#CaenCalvadosFrance">Caen</placeName>, locale, f° 80 v°</p>
                      <p>
-                        <placeName ref="#CalaisPasDeCalaisFrance"
-                                   full="Calais (Pas-de-Calais, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15268635p/PUBLIC">Calais</placeName> et païs conquis, f° 82
+                        <placeName ref="#CalaisPasDeCalaisFrance">Calais</placeName> et païs conquis, f° 82
                         r°</p>
                      <p>
-                        <placeName ref="#CambraiNordFrance"
-                                   full="Cambrai (Nord, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15266697r/PUBLIC">Cambray</placeName>,
+                        <placeName ref="#CambraiNordFrance">Cambray</placeName>,
                         f° 137 v°</p>
                      <p>
-                        <placeName ref="#CamphinEnCarembaultNordFrance"
-                                   full="Camphin-en-Carembault (Nord, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152666983/PUBLIC">Camphin</placeName>, loc., f° 61 v°</p>
+                        <placeName ref="#CamphinEnCarembaultNordFrance">Camphin</placeName>, loc., f° 61 v°</p>
                      <p>
-                        <placeName ref="#CaudebecEnCauxSeineMaritimeFrance"
-                                   full="Caudebec-en-Caux (Seine-Maritime, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15274751f/PUBLIC">Caudebecq</placeName>, loc.,f° 81 r°</p>
+                        <placeName ref="#CaudebecEnCauxSeineMaritimeFrance">Caudebecq</placeName>, loc.,f° 81 r°</p>
                      <p>
-                        <placeName ref="#ChalonsEnChampagneMarneFrance"
-                                   full="Châlons-en-Champagne (Marne, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15262721t/PUBLIC">Chaalons</placeName>, bail<hi rend="superscript">ge</hi> en Vermandois, f° 38 r°</p>
+                        <placeName ref="#ChalonsEnChampagneMarneFrance">Chaalons</placeName>, bail<hi rend="superscript">ge</hi> en Vermandois, f° 38 r°</p>
                      <cb/>
                      <p>
-                        <placeName ref="#ChabrisIndreFrance"
-                                   full="Chabris (Indre, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15257338f/PUBLIC">Chabris</placeName>, chat<hi rend="superscript">nie</hi>, loc., f° 107 v°</p>
+                        <placeName ref="#ChabrisIndreFrance">Chabris</placeName>, chat<hi rend="superscript">nie</hi>, loc., f° 107 v°</p>
                      <p>
-                        <placeName ref="#ChamignySeineEtMarneFrance"
-                                   full="Chamigny (Seine-et-Marne, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15275419c/PUBLIC">Chamigny</placeName>
-                        et <placeName ref="#BellotSeineEtMarneFrance"
-                                   full="Bellot (Seine-et-Marne, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152753716/PUBLIC">Belot</placeName>, loc., f° 10 r°</p>
+                        <placeName ref="#ChamignySeineEtMarneFrance">Chamigny</placeName>
+                        et <placeName ref="#BellotSeineEtMarneFrance">Belot</placeName>, loc., f° 10 r°</p>
                      <p>
-                        <placeName ref="#ChaunyAisneFrance"
-                                   full="Chauny (Aisne, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15243361s/PUBLIC">Chauny</placeName>, gouvernem<hi rend="superscript">t</hi>, baillage et prévôté, loc., f° 52
+                        <placeName ref="#ChaunyAisneFrance">Chauny</placeName>, gouvernem<hi rend="superscript">t</hi>, baillage et prévôté, loc., f° 52
                         v°</p>
                      <p>
-                        <placeName ref="#ChantemerleMarneFrance"
-                                   full="Chantemerle (Marne, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15262736v/PUBLIC">Chantemerle</placeName>, chat<hi rend="superscript">nie</hi>, f° 10 v°</p>
+                        <placeName ref="#ChantemerleMarneFrance">Chantemerle</placeName>, chat<hi rend="superscript">nie</hi>, f° 10 v°</p>
                      <p>
-                        <placeName ref="#ChartresEureEtLoirFrance"
-                                   full="Chartres (Eure-et-Loir, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15254016k/PUBLIC">Chartres</placeName>, bail<hi rend="superscript">ge</hi>, f° 103 r°</p>
+                        <placeName ref="#ChartresEureEtLoirFrance">Chartres</placeName>, bail<hi rend="superscript">ge</hi>, f° 103 r°</p>
                      <p>
-                        <placeName ref="#ChateauLandonSeineEtMarneFrance"
-                                   full="Château-Landon (Seine-et-Marne, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152754406/PUBLIC">Chateaulandon</placeName>, chat<hi rend="superscript">nie</hi>, f° 69 v°</p>
+                        <placeName ref="#ChateauLandonSeineEtMarneFrance">Chateaulandon</placeName>, chat<hi rend="superscript">nie</hi>, f° 69 v°</p>
                      <p>
-                        <placeName ref="#ChateauneufEnThymeraisEureEtLoirFrance"
-                                   full="Châteauneuf-en-Thymerais (Eure-et-Loir, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15254020t/PUBLIC">Chateauneuf en Thimerais</placeName>, f° 102 r°</p>
+                        <placeName ref="#ChateauneufEnThymeraisEureEtLoirFrance">Chateauneuf en Thimerais</placeName>, f° 102 r°</p>
                      <p>
-                        <placeName ref="#ChateauRenaultIndreEtLoireFrance"
-                                   full="Château-Renault (Indre-et-Loire, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152576148/PUBLIC">Chateauregnaud</placeName>, loc<hi rend="superscript">le</hi>, f° 96 r°</p>
+                        <placeName ref="#ChateauRenaultIndreEtLoireFrance">Chateauregnaud</placeName>, loc<hi rend="superscript">le</hi>, f° 96 r°</p>
                      <p>
-                        <placeName ref="#ChateaurouxIndreFrance"
-                                   full="Châteauroux (Indre, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15257348r/PUBLIC">Chateauroux</placeName>, loc., f° 107 v°</p>
+                        <placeName ref="#ChateaurouxIndreFrance">Chateauroux</placeName>, loc., f° 107 v°</p>
                      <p>
-                        <placeName ref="#ChatillonSurIndreIndreFrance"
-                                   full="Châtillon-sur-Indre (Indre, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152573493/PUBLIC">Chatillon sur Yndre</placeName>, loc., f° 96 r°</p>
+                        <placeName ref="#ChatillonSurIndreIndreFrance">Chatillon sur Yndre</placeName>, loc., f° 96 r°</p>
                      <p>
-                        <placeName ref="#ChatillonColignyLoiretFrance"
-                                   full="Châtillon-Coligny (Loiret, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15260478g/PUBLIC">Chatillon sur loing</placeName>, f° 69 r°</p>
+                        <placeName ref="#ChatillonColignyLoiretFrance">Chatillon sur loing</placeName>, f° 69 r°</p>
                      <p>
-                        <placeName ref="#ChaumontHauteMarneFrance"
-                                   full="Chaumont (Haute-Marne, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15263371h/PUBLIC">Chaumont en Bassigny</placeName>, bail<hi rend="superscript">ge</hi>, f° 36 v°</p>
+                        <placeName ref="#ChaumontHauteMarneFrance">Chaumont en Bassigny</placeName>, bail<hi rend="superscript">ge</hi>, f° 36 v°</p>
                      <p>
-                        <placeName ref="#ChaumontEnVexinOiseFrance"
-                                   full="Chaumont-en-Vexin (Oise, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152673824/PUBLIC">Chaumont</placeName>, dépendant de <placeName ref="#SenlisOiseFrance"
-                                   full="Senlis (Oise, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152678459/PUBLIC">Senlis</placeName>, f° 29 v°</p>
+                        <placeName ref="#ChaumontEnVexinOiseFrance">Chaumont</placeName>, dépendant de <placeName ref="#SenlisOiseFrance">Senlis</placeName>, f° 29 v°</p>
                      <pb xml:id="s1Fol9v" n="a9v"/>
                      <fw type="runningHead">Table</fw>
                      <p>
-                        <placeName ref="#ChoisyEnBrieSeineEtMarneFrance"
-                                   full="Choisy-en-Brie (Seine-et-Marne, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15275457x/PUBLIC">Choisy en Brie</placeName>, locale, f° 10 v°</p>
+                        <placeName ref="#ChoisyEnBrieSeineEtMarneFrance">Choisy en Brie</placeName>, locale, f° 10 v°</p>
                      <p>
-                        <placeName ref="#CysoingNordFrance"
-                                   full="Cysoing (Nord, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152667433/PUBLIC">Chisoing</placeName>,
+                        <placeName ref="#CysoingNordFrance">Chisoing</placeName>,
                         loc., f° 61 r°</p>
                      <p>
-                        <placeName ref="#ClermontOiseFrance"
-                                   full="Clermont (Oise, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15267396t/PUBLIC">Clermont en Beauvoisis</placeName>, baillage et comté, f°
+                        <placeName ref="#ClermontOiseFrance">Clermont en Beauvoisis</placeName>, baillage et comté, f°
                         30 v°</p>
                      <p>
-                        <placeName ref="#ClermontFerrandPuyDeDomeFrance"
-                                   full="Clermont-Ferrand (Puy-de-Dôme, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15269463m/PUBLIC">Clermont</placeName>
+                        <placeName ref="#ClermontFerrandPuyDeDomeFrance">Clermont</placeName>
                          en <placeName>Auvergne</placeName>
                         <ref type="noteHistorical" target="#s1Nh0022"/>, f° 117 r°</p>
                      <p>
-                        <placeName ref="#CominesNordFrance"
-                                   full="Comines (Nord, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15266727v/PUBLIC">Commines</placeName>, loc., f° 61 r°</p>
+                        <placeName ref="#CominesNordFrance">Commines</placeName>, loc., f° 61 r°</p>
                      <p>
-                        <placeName ref="#CompiegneOiseFrance"
-                                   full="Compiègne (Oise, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15267398h/PUBLIC">Compiègne</placeName>, f° 29 v°</p>
+                        <placeName ref="#CompiegneOiseFrance">Compiègne</placeName>, f° 29 v°</p>
                      <p>
-                        <placeName ref="#ConchesEnOucheEureFrance"
-                                   full="Conches-en-Ouche (Eure, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15253404f/PUBLIC">Conches</placeName> et <placeName ref="#BreteuilEureFrance"
-                                   full="Breteuil (Eure, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15253351p/PUBLIC">Breteuil</placeName>, loc., f° 80 v°</p>
+                        <placeName ref="#ConchesEnOucheEureFrance">Conches</placeName> et <placeName ref="#BreteuilEureFrance">Breteuil</placeName>, loc., f° 80 v°</p>
                      <p>
-                        <placeName ref="#LeCoudrayEureEtLoirFrance"
-                                   full="Le Coudray (Eure-et-Loir, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15254041s/PUBLIC">Le Coudray</placeName>, loc., f° 96 r°</p>
+                        <placeName ref="#LeCoudrayEureEtLoirFrance">Le Coudray</placeName>, loc., f° 96 r°</p>
                      <p>
-                        <placeName ref="#CoucyLaVilleAisneFrance"
-                                   full="Coucy-la-Ville (Aisne, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152434078/PUBLIC">« Coucy »</placeName>, bail<hi rend="superscript">ge</hi> en <placeName>Vermandois</placeName>
+                        <placeName ref="#CoucyLaVilleAisneFrance">« Coucy »</placeName>, bail<hi rend="superscript">ge</hi> en <placeName>Vermandois</placeName>
                         <ref type="noteHistorical" target="#s1Nh0023"/>, f° 47 v°</p>
                      <p>Coulommiers, chat<hi rend="superscript">nie</hi>, f° 10 v°</p>
                      <p>Crecy, chat<hi rend="superscript">nie</hi>, f° 10 v°</p>
@@ -5093,15 +4928,11 @@
                         <p>Il n’y a que ce seul art. dans le titre des
                            « Prescriptions » qui dispose des servitudes, il n’y en a
                            pas même d’autre dans la coutume de lad. prévôté royale de
-                              <placeName ref="#NoyonOiseFrance"
-                                      full="Noyon (Oise, France)"
-                                      idno="http://catalogue.bnf.fr/ark:/12148/cb152677064/PUBLIC)">« Noyon »</placeName>.
+                              <placeName ref="#NoyonOiseFrance">« Noyon »</placeName>.
                         </p>
                         <metamark rend="simpleLine alignCenter"/>
                         <p>
-                           <hi rend="bigger">Dans la coutume de <placeName ref="#SaintQuentinAisneFrance"
-                                         full="Saint-Quentin (Aisne, France)"
-                                         idno="http://catalogue.bnf.fr/ark:/12148/cb15243877j/PUBLIC">« St Quentin »</placeName>
+                           <hi rend="bigger">Dans la coutume de <placeName ref="#SaintQuentinAisneFrance">« St Quentin »</placeName>
                            </hi>, du
                            baillage de Vermandois, Il n’est fait aucune mention des
                            servitudes.</p>
@@ -5110,23 +4941,15 @@
                            <pb xml:id="s1Fol63v" n="47v"/>
                            <fw type="foliotation">63 v (f° 47 v)</fw>
                         </p>
-                        <p>Dans la coutume de <placeName ref="#RibemontAisneFrance"
-                                      full="Ribemont (Aisne, France)"
-                                      idno="http://catalogue.bnf.fr/ark:/12148/cb152438348/PUBLIC">« Ribemont »</placeName>
+                        <p>Dans la coutume de <placeName ref="#RibemontAisneFrance">« Ribemont »</placeName>
                             du même baillage de
                            Vermandois, il n’est fait aucune mention des servitudes.</p>
                         <metamark rend="simpleLine alignCenter"/>
                         <p>
-                           <hi rend="bigger">À la fin</hi> de la Coutume de <placeName ref="#CoucyLaVilleAisneFrance"
-                                      full="Coucy-la-Ville (Aisne, France)"
-                                      idno="http://catalogue.bnf.fr/ark:/12148/cb152434078/PUBLIC">« Coucy »</placeName> dud. baillage de Vermandois,
-                           il est dit qu’au reste ce qui est de l’ancien ressort de <placeName ref="#LaonAisneFrance"
-                                      full="Laon (Aisne, France)"
-                                      idno="http://catalogue.bnf.fr/ark:/12148/cb152435949/PUBLIC">« Laön »</placeName>, se gouvernera
+                           <hi rend="bigger">À la fin</hi> de la Coutume de <placeName ref="#CoucyLaVilleAisneFrance">« Coucy »</placeName> dud. baillage de Vermandois,
+                           il est dit qu’au reste ce qui est de l’ancien ressort de <placeName ref="#LaonAisneFrance">« Laön »</placeName>, se gouvernera
                            suivant la coutume dud. Laön, et ce qui est de l’ancien
-                           ressort de <placeName ref="#SenlisOiseFrance"
-                                      full="Senlis (Oise, France)"
-                                      idno="http://catalogue.bnf.fr/ark:/12148/cb152678459/PUBLIC">« Senlis »</placeName> selon la coutume de
+                           ressort de <placeName ref="#SenlisOiseFrance">« Senlis »</placeName> selon la coutume de
                            Senlis.</p>
                         <metamark rend="simpleLine alignCenter"/>
                         <!-- TODO <p>[fol. 63 v (f° 47 v), titre courant : « Coutume de
@@ -6184,20 +6007,14 @@
                         <hi rend="bigger">Il y a</hi> plusieurs
                         coutumes locales et particulières qui dépendent de la générale
                         de Lisle qui sont,</p>
-                     <p>De la ville et échevinage de <placeName ref="#SeclinNordFrance"
-                                   full="Seclin (Nord, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152671321/PUBLIC">Seclin</placeName>,</p>
+                     <p>De la ville et échevinage de <placeName ref="#SeclinNordFrance">Seclin</placeName>,</p>
                      <p>De l’échevinage d’Anapes,</p>
                      <p>Des bancs de Lepine Lapostelle,</p>
                      <p>De la prévôté d’Esquermes,</p>
                      <p>De la pairie d’Esreux,</p>
-                     <p>De <placeName ref="#PhalempinNordFrance"
-                                   full="Phalempin (Nord, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15267034f/PUBLIC">Phalempin</placeName>, et dépendances,</p>
+                     <p>De <placeName ref="#PhalempinNordFrance">Phalempin</placeName>, et dépendances,</p>
                      <p>De la Bassée,</p>
-                     <p>D’ <placeName ref="#OstricourtNordFrance"
-                                   full="Ostricourt (Nord, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152670244/PUBLIC">Ostrincourt</placeName>,
+                     <p>D’ <placeName ref="#OstricourtNordFrance">Ostrincourt</placeName>,
                      </p>
                      <p>De l’échevinage de Neufville,</p>
                      <p>De la ville, es prévôté de Chisoing,</p>
@@ -6525,17 +6342,11 @@
                         <head rend="alignCenter">18.</head>
                         <p>
                            <hi rend="bigger">Dedans</hi> les murs de la ville et cité
-                           de <placeName ref="#NeversNievreFrance"
-                                      full="Nevers (Nièvre, France)"
-                                      idno="http://catalogue.bnf.fr/ark:/12148/cb15266459n/PUBLIC">Nevers</placeName>,
+                           de <placeName ref="#NeversNievreFrance">Nevers</placeName>,
                            l’on ne peut nourrir pourceaux, truyes, boucs, chèvres,
                            cochons, chevreaux et autres semblables bestes, sur peine
-                           d’amende ; et aussy ez ville de <placeName ref="#ClamecyNievreFrance"
-                                      full="Clamecy (Nièvre, France)"
-                                      idno="http://catalogue.bnf.fr/ark:/12148/cb15266344b/PUBLIC">Clamecy</placeName>
-                           et <placeName ref="#DecizeNievreFrance"
-                                      full="Decize (Nièvre, France)"
-                                      idno="http://catalogue.bnf.fr/ark:/12148/cb15266360k/PUBLIC">De Sizes</placeName>.
+                           d’amende ; et aussy ez ville de <placeName ref="#ClamecyNievreFrance">Clamecy</placeName>
+                           et <placeName ref="#DecizeNievreFrance">De Sizes</placeName>.
                         </p>
                      </div>
                      <div>
@@ -6881,38 +6692,20 @@
                         <fw type="foliotation">69 v.</fw>
                      </p>
                      <p>
-                        <hi rend="bigger">De la coutume</hi> générale de <placeName ref="#LorrisLoiretFrance"
-                                   full="Lorris (Loiret, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152605793/PUBLIC">Lorris</placeName> et <placeName ref="#MontargisLoiretFrance"
-                                   full="Montargis (Loiret, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152606003/PUBLIC">Montargis</placeName>
+                        <hi rend="bigger">De la coutume</hi> générale de <placeName ref="#LorrisLoiretFrance">Lorris</placeName> et <placeName ref="#MontargisLoiretFrance">Montargis</placeName>
                          dépendent :</p>
                      <p>
-                        <placeName ref="#SaintFargeauYonneFrance"
-                                   full="Saint-Fargeau (Yonne, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152798001/PUBLIC">St Fargeau</placeName>
+                        <placeName ref="#SaintFargeauYonneFrance">St Fargeau</placeName>
                      </p>
                      <p>Païs de Puysaye,</p>
                      <p>
-                        <placeName ref="#ChatillonColignyLoiretFrance"
-                                   full="Châtillon-Coligny (Loiret, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15260478g/PUBLIC">Chatillon sur Loing</placeName>,</p>
-                     <p>Le comté de <placeName ref="#GienLoiretFrance"
-                                   full="Gien (Loiret, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15260547g/PUBLIC">Gien</placeName>,</p>
+                        <placeName ref="#ChatillonColignyLoiretFrance">Chatillon sur Loing</placeName>,</p>
+                     <p>Le comté de <placeName ref="#GienLoiretFrance">Gien</placeName>,</p>
                      <p>
-                        <placeName ref="#SancerreCherFrance"
-                                   full="Sancerre (Cher, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15249587g/PUBLIC">Sancerre</placeName>,</p>
-                     <p>Le duché de <placeName ref="#NemoursSeineEtMarneFrance"
-                                   full="Nemours (Seine-et-Marne, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15275673q/PUBLIC">Nemours</placeName>,</p>
-                     <p>Ce qui est au <placeName ref="#GatinaisPaysDuFrance"
-                                   full="Gâtinais, Pays du (France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb153043810/PUBLIC">païs de Gastinois</placeName>,</p>
-                     <p>La chatellenie de <placeName ref="#ChateauLandonSeineEtMarneFrance"
-                                   full="Château-Landon (Seine-et-Marne, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152754406/PUBLIC">Chateaulandon</placeName>.</p>
+                        <placeName ref="#SancerreCherFrance">Sancerre</placeName>,</p>
+                     <p>Le duché de <placeName ref="#NemoursSeineEtMarneFrance">Nemours</placeName>,</p>
+                     <p>Ce qui est au <placeName ref="#GatinaisPaysDuFrance">païs de Gastinois</placeName>,</p>
+                     <p>La chatellenie de <placeName ref="#ChateauLandonSeineEtMarneFrance">Chateaulandon</placeName>.</p>
                      <metamark rend="simpleLine alignCenter"/>
                      <p>
                         <pb xml:id="s1Fol86" n="70"/>
@@ -7778,78 +7571,32 @@
                         point mention particulière des servitudes dont l’estat
                         suit.</p>
                      <p>
-                        <hi rend="bigger">De</hi> la vicomté de <placeName ref="#RouenSeineMaritimeFrance"
-                                   full="Rouen (Seine-Maritime, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15275126t/PUBLIC">Rouen</placeName>,</p>
-                     <p>De la vicomté du <placeName ref="#PontDeLArcheEureFrance"
-                                   full="Pont-de-l'Arche (Eure, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152537048/PUBLIC">Pont de larche</placeName>,</p>
-                     <p>De la vicomté d’ <placeName ref="#ArquesLaBatailleSeineMaritimeFrance"
-                                   full="Arques-la-Bataille (Seine-Maritime, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15274614z/PUBLIC">Arques</placeName>,</p>
-                     <p>De la vicomté de <placeName ref="#MontivilliersSeineMaritimeFrance"
-                                   full="Montivilliers (Seine-Maritime, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15275033t/PUBLIC">Montiervilliers</placeName>,</p>
-                     <p>De la vicomté de <placeName ref="#NeufchatelEnBraySeineMaritimeFrance"
-                                   full="Neufchâtel-en-Bray (Seine-Maritime, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15275048v/PUBLIC">Neufchâtel</placeName>,</p>
+                        <hi rend="bigger">De</hi> la vicomté de <placeName ref="#RouenSeineMaritimeFrance">Rouen</placeName>,</p>
+                     <p>De la vicomté du <placeName ref="#PontDeLArcheEureFrance">Pont de larche</placeName>,</p>
+                     <p>De la vicomté d’ <placeName ref="#ArquesLaBatailleSeineMaritimeFrance">Arques</placeName>,</p>
+                     <p>De la vicomté de <placeName ref="#MontivilliersSeineMaritimeFrance">Montiervilliers</placeName>,</p>
+                     <p>De la vicomté de <placeName ref="#NeufchatelEnBraySeineMaritimeFrance">Neufchâtel</placeName>,</p>
                      <p>Des 24 parroisses, hameaux et villages qui sont du ressort de
-                           <placeName ref="#GournayEnBraySeineMaritimeFrance"
-                                   full="Gournay-en-Bray (Seine-Maritime, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15274898c/PUBLIC">Gournay</placeName>
+                           <placeName ref="#GournayEnBraySeineMaritimeFrance">Gournay</placeName>
                          assis de la rivière d’Epte,</p>
-                     <p>De la vicomté de <placeName ref="#CaenCalvadosFrance"
-                                   full="Caen (Calvados, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15247532q/PUBLIC">Caen</placeName>,</p>
-                     <p>De la vicomté de <placeName ref="#BayeuxCalvadosFrance"
-                                   full="Bayeux (Calvados, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15247463q/PUBLIC">Bayeux</placeName>,</p>
-                     <p>De la vicomté de <placeName ref="#VireCalvadosFrance"
-                                   full="Vire (Calvados, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152481696/PUBLIC">Vire</placeName>,</p>
-                     <p>De la vicomté de <placeName ref="#FalaiseCalvadosFrance"
-                                   full="Falaise (Calvados, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152476727/PUBLIC">Falaise</placeName>,</p>
-                     <p>De la vicomté et châtellenie d’<placeName ref="#EvreuxEureFrance"
-                                   full="Évreux (Eure, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15253468p/PUBLIC">Évreux</placeName>
-                         et <placeName ref="#NonancourtEureFrance"
-                                   full="Nonancourt (Eure, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15253673t/PUBLIC">Nonancourt</placeName>,</p>
-                     <p>De la vicomté de <placeName ref="#BeaumontLeRogerEureFrance"
-                                   full="Beaumont-le-Roger (Eure, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152532920/PUBLIC">Beaumont le Roger</placeName>
-                         compris le Comté d’<placeName ref="#HarcourtEureFrance"
-                                   full="Harcourt (Eure, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15253548b/PUBLIC">Harcourt</placeName>,</p>
-                     <p>De la vicomté et châtellenie de <placeName ref="#ConchesEnOucheEureFrance"
-                                   full="Conches-en-Ouche (Eure, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15253404f/PUBLIC">Conches</placeName> et <placeName ref="#BreteuilEureFrance"
-                                   full="Breteuil (Eure, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15253351p/PUBLIC">Breteuil</placeName>,</p>
-                     <p>De la vicomté de <placeName ref="#GisorsEureFrance"
-                                   full="Gisors (Eure, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152535219/PUBLIC">Gisors</placeName>,</p>
+                     <p>De la vicomté de <placeName ref="#CaenCalvadosFrance">Caen</placeName>,</p>
+                     <p>De la vicomté de <placeName ref="#BayeuxCalvadosFrance">Bayeux</placeName>,</p>
+                     <p>De la vicomté de <placeName ref="#VireCalvadosFrance">Vire</placeName>,</p>
+                     <p>De la vicomté de <placeName ref="#FalaiseCalvadosFrance">Falaise</placeName>,</p>
+                     <p>De la vicomté et châtellenie d’<placeName ref="#EvreuxEureFrance">Évreux</placeName>
+                         et <placeName ref="#NonancourtEureFrance">Nonancourt</placeName>,</p>
+                     <p>De la vicomté de <placeName ref="#BeaumontLeRogerEureFrance">Beaumont le Roger</placeName>
+                         compris le Comté d’<placeName ref="#HarcourtEureFrance">Harcourt</placeName>,</p>
+                     <p>De la vicomté et châtellenie de <placeName ref="#ConchesEnOucheEureFrance">Conches</placeName> et <placeName ref="#BreteuilEureFrance">Breteuil</placeName>,</p>
+                     <p>De la vicomté de <placeName ref="#GisorsEureFrance">Gisors</placeName>,</p>
                      <p>
                         <pb xml:id="s1Fol97" n="81"/>
-                        <fw type="foliotation">81</fw> De la vicomté de <placeName ref="#VernonEureFrance"
-                                   full="Vernon (Eure, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152539113/PUBLIC">Vernon</placeName>,</p>
-                     <p>De la vicomté d’<placeName ref="#LesAndelysEureFrance"
-                                   full="Les Andelys (Eure, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15253258t/PUBLIC">Andely</placeName>,</p>
-                     <p>De la vicomté <placeName ref="#LyonsLaForetEureFrance"
-                                   full="Lyons-la-Forêt (Eure, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15253612m/PUBLIC">Lyons</placeName>,</p>
-                     <p>De la vicomté de <placeName ref="#VerneuilSurAvreEureFrance"
-                                   full="Verneuil-sur-Avre (Eure, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15253909j/PUBLIC">Verneuil</placeName>,</p>
-                     <p>De la chatellenie d’<placeName ref="#AlenconOrneFrance"
-                                   full="Alençon (Orne, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15267936m/PUBLIC">Alençon</placeName>,</p>
-                     <p>De la vicomté de <placeName ref="#CaudebecEnCauxSeineMaritimeFrance"
-                                   full="Caudebec-en-Caux (Seine-Maritime, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15274751f/PUBLIC">Caudebecq</placeName>.</p>
+                        <fw type="foliotation">81</fw> De la vicomté de <placeName ref="#VernonEureFrance">Vernon</placeName>,</p>
+                     <p>De la vicomté d’<placeName ref="#LesAndelysEureFrance">Andely</placeName>,</p>
+                     <p>De la vicomté <placeName ref="#LyonsLaForetEureFrance">Lyons</placeName>,</p>
+                     <p>De la vicomté de <placeName ref="#VerneuilSurAvreEureFrance">Verneuil</placeName>,</p>
+                     <p>De la chatellenie d’<placeName ref="#AlenconOrneFrance">Alençon</placeName>,</p>
+                     <p>De la vicomté de <placeName ref="#CaudebecEnCauxSeineMaritimeFrance">Caudebecq</placeName>.</p>
                      <metamark rend="simpleLine alignCenter"/>
                      <!-- TODO <p>
                               [fol. 97 v (f° 81 r), titre
@@ -8931,83 +8678,51 @@
                         coutume de Touraine, lesquelles ne font point mention de
                         servitudes.</p>
                      <p><!-- TODO Châtillon en rubrique -->
-                        <placeName ref="#ChatillonSurIndreIndreFrance"
-                                   full="Châtillon-sur-Indre (Indre, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152573493/PUBLIC">Châtillon sur Yndre</placeName>,</p>
+                        <placeName ref="#ChatillonSurIndreIndreFrance">Châtillon sur Yndre</placeName>,</p>
                      <p>
                         <placeName>Fromenteau</placeName>
                         <ref type="noteHistorical" target="#s1Nh0472"/>,</p>
                      <p>
-                        <placeName ref="#AmboiseIndreEtLoireFrance"
-                                   full="Amboise (Indre-et-Loire, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15257555k/PUBLIC">Amboise</placeName>,</p>
+                        <placeName ref="#AmboiseIndreEtLoireFrance">Amboise</placeName>,</p>
                      <p>
-                        <placeName ref="#MontrichardLoirEtCherFrance"
-                                   full="Montrichard (Loir-et-Cher, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15259425v/PUBLIC">Montrichard</placeName>,</p>
+                        <placeName ref="#MontrichardLoirEtCherFrance">Montrichard</placeName>,</p>
                      <p>
                         <placeName>Mairemoustiers</placeName>
                         <ref type="noteHistorical" target="#s1Nh0473"/>,</p>
                      <p>
-                        <placeName ref="#PreuillySurClaiseIndreEtLoireFrance"
-                                   full="Preuilly-sur-Claise (Indre-et-Loire, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152577403/PUBLIC">Pruilly</placeName>,</p>
+                        <placeName ref="#PreuillySurClaiseIndreEtLoireFrance">Pruilly</placeName>,</p>
                      <p>
-                        <placeName ref="#AzayLeFerronIndreFrance"
-                                   full="Azay-le-Ferron (Indre, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15257314f/PUBLIC">Azay le Feron</placeName>,</p>
+                        <placeName ref="#AzayLeFerronIndreFrance">Azay le Feron</placeName>,</p>
                      <p>
-                        <placeName ref="#LaRochePosayVienneFrance"
-                                   full="La Roche-Posay (Vienne, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15278634j/PUBLIC">La Roche de Pouzay</placeName>,</p>
+                        <placeName ref="#LaRochePosayVienneFrance">La Roche de Pouzay</placeName>,</p>
                      <p>
-                        <placeName ref="#LaGuiercheSartheFrance"
-                                   full="La Guierche (Sarthe, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152737020/PUBLIC">La Guierche</placeName>,</p>
+                        <placeName ref="#LaGuiercheSartheFrance">La Guierche</placeName>,</p>
                      <p>
-                        <placeName ref="#LigueilIndreEtLoireFrance"
-                                   full="Ligueil (Indre-et-Loire, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15257681d/PUBLIC">Ligneil</placeName>,</p>
+                        <placeName ref="#LigueilIndreEtLoireFrance">Ligneil</placeName>,</p>
                      <p>
-                        <placeName ref="#LaMotteFeuillyIndreFrance"
-                                   full="La Motte-Feuilly (Indre, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152574361/PUBLIC">La Moche sur Yndre</placeName>
+                        <placeName ref="#LaMotteFeuillyIndreFrance">La Moche sur Yndre</placeName>
                         <ref type="noteHistorical" target="#s1Nh0474"/>,</p>
                      <p>
-                        <placeName ref="#BuzancaisIndreFrance"
-                                   full="Buzançais (Indre, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15257335d/PUBLIC">Buzançois</placeName>,</p>
+                        <placeName ref="#BuzancaisIndreFrance">Buzançois</placeName>,</p>
                      <p>
                         <placeName>Bauche</placeName>
                         <ref type="noteHistorical" target="#s1Nh0475"/>,</p>
                      <p>
-                        <placeName ref="#SaintGenouIndreFrance"
-                                   full="Saint-Genou (Indre, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15257498k/PUBLIC">St Genoust</placeName>,</p>
+                        <placeName ref="#SaintGenouIndreFrance">St Genoust</placeName>,</p>
                      <p>
-                        <placeName ref="#LeCoudrayEureEtLoirFrance"
-                                   full="Le Coudray (Eure-et-Loir, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15254041s/PUBLIC">Le Coudray</placeName>,</p>
+                        <placeName ref="#LeCoudrayEureEtLoirFrance">Le Coudray</placeName>,</p>
                      <p>
-                        <placeName ref="#MezieresEnBrenneIndreFrance"
-                                   full="Mézières-en-Brenne (Indre, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152574272/PUBLIC">Maizières</placeName>,</p>
+                        <placeName ref="#MezieresEnBrenneIndreFrance">Maizières</placeName>,</p>
                      <p>
-                        <placeName ref="#SaintMichelEnBrenneIndreFrance"
-                                   full="Saint-Michel-en-Brenne (Indre, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152575082/PUBLIC">St Cyran en Brenne</placeName>
+                        <placeName ref="#SaintMichelEnBrenneIndreFrance">St Cyran en Brenne</placeName>
                         <ref type="noteHistorical" target="#s1Nh0476"/>,</p>
                      <p>
                         <placeName>Lisle Savary</placeName>
                         <ref type="noteHistorical" target="#s1Nh0477"/>,</p>
                      <p>
-                        <placeName ref="#ChateauRenaultIndreEtLoireFrance"
-                                   full="Château-Renault (Indre-et-Loire, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152576148/PUBLIC">Chateauregnaud</placeName>,</p>
+                        <placeName ref="#ChateauRenaultIndreEtLoireFrance">Chateauregnaud</placeName>,</p>
                      <p>
-                        <placeName ref="#HerbaultLoirEtCherFrance"
-                                   full="Herbault (Loir-et-Cher, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15259377t/PUBLIC">Herbault</placeName>,</p>
+                        <placeName ref="#HerbaultLoirEtCherFrance">Herbault</placeName>,</p>
                      <p>
                         <pb xml:id="s1Fol112v" n="96v"/>
                         <fw type="foliotation">96 v.</fw>
@@ -9846,16 +9561,10 @@
                      <head>[Coutumes dépendant de celle de Blois]</head>
                      <p>
                         <hi rend="bigger">Ensuivent</hi> plusieurs coutumes locales
-                        dépendantes de la coutume générale de <placeName ref="#BloisLoirEtCherFrance"
-                                   full="Blois (Loir-et-Cher, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152592944/PUBLIC">Blois</placeName>
+                        dépendantes de la coutume générale de <placeName ref="#BloisLoirEtCherFrance">Blois</placeName>
                         <ref type="noteHistorical" target="#s1Nh0542"/>.</p>
                      <p>
-                        <hi rend="bigegr">De la châtellenie</hi> de <placeName ref="#RomorantinLanthenayLoirEtCherFrance"
-                                   full="Romorantin-Lanthenay (Loir-et-Cher, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152594684/PUBLIC">Romorantin</placeName>, <placeName ref="#MillancayLoirEtCherFrance"
-                                   full="Millançay (Loir-et-Cher, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152594146/PUBLIC">Millancay</placeName>, <!-- TODO [Villebrosse ; et
+                        <hi rend="bigegr">De la châtellenie</hi> de <placeName ref="#RomorantinLanthenayLoirEtCherFrance">Romorantin</placeName>, <placeName ref="#MillancayLoirEtCherFrance">Millancay</placeName>, <!-- TODO [Villebrosse ; et
                         Billy ;--></p>
                      <p>De la baronie et seigneurie de St Agnan <!-- TODO [Aignan]-->;</p>
                      <p>De la châtellenie de Mennetou sur Cher ;</p>
@@ -10566,25 +10275,15 @@
                         qui est le premier <hi rend="italic">des servitudes réelles et
                            raports de jurez</hi>, contenant « En mur commun », iceluy
                         article a esté écrit pour nouvelle coutume.</p>
-                     <p>[en retrait :] Il y a quelques coutumes locales au païs de <placeName ref="#BourbonnaisProvinceDuFrance"
-                                   full="Bourbonnais, Province du (France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb153221685/PUBLIC">Bourbonnois</placeName>, mais elles ne font
+                     <p>[en retrait :] Il y a quelques coutumes locales au païs de <placeName ref="#BourbonnaisProvinceDuFrance">Bourbonnois</placeName>, mais elles ne font
                         aucune mention des servitudes.</p>
                      <p>
-                        <hi rend="bigger">La châtellenie</hi> de <placeName ref="#VerneuilEnBourbonnaisAllierFrance"
-                                   full="Verneuil-en-Bourbonnais (Allier, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15244326h/PUBLIC">Verneuil</placeName>,</p>
-                     <p>La châtellenie de <placeName ref="#BillyAllierFrance"
-                                   full="Billy (Allier, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb152440480/PUBLIC">Billy en Bourbonnois</placeName>,</p>
+                        <hi rend="bigger">La châtellenie</hi> de <placeName ref="#VerneuilEnBourbonnaisAllierFrance">Verneuil</placeName>,</p>
+                     <p>La châtellenie de <placeName ref="#BillyAllierFrance">Billy en Bourbonnois</placeName>,</p>
                      <p>
-                        <placeName ref="#GermignyLExemptCherFrance"
-                                   full="Germigny-l'Exempt (Cher, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15249447z/PUBLIC">Germigny</placeName>,</p>
+                        <placeName ref="#GermignyLExemptCherFrance">Germigny</placeName>,</p>
                      <p>
-                        <placeName ref="#SaintPourcainSurSiouleAllierFrance"
-                                   full="Saint-Pourçain-sur-Sioule (Allier, France)"
-                                   idno="http://catalogue.bnf.fr/ark:/12148/cb15244273r/PUBLIC">St Pourçain</placeName>
+                        <placeName ref="#SaintPourcainSurSiouleAllierFrance">St Pourçain</placeName>
                         <!-- TODO ou Saint-Pourcain-sur-Besbre
                            (Allier, France); http://catalogue.bnf.fr/ark:/12148/cb15244272d/PUBLIC]-->,</p>
                      <metamark rend="simpleLine alignCenter"/>
@@ -10678,20 +10377,12 @@
                         articles sont cy après.</p>
                      <div>
                         <head>[Mis en valeur ; centré, gras]<lb/>Au Comté
-                           d’Auvergne,<lb/>Des Châtellenies de <placeName ref="#YrondeEtBuronPuyDeDomeFrance"
-                                      full="Yronde-et-Buron (Puy-de-Dôme, France)"
-                                      idno="http://catalogue.bnf.fr/ark:/12148/cb152698224/PUBLIC">Buron</placeName>,</head>
+                           d’Auvergne,<lb/>Des Châtellenies de <placeName ref="#YrondeEtBuronPuyDeDomeFrance">Buron</placeName>,</head>
                      </div>
                      <div>
                         <head>
-                           <placeName ref="#SalledesPuyDeDomeFrance"
-                                      full="Sallèdes (Puy-de-Dôme, France)"
-                                      idno="http://catalogue.bnf.fr/ark:/12148/cb15269755t/PUBLIC">Cremps</placeName>, <placeName ref="#BusseolPuyDeDomeFrance"
-                                      full="Busséol (Puy-de-Dôme, France)"
-                                      idno="http://catalogue.bnf.fr/ark:/12148/cb15269409t/PUBLIC">Busséol</placeName>
-                            et <placeName ref="#SaintMauricePuyDeDomeFrance"
-                                      full="Saint-Maurice (Puy-de-Dôme, France)"
-                                      idno="http://catalogue.bnf.fr/ark:/12148/cb15269728x/PUBLIC">St Maurice</placeName>
+                           <placeName ref="#SalledesPuyDeDomeFrance">Cremps</placeName>, <placeName ref="#BusseolPuyDeDomeFrance">Busséol</placeName>
+                            et <placeName ref="#SaintMauricePuyDeDomeFrance">St Maurice</placeName>
                         </head>
                         <p>
                            <hi rend="bigger">Si</hi>  entre deux héritages circonvoisins, y a
@@ -10709,9 +10400,7 @@
                            <fw type="foliotation">117</fw>
                         </p>
                         <p>
-                           <hi rend="bigger">La ville et cité de <placeName ref="#ClermontFerrandPuyDeDomeFrance"
-                                         full="Clermont-Ferrand (Puy-de-Dôme, France)"
-                                         idno="http://catalogue.bnf.fr/ark:/12148/cb15269463m/PUBLIC">Clermont</placeName>
+                           <hi rend="bigger">La ville et cité de <placeName ref="#ClermontFerrandPuyDeDomeFrance">Clermont</placeName>
                            </hi>, se régit par droit écrit<ref type="noteHistorical" target="#s1Nh0585"/>, et y a coutumes locales dont
                            quelques articles suivent<ref type="noteHistorical" target="#s1Nh0586"/>.</p>
                         <p>
@@ -10747,9 +10436,7 @@
                         <head>[Mis en valeur : centré, gras]<lb/>De la Coutume locale
                            de la <lb/>
                            <hi rend="bold">ville d’</hi>
-                           <placeName ref="#AurillacCantalFrance"
-                                      full="Aurillac (Cantal, France)"
-                                      idno="http://catalogue.bnf.fr/ark:/12148/cb15248185f/PUBLIC">Orilhac</placeName>
+                           <placeName ref="#AurillacCantalFrance">Orilhac</placeName>
                         </head>
                         <p>
                            <hi rend="bigger">Les</hi> habitans de lad. ville peuvent faire
@@ -10763,9 +10450,7 @@
                            <hi rend="bold">De</hi>
                            <placeName>Marninhac</placeName>
                            <ref type="noteHistorical" target="#s1Nh0600"/>, 
-                           <lb/>Parroisse de <placeName ref="#CrosPuyDeDomeFrance"
-                                      full="Cros (Puy-de-Dôme, France)"
-                                      idno="http://catalogue.bnf.fr/ark:/12148/cb152694790/PUBLIC">Cros</placeName>
+                           <lb/>Parroisse de <placeName ref="#CrosPuyDeDomeFrance">Cros</placeName>
                         </head>
                         <p>
                            <hi rend="bigger">Ceux</hi>  qui ont fruitages joignans des
