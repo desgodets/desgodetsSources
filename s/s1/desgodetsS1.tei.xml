@@ -1126,7 +1126,7 @@
                      <head>R.</head>
                      <p>Raulcourt, locale, f° 141 v°</p>
                      <p>Rennes, id., f° 132 v°</p>
-                     <p>Rebetz, seig<hi rend="superscript">rie</hi>, f° [blanc]</p>
+                     <p>Rebetz, seig<hi rend="superscript">rie</hi>, f° <gap extent="1" unit="words"/></p>
                      <p>Rheims, bail<hi rend="superscript">ge</hi> de Vermandois, f° 40
                         v°</p>
                      <p>Ribemont, prévôté et bail<hi rend="superscript">ge</hi> de
@@ -1198,7 +1198,7 @@
                   </div>
                   <div>
                      <head>V.</head>
-                     <p>[sic. « Valancay »], chat<hi rend="superscript">nie</hi>, 
+                     <p><sic>Valancay</sic>, chat<hi rend="superscript">nie</hi>, 
                         <pb xml:id="s1Fol13" n="a13"/>
                         <fw type="runningHead">des coutumes</fw> 
                         locale, f° 107 v°</p>
@@ -1262,8 +1262,8 @@
                      <pb xml:id="s1Fol14v" n="a14v"/>
                      <div>
                         <head>[Textes cités]</head>
-                        <div rend="alignCenter">
-                           <head>Chapitre 6</head>
+                        <div>
+                           <head rend="alignCenter">Chapitre 6</head>
                            <div>
                               <head>Des Raports des Jurez</head>
                               <metamark rend="simpleLine alignCenter"/>
@@ -1532,7 +1532,7 @@
                                  <head rend="alignCenter">190.</head>
                                  <p>
                                     <hi rend="bigger">Qui</hi> veut faire forge, four
-                                    ou fourneau contre le [note : lire « un »] mur
+                                    ou fourneau contre <sic><orig>le</orig><reg>un</reg></sic> mur
                                     mitoyen doit laisser demy pied de vuide et
                                     intervale entre deux du mur du four ou forge et
                                     doit être led. mur d’un pied d’épaisseur.</p>
@@ -1577,8 +1577,7 @@
                                     <hi rend="bigger">Si</hi> aucun veut bâtir contre
                                     un mur non mitoyen, faire le peut en payant moitié
                                     tant dud. mur, que fondations d’iceluy jusqu’à son
-                                    héberge. Ce qu’il est tenu payer [sic. « payer »]
-                                    paravant que rien démolir ne bâtir, en l’estimation
+                                    héberge. Ce qu’il est tenu payer paravant que rien démolir ne bâtir, en l’estimation
                                     duquel mur est compris la valeur de la terre sur
                                     laquelle est led. mur fondé et assis au cas que
                                     celuy qui a fait le mur l’ait tout pris sur son
@@ -2420,9 +2419,7 @@
                               tenans maisons en la ville de Melun sont tenus y faire
                               construire et entretenir latrines et chambre aisée par
                               prix et exploitation de leurs biens et arrests des
-                              louages desd. maisons sur peine de 20 [# = livres :
-                              abréviation monétaire] [p<hi rend="superscript">is</hi>=
-                              parisis] d’amende pourvu que lesd. latrines se puisse<hi rend="superscript">nt</hi> faire sans incommoder lesd.
+                              louages desd. maisons sur peine de 20 <abbr>#</abbr> <choice><abbr>p<hi rend="superscript">is</hi></abbr><expan>parisis</expan></choice> d’amende pourvu que lesd. latrines se puisse<hi rend="superscript">nt</hi> faire sans incommoder lesd.
                               maisons.</p>
                         </div>
                         <metamark rend="simpleLine alignCenter"/>
@@ -2622,7 +2619,7 @@
                         quelque tems que ce soit, de cent ans ou plus ».</p>
                      <p>
                         <hi rend="bigger">Au</hi> 99<hi rend="superscript">e</hi> art.
-                        qui [vouloit] estre le 75<hi rend="superscript">e</hi> dudit
+                        qui <unclear cert="high" reason="illegible">vouloit</unclear> estre le 75<hi rend="superscript">e</hi> dudit
                         cahier imprimé, commençant « Aucun n’est contraint », par
                         l’avis des trois estats ont estez ajoutez ces mots « et
                         demeurera propre à celuy qui l’aura bâti à faute d’avoir
@@ -2883,7 +2880,7 @@
                               héritages d’autour, les seigneur propriétaire peut
                               prendre passage au plus proche du chemin et au moins
                               dommageable, sans pour ce acquérir droit de saisine ou
-                              possession, et si le passant [sic. « romp »] haye, perche
+                              possession, et si le passant <sic>romp</sic> haye, perche
                               ou pesseau<ref type="noteHistorical" target="#s1Nh0055"/>, ou remplit le fossé, il sera tenu le réparer sur le
                               champ et sera le propriétaire ou possesseur cru du
                               dommage à son simple serment jusqu’à cinq sols tournois
@@ -3107,16 +3104,13 @@
                               ou chambres aisées, et sont à ce faire contraignables par
                               prinse et exploitation<ref type="noteHistorical" target="#s1Nh0070"/> de leurs biens<ref type="noteHistorical" target="#s1Nh0071"/> et
                               immeubles, arrest de louage desd. maisons et autre voyes
-                              et manières dues et raisonables, sur peine de 20
-                              [abréviation monétaire : # = livres] d’amende, et si
+                              et manières dues et raisonables, sur peine de 20 # d’amende, et si
                               aucun est trouvé portant, jettant ou ayant porté et jetté
                               immondices ou ordures devant la maison d’autruy, place ou
-                              rue vuide, est pour la[abréviation par contraction :
-                                 « p<hi rend="superscript">ère</hi> », première] fois
+                              rue vuide, est pour la <choice><abbr>p<hi rend="superscript">ère</hi></abbr><expan>première</expan></choice> fois
                               condamnable en six sols parisis, et pour la seconde en
-                              douze sols [abréviation par contraction : « p<hi rend="superscript">is</hi> », parisis] et pour la
-                              troisième en vingt sols [abréviation par contraction :
-                                 « p<hi rend="superscript">is</hi> », parisis], et
+                              douze sols <choice><abbr>p<hi rend="superscript">is</hi></abbr><expan>parisis</expan></choice> et pour la
+                              troisième en vingt sols <choice><abbr>p<hi rend="superscript">is</hi></abbr><expan>parisis</expan></choice>, et
                                  est<ref type="noteHistorical" target="#s1Nh0072"/> le
                               semblable observé contre ceux qui jettent immondices près
                               les portes de la ville, églises et autres lieux
@@ -3277,8 +3271,7 @@
                                  et asseoir les poutres de sa maison que jusqu’à
                                     l’épaisse<hi rend="superscript">r</hi> dud. mur et
                                  point du milieu, en rétablissant led. mur et y mettant
-                                 ou faisant mettre jambes, chaisnes et corbeaux [apc :
-                                 « cõme » ; comme] dessus.</p>
+                                 ou faisant mettre jambes, chaisnes et corbeaux <choice><abbr>cõme</abbr><expan>comme</expan></choice> dessus.</p>
                            </div>
                         </div>
                         <div>
@@ -3334,7 +3327,7 @@
                   <div>
                      <head>[Lieux régis par la coutume de Montfort l’Amaury]</head>
                      <p>
-                        <hi rend="bigger">De la coutume</hi> de [Montfort] dépendent
+                        <hi rend="bigger">De la coutume</hi> de <unclear cert="high" reason="illegible">Montfort</unclear> dépendent
                         Gambais, Neaufle-le Châtel, S<hi rend="superscript">t</hi>
                         Ligier en Yveline qui n’ont rien de particulier</p>
                      <metamark rend="simpleLine alignCenter"/>
@@ -3406,7 +3399,7 @@
                               <fw type="foliotation">43 v (f° 27 v)</fw> le dessus et le dessous de
                               son sol et y peut édifier par dessus et par dessous et y
                               faire puits, aisances et autres choses licites, s’il n’y
-                              a titre au contraire, pourvu que la [causse] [en note
+                              a titre au contraire, pourvu que la <unclear reason="illegible" cert="medium">causse</unclear> [en note
                               marginale : chausse]<ref type="noteHistorical" target="#s1Nh0090"/> de l’aisement soit distante de
                               dix pieds du puits du voisin, et y faisant à ses dépends
                               bon et suffisant contremur de chaux et de sable de fond
@@ -3621,12 +3614,12 @@
                               semblables, doivent estre ou seront d’espace<ref type="noteHistorical" target="#s1Nh0108"/> de
                               distance en largeur par tout le cours d’iceux aud.
                               baillage de Senlis, c’est à sçavoir en bois et forests de
-                              40 [apc : « p<hi rend="superscript">s</hi> » ; pieds]
+                              40 <choice><abbr>p<hi rend="superscript">s</hi></abbr><expan>pieds</expan></choice>
                               pour le moins, et en terre labourable ou autre assiette
-                              de terre hors les bois et forests de 30 [apc : « p<hi rend="superscript">s </hi>» ; pieds] aussy pour le
+                              de terre hors les bois et forests de 30 <choice><abbr>p<hi rend="superscript">s </hi></abbr><expan>pieds</expan></choice> aussy pour le
                                  moins<ref type="noteHistorical" target="#s1Nh0109"/>.</p>
                            <p>[note marginale<ref type="noteHistorical" target="#s1Nh0110"/> : L’ord<hi rend="superscript">ce</hi> des eaux et forests de 1669 fixe les grands
-                              chemins dans les forests à 72 [apc : « p<hi rend="superscript">s</hi> » ; pieds] de pieds de
+                              chemins dans les forests à 72 <choice><abbr>p<hi rend="superscript">s</hi></abbr><expan>pieds</expan></choice> de pieds de
                                  Roy.]<ref type="noteHistorical" target="#s1Nh0111"/>
                            </p>
                         </div>
@@ -3680,9 +3673,8 @@
                               héritage d’autruy, celuy à qui apartient led. mur ne peut
                               en iceluy avoir fenestres, lumières ou vues sur iceluy
                               héritage ou maison s’il ne sont au<ref type="noteHistorical" target="#s1Nh0114"/> rez de
-                              terre, à 9 [apc : « p<hi rend="superscript">s</hi> » ;
-                              pieds] de haut quand au [apc : « p<hi rend="superscript">er</hi> » ; premier] étage, et quant aux autres
-                              étages, du rez du plancher de 7 [apc : « p<hi rend="superscript">s</hi> » ; pieds] de haut, le tout
+                              terre, à 9 <choice><abbr>p<hi rend="superscript">s</hi></abbr><expan>pieds</expan></choice> de haut quand au <choice><abbr>p<hi rend="superscript">er</hi></abbr><expan>premier</expan></choice> étage, et quant aux autres
+                              étages, du rez du plancher de 7 <choice><abbr>p<hi rend="superscript">s</hi></abbr><expan>pieds</expan></choice> de haut, le tout
                               à verre<ref type="noteHistorical" target="#s1Nh0115"/>
                               dormant, et si de fait ils estoient plus bas ou en autre
                               manière, celuy qui les auroit fait faire seroit contraint
@@ -3780,7 +3772,7 @@
                               gras]</head>
                            <p>
                               <hi rend="bigger">Item</hi> par lad. Coutume, y a cinq
-                              manières de chemins communs, le [apc : « p<hi rend="superscript">er</hi> » ; premier] nommé sentier
+                              manières de chemins communs, le <choice><abbr>p<hi rend="superscript">er</hi></abbr><expan>premier</expan></choice> nommé sentier
                               qui porte quatre pieds de largeur et on n’y doit pas<ref type="noteHistorical" target="#s1Nh0126"/> mener de
                               charettes.</p>
                         </div>
@@ -3793,15 +3785,13 @@
                         <div>
                            <head rend="alignCenter">228.</head>
                            <p>Le 3<hi rend="superscript">e</hi> s’appelle voye et il
-                              contient 16 [apc : « p<hi rend="superscript">s</hi> » ;
-                              pieds] de largeur et y peut on bien mener et chasser sans
+                              contient 16 <choice><abbr>p<hi rend="superscript">s</hi></abbr><expan>pieds</expan></choice> de largeur et y peut on bien mener et chasser sans
                               s’arrêter toute sorte de bétail de ville à autre.</p>
                         </div>
                         <div>
                            <head rend="alignCenter">229.</head>
                            <p>Le 4<hi rend="superscript">e</hi> se nomme chemin qui
-                              tient 32 [apc : « p<hi rend="superscript">s</hi> » ;
-                              pieds] de largeur par lequel toutes marchandises et
+                              tient 32 <choice><abbr>p<hi rend="superscript">s</hi></abbr><expan>pieds</expan></choice> de largeur par lequel toutes marchandises et
                               bestiaux y peuvent estre menez, et eux y reposer ; et en
                               iceluy et autres chemins se doivent recueillir les
                                  travers<ref type="noteHistorical" target="#s1Nh0128"/> accoutumez.</p>
@@ -3813,10 +3803,10 @@
                         <div>
                            <head rend="alignCenter">230.</head>
                            <p>Et le 5<hi rend="superscript">e</hi> se nomme le grand
-                              chemin royal qui contient 64 [apc : « p<hi rend="superscript">s</hi> » ; pieds] de largeur et
+                              chemin royal qui contient 64 <choice><abbr>p<hi rend="superscript">s</hi></abbr><expan>pieds</expan></choice> de largeur et
                               porte chacun pied, par la susd. coutume, 11 poulces.</p>
                            <p>[en note marginale à droite : L’ord<hi rend="superscript">ce</hi> des Eaux et forests de 1669 fixe les grands
-                              chemins dans les forests à 72 [apc : « p<hi rend="superscript">ds</hi> » ; pieds] de largeur de
+                              chemins dans les forests à 72 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> de largeur de
                               pied de roy.]<ref type="noteHistorical" target="#s1Nh0129"/>
                            </p>
                            <p>Les 231, 232, 233 art. concernent la mesure des bleds,
@@ -3830,7 +3820,7 @@
                                  mines<ref type="noteHistorical" target="#s1Nh0132"/>
                               de terre pour un muid, et quant à Clermont et à
                               l’environ, chacune mine de terre porte 60 verges et
-                              chacune verge 22<ref type="noteHistorical" target="#s1Nh0133"/> [apc : « p<hi rend="superscript">ds</hi> » ; pieds].</p>
+                              chacune verge 22<ref type="noteHistorical" target="#s1Nh0133"/> <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice>.</p>
                         </div>
                         <div>
                            <head rend="alignCenter">235.</head>
@@ -3843,15 +3833,14 @@
                            <head rend="alignCenter">236.</head>
                            <p>
                               <hi rend="bigger">Item</hi> la mine de terre en la
-                              chatellenie de Bulles<ref type="noteHistorical" target="#s1Nh0135"/> se mesure à 50 verges [apc :
-                                 « po<hi rend="superscript">r</hi> » ; pour] mines 24
-                              [apc : « p<hi rend="superscript">ds</hi> » pieds] pour
+                              chatellenie de Bulles<ref type="noteHistorical" target="#s1Nh0135"/> se mesure à 50 verges <choice><abbr>po<hi rend="superscript">r</hi></abbr><expan>pour</expan></choice> mines 24
+                              <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> pour
                               verge au pied dessusd.</p>
                         </div>
                         <div>
                            <head rend="alignCenter">237.</head>
                            <p>
-                              <hi rend="bigger">Item</hi> en la [apc : « seig<hi rend="superscript">rie</hi> » ; seigneurie] de
+                              <hi rend="bigger">Item</hi> en la <choice><abbr>seig<hi rend="superscript">rie</hi></abbr><expan>seigneurie</expan></choice> de
                                  Conty<ref type="noteHistorical" target="#s1Nh0136"/>,
                               on parle par journaux<ref type="noteHistorical" target="#s1Nh0137"/> au lieu de mines et se mesure,
                               chacun journau 100 verges, et 24 p<hi rend="superscript">ds</hi> pour chacune verge.</p>
@@ -3863,9 +3852,7 @@
                         <div>
                            <head rend="alignCenter">238.</head>
                            <p>
-                              <hi rend="bigger">Item</hi> la mine de terre en la [apc :
-                                 « seig<hi rend="superscript">rie</hi> » ; seigneurie]
-                              de [Sacy]<ref type="noteHistorical" target="#s1Nh0138"/>, le grand Gournay<ref type="noteHistorical" target="#s1Nh0139"/> et pareillement à la Neufville
+                              <hi rend="bigger">Item</hi> la mine de terre en la <choice><abbr>seig<hi rend="superscript">rie</hi></abbr><expan>seigneurie</expan></choice> de <unclear reason="illegible" cert="medium">Sacy</unclear><ref type="noteHistorical" target="#s1Nh0138"/>, le grand Gournay<ref type="noteHistorical" target="#s1Nh0139"/> et pareillement à la Neufville
                               en hezet<ref type="noteHistorical" target="#s1Nh0140"/>
                               et à Milly<ref type="noteHistorical" target="#s1Nh0141"/>, se mesure tout ainsy et pareillement comme l’on fait
                               au susd. Clermont.</p>
@@ -3874,9 +3861,7 @@
                            <head rend="alignCenter">239.</head>
                            <p>
                               <hi rend="bigger">Item</hi> la mine de terre en la terre
-                              et [apc : « seig<hi rend="superscript">rie</hi> » ;
-                              seigneurie] de Rémy<ref type="noteHistorical" target="#s1Nh0142"/> porte 80 verges et 22 [apc :
-                                 « p<hi rend="superscript">ds</hi> » ; pieds] tiers de
+                              et <choice><abbr>seig<hi rend="superscript">rie</hi></abbr><expan>seigneurie</expan></choice> de Rémy<ref type="noteHistorical" target="#s1Nh0142"/> porte 80 verges et 22 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> tiers de
                               pied par verge, et aussy la mesure de grain est pareille
                               à celle de Compiègne.</p>
                         </div>
@@ -3889,19 +3874,17 @@
                               aires que 12 verges, et<ref type="noteHistorical" target="#s1Nh0143"/> 24 pieds pour verge.</p>
                         </div>
                         <div>
-                           <head>
-                              <hi rend="bold">241.</hi> [Mis en valeur : centré,
-                              gras]</head>
+                           <head rend="alignCenter">
+                              <hi rend="bold">241.</hi></head>
                            <p>
                               <hi rend="bigger">Item</hi>  par lad. coutume, bois, vignes,
                               jardins et prez communément se mesurent par arpent et
                               vaut chacun arpent en aucun lieu cent verges et y a vingt
                               six pieds pour verge, et encor’il y a des lieux où l’on
                               ne mesure qu’à 72 verges pour chacun arpent.</p>
-                           <p>[en note dans la marge à gauche : L’[apc : « ord<hi rend="superscript">ce</hi> » ; ordonnance] des Eaux et
+                           <p>[en note dans la marge à gauche : L’<choice><abbr>ord<hi rend="superscript">ce</hi></abbr><expan>ordonnance</expan></choice> des Eaux et
                               forests de 1669 fixe chacun arpent de bois par tous le
-                              royaume, cent perches et chacune perche de 22 [apc :
-                                 « p<hi rend="superscript">ds</hi> » ; pieds] de long,
+                              royaume, cent perches et chacune perche de 22 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> de long,
                               chacun pied de 12 poulces de Roy.]</p>
                            <p>Les 242, 243 et 244 sont, et concernent les poids et
                               mesures de toutes sortes de marchandises.</p>
@@ -3942,14 +3925,11 @@
                            possessions ou prescriptions d’héritages et autres choses
                            particulières.</p>
                         <div>
-                           <head>
-                              <hi rend="bold">Art. 124.</hi> [Mis en valeur : centré,
-                              gras]</head>
+                           <head rend="alignCenter">
+                              <hi rend="bold">Art. 124.</hi></head>
                            <p>
                               <hi rend="bigger">Item</hi> en matière de vues et égouts,
-                              éviers et glassouers<ref type="noteHistorical" target="#s1Nh0145"/>, prescription n’a point de lieu,
-                              [apc : « tellem<hi rend="superscript">t</hi> » ;
-                              tellement] que par long usage et possession, qu’aucun en
+                              éviers et glassouers<ref type="noteHistorical" target="#s1Nh0145"/>, prescription n’a point de lieu, <choice><abbr>tellem<hi rend="superscript">t</hi></abbr><expan>tellement</expan></choice> que par long usage et possession, qu’aucun en
                               ait sur l’héritage d’autruy, il puisse acquérir
                               prescription contre, ne au préjudice d’iceluy, et ne luy
                               en peut aucun droit estre acquis, si ce n’est par titre
@@ -3963,11 +3943,10 @@
                               <fw type="foliotation">50 v (f° 34 v)</fw> moyen, à autruy
                               héritage, ne peut en iceluy mur faire, ne avoir fenestres
                               ou vues sur iceluy héritage au préjudice de son voisin ;
-                              mais est tenu les faire du rez de terre à la hauteur de 9
-                              [apc : « p<hi rend="superscript">ds</hi> » ; pieds] quant
-                              au [apc : « p<hi rend="superscript">er</hi> » ; premier]
-                              estage, et quant aux autres étages de sept pieds de haut,
-                              et garnir lesd. fenestres et vues suffisamment de fer et
+                              mais est tenu les faire du rez de terre à la hauteur de 9 
+                              <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> quant
+                              au <choice><abbr>p<hi rend="superscript">er</hi></abbr><expan>premier</expan></choice> estage, et quant aux autres étages de sept pieds de haut,
+                              et garnir <choice><abbr>lesd.</abbr><expan>lesdites</expan></choice> fenestres et vues suffisamment de fer et
                                  verre<ref type="noteHistorical" target="#s1Nh0146"/>
                               dormants.</p>
                         </div>
@@ -3978,7 +3957,7 @@
                               plus bas, et en autre manière, il seroit contraint par
                               justice s’il en estoit poursuivy suffisamment de les
                               étouper et tenir en la hauteur dessusd., nonobstant
-                              quelqu’espace de tems qu’il en eut usé [apc : « autrem<hi rend="superscript">t</hi> » ; autrement] s’il n’en
+                              quelqu’espace de tems qu’il en eut usé <choice><abbr>autrem<hi rend="superscript">t</hi></abbr><expan>autrement</expan></choice> s’il n’en
                               avoit titre spécial.</p>
                         </div>
                         <div>
@@ -3999,8 +3978,8 @@
                               <hi rend="bigger">Par</hi> la coutume dud. baillage y a
                               quatre <pb xml:id="s1Fol51" n="35"/>
                               <fw type="foliotation">51 r (f° 35 r)</fw> manières de chemins communs.
-                              Le [apc : « p<hi rend="superscript">r</hi> » ; premier]
-                              se nomme sentier qui porte 4 [apc : « p<hi rend="superscript">ds</hi> » ; pieds] de largeur, et
+                              Le <choice><abbr>p<hi rend="superscript">r</hi></abbr><expan>premier</expan></choice>
+                              se nomme sentier qui porte 4 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> de largeur, et
                               n’y doit on point mener charettes.</p>
                         </div>
                         <div>
@@ -4012,23 +3991,22 @@
                         <div>
                            <head rend="alignCenter">196.</head>
                            <p>Le 3<hi rend="superscript">e</hi> se nomme voye, et
-                              contient 16 [apc : « p<hi rend="superscript">ds</hi> » ;
-                              pieds] de largeur, et y peut on bien mener et chasser,
+                              contient 16 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> de largeur, et y peut on bien mener et chasser,
                               sans s’arrester, bétail d’une ville à autre.</p>
                         </div>
                         <div>
                            <head rend="alignCenter">197.</head>
                            <p>Le 4<hi rend="superscript">e</hi> se nomme chemin royal
                               qui conduit de cité en cité, et doit contenir 30 pieds de
-                              largeur en terre labourable et en bois 40 [apc « p<hi rend="superscript">ds</hi> » ; pieds] de douze poulces
+                              largeur en terre labourable et en bois 40 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> de douze poulces
                               pour pied ; par lequel toutes marchandises et bestiaux
                               peuvent estre menez, et eux reposer ; et en iceluy et
                               autres chemins se doivent recueillir les travers
                               accoutumez, et sont lesd. chemins desd. mesures sinon
                               qu’ils fussent bornez d’ancienneté.</p>
-                           <p>[note marginale à droite : L’ [apc : « ord<hi rend="superscript">ce</hi> » ; ordonnance] des Eaux et
+                           <p>[note marginale à droite : L’<choice><abbr>ord<hi rend="superscript">ce</hi></abbr><expan>ordonnance</expan></choice> des Eaux et
                               forests de 1669 fixe les grands chemins dans les forest à
-                              72 [apc : « p<hi rend="superscript">ds</hi> » ; pieds] de
+                              72 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> de
                               large de pieds de Roy.]</p>
                         </div>
                      </div>
@@ -4108,9 +4086,8 @@
                               êtez.</p>
                         </div>
                         <div>
-                           <head>
-                              <hi rend="bold">43.</hi> [Mis en valeur : centré,
-                              gras]</head>
+                           <head rend="alignCenter">
+                              <hi rend="bold">43.</hi></head>
                            <p>
                               <hi rend="bigger">Si</hi>  d’aventure il se trouve mur, cloison
                               ou clôture mitoyenne entre deux voisins, et si elle
@@ -4120,9 +4097,8 @@
                               renoncer à la communauté de la susd. clôture.</p>
                         </div>
                         <div>
-                           <head>
-                              <hi rend="bold">44.</hi> [Mis en valeur : centré,
-                              gras]</head>
+                           <head rend="alignCenter">
+                              <hi rend="bold">44.</hi></head>
                            <p>
                               <hi rend="bigger">On</hi>  ne peut faire four en son héritage,
                               <pb xml:id="s1Fol52v" n="36v"/>
@@ -4196,7 +4172,7 @@
                               <p>
                                  <hi rend="bigger">Il</hi> est permis au voisin de
                                  percer le mur mitoyen de luy et son voisin pour y
-                                 faire fenestres au dessus de 9 [apc : « p<hi rend="superscript">ds</hi> » ; pieds] de rez de
+                                 faire fenestres au dessus de 9 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> de rez de
                                  chaussée et de sept pieds au dessus du second étage,
                                  le tout à fer et verre dormant, s’il n’y a titre ou
                                  convention au contraire ; mais où le voisin voudroit
@@ -4211,8 +4187,7 @@
                                  <hi rend="bigger">Qui</hi> veut faire aisement ou
                                  latrines près d’un mur mitoyen, doit faire un bon
                                  contremur d’un pied d’épais de grosse muraille<ref type="noteHistorical" target="#s1Nh0160"/> et non
-                                 de blocaille, et à distance de 17<ref type="noteHistorical" target="#s1Nh0161"/> [apc :
-                                    « p<hi rend="superscript">ds</hi> » ; pieds] pour
+                                 de blocaille, et à distance de 17<ref type="noteHistorical" target="#s1Nh0161"/> <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> pour
                                  le moins du puits de son voisin, si puits y a.</p>
                            </div>
                            <div>
@@ -4220,8 +4195,7 @@
                               <p>
                                  <hi rend="bigger">Ez villes</hi> de la prévôté foraine
                                  de Laön, le voisin peut contraindre son voisin à soy
-                                 clore à l’encontre de luy, de muraille jusqu’à 9
-                                 [apc : « p<hi rend="superscript">ds</hi> » ; pieds] de
+                                 clore à l’encontre de luy, de muraille jusqu’à 9 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> de
                                  hauteur à prendre du rez de chaussée.</p>
                            </div>
                            <div>
@@ -4230,8 +4204,7 @@
                                  <hi rend="bigger">Tous</hi> murs et clôtures en villes
                                  sont réputez mitoyens, sinon qu’ils portassent
                                  entièrement le corps de l’hostel et édifice de l’un
-                                 des voisins ; auquel cas apartient à celuy [apc :
-                                    « auq<hi rend="superscript">l</hi> » ; auquel] est
+                                 des voisins ; auquel cas apartient à celuy <choice><abbr>auq<hi rend="superscript">l</hi></abbr><expan>auquel</expan></choice> est
                                  led. édifice, ou qu’il y eut titre au contraire,
                                  marque, ou signiffication qui dénotassent par l’art de
                                  maçonnerie que tel mur ne se trouve point mitoyen.</p>
@@ -4287,7 +4260,7 @@
                                  voisin peut <pb xml:id="s1Fol54v" n="38v"/>
                                  <fw type="foliotation">54 v (f° 38 v)</fw> contraindre son
                                  voisin à se clore à l’encontre de luy de muraille
-                                 mitoyennes jusqu’à 9 [apc : « p<hi rend="superscript">ds</hi> » ; pieds] à prendre du rez de chaussée de
+                                 mitoyennes jusqu’à 9 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> à prendre du rez de chaussée de
                                     terre<ref type="noteHistorical" target="#s1Nh0164"/>, et là où led. voisin seroit refusant d’y
                                  contribuer et ne voudroit rembourser son autre voisin
                                  qui l’auroit fait faire, six mois après sommation
@@ -4322,9 +4295,8 @@
                                  le voisin, sinon qu’il y eut titre contraire.</p>
                            </div>
                            <div>
-                              <head>
-                                 <hi rend="bold">137.</hi> [Mis en valeur : centré,
-                                 gras]</head>
+                              <head rend="alignCenter">
+                                 <hi rend="bold">137.</hi></head>
                               <p>
                                  <hi rend="bigger">Et</hi>  néantmoins où le voisin voudrait
                                  de nouvel bâtir, luy est permis de clore et étouper
@@ -4408,16 +4380,14 @@
                            coutume</head>
                         <p>
                            <hi rend="bigger">Les</hi> art. 134 commençant par ces mots
-                           « Éz villes et faubourgs », 135 [apc : « commenç<hi rend="superscript">t</hi> » ; commençant] « Le mur est
-                           réputé mitoyen », 136 [apc : « commenç<hi rend="superscript">t</hi> » ; commençant] « Il est permis », 137 [apc :
-                              « commenç<hi rend="superscript">t</hi> » ; commençant]
-                           « Et néantmoins », 138 [apc : « commenç<hi rend="superscript">t</hi> » ; commençant] « Le voisin
-                           peut bâtir », 139 [apc : « commenç<hi rend="superscript">t</hi> » ; commençant] « Où entre place », 140 [apc :
-                              « commenç<hi rend="superscript">t</hi> » ; commençant]
-                           « Celuy qui veut faire four », et 142 [apc : « commenç<hi rend="superscript">t</hi> » ; commençant] « Qui veut
+                           « Éz villes et faubourgs », 135 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commençant</expan></choice> « Le mur est
+                           réputé mitoyen », 136 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commençant</expan></choice> « Il est permis », 137 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commençant</expan></choice> 
+                           « Et néantmoins », 138 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commençant</expan></choice> « Le voisin
+                           peut bâtir », 139 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commençant</expan></choice> « Où entre place », 140 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commençant</expan></choice> 
+                           « Celuy qui veut faire four », et 142 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commençant</expan></choice> « Qui veut
                            faire chambres », ont estez accordez pour l’avenir, le tout
                            sans préjudice du passé.</p>
-                        <p>Le 144<hi rend="superscript">e</hi> art. [apc : « commenç<hi rend="superscript">t</hi> » ; commençant] « Vues et
+                        <p>Le 144<hi rend="superscript">e</hi> art. <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commençant</expan></choice> « Vues et
                            égoust », a esté accordé pour coutume nouvelle, à cause que
                            le pays est pays de frontière sujet aux guerres et que par
                            ce moyen, les possesseurs peuvent souvent perdre leurs
@@ -4448,8 +4418,7 @@
                                  <hi rend="bigger">En</hi> la cité et ville de Rheims
                                  et autres villes régies selon icelle et éz faubourgs
                                  desd. citez et villes, droits de vue et d’égoust et
-                                 toutes autres servitudes ne s’acquièrent par
-                                 [sic. « par »] prescription de longue jouissance
+                                 toutes autres servitudes ne s’acquièrent <sic>par</sic> prescription de longue jouissance
                                  quelle quelle soit sans titre ou autre chose
                                  équipolente comme destination de père de famille<ref type="noteHistorical" target="#s1Nh0172"/> et fut
                                  ce de cent ans et plus ; et hors lesd. citez, villes
@@ -4472,7 +4441,7 @@
                                  selon toute aparence estaches veut dire étages<ref type="noteHistorical" target="#s1Nh0181"/>.]
                                     et<ref type="noteHistorical" target="#s1Nh0182"/>
                                  autre entreprises sur rue et chemin public sinon que
-                                 lesd. saillies soient de 22 [apc : « p<hi rend="superscript">ds</hi> » ; pieds] et demy de
+                                 lesd. saillies soient de 22 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> et demy de
                                  hauteur et qu’il ait obtenu congé <pb xml:id="s1Fol57" n="41"/>
                                  <fw type="foliotation">57 r (f° 41 r)</fw> et permission des seigneurs en la juridiction
                                  desquels tels édifices se font, de planter lesd.
@@ -4484,16 +4453,15 @@
                                  chapitre de leurs sénéchaux et bailly ; et en la terre
                                  de S<hi rend="superscript">t</hi> Rémy et S<hi rend="superscript">t</hi> Nicaise<ref type="noteHistorical" target="#s1Nh0184"/>, des
                                  bailly desd. lieux, excepté en la couture dud. Rheims,
-                                 en [apc : « laq<hi rend="superscript">le</hi> » ;
-                                 laquelle] est permis de construire et édifier de
+                                 en <choice><abbr>laq<hi rend="superscript">le</hi></abbr><expan>laquelle</expan></choice> est permis de construire et édifier de
                                  nouvel sans le congé des échevins de lad. ville et
                                  sans péril d’amende, saillies, goulots et estaches de
-                                 la hauteur de dix pieds [apc : « seulem<hi rend="superscript">t</hi> » ; seulement], laquelle
+                                 la hauteur de dix pieds <choice><abbr>seulem<hi rend="superscript">t</hi></abbr><expan>seulement</expan></choice>, laquelle
                                  hauteur seront tenus les ayans maisons en lad. couture
                                  observer et à ce faire contraints par leds. échevins ;
                                  comm’aussy les ayans maisons éz autres endroits de
                                  lad. ville et faubourgs, seront tenus et contraints
-                                 observer lad. hauteur de 22 [apc : « p<hi rend="superscript">ds</hi> » ; pieds] et demy par
+                                 observer lad. hauteur de 22 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> et demy par
                                  les seigneurs et autres justiciers<ref type="noteHistorical" target="#s1Nh0185"/> où sont
                                  assises les maisons, et quelles seront lesd. saillies
                                  de nouvel construites et édifiées.</p>
@@ -4518,8 +4486,7 @@
                               <p>
                                  <hi rend="bigger">Pourront</hi> aussy les ayans
                                  maisons en lad. couture édifier puits, degrez ou
-                                 marches au lieu le plus convenable et [ajout au dessus
-                                 entre les lignes : « moins »] nuisible à l’aisance et
+                                 marches au lieu le plus convenable et <add place="above">moins</add> nuisible à l’aisance et
                                  commodité de lad. couture et chemin publics d’icelle,
                                  lesd. échevins à ce apellez.</p>
                            </div>
@@ -4567,8 +4534,8 @@
                               <head rend="alignCenter">358.</head>
                               <p>
                                  <hi rend="bigger">Nul</hi> ne peut faire goutières ou
-                                    nauts<ref type="noteHistorical" target="#s1Nh0191"/> sur rue publique pus bas de 22 [apc : « p<hi rend="superscript">ds</hi> » ; pieds] et demy sous
-                                 peine de l’amende de 60 sols [apc : « p<hi rend="superscript">is</hi> » ; parisis] aplicable
+                                 nauts<ref type="noteHistorical" target="#s1Nh0191"/> sur rue publique pus bas de 22 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> et demy sous
+                                 peine de l’amende de 60 sols <choice><abbr>p<hi rend="superscript">is</hi></abbr><expan>parisis</expan></choice> aplicable
                                  au seigneur de la juridisction où tous les édifices
                                  sur lesquels lesd. goutières et nauts sont assis.</p>
                            </div>
@@ -4619,10 +4586,9 @@
                                  propriétaire de l’un desd. édifices se voulant clore
                                  contre son voisin, pourra au refus de sond. voisin,
                                  faire entièrement construire et édifier lad. clôture
-                                 jusqu’à 12 [apc : « p<hi rend="superscript">ds</hi> » ; pieds] de Roy, au rez de chaussée, outre
+                                 jusqu’à 12 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> de Roy, au rez de chaussée, outre
                                  et par dessus les fondemens esd. cité et villes, et
-                                 jusqu’à 9 [apc : « p<hi rend="superscript">ds</hi> » ;
-                                 pieds] èz faubourgs d’icelle à ses dépens, la moitié
+                                 jusqu’à 9 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> èz faubourgs d’icelle à ses dépens, la moitié
                                  desquels il répètera sur sond. voisin ; et où led.
                                  voisin seroit refusant de le rembourser d’icelle
                                  moitié, six mois après sommation de ce faire par luy
@@ -4658,8 +4624,8 @@
                               <p>
                                  <hi rend="bigger">Il</hi> est loisible à un voisin
                                  faire percer le mur mitoyen d’entre luy et son voisin,
-                                 au dessus de 9 [apc : « p<hi rend="superscript">ds</hi> » ; pieds] du rez de chaussée et de 7
-                                 [apc : « p<hi rend="superscript">ds</hi> » ; pieds] au
+                                 au dessus de 9 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> du rez de chaussée et de 7
+                                 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> au
                                  dessus du second étage, le tout à fer et verre
                                  dormans ; mais où sond. voisin voudra derechef bâtir,
                                  luy est lors permis de clore et étouper lesd. vues
@@ -4676,9 +4642,7 @@
                                  mettre et asseoir lesd. poutres et solives que jusqu’à
                                  la moitié de l’épaisseur et point du milieu dud. mur ;
                                  en le rétablissant et y faisant faire jambes, chaines
-                                 et corbeaux de pierre de taille ou autres [apc :
-                                    « suffis<hi rend="superscript">tes</hi> » ;
-                                 suffisantes] selon l’aisance et commodité du lieu,
+                                 et corbeaux de pierre de taille ou autres <choice><abbr>suffis<hi rend="superscript">tes</hi></abbr><expan>suffisantes</expan></choice> selon l’aisance et commodité du lieu,
                                  pour porter lesd. poutres, en rétablissant led.
                                  mur.</p>
                               <p>
@@ -4794,7 +4758,7 @@
                                  et monter la muraille à ses dépens jusqu’au rez de
                                  chaussée, et de là en avant, son voisin y sera tenu
                                  contribuer de telle mesure que dessus est dit, c’est à
-                                 sçavoir de 14 pieds en la cité et de 8 [apc : « p<hi rend="superscript">d</hi> » ; pieds] hors la cité ;
+                                 sçavoir de 14 pieds en la cité et de 8 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> hors la cité ;
                                  mais en contribuant au pardessus, il aura la moitié
                                  aud. mur, et pourra apuyer contre et prendre creux de
                                  cheminée, comme est cy dessus dit.</p>
@@ -4858,7 +4822,7 @@
                            et lever son mur à l’encontre si haut qu’il luy plait, et en
                            ce faisant, offusquer les vues si bon lui semble, les faire
                            retouper. »</p>
-                        <p>À l’art. 355 [apc : « commenç<hi rend="superscript">t</hi> » ; commençant] « Tous murs » ont estez de l’avis
+                        <p>À l’art. 355 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commençant</expan></choice> « Tous murs » ont estez de l’avis
                            desd. États ajoutez ces mots, « sinon qu’ils portassent
                            entièrement le corps d’hostel et édifice de l’un des
                            voisins, auquel cas apartient à celuy auquel est tel
@@ -4866,27 +4830,25 @@
                            signiffication qui dénotasse par l’art de maçonnerie que tel
                            mur n’est commun. »<ref type="noteHistorical" target="#s1Nh0208"/>
                         </p>
-                        <p>Aussy à l’art. 360 [apc : « commenç<hi rend="superscript">t</hi> » ; commençant] « Il est loisible », ont estez de
+                        <p>Aussy à l’art. 360 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commençant</expan></choice> « Il est loisible », ont estez de
                            l’avis desd. États ajoutez ces mots, <pb xml:id="s1Fol62v" n="46v"/>
                            <fw type="foliotation">62 v (f° 46 v)</fw>
                            « Et où led. sommé de contribuer aux frais seroit refusant
                            de ce faire six mois après lad. sommation duëment faite,
                            demeurera led. mur propre à celuy qui l’aura fait et
                            construit de nouvel ou fait refaire si bon luy semble. »</p>
-                        <p>Les art. 361 [apc : « commenç<hi rend="superscript">t</hi> » ; commençant] « Pareillement », 364 [apc :
-                              « commenç<hi rend="superscript">t</hi> » ; commençant]
-                           « Il est loisible », et 366 [apc : « commenç<hi rend="superscript">t</hi> » ; commençant] « À
+                        <p>Les art. 361 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commençant</expan></choice> « Pareillement », 364 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commençant</expan></choice> 
+                           « Il est loisible », et 366 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commençant</expan></choice> « À
                            quiconque », ont estez de nouvel introduits comme
                            dessus.</p>
                         <p>L’art. 367 commençant « Quiconque », a esté de nouvel
                            introduit de l’avis que dessus et l’ancienne coutume abrogée
                            par laquelle il estoit loisible de prescrire par l’espace de
-                           40 ans les ordefosses, ou [sic. « souleils »] fait joignans
+                           40 ans les ordefosses, ou <sic>souleils</sic> fait joignans
                            le puits du voisin et aussy qu’il estoit permis faire
                            ordefosses ou souleis à deux pieds et demy du puits de sond.
                            voisin. »</p>
-                        <p>Les art. 368 [apc : « commenç<hi rend="superscript">t</hi> » ; commençant] « Contre », et 369 [apc :
-                              « commenç<hi rend="superscript">t</hi> » ; commençant]
+                        <p>Les art. 368 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commençant</expan></choice> « Contre », et 369 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commençant</expan></choice> 
                            « Le fossé », ont estez de nouvel introduits de l’avis que
                            dessus.</p>
                         <metamark rend="simpleLine alignCenter"/>
@@ -5059,8 +5021,8 @@
                            sa maison ou tenement, aucun nouveau four public, asseoir
                            nouvel sol, seuil ou mur sur rue, étais, venelle, huisserie
                            à cellier, ruisseaux et travers à chevaux, sans licence des
-                           mayeurs, prévot et échevins à peine [apc : «po<hi rend="superscript">r</hi> » ; pour] chacune fois de 60
-                           [abréviation monétaire : sols] [apc : « p<hi rend="superscript">is</hi> » ; parisis] d’amende, et que
+                           mayeurs, prévot et échevins à peine <choice><abbr>po<hi rend="superscript">r</hi></abbr><expan>pour</expan></choice> chacune fois de 60
+                           [abréviation monétaire : sols] <choice><abbr>p<hi rend="superscript">is</hi></abbr><expan>parisis</expan></choice> d’amende, et que
                            les droits seigneuriaux pour ce dûs ne soient payez.</p>
                         <metamark rend="simpleLine alignCenter"/>
                         <p>
@@ -5095,7 +5057,7 @@
                            et place commune d’aucune seigneurie apartiennent au
                            seigneur vicomtier ayant la justice vicomtière auxd.
                            flegards et places communes, et quiconque abat ou ébranche
-                           led. arbre, il commet envers led. [apc : « seig<hi rend="superscript">r</hi> » ; seigneur] amande de 60
+                           led. arbre, il commet envers led. <choice><abbr>seig<hi rend="superscript">r</hi></abbr><expan>seigneur</expan></choice> amande de 60
                            [abréviation monétaire : sol]<ref type="noteHistorical" target="#s1Nh0214"/>.</p>
                      </div>
                      <div>
@@ -5105,11 +5067,9 @@
                            d’aucun seigneur ayant justice vicomtière, ou autre plus
                            grande, aucun chesne, étalon, rayon ou perot<ref type="noteHistorical" target="#s1Nh0215"/>, il commet
                            envers le seigneur amende de 60 [abréviation monétaire :
-                           sol] [apc : « p<hi rend="superscript">is</hi> » ; parisis] ;
-                           et est un chesne nommé perot quand il a les deux [sic.
-                           « aages »] de la coupe du bois et rayon quand il a les [en
-                           note marginale : Les amendes ont estez réglées par l’ [apc :
-                              « ord<hi rend="superscript">ce</hi> » ; ordonnance] des
+                           sol] <choice><abbr>p<hi rend="superscript">is</hi></abbr><expan>parisis</expan></choice> ;
+                           et est un chesne nommé perot quand il a les deux <sic>aages</sic> de la coupe du bois et rayon quand il a les [en
+                           note marginale : Les amendes ont estez réglées par l’ <choice><abbr>ord<hi rend="superscript">ce</hi></abbr><expan>ordonnance</expan></choice> des
                            Eaux et forests rédigées en 1669] <pb xml:id="s1Fol65v" n="49v"/>
                            <fw type="foliotation">65 v (f° 49 v)</fw>
                            trois âges d’icelle coupe, mais en <sic>la</sic> comté de
@@ -5153,10 +5113,8 @@
                         <head rend="alignCenter">Titre des Prescriptions</head>
                         <p>
                            <hi rend="bigger">Les</hi> art. 160 commençant « Celuy qui
-                           jouit », 161 [apc : « commenç<hi rend="superscript">t</hi> » ; commençant] « Et s’il jouit par 30 ans », 162
-                           [apc : « commenç<hi rend="superscript">t</hi> » ;
-                           commençant] « Par le tems de 30 ans » et 163 [apc :
-                              « commenç<hi rend="superscript">t</hi> » ; commençant]
+                           jouit », 161 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commençant</expan></choice> « Et s’il jouit par 30 ans », 162
+                           <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commençant</expan></choice> « Par le tems de 30 ans » et 163 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commençant</expan></choice> 
                            « Meuble se prescrit » ont estez mis au lieu du 3<hi rend="superscript">e</hi> art. de l’ancien coutumier dont
                            la teneur estoit « Par la coutume générale, quiconque jouit
                            et possède paisiblement ou demeure quitte et paisible
@@ -5173,8 +5131,7 @@
                            <fw type="foliotation">66 v (f° 50 v)</fw> poursuite à l’encontre de tel possesseur ou demeuré
                            paisible, et sont par led. laps de tems et prescription
                            toutes actions assoupies, éteintes et abolies. »</p>
-                        <p>L’art 165 [apc : « commenç<hi rend="superscript">t</hi> » ;
-                           commençant] « Nul ne peut », qui estoit le 36<hi rend="superscript">e</hi> de la coutume locale d’Amiens,
+                        <p>L’art 165 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commençant</expan></choice> « Nul ne peut », qui estoit le 36<hi rend="superscript">e</hi> de la coutume locale d’Amiens,
                            a esté ajouté à lad. coutume générale et à la fin d’iceluy,
                            ajoutez ces mots « s’il n’y a titre ou possession de 40 ans,
                            le tout pour avoir lieu à l’avenir. »</p>
@@ -5215,9 +5172,9 @@
                               borne ou coupe ou abat une épine réputée et tenue pour
                                  borne<ref type="noteHistorical" target="#s1Nh0220"/>,
                               il commet vers le seigneur vicomtier amande de 60
-                              [abréviation monétaire : sol] [apc : « p<hi rend="superscript">is</hi> » ; parisis] ; et si ce
+                              [abréviation monétaire : sol] <choice><abbr>p<hi rend="superscript">is</hi></abbr><expan>parisis</expan></choice> ; et si ce
                               fait arrive entre deux seigneuries, iceluy doit à chacun
-                              [apc : « seign<hi rend="superscript">r</hi> » ; seigneur]
+                              <choice><abbr>seign<hi rend="superscript">r</hi></abbr><expan>seigneur</expan></choice>
                               pareille amende ; et néantmoins, s’il le faisoit
                               malicieusement pour oster à autruy le sien, il écheeroit
                               plus grande punition à l’arbitrage du juge auquel la
@@ -5229,12 +5186,11 @@
                            <p>
                               <hi rend="bigger">Par</hi> lad. coutume, chemins qui
                                  vont<ref type="noteHistorical" target="#s1Nh0221"/>
-                              de ville à autre doivent avoir 60 [apc : « p<hi rend="superscript">ds</hi> » ; pieds] de large, et
-                              chemins vicomtiers allans de village à autre 30 [apc :
-                                 « p<hi rend="superscript">ds</hi> » ; pieds] ; et ne
+                              de ville à autre doivent avoir 60 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> de large, et
+                              chemins vicomtiers allans de village à autre 30 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> ; et ne
                               les peuvent les seigneurs apliquer à leur profit,
                               n’empêcher sur peine de 60 [abréviation monétaire : sol]
-                              [apc : « p<hi rend="superscript">is</hi> » ; parisis]
+                              <choice><abbr>p<hi rend="superscript">is</hi></abbr><expan>parisis</expan></choice>
                               envers le seigneur qui est prévenu ; sauf les chemins
                               dont anciennement et passé quarante ans <pb xml:id="s1Fol67v" n="51v"/>
                               <fw type="foliotation">67 v (f° 51 v)</fw> et plus, par bornes assis d’un côté et d’autre, l’on
@@ -5252,18 +5208,16 @@
                               chemins, et que les eaux dorment et ne se puissent
                               écouler par faute desd. becques, et autres choses non
                               relevées, les hommes de la cour dud. baillage, de<ref type="noteHistorical" target="#s1Nh0224"/> la coujure
-                              [note marginale : coujure du sgn<hi rend="superscript">r</hi> du bailly ou de son [apc : « lieuten<hi rend="superscript">t</hi> » ; lieutenant] est quand
-                              les [apc : « vass<hi rend="superscript">x</hi> » ;
-                              vasseaux] et hommes de fief sont [apc : « ass<hi rend="superscript">blez</hi> » ; assemblez] pour juger
+                              [note marginale : coujure du sgn<hi rend="superscript">r</hi> du bailly ou de son <choice><abbr>lieuten<hi rend="superscript">t</hi></abbr><expan>lieutenant</expan></choice> est quand
+                              les <choice><abbr>vass<hi rend="superscript">x</hi></abbr><expan>vasseaux</expan></choice> et hommes de fief sont <choice><abbr>ass<hi rend="superscript">blez</hi></abbr><expan>assemblez</expan></choice> pour juger
                               des différents des sujets]<ref type="noteHistorical" target="#s1Nh0225"/> dud. bailly ou de son lieutenant
                               peuvent condamner ceux qui ont ou détiennent les terres
                               voisines à faire ouverture de ce qui empêche le cours et
                               écoulement des eaux, et avec ce, pour n’en l’avoir fait,
                               ils les peuvent condamner en l’amende de 60 [abréviation
-                              monétaire : sol] [apc : « p<hi rend="superscript">is</hi> » ; parisis].</p>
+                              monétaire : sol] <choice><abbr>p<hi rend="superscript">is</hi></abbr><expan>parisis</expan></choice>.</p>
                            <p>
-                              <hi rend="bigger">Il n’y a</hi> point [mot ajouté au
-                              dessus] de remarques sur l’ancienne coutume<ref type="noteHistorical" target="#s1Nh0226"/>.</p>
+                              <hi rend="bigger">Il n’y a</hi> <add place="above">point</add> de remarques sur l’ancienne coutume<ref type="noteHistorical" target="#s1Nh0226"/>.</p>
                            <metamark rend="simpleLine alignCenter"/>
                         </div>
                      </div>
@@ -5321,7 +5275,7 @@
                                  à se réinstaller à Thérouanne à la fin du <ref target="http://catalogue.bnf.fr/ark:/12148/cb152684563/PUBLIC">
                                     <hi rend="color(0017AD)">xixe siècle</hi>
                                  </ref>, créant la « nouvelle Thérouanne ».
-                                 [...]</note>-->, située et assise [ez métes]<ref type="noteHistorical" target="#s1Nh0227"/> de la prévôté de
+                                 [...]</note>-->, située et assise <unclear reason="illegible" cert="low">ez métes</unclear><ref type="noteHistorical" target="#s1Nh0227"/> de la prévôté de
                         Montreüil sur la mer, discordante en aucuns points des coutumes
                         générales de lad. prévôté, il n’y a aucun titre particulier
                         concernant le bâtiment et les servitudes
@@ -5336,7 +5290,7 @@
                                     peuvent le faire que s’ils disposent de la maîtrise
                                     des coutumes locales.</hi>
                               </note>-->.
-                        [ce paragraphe en léger retrait]</p>
+                        <!--TODO [ce paragraphe en léger retrait] --></p>
                      <p>
                         <hi rend="bigger">Les</hi> choses en l’estat que dessus, il
                         faudra donc avoir recours tant à la coutume de Montreüil sur la
@@ -5355,7 +5309,7 @@
                         <hi rend="bigger">Dans</hi> la coutume particulière de la Comté
                         de <hi rend="bigger">S<hi rend="superscript">t</hi> Paul</hi>,
                         discordante en aucune manière de la coutume de Montreüil sur la
-                        mer, il n’y a aucun titre particulier [apc : « concern<hi rend="superscript">t</hi> » ; concernant] les bâtimens et
+                        mer, il n’y a aucun titre particulier <choice><abbr>concern<hi rend="superscript">t</hi></abbr><expan>concernant</expan></choice> les bâtimens et
                         servitudes mais il y a un titre de prescriptions dont la teneur
                         en suit.</p>
                      <div>
@@ -5367,7 +5321,7 @@
                            <fw type="foliotation">68 v (f° 52 v)</fw> personnel par le tems et espace de vingt ans continuels
                            et sans intermission entre présens, et le tems et espace de
                            trente ans, aussy sans intermission et continuels entre
-                           parties absentes et qui sont [sic. « aâgées »] et non
+                           parties absentes et qui sont <sic>aâgées</sic> et non
                            privilégiées, tel possesseur acquiert le droit de la chose
                            ainsy par luy possédée, ou dont il demeure paisible
                            possesseur led. tems en telle façon qu’après iceluy tems
@@ -5388,8 +5342,8 @@
                         Chaulny<ref type="noteHistorical" target="#s1Nh0230"/>
                   </head>
                   <div>
-                     <head>[Mis en valeur centré, gras]<lb/>Tit. 12<lb/>Des
-                        prescriptions</head>
+                     <head rend="alignCenter bold">Tit. 12 
+                        <lb/>Des prescriptions</head>
                      <div>
                         <head rend="alignCenter">Art. 62.</head>
                         <p>
@@ -5406,8 +5360,7 @@
                         <head rend="alignCenter">63.</head>
                         <p>
                            <hi rend="bigger">Item</hi> le même<ref type="noteHistorical" target="#s1Nh0232"/> est gardé qui
-                           jouit [apc : « paisiblem<hi rend="superscript">t</hi> » ;
-                           paisiblement] et sans inquiétation d’aucun héritage, rente
+                           jouit <choice><abbr>paisiblem<hi rend="superscript">t</hi></abbr><expan>paisiblement</expan></choice> et sans inquiétation d’aucun héritage, rente
                            ou droit incorporel par trente ans entiers, entre gens agez
                            et non privilégiez, présents ou absens, il prescrit ; posé
                            encore qu’il n’ait point de titre<ref type="noteHistorical" target="#s1Nh0233"/> contre tous ceux qui y voudroient
@@ -5425,7 +5378,7 @@
                            <hi rend="bigger">Item</hi>, et quand aucun a sur son
                            héritage ou édifice des vues, des goutières ou des égousts
                            qui regardent ou qui tombent sur les héritages de celuy qui
-                           luy est voisin, sans l’exprès [apc : « consentem<hi rend="superscript">t</hi> » ; consentement] de sond.
+                           luy est voisin, sans l’exprès <choice><abbr>consentem<hi rend="superscript">t</hi></abbr><expan>consentement</expan></choice> de sond.
                            voisin ou autres qui peuvent y avoir intérest, en ce cas il
                            n’acquiert, ne prescrit, posé qu’il en ait jouy par le tems
                            et espace de 40 <pb xml:id="s1Fol69v" n="53v"/>
@@ -5468,9 +5421,8 @@
                               <hi rend="bigger">Amendes</hi> pour puits à Marne<ref type="noteHistorical" target="#s1Nh0235"/> non <pb xml:id="s1Fol70" n="54"/>
                               <fw type="foliotation">70 r (f° 54 r)</fw> étoupez<ref type="noteHistorical" target="#s1Nh0236"/> et tous autres puits, trous,
                               argiles aussy non bouchez d’où pourroit s’ensuivre péril
-                              et danger, et de nouvelles [sic. «  éteutes »]<ref type="noteHistorical" target="#s1Nh0237"/> de trois
-                              jours sont de 60 [abréviation monétaire : sol] [apc :
-                                 « p<hi rend="superscript">is</hi> » ; parisis] envers
+                              et danger, et de nouvelles <sic>éteutes</sic><ref type="noteHistorical" target="#s1Nh0237"/> de trois
+                              jours sont de 60 [abréviation monétaire : sol] <choice><abbr>p<hi rend="superscript">is</hi></abbr><expan>parisis</expan></choice> envers
                               le Roy ou son seigneur, chacun en son endroit et par
                               prévention.</p>
                         </div>
@@ -5485,10 +5437,10 @@
                               de son fief et au moyen de ce le tenir franc en tout tems
                               de l’an, et en jouir franchement par luy, ses censiers et
                               rentiers ; et quant au cottières<ref type="noteHistorical" target="#s1Nh0240"/>, chacun
-                              peut licitement et [apc : « valablem<hi rend="superscript">t</hi> » ; valablement] enclore
+                              peut licitement et <choice><abbr>valablem<hi rend="superscript">t</hi></abbr><expan>valablement</expan></choice> enclore
                               jusqu’à une mesure ou cinq quarteraux<ref type="noteHistorical" target="#s1Nh0241"/> de terre
                               cottière, soit labourable ou autre, sur le chemin, ou
-                              [sic. « flégar »]<ref type="noteHistorical" target="#s1Nh0242"/>, ou en bout et issues de
+                              <sic>flégar</sic><ref type="noteHistorical" target="#s1Nh0242"/>, ou en bout et issues de
                               villes ; et au moyen de lad. clôture le tenir franc en
                               tout tems de l’an, pourvu qu’il laisse<ref type="noteHistorical" target="#s1Nh0243"/> led.
                               enclos jardinet plantez, et y édifier une maison
@@ -5525,8 +5477,7 @@
                               led. jour S<hi rend="superscript">t</hi> pierre entrant
                               aoust et non plustost<ref type="noteHistorical" target="#s1Nh0247"/>, un chacun pourra qui voudra
                               faire paturer son bétail dedans iceux prez, encore qu’ils
-                              ne [apc : « fusse<hi rend="superscript">t</hi> » ;
-                              fussent] <pb xml:id="s1Fol71" n="55"/>
+                              ne <choice><abbr>fusse<hi rend="superscript">t</hi></abbr><expan>fussent</expan></choice> <pb xml:id="s1Fol71" n="55"/>
                               <fw type="foliotation">71 r (f° 55 r)</fw> fauchez, lad. fauche faite
                               et les foins chariez et emmenez, pourra semblablement qui
                               voudra, faire paturer sond. bétail dans lesd. prez.</p>
@@ -5558,7 +5509,7 @@
                               <hi rend="bigger">Un</hi> chemin réal [en note marginale
                               à gauche : royal]<ref type="noteHistorical" target="#s1Nh0251"/> qui est communément le grand
                               chemin, par lequel on va d’un païs ou d’une ville à une
-                              autre, doit avoir de largeur 60 [apc : « p<hi rend="superscript">ds</hi> » ; pieds].</p>
+                              autre, doit avoir de largeur 60 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice>.</p>
                         </div>
                         <div>
                            <head rend="alignCenter">158.</head>
@@ -5567,10 +5518,10 @@
                               peut faire ponts, planches, planter hayes, piques,
                                  sautoüers<ref type="noteHistorical" target="#s1Nh0252"/>, ne mettre autres empêchement qu’il ne demeure en
                               lad. largeur à peine de 60 [abréviation monétaire : sol]
-                              [apc : « p<hi rend="superscript">is</hi> » ; parisis]
+                              <choice><abbr>p<hi rend="superscript">is</hi></abbr><expan>parisis</expan></choice>
                               d’amende au <pb xml:id="s1Fol71v" n="55v"/>
                               <fw type="foliotation">71 v (f° 55 v)</fw> roy, qui, comme
-                              souverain seigneur a la [apc : « connoiss<hi rend="superscript">ce</hi> » ; connoissance] des abus
+                              souverain seigneur a la <choice><abbr>connoiss<hi rend="superscript">ce</hi></abbr><expan>connoissance</expan></choice> des abus
                               qui se peuvent commettre sur leds. grands chemins, encore
                               qu’ils passent par la terre de quelq. seigneur
                               particulier.</p>
@@ -5582,26 +5533,26 @@
                               le laboureur laisser espace de trois rayes contre le
                               labourage, pour doute que la terre labourée ne gagne sur
                               led. chemin royal, sur pareille amende de 60 [abréviation
-                              monétaire : sol] [apc : « p<hi rend="superscript">is</hi> » ; parisis] envers le [apc : « seig<hi rend="superscript">r</hi> » ; seigneur] roy.</p>
+                              monétaire : sol] <choice><abbr>p<hi rend="superscript">is</hi></abbr><expan>parisis</expan></choice> envers le <choice><abbr>seig<hi rend="superscript">r</hi></abbr><expan>seigneur</expan></choice> roy.</p>
                         </div>
                         <div>
                            <head rend="alignCenter">160.</head>
                            <p>
                               <hi rend="bigger">Un</hi> chemin que l’on dit vicomtier
                               en aucun païs,<ref type="noteHistorical" target="#s1Nh0253"/> traversant au chemin croisier,
-                              doit contenir 30 [apc : « p<hi rend="superscript">ds</hi> » ; pieds] de large.</p>
+                              doit contenir 30 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> de large.</p>
                         </div>
                         <div>
                            <head rend="alignCenter">161.</head>
                            <p>
                               <hi rend="bigger">Un</hi> chemin que l’on dit Chatelin
-                              doit contenir de largeur 20 [apc : « p<hi rend="superscript">ds</hi> » ; pieds].</p>
+                              doit contenir de largeur 20 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice>.</p>
                         </div>
                         <div>
                            <head rend="alignCenter">162.</head>
                            <p>
                               <hi rend="bigger">Un</hi> chemin forain doit contenir 15
-                              [apc : « p<hi rend="superscript">ds</hi> » ; pieds].</p>
+                              <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice>.</p>
                         </div>
                         <div>
                            <head rend="alignCenter">163.</head>
@@ -5667,7 +5618,7 @@
                               jardins, manoirs l’un contre l’autre, ils doivent par le
                               droit coutumier dud. Boulenois, laisser rejet, comme
                               dessus est dit ; c’est à sçavoir, par dedans leurs bornes
-                              [ajout au-dessus : vers] le vent de mer, un pied et
+                              <add place="above">vers</add> le vent de mer, un pied et
                               demy ; et au dessous d’iceluy vent deux pieds et demy ;
                               et s’ils font clôture de morte haye, cela se doit faire
                               de borne à autre ; et s’il y avoit aucunes bornes
@@ -5716,9 +5667,8 @@
                               jardins sans bornes, et question se meut entre les
                               parties, on se doit fonder sur les anciennes épines
                               portans lignes de l’un à l’autre, et se doit enqueste
-                              faire de la [apc : « p<hi rend="superscript">ère</hi> » ;
-                              première] fondation et édification de la ville ; et celuy
-                              qui sera trouvé [apc : « p<hi rend="superscript">er</hi> » ; premier] fondé, et rallongeant lad. ville,
+                              faire de la <choice><abbr>p<hi rend="superscript">ère</hi></abbr><expan>première</expan></choice> fondation et édification de la ville ; et celuy
+                              qui sera trouvé <choice><abbr>p<hi rend="superscript">er</hi></abbr><expan>premier</expan></choice> fondé, et rallongeant lad. ville,
                               il doit apréhender à son droit lad. haye, et ce se doit
                               faire par mesureur jurez.</p>
                         </div>
@@ -5757,17 +5707,17 @@
                            <head rend="alignCenter">176.</head>
                            <p>
                               <hi rend="bigger">Si</hi> aucun marchand achète bois a un
-                              [apc : « seign<hi rend="superscript">r</hi> » ; seigneur]
-                              [apc : « auq<hi rend="superscript">l</hi> » ; auquel]
+                              <choice><abbr>seign<hi rend="superscript">r</hi></abbr><expan>seigneur</expan></choice>
+                              <choice><abbr>auq<hi rend="superscript">l</hi></abbr><expan>auquel</expan></choice>
                               bois se trouve aucune faute<ref type="noteHistorical" target="#s1Nh0265"/> de bois de chesne, ou des
                               souches de bois plantées, de faulde<ref type="noteHistorical" target="#s1Nh0266"/> ou
                               anciennes charretières<ref type="noteHistorical" target="#s1Nh0267"/>, ce se doit rabattre auxd.
                               marchands, s’il n’est réservé par le marché à la vente
                               desd. bois ; et cela se doit faire et apointer par
                               mesureurs jurez.</p>
-                           <p>[note marginale à gauche : L’[apc : « ord<hi rend="superscript">ce</hi> » ; ordonnance] des eaux et
+                           <p>[note marginale à gauche : L’<choice><abbr>ord<hi rend="superscript">ce</hi></abbr><expan>ordonnance</expan></choice> des eaux et
                               forests de 1669, réforme cet art. et dit qu’il ne sera
-                              rien rabattu pour les vuides, ni [apc : « po<hi rend="superscript">r</hi> » ; pour] les chemins, art
+                              rien rabattu pour les vuides, ni <choice><abbr>po<hi rend="superscript">r</hi></abbr><expan>pour</expan></choice> les chemins, art
                               13 du tit. de l’assiette et vente de bois.]<ref type="noteHistorical" target="#s1Nh0268"/>
                            </p>
                         </div>
@@ -5790,8 +5740,7 @@
                               eaux, au plus près des commençemens des sourgeons, porter
                               de largeur de six à sept pieds, au pied de roy ; et en
                               descendant en bas, selon ce qu’elle s’efforçent par
-                              source, se doivent maintenir en largeur de 10 à 12 [apc :
-                                 « p<hi rend="superscript">ds</hi> » ; pieds], leurd.
+                              source, se doivent maintenir en largeur de 10 à 12 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice>, leurd.
                               cours durant, jusqu’aux grosses rivières et eaux de ce
                               nom ; et cela se doit faire par mesureurs et visiteurs
                               jurez, et ainsy en ont accoutumé faire et user de tout
@@ -5891,8 +5840,8 @@
                      </head>
                      <metamark rend="simpleLine alignCenter"/>
                      <div>
-                        <head rend="alignCenter">[apc : « Chap<hi rend="superscript">re</hi> » ; Chapitre] 6<lb/>Des prescriptions et
-                           possessions</head>
+                        <head rend="alignCenter"><choice><abbr>Chap<hi rend="superscript">re</hi></abbr><expan>Chapitre</expan></choice> 6 
+                           <lb/>Des prescriptions et possessions</head>
                         <div>
                            <head rend="alignCenter">Art. 75 <ref type="noteHistorical" target="#s1Nh0270"/>
                               <hi rend="bold">.</hi>
@@ -5900,8 +5849,7 @@
                            <p>
                               <hi rend="bigger">Par</hi> [lad. coutume, prescription
                               n’a lieu pour emprise d’héritages circonvoisins, contigus
-                              et [apc : « joign<hi rend="superscript">ts</hi> » ;
-                              joignants] l’un l’autre, pour quelque longue jouissance ;
+                              et <choice><abbr>joign<hi rend="superscript">ts</hi></abbr><expan>joignants</expan></choice> l’un l’autre, pour quelque longue jouissance ;
                               n’est qu’entre lesd. héritages y eut bornes<ref type="noteHistorical" target="#s1Nh0271"/>, assens ou
                               séparations notables.</p>
                         </div>
@@ -5923,8 +5871,7 @@
                            <lb/>et Visitation de Maisons<ref type="noteHistorical" target="#s1Nh0274"/>
                         </head>
                         <div>
-                           <head rend="alignCenter">Art. 226. <ref type="noteHistorical" target="#s1Nh0275"/> [Mis en
-                              valeur : centré, gras]</head>
+                           <head rend="alignCenter">Art. 226. <ref type="noteHistorical" target="#s1Nh0275"/></head>
                            <p>
                               <hi rend="bigger">Il est dit</hi> entr’autres
                               choses, pour düement asseoir bornes entre deux maisons ou
@@ -5935,8 +5882,7 @@
                               autres à ce connoissans, en faisant deffences par le
                               prévost ou le lieutenant de toucher à telles bornes, ou
                               essens, ni fouiller à un pied près d’icelles à peine
-                              d’amende, [apc : « et<hi rend="superscript">a</hi> » ;
-                                 <hi rend="italic">et caetera</hi>].</p>
+                              d’amende, <choice><abbr>et<hi rend="superscript">a</hi></abbr><expan><foreign xml:lang="lat">et caetera</foreign></expan></choice>.</p>
                         </div>
                         <div>
                            <head rend="alignCenter">229.</head>
@@ -5979,7 +5925,7 @@
                               planter et asseoir bornes est requis ce faire présente
                               justice par arpenteurs et mesureurs sermentés [en note
                               marginale à gauche avec * : jurez] à ce évoquez les
-                              seigneurs, baillis, ou [apc : « lieuten<hi rend="superscript">ts</hi> » ; lieutenants] et ceux à
+                              seigneurs, baillis, ou <choice><abbr>lieuten<hi rend="superscript">ts</hi></abbr><expan>lieutenants</expan></choice> et ceux à
                               qui ce peut toucher.</p>
                         </div>
                         <div>
@@ -6128,7 +6074,7 @@
                               http://membres.lycos.fr/brunodevoucoux/coutumeNivernaismaisons.htm</note>--><lb/>Rédigée au Mois de Novembre 1534</head>
                   <metamark rend="simpleLine alignCenter"/>
                   <div>
-                     <head rend="alignCenter">[apc : « Chap. » ; chapitre] 10.
+                     <head rend="alignCenter"><choice><abbr>Chap.<hi rend="superscript">re</hi></abbr><expan>chapitre</expan></choice> 10.
                         <lb/>Des Maisons, murs, Rues, <lb/>Échenez, Égousts,
                         héritages aux <lb/>champs et, et Servitudes réelles</head>
                      <div>
@@ -6221,8 +6167,7 @@
                               empoissonnemens<ref type="noteHistorical" target="#s1Nh0293"/> et refaictions nécessaires ; et
                            deux mois après icelles parfaites, faire les fruits siens et
                            s’en dire saisy jusqu’à ce que son personnier l’ait
-                           remboursé, lesd. fruits perçus auparavant led. remboursement
-                           [apc : « po<hi rend="superscript">r</hi> » ; pour] rien
+                           remboursé, lesd. fruits perçus auparavant led. remboursement <choice><abbr>po<hi rend="superscript">r</hi></abbr><expan>pour</expan></choice> rien
                            compter.</p>
                      </div>
                      <div>
@@ -6253,7 +6198,7 @@
                            voisin y peut pourvoir par bâtimens faits au contraire, et
                            par autre voye<ref type="noteHistorical" target="#s1Nh0300"/> de droit ; sinon qu’il <pb xml:id="s1Fol80" n="64"/>
                            <fw type="foliotation">64</fw> y eut titre au
-                           contraire ou contradiction en [apc : « laq<hi rend="superscript">le</hi> » ; laquelle] le contredisant
+                           contraire ou contradiction en <choice><abbr>laq<hi rend="superscript">le</hi></abbr><expan>laquelle</expan></choice> le contredisant
                            fut demeuré paisiblement par 30 ans.</p>
                      </div>
                      <div>
@@ -6321,7 +6266,7 @@
                            <hi rend="bigger">Si</hi> aucun fait jetter ou jette
                            immondices ou ordures devant la maison d’autruy, portes de
                            ville, places, rues, où lieux vuides de lad. ville pour la
-                           [apc : « p<hi rend="superscript">ère</hi> » ; première]
+                           <choice><abbr>p<hi rend="superscript">ère</hi></abbr><expan>première</expan></choice>
                            fois, il est amendable de trois sols tournois, pour la
                            seconde et autres fois, <hi rend="italic">arbitrio
                               judicis</hi>
@@ -6360,11 +6305,9 @@
                         <p>
                            <hi rend="bigger">Toutesfois</hi> si aucun bâtit ez grandes
                            rues, les voisins seront tenus luy prêter patience de tenir
-                           en icelles rues ses immondices procédans de sond. [apc :
-                              « bâtim<hi rend="superscript">t</hi> » ; bâtiment],
-                           durant le tems convenable qui s’arbitrera par le juge [apc :
-                              « ord<hi rend="superscript">re</hi> » ; ordinaire] si
-                           débat y échet ; et après led. tems, sera conrtaint de faire
+                           en icelles rues ses immondices procédans de sond. <choice><abbr>bâtim<hi rend="superscript">t</hi></abbr><expan>bâtiment</expan></choice>,
+                           durant le tems convenable qui s’arbitrera par le juge <choice><abbr>ord<hi rend="superscript">re</hi></abbr><expan>ordinaire</expan></choice> si
+                           débat y échet ; et après led. tems, sera contraint de faire
                            place nette et envoïer lesd. immondices hors la ville ez
                            lieux ou lieu accoutumez et non nuisibles ; et en cas de
                            délay ou refus il est condamnable d’amende arbitraire.</p>
@@ -6451,7 +6394,7 @@
                            héritages assis en sad. justice, pourvu que la chaussée soit
                            en son <pb xml:id="s1Fol82v" n="66v"/>
                            <fw type="foliotation">66 v.</fw> fond et en sad. justice ; et en
-                           récompensant [apc : « préalablem<hi rend="superscript">t</hi> » ; préalablement], et avant que poser la bonde,
+                           récompensant <choice><abbr>préalablem<hi rend="superscript">t</hi></abbr><expan>préalablement</expan></choice>, et avant que poser la bonde,
                            ceux à qui les héritages qui sont<ref type="noteHistorical" target="#s1Nh0315"/> inondez apartiennent, d’autres
                            héritages à l’équipollent de semblable qualité et valeur au
                            dire de trois prudhommes dont les parties conviendront.</p>
@@ -6473,9 +6416,9 @@
                            garennes quand ils ont clapiers, fossez d’ancienneté<ref type="noteHistorical" target="#s1Nh0317"/> ou ancienne
                            dénomination de garennes.</p>
                         <p>
-                           <hi rend="bigger">Au</hi> surplus dud. [apc : « chap<hi rend="superscript">re</hi> » ; chapitre] des eaux, bois
+                           <hi rend="bigger">Au</hi> surplus dud. <choice><abbr>chap<hi rend="superscript">re</hi></abbr><expan>chapitre</expan></choice> des eaux, bois
                            et forests n’en sera fait icy aucune mention attendu que
-                           l’[apc : « ord<hi rend="superscript">ce</hi> » ; ordonnance]
+                           l’<choice><abbr>ord<hi rend="superscript">ce</hi></abbr><expan>ordonnance</expan></choice>
                            des eaux et forest de 1669 règle tout ce qui en dépend par
                            tout le Royaume.</p>
                         <p>
@@ -6503,7 +6446,7 @@
                   <div>
                      <head>[Textes cités]</head>
                      <div>
-                        <head rend="alignCenter">[apc : « Chap. » ; Chapitre] 6.
+                        <head rend="alignCenter"><choice><abbr>Chap.<hi rend="superscript">re</hi></abbr><expan>chapitre</expan></choice> 6.
                            <lb/>Des Estangs et Garennes</head>
                         <div>
                            <head rend="alignCenter">Art. 1 <hi rend="bold superscript">er</hi>
@@ -6524,7 +6467,7 @@
                         </div>
                      </div>
                      <div>
-                        <head rend="alignCenter">[apc : « Chap. » ; Chapitre] 10.
+                        <head rend="alignCenter"><choice><abbr>Chap.<hi rend="superscript">re</hi></abbr><expan>chapitre</expan></choice> 10.
                            <lb/>Des Servitudes réelles</head>
                         <div>
                            <head rend="alignCenter">Art. 1<hi rend="bold superscript">er</hi>.</head>
@@ -6605,7 +6548,7 @@
                            <p>
                               <hi rend="bigger">On ne</hi> peut empêcher èz rivières
                               coulans perpétuellement, que les moulins ne montent<ref type="noteHistorical" target="#s1Nh0328"/> ou qu’ils
-                              n’ayent une abée ou lancière<ref type="noteHistorical" target="#s1Nh0329"/> ouverte [apc : « po<hi rend="superscript">r</hi> » ; pour] donner cours à
+                              n’ayent une abée ou lancière<ref type="noteHistorical" target="#s1Nh0329"/> ouverte <choice><abbr>po<hi rend="superscript">r</hi></abbr><expan>pour</expan></choice> donner cours à
                               l’eau, sauf èz moulins qui ne peuvent autrement moudre
                               sans écluses.</p>
                            <p>
@@ -6665,7 +6608,7 @@
                               bâtir entre<ref type="noteHistorical" target="#s1Nh0333"/> personnes par haut et bas, ou qu’il les faut réparer,
                               celuy à qui apartient le bas est tenu faire et entretenir
                               tout le tour du bas de la muraille ou cloison, tellement
-                              que le haut se puisse porter dessus ; [apc : « ensemb<hi rend="superscript">l</hi> » ; ensemble] tenu faire le
+                              que le haut se puisse porter dessus ; <choice><abbr>ensemb<hi rend="superscript">l</hi></abbr><expan>ensemble</expan></choice> tenu faire le
                               plancher de dessus luy de poutres, soliveaux et
                                  tranches<ref type="noteHistorical" target="#s1Nh0334"/> [note marginale à droite avec * : les entrevoux et
                                  hourdis]<ref type="noteHistorical" target="#s1Nh0335"/> ; et celuy qui a le dessus est tenu autant en faire
@@ -6675,7 +6618,7 @@
                               ainsy en avant s’il y a plusieurs étages ou cénacles ; et
                               en tout cas, celuy ou ceux auxquels le dernier étage et
                               grenier apartiendra, seront tenus de faire <ref type="noteHistorical" target="#s1Nh0336"/>entretenir
-                              la couverture et [apc : « id. » ; <hi rend="italic">idem</hi>] de la [sic. « vice »]<ref type="noteHistorical" target="#s1Nh0337"/> et
+                              la couverture et <choice><abbr>id.</abbr><expan><foreign xml:lang="lat">idem</foreign></expan></choice> de la [sic. « vice »]<ref type="noteHistorical" target="#s1Nh0337"/> et
                               montée.</p>
                         </div>
                      </div>
@@ -6729,8 +6672,7 @@
                   <div>
                      <head>[Textes cités]</head>
                      <div>
-                        <head rend="alignCenter">Des droits de pâturages, [apc :
-                              « etc<hi rend="superscript">a</hi> » ; <hi rend="italic">et caetera</hi>]<ref type="noteHistorical" target="#s1Nh0338"/>
+                        <head rend="alignCenter">Des droits de pâturages, <choice><abbr>etc<hi rend="superscript">a</hi></abbr><expan><foreign xml:lang="lat">et caetera</foreign></expan></choice><ref type="noteHistorical" target="#s1Nh0338"/>
                         </head>
                         <div>
                            <head>
@@ -6740,8 +6682,8 @@
                               <hi rend="bigger">L’un</hi> des seigneurs d’un pré et
                               pâturages communs entre aucuns particuliers, et indivis,
                               ne peut faire fossoyer, boucher ni clore au préjudice de
-                              son coseigneur, [apc : « etc<hi rend="superscript">a</hi> » ; et caetera].</p>
-                           <p>Le surplus de l’[apc : « art. » ; article] concerne autre
+                              son coseigneur, <choice><abbr>etc<hi rend="superscript">a</hi></abbr><expan><foreign xml:lang="lat">et caetera</foreign></expan></choice>.</p>
+                           <p>Le surplus de l’<choice><abbr>art.</abbr><expan>article</expan></choice> concerne autre
                               chose.</p>
                            <metamark rend="simpleLine alignCenter"/>
                         </div>
@@ -6797,7 +6739,7 @@
                         <div>
                            <head rend="alignCenter">173.</head>
                            <p>
-                              <hi rend="bigger">Ne</hi> peuvent les [apc : « seign<hi rend="superscript">rs</hi> » ; seigneurs] d’estangs
+                              <hi rend="bigger">Ne</hi> peuvent les <choice><abbr>seign<hi rend="superscript">rs</hi></abbr><expan> seigneurs</expan></choice> d’estangs
                               faire vuider l’eau d’iceux par ouvertures faites à
                               l’endroit des grilles, chaussées et rechaussées par
                               lesquelles elles puissent<ref type="noteHistorical" target="#s1Nh0347"/> endommager l’héritage d’autruy ;
@@ -6825,8 +6767,7 @@
                               l’eau d’iceluy jusqu’à ce qu’il n’en reçoive perte, ne
                               dommage ; et si à ce il n’est sujet par droit de
                               servitude ou autrement ; et ne peut aucun estre contraint
-                              lever la bonde de son estang, sinon que depuis le [apc :
-                                 « p<hi rend="superscript">er</hi> » ; premier] octobre
+                              lever la bonde de son estang, sinon que depuis le <choice><abbr>p<hi rend="superscript">er</hi></abbr><expan>premier</expan></choice> octobre
                               jusqu’au 15 mars.</p>
                         </div>
                         <div>
@@ -6974,7 +6915,7 @@
                               autres villes du baillage, et entre les maisons et cours
                               joignans et contigües l’une l’autre, assises èz faubourgs
                               de lad. ville d’Orléans, le seigneur de l’un desd.
-                              héritages peut contraindre l’autre [apc : « seig<hi rend="superscript">r</hi> » ; seigneur] faire en
+                              héritages peut contraindre l’autre <choice><abbr>seig<hi rend="superscript">r</hi></abbr><expan>seigneur</expan></choice> faire en
                               commun dépens mur de clôture ; toutesfois n’est tenu de
                               le faire sinon de pierre et terre, et d’un pied et demy
                               d’épaisseur, et de deux pieds de fondemens, et sept pieds
@@ -7114,8 +7055,7 @@
                               parties y ayant droit ; et si la vuidange est faite par
                               l’héritage de l’une desd. parties, de là en avant les
                               autres parties seront tenues consécutivement endurer lad.
-                              vuidange par [apc : « le<hi rend="superscript">r</hi> » ;
-                              leur] héritage l’une après l’autre ; toutefois celuy qui
+                              vuidange par <choice><abbr>le<hi rend="superscript">r</hi></abbr><expan>leur</expan></choice> héritage l’une après l’autre ; toutefois celuy qui
                               endure et a la vuidange de son côté, ne doit payer que le
                               tiers des frais ; et l’autre partie, du côté de laquelle
                               ne seroit point faite lad. vuidange doit payer les deux
@@ -7125,8 +7065,8 @@
                            <head rend="alignCenter">250.</head>
                            <p>
                               <hi rend="bigger">Et</hi> si tels puits estoient faits et
-                              assis [apc : « joign<hi rend="superscript">t</hi> » ;
-                              joignant] des caves servant à mettre vin, ou autres
+                              assis <choice><abbr>joign<hi rend="superscript">t</hi></abbr>
+                              <expan>joignant</expan></choice> des caves servant à mettre vin, ou autres
                               biens, si tost qu’iceux puits seront pleins de la hauteur
                               desd. caves, ceux à qui apartiennent lesd. puits, seront
                               tenus les faire vuider, pour éviter que lesd. puits ne se
@@ -7177,10 +7117,9 @@
                               <hi rend="bigger">Franc aleu</hi>
                               <ref type="noteHistorical" target="#s1Nh0376"/> est
                               héritage tellement franc, qu’il ne doit fond de terre<ref type="noteHistorical" target="#s1Nh0377"/> et n’est
-                              tenu d’aucun [apc : « seig<hi rend="superscript">r</hi> » ; seigneur] foncier ; et ne doit saisine,
+                              tenu d’aucun <choice><abbr>seig<hi rend="superscript">r</hi></abbr><expan>seigneur</expan></choice>  foncier ; et ne doit saisine,
                                  desaisine<ref type="noteHistorical" target="#s1Nh0378"/>, ne autre servitude, quelle quelle soit ; mais quant
-                              à la justice il est sujet à la jurisdiction du [apc :
-                                 « seign<hi rend="superscript">r</hi> » ; seigneur]
+                              à la justice il est sujet à la jurisdiction du <choice><abbr>seign<hi rend="superscript">r</hi></abbr><expan>seigneur</expan></choice>
                               justicier, et se doit partir <pb xml:id="s1Fol91v" n="75v"/>
                               <fw type="foliotation">75 v.</fw> comme héritage
                                  casuel<ref type="noteHistorical" target="#s1Nh0379"/>, sinon qu’il y ait fief, justice ou censive<ref type="noteHistorical" target="#s1Nh0380"/> mouvant de
@@ -7200,20 +7139,18 @@
                               <hi rend="bigger">Si</hi> une maison est divisée en telle
                               manière, que l’un ait le bas d’icelle, et l’autre le
                               dessus ; celuy qui a le bas est tenu de soutenir,
-                              entretenir les édifices estans au dessous du [apc :
-                                 « p<hi rend="superscript">er</hi> » ; premier]
+                              entretenir les édifices estans au dessous du <choice><abbr>p<hi rend="superscript">er</hi></abbr><expan>premier</expan></choice>
                               plancher, ensemble iceluy premier plancher ; et celuy qui
                               a le dessus est tenu soutenir et entretenir la
                               couverture, et autres édifices qui sont sous icelle,
-                              jusqu’au [apc : « p<hi rend="superscript">er</hi> » ;
-                              premier] plancher<ref type="noteHistorical" target="#s1Nh0384"/>, s’il n’y a titre contraire ; et
+                              jusqu’au <choice><abbr>p<hi rend="superscript">er</hi></abbr><expan>premier</expan></choice> plancher<ref type="noteHistorical" target="#s1Nh0384"/>, s’il n’y a titre contraire ; et
                               seront faits et entretenus à communs frais les pavez
                               étans devant lesd. maisons.</p>
                         </div>
                         <div>
                            <head rend="alignCenter">258.</head>
                            <p>Les paveurs de la ville et faubourgs d’Orléans, ne
-                              peuvent lever les pavez estans [apc : « dev<hi rend="superscript">t</hi> » ; devant] les maisons de
+                              peuvent lever les pavez estans <choice><abbr>dev<hi rend="superscript">t</hi></abbr><expan>devant</expan></choice> les maisons de
                               lad. ville et faubourgs, sans visitation préalablement
                               faite desd. pavez, les propriétaires ou détenteurs
                               d’icelles maisons appellez, ou l’un d’eux <pb xml:id="s1Fol92" n="76"/>
@@ -7226,7 +7163,7 @@
                               réparer led. pavé par tels paveurs que bon leur semblera,
                               dedans quinzaine du jour que l’étiquette ou bulletin du
                               commandement aura esté délivré par écrit auxd.
-                              propriétaires ou locataires ; le [apc : « j<hi rend="superscript">r</hi> » ; jour] de laquelle
+                              propriétaires ou locataires ; le <choice><abbr>j<hi rend="superscript">r</hi></abbr><expan>jour</expan></choice> de laquelle
                               délivrance sera mis au pied de l’exploit de
                               commandement ; et lad. quinzaine passée, si led. pavé
                               n’est refait, le pourront les maîtres des chaussées
@@ -7259,60 +7196,45 @@
                      <p>Le 225 art. commençant « Vues et égouts » étoit le 190 de
                         l’ancienne auquel ont estez ajoutez ces mots « et tous autres
                         droits de servitudes », sans préjudice du passé.</p>
-                     <p>Les 226 [apc : « commenç<hi rend="superscript">t</hi> » ;
-                        commançant] « Mais la liberté », 227 [apc : « commenç<hi rend="superscript">t</hi> » ; commançant] « Quand un Père de
-                        famille », et 228 [apc : « commenç<hi rend="superscript">t</hi> » ; commançant] « Destination de Père de famille », ont
+                     <p>Les 226 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commançant</expan></choice> « Mais la liberté », 227 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commançant</expan></choice> « Quand un Père de
+                        famille », et 228 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commançant</expan></choice> « Destination de Père de famille », ont
                         estez accordez et ajoutez sans préjudice du passé.</p>
-                     <p>Le 230 [apc : « commenç<hi rend="superscript">t</hi> » ;
-                        commançant] « Verre dormant » a esté accordé et ajouté sans
+                     <p>Le 230 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commançant</expan></choice> « Verre dormant » a esté accordé et ajouté sans
                         préjudice du passé.</p>
-                     <p>Le 234 [apc : « commenç<hi rend="superscript">t</hi> » ;
-                        commançant] « En la ville » estoit le 180 de la coutume
+                     <p>Le 234 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commançant</expan></choice> « En la ville » estoit le 180 de la coutume
                         ancienne et ces mots « Et autres choses du baillage » ont estez
-                        ajoutez pour avoir lieu à l’avenir, le 235<hi rend="superscript">e</hi> [apc : « commenç<hi rend="superscript">t</hi> » ; commançant] « Si aucun veut
+                        ajoutez pour avoir lieu à l’avenir, le 235<hi rend="superscript">e</hi> <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commançant</expan></choice><!-- TODO vérifier rendu --> « Si aucun veut
                         bâtir » a esté accordé et ajouté sans préjudice du passé.</p>
-                     <p>Le 236 [apc : « commenç<hi rend="superscript">t</hi> » ;
-                        commançant] « Entre deux héritages » estoit le 204 de
+                     <p>Le 236 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commançant</expan></choice> « Entre deux héritages » estoit le 204 de
                         l’ancienne coutume auquel ont estez ajoutez ces mots « Et
                         autres villes du baillage » pour avoir lieu à l’avenir.</p>
-                     <p>Le 239 [apc : « commenç<hi rend="superscript">t</hi> » ;
-                        commançant] « Murailles qui ne sont droites » étoit le 200 de
-                        l’ancienne coutume [apc : « auq<hi rend="superscript">l</hi> » ; auquel] ont estez ajoutez ces mots « En danger de
+                     <p>Le 239 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commançant</expan></choice> « Murailles qui ne sont droites » étoit le 200 de
+                        l’ancienne coutume <choice><abbr>auq<hi rend="superscript">l</hi></abbr><expan>auquel</expan></choice> ont estez ajoutez ces mots « En danger de
                         ruine », pour avoir lieu à l’avenir.</p>
-                     <p>Le 243 [apc : « commenç<hi rend="superscript">t</hi> » ;
-                        commançant] « Aucun ne peut faire » estoit <pb xml:id="s1Fol93" n="77"/>
+                     <p>Le 243 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commançant</expan></choice> « Aucun ne peut faire » estoit <pb xml:id="s1Fol93" n="77"/>
                         <fw type="foliotation">77</fw> le 199 de
                         l’ancienne et qu’il a été ajouté et pour avoir lieu à
                         l’avenir.</p>
-                     <p>Le 244 [apc : « commenç<hi rend="superscript">t</hi> » ;
-                        commançant] « Tous proprétaires », a esté accordé et ajouté
+                     <p>Le 244 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commançant</expan></choice> « Tous proprétaires », a esté accordé et ajouté
                         pour avoir lieu à l’avenir.</p>
-                     <p>Le 245 [apc : « commenç<hi rend="superscript">t</hi> » ;
-                        commançant] « Et seront tenus » a esté accordé et ajouté sans
+                     <p>Le 245 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commançant</expan></choice> « Et seront tenus » a esté accordé et ajouté sans
                         préjudice du passé.</p>
-                     <p>Le 251 [apc : « commenç<hi rend="superscript">t</hi> » ;
-                        commançant] « Si par les héritages » estoit le 205 de
+                     <p>Le 251 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commançant</expan></choice> « Si par les héritages » estoit le 205 de
                         l’ancienne et ces mots « Par quelque temps que ce soit » ont
                         estez ajoutez pour explication.</p>
-                     <p>Le 252 [apc : « commenç<hi rend="superscript">t</hi> » ;
-                        commançant] « Quand entre deux héritages » étoit le 212 de
+                     <p>Le 252 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commançant</expan></choice> « Quand entre deux héritages » étoit le 212 de
                         l’ancienne et au lieu de ce mot « demeuré » a esté mis ce mot
                         « réputé », sans préjudice du passé.</p>
-                     <p>Le 254 [apc : « commenç<hi rend="superscript">t</hi> » ;
-                        commançant] « Tout toisage » a esté mis au lieu du 213 de
+                     <p>Le 254 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commançant</expan></choice> « Tout toisage » a esté mis au lieu du 213 de
                         l’ancienne, sans préjudice du passé.</p>
-                     <p>Le 255 [apc : « commenç<hi rend="superscript">t</hi> » ;
-                        commançant] « Franc aleu » estoit le 214 de l’ancienne auquel
+                     <p>Le 255 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commançant</expan></choice> « Franc aleu » estoit le 214 de l’ancienne auquel
                         ont estez ajoutez ces mots « auquel cas il se répartira comme
                         le fief », pour avoir lieu à l’avenir.</p>
-                     <p>Le 256 [apc : « commenç<hi rend="superscript">t</hi> » ;
-                        commançant] « Il n’est loisible » estoit le 201 de l’ancienne,
+                     <p>Le 256 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commançant</expan></choice> « Il n’est loisible » estoit le 201 de l’ancienne,
                         et ces mots « ou à la navigation » ont estez ajoutez.</p>
-                     <p>Le 257 [apc : « commenç<hi rend="superscript">t</hi> » ;
-                        commançant] « Si une maison » estoit le 215 de l’ancienne,
+                     <p>Le 257 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commançant</expan></choice> « Si une maison » estoit le 215 de l’ancienne,
                         l’ajouté fait à la fin de l’art. sans préjudice du passé.</p>
-                     <p>Le 258 [apc : « commenç<hi rend="superscript">t</hi> » ;
-                        commançant] « Les paveurs » et 259 [apc : « commenç<hi rend="superscript">t</hi> » ; commançant] « Il n’est
+                     <p>Le 258 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commançant</expan></choice> « Les paveurs » et 259 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commançant</expan></choice> « Il n’est
                         loisible » ont estez accordez et ajoutez pour avoir lieu à
                         l’avenir.</p>
                      <metamark rend="simpleLine alignCenter"/>
@@ -7423,8 +7345,7 @@
                            <head rend="alignCenter">612.</head>
                            <p>
                               <hi rend="bigger">De</hi> tout mur mitoyen, chacun des
-                              voisins [apc : « auq<hi rend="superscript">l</hi> » ;
-                                 auquel]<ref type="noteHistorical" target="#s1Nh0390"/> apartient peut s’ayder et percer led. mur, tout
+                              voisins <choice><abbr>auq<hi rend="superscript">l</hi></abbr><expan>auquel</expan></choice><ref type="noteHistorical" target="#s1Nh0390"/> apartient peut s’ayder et percer led. mur, tout
                               outre, pour passer ses poutres et sommiers<ref type="noteHistorical" target="#s1Nh0391"/> en
                               bouchant les pertuis ; même pour asseoir les courges<ref type="noteHistorical" target="#s1Nh0392"/> et
                               consoles des cheminées à fleur dud. mur ; et est tenu en
@@ -7432,7 +7353,7 @@
                               moitié dud. mur [sic. « entière »] et quatre poulces en
                               outre pour servir de contrefeu ; et ne pourra le voisin
                               mettre aucuns sommiers contre ni à l’endroit de lad.
-                              cheminée qui aura esté [apc : « premièrem<hi rend="superscript">t</hi> » ; premièrement] bâtie.</p>
+                              cheminée qui aura esté <choice><abbr>premièrem<hi rend="superscript">t</hi></abbr><expan>premièrement</expan></choice> bâtie.</p>
                         </div>
                         <div>
                            <head rend="alignCenter">613.</head>
@@ -7444,7 +7365,7 @@
                               lad. moitié, et la hausser, si ainsy est que le mur soit
                               assez fort et épais pour commodément <pb xml:id="s1Fol95" n="79"/>
                               <fw type="foliotation">79</fw> porter la
-                              structure et servir aux choses pour [apc : « lesq<hi rend="superscript">les</hi> » ; lesquelles] il est
+                              structure et servir aux choses pour <choice><abbr>lesq<hi rend="superscript">les</hi></abbr><expan>lesquelles</expan></choice> il est
                               haussé.</p>
                         </div>
                         <div>
@@ -7478,8 +7399,7 @@
                            <head rend="alignCenter">617.</head>
                            <p>
                               <hi rend="bigger">Toutesfois</hi> si aucun a mur à luy
-                              seul [apc : « aparten<hi rend="superscript">t</hi> » ;
-                              appartenant], joignant sans moyen à l’héritage d’autruy,
+                              seul <choice><abbr>aparten<hi rend="superscript">t</hi></abbr><expan>appartenant</expan></choice>, joignant sans moyen à l’héritage d’autruy,
                               il peut en iceluy mur avoir fenestres et lumières ou
                               vues, pourvu qu’elles soient sept pieds en haut, tant au
                               premier que second étage, le tout ferré et vitré, sans
@@ -7542,7 +7462,7 @@
                               cour et fermer de portes, parce que les cohéritiers pour
                               leur usage auront chacun une clef des serrures ; et ne
                               pourra lad. servitude estre possédée par autres personnes
-                              que par celuy ou ceux [apc : « lesq<hi rend="superscript">ls</hi> » ; lesquels] possèdent les héritages à cause
+                              que par celuy ou ceux <choice><abbr>lesq<hi rend="superscript">ls</hi></abbr><expan>lesquels</expan></choice> possèdent les héritages à cause
                               desquels est due lad. servitude.</p>
                         </div>
                         <div>
@@ -7648,7 +7568,7 @@
                               s’acquièrent par longue jouissance quelle quelle soit,
                               sans titre, encore que l’on en ait jouy par cent ans ;
                               mais la liberté se peut réacquérir contre le titre de
-                              servitude, par [apc : « empèchem<hi rend="superscript">t</hi> » ; empêchement]<ref type="noteHistorical" target="#s1Nh0400"/> ou acte contraire à lad.
+                              servitude, par <choice><abbr>empèchem<hi rend="superscript">t</hi></abbr><expan>empêchement</expan></choice><ref type="noteHistorical" target="#s1Nh0400"/> ou acte contraire à lad.
                               servitude, continué par 30 ans, entre agèz et non
                                  privilégièz<ref type="noteHistorical" target="#s1Nh0401"/>.</p>
                         </div>
@@ -7698,7 +7618,7 @@
                               puits, ou bien puits d’un costé, et aisances de l’autre,
                               suffit qu’il y ait quatre pieds de maçonnerie d’épaisseur
                               entre deux, comprenant l’épaisseur des murs d’une part et
-                              d’autre, mais entre deux puits suffisent 3 [apc : « p<hi rend="superscript">ds</hi> » ; pieds] pour le
+                              d’autre, mais entre deux puits suffisent 3 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> pour le
                               moins.</p>
                         </div>
                         <div>
@@ -7790,7 +7710,7 @@
                               apartenant, <pb xml:id="s1Fol99v" n="83v"/>
                               <fw type="foliotation">83 v.</fw> joignant sans moyen à l’héritage
                               d’autruy, il peut en iceluy mur avoir ou faire<ref type="noteHistorical" target="#s1Nh0408"/> fenestres,
-                              lumières ou vues ; c’est à sçavoir quant au [apc : « p<hi rend="superscript">er</hi> » ; premier] étage [note
+                              lumières ou vues ; c’est à sçavoir quant au <choice><abbr>p<hi rend="superscript">er</hi></abbr><expan>premier</expan></choice> étage [note
                               marginale à gauche avec *: on veut entendre l’étage d’en
                               bas appelé rez de chaussée] au dessus de cinq pieds trois
                               poulces, à prendre du rez de chaussée et terre, si led.
@@ -7841,8 +7761,7 @@
                               n’y a titre au contraire, en le dénonçant toutesfois au
                               préalable à son voisin ; et est tenu faire
                                  incontinent<ref type="noteHistorical" target="#s1Nh0409"/> et sans discontinuation led.
-                              [apc : « rétablissem<hi rend="superscript">t</hi> » ;
-                              rétablissement]. </p>
+                              <choice><abbr>rétablissem<hi rend="superscript">t</hi></abbr><expan>rétablissement</expan></choice>. </p>
                         </div>
                         <div>
                            <head rend="alignCenter">191.</head>
@@ -7894,8 +7813,7 @@
                            <p>Chacun peut contraindre son voisin à contribuer pour
                               faire clôture faisant séparation de leurs maisons, cours
                               et jardins assis en lad. ville de Calais jusqu’à la
-                              hauteur de 9 [apc : « p<hi rend="superscript">ds</hi> » ;
-                              pieds] de haut du rez de chaussée, compris le
+                              hauteur de 9 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> de haut du rez de chaussée, compris le
                                  chaperon<ref type="noteHistorical" target="#s1Nh0413"/>.</p>
                         </div>
                         <div>
@@ -7925,11 +7843,10 @@
                            <head rend="alignCenter">198.</head>
                            <p>
                               <hi rend="bigger">Et</hi> néantmoins èz cas des deux
-                              précédents [apc : « art. » ; articles], est led. voisin
+                              précédents <choice><abbr>art.</abbr><expan>articles</expan></choice>, est led. voisin
                               reçu, quand bon luy semble, à demander moitié dud. mur
                               bâti et fond d’iceluy, ou à rentrer en son premier droit
-                              en [apc : « rembours<hi rend="superscript">t</hi> » ;
-                              remboursant] moitié dud. mur et fond d’iceluy.</p>
+                              en <choice><abbr>rembours<hi rend="superscript">t</hi></abbr><expan>remboursant</expan></choice> moitié dud. mur et fond d’iceluy.</p>
                         </div>
                         <div>
                            <head rend="alignCenter">199.</head>
@@ -8012,8 +7929,7 @@
                            <p>
                               <hi rend="bigger">Le voisin</hi> peut contraindre son
                               voisin à clore entre leurs héritages de murailles de
-                              hauteur de 7 [apc : « p<hi rend="superscript">ds</hi> » ;
-                              pieds] hors terre dedans Dourdan, faubourgs d’iceluy,
+                              hauteur de 7 <choice><abbr>p<hi rend="superscript">ds</hi></abbr><expan>pieds</expan></choice> hors terre dedans Dourdan, faubourgs d’iceluy,
                               villes et fauxbourgs d’iceluy baillage, soit en maisons,
                               jardins et héritages.</p>
                         </div>
@@ -8033,7 +7949,7 @@
                               les 24 heures après.</p>
                            <p>
                               <pb xml:id="s1Fol102v" n="86v"/>
-                              <fw type="foliotation">86, v.</fw> Les [apc : « art. » ; articles] 61 et 62
+                              <fw type="foliotation">86, v.</fw> Les <choice><abbr>art.</abbr><expan>articles</expan></choice> 61 et 62
                               sont au sujet de la pasture des bestiaux<ref type="noteHistorical" target="#s1Nh0418"/>.</p>
                         </div>
                         <div>
@@ -8276,8 +8192,7 @@
                            <head rend="alignCenter">3.</head>
                            <p>
                               <hi rend="bigger">Si</hi> en mur mitoyen et
-                                 personnier<ref type="noteHistorical" target="#s1Nh0442"/> y a en [apc : « quelq. » ;
-                              quelques] endroits, fenestrages prenans vues et regards
+                                 personnier<ref type="noteHistorical" target="#s1Nh0442"/> y a en <choice><abbr>quelq.</abbr><expan>quelques</expan></choice> endroits, fenestrages prenans vues et regards
                               sur le voisin et dont l’autre voisin ait jouy par trente
                               ans, il jouira en cet endroit de lad. vue ; mais ja pour
                               ce n’aura il droit indistinctement par tous tels endroits
@@ -8306,7 +8221,7 @@
                               hauteur qu’ils sont pour lors selon que par visitation
                               d’experts convenus<ref type="noteHistorical" target="#s1Nh0443"/> par justice, ils se trouvent
                               pendans et corrompus ; mais s’il veut les rehausser plus
-                              qu’à leur hauteur [apc : « p<hi rend="superscript">ère</hi> » ; première], faire le doit à ses frais, en
+                              qu’à leur hauteur <choice><abbr>p<hi rend="superscript">ère</hi></abbr><expan>première</expan></choice>, faire le doit à ses frais, en
                               y faisant faire pour témoignage des fenestres de
                               maçonneries de la hauteur de cinq quart de pied et de
                               large un tiers en la partie de son voisin, et de son
@@ -8537,7 +8452,7 @@
                               repasser ou mener son bétail vain paître en l’héritage
                               d’autruy, lorsqu’il n’est en garde ou deffence,
                               n’acquiert droit ni possession de servitude de passage ou
-                              vain pâturage, et n’empêche que [apc : « l<hi rend="superscript">r</hi> » ; leur] seigneur ce non
+                              vain pâturage, et n’empêche que <choice><abbr>l<hi rend="superscript">r</hi></abbr><expan>leur</expan></choice> seigneur ce non
                               obstant, n’en puisse faire proffit, si ce n’est qu’il
                               compte de titre, ou que depuis la contradiction du
                               seigneur, il y eut prescription de 30 ans.</p>
@@ -8653,14 +8568,10 @@
                            <hi rend="bigger">À la fin</hi> de lad. rubriche, ont êtez
                            mis ces mots, « Et autres servitudes » au lieu de ces mots,
                            « Et Latrines ».</p>
-                        <p>Au 212<hi rend="superscript">e</hi> [apc : « art. » ;
-                           article] commençant « Vues et égousts » qui estoit le [apc :
-                              « p<hi rend="superscript">er</hi> » ; premier] [apc :
-                           « art. » ; article] dud. titre en l’ancien cahier, après ces
+                        <p>Au 212<hi rend="superscript">e</hi> <choice><abbr>art.</abbr><expan>article</expan></choice> commençant « Vues et égousts » qui estoit le <choice><abbr>p<hi rend="superscript">er</hi></abbr><expan>premier</expan></choice> <choice><abbr>art.</abbr><expan>article</expan></choice> <choice><abbr>dud.</abbr><expan>dudit</expan></choice><!-- TODO vérifier rendu --> titre en l’ancien cahier, après ces
                            mots « maintenues », ont estez ajoutez ceux cy « fussent de
                            cent ans ou plus ».</p>
-                        <p>À la fin du 213<hi rend="superscript">e</hi> [apc :
-                           « art. » ; article] [apc : « commenç<hi rend="superscript">t</hi> » ; commançant] « Nul ne peut » qui estoit le
+                        <p>À la fin du 213<hi rend="superscript">e</hi> <choice><abbr>art.</abbr><expan>article</expan></choice> <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commançant</expan></choice> « Nul ne peut » qui estoit le
                            second dud. titre, ont estez ajoutez ces mots « de fond en
                            comble ».</p>
                         <metamark rend="simpleLine alignCenter"/>
@@ -8756,7 +8667,7 @@
                               retenue d’eaux ; et en ce faisant submerger les domaines
                               de ses sujets estans en son fief, en les récompensant
                               préalablement ; sinon qu’il y eut maison ou fief au
-                              dedans desd. domaines ; aussy peut le [apc : « seig<hi rend="superscript">r</hi> » ; seigneur] du fief<ref type="noteHistorical" target="#s1Nh0481"/>, faire en
+                              dedans desd. domaines ; aussy peut le <choice><abbr>seig<hi rend="superscript">r</hi></abbr><expan>seigneur</expan></choice> du fief<ref type="noteHistorical" target="#s1Nh0481"/>, faire en
                               son fief, fuye ou garenne si bon luy semble.</p>
                            <metamark rend="simpleLine alignCenter"/>
                         </div>
@@ -8778,7 +8689,7 @@
                         sinon qu’en la comprinse<ref type="noteHistorical" target="#s1Nh0484"/> desd. étangs, ou étang, y eut moulin
                            bannier<ref type="noteHistorical" target="#s1Nh0485"/>,
                         garenne, édifice de maison, ou autres grands édifices, aussy
-                        que lesd. terres ne [apc : « soie<hi rend="superscript">t</hi> » ; soient] tenues noblement<ref type="noteHistorical" target="#s1Nh0486"/>.</p>
+                        que lesd. terres ne <choice><abbr>soie<hi rend="superscript">t</hi></abbr><expan>soient</expan></choice> tenues noblement<ref type="noteHistorical" target="#s1Nh0486"/>.</p>
                      <p>Et par lad. coutume, le roturier<ref type="noteHistorical" target="#s1Nh0487"/> ne peut faire ne asseoir bonde, ou
                         bonder en édifice d’estangs, sans le congé du seigneur
                         justicier, et sans luy faire devoir de lad. bonde, qui concerne
@@ -8848,17 +8759,15 @@
                            <p>
                               <hi rend="bigger">Le</hi> seigneur du fief peut faire
                               étang en son fief et neusse<ref type="noteHistorical" target="#s1Nh0496"/>, pourvû que la chaussée<ref type="noteHistorical" target="#s1Nh0497"/> soit nouée
-                              par les deux bouts en son domaine ; et si led. [apc :
-                                 « seig<hi rend="superscript">r</hi> » ; seigneur] de
+                              par les deux bouts en son domaine ; et si led. <choice><abbr>seig<hi rend="superscript">r</hi></abbr><expan>seigneur</expan></choice> de
                               fief noye les prez ou terres de ses sujets par led.
                               estang, il les peut ou<ref type="noteHistorical" target="#s1Nh0498"/> doit contenter par échange
                               avenant ; et ne le peuvent empêcher sesd. sujets, pourvu
-                              que le dédommagement soit fait auxd. sujets [apc :
-                                 « parav<hi rend="superscript">t</hi> » ; paravant] que
+                              que le dédommagement soit fait auxd. sujets <choice><abbr>parav<hi rend="superscript">t</hi></abbr><expan>paravant</expan></choice> que
                               les héritages desd. sujets soient submergez, n’autrement
                               empêchez ; et lequel dédommagement doit estre fait
                               préalablement auxd. sujets, en autres héritages, et de
-                              telle valeur [apc : « come » (il y a un tilde sur le <hi rend="italic">m</hi>) ; comme] ceux desd. sujets,<ref type="noteHistorical" target="#s1Nh0499"/> empêchez
+                              telle valeur <choice><abbr>come</abbr><expan>comme</expan></choice><!-- TODO (il y a un tilde sur le <hi rend="italic">m</hi>)  --> ceux desd. sujets,<ref type="noteHistorical" target="#s1Nh0499"/> empêchez
                               par led. étang.</p>
                            <metamark rend="simpleLine alignCenter"/>
                            <p>
@@ -8869,7 +8778,7 @@
                      </div>
                      <div>
                         <head rend="alignCenter">Treizième Partye <lb/>En laquelle est
-                           traité des <lb/>Prescriptions, [apc : « etc<hi rend="superscript">a</hi> » ; et caetera]</head>
+                           traité des <lb/>Prescriptions, <choice><abbr>etc<hi rend="superscript">a</hi></abbr><expan><foreign xml:lang="lat">et caetera</foreign></expan></choice></head>
                         <div>
                            <head rend="alignCenter">Art. 449.</head>
                            <p>
@@ -8899,8 +8808,7 @@
                               en pétitoire que possessoire, ainsy que l’on voit estre
                               raisonnable pour le tems desd. débats, appelez à ce
                               prudes gens non suspects avec les juges<ref type="noteHistorical" target="#s1Nh0508"/> sçavans et
-                              [apc : « connoiss<hi rend="superscript">s</hi> » ;
-                              connoissans] en telles choses sans recevoir aucun à
+                              <choice><abbr>connoiss<hi rend="superscript">s</hi></abbr><expan>connoissans</expan></choice> en telles choses sans recevoir aucun à
                               alleguer possession au contraire, mais est on reçu à
                               alléguer pactions<ref type="noteHistorical" target="#s1Nh0509"/>, stipulations<ref type="noteHistorical" target="#s1Nh0510"/>,
                                  appointemens<ref type="noteHistorical" target="#s1Nh0511"/> ou autres consentemens des
@@ -8965,7 +8873,7 @@
                      <head>[Remarque]</head>
                      <p>
                         <hi rend="bigger">Il</hi> n’y a point de remarques sur
-                        l’ancienne coutume, [apc : « touch<hi rend="superscript">t</hi> » ; touchant] les servitudes.</p>
+                        l’ancienne coutume, <choice><abbr>touch<hi rend="superscript">t</hi></abbr><expan>touchant</expan></choice> les servitudes.</p>
                      <metamark rend="simpleLine alignCenter"/>
                      <!-- TODO <p>
                               <hi rend="background(yellow)">Il n’y a pas de titre
@@ -9006,7 +8914,7 @@
                         <p>Le seigneur de fief peut faire étang en son fief et
                               nuesse<ref type="noteHistorical" target="#s1Nh0523"/>,
                            pourvu que la chaussée en soit nouée par les deux bouts en
-                           son domaine ; et si led. [apc : « seig<hi rend="superscript">r</hi> » ; seigneur] de fief noïe les prez ou autre
+                           son domaine ; et si led. <choice><abbr>seig<hi rend="superscript">r</hi></abbr><expan>seigneur</expan></choice> de fief noïe les prez ou autre
                            héritages de ses sujets par led. estang, il les peut
                            contenter par <pb xml:id="s1Fol116v" n="100v"/>
                            <fw type="foliotation">100 v.</fw> échange avenant, et ne le
@@ -9033,8 +8941,7 @@
                            latentes ou aparentes ; et en doit on juger tant en
                            petitoire que possessoire, ainsy qu’on voit estre
                            raisonnable pour le temps desd. débats, appellez à ce
-                           prudentes gens non suspects avec les jurez sçavans et [apc :
-                              « connoiss<hi rend="superscript">s</hi> » ; connoissans]
+                           prudentes gens non suspects avec les jurez sçavans et <choice><abbr>connoiss<hi rend="superscript">s</hi></abbr><expan>connoissans</expan></choice>
                            en telles choses, sans recevoir aucun à alléguer possessions
                            au contraire ; mais on est reçu à alléguer pactions,
                            stipulations, appointemens, ou autre consentement des
@@ -9110,7 +9017,7 @@
                               de le mener pâturer aux bois, taillis, vignes, prez, <hi rend="color(FF0000)">aulnays</hi> et autres héritages
                               plantez d’arbres fruitiers sur peine d’amende arbitraire,
                               et des despens, dommages et intérests, desquels et de la
-                              prinse les preneurs soit [apc : « propriét<hi rend="superscript">res</hi> » ; propriétaires]
+                              prinse les preneurs soit <choice><abbr>propriét<hi rend="superscript">res</hi></abbr><expan>propriétaires</expan></choice>
                               métayers, fermiers ou voisins seront crus par serment, et
                               du dommage ainsi que dit est.</p>
                         </div>
@@ -9137,7 +9044,7 @@
                      <head rend="alignCenter">Remarques sur l’ancienne coutume<ref type="noteHistorical" target="#s1Nh0529"/>
                      </head>
                      <p>
-                        <hi rend="bigger">Les</hi> art. 219 [apc : « commenç<hi rend="superscript">t</hi> » ; commançant] « De toutes
+                        <hi rend="bigger">Les</hi> art. 219 <choice><abbr>commenç<hi rend="superscript">t</hi></abbr><expan>commançant</expan></choice> « De toutes
                         prinses », et 220 commençant « Le voisin ne peut », ont estez
                         accordez pour avoir lieu à l’avenir.</p>
                      <metamark rend="simpleLine alignCenter"/>
@@ -9173,7 +9080,7 @@
                               en tout ce que dit est, par quelque tems ou jouissance
                               que ce soit, s’il n’y a servitudes constituées au
                               contraire.</p>
-                           <p>Les 96 et 97 [apc : « art. » ; articles] qui sont les
+                           <p>Les 96 et 97 <choice><abbr>art.</abbr><expan>articles</expan></choice> qui sont les
                               deux derniers dud. chapitre ne concernent pas les
                               servitudes mais seulement les prescriptions d’autres
                               choses.</p>
@@ -9183,10 +9090,10 @@
                   <div>
                      <head>[Remarque]</head>
                      <p>
-                        <hi rend="bigger">Par</hi> le procès verbal, il est dit sur le
-                        [apc : « chap<hi rend="superscript">re</hi> » ; chapitre] des
+                        <hi rend="bigger">Par</hi> le procès verbal, il est dit sur le 
+                        <choice><abbr>chap<hi rend="superscript">re</hi></abbr><expan>chapitre</expan></choice> des
                         servitudes et prescriptions, les 94, 95 et 96 art. couchez aud.
-                        [apc : « chap<hi rend="superscript">re</hi> » ; chapitre] sont
+                        <choice><abbr>chap<hi rend="superscript">re</hi></abbr><expan>chapitre</expan></choice> sont
                         passez et accordez pour coutume.</p>
                      <metamark rend="simpleLine alignCenter"/>
                      <!-- TDO <p>[fol. 117 v (f° 102 v), titre courant : « Coutumes de
@@ -9199,7 +9106,8 @@
                   </div>
                </div>
                <div type="chapter">
-                  <head rend="alignCenter">Coutume de Chartres <lb/>Rédigée <date when="1508-10">au mois d’Octobre 1508</date>
+                  <head rend="alignCenter">Coutume de Chartres 
+                     <lb/>Rédigée <date when="1508-10">au mois d’Octobre 1508</date>
                   </head>
                   <metamark rend="simpleLine alignCenter"/>
                   <div>
@@ -9209,7 +9117,8 @@
                            <choice>
                               <abbr>Chap.</abbr>
                               <expan>Chapitre</expan>
-                           </choice> 13. <lb/>Des Servitudes et prescriptions</head>
+                           </choice> 13. 
+                           <lb/>Des Servitudes et prescriptions</head>
                         <div>
                            <head rend="alignCenter">Art. 79.</head>
                            <p>
@@ -9299,7 +9208,7 @@
                            point de prescription par quelque tems et jouissance qu’on
                            en ait jouy, s’il n’y a servitudes constituées au
                            contraire.</p>
-                        <p>Les 69 et 70 [apc : « art. » ; articles] qui sont les
+                        <p>Les 69 et 70 <choice><abbr>art.</abbr><expan>articles</expan></choice> qui sont les
                            derniers dud. chapitre concernent les prescriptions et
                            autres matières que de servitudes.</p>
                         <metamark rend="simpleLine alignCenter"/>
@@ -9457,8 +9366,7 @@
                            <p>
                               <hi rend="bigger">On</hi> ne peut empêcher èz rivières
                               courans perpétuellement, que les moulins ne meulent ou
-                              qu’ils n’[apc : « aye<hi rend="superscript">t</hi> » ;
-                              ayent] une allée ouverte pour donner cours à l’eau ; sauf
+                              qu’ils n’<choice><abbr>aye<hi rend="superscript">t</hi></abbr><expan>ayent</expan></choice> une allée ouverte pour donner cours à l’eau ; sauf
                               èz rivières et moulins qui ne peuvent moudre sans retenue
                               d’eau et sans écluses, et qui en ont ainsy jouy le tems
                               passé ; toutesfois ne pourra en retenir l’eau, en manière
@@ -9512,8 +9420,7 @@
                            <p>
                               <hi rend="bigger">En</hi> mur mitoyen, le premier qui
                               assied ses cheminées, l’autre ne luy peut faire ôter ni
-                              reculer, en laissant par moitié du mur et une chantillle
-                              [apc : « po<hi rend="superscript">r</hi> » ; pour]
+                              reculer, en laissant par moitié du mur et une chantillle <choice><abbr>po<hi rend="superscript">r</hi></abbr><expan>pour</expan></choice>
                               contrefeu ; mais au regard des lanciers et jambes de
                               cheminées et simaises, il peut percer led. mur outre, et
                               y asseoir ses lanciers et simaises à fleur dud. mur.</p>
@@ -9792,8 +9699,7 @@
                               lad. servitude, ou autrement par convention faite entre
                               les parties, est tenu de faire faire sa fenestre, ou
                               autre ouverture, à hauteur de terre du bas du plancher de
-                              sept pieds pour le moins, la barrer compétemment et
-                              [apc : « surem<hi rend="superscript">t</hi> » ; sûrement]
+                              sept pieds pour le moins, la barrer compétemment et <choice><abbr>surem<hi rend="superscript">t</hi></abbr><expan>sûrement</expan></choice>
                               en manière que par lad. ouverture on ne puisse entrer en
                               la maison ou jardin du voisin, et y mettre du ver dormant
                               ou châssis de toile ou papier, afin que l’on ne puisse
@@ -9804,7 +9710,7 @@
                            <head rend="alignCenter">14.</head>
                            <p>
                               <hi rend="bigger">Le fossé</hi> estant entre deux
-                              héritages appartient au [apc : « seig<hi rend="superscript">r</hi> » ; seigneur] de l’héritage
+                              héritages appartient au <choice><abbr>seig<hi rend="superscript">r</hi></abbr><expan>seigneur</expan></choice> de l’héritage
                               du costé duquel est le jet dud. fossé ; et s’il est des
                               deux cotez, est commun, et le semblable s’il n’y a
                               apparence de jet.</p>
@@ -9868,8 +9774,7 @@
                               arbitraire ; si ce n’est quant aux chèvres en cas de
                               nécessité, pour malades et nourritures des petits
                               enfans.</p>
-                           <p>Les [apc : « art. » ; articles] 19 et 20 sont des [apc :
-                              « art. » ; articles] de police pour lesd. villes qui font
+                           <p>Les <choice><abbr>art.</abbr><expan>articles</expan></choice> 19 et 20 sont des  <choice><abbr>art.</abbr><expan>articles</expan></choice> de police pour lesd. villes qui font
                               deffenses de mettre dans les rues ni fossez, fumiers,
                               ordures, pierres, gravois et immondices.</p>
                         </div>
@@ -9882,7 +9787,7 @@
                               durant le tems requis pour la construction des édifices,
                               faire mener au devant de leurs maisons ès rues publiques
                               desd. villes, les pierres, chaux, sable et autres
-                              matières nécessaires [apc : « po<hi rend="superscript">r</hi> » ; pour] la construction.</p>
+                              matières nécessaires <choice><abbr>po<hi rend="superscript">r</hi></abbr><expan>pour</expan></choice> la construction.</p>
                            <p>
                               <pb xml:id="s1Fol127v" n="111v"/>
                               <fw type="foliotation">111, v.</fw>
@@ -9974,7 +9879,7 @@
                      <head>[Remarque]</head>
                      <p>
                         <hi rend="bigger">Il</hi> n’y a point de remarques sur
-                        l’ancienne coutume touchant les [apc : « art. » ; articles] cy
+                        l’ancienne coutume touchant les <choice><abbr>art</abbr><expan>articles</expan></choice> cy
                            dessus<ref type="noteHistorical" target="#s1Nh0559"/>.</p>
                      <metamark rend="simpleLine alignCenter"/>
                      <!-- TODO <p>
@@ -9997,7 +9902,7 @@
                   <div>
                      <head>[Textes cités]</head>
                      <div>
-                        <head rend="alignCenter">[apc : « Chap. » ; Chapitre] 21<ref type="noteHistorical" target="#s1Nh0560"/>
+                        <head rend="alignCenter"><choice><abbr>Chap.</abbr><expan>Chapitre</expan></choice> 21<ref type="noteHistorical" target="#s1Nh0560"/>
                            <lb/>Des Servitudes et Raports de Jurez</head>
                         <div>
                            <head>
@@ -10005,8 +9910,7 @@
                               gras]</head>
                            <p>
                               <hi rend="bigger">En</hi> mur commun, on ne peut sans le
-                              [apc : « consentem<hi rend="superscript">t</hi> » ;
-                              consentement] de son commun faire vues.</p>
+                              <choice><abbr>consentem<hi rend="superscript">t</hi></abbr><expan>consentement</expan></choice> de son commun faire vues.</p>
                         </div>
                         <div>
                            <head>
@@ -10014,8 +9918,7 @@
                               gras]</head>
                            <p>
                               <hi rend="bigger">Si</hi> en terre commune l’un des communs
-                              édifie mur, et l’autre commun s’en veuille ayder [apc :
-                                 « po<hi rend="superscript">r</hi> » ; pour] édifier,
+                              édifie mur, et l’autre commun s’en veuille ayder <choice><abbr>po<hi rend="superscript">r</hi></abbr><expan>pour</expan></choice> édifier,
                               ou autre chose faire, il le pourra faire en payant la
                               moitié au prorata de ce qui joint son héritage ; et le
                               pourra empêcher celuy qui l’aura édifié, jusqu’à ce qu’il
@@ -10182,7 +10085,7 @@
                               trouvé portant ou ayant porté immondicitez ou ordures
                               devant la maison d’autruy, ou en places ou rue vuides, il
                               est pour la première fois condamné en l’amende de sept
-                              sols tournois, pour la [apc : « deux<hi rend="superscript">e</hi> » ; deuxième] fois de 21
+                              sols tournois, pour la <choice><abbr>deux<hi rend="superscript">e</hi></abbr><expan>deuxième</expan></choice> fois de 21
                               [abréviation monétaire : sol.] et le semblable est
                               observé contre ceux qui jettent immondices contre les
                               portes desd. villes.</p>
@@ -10208,8 +10111,7 @@
                               <fw type="foliotation">115</fw> ayant droit, en telle manière que
                               l’un eut le bas et l’autre le dessus, celuy qui a le bas
                               est tenu d’entretenir et soutenir les édifices estans au
-                              dessous du premier plancher, ensemble iceluy [apc :
-                                 « p<hi rend="superscript">er</hi> » ; premier]
+                              dessous du premier plancher, ensemble iceluy <choice><abbr>p<hi rend="superscript">er</hi></abbr><expan>premier</expan></choice>
                               plancher.</p>
                         </div>
                         <div>
@@ -10315,8 +10217,7 @@
                         mention cy après.</p>
                      <metamark rend="simpleLine alignCenter"/>
                      <div>
-                        <head>[Mis en valeur : centré, gras]<lb/>[apc : « Chap. » ;
-                           Chapitre] 17<lb/>Des Prescriptions<ref type="noteHistorical" target="#s1Nh0575"/>
+                        <head rend="alignCenter"><choice><abbr>Chap.</abbr><expan>Chapitre</expan></choice> 17<lb/>Des Prescriptions<ref type="noteHistorical" target="#s1Nh0575"/>
                         </head>
                         <div>
                            <head>
@@ -10362,7 +10263,7 @@
                               titre et droit constitué, et à vigueur de tems
                               immémorial.</p>
                            <p>
-                              <hi rend="bigger">Les</hi>  autres art. dud. [apc : « chap<hi rend="superscript">re</hi> » ; chapitre] concernent
+                              <hi rend="bigger">Les</hi>  autres art. dud. <choice><abbr>chap<hi rend="superscript">re</hi></abbr><expan>chapitre</expan></choice> concernent
                               des choses particulières et différentes des
                               servitudes.</p>
                         </div>
@@ -10388,8 +10289,7 @@
                            <hi rend="bigger">Si</hi>  entre deux héritages circonvoisins, y a
                            une voye commune, le seigneur de l’héritage inférieur peut
                            lever led. chemin, et mettre la terre et pourtrait en
-                           provenant dans son héritage, sans préjudice du [apc :
-                              « seig<hi rend="superscript">r</hi> » ; seigneur] de
+                           provenant dans son héritage, sans préjudice du <choice><abbr>seig<hi rend="superscript">r</hi></abbr><expan>seigneur</expan></choice> de
                            l’héritage supérieur, et par ce moyen doit tenir lad. voye
                            réparée et en estat à l’endroit desd. héritages<ref type="noteHistorical" target="#s1Nh0584"/>.</p>
                      </div>
@@ -14392,26 +14292,26 @@
                               intentions du rédacteurs de cette conférence de
                               coutume</note>-->
                   </p>
-                  <p>Sçavoir, [au centre]</p>
-                  <p>Tous [mot mis en exergue] ustancils de ménage qui se <pb xml:id="s1Fol190v" n="174v"/>
+                  <p rend="alignCenter">Sçavoir,</p>
+                  <p><hi rend="bigger">Tous</hi> ustancils de ménage qui se <pb xml:id="s1Fol190v" n="174v"/>
                      <fw type="foliotation">174 v.</fw>
                      peuvent transporter sans fraction ni détérioration sont réputez
                      meubles, mais s’ils tiennent à fer et à cloud, ou sont scellés en
                      plâtre, sable, plomb ou autres scellemens, et sont mis pour
                      perpétuelle demeure, et ne peuvent estre transportez sans fraction
                      ni détérioration, sont censez et réputez immeubles.</p>
-                  <p>Moulins [mot mis en exergue] à vent et à eau sont réputez
+                  <p><hi rend="bigger">Moulins</hi> à vent et à eau sont réputez
                      immeubles.</p>
-                  <p>Pressoirs [mot mis en exergue] à vin et à cidre, Tourdoirs et
+                  <p><hi rend="bigger">Pressoirs</hi> à vin et à cidre, Tourdoirs et
                      huilleries édifiez en une maison sont réputez immeubles quand ils
                      ne peuvent s’ôter sans dépecer ou désassembler, autrement sont
                      réputez meubles.</p>
-                  <p>Moulins [mot mis en exergue] à bras sont réputez meubles.</p>
-                  <p>Cuves [mot mis en exergue] et Baignoires [mot mis en exergue] sont
+                  <p><hi rend="bigger">Moulins</hi> à bras sont réputez meubles.</p>
+                  <p><hi rend="bigger">Cuves</hi> et Baignoires [mot mis en exergue] sont
                      réputez meubles si elles peuvent s’enlever sans désassembler et
                      sans faire ouverture, mais si elles ne peuvent l’estre autrement
                      son réputez immeubles et tiennent nature de fond.</p>
-                  <p>Cuves de cuivre [trois mots mis en exergue] à teinturier et
+                  <p><hi rend="bigger">Cuves de cuivre</hi> à teinturier et
                      Brasseur, et Cuves à tanneur en terre sont réputez immeubles.</p>
                   <p>Bois [mot mis en exergue] coupé, Bled, foin ou grain soyé ou
                      fauché, supposé qu’il soit encore sur le champ et non transporté,
@@ -19243,7 +19143,7 @@
                      par indivis.</p>
                   <p>
                      <hi rend="bigger">Murs</hi> Séparans Cours et jardins, et autres, Sont
-                     réputez mitoyens : Paris, 211 [sic.] ; Melun, art. 193 ; Auxerre,
+                     réputez mitoyens : Paris, <sic>211</sic> ; Melun, art. 193 ; Auxerre,
                      art. 104 ; Estampes, art. 76 ; Laon, art. 271 ; Chaalons, art.
                      135 ; Rheims, art. 355 ; Montargis et Loris, Chap. 10, art. 9 ;
                      Orléans, art. 234 ; Calais, art. 197 ; Lorraine, Tit. 14, art.
@@ -19483,7 +19383,7 @@
                      Saillies sur rue, Une Remarque notable.</p>
                   <p>
                      <hi rend="bigger">Réparations</hi> des Maisons, Moulins, et autres
-                     héritages procédez [sic.] en Commun par [indivis] : Nivernois,
+                     héritages <sic>procédez</sic> en Commun par [indivis] : Nivernois,
                      Chap. 10, art. 5, 6, 7 ; Loraine, Tit. 14, art. 18 ; Berry, Tit.
                      11, art. 7, 8, 9 ; Bourbonnois, art. 513, 514 ; Anjou, 1<hi rend="superscript">ère</hi> partie, art. 20 ; Maine, 1<hi rend="superscript">ère</hi> partie, art. 20 ; Bayonne, Tit. 23,
                      art. 4, 5, 6, 7 ; Bretagne, art. 374.</p>
@@ -19874,7 +19774,7 @@
                      <hi rend="bigger">Déguerpissant</hi> une maison, brulée par les Gens de
                      guerre, on n’est pas tenu de la rétablir, f° 212 r°</p>
                   <p>
-                     <hi rend="bigger">Deguerpissant</hi> un moulin démoly par [Un]
+                     <hi rend="bigger">Deguerpissant</hi> un moulin démoly par <unclear reason="illegible" cert="high">Un</unclear>
                      Gouverneur pendant les troubles, on n’est pas tenu le rétablir, f°
                      213 r°</p>
                   <p>
@@ -20221,7 +20121,7 @@
                      immeubles, et rendus par celuy qui avoit vendu son héritage, où il
                      y avoit un colombier, f° 200 r°</p>
                   <p>
-                     <hi rend="bigger">Pigeons, Pourceaux, [etc.]</hi> ne peuvent
+                     <hi rend="bigger">Pigeons, Pourceaux, <unclear reason="illegible" cert="high">etc.</unclear></hi> ne peuvent
                      estre nourris en la Ville et fauxbourgs de Paris, f° 168 r°</p>
                   <p>
                      <hi rend="bigger">Pigeons</hi>, la Veuve qui a le château pour
@@ -20235,7 +20135,7 @@
                      héritage dans Une Censive que Sa Dixme, ne peut avoir Volière à
                      pigeons, f° 220 r°</p>
                   <p>
-                     <hi rend="bigger">Pigeons</hi>, Celuy [deux mots en exergue] qui a plus de 50 arpens de
+                     <hi rend="bigger">Pigeons, Celuy</hi> qui a plus de 50 arpens de
                      terre, et qui n’a point de droit de justice, peut avoir Une
                      Volière à pigeons, f° 220 v°</p>
                   <p>
@@ -20733,7 +20633,7 @@
                   <p>commandement</p>
                   <p>personnier</p>
                   <p>quarterau</p>
-                  <p>Quint [de son fief]</p>
+                  <p>Quint <unclear reason="illegible" cert="high">de son fief</unclear></p>
                   <p>Censiers</p>
                   <p>Rentiers</p>
                   <p>Vidame</p>
