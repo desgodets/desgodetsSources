@@ -682,7 +682,8 @@
                <head>[Coutumiers]</head>
                <p>[fol. 8 r]</p>
                <div type="chapter">
-                  <head rend="alignCenter">Table <lb/>des coutumes</head>
+                  <head rend="alignCenter">Table 
+                     <lb/>des coutumes</head>
                   <metamark/>
                   <!--TODO <p>[Section du manuscrit présentée sur deux colonnes]</p>-->
                   <div>
@@ -791,7 +792,7 @@
                            (Pas-de-Calais, France) ; http://catalogue.bnf.fr/ark:/12148/cb152685222/PUBLIC]</hi>, <choice><abbr>loc<hi
                         rend="superscript"
                         >le</hi></abbr><expan>locale</expan></choice>, f° 59 r°</p>
-                     <p>[fol. 8 v] [colonne de gauche] [titre courant : Table]</p>
+                     <p>[fol. 8 v] [colonne de gauche] <fw type="runningHead">Table</fw></p>
                      <p> <hi rend="Desgodets_IndexLocorum"
                         >[Bar ; Bar-le-Duc (Meuse,
                            France) ; http://catalogue.bnf.fr/ark:/12148/cb152646978/PUBLIC]</hi>, f° 45 v°</p>
@@ -904,7 +905,7 @@
                      <p> <hi rend="Desgodets_IndexLocorum">Boutillerie</hi> <ref
                         type="noteHistorical" target="#s1Nh0018"/>, loc<hi rend="superscript"
                         >le</hi>, f° 61 v°</p>
-                     <p>[fol. 9 r] [titre courant : des coutumes]</p>
+                     <p>[fol. 9 r] <fw type="runningHead">des coutumes</fw></p>
                      <p> <hi rend="Desgodets_IndexLocorum"
                         >[Bragerac ; Bragayrac
                            (Haute-Garonne, France) ; http://catalogue.bnf.fr/ark:/12148/cb15255083z/PUBLIC]</hi>, f° 94 v°</p>
@@ -1026,7 +1027,7 @@
                         rend="Desgodets_IndexLocorum"
                         >[Senlis ; Senlis (Oise,
                            France) ; http://catalogue.bnf.fr/ark:/12148/cb152678459/PUBLIC]</hi>, f° 29 v°</p>
-                     <p>[fol. 9 v] [titre courant : Table] [colonne de gauche] </p>
+                     <p>[fol. 9 v] <fw type="runningHead">Table</fw> [colonne de gauche] </p>
                      <p> <hi rend="Desgodets_IndexLocorum"
                         >[Choisy en Brie ;
                            Choisy-en-Brie (Seine-et-Marne, France) ; http://catalogue.bnf.fr/ark:/12148/cb15275457x/PUBLIC]</hi>, locale, f° 10 v°</p>
@@ -1102,7 +1103,8 @@
                   </div>
                   <div>
                      <p>[fol. 10 r]</p>
-                     <head>[titre courant : des coutumes] [colonne de gauche] F.</head>
+                     <fw type="runningHead">des coutumes</fw>
+                     <head>[colonne de gauche] F.</head>
                      <p>Falaise, locale, f° 80 v°</p>
                      <p>Farmoutiers, chatellenie, f° 10 v°</p>
                      <p>Ferté au Col, chat<hi rend="superscript">nie</hi>, f° 10 r°</p>
@@ -1140,7 +1142,8 @@
                   </div>
                   <div>
                      <p>[fol. 10 v]</p>
-                     <head>[titre courant : Table] [colonne de gauche] J.</head>
+                     <fw type="runningHead">Table</fw>
+                     <head>[colonne de gauche] J.</head>
                      <p>Jameets, locale, f° 141 v°</p>
                      <p>Joy sur Morin, id., f° 10 v°</p>
                      <p>Isle Savary, id., f° 96 r°</p>
@@ -1176,7 +1179,7 @@
                      <p>Malmaison-Guerard, f° 10 v°</p>
                      <p>Mante et Meulan, f° 26 v°</p>
                      <p>Marche noire au comté de Dunois, f° 106 v°</p>
-                     <p>[fol. 11 r] [titre courant : des coutumes] [colonne de
+                     <p>[fol. 11 r] <fw type="runningHead">des coutumes</fw> [colonne de
                         droite]</p>
                      <p>Marche, dit la marche haut païs, f° 118 r°</p>
                      <p>Marcollez en Auvergne, f° 117 v°</p>
@@ -1217,7 +1220,8 @@
                   </div>
                   <div>
                      <p>[fol. 11 v]</p>
-                     <head>[titre courant : Table] [colonne de gauche] N.</head>
+                     <fw type="runningHead">Table</fw>
+                     <head>[colonne de gauche] N.</head>
                      <p>Namur, f° 138 v°</p>
                      <p>Nancy, f° 89 v°</p>
                      <p>Nantes, locale, f° 134 r°</p>
@@ -1254,7 +1258,7 @@
                      <p>Pont a Wendin, loc., f° 61 v°</p>
                      <p>Pont de l’arche, id., f° 80 v°</p>
                      <p>Ponthieu, sénéchaussée et comté, f° 53 v°</p>
-                     <p>[fol. 12 r] [titre courant : des coutumes] [colonne de gauche] </p>
+                     <p>[fol. 12 r] <fw type="runningHead">des coutumes</fw> [colonne de gauche] </p>
                      <p>Pontoise, f° 29 v°</p>
                      <p>Provence, f° 148 r°</p>
                      <p>Provins, chatellenie, f° 10 v°</p>
@@ -1304,7 +1308,7 @@
                         v°</p>
                      <p>S<hi rend="superscript">t</hi> Omer, f° 51 r°</p>
                      <p>S<hi rend="superscript">t</hi> Omer, loc., f° 59 r°</p>
-                     <p>[fol. 12 v] [titre courant : Table] [Colonne de gauche] </p>
+                     <p>[fol. 12 v] <fw type="runningHead">Table</fw> [Colonne de gauche] </p>
                      <p>S<hi rend="superscript">t</hi> Paul, f° 59 r°</p>
                      <p>S<hi rend="superscript">t</hi> Paul, loc., f° 52 r°</p>
                      <p>S<hi rend="superscript">t</hi> Piat de Scelin, f° 61 r°</p>
@@ -1353,7 +1357,7 @@
                      <head>V.</head>
                      <p>[sic. « Valancay »], chat<hi rend="superscript"
                         >nie</hi>, [fol.
-                        13 r] [titre courant : des coutumes] [colonne de gauche]
+                        13 r] <fw type="runningHead">des coutumes</fw> [colonne de gauche]
                         locale, f° 107 v°</p>
                      <p>Valenciennes, f° 140 r°</p>
                      <p>Vallois, duché, f° 34 r°</p>
