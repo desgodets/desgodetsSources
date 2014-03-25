@@ -513,8 +513,8 @@
                   <hi rend="bigger">Les</hi> servitudes personnelles sont attachées à
                   des personnes de servile condition, que l’on nomme fiefs, et que
                   quelques coutumes de France appellent mortaillables, comme celles de
-                     <placeName ref="#MeauxSeineEtMarneFrance">Meaux</placeName>, <placeName>Bourgogne</placeName>
-                  <ref type="noteHistorical" target="#s1Nh0002"/>, <placeName ref="#ChaumontHauteMarneFrance">Chaumont</placeName>, <placeName>Auvergne</placeName>, <placeName ref="#BourbonnaisProvinceDuFrance">Bourbonnois</placeName>, <placeName>La Marche</placeName>
+                     <placeName ref="#meauxSeineEtMarneFrance">Meaux</placeName>, <placeName>Bourgogne</placeName>
+                  <ref type="noteHistorical" target="#s1Nh0002"/>, <placeName ref="#chaumontHauteMarneFrance">Chaumont</placeName>, <placeName>Auvergne</placeName>, <placeName ref="#bourbonnaisProvinceDuFrance">Bourbonnois</placeName>, <placeName>La Marche</placeName>
                   <ref type="noteHistorical" target="#s1Nh0003"/> et <placeName>Nivernois</placeName>
                   <ref type="noteHistorical" target="#s1Nh0004"/>, lesquelles sont particulières en ces servitudes. Ces sortes
                   de servitudes sont des droits que les seigneurs ont sur les
@@ -636,35 +636,35 @@
                   <div>
                      <head>A.</head>
                      <p>
-                        <placeName ref="#DaxLandesFrance">« Acqs »</placeName>, ville, cité, prévôté et
+                        <placeName ref="#daxLandesFrance">Acqs</placeName>, ville, cité, prévôté et
                         ressort, f° 120 v°</p>
                      <p>
-                        <placeName ref="#AireSurLaLysPasDeCalaisFrance">« Aire »</placeName>, locale, f° 59 r°</p>
+                        <placeName ref="#aireSurLaLysPasDeCalaisFrance">Aire</placeName>, locale, f° 59 r°</p>
                      <p>
                         <placeName>Allemagne et Vosge</placeName>
                         <ref type="noteHistorical" target="#s1Nh0006"/>, f° 89 v°</p>
                      <p>
-                        <placeName ref="#AlenconOrneFrance">« Allençon »</placeName>, locale, f° 81 r°</p>
+                        <placeName ref="#alenconOrneFrance">Allençon</placeName>, locale, f° 81 r°</p>
                      <p>
-                        <placeName ref="#AlluyesEureEtLoirFrance">« Alluye »</placeName> au <placeName>Perche Goüet</placeName>
+                        <placeName ref="#alluyesEureEtLoirFrance">Alluye</placeName> au <placeName>Perche Goüet</placeName>
                         <ref type="noteHistorical" target="#s1Nh0007"/>, baronnie et
                         chastellenie, f° 103 v°</p>
                      <p>
-                        <placeName ref="#AmboiseIndreEtLoireFrance">« Amboise »</placeName>, <choice>
+                        <placeName ref="#amboiseIndreEtLoireFrance">Amboise</placeName>, <choice>
                            <abbr>loc<hi rend="superscript">le</hi>
                            </abbr>
                            <expan>locale</expan>
                         </choice>, f° 96
                         r°</p>
                      <p>
-                        <placeName ref="#AmiensSommeFrance">« Amiens »</placeName>, baillage, f° 47
+                        <placeName ref="#amiensSommeFrance">Amiens</placeName>, baillage, f° 47
                         v°</p>
                      <p>
-                        <placeName ref="#AmiensSommeFrance">« Amiens »</placeName>, ville, etc., f° 48
+                        <placeName ref="#amiensSommeFrance">Amiens</placeName>, ville, etc., f° 48
                         r°</p>
                      <p>
                         <placeName>Anapes</placeName>
-                        <ref type="noteHistorical" target="#s1Nh0008"/>, loc<hi rend="superscript">le</hi>, f° 61 r°</p>
+                        <ref type="noteHistorical" target="#s1Nh0008"/>, <choice><abbr>loc<hi rend="superscript">le</hi></abbr><expan>locale</expan></choice>, f° 61 r°</p>
                      <p>
                         <placeName ref="#LesAndelysEureFrance">Andely</placeName>
                         <choice>
@@ -681,16 +681,16 @@
                         <ref type="noteHistorical" target="#s1Nh0010"/>, duché, f° 97
                         v°</p>
                      <p>
-                        <placeName ref="#ArmentieresNordFrance">Armentiers</placeName>, <choice>
+                        <placeName ref="#armentieresNordFrance">Armentiers</placeName>, <choice>
                            <abbr>loc<hi rend="superscript">le</hi>
                            </abbr>
                            <expan>locale</expan>
                         </choice>, f° 61 r°</p>
                      <cb/>
                      <p>
-                        <placeName ref="#ArquesLaBatailleSeineMaritimeFrance">Arques</placeName>, locale, f° 80 v°</p>
+                        <placeName ref="#arquesLaBatailleSeineMaritimeFrance">Arques</placeName>, locale, f° 80 v°</p>
                      <p>
-                        <placeName ref="#ArrasPasDeCalaisFrance">Arras</placeName>, <choice>
+                        <placeName ref="#arrasPasDeCalaisFrance">Arras</placeName>, <choice>
                            <abbr>loc<hi rend="superscript">le</hi>
                            </abbr>
                            <expan>locale</expan>
@@ -700,7 +700,7 @@
                         <ref type="noteHistorical" target="#s1Nh0011"/>, comté, f° 58
                         v°</p>
                      <p>
-                        <placeName ref="#HauterocheCoteDOrFrance">Autroche</placeName>, <choice>
+                        <placeName ref="#hauterocheCoteDOrFrance">Autroche</placeName>, <choice>
                            <abbr>loc<hi rend="superscript">le</hi>
                            </abbr>
                            <expan>locale</expan>
@@ -713,10 +713,10 @@
                         <placeName>Auvergne</placeName>, comté, f° 116
                         v°</p>
                      <p>
-                        <placeName ref="#AuxerreComteDFrance">Auxerre</placeName>, comté et baillage, f°
+                        <placeName ref="#auxerreComteDFrance">Auxerre</placeName>, comté et baillage, f°
                         17 v°</p>
                      <p>
-                        <placeName ref="#AzayLeFerronIndreFrance">Azay le Feron</placeName>, <choice>
+                        <placeName ref="#azayLeFerronIndreFrance">Azay le Feron</placeName>, <choice>
                            <abbr>loc<hi rend="superscript">le</hi>
                            </abbr>
                            <expan>locale</expan>
@@ -739,7 +739,7 @@
                            <expan>locale</expan>
                         </choice>, f° 61 v°</p>
                      <p>
-                        <placeName ref="#BapaumePasDeCalaisFrance">Bappalme</placeName>, <choice>
+                        <placeName ref="#bapaumePasDeCalaisFrance">Bappalme</placeName>, <choice>
                            <abbr>loc<hi rend="superscript">le</hi>
                            </abbr>
                            <expan>locale</expan>
@@ -748,32 +748,31 @@
                      <fw type="runningHead">Table</fw>
                      <cb/>
                      <p>
-                        <placeName ref="#BarLeDucMeuseFrance">Bar</placeName>, f° 45 v°</p>
+                        <placeName ref="#barLeDucMeuseFrance">Bar</placeName>, f° 45 v°</p>
                      <p>
-                        <placeName ref="#LaBasseeNordFrance">Bassée</placeName>, locale, f° 61 r°</p>
+                        <placeName ref="#laBasseeNordFrance">Bassée</placeName>, locale, f° 61 r°</p>
                      <p>
-                        <placeName ref="#BayeuxCalvadosFrance">Bayeux</placeName>, loc<hi rend="superscript">le</hi>, f° 80 v°</p>
+                        <placeName ref="#bayeuxCalvadosFrance">Bayeux</placeName>, <choice><abbr>loc<hi rend="superscript">le</hi></abbr><expan>locale</expan></choice>, f° 80 v°</p>
                      <p>
-                        <placeName ref="#BayonnePyreneesAtlantiquesFrance">Bayonne</placeName>, ville, cité etc., f°
+                        <placeName ref="#bayonnePyreneesAtlantiquesFrance">Bayonne</placeName>, ville, cité etc., f°
                         121 v°</p>
                      <p>
-                        <placeName ref="#LaBazocheGouetEureEtLoirFrance">Bazoche Goüet</placeName>, châtellenie, f° 103
+                        <placeName ref="#laBazocheGouetEureEtLoirFrance">Bazoche Goüet</placeName>, châtellenie, f° 103
                         v°</p>
                      <p>
                         <placeName>Béarn</placeName>
                         <ref type="noteHistorical" target="#s1Nh0014"/>, f° 140 r°</p>
                      <p>
-                        <placeName ref="#BeaumontSurOiseValDOiseFrance">Beaumont sur Oise</placeName>, f° 29 v°</p>
+                        <placeName ref="#beaumontSurOiseValDOiseFrance">Beaumont sur Oise</placeName>, f° 29 v°</p>
                      <p>
-                        <placeName ref="#BeaumontLeRogerEureFrance">Beaumont le Roger</placeName>, f° 80 v°</p>
+                        <placeName ref="#beaumontLeRogerEureFrance">Beaumont le Roger</placeName>, f° 80 v°</p>
                      <p>
-                        <placeName ref="#BeauquesneSommeFrance">Beauquesne</placeName>, prévôté, foraine
+                        <placeName ref="#beauquesneSommeFrance">Beauquesne</placeName>, prévôté, foraine
                         d’Artois, f° 49 v°</p>
                      <p>
-                        <placeName ref="#BellotSeineEtMarneFrance">Belot</placeName> et [Chamigny ; <placeName>Chamigny (Seine-et-Marne,
-                           France) ; http://catalogue.bnf.fr/ark:/12148/cb15275419c/PUBLIC]</placeName>, loc<hi rend="superscript">le</hi>, f° 10 r°</p>
+                        <placeName ref="#bellotSeineEtMarneFrance">Belot</placeName> et <placeName ref="#chamignySeineEtMarneFrance">Chamigny</placeName>, <choice><abbr>loc<hi rend="superscript">le</hi></abbr><expan>locale</expan></choice>, f° 10 r°</p>
                      <p>
-                        <placeName ref="#BerryDucheDeFrance">Berry, duché</placeName>, f° 107 v°</p>
+                        <placeName ref="#berryDucheDeFrance">Berry, duché</placeName>, f° 107 v°</p>
                      <p>
                         <placeName ref="#BethisySaintPierreOiseFrance">Bethisy</placeName>
                         <!--TODO ou Béthisy-Saint-Martin
@@ -783,292 +782,292 @@
                            </abbr>
                            <expan>châtellenie</expan>
                         </choice> et enclave de
-                           <placeName ref="#ValoisDucheDeFrance">Valois</placeName>, f° 35 v°</p>
+                           <placeName ref="#valoisDucheDeFrance">Valois</placeName>, f° 35 v°</p>
                      <p>
-                        <placeName ref="#BethunePasDeCalaisFrance">Béthune</placeName>, loc<hi rend="superscript">le</hi>, f° 59 r°</p>
+                        <placeName ref="#bethunePasDeCalaisFrance">Béthune</placeName>, <choice><abbr>loc<hi rend="superscript">le</hi></abbr><expan>locale</expan></choice>, f° 59 r°</p>
                      <p>
-                        <placeName ref="#BillyLoirEtCherFrance">Billy au Païs de Dunois</placeName>, locale, f° 107 r°</p>
+                        <placeName ref="#billyLoirEtCherFrance">Billy au Païs de Dunois</placeName>, locale, f° 107 r°</p>
                      <p>
-                        <placeName ref="#BillyAllierFrance">Billy en Bourbonnois</placeName>, loc<hi rend="superscript">le</hi>, f° 115 v°</p>
+                        <placeName ref="#billyAllierFrance">Billy en Bourbonnois</placeName>, <choice><abbr>loc<hi rend="superscript">le</hi></abbr><expan>locale</expan></choice>, f° 115 v°</p>
                      <cb/>
                      <p>
-                        <placeName ref="#BloisLoirEtCherFrance">Blois</placeName>, comté, f° 104 v°</p>
+                        <placeName ref="#bloisLoirEtCherFrance">Blois</placeName>, comté, f° 104 v°</p>
                      <p>
-                        <placeName ref="#BougesLeChateauIndreFrance">Bouge</placeName>, locale, f° 107 v°</p>
+                        <placeName ref="#bougesLeChateauIndreFrance">Bouge</placeName>, locale, f° 107 v°</p>
                      <p>
-                        <placeName ref="#BouvinesNordFrance">Bovines</placeName>, loc<hi rend="superscript">le</hi>, f° 61 r°</p>
+                        <placeName ref="#bouvinesNordFrance">Bovines</placeName>, <choice><abbr>loc<hi rend="superscript">le</hi></abbr><expan>locale</expan></choice>, f° 61 r°</p>
                      <p>
                         <placeName>Boulonnois</placeName>
                         <ref type="noteHistorical" target="#s1Nh0015"/>, sénéchaussée
                         et comté, f° 53 v°</p>
                      <p>
-                        <placeName ref="#BoulogneSurMerPasDeCalaisFrance">Boulogne</placeName>, ville etc. loc<hi rend="superscript">le</hi>, f° 58 r°</p>
+                        <placeName ref="#boulogneSurMerPasDeCalaisFrance">Boulogne</placeName>, ville etc. loc<hi rend="superscript">le</hi>, f° 58 r°</p>
                      <p>
-                        <placeName ref="#BourbonnaisProvinceDuFrance">Bourbonnois</placeName>, duché, f° 112 v°</p>
+                        <placeName ref="#bourbonnaisProvinceDuFrance">Bourbonnois</placeName>, duché, f° 112 v°</p>
                      <p>
-                        <placeName ref="#BordeauxGirondeFrance">Bordeaux</placeName>, sénéchaussée de <placeName ref="#GuyenneProvinceDeFrance">Guyenne</placeName>
+                        <placeName ref="#bordeauxGirondeFrance">Bordeaux</placeName>, sénéchaussée de <placeName ref="#guyenneProvinceDeFrance">Guyenne</placeName>
                          et païs de Bordelois, f° 120
                         v°</p>
                      <p>
-                        <placeName ref="#BourgesCherFrance">Bourges</placeName>, ville, f° [blanc]</p>
+                        <placeName ref="#bourgesCherFrance">Bourges</placeName>, ville, f° [blanc]</p>
                      <p>
                         <placeName>Bourgogne</placeName>
                         <ref type="noteHistorical" target="#s1Nh0016"/>, duché, f° 62
                         r°</p>
                      <p>
-                        <placeName ref="#FrancheComteProvinceDeFrance">Bourgogne</placeName>, comté, f° 62 r°</p>
+                        <placeName ref="#francheComteProvinceDeFrance">Bourgogne</placeName>, comté, f° 62 r°</p>
                      <p>
                         <placeName>Bourt dit Labourt</placeName>
                         <ref type="noteHistorical" target="#s1Nh0017"/>, baillage, f°
                         126 v°</p>
                      <p>
-                        <placeName ref="#BousigniesNordFrance">Bousignies</placeName>, loc<hi rend="superscript">le</hi>, f° 61 r°</p>
+                        <placeName ref="#bousigniesNordFrance">Bousignies</placeName>, <choice><abbr>loc<hi rend="superscript">le</hi></abbr><expan>locale</expan></choice>, f° 61 r°</p>
                      <p>
                         <placeName>Boutillerie</placeName>
-                        <ref type="noteHistorical" target="#s1Nh0018"/>, loc<hi rend="superscript">le</hi>, f° 61 v°</p>
+                        <ref type="noteHistorical" target="#s1Nh0018"/>, <choice><abbr>loc<hi rend="superscript">le</hi></abbr><expan>locale</expan></choice>, f° 61 v°</p>
                      <pb xml:id="s1Fol9" n="a9"/>
                      <fw type="runningHead">des coutumes</fw>
                      <p>
-                        <placeName ref="#BragayracHauteGaronneFrance">Bragerac</placeName>, f° 94 v°</p>
+                        <placeName ref="#bragayracHauteGaronneFrance">Bragerac</placeName>, f° 94 v°</p>
                      <p>
                         <placeName>Bretagne</placeName>
                         <ref type="noteHistorical" target="#s1Nh0019"/>, duché, f° 127
                         v°</p>
                      <p>
-                        <placeName ref="#BreteuilEureFrance">Breteüil</placeName>
+                        <placeName ref="#breteuilEureFrance">Breteüil</placeName>
                          et <placeName ref="#ConchesEnOucheEureFrance">Conches</placeName>, locales, f° 80 v°</p>
                      <p>
-                        <placeName ref="#BrouEureEtLoirFrance">Brou</placeName>
+                        <placeName ref="#brouEureEtLoirFrance">Brou</placeName>
                         au <placeName>Perche Goüet</placeName>
                         <ref type="noteHistorical" target="#s1Nh0020"/> , f° 103
                         v°</p>
                      <p>
-                        <placeName ref="#YrondeEtBuronPuyDeDomeFrance">Buron</placeName> en <placeName>Auvergne</placeName>
-                        <ref type="noteHistorical" target="#s1Nh0021"/> , loc<hi rend="superscript">le</hi>, f° 116 v°</p>
+                        <placeName ref="#yrondeEtBuronPuyDeDomeFrance">Buron</placeName> en <placeName>Auvergne</placeName>
+                        <ref type="noteHistorical" target="#s1Nh0021"/> , <choice><abbr>loc<hi rend="superscript">le</hi></abbr><expan>locale</expan></choice>, f° 116 v°</p>
                      <p>
-                        <placeName ref="#BusseolPuyDeDomeFrance">Busséol</placeName>
-                         en <placeName>Auvergne</placeName>, loc<hi rend="superscript">le</hi>, f° 116 v°</p>
+                        <placeName ref="#busseolPuyDeDomeFrance">Busséol</placeName>
+                        en <placeName>Auvergne</placeName>, <choice><abbr>loc<hi rend="superscript">le</hi></abbr><expan>locale</expan></choice>, f° 116 v°</p>
                      <p>
-                        <placeName ref="#BuxeuilIndreFrance">Buxeil</placeName>, chat<hi rend="superscript">nie</hi>, loc<hi rend="superscript">le</hi>, f° 107 v°</p>
+                        <placeName ref="#buxeuilIndreFrance">Buxeil</placeName>, chat<hi rend="superscript">nie</hi>, loc<hi rend="superscript">le</hi>, f° 107 v°</p>
                      <p>
-                        <placeName ref="#BuzancaisIndreFrance">Buzançois</placeName>, loc<hi rend="superscript">le</hi>, f° 96 r°</p>
+                        <placeName ref="#buzancaisIndreFrance">Buzançois</placeName>, <choice><abbr>loc<hi rend="superscript">le</hi></abbr><expan>locale</expan></choice>, f° 96 r°</p>
                   </div>
                   <div>
                      <head>C.</head>
                      <p>
-                        <placeName ref="#CaenCalvadosFrance">Caen</placeName>, locale, f° 80 v°</p>
+                        <placeName ref="#caenCalvadosFrance">Caen</placeName>, locale, f° 80 v°</p>
                      <p>
-                        <placeName ref="#CalaisPasDeCalaisFrance">Calais</placeName> et païs conquis, f° 82
+                        <placeName ref="#calaisPasDeCalaisFrance">Calais</placeName> et païs conquis, f° 82
                         r°</p>
                      <p>
-                        <placeName ref="#CambraiNordFrance">Cambray</placeName>,
+                        <placeName ref="#cambraiNordFrance">Cambray</placeName>,
                         f° 137 v°</p>
                      <p>
-                        <placeName ref="#CamphinEnCarembaultNordFrance">Camphin</placeName>, loc., f° 61 v°</p>
+                        <placeName ref="#camphinEnCarembaultNordFrance">Camphin</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 61 v°</p>
                      <p>
-                        <placeName ref="#CaudebecEnCauxSeineMaritimeFrance">Caudebecq</placeName>, loc.,f° 81 r°</p>
+                        <placeName ref="#caudebecEnCauxSeineMaritimeFrance">Caudebecq</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice>,f° 81 r°</p>
                      <p>
-                        <placeName ref="#ChalonsEnChampagneMarneFrance">Chaalons</placeName>, bail<hi rend="superscript">ge</hi> en Vermandois, f° 38 r°</p>
+                        <placeName ref="#chalonsEnChampagneMarneFrance">Chaalons</placeName>, bail<hi rend="superscript">ge</hi> en Vermandois, f° 38 r°</p>
                      <cb/>
                      <p>
-                        <placeName ref="#ChabrisIndreFrance">Chabris</placeName>, chat<hi rend="superscript">nie</hi>, loc., f° 107 v°</p>
+                        <placeName ref="#chabrisIndreFrance">Chabris</placeName>, chat<hi rend="superscript">nie</hi>, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 107 v°</p>
                      <p>
-                        <placeName ref="#ChamignySeineEtMarneFrance">Chamigny</placeName>
-                        et <placeName ref="#BellotSeineEtMarneFrance">Belot</placeName>, loc., f° 10 r°</p>
+                        <placeName ref="#chamignySeineEtMarneFrance">Chamigny</placeName>
+                        et <placeName ref="#BellotSeineEtMarneFrance">Belot</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 10 r°</p>
                      <p>
-                        <placeName ref="#ChaunyAisneFrance">Chauny</placeName>, gouvernem<hi rend="superscript">t</hi>, baillage et prévôté, loc., f° 52
+                        <placeName ref="#chaunyAisneFrance">Chauny</placeName>, gouvernem<hi rend="superscript">t</hi>, baillage et prévôté, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 52
                         v°</p>
                      <p>
-                        <placeName ref="#ChantemerleMarneFrance">Chantemerle</placeName>, chat<hi rend="superscript">nie</hi>, f° 10 v°</p>
+                        <placeName ref="#chantemerleMarneFrance">Chantemerle</placeName>, chat<hi rend="superscript">nie</hi>, f° 10 v°</p>
                      <p>
-                        <placeName ref="#ChartresEureEtLoirFrance">Chartres</placeName>, bail<hi rend="superscript">ge</hi>, f° 103 r°</p>
+                        <placeName ref="#chartresEureEtLoirFrance">Chartres</placeName>, bail<hi rend="superscript">ge</hi>, f° 103 r°</p>
                      <p>
-                        <placeName ref="#ChateauLandonSeineEtMarneFrance">Chateaulandon</placeName>, chat<hi rend="superscript">nie</hi>, f° 69 v°</p>
+                        <placeName ref="#chateauLandonSeineEtMarneFrance">Chateaulandon</placeName>, chat<hi rend="superscript">nie</hi>, f° 69 v°</p>
                      <p>
-                        <placeName ref="#ChateauneufEnThymeraisEureEtLoirFrance">Chateauneuf en Thimerais</placeName>, f° 102 r°</p>
+                        <placeName ref="#chateauneufEnThymeraisEureEtLoirFrance">Chateauneuf en Thimerais</placeName>, f° 102 r°</p>
                      <p>
-                        <placeName ref="#ChateauRenaultIndreEtLoireFrance">Chateauregnaud</placeName>, loc<hi rend="superscript">le</hi>, f° 96 r°</p>
+                        <placeName ref="#chateauRenaultIndreEtLoireFrance">Chateauregnaud</placeName>, <choice><abbr>loc<hi rend="superscript">le</hi></abbr><expan>locale</expan></choice>, f° 96 r°</p>
                      <p>
-                        <placeName ref="#ChateaurouxIndreFrance">Chateauroux</placeName>, loc., f° 107 v°</p>
+                        <placeName ref="#chateaurouxIndreFrance">Chateauroux</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 107 v°</p>
                      <p>
-                        <placeName ref="#ChatillonSurIndreIndreFrance">Chatillon sur Yndre</placeName>, loc., f° 96 r°</p>
+                        <placeName ref="#chatillonSurIndreIndreFrance">Chatillon sur Yndre</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 96 r°</p>
                      <p>
-                        <placeName ref="#ChatillonColignyLoiretFrance">Chatillon sur loing</placeName>, f° 69 r°</p>
+                        <placeName ref="#chatillonColignyLoiretFrance">Chatillon sur loing</placeName>, f° 69 r°</p>
                      <p>
-                        <placeName ref="#ChaumontHauteMarneFrance">Chaumont en Bassigny</placeName>, bail<hi rend="superscript">ge</hi>, f° 36 v°</p>
+                        <placeName ref="#chaumontHauteMarneFrance">Chaumont en Bassigny</placeName>, bail<hi rend="superscript">ge</hi>, f° 36 v°</p>
                      <p>
-                        <placeName ref="#ChaumontEnVexinOiseFrance">Chaumont</placeName>, dépendant de <placeName ref="#SenlisOiseFrance">Senlis</placeName>, f° 29 v°</p>
+                        <placeName ref="#chaumontEnVexinOiseFrance">Chaumont</placeName>, dépendant de <placeName ref="#senlisOiseFrance">Senlis</placeName>, f° 29 v°</p>
                      <pb xml:id="s1Fol9v" n="a9v"/>
                      <fw type="runningHead">Table</fw>
                      <p>
-                        <placeName ref="#ChoisyEnBrieSeineEtMarneFrance">Choisy en Brie</placeName>, locale, f° 10 v°</p>
+                        <placeName ref="#choisyEnBrieSeineEtMarneFrance">Choisy en Brie</placeName>, locale, f° 10 v°</p>
                      <p>
-                        <placeName ref="#CysoingNordFrance">Chisoing</placeName>,
-                        loc., f° 61 r°</p>
+                        <placeName ref="#cysoingNordFrance">Chisoing</placeName>, 
+                        <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 61 r°</p>
                      <p>
-                        <placeName ref="#ClermontOiseFrance">Clermont en Beauvoisis</placeName>, baillage et comté, f°
+                        <placeName ref="#clermontOiseFrance">Clermont en Beauvoisis</placeName>, baillage et comté, f°
                         30 v°</p>
                      <p>
-                        <placeName ref="#ClermontFerrandPuyDeDomeFrance">Clermont</placeName>
+                        <placeName ref="#clermontFerrandPuyDeDomeFrance">Clermont</placeName>
                          en <placeName>Auvergne</placeName>
                         <ref type="noteHistorical" target="#s1Nh0022"/>, f° 117 r°</p>
                      <p>
-                        <placeName ref="#CominesNordFrance">Commines</placeName>, loc., f° 61 r°</p>
+                        <placeName ref="#cominesNordFrance">Commines</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 61 r°</p>
                      <p>
-                        <placeName ref="#CompiegneOiseFrance">Compiègne</placeName>, f° 29 v°</p>
+                        <placeName ref="#compiegneOiseFrance">Compiègne</placeName>, f° 29 v°</p>
                      <p>
-                        <placeName ref="#ConchesEnOucheEureFrance">Conches</placeName> et <placeName ref="#BreteuilEureFrance">Breteuil</placeName>, loc., f° 80 v°</p>
+                        <placeName ref="#conchesEnOucheEureFrance">Conches</placeName> et <placeName ref="#breteuilEureFrance">Breteuil</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 80 v°</p>
                      <p>
-                        <placeName ref="#LeCoudrayEureEtLoirFrance">Le Coudray</placeName>, loc., f° 96 r°</p>
+                        <placeName ref="#leCoudrayEureEtLoirFrance">Le Coudray</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 96 r°</p>
                      <p>
-                        <placeName ref="#CoucyLaVilleAisneFrance">« Coucy »</placeName>, bail<hi rend="superscript">ge</hi> en <placeName>Vermandois</placeName>
+                        <placeName ref="#coucyLaVilleAisneFrance">Coucy</placeName>, bail<hi rend="superscript">ge</hi> en <placeName>Vermandois</placeName>
                         <ref type="noteHistorical" target="#s1Nh0023"/>, f° 47 v°</p>
-                     <p>Coulommiers, chat<hi rend="superscript">nie</hi>, f° 10 v°</p>
-                     <p>Crecy, chat<hi rend="superscript">nie</hi>, f° 10 v°</p>
-                     <p>Creil, f° 29 v°</p>
-                     <p>Crespis, chat<hi rend="superscript">nie</hi>, enclave de
+                     <p><placeName>Coulommiers</placeName>, chat<hi rend="superscript">nie</hi>, f° 10 v°</p>
+                     <p><placeName>Crecy</placeName>, chat<hi rend="superscript">nie</hi>, f° 10 v°</p>
+                     <p><placeName>Creil</placeName>, f° 29 v°</p>
+                     <p><placeName>Crespis</placeName>, chat<hi rend="superscript">nie</hi>, enclave de
                         Valois, f° 35 v°</p>
                   </div>
                   <div>
                      <head>D.</head>
-                     <p>Desurene, locale, f° 58 r°</p>
+                     <p><placeName>Desurene</placeName>, locale, f° 58 r°</p>
                      <cb/>
-                     <p>Dourdan, bail<hi rend="superscript">ge</hi>, f° 86 r°</p>
-                     <p>Dourlens, prévôté, locale, f° 49 v°</p>
-                     <p>Dreux, bail<hi rend="superscript">ge</hi>, f° 103 v°</p>
-                     <p>Dunois, comté et baill<hi rend="superscript">ge</hi>, f° 106
+                     <p><placeName>Dourdan</placeName>, bail<hi rend="superscript">ge</hi>, f° 86 r°</p>
+                     <p><placeName>Dourlens</placeName>, prévôté, locale, f° 49 v°</p>
+                     <p><placeName>Dreux</placeName>, bail<hi rend="superscript">ge</hi>, f° 103 v°</p>
+                     <p><placeName>Dunois</placeName>, comté et baill<hi rend="superscript">ge</hi>, f° 106
                         v°</p>
                   </div>
                   <div>
                      <head>E.</head>
-                     <p>Ennetières es Weppes, loc., f° 61 v°</p>
-                     <p>Erguinghehem, loc., f° 61 r°</p>
-                     <p>Escluses, loc., f° 96 v°</p>
-                     <p>Esquermes, loc. f° 61 r°</p>
-                     <p>Esreux, loc. f° 61 r°</p>
-                     <p>Estampes, bail<hi rend="superscript">ge</hi> et prévôté, f° 21
+                     <p><placeName>Ennetières es Weppes</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 61 v°</p>
+                     <p><placeName>Erguinghehem</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 61 r°</p>
+                     <p><placeName>Escluses</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 96 v°</p>
+                     <p><placeName>Esquermes</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice> f° 61 r°</p>
+                     <p><placeName>Esreux</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice> f° 61 r°</p>
+                     <p><placeName>Estampes</placeName>, bail<hi rend="superscript">ge</hi> et prévôté, f° 21
                         v°</p>
-                     <p>Estappes sur Mer, ville et banlieue, f° 58 v°</p>
-                     <p>Esvrenne, loc<hi rend="superscript">le</hi>, de Boulonnois, f°
+                     <p><placeName>Estappes sur Mer</placeName>, ville et banlieue, f° 58 v°</p>
+                     <p><placeName>Esvrenne</placeName>, <choice><abbr>loc<hi rend="superscript">le</hi></abbr><expan>locale</expan></choice>, de Boulonnois, f°
                         58 r°</p>
-                     <p>Esvreux en Normandie, loc., f° 80 v°</p>
+                     <p>Esvreux en Normandie, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 80 v°</p>
                   </div>
                   <pb xml:id="s1Fol10" n="a10"/>
                   <fw type="runningHead">des coutumes</fw>
                   <div>
                      <head>F.</head>
-                     <p>Falaise, locale, f° 80 v°</p>
-                     <p>Farmoutiers, chatellenie, f° 10 v°</p>
-                     <p>Ferté au Col, chat<hi rend="superscript">nie</hi>, f° 10 r°</p>
-                     <p>Ferté Auvray, id., f° 107 v°</p>
-                     <p>Ferté Gaucher, id., f° 10 v°</p>
-                     <p>Ferté Million, id., enclave de Valois, f° 35 v°</p>
-                     <p>Ferté Ymbault, f° 107 r°</p>
-                     <p>Florenger, loc., f° 141 v°</p>
-                     <p>Forcalquier en Provence, f° 148 r°</p>
-                     <p>Fouloy, prévôté, loc., f° 49 v°</p>
-                     <p>Fracine, loc. f° 96 v°</p>
-                     <p>Fretevalle au comté de Dunois, loc, f° 106 v°</p>
-                     <p>Fromenteau, loc, f° 96 r°</p>
+                     <p><placeName>Falaise</placeName>, locale, f° 80 v°</p>
+                     <p><placeName>Farmoutiers</placeName>, chatellenie, f° 10 v°</p>
+                     <p><placeName>Ferté au Col</placeName>, chat<hi rend="superscript">nie</hi>, f° 10 r°</p>
+                     <p><placeName>Ferté Auvray</placeName>, id., f° 107 v°</p>
+                     <p><placeName>Ferté Gaucher</placeName>, id., f° 10 v°</p>
+                     <p><placeName>Ferté Million</placeName>, id., enclave de Valois, f° 35 v°</p>
+                     <p><placeName>Ferté Ymbault</placeName>, f° 107 r°</p>
+                     <p><placeName>Florenger</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 141 v°</p>
+                     <p><placeName>Forcalquier en Provence</placeName>, f° 148 r°</p>
+                     <p><placeName>Fouloy</placeName>, prévôté, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 49 v°</p>
+                     <p><placeName>Fracine</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice> f° 96 v°</p>
+                     <p><placeName>Fretevalle</placeName> au <placeName>comté de Dunois</placeName>, <choice><abbr>loc</abbr><expan>locale</expan></choice>, f° 106 v°</p>
+                     <p><placeName>Fromenteau</placeName>, <choice><abbr>loc</abbr><expan>locale</expan></choice>, f° 96 r°</p>
                   </div>
                   <cb/>
                   <div>
                      <head>G.</head>
-                     <p>Gambais, enclave de Montfort l’Amaury, f° 26 v°</p>
-                     <p>Gastinois, f° 69 v°</p>
-                     <p>Germiny, loc., f° 115 v°</p>
-                     <p>Gien, comté, f° 69 v°</p>
-                     <p>Gisors, loc., f° 80 v°</p>
-                     <p>Gournay, loc., f° 80 v°</p>
-                     <p>Goüette, loc, f° 103 v°</p>
-                     <p>Guergy le Chatel, f° 17 v°</p>
-                     <p>Guierche, loc., f° 96 r°</p>
+                     <p><placeName>Gambais</placeName>, enclave de Montfort l’Amaury, f° 26 v°</p>
+                     <p><placeName>Gastinois</placeName>, f° 69 v°</p>
+                     <p><placeName>Germiny</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 115 v°</p>
+                     <p><placeName>Gien</placeName>, comté, f° 69 v°</p>
+                     <p><placeName>Gisors</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 80 v°</p>
+                     <p><placeName>Gournay</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 80 v°</p>
+                     <p><placeName>Goüette</placeName>, <choice><abbr>loc</abbr><expan>locale</expan></choice>, f° 103 v°</p>
+                     <p><placeName>Guergy</placeName> le Chatel, f° 17 v°</p>
+                     <p><placeName>Guierche</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 96 r°</p>
                   </div>
                   <div>
                      <head>H.</head>
-                     <p>Harcourt, loc, f° 80 v°</p>
-                     <p>Hautemaison, id., f° 10 v°</p>
-                     <p>Haynault, f° 61 v°</p>
-                     <p>Herbault, locale, f° 96 r°</p>
-                     <p>Herly, id., f° 58 v°</p>
-                     <p>Hesdin, id, f° 59 r°</p>
+                     <p><placeName>Harcourt</placeName>, <choice><abbr>loc</abbr><expan>locale</expan></choice>, f° 80 v°</p>
+                     <p><placeName>Hautemaison</placeName>, id., f° 10 v°</p>
+                     <p><placeName>Haynault</placeName>, f° 61 v°</p>
+                     <p><placeName>Herbault</placeName>, locale, f° 96 r°</p>
+                     <p><placeName>Herly</placeName>, id., f° 58 v°</p>
+                     <p><placeName>Hesdin</placeName>, id, f° 59 r°</p>
                   </div>
                   <pb xml:id="s1Fol10v" n="a10v"/>
                   <fw type="runningHead">Table</fw>
                   <div>
                      <head>J.</head>
-                     <p>Jameets, locale, f° 141 v°</p>
-                     <p>Joy sur Morin, id., f° 10 v°</p>
-                     <p>Isle Savary, id., f° 96 r°</p>
+                     <p><placeName>Jameets</placeName>, locale, f° 141 v°</p>
+                     <p><placeName>Joy sur Morin</placeName>, id., f° 10 v°</p>
+                     <p><placeName>Isle Savary</placeName>, id., f° 96 r°</p>
                   </div>
                   <div>
                      <head>L.</head>
-                     <p>Lagny sur Marne, locale, f° 10 v°</p>
-                     <p>Lalloene, id., f° 59 v°</p>
-                     <p>Langres, id., f° 17 v°</p>
-                     <p>Launoy, id., f° 61 r°</p>
-                     <p>Läon, cité, ville, banlieue et prévôté, foraine du baillage de
+                     <p><placeName>Lagny sur Marne</placeName>, locale, f° 10 v°</p>
+                     <p><placeName>Lalloene</placeName>, id., f° 59 v°</p>
+                     <p><placeName>Langres</placeName>, id., f° 17 v°</p>
+                     <p><placeName>Launoy</placeName>, id., f° 61 r°</p>
+                     <p><placeName>Läon</placeName>, cité, ville, banlieue et prévôté, foraine du baillage de
                         Vermandois, f° 37 r°</p>
-                     <p>Lens, loc., f° 59 r°</p>
-                     <p>Leocamp en Auvergne, f° 117 v°</p>
-                     <p>Lepuroulx, chatellenie, loc., f° 107 v°</p>
-                     <p>Liège, f° 140 r°</p>
-                     <p>Ligneil, loc, f° 96 r°</p>
+                     <p><placeName>Lens</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 59 r°</p>
+                     <p><placeName>Leocamp</placeName> en Auvergne, f° 117 v°</p>
+                     <p><placeName>Lepuroulx</placeName>, chatellenie, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 107 v°</p>
+                     <p><placeName>Liège</placeName>, f° 140 r°</p>
+                     <p><placeName>Ligneil</placeName>, <choice><abbr>loc</abbr><expan>locale</expan></choice>, f° 96 r°</p>
                      <cb/>
-                     <p>Lisle, f° 59 v°</p>
-                     <p>Lisle, ville, taille, banlieue et échevinage, f° 59 v°</p>
-                     <p>Lillers, locale, f° 59 v°</p>
-                     <p>Lodunois, f° 119 v°</p>
-                     <p>Loraine, f° 89 v°</p>
-                     <p>Lorris, f° 67 r°</p>
-                     <p>Luzy, baronnie, f° 17 v°</p>
-                     <p>Lyons en Normandie, loc., f° 81 r°</p>
-                     <p>Lyon, c’est Paris</p>
+                     <p><placeName>Lisle</placeName>, f° 59 v°</p>
+                     <p><placeName>Lisle</placeName>, ville, taille, banlieue et échevinage, f° 59 v°</p>
+                     <p><placeName>Lillers</placeName>, locale, f° 59 v°</p>
+                     <p><placeName>Lodunois</placeName>, f° 119 v°</p>
+                     <p><placeName>Loraine</placeName>, f° 89 v°</p>
+                     <p><placeName>Lorris</placeName>, f° 67 r°</p>
+                     <p><placeName>Luzy</placeName>, baronnie, f° 17 v°</p>
+                     <p><placeName>Lyons</placeName> en Normandie, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 81 r°</p>
+                     <p><placeName>Lyon</placeName>, c’est Paris</p>
                   </div>
                   <div>
                      <head>M.</head>
-                     <p>Mayne, comté, f° 100 r°</p>
-                     <p>Marmoustiers, locale, f° 96 r°</p>
-                     <p>Maizières, id., f° 96 r°</p>
-                     <p>Malmaison-Guerard, f° 10 v°</p>
-                     <p>Mante et Meulan, f° 26 v°</p>
-                     <p>Marche noire au comté de Dunois, f° 106 v°</p>
+                     <p><placeName>Mayne</placeName>, comté, f° 100 r°</p>
+                     <p><placeName>Marmoustiers</placeName>, locale, f° 96 r°</p>
+                     <p><placeName>Maizières</placeName>, id., f° 96 r°</p>
+                     <p><placeName>Malmaison-Guerard</placeName>, f° 10 v°</p>
+                     <p><placeName>Mante</placeName> et <placeName>Meulan</placeName>, f° 26 v°</p>
+                     <p><placeName>Marche noire</placeName> au comté de Dunois, f° 106 v°</p>
                      <pb xml:id="s1Fol11" n="a11"/>
                      <fw type="runningHead">des coutumes</fw>
-                     <p>Marche, dit la marche haut païs, f° 118 r°</p>
-                     <p>Marcollez en Auvergne, f° 117 v°</p>
-                     <p>Mareüil lez Meaux, f° 10 v°</p>
-                     <p>Marminhac, [sic. « parroisse »] de Cros en Auvergne, f° 117
+                     <p><placeName>Marche</placeName>, dit la marche haut païs, f° 118 r°</p>
+                     <p><placeName>Marcollez</placeName> en Auvergne, f° 117 v°</p>
+                     <p><placeName>Mareüil lez Meaux</placeName>, f° 10 v°</p>
+                     <p><placeName>Marminhac</placeName>, <sic>parroisse</sic> de Cros en Auvergne, f° 117
                         v°</p>
-                     <p>Marolle, chatellenie, f° 10 v°</p>
-                     <p>Meaux, baillage, f° 9 r°</p>
-                     <p>Meaux, chatellenie, f° 10 r°</p>
-                     <p>Melun, f° 10 v°</p>
-                     <p>[Menneton] sur Cher, chat<hi rend="superscript">nie</hi>,
+                     <p><placeName>Marolle</placeName>, chatellenie, f° 10 v°</p>
+                     <p><placeName>Meaux</placeName>, baillage, f° 9 r°</p>
+                     <p><placeName>Meaux</placeName>, chatellenie, f° 10 r°</p>
+                     <p><placeName>Melun</placeName>, f° 10 v°</p>
+                     <p><placeName><unclear>Menneton</unclear> sur Cher</placeName>, chat<hi rend="superscript">nie</hi>,
                         locale, f° 107 r°</p>
-                     <p>Metz en païs Metzin, loc., f° 88 r°</p>
-                     <p>Meulan, f° 26 v°</p>
-                     <p>Milançay, chat<hi rend="superscript">nie</hi>, loc., f° 107
+                     <p><placeName>Metz</placeName> en païs Metzin, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 88 r°</p>
+                     <p><placeName>Meulan</placeName>, f° 26 v°</p>
+                     <p><placeName>Milançay</placeName>, chat<hi rend="superscript">nie</hi>, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 107
                         r°</p>
-                     <p>Millefousse, loc., f° 61 r°</p>
+                     <p><placeName>Millefousse</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 61 r°</p>
                      <cb/>
-                     <p>Mimeaux, locale, f° 10 v°</p>
-                     <p>Molins en Berry, f° 107 r°</p>
-                     <p>Mons en Haynault, f° 62 r°</p>
-                     <p>Moustier, ville, f° 80 v°</p>
-                     <p>Monstreüil sur mer, prévôté, locale, f° 49 r°</p>
-                     <p>Montargis, baillage et prévôté, f° 67 r°</p>
-                     <p>Montdidier, f° 58 v°</p>
+                     <p><placeName>Mimeaux</placeName>, locale, f° 10 v°</p>
+                     <p><placeName>Molins en Berry</placeName>, f° 107 r°</p>
+                     <p><placeName>Mons en Haynault</placeName>, f° 62 r°</p>
+                     <p><placeName>Moustier</placeName>, ville, f° 80 v°</p>
+                     <p><placeName>Monstreüil sur mer</placeName>, prévôté, locale, f° 49 r°</p>
+                     <p><placeName>Montargis</placeName>, baillage et prévôté, f° 67 r°</p>
+                     <p><placeName>Montdidier</placeName>, f° 58 v°</p>
                      <p>Montmirail au Perche Goüet, f° 103 v°</p>
-                     <p>Montereau, loc., f° 10 v°</p>
-                     <p>Montfort l’Amaury, comté et bail<hi rend="superscript">ge</hi>,
+                     <p><placeName>Montereau</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 10 v°</p>
+                     <p><placeName>Montfort l’Amaury</placeName>, comté et bail<hi rend="superscript">ge</hi>,
                         f° 24 r°</p>
-                     <p>Montigny, loc., f° 10 v°</p>
-                     <p>Montrichard, id., f° 96 r°</p>
-                     <p>Montsaujon, id., f° 17 v°</p>
-                     <p>Moche sur Yndre, id., f° 96 r°</p>
-                     <p>Montvaux, id, f° 61 r°</p>
-                     <p>Murtz, id, f° 10 v°</p>
+                     <p><placeName>Montigny</placeName>, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 10 v°</p>
+                     <p><placeName>Montrichard</placeName>, id., f° 96 r°</p>
+                     <p><placeName>Montsaujon</placeName>, id., f° 17 v°</p>
+                     <p><placeName>Moche sur Yndre</placeName>, id., f° 96 r°</p>
+                     <p><placeName>Montvaux</placeName>, id, f° 61 r°</p>
+                     <p><placeName>Murtz</placeName>, id, f° 10 v°</p>
                   </div>
                   <pb xml:id="s1Fol11v" n="a11v"/>
                   <fw type="runningHead">Table</fw>
@@ -1081,10 +1080,10 @@
                      <p>Neaufle le Chatel, enclos de Montfort l’Amaury, f° 26 v°</p>
                      <p>Nedouchel, bail<hi rend="superscript">ge</hi>, f° 58 v°</p>
                      <p>Nemours, duché, païs de Gastinois, f° 69 v°</p>
-                     <p>Neufchatel, loc., f° 80 v°</p>
-                     <p>Neufville, loc., f° 61 r°</p>
+                     <p>Neufchatel, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 80 v°</p>
+                     <p>Neufville, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 61 r°</p>
                      <p>Nivernois, f° 62 r°</p>
-                     <p>Nonancourt, loc<hi rend="superscript">le</hi>, f° 80 v°</p>
+                     <p>Nonancourt, <choice><abbr>loc<hi rend="superscript">le</hi></abbr><expan>locale</expan></choice>, f° 80 v°</p>
                      <p>Normandie, duché, f° 77 v°</p>
                      <p>Noyon, bail<hi rend="superscript">ge</hi> de Vermandois, f° 47
                         r°</p>
@@ -1103,10 +1102,10 @@
                         r°</p>
                      <p>Perche Goüet, f° 103 v°</p>
                      <p>Peronne, gouvernement, f° 58 v°</p>
-                     <p>Phalempin, loc., f° 61 r°</p>
+                     <p>Phalempin, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 61 r°</p>
                      <p>Pierrefond, enclave de Valois, f° 35 v°</p>
                      <p>Poitou, comté, f° 120 r°</p>
-                     <p>Pont a Wendin, loc., f° 61 v°</p>
+                     <p>Pont a Wendin, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 61 v°</p>
                      <p>Pont de l’arche, id., f° 80 v°</p>
                      <p>Ponthieu, sénéchaussée et comté, f° 53 v°</p>
                      <pb xml:id="s1Fol12" n="a12"/>
@@ -1114,7 +1113,7 @@
                      <p>Pontoise, f° 29 v°</p>
                      <p>Provence, f° 148 r°</p>
                      <p>Provins, chatellenie, f° 10 v°</p>
-                     <p>Pruilly, loc., f° 96 r°</p>
+                     <p>Pruilly, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 96 r°</p>
                      <p>Puy S<hi rend="superscript">t</hi> Laurian, chatellenie,
                         locale, f° 107 v°</p>
                      <p>Puysaye, f° 69 v°</p>
@@ -1132,12 +1131,12 @@
                         v°</p>
                      <p>Ribemont, prévôté et bail<hi rend="superscript">ge</hi> de
                         Vermandois, f° 47 v°</p>
-                     <p>Roche de Pouzay, loc., f° 96 r°</p>
+                     <p>Roche de Pouzay, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 96 r°</p>
                      <cb/>
                      <p>Rochelle, ville et gouvernement, f° 120
                         r°</p>
                      <p>Romorantin, chatellenie, locale, f° 107 r°</p>
-                     <p>Roüen, loc., f° 80 v°</p>
+                     <p>Roüen, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 80 v°</p>
                      <p>Roye, f° 58 v°</p>
                      <p>Rue d’Yndre aux faubourgs de Chateauroux, baronnie, locale, f°
                         107 v°</p>
@@ -1148,17 +1147,17 @@
                      <p>S<hi rend="superscript">t</hi> Cyran en Brenne, id., f° 96
                         r°</p>
                      <p>S<hi rend="superscript">t</hi> Fargeau, f° 69 v°</p>
-                     <p>S<hi rend="superscript">t</hi> Genoust, loc., f° 96 r°</p>
+                     <p>S<hi rend="superscript">t</hi> Genoust, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 96 r°</p>
                      <p>S<hi rend="superscript">t</hi> Leger en yveline dépendant de
                         Montfort l’Amaury, f° 26 v°</p>
                      <p>S<hi rend="superscript">t</hi> Maurice en Auvergne, f° 116
                         v°</p>
                      <p>S<hi rend="superscript">t</hi> Omer, f° 51 r°</p>
-                     <p>S<hi rend="superscript">t</hi> Omer, loc., f° 59 r°</p>
+                     <p>S<hi rend="superscript">t</hi> Omer, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 59 r°</p>
                      <pb xml:id="s1Fol12v" n="a12v"/>
                      <fw type="runningHead">Table</fw>
                      <p>S<hi rend="superscript">t</hi> Paul, f° 59 r°</p>
-                     <p>S<hi rend="superscript">t</hi> Paul, loc., f° 52 r°</p>
+                     <p>S<hi rend="superscript">t</hi> Paul, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 52 r°</p>
                      <p>S<hi rend="superscript">t</hi> Piat de Scelin, f° 61 r°</p>
                      <p>S<hi rend="superscript">t</hi> Pierre de Lisle, f° 61 v°</p>
                      <p>S<hi rend="superscript">t</hi> Pourçain, f° 115 v°</p>
@@ -1170,7 +1169,7 @@
                         v°</p>
                      <p>S<hi rend="superscript">t</hi> Sever, prévôté, f° 121 r°</p>
                      <p>Salle de Lisle, f° 60 v°</p>
-                     <p>Sallomez, loc., f° 61 v°</p>
+                     <p>Sallomez, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 61 v°</p>
                      <p>Sancerre, id., f° 69 v°</p>
                      <p>Seclin, id., f° 51 r°</p>
                      <p>Sedan, f° 141 v°</p>
@@ -1194,7 +1193,7 @@
                      <p>Tourcoin, f° 61 r°</p>
                      <p>Tournay, f° 138 v°</p>
                      <p>Trefou, chatellenie, f° 10 v°</p>
-                     <p>Tremblay, loc., f° 107 v°</p>
+                     <p>Tremblay, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 107 v°</p>
                      <p>Troyes, baillage, f° 35 v°</p>
                   </div>
                   <div>
@@ -1209,14 +1208,14 @@
                      <p>Verberies enclave de Valois, f° 35 v°</p>
                      <p>Vermandois, baillage, f° 37 r°</p>
                      <p>Verneüil en Normandie, f° 81 r°</p>
-                     <p>Verneüil en Bourbonnois, loc., f° 115 v°</p>
-                     <p>Vernon, loc., f° 81 r°</p>
+                     <p>Verneüil en Bourbonnois, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 115 v°</p>
+                     <p>Vernon, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 81 r°</p>
                      <p>Villebrosse, id., f° 107 r°</p>
                      <p>Villebrosse, châtellenie, locale, f° 107 v°</p>
-                     <p>Villefranche sur Cher, loc., f° 107 v°</p>
-                     <p>Villemareüil, loc., f° 10 v°</p>
-                     <p>Villeneuve sous Barillon, loc., f° 107 v°</p>
-                     <p>Visneux, prévôté, loc., f° 49 v°</p>
+                     <p>Villefranche sur Cher, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 107 v°</p>
+                     <p>Villemareüil, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 10 v°</p>
+                     <p>Villeneuve sous Barillon, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 107 v°</p>
+                     <p>Visneux, prévôté, <choice><abbr>loc.</abbr><expan>locale</expan></choice>, f° 49 v°</p>
                      <cb/>
                      <p>Vire, locale, f° 80 v°</p>
                      <p>Vitry le François, baillage, f° 36 v°</p>
@@ -4928,11 +4927,11 @@
                         <p>Il n’y a que ce seul art. dans le titre des
                            « Prescriptions » qui dispose des servitudes, il n’y en a
                            pas même d’autre dans la coutume de lad. prévôté royale de
-                              <placeName ref="#NoyonOiseFrance">« Noyon »</placeName>.
+                              <placeName ref="#noyonOiseFrance">Noyon</placeName>.
                         </p>
                         <metamark rend="simpleLine alignCenter"/>
                         <p>
-                           <hi rend="bigger">Dans la coutume de <placeName ref="#SaintQuentinAisneFrance">« St Quentin »</placeName>
+                           <hi rend="bigger">Dans la coutume de <placeName ref="#saintQuentinAisneFrance">St Quentin</placeName>
                            </hi>, du
                            baillage de Vermandois, Il n’est fait aucune mention des
                            servitudes.</p>
@@ -4941,15 +4940,15 @@
                            <pb xml:id="s1Fol63v" n="47v"/>
                            <fw type="foliotation">63 v (f° 47 v)</fw>
                         </p>
-                        <p>Dans la coutume de <placeName ref="#RibemontAisneFrance">« Ribemont »</placeName>
+                        <p>Dans la coutume de <placeName ref="#ribemontAisneFrance">Ribemont</placeName>
                             du même baillage de
                            Vermandois, il n’est fait aucune mention des servitudes.</p>
                         <metamark rend="simpleLine alignCenter"/>
                         <p>
-                           <hi rend="bigger">À la fin</hi> de la Coutume de <placeName ref="#CoucyLaVilleAisneFrance">« Coucy »</placeName> dud. baillage de Vermandois,
-                           il est dit qu’au reste ce qui est de l’ancien ressort de <placeName ref="#LaonAisneFrance">« Laön »</placeName>, se gouvernera
+                           <hi rend="bigger">À la fin</hi> de la Coutume de <placeName ref="#coucyLaVilleAisneFrance">Coucy</placeName> dud. baillage de Vermandois,
+                           il est dit qu’au reste ce qui est de l’ancien ressort de <placeName ref="#laonAisneFrance">Laön</placeName>, se gouvernera
                            suivant la coutume dud. Laön, et ce qui est de l’ancien
-                           ressort de <placeName ref="#SenlisOiseFrance">« Senlis »</placeName> selon la coutume de
+                           ressort de <placeName ref="#senlisOiseFrance">Senlis</placeName> selon la coutume de
                            Senlis.</p>
                         <metamark rend="simpleLine alignCenter"/>
                         <!-- TODO <p>[fol. 63 v (f° 47 v), titre courant : « Coutume de
@@ -6000,21 +5999,21 @@
                   </div>
                   <div>
                      <head rend="alignCenter">[Coutumes locales dépendant de la coutume
-                        générale de Lille]</head>
+                        générale de <placeName>Lille</placeName>]</head>
                      <p>
                         <pb xml:id="s1Fol77" n="61"/>
                         <fw type="foliotation">77 r (f° 61 r)</fw>
                         <hi rend="bigger">Il y a</hi> plusieurs
                         coutumes locales et particulières qui dépendent de la générale
-                        de Lisle qui sont,</p>
-                     <p>De la ville et échevinage de <placeName ref="#SeclinNordFrance">Seclin</placeName>,</p>
+                        de <placeName>Lisle</placeName> qui sont,</p>
+                     <p>De la ville et échevinage de <placeName ref="#seclinNordFrance">Seclin</placeName>,</p>
                      <p>De l’échevinage d’Anapes,</p>
                      <p>Des bancs de Lepine Lapostelle,</p>
                      <p>De la prévôté d’Esquermes,</p>
                      <p>De la pairie d’Esreux,</p>
-                     <p>De <placeName ref="#PhalempinNordFrance">Phalempin</placeName>, et dépendances,</p>
+                     <p>De <placeName ref="#phalempinNordFrance">Phalempin</placeName>, et dépendances,</p>
                      <p>De la Bassée,</p>
-                     <p>D’ <placeName ref="#OstricourtNordFrance">Ostrincourt</placeName>,
+                     <p>D’ <placeName ref="#ostricourtNordFrance">Ostrincourt</placeName>,
                      </p>
                      <p>De l’échevinage de Neufville,</p>
                      <p>De la ville, es prévôté de Chisoing,</p>
@@ -6342,11 +6341,11 @@
                         <head rend="alignCenter">18.</head>
                         <p>
                            <hi rend="bigger">Dedans</hi> les murs de la ville et cité
-                           de <placeName ref="#NeversNievreFrance">Nevers</placeName>,
+                           de <placeName ref="#neversNievreFrance">Nevers</placeName>,
                            l’on ne peut nourrir pourceaux, truyes, boucs, chèvres,
                            cochons, chevreaux et autres semblables bestes, sur peine
-                           d’amende ; et aussy ez ville de <placeName ref="#ClamecyNievreFrance">Clamecy</placeName>
-                           et <placeName ref="#DecizeNievreFrance">De Sizes</placeName>.
+                           d’amende ; et aussy ez ville de <placeName ref="#clamecyNievreFrance">Clamecy</placeName>
+                           et <placeName ref="#decizeNievreFrance">De Sizes</placeName>.
                         </p>
                      </div>
                      <div>
@@ -6692,20 +6691,20 @@
                         <fw type="foliotation">69 v.</fw>
                      </p>
                      <p>
-                        <hi rend="bigger">De la coutume</hi> générale de <placeName ref="#LorrisLoiretFrance">Lorris</placeName> et <placeName ref="#MontargisLoiretFrance">Montargis</placeName>
+                        <hi rend="bigger">De la coutume</hi> générale de <placeName ref="#lorrisLoiretFrance">Lorris</placeName> et <placeName ref="#montargisLoiretFrance">Montargis</placeName>
                          dépendent :</p>
                      <p>
-                        <placeName ref="#SaintFargeauYonneFrance">St Fargeau</placeName>
+                        <placeName ref="#saintFargeauYonneFrance">St Fargeau</placeName>
                      </p>
                      <p>Païs de Puysaye,</p>
                      <p>
-                        <placeName ref="#ChatillonColignyLoiretFrance">Chatillon sur Loing</placeName>,</p>
-                     <p>Le comté de <placeName ref="#GienLoiretFrance">Gien</placeName>,</p>
+                        <placeName ref="#chatillonColignyLoiretFrance">Chatillon sur Loing</placeName>,</p>
+                     <p>Le comté de <placeName ref="#gienLoiretFrance">Gien</placeName>,</p>
                      <p>
-                        <placeName ref="#SancerreCherFrance">Sancerre</placeName>,</p>
-                     <p>Le duché de <placeName ref="#NemoursSeineEtMarneFrance">Nemours</placeName>,</p>
-                     <p>Ce qui est au <placeName ref="#GatinaisPaysDuFrance">païs de Gastinois</placeName>,</p>
-                     <p>La chatellenie de <placeName ref="#ChateauLandonSeineEtMarneFrance">Chateaulandon</placeName>.</p>
+                        <placeName ref="#sancerreCherFrance">Sancerre</placeName>,</p>
+                     <p>Le duché de <placeName ref="#nemoursSeineEtMarneFrance">Nemours</placeName>,</p>
+                     <p>Ce qui est au <placeName ref="#gatinaisPaysDuFrance">païs de Gastinois</placeName>,</p>
+                     <p>La chatellenie de <placeName ref="#chateauLandonSeineEtMarneFrance">Chateaulandon</placeName>.</p>
                      <metamark rend="simpleLine alignCenter"/>
                      <p>
                         <pb xml:id="s1Fol86" n="70"/>
@@ -7571,32 +7570,32 @@
                         point mention particulière des servitudes dont l’estat
                         suit.</p>
                      <p>
-                        <hi rend="bigger">De</hi> la vicomté de <placeName ref="#RouenSeineMaritimeFrance">Rouen</placeName>,</p>
-                     <p>De la vicomté du <placeName ref="#PontDeLArcheEureFrance">Pont de larche</placeName>,</p>
-                     <p>De la vicomté d’ <placeName ref="#ArquesLaBatailleSeineMaritimeFrance">Arques</placeName>,</p>
-                     <p>De la vicomté de <placeName ref="#MontivilliersSeineMaritimeFrance">Montiervilliers</placeName>,</p>
-                     <p>De la vicomté de <placeName ref="#NeufchatelEnBraySeineMaritimeFrance">Neufchâtel</placeName>,</p>
+                        <hi rend="bigger">De</hi> la vicomté de <placeName ref="#rouenSeineMaritimeFrance">Rouen</placeName>,</p>
+                     <p>De la vicomté du <placeName ref="#pontDeLArcheEureFrance">Pont de larche</placeName>,</p>
+                     <p>De la vicomté d’ <placeName ref="#arquesLaBatailleSeineMaritimeFrance">Arques</placeName>,</p>
+                     <p>De la vicomté de <placeName ref="#montivilliersSeineMaritimeFrance">Montiervilliers</placeName>,</p>
+                     <p>De la vicomté de <placeName ref="#neufchatelEnBraySeineMaritimeFrance">Neufchâtel</placeName>,</p>
                      <p>Des 24 parroisses, hameaux et villages qui sont du ressort de
-                           <placeName ref="#GournayEnBraySeineMaritimeFrance">Gournay</placeName>
+                           <placeName ref="#gournayEnBraySeineMaritimeFrance">Gournay</placeName>
                          assis de la rivière d’Epte,</p>
-                     <p>De la vicomté de <placeName ref="#CaenCalvadosFrance">Caen</placeName>,</p>
-                     <p>De la vicomté de <placeName ref="#BayeuxCalvadosFrance">Bayeux</placeName>,</p>
-                     <p>De la vicomté de <placeName ref="#VireCalvadosFrance">Vire</placeName>,</p>
-                     <p>De la vicomté de <placeName ref="#FalaiseCalvadosFrance">Falaise</placeName>,</p>
-                     <p>De la vicomté et châtellenie d’<placeName ref="#EvreuxEureFrance">Évreux</placeName>
-                         et <placeName ref="#NonancourtEureFrance">Nonancourt</placeName>,</p>
-                     <p>De la vicomté de <placeName ref="#BeaumontLeRogerEureFrance">Beaumont le Roger</placeName>
-                         compris le Comté d’<placeName ref="#HarcourtEureFrance">Harcourt</placeName>,</p>
-                     <p>De la vicomté et châtellenie de <placeName ref="#ConchesEnOucheEureFrance">Conches</placeName> et <placeName ref="#BreteuilEureFrance">Breteuil</placeName>,</p>
-                     <p>De la vicomté de <placeName ref="#GisorsEureFrance">Gisors</placeName>,</p>
+                     <p>De la vicomté de <placeName ref="#caenCalvadosFrance">Caen</placeName>,</p>
+                     <p>De la vicomté de <placeName ref="#bayeuxCalvadosFrance">Bayeux</placeName>,</p>
+                     <p>De la vicomté de <placeName ref="#vireCalvadosFrance">Vire</placeName>,</p>
+                     <p>De la vicomté de <placeName ref="#falaiseCalvadosFrance">Falaise</placeName>,</p>
+                     <p>De la vicomté et châtellenie d’<placeName ref="#evreuxEureFrance">Évreux</placeName>
+                         et <placeName ref="#nonancourtEureFrance">Nonancourt</placeName>,</p>
+                     <p>De la vicomté de <placeName ref="#beaumontLeRogerEureFrance">Beaumont le Roger</placeName>
+                         compris le Comté d’<placeName ref="#harcourtEureFrance">Harcourt</placeName>,</p>
+                     <p>De la vicomté et châtellenie de <placeName ref="#conchesEnOucheEureFrance">Conches</placeName> et <placeName ref="#breteuilEureFrance">Breteuil</placeName>,</p>
+                     <p>De la vicomté de <placeName ref="#gisorsEureFrance">Gisors</placeName>,</p>
                      <p>
                         <pb xml:id="s1Fol97" n="81"/>
-                        <fw type="foliotation">81</fw> De la vicomté de <placeName ref="#VernonEureFrance">Vernon</placeName>,</p>
-                     <p>De la vicomté d’<placeName ref="#LesAndelysEureFrance">Andely</placeName>,</p>
-                     <p>De la vicomté <placeName ref="#LyonsLaForetEureFrance">Lyons</placeName>,</p>
-                     <p>De la vicomté de <placeName ref="#VerneuilSurAvreEureFrance">Verneuil</placeName>,</p>
-                     <p>De la chatellenie d’<placeName ref="#AlenconOrneFrance">Alençon</placeName>,</p>
-                     <p>De la vicomté de <placeName ref="#CaudebecEnCauxSeineMaritimeFrance">Caudebecq</placeName>.</p>
+                        <fw type="foliotation">81</fw> De la vicomté de <placeName ref="#vernonEureFrance">Vernon</placeName>,</p>
+                     <p>De la vicomté d’<placeName ref="#lesAndelysEureFrance">Andely</placeName>,</p>
+                     <p>De la vicomté <placeName ref="#lyonsLaForetEureFrance">Lyons</placeName>,</p>
+                     <p>De la vicomté de <placeName ref="#verneuilSurAvreEureFrance">Verneuil</placeName>,</p>
+                     <p>De la chatellenie d’<placeName ref="#alenconOrneFrance">Alençon</placeName>,</p>
+                     <p>De la vicomté de <placeName ref="#caudebecEnCauxSeineMaritimeFrance">Caudebecq</placeName>.</p>
                      <metamark rend="simpleLine alignCenter"/>
                      <!-- TODO <p>
                               [fol. 97 v (f° 81 r), titre
@@ -8678,51 +8677,51 @@
                         coutume de Touraine, lesquelles ne font point mention de
                         servitudes.</p>
                      <p><!-- TODO Châtillon en rubrique -->
-                        <placeName ref="#ChatillonSurIndreIndreFrance">Châtillon sur Yndre</placeName>,</p>
+                        <placeName ref="#chatillonSurIndreIndreFrance">Châtillon sur Yndre</placeName>,</p>
                      <p>
                         <placeName>Fromenteau</placeName>
                         <ref type="noteHistorical" target="#s1Nh0472"/>,</p>
                      <p>
-                        <placeName ref="#AmboiseIndreEtLoireFrance">Amboise</placeName>,</p>
+                        <placeName ref="#amboiseIndreEtLoireFrance">Amboise</placeName>,</p>
                      <p>
-                        <placeName ref="#MontrichardLoirEtCherFrance">Montrichard</placeName>,</p>
+                        <placeName ref="#montrichardLoirEtCherFrance">Montrichard</placeName>,</p>
                      <p>
                         <placeName>Mairemoustiers</placeName>
                         <ref type="noteHistorical" target="#s1Nh0473"/>,</p>
                      <p>
-                        <placeName ref="#PreuillySurClaiseIndreEtLoireFrance">Pruilly</placeName>,</p>
+                        <placeName ref="#preuillySurClaiseIndreEtLoireFrance">Pruilly</placeName>,</p>
                      <p>
-                        <placeName ref="#AzayLeFerronIndreFrance">Azay le Feron</placeName>,</p>
+                        <placeName ref="#azayLeFerronIndreFrance">Azay le Feron</placeName>,</p>
                      <p>
-                        <placeName ref="#LaRochePosayVienneFrance">La Roche de Pouzay</placeName>,</p>
+                        <placeName ref="#laRochePosayVienneFrance">La Roche de Pouzay</placeName>,</p>
                      <p>
-                        <placeName ref="#LaGuiercheSartheFrance">La Guierche</placeName>,</p>
+                        <placeName ref="#laGuiercheSartheFrance">La Guierche</placeName>,</p>
                      <p>
-                        <placeName ref="#LigueilIndreEtLoireFrance">Ligneil</placeName>,</p>
+                        <placeName ref="#ligueilIndreEtLoireFrance">Ligneil</placeName>,</p>
                      <p>
-                        <placeName ref="#LaMotteFeuillyIndreFrance">La Moche sur Yndre</placeName>
+                        <placeName ref="#laMotteFeuillyIndreFrance">La Moche sur Yndre</placeName>
                         <ref type="noteHistorical" target="#s1Nh0474"/>,</p>
                      <p>
-                        <placeName ref="#BuzancaisIndreFrance">Buzançois</placeName>,</p>
+                        <placeName ref="#buzancaisIndreFrance">Buzançois</placeName>,</p>
                      <p>
                         <placeName>Bauche</placeName>
                         <ref type="noteHistorical" target="#s1Nh0475"/>,</p>
                      <p>
-                        <placeName ref="#SaintGenouIndreFrance">St Genoust</placeName>,</p>
+                        <placeName ref="#saintGenouIndreFrance">St Genoust</placeName>,</p>
                      <p>
-                        <placeName ref="#LeCoudrayEureEtLoirFrance">Le Coudray</placeName>,</p>
+                        <placeName ref="#leCoudrayEureEtLoirFrance">Le Coudray</placeName>,</p>
                      <p>
-                        <placeName ref="#MezieresEnBrenneIndreFrance">Maizières</placeName>,</p>
+                        <placeName ref="#mezieresEnBrenneIndreFrance">Maizières</placeName>,</p>
                      <p>
-                        <placeName ref="#SaintMichelEnBrenneIndreFrance">St Cyran en Brenne</placeName>
+                        <placeName ref="#saintMichelEnBrenneIndreFrance">St Cyran en Brenne</placeName>
                         <ref type="noteHistorical" target="#s1Nh0476"/>,</p>
                      <p>
                         <placeName>Lisle Savary</placeName>
                         <ref type="noteHistorical" target="#s1Nh0477"/>,</p>
                      <p>
-                        <placeName ref="#ChateauRenaultIndreEtLoireFrance">Chateauregnaud</placeName>,</p>
+                        <placeName ref="#chateauRenaultIndreEtLoireFrance">Chateauregnaud</placeName>,</p>
                      <p>
-                        <placeName ref="#HerbaultLoirEtCherFrance">Herbault</placeName>,</p>
+                        <placeName ref="#herbaultLoirEtCherFrance">Herbault</placeName>,</p>
                      <p>
                         <pb xml:id="s1Fol112v" n="96v"/>
                         <fw type="foliotation">96 v.</fw>
@@ -9561,10 +9560,10 @@
                      <head>[Coutumes dépendant de celle de Blois]</head>
                      <p>
                         <hi rend="bigger">Ensuivent</hi> plusieurs coutumes locales
-                        dépendantes de la coutume générale de <placeName ref="#BloisLoirEtCherFrance">Blois</placeName>
+                        dépendantes de la coutume générale de <placeName ref="#bloisLoirEtCherFrance">Blois</placeName>
                         <ref type="noteHistorical" target="#s1Nh0542"/>.</p>
                      <p>
-                        <hi rend="bigegr">De la châtellenie</hi> de <placeName ref="#RomorantinLanthenayLoirEtCherFrance">Romorantin</placeName>, <placeName ref="#MillancayLoirEtCherFrance">Millancay</placeName>, <!-- TODO [Villebrosse ; et
+                        <hi rend="bigegr">De la châtellenie</hi> de <placeName ref="#romorantinLanthenayLoirEtCherFrance">Romorantin</placeName>, <placeName ref="#millancayLoirEtCherFrance">Millancay</placeName>, <!-- TODO [Villebrosse ; et
                         Billy ;--></p>
                      <p>De la baronie et seigneurie de St Agnan <!-- TODO [Aignan]-->;</p>
                      <p>De la châtellenie de Mennetou sur Cher ;</p>
@@ -10275,15 +10274,15 @@
                         qui est le premier <hi rend="italic">des servitudes réelles et
                            raports de jurez</hi>, contenant « En mur commun », iceluy
                         article a esté écrit pour nouvelle coutume.</p>
-                     <p>[en retrait :] Il y a quelques coutumes locales au païs de <placeName ref="#BourbonnaisProvinceDuFrance">Bourbonnois</placeName>, mais elles ne font
+                     <p>[en retrait :] Il y a quelques coutumes locales au païs de <placeName ref="#bourbonnaisProvinceDuFrance">Bourbonnois</placeName>, mais elles ne font
                         aucune mention des servitudes.</p>
                      <p>
                         <hi rend="bigger">La châtellenie</hi> de <placeName ref="#VerneuilEnBourbonnaisAllierFrance">Verneuil</placeName>,</p>
-                     <p>La châtellenie de <placeName ref="#BillyAllierFrance">Billy en Bourbonnois</placeName>,</p>
+                     <p>La châtellenie de <placeName ref="#billyAllierFrance">Billy en Bourbonnois</placeName>,</p>
                      <p>
-                        <placeName ref="#GermignyLExemptCherFrance">Germigny</placeName>,</p>
+                        <placeName ref="#germignyLExemptCherFrance">Germigny</placeName>,</p>
                      <p>
-                        <placeName ref="#SaintPourcainSurSiouleAllierFrance">St Pourçain</placeName>
+                        <placeName ref="#saintPourcainSurSiouleAllierFrance">St Pourçain</placeName>
                         <!-- TODO ou Saint-Pourcain-sur-Besbre
                            (Allier, France); http://catalogue.bnf.fr/ark:/12148/cb15244272d/PUBLIC]-->,</p>
                      <metamark rend="simpleLine alignCenter"/>
@@ -10376,13 +10375,14 @@
                         quelques unes qui parlent des édifices et bâtimens dont les
                         articles sont cy après.</p>
                      <div>
-                        <head>[Mis en valeur ; centré, gras]<lb/>Au Comté
-                           d’Auvergne,<lb/>Des Châtellenies de <placeName ref="#YrondeEtBuronPuyDeDomeFrance">Buron</placeName>,</head>
+                        <head rend="alignCenter">Au Comté
+                           d’Auvergne, 
+                           <lb/>Des Châtellenies de <placeName ref="#yrondeEtBuronPuyDeDomeFrance">Buron</placeName>,</head>
                      </div>
                      <div>
                         <head>
-                           <placeName ref="#SalledesPuyDeDomeFrance">Cremps</placeName>, <placeName ref="#BusseolPuyDeDomeFrance">Busséol</placeName>
-                            et <placeName ref="#SaintMauricePuyDeDomeFrance">St Maurice</placeName>
+                           <placeName ref="#salledesPuyDeDomeFrance">Cremps</placeName>, <placeName ref="#busseolPuyDeDomeFrance">Busséol</placeName>
+                            et <placeName ref="#saintMauricePuyDeDomeFrance">St Maurice</placeName>
                         </head>
                         <p>
                            <hi rend="bigger">Si</hi>  entre deux héritages circonvoisins, y a
@@ -10400,7 +10400,7 @@
                            <fw type="foliotation">117</fw>
                         </p>
                         <p>
-                           <hi rend="bigger">La ville et cité de <placeName ref="#ClermontFerrandPuyDeDomeFrance">Clermont</placeName>
+                           <hi rend="bigger">La ville et cité de <placeName ref="#clermontFerrandPuyDeDomeFrance">Clermont</placeName>
                            </hi>, se régit par droit écrit<ref type="noteHistorical" target="#s1Nh0585"/>, et y a coutumes locales dont
                            quelques articles suivent<ref type="noteHistorical" target="#s1Nh0586"/>.</p>
                         <p>
@@ -10436,7 +10436,7 @@
                         <head>[Mis en valeur : centré, gras]<lb/>De la Coutume locale
                            de la <lb/>
                            <hi rend="bold">ville d’</hi>
-                           <placeName ref="#AurillacCantalFrance">Orilhac</placeName>
+                           <placeName ref="#aurillacCantalFrance">Orilhac</placeName>
                         </head>
                         <p>
                            <hi rend="bigger">Les</hi> habitans de lad. ville peuvent faire
@@ -10450,7 +10450,7 @@
                            <hi rend="bold">De</hi>
                            <placeName>Marninhac</placeName>
                            <ref type="noteHistorical" target="#s1Nh0600"/>, 
-                           <lb/>Parroisse de <placeName ref="#CrosPuyDeDomeFrance">Cros</placeName>
+                           <lb/>Parroisse de <placeName ref="#crosPuyDeDomeFrance">Cros</placeName>
                         </head>
                         <p>
                            <hi rend="bigger">Ceux</hi>  qui ont fruitages joignans des
