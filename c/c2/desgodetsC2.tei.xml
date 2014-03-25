@@ -627,7 +627,7 @@
          </titlePage>
          <!-- Préface -->
          <div xml:id="c2FrontFr" xml:lang="fre" type="transcription">
-            <pb xml:id="c2F3rb" n="3"/>
+            <pb xml:id="c2F3r" n="3"/>
             <div xml:id="c2FrontFr01" type="preface">
                <head rend="alignCenter">Préface</head>
                <p xml:id="c2FrontFr01.p001" ana="#iArchitectureOrigines"> <hi
@@ -1081,7 +1081,7 @@
                         rend="superscript">e</hi> et 4<hi rend="superscript"
                         >e</hi> dessein des profils ou coupes cy après. N’on comme ils sont à présent, mais suivant l’usage des anciennes rubriques, tout le reste est dans sa juste proportion, que l’on peut mesurer et connoître par les échelles de toises parisiennes qui sont au bas de ces desseins<ref
                         type="noteHistorical" target="#c2Nh0068"/>.</p>
-                     <p xml:id="c2BodyFr01.01.003.p003"> <hi rend="bigger">Cette</hi> 
+                     <p xml:id="c2BodyFr01.01.003.p003"> <hi rend="bigger">Cette</hi>
                         <term type="gT" ref="#eglise">église</term> de <placeName
                         ref="#romeSteSabine"
                         >Sainte Sabine</placeName> est fort ancienne<ref
@@ -10466,7 +10466,7 @@
                         /> plus aisés et pour donner du repos aux personnes qui y montent, et estre plus gracieux par la diversité du contour de ses marches. Celles de la troisième rampe du haut, sont placées dans l’épaisseur des trois <term
                         type="gT" ref="#arcade">arcades</term> qui entrent au <term
                         type="gT" ref="#vestibule">vestibule</term>.</p>
-                     <p xml:id="c2BodyFr02.02.002.p005"> <hi rend="bigger">Du</hi> 
+                     <p xml:id="c2BodyFr02.02.002.p005"> <hi rend="bigger">Du</hi>
                         <term type="gT" ref="#vestibule"
                         >vestibule</term> l’on entre dans la grande cour par les trois autres <term
                         type="gT" ref="#arcade"
