@@ -67,7 +67,7 @@
             <!-- mention d'édition -->
             <editionStmt>
                 <edition n="1">première édition électronique, <date from="2013" to="2013"
-                        >2008-2013</date></edition>
+                    >2008-2013</date></edition>
             </editionStmt>
             <extent><!-- taille du fichier en octet --></extent>
             <!-- information sur la publication électronique -->
@@ -90,60 +90,35 @@
                   <addrLine>contact@desgodets.fr</addrLine>
                </address>
                 </publisher>
+                <availability status="restricted" xml:id="sPresentationImagesLicence">
+                    <p>Les images numériques des manuscrits sont mises à disposition par les institutions partenaires mais restent leur propriété exclusive. Celles-ci en autorisent la reproduction et la réutilisation selon leurs propres règles en vigueur. Toute diffusion de ces images, sous quelque forme et sur quelque support que ce soit (papier, audiovisuel, ou numérique), pour quelque finalité que ce soit (pédagogique, scientifique ou commercial), doit faire l’objet d’une demande d’autorisation préalable auprès de l’institution concernée.</p>
+                </availability>
                 <availability status="restricted" xml:id="sPresentationTextLicence">
-                    <!-- TODO : <licence> à ajouter partout -->
-                    <licence
-                        target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr/"
-                        >
-                        <p>Ce(tte) œuvre est mise à disposition selon les termes
-                            de la Licence Creative Commons Attribution - Pas
-                            d’Utilisation Commerciale - Partage dans les Mêmes
-                            Conditions 3.0 France.</p>
-                        <graphic
-                            url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png" />
-                    </licence>
-                    <p>Le Centre de théorie et d'analyse du droit
-                        (UMR 7074) met à disposition cette ressource électronique
-                        structurée, protégée par le code de la propriété
-                        intellectuelle sur le droit d'auteur (L111-1) et sur les bases
-                        de données (L341-1), selon les termes de la licence Creative
-                        Commons : « Paternité - Pas d'Utilisation Commerciale - Pas de
-                        Modification ; 3.0 France ». <lb />Cette licence est
-                        disponible en ligne : <ref
-                            target="http://creativecommons.org/licences/by-nc-sa/3.0/fr"
-                            >http://creativecommons.org/licenses/by-nc/3.0/fr/</ref> ou
-                        par courrier postal à Creative Commons, 171 Second Street,
-                        Suite 300, San Francisco, California 94105, USA.</p>
-                    <p>Pas d'Utilisation Commerciale : Le Centre de théorie et
-                        d'analyse du droit souhaite encourager l'utilisation et
-                        l'amélioration de ses ressources électroniques, pour les
-                        intérêts de l'enseignement et de la recherche. Toute
-                        autorisation au-delà du champ de cette licence doit être
-                        obtenue auprès du Centre de théorie et d'analyse du droit.</p>
-                    <p>Paternité : Le Centre de théorie et d'analyse du droit demande
-                        à ce que toute publication dérivée de ses ressources
-                        électroniques comporte : <lb />1. le nom du Centre de théorie
-                        et d'analyse du droit et, pour les publications électroniques,
-                        son logo <lb />2. l'URI permettant d'accéder à la page citée
-                        sur notre site, ou à la page d'accueil de la ressource
-                        <lb />3. la date du fichier source utilisé. </p>
-                    <p>Vous êtes libres de remixer, arranger et adapter cette œuvre à
-                        des fins non commerciales, tant que vous nous créditez et que
-                        les nouvelles œuvres sont diffusées selon les mêmes
-                        conditions. Cependant, afin de mieux servir la communauté
-                        scientifique, le Centre de théorie et d'analyse du droit
-                        s'engage à conserver et à toujours offrir publiquement la
-                        version la plus à jour de ses ressources électroniques par une
-                        URI pérenne. Il s'engage en conséquence à les corriger et à
-                        les améliorer, à intégrer les contributions qui lui sont
-                        soumises (après validation par un comité scientifique), et à
-                        référencer l'origine de ces contributions. Toute modification
-                        de la ressource qui ne serait pas reversée à la version de
-                        référence sous l'autorité éditoriale du Centre de théorie et
-                        d'analyse risquerait en conséquence d'être perdue, afin de ne
-                        pas disperser les contributions et de permettre les meilleures
-                        conditions possibles de collaboration scientifique, nous vous
-                        invitons à nous en faire part.</p>
+                    <p>Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
+                        <lb/>Cette licence est disponible en ligne : <ref
+                            target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
+                            >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</p>
+                    <p>Attribution : Vous devez créditer l’œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées. Vous devez indiquer ces informations par tous les moyens possibles mais vous ne pouvez pas suggérer que le Centre de théorie et d’analyse du droit vous soutient ou soutient la façon dont vous avez utilisé son œuvre. 
+                        <lb/>Le Centre de théorie et d’analyse du droit demande à ce que toute publication dérivée de ses ressources électroniques comporte : 
+                        <lb/>1. le nom du Centre de théorie
+                        et d’analyse du droit et, pour les publications électroniques,
+                        son logo ainsi que la mention des auteurs de l’édition. 
+                        <lb/>2. l’URI permettant d’accéder à la page citée
+                        sur notre site, ou à la page d’accueil de la ressource
+                        <lb/>3. la date et la version du fichier source utilisé.</p>
+                    <p><hi rend="italic"
+                        >Pas d’Utilisation Commerciale</hi> — Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant. 
+                        <lb/>Le Centre de théorie et d’analyse du droit souhaite principalement encourager l’utilisation et l’amélioration de ses ressources électroniques dans l’intérêt de l’enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d’analyse du droit.</p>
+                    <p><hi rend="italic"
+                        >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
+                        <lb/>Vous n’êtes pas obligé de signaler votre travail auprès du Centre de théorie et d’analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
+                            type="external" target="mailto:contact@desgodets.net"
+                            >contact@desgodets.net</ref>.</p>
+                    <p><hi rend="italic"
+                        >Pas de restrictions additionnelles</hi> – Vous n’êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l’œuvre dans les conditions décrites par la licence.</p>
+                    <p>Le Centre de théorie et d’analyse du droit s’engage à conserver et à toujours offrir publiquement la version la plus à jour de ses ressources électroniques par l’intermédiaire d’une URI pérenne. 
+                        <lb/>Dans l’intérêt de la communauté scientifique, afin de ne pas disperser les contributions et de permettre les meilleures conditions de collaboration scientifique, le Centre de théorie et d’analyse du droit se propose de recueillir et d’intégrer les corrections et contributions qui lui seront soumises (après validation par un comité scientifique), et à référencer leur origine.</p>
+                    <p>Vous n’êtes pas dans l’obligation de respecter la licence pour les éléments ou matériel appartenant au domaine public ou dans le cas où l’utilisation que vous souhaitez faire est couverte par une exception.</p>
                 </availability>
             </publicationStmt>
             <seriesStmt>
@@ -154,11 +129,13 @@
             <!-- ajout d'un élément pour DC.description -->
             <notesStmt>
                 <note xml:lang="fre" type="abstract">Texte de description pour DC.description</note>
-                <note xml:lang="eng" type="abstract">Texte de description en anglais pour DC.description</note>
+                <note xml:lang="eng" type="abstract"
+                    >Texte de description en anglais pour DC.description</note>
             </notesStmt>
             <!-- description de la source -->
             <sourceDesc>
-                <p xml:id="sPresentation">Texte original : le texte a été créé sous forme
+                <p xml:id="sPresentation"
+                    >Texte original : le texte a été créé sous forme
                     électronique</p>
             </sourceDesc>
         </fileDesc>
@@ -166,7 +143,8 @@
             <!-- description du projet éditorial -->
             <projectDesc>
                 <p>L'édition des cours de Desgodets fait partie d'un programme de recherche sur la
-                    formalisation du savoir architectural au XVII<hi rend="superscript">e</hi>
+                    formalisation du savoir architectural au XVII<hi
+                    rend="superscript">e</hi>
                     siècle.</p>
             </projectDesc>
             <!-- déclaration des principes éditoriaux -->
@@ -202,13 +180,15 @@
             <change when="2013-04-13" who="#EC">première version du fichier</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text corresp="#sPresentationTextLicence">
         <front xml:id="sPresentationFront">
             <titlePage xml:id="sPresentationFront00" xml:lang="fre">
                 <docTitle>
                     <titlePart>Présentation du Cours des servitudes</titlePart>
                 </docTitle>
-                <docAuthor><persName ref="#RC">Robert Carvais</persName></docAuthor>
+                <docAuthor>
+                    <persName ref="#RC">Robert Carvais</persName>
+                </docAuthor>
                 <docDate>14 avril 2013</docDate>
                 <docEdition>version 0</docEdition>
             </titlePage>
@@ -234,7 +214,9 @@
                         (S1) est la transcription « préparatoire » brute par Desgodets
                         de tous les articles des coutumes de France qui concernent les
                         servitudes et l’expertise, région par région, localité par
-                            localité<ref type="note" target="#sN0001"/>. Suit la résolution d’autres questions sur des droits
+                            localité<ref
+                        type="note" target="#sN0001"
+                        />. Suit la résolution d’autres questions sur des droits
                         spécifiques en rapport avec l’architecture résolues à partir
                         des coutumes qui en traitent (le principal manoir ou le vol du
                         chapon, les marques de justice et fourches patibulaires, les
@@ -253,9 +235,9 @@
                         intégrante de ce nouveau droit : réparations, meuble/immeuble,
                         prescriptions, retrait lignager.</p>
                 </div>
-                    <div xml:id="sPresentationBodyFr02" type="chapter" n="2">
-                        <head>Justification du choix du manuscrit encodé</head>
-                        <p>Nous avons choisi d’éditer ces deux volumes bien qu’ils ne
+                <div xml:id="sPresentationBodyFr02" type="chapter" n="2">
+                    <head>Justification du choix du manuscrit encodé</head>
+                    <p>Nous avons choisi d’éditer ces deux volumes bien qu’ils ne
                             constituent qu’un extrait de ce que Desgodets a professé,
                             car ces manuscrits forment une entité de travail réfléchi
                             et sont riches d’informations sur la connaissance du droit
@@ -267,11 +249,15 @@
                             n’est pas certain que s’il avait vécu plus longtemps
                             d’autres parties de son travail de collecte de sources ne
                             lui eussent pas servi.</p>
-                        <p>De plus, il nous a semblé indispensable d’éditer en ligne
-                            les textes-étapes<ref type="note" target="#sN0002"/> publiés par la suite et qui ont mis à jour le
+                    <p>De plus, il nous a semblé indispensable d’éditer en ligne
+                            les textes-étapes<ref
+                        type="note" target="#sN0002"
+                        /> publiés par la suite et qui ont mis à jour le
                             savoir juridique des architectes préparé par Desgodets par
                             le biais d’annotations successives : ainsi celles de
-                            l’architecte expert-bourgeois Martin Goupy<ref type="note" target="#sN0003"/> en 1748 et en 1768, celles des célèbres avocats du
+                            l’architecte expert-bourgeois Martin Goupy<ref
+                        type="note" target="#sN0003"
+                        /> en 1748 et en 1768, celles des célèbres avocats du
                             Parlement de Dijon en 1752 et 1799, celle de l’avocat
                             Hugues Destrem, 1845 et celles d’un anonyme de la ville de
                             Grenoble en 1855. Nous envisagerons plus tard de publier
@@ -280,9 +266,9 @@
                             auteurs ont structuré méthodiquement leurs éditions de
                             manière raisonnée, totalement différente du texte initial
                             de Desgodets. </p>
-                    </div>
-                    <div xml:id="sPresentationBodyFr03" type="chapter" n="3">
-                        <head>Résultats obtenus à propos du cours par rapport à l’état
+                </div>
+                <div xml:id="sPresentationBodyFr03" type="chapter" n="3">
+                    <head>Résultats obtenus à propos du cours par rapport à l’état
                             de l’art</head>
                     <div>
                         <head>Originalité et perspectives ouvertes par ces
@@ -344,7 +330,9 @@
                         <p>Sur un terrain plus général, Vitruve a déjà justifié
                             l’importance de la connaissance du droit par l’architecte,
                             homme au centre des préoccupations universelles. Cependant
-                            Alberti, pourtant lui-même juriste, en doute dans son <hi rend="italic">De re aedificatoria</hi>. Philibert De
+                            Alberti, pourtant lui-même juriste, en doute dans son <hi
+                            rend="italic"
+                            >De re aedificatoria</hi>. Philibert De
                             L’Orme, dans un passage quelque peu oublié, pose les
                             véritables enjeux du débat plus complexe qu’il n’y paraît
                             et au fond moins dichotomique qu’on ne le pense. Il écrit
@@ -358,7 +346,8 @@
                             autre mission plus élevée à son actif. Le maçon seul comme
                             expert doit y être confronté. Cette vision réaliste de
                             Philibert fondera l’enseignement des servitudes par
-                            Desgodets à l’Académie, comme de ses initiateurs<ref type="note" target="#sN0004"/>.</p>
+                            Desgodets à l’Académie, comme de ses initiateurs<ref
+                            type="note" target="#sN0004"/>.</p>
                         <p>Trois figures précèdent et guident l’entreprise de
                             Desgodets. </p>
                         <p>Le premier à notre connaissance n’est pas en lien direct
@@ -366,7 +355,9 @@
                             architectes, mais il insuffle la démarche et la méthode. Il
                             est peu probable que Desgodets en ait eu connaissance. Le
                             maître charpentier Jean Pussot (1544-1626) rédige un traité
-                            manuscrit à l’aube du XVII<hi rend="superscript">e</hi>
+                            manuscrit à l’aube du XVII<hi
+                            rend="superscript"
+                            >e</hi>
                             siècle, « d’avertissement sur les difficultés, obscurités
                             et contrariétés qui se trouvent aux articles du chapitre
                             des servitudes et droits réels de la coutume de Reims ».
@@ -385,8 +376,11 @@
                             de Reims. Et bien que demeuré manuscrit, il fut souvent
                             produit devant les juges, copié et utilisé par les
                             praticiens du droit. </p>
-                        <p>Le second, Louis Savot<ref type="note" target="#sN0005"/> (1570-1640), médecin du roi et humaniste, publie en
-                            1624 <hi rend="italic">L’architecture françoise des
+                        <p>Le second, Louis Savot<ref type="note" target="#sN0005"
+                            /> (1570-1640), médecin du roi et humaniste, publie en
+                            1624 <hi
+                            rend="italic"
+                            >L’architecture françoise des
                                 Bastimens particuliers</hi>. Cette œuvre présente trois
                             originalités : examiner l’économie du bâti, considérer la
                             question juridique de la construction et dresser une
@@ -411,7 +405,9 @@
                         <p>Le troisième, Pierre Bullet (1639-1716), fils d’un maçon,
                             devient architecte et ingénieur du roi et de la ville et
                             entre à l’Académie en 1685. Il s’intéresse aux questions
-                            techniques. Son ouvrage principal <hi rend="italic">L’Architecture pratique</hi> (1691) n’est en réalité
+                            techniques. Son ouvrage principal <hi
+                            rend="italic"
+                            >L’Architecture pratique</hi> (1691) n’est en réalité
                             qu’un manuel de toisé pour ceux qui veulent bâtir. Afin de
                             comprendre les règles indispensables à l’économie de la
                             construction, il est contraint de se référer à la manière
@@ -422,7 +418,9 @@
                             ouvrage connaît une fortune exceptionnelle avec plus de
                             vingt éditions constamment mises à jour entre 1691 et 1838
                             en raison de sa maniabilité (in-8°) et du manque qu’il
-                                comble<ref type="note" target="#sN0006"/>. Avec Bullet nous nous rapprochons de l’Académie et
+                                comble<ref
+                            type="note" target="#sN0006"
+                            />. Avec Bullet nous nous rapprochons de l’Académie et
                             des architectes, mais le droit n’occupe dans son ouvrage
                             qu’une quarantaine de pages, les commentaires y sont
                             succincts, même s’il accorde aussi de la place à quelques
@@ -448,13 +446,16 @@
                             véritablement propice à une telle démarche d’organisation
                             et de transmission du savoir à l’Académie. Les débats et
                             les méthodes usités par les savants architectes du roi sont
-                            explicites à ce sujet<ref type="note" target="#sN0007"/>.</p>
+                            explicites à ce sujet<ref
+                            type="note" target="#sN0007"/>.</p>
                         <p>Desgodets enseigne les servitudes de 1723 à 1725 sur trois
                             années. Nous connaissons son cours à la différence de celui
                             sur les ordres et la commodité et celui du toisé par une
                             publication posthume (1748) d’un de ses collègues,
                             expert-bourgeois architecte, Martin Goupy, sous le titre
-                            fétiche de <hi rend="italic">Loix des bâtiments</hi>. Cet
+                            fétiche de <hi
+                            rend="italic"
+                            >Loix des bâtiments</hi>. Cet
                             ouvrage composé à partir du cours délivré à l’Académie,
                             annoté, corrigé et mis à jour par ce suiveur devient un
                             véritable best-seller qui sera réédité, complété et
@@ -471,10 +472,13 @@
                             plus parfait et le plus exact que nous ayons en ce genre,
                             &amp; qui depuis longtemps est en manuscrit dans les
                             bibliothèques des jurisconsultes, &amp; entre les mains de
-                            la plupart des architectes &amp; des entrepreneurs. »<ref type="note" target="#sN0008"/> À la différence des ordres pour lesquels nous avons
+                            la plupart des architectes &amp; des entrepreneurs. »<ref
+                            type="note" target="#sN0008"
+                            /> À la différence des ordres pour lesquels nous avons
                             trouvé 9 manuscrits et du toisé, 12 manuscrits, les
                             servitudes donnent lieu à la survivance de deux manuscrits,
-                            S1 et S2, comme pour les deux sur la commodité<ref type="note" target="#sN0009"/>.</p>
+                            S1 et S2, comme pour les deux sur la commodité<ref
+                            type="note" target="#sN0009"/>.</p>
                         <p>- De plus, ces deux très longs manuscrits ne sont pas
                             comparables mais complémentaires. En effet, le premier
                             volume coté Ms 94 (S1) de la Bibliothèque du Sénat nous
@@ -487,11 +491,15 @@
                             de matières, tiréz de plusieurs arrestistes et de différens
                             Parlements », il se présente sous la forme d’un recueil in
                             folio, manuscrit non autographe, copié de l’original dans
-                            une écriture très lisible et régulière<ref type="note" target="#sN0010"/>, d’une seule main à l’exception peut-être des
+                            une écriture très lisible et régulière<ref
+                            type="note" target="#sN0010"
+                            />, d’une seule main à l’exception peut-être des
                             mentions marginales, de 280 folios écrits. Nous avons
                             découvert les sources juridiques qui permettent à Desgodets
                             cette collecte de coutumes. Il s’agirait du Bourdot de
-                            Richebourg qui paraît en 1724<ref type="note" target="#sN0011"/>, ce qui tendrait à prouver qu’il a rédigé ce volume
+                            Richebourg qui paraît en 1724<ref
+                            type="note" target="#sN0011"
+                            />, ce qui tendrait à prouver qu’il a rédigé ce volume
                             dans un second temps par rapport au cours portant
                             uniquement sur la coutume de Paris, seul objet probable de
                             son enseignement. Desgodets découvre deux choses : d’une
@@ -512,7 +520,9 @@
                             articles de la coutume de Paris en rapport avec ces sujets.
                             Pour ce faire, l’auteur ne dissimule pas ses sources en
                             l’usage de l’œuvre principale de Claude de Ferrière : le
-                                <hi rend="italic">Corps et compilation de tous les
+                                <hi
+                            rend="italic"
+                            >Corps et compilation de tous les
                                 commentateurs sur la coutume de Paris</hi> dont son
                             fils Claude-Joseph vient de faire paraître la seconde
                             édition en 1714 en 4 volumes in folio et que l’Académie
@@ -538,8 +548,12 @@
                             que ce manuscrit m’est parvenu. Cet ouvrage n’a jamais été
                             imprimé, mais dans les questions difficiles, quel que fois
                             l’académie d’architecture en faisait la demande à Sr.
-                            Desmaisons pour le consulter ; voir le 74<hi rend="superscript">e</hi> chapitre de mon histoire de
-                            L’académie d’architecture, le 76<hi rend="superscript">e</hi> et 83<hi rend="superscript">e</hi> [paraphe
+                            Desmaisons pour le consulter ; voir le 74<hi
+                            rend="superscript"
+                            >e</hi> chapitre de mon histoire de
+                            L’académie d’architecture, le 76<hi
+                            rend="superscript">e</hi> et 83<hi rend="superscript"
+                            >e</hi> [paraphe
                             illisible] ».</p>
                         <p>S2 : « Ce manuscrit me vient de Sr Pierre Desmaisons
                             architecte du roy lequel l’avait reçu en don directement de
@@ -565,10 +579,13 @@
                             probable qu’Antoine Desgodets se soit contenté d’expliquer
                             uniquement la coutume de Paris sur le sujet. C’est ce que
                             laissent entendre les procès-verbaux de l’Académie et les
-                                <hi rend="italic">Loix</hi> édité par Martin Goupy. Il
+                                <hi
+                            rend="italic"
+                            >Loix</hi> édité par Martin Goupy. Il
                             choisit sans doute de ne diffuser que la coutume de la
                             capitale car celle-ci était avant tout déjà un épitomé du
-                            droit français<ref type="note" target="#sN0012"/>. </p>
+                            droit français<ref
+                            type="note" target="#sN0012"/>. </p>
                         <p>Cependant, nous avons alors opté pour une position plus
                             conforme aux textes dont nous disposions et considéré que
                             le cours était constitué des deux recherches opérées par
@@ -578,7 +595,9 @@
                             fait de son décès d’aller plus loin. Afin d’avoir une
                             vision plus exacte de la portée et de l’évolution de la
                             pensée de Desgodets nous avons tenu à numériser les
-                            différentes éditions des <hi rend="italic">Loix des
+                            différentes éditions des <hi
+                            rend="italic"
+                            >Loix des
                                 bâtiments</hi> pour déterminer l’exacte portée de son
                             cours sur les suiveurs.</p>
                         <p>Dans cette démarche nous avons découvert les sources exactes
@@ -595,11 +614,18 @@
                             suiveurs pour que le miracle se produise.</p>
                         <p>Comment a été poursuivi cet enseignement ? Le droit de la
                             construction s’est développé à travers les livres édités
-                            d’architecture comme <hi rend="italic">L’Architecture
-                                moderne</hi>
-                            <ref type="note" target="#sN0013"/>, ou le <hi rend="italic">Cours d’architecture</hi>
-                            de Jacques-François Blondel<ref type="note" target="#sN0014"/>. Le droit y figure sur un mode identique (le
-                            commentaire) mais dans une proportion restreinte<ref type="note" target="#sN0015"/>. Si nous n’avons trouvé aucun autre manuscrit du
+                            d’architecture comme <hi
+                            rend="italic"
+                            >L’Architecture
+                                moderne</hi> <ref
+                            type="note" target="#sN0013"/>, ou le <hi rend="italic"
+                            >Cours d’architecture</hi>
+                            de Jacques-François Blondel<ref
+                            type="note" target="#sN0014"
+                            />. Le droit y figure sur un mode identique (le
+                            commentaire) mais dans une proportion restreinte<ref
+                            type="note" target="#sN0015"
+                            />. Si nous n’avons trouvé aucun autre manuscrit du
                             cours de servitudes de Desgodets, la principale raison en
                             revient sans doute à l’existence de l’édition
                             continuellement renouvelée de ce cours – posthume – en 1748
@@ -677,8 +703,8 @@
                             <row>
                                 <cell>S3</cell>
                                 <cell>Collection privée</cell>
-                                <cell>
-                                    <hi rend="italic">Les loix des bâtimens suivant la
+                                <cell> <hi rend="italic"
+                                    >Les loix des bâtimens suivant la
                                         coutume de Paris, traitant de ce qui concerne
                                         les servitudes réelles, les rapports des
                                         jurés-experts, les réparations locatives,
@@ -691,8 +717,8 @@
                             <row>
                                 <cell>S4</cell>
                                 <cell>Collection privée</cell>
-                                <cell>
-                                    <hi rend="italic">Les loix des bâtimens suivant la
+                                <cell> <hi rend="italic"
+                                    >Les loix des bâtimens suivant la
                                         coutume de Paris, traitant de ce qui concerne
                                         les servitudes réelles, les rapports des
                                         jurés-experts, les réparations locatives,
@@ -709,8 +735,8 @@
                             <row>
                                 <cell>S5</cell>
                                 <cell>Collection privée</cell>
-                                <cell>
-                                    <hi rend="italic">Les Loix des Batimens suivant la
+                                <cell> <hi rend="italic"
+                                    >Les Loix des Batimens suivant la
                                         Coutûme de Paris</hi>, par Desgodets et Goupy,
                                     architectes, nouvelle édition revüe par de célébres
                                     Avocats du Parlement de Dijon, qui y ont ajouté des
@@ -726,8 +752,8 @@
                             <row>
                                 <cell>S6</cell>
                                 <cell>Collection privée</cell>
-                                <cell>
-                                    <hi rend="italic">Les Lois des Batimens, </hi>par
+                                <cell> <hi rend="italic"
+                                    >Les Lois des Batimens, </hi>par
                                     Goupy et Desgodets, architectes, Nouvelle édition,
                                     revue, corrigée et considérablement augmentée par
                                     de célèbres jurisconsultes du département de la
@@ -741,8 +767,8 @@
                             <row>
                                 <cell>S7</cell>
                                 <cell>Collection privée</cell>
-                                <cell>
-                                    <hi rend="italic">Les Lois des Bâtiments suivant la
+                                <cell> <hi rend="italic"
+                                    >Les Lois des Bâtiments suivant la
                                         coutume de Paris </hi>par Desgodets avec les
                                     notes de Goupy, nouvelle édition mise en rapport
                                     avec les lois et la jurisprudence modernes
@@ -759,7 +785,9 @@
                                     et de nouvelles notes sur les ouvrages à faire et
                                     les distances intermédiaires à laisser contre les
                                     murs mitoyens, pour certaines constructions » dans
-                                        <hi rend="italic">Annuaire statistique de la
+                                        <hi
+                                    rend="italic"
+                                    >Annuaire statistique de la
                                         Cour impériale de Grenoble et du département de
                                         l’Isère, pour l’année 1855</hi>, Grenoble,
                                     1855, 68 p.</cell>
@@ -772,72 +800,102 @@
                             part que le traitement de son cours par les nombreuses
                             éditions successives que celui-ci a connu, permet de suivre
                             l’évolution du droit en général pendant un siècle autour de
-                            la mise en place du Code civil. Les <hi rend="italic">Loix
+                            la mise en place du Code civil. Les <hi
+                            rend="italic"
+                            >Loix
                                 des bâtiments</hi> constitueraient donc un texte
                             fondateur du droit à l’instar, toutes proportions gardées,
-                            du <hi rend="italic">De re aedificatoria </hi>d’Alberti
+                            du <hi
+                            rend="italic"
+                            >De re aedificatoria </hi>d’Alberti
                             pour l’architecture.</p>
-                        <p>- Il devient le modèle<ref type="note" target="#sN0016"/> de réflexion sur la question tant pour démontrer
+                        <p>- Il devient le modèle<ref type="note" target="#sN0016"
+                            /> de réflexion sur la question tant pour démontrer
                             les tendances du droit au moment de la Révolution que pour
                             poursuivre l’adaptation du droit après le Code civil :</p>
                         <list type="unordered">
                             <item>Le droit coutumier par rapport au droit romain :
-                                certaines éditions des <hi rend="italic">Loix</hi> dès
+                                certaines éditions des <hi
+                                rend="italic"
+                                >Loix</hi> dès
                                 1752 sont commentées à travers le droit savant romain
                                 par des juristes bourguignons ;</item>
                             <item>Le droit de la capitale par rapport au droit des
-                                    Français<ref type="note" target="#sN0017"/> : après 1804, les éditions des <hi rend="italic">Loix</hi> par le juriste P.
-                                    Lepage<ref type="note" target="#sN0018"/> concèdent l’aspect visionnaire de Desgodets en
+                                    Français<ref
+                                type="note" target="#sN0017"/> : après 1804, les éditions des <hi
+                                rend="italic"
+                                >Loix</hi> par le juriste P.
+                                    Lepage<ref
+                                type="note" target="#sN0018"
+                                /> concèdent l’aspect visionnaire de Desgodets en
                                 ayant ciblé son propos sur la coutume parisienne. C’est
                                 encore plus fort chez Hugues Destrem qui met à jour à
                                 proprement parler la coutume de Paris un siècle après
-                                la parution des <hi rend="italic">Loix</hi>, alors que
+                                la parution des <hi
+                                rend="italic"
+                                >Loix</hi>, alors que
                                 seul le Code aurait force de loi.</item>
                             <item>Le droit des provinces par rapport à l’uniformité du
-                                Code civil : la survivance des usages locaux au XIX<hi rend="superscript">e</hi> siècle donne l’occasion
+                                Code civil : la survivance des usages locaux au XIX<hi
+                                rend="superscript"
+                                >e</hi> siècle donne l’occasion
                                 au cours de Desgodets de revivre à l’aune de nouvelles
                                 éditions locales, par exemple à Besançon par
-                                l’architecte Ramelet ou à Grenoble anonymement, les <hi rend="italic">Loix</hi> paraissent dans un <hi rend="italic">Annuaire statistique de la cour
+                                l’architecte Ramelet ou à Grenoble anonymement, les <hi
+                                rend="italic">Loix</hi> paraissent dans un <hi rend="italic"
+                                >Annuaire statistique de la cour
                                     impériale de Grenoble et du département de
                                     l’Isère</hi> en 1855.</item>
-                            <item>Le droit français par rapport au droit étranger<ref type="note" target="#sN0019"/> : de nombreuses mentions de Desgodets sont
-                                repérées à l’étranger <hi rend="italic">via</hi> Lepage
-                                pour l’Italie<ref type="note" target="#sN0020"/>, mais aussi en Grande-Bretagne<ref type="note" target="#sN0021"/>.</item>
+                            <item>Le droit français par rapport au droit étranger<ref type="note"
+                                target="#sN0019"
+                                /> : de nombreuses mentions de Desgodets sont
+                                repérées à l’étranger <hi
+                                rend="italic"
+                                >via</hi> Lepage
+                                pour l’Italie<ref
+                                type="note" target="#sN0020"/>, mais aussi en Grande-Bretagne<ref
+                                type="note" target="#sN0021"/>.</item>
                         </list>
                         <p>D’ailleurs, Desgodets est réellement l’instigateur en Europe
                             d’une telle nécessité en faveur d’une écriture du droit de
                             la construction, comme nous pouvons le constater en Italie
                             à travers les intentions de l’architecte Bernardo Antonio
                             Vitonne (1704-1770) de l’Académie de Saint-Luc de Rome
-                            qu’il n’aura pas le temps de réaliser<ref type="note" target="#sN0022"/> ou dans celles réalisées par Francesco Milizia
-                            (1715-1798) dans <hi rend="italic">Principi di architettura
+                            qu’il n’aura pas le temps de réaliser<ref
+                            type="note" target="#sN0022"
+                            /> ou dans celles réalisées par Francesco Milizia
+                            (1715-1798) dans <hi
+                            rend="italic"
+                            >Principi di architettura
                                 civile</hi>
                             <ref type="note" target="#sN0023"/>.</p>
                         <list>
                             <item>Il ouvre le débat de la création des disciplines
                             juridiques au travers de la naissance des branches du
                             droit.</item>
-                        <item>Ainsi, il nous apparaît que cette naissance n’est pas
+                            <item>Ainsi, il nous apparaît que cette naissance n’est pas
                             réservée à un public particulier. Ici un droit est modelé
                             par la pratique d’abord artisanale des bâtisseurs, puis des
                             architectes avant d’atteindre le monde des juristes. Ce
                             nouveau paradigme mis au jour ici s’applique-t-il à
-                            d’autres champs du savoir ? Le droit ne serait pas <hi rend="italic">a priori</hi> le domaine réservé des
+                            d’autres champs du savoir ? Le droit ne serait pas <hi
+                                rend="italic"
+                                >a priori</hi> le domaine réservé des
                             juristes. Ce principe aurait un corollaire :</item>
-                        <item>Le besoin de création part d’un besoin social qui serait
+                            <item>Le besoin de création part d’un besoin social qui serait
                             ici en l’occurrence la régulation du voisinage à travers la
                             question de la propriété, d’où l’importance des servitudes
                             et de la mitoyenneté dans la constitution de ce droit. Plus
                             généralement, cette nécessité invariante pourrait se
                             concrétiser dans la recherche du bien commun.</item>
-                        <item>L’autonomie d’une discipline se marque souvent par le
+                            <item>L’autonomie d’une discipline se marque souvent par le
                             biais d’un enseignement ou d’un traitement savant, d’une
                             compilation de textes ou d’un code. Ces différents moyens
                             doivent se multiplier pour être efficaces. Cependant ce
                             sera toujours l’autorité politique qui déclenchera le
                             mécanisme et qui restera maître de l’instauration finale et
                             effective.</item>
-                        <item>De surcroît, nous n’avons pas pu nous intéresser aux cours
+                            <item>De surcroît, nous n’avons pas pu nous intéresser aux cours
                             dispensés par Antoine Desgodets sans travailler sur trois
                             questions qui sont apparues comme incontournables.</item>
                         </list>
@@ -857,8 +915,7 @@
                     </divGen>
 
                     <!-- Inclusion du fichier de notes -->
-                    <xi:include href="divs/desgodetsSPresentationNotes.tei.xml"
-                        parse="xml">
+                    <xi:include href="divs/desgodetsSPresentationNotes.tei.xml" parse="xml">
                         <xi:fallback>Fichier de notes de sPresentation non
                             trouvé</xi:fallback>
                     </xi:include>
