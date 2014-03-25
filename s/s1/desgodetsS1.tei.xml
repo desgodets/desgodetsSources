@@ -360,11 +360,11 @@
          <div xml:lang="fre">
             <div>
                <p>
-                  <pb xml:id="s1Fol1" n="-15"/>
+                  <pb xml:id="s1Fol1" n="a1"/>
                   <fw type="foliotation">1 r, garde</fw>
                </p>
                <p>
-                  <pb xml:id="s1Fol1v" n="-15v"/>
+                  <pb xml:id="s1Fol1v" n="a1v"/>
                   <fw type="foliotation">1 v, garde verso</fw>
                </p>
                <!-- TODO pour la pagination à retirer -->
@@ -398,7 +398,7 @@
                      83<hi rend="superscript">e</hi>.</p>
                <p>[signature illisible]</p>
                <p>
-                  <pb xml:id="s1Fol2" n="-14"/>
+                  <pb xml:id="s1Fol2" n="a2"/>
                   <fw type="foliotation">2 r, page de titre</fw>
                </p>
             </div>
@@ -425,11 +425,11 @@
                <space extent="2" unit="lines"/>
                <!-- TODO vérifier que bien la même forme partout -->
                <p>
-                  <pb xml:id="s1Fol2v" n="-14v"/>
+                  <pb xml:id="s1Fol2v" n="a2v"/>
                   <fw type="foliotation">2 v, verso de la page de titre</fw>
                </p>
                <p>
-                  <pb xml:id="s1Fol3" n="-13"/>
+                  <pb xml:id="s1Fol3" n="a3"/>
                   <fw type="foliotation">3 r</fw>
                </p>
             </titlePage>
@@ -452,7 +452,7 @@
                   connoit ce qui a esté augmenté ou diminué, lors de la rédaction des
                   nouvelles, et outre il y a avant la nouvelle coutume de Paris, le
                   titre en entier de l’ancienne coutume, et ce qui concerne les
-                  servitudes, le tout est <pb xml:id="s1Fol3v" n="-13v"/>
+                  servitudes, le tout est <pb xml:id="s1Fol3v" n="a3v"/>
                   <fw type="foliotation">3 v</fw> précédé d’une table de toutes les
                   coutumes seulement.</p>
                <p>
@@ -475,7 +475,7 @@
                <p>
                   <hi rend="bigger">Des</hi> marques de justice et fourches
                   patibulaires suivant les coutumes qui en disposent, où il est
-                  remarqué ceux qui ont <pb xml:id="s1Fol4" n="-12"/>
+                  remarqué ceux qui ont <pb xml:id="s1Fol4" n="a4"/>
                   <fw type="foliotation">4 r</fw> droit de les avoir ;</p>
                <p>
                   <hi rend="bigger">Ce</hi> qui concerne les colombiers, qui a droit de
@@ -497,7 +497,7 @@
                   autres bénéficiers ;</p>
                <p>Réparation concernans les gros décimateurs ;</p>
                <p>
-                  <pb xml:id="s1Fol4v" n="-12v"/>
+                  <pb xml:id="s1Fol4v" n="a4v"/>
                   <fw type="foliotation">4 v</fw> 
                   <hi rend="bigger">Du</hi> droit de litre, ou ceinture
                   mortuaire dans les églises ;</p>
@@ -514,7 +514,7 @@
                <p>Et à la fin une table des arrests ;</p>
                <metamark rend="simpleLine alignCenter"/>
                <p>
-                  <pb xml:id="s1Fol5" n="-11"/>
+                  <pb xml:id="s1Fol5" n="a5"/>
                   <fw type="foliotation">5 r</fw>
                </p>
             </div>
@@ -544,7 +544,7 @@
                   aussy tost qu’il a mis le pied en ce royaume est fait libre.</p>
                <p>On raporte un arrest du parlement de Bordeaux donné contre un
                   marchand normand, lequel ayant exposé en vente des Ethiopiens pris en
-                  guerre furent vendiquez par M. <pb xml:id="s1Fol5v" n="-11v"/>
+                  guerre furent vendiquez par M. <pb xml:id="s1Fol5v" n="a5v"/>
                   <fw type="foliotation">5 v</fw> le Procureur général du
                   mesme parlement et mis en liberté.</p>
                <p>On connoistra par les articles des mêmes coutumes susd. de quelles
@@ -562,7 +562,7 @@
                   rurales. Les servitudes urbaines sont celles qui sont attachées aux
                   maisons et héritages situez dans les villes et les servitudes
                   rustiques ou rurales sont celles qui sont attachées aux maisons et
-                  héritages des villages et de <pb xml:id="s1Fol6" n="-10"/>
+                  héritages des villages et de <pb xml:id="s1Fol6" n="a6"/>
                   <fw type="foliotation">6 r</fw> la Campagne, comme chemins,
                   sentiers ou voye sur l’héritage d’autruy, à pied, à cheval ou
                   charrette, mener bestes boire a l’estang ou vivier d’autruy, et
@@ -582,7 +582,7 @@
                   <hi rend="bigger">Les</hi> servitudes latentes doivent s’entendre
                   comme si une maison avoit la propriété d’une fosse d’aisance, droit
                   de tour d’échele sur l’héritage de son voisin, puisard sous la maison
-                  voisine, communauté de fosse d’aisance et autres servitudes <pb xml:id="s1Fol6v" n="-10v"/>
+                  voisine, communauté de fosse d’aisance et autres servitudes <pb xml:id="s1Fol6v" n="a6v"/>
                   <fw type="foliotation">6 v</fw> qui ne peuvent estre vues.</p>
                <p>
                   <hi rend="bigger">Les</hi> servitudes aparentes se doivent entendre
@@ -604,7 +604,7 @@
                   l’héritage d’autruy, passage, communauté de cour, communauté de
                   fosses d’aisance, communauté de puits, cours d’eau, encastrement de
                   cheminées et autres encastrements en mur mitoyen, gallerie, grenier,
-                  ou <pb xml:id="s1Fol7" n="-9"/>
+                  ou <pb xml:id="s1Fol7" n="a7"/>
                   <fw type="foliotation">7 r</fw> partie de grenier sur l’héritage d’autruy, doit de
                   vidange de fosse pour la maison voisine et généralement tous droits
                   qu’un particulier peut avoir sur les maisons et héritages de ses
@@ -623,7 +623,7 @@
                   des villes que pour empêcher un voisin d’incommoder son autre
                   voisin ; elles doivent encore s’estendre par l’obligation qu’il y a
                   de livrer passage à un voisin pour aller exploiter ses terres,
-                  vignes, <pb xml:id="s1Fol7v" n="-9v"/>
+                  vignes, <pb xml:id="s1Fol7v" n="a7v"/>
                   <fw type="foliotation">7 v</fw> préz ou bois, et de souffrir sur son héritage le
                   passage d’un voisin, lorsqu’il fait bâtir ou réédifier son mur ou
                   maison, en rétablissement par l’un et l’autre les dommages qu’ils
@@ -648,7 +648,7 @@
             <div type="part">
                <head>[Coutumiers]</head>
                <p>
-                  <pb xml:id="s1Fol8" n="-8"/>
+                  <pb xml:id="s1Fol8" n="a8"/>
                   <fw type="foliotation">8 r</fw>
                </p>
                <div type="chapter">
@@ -785,7 +785,7 @@
                            <expan>locale</expan>
                         </choice>, f° 59 r°</p>
                      <p>
-                        <pb xml:id="s1Fol8v" n="-8v"/>
+                        <pb xml:id="s1Fol8v" n="a8v"/>
                         <fw type="foliotation">8 v</fw> [colonne de gauche] <fw type="runningHead">Table</fw>
                      </p>
                      <p>
@@ -892,7 +892,7 @@
                         <hi rend="Desgodets_IndexLocorum">Boutillerie</hi>
                         <ref type="noteHistorical" target="#s1Nh0018"/>, loc<hi rend="superscript">le</hi>, f° 61 v°</p>
                      <p>
-                        <pb xml:id="s1Fol9" n="-7"/>
+                        <pb xml:id="s1Fol9" n="a9"/>
                         <fw type="foliotation">9 r</fw> 
                         <fw type="runningHead">des coutumes</fw>
                      </p>
@@ -996,7 +996,7 @@
                            (Oise, France) ; http://catalogue.bnf.fr/ark:/12148/cb152673824/PUBLIC]</hi>, dépendant de <hi rend="Desgodets_IndexLocorum">[Senlis ; Senlis (Oise,
                            France) ; http://catalogue.bnf.fr/ark:/12148/cb152678459/PUBLIC]</hi>, f° 29 v°</p>
                      <p>
-                        <pb xml:id="s1Fol9v" n="-7v"/>
+                        <pb xml:id="s1Fol9v" n="a9v"/>
                         <fw type="foliotation">9 v</fw> 
                         <fw type="runningHead">Table</fw> [colonne de gauche] </p>
                      <p>
@@ -1064,7 +1064,7 @@
                   </div>
                   <div>
                      <p>
-                        <pb xml:id="s1Fol10" n="-6"/>
+                        <pb xml:id="s1Fol10" n="a10"/>
                         <fw type="foliotation">10 r</fw>
                      </p>
                      <fw type="runningHead">des coutumes</fw>
@@ -1106,7 +1106,7 @@
                   </div>
                   <div>
                      <p>
-                        <pb xml:id="s1Fol10v" n="-6v"/>
+                        <pb xml:id="s1Fol10v" n="a10v"/>
                         <fw type="foliotation">10 v</fw>
                      </p>
                      <fw type="runningHead">Table</fw>
@@ -1147,7 +1147,7 @@
                      <p>Mante et Meulan, f° 26 v°</p>
                      <p>Marche noire au comté de Dunois, f° 106 v°</p>
                      <p>
-                        <pb xml:id="s1Fol11" n="-5"/>
+                        <pb xml:id="s1Fol11" n="a11"/>
                         <fw type="foliotation">11 r</fw> 
                         <fw type="runningHead">des coutumes</fw> [colonne de
                         droite]</p>
@@ -1187,7 +1187,7 @@
                   </div>
                   <div>
                      <p>
-                        <pb xml:id="s1Fol11v" n="-5v"/>
+                        <pb xml:id="s1Fol11v" n="a11v"/>
                         <fw type="foliotation">11 v</fw>
                      </p>
                      <fw type="runningHead">Table</fw>
@@ -1227,7 +1227,7 @@
                      <p>Pont de l’arche, id., f° 80 v°</p>
                      <p>Ponthieu, sénéchaussée et comté, f° 53 v°</p>
                      <p>
-                        <pb xml:id="s1Fol12" n="-4"/>
+                        <pb xml:id="s1Fol12" n="a12"/>
                         <fw type="foliotation">12 r</fw> 
                         <fw type="runningHead">des coutumes</fw> [colonne de gauche] </p>
                      <p>Pontoise, f° 29 v°</p>
@@ -1274,7 +1274,7 @@
                      <p>S<hi rend="superscript">t</hi> Omer, f° 51 r°</p>
                      <p>S<hi rend="superscript">t</hi> Omer, loc., f° 59 r°</p>
                      <p>
-                        <pb xml:id="s1Fol12v" n="-4v"/>
+                        <pb xml:id="s1Fol12v" n="a12v"/>
                         <fw type="foliotation">12 v</fw> 
                         <fw type="runningHead">Table</fw> [Colonne de gauche] </p>
                      <p>S<hi rend="superscript">t</hi> Paul, f° 59 r°</p>
@@ -1319,7 +1319,7 @@
                   </div>
                   <div>
                      <head>V.</head>
-                     <p>[sic. « Valancay »], chat<hi rend="superscript">nie</hi>, <pb xml:id="s1Fol13" n="-3"/>
+                     <p>[sic. « Valancay »], chat<hi rend="superscript">nie</hi>, <pb xml:id="s1Fol13" n="a13"/>
                         <fw type="foliotation">13 r</fw> 
                         <fw type="runningHead">des coutumes</fw> [colonne de gauche]
                         locale, f° 107 v°</p>
@@ -1351,11 +1351,11 @@
                   <metamark rend="simpleLine alignCenter"/>
                   <p>[Fin de la section du manuscrit présentée sur deux colonnes]</p>
                   <p>
-                     <pb xml:id="s1Fol13v" n="-3v"/>
+                     <pb xml:id="s1Fol13v" n="a13v"/>
                      <fw type="foliotation">13 v, (vierge)</fw>
                   </p>
                   <p>
-                     <pb xml:id="s1Fol14" n="-2"/>
+                     <pb xml:id="s1Fol14" n="a14"/>
                      <fw type="foliotation">14 r</fw> 
                   </p>
                </div>
@@ -1384,7 +1384,7 @@
                            de l’ancienne, doivent rester.</p>
                         <metamark rend="simpleLine alignCenter"/>
                         <p>
-                           <pb xml:id="s1Fol14v" n="-2v"/>
+                           <pb xml:id="s1Fol14v" n="a14v"/>
                            <fw type="foliotation">14 v</fw> 
                         </p>
                      </div>
@@ -1421,7 +1421,7 @@
                                     chaussée, apartient le dessus et le dessous dud.
                                     rez de chaussée, s’il n’y a titre au contraire.</p>
                                  <p>
-                                    <pb xml:id="s1Fol15" n="-1"/>
+                                    <pb xml:id="s1Fol15" n="a15"/>
                                     <fw type="foliotation">15 r</fw> 
                                  </p>
                               </div>
@@ -1460,7 +1460,7 @@
                                     <hi rend="bigger">Il</hi> est loisible à un voisin
                                     percer ou faire percer ou démolir le mur commun et
                                     mitoyen d’entre luy et sond. voisin, pour se loger
-                                    ou édifier en rétablissant <pb xml:id="s1Fol15v" n="-1v"/>
+                                    ou édifier en rétablissant <pb xml:id="s1Fol15v" n="a15v"/>
                                     <fw type="foliotation">15 v</fw> düement et
                                     faisant refaire à ses dépens, s’il n’y a titre au
                                     contraire.</p>
@@ -1497,7 +1497,7 @@
                                  <head rend="alignCenter">89.</head>
                                  <p>
                                     <hi rend="bigger">Item</hi>, il n’est loisible à un
-                                    voisin <pb xml:id="s1Fol16" n="0"/>
+                                    voisin <pb xml:id="s1Fol16" n="a16"/>
                                     <fw type="foliotation">16 r</fw> mettre ou faire mettre et
                                     asseoir les poutres de sa maison dedans le mur
                                     mitoyen d’entre luy et son voisin sans y faire, ou
@@ -1524,7 +1524,7 @@
                                     père de famille vaut titre.</p>
                                  <metamark rend="simpleLine alignCenter"/>
                                  <p>
-                                    <pb xml:id="s1Fol16v" n="0v"/>
+                                    <pb xml:id="s1Fol16v" n="a16v"/>
                                     <fw type="foliotation">16 v</fw> 
                                  </p>
                               </div>
@@ -1556,7 +1556,7 @@
                         <p>Montreüil, jusqu’à la rue première venant de Paris du côté
                            de Vincennes,</p>
                         <p>
-                           <pb xml:id="s1Fol17" n="1"/>
+                           <pb xml:id="s1Fol17" n="a17"/>
                            <fw type="foliotation">17 r</fw> Charonne,</p>
                         <p>Bagnolet,</p>
                         <p>Romainville jusqu’au grand chemin de Noisy le Sec,</p>
@@ -1582,7 +1582,7 @@
                         <p>Auteüil,</p>
                         <p>Passy,</p>
                         <p>
-                           <pb xml:id="s1Fol17v" n="1v"/>
+                           <pb xml:id="s1Fol17v" n="a17v"/>
                            <fw type="foliotation">17 v (f°. 1)</fw> Chaillot,</p>
                         <p>La Ville l’Évêque ;</p>
                         <metamark rend="simpleLine alignCenter"/>
