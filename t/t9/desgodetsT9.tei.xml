@@ -2112,8 +2112,8 @@
                         <p xml:id="t9BodyFr01.04.p006">6° Aux grandes <term type="gT" ref="#baie"><choice>
                                     <orig>bayes</orig>
                                     <reg>baies</reg>
-                                </choice></term> de <term type="gT" ref="#porte"
-                                >porte</term> cochère,
+                                </choice></term> de <term type="gT" ref="#porteCochere"
+                                    >porte cochère</term>,
                             remises de carosses, ou <term
                                 type="gT" ref="#arcade" ana="#iarcade">arcade</term>, <term
                                 type="gT" ref="#ouverture"
@@ -10397,7 +10397,7 @@
                         <head rend="alignCenter">
                             <label><num>Chapitre 16.</num></label> 
                             <lb/>Toisé des <term type="gT" ref="#moulure"
-                            >moulures</term>
+                            >moulures</term> 
                             d’architecture. </head>
                         <p xml:id="t9BodyFr01.16.p001">1. Le <term type="gT" ref="#toise"
                                 >toisé</term> des <term type="gT" ref="#moulure"
@@ -10621,7 +10621,7 @@
                             lesquelles étant considérées <pb
                                 xml:id="t9P93" n="p93"/>
                             <fw type="pageNum">93</fw> chacune pour <term type="gT" ref="#moulure"
-                                >moulure</term>parfaite doivent estre comptées comme <term type="gT"
+                                >moulure</term> parfaite doivent estre comptées comme <term type="gT"
                                 ref="#membre">membre</term> pour
                             demi pied courant.</p>
                         <p xml:id="t9BodyFr01.16.p006">6. Suivant ce principe les <term type="gT"
@@ -10815,7 +10815,7 @@
                             comptées chacune pour 1/4 de pied</p>
                         <p xml:id="t9BodyFr01.16.p019">19. L’autre sorte de <term type="gT"
                                 ref="#larmier">larmier</term> ou <term type="gT" ref="#moulure"
-                                >moulure</term>pendante 35. avec un arrière
+                                >moulure</term> pendante 35. avec un arrière
                             <term
                                 type="gT" ref="#filet">filet</term> ou <term type="gT" ref="#conge"
                                 >congé</term> est compté pour un pied et demi à cause de sa grande <term type="gT" ref="#face"
@@ -11014,7 +11014,7 @@
                                 >filet</term> et les autres
                             semblables <term
                                 type="gT" ref="#degagement"
-                                >dégagement</term> en grains d’orges, ne sont point réputés estres
+                                >dégagement</term> en grains d’orges, ne sont point réputés estres 
                                 <term
                                 type="gT" ref="#moulure">moulures</term> ni <term type="gT"
                                 ref="#membreDArchitecture"
@@ -11154,9 +11154,9 @@
                         <p xml:id="t9BodyFr01.16.p038">38. Les <term type="gT" ref="#table"
                                 >tables</term> de <term type="gT" ref="#relief"
                                 >relief</term> avec une <term type="gT" ref="#moulure"
-                                >moulure</term>au pourtour sont comptées à
+                                >moulure</term> au pourtour sont comptées à
                             proportion de ce que contient la <term
-                                type="gT" ref="#moulure">moulure</term>comme au <term type="gT"
+                                type="gT" ref="#moulure">moulure</term> comme au <term type="gT"
                                 ref="#profil">profil</term> 57., dont la <term type="gT"
                                 ref="#table"
                                 >table</term> BC. est entourée
@@ -11364,7 +11364,7 @@
                                 </choice></term> ne se compte pas, s’il y
                             avoit une autre <term
                                 type="gT" ref="#moulure"
-                                >moulure</term>différente
+                                >moulure</term> différente
                             au <term
                                 type="gT" ref="#ravallement">ravallement</term> du <term type="gT"
                                 ref="#pilastre" ana="#ipilastre"
@@ -11421,7 +11421,7 @@
                                 >toise</term> leur pourtour au dessous de la
                                 1<hi
                                 rend="superscript">ere </hi><term type="gT" ref="#moulure"
-                                >moulure</term>du bas au <term type="gT" ref="#nuDuMur"><choice>
+                                >moulure</term> du bas au <term type="gT" ref="#nuDuMur"><choice>
                                     <orig>nud des murs</orig>
                                     <reg>nu des murs</reg>
                                 </choice></term>, ou <term type="gT" ref="#parement"><choice>
@@ -11434,7 +11434,7 @@
                                 >toise</term> de même suivant l’usage ordinaire le
                             pourtour des bazes et de <term
                                 type="gT" ref="#moulure"
-                                >moulures</term>
+                                >moulures</term> 
                             des  <term type="gT"
                                 ref="#soubassement"><choice>
                                     <orig>soubassement</orig>
@@ -11448,7 +11448,7 @@
                                 </choice></term> des<term type="gT" ref="#corps"
                                 >corps</term> qu’elles
                             soutiennent au dessus de la <term
-                                type="gT" ref="#moulure">moulure</term>du haut tant au <term
+                                type="gT" ref="#moulure">moulure</term> du haut tant au <term
                                 type="gT" ref="#retour">retour</term> des <term type="gT"
                                 ref="#angle">angles</term> saillans que des <term type="gT"
                                 ref="#angle"
@@ -11763,7 +11763,7 @@
                                 >bande</term> en laquelle ils sont taillés a
                             été comptée comme <term
                                 type="gT" ref="#moulure"
-                                >moulure</term>pour 1/2
+                                >moulure</term> pour 1/2
                             pied courant sur sa <term
                                 type="gT" ref="#longueur">longueur,</term> la <term type="gT"
                                 ref="#face">face</term> du fond entre les <term type="gT"
@@ -11852,7 +11852,7 @@
                             les offices du <term
                                 type="gT" ref="#larmier">larmier</term> entre les <term type="gT"
                                 ref="#mutule"
-                                >mutules</term>, leur champ et le pourtour des
+                                >mutules</term>, leur champ et le pourtour des 
                                 <term
                                 type="gT" ref="#moulure"
                                 >moulures</term> qui les environnent
@@ -11872,7 +11872,7 @@
                             >doucine recreusée</term> et dégagée se
                             comptent chacun pour 5 pieds d’architecture.</p>
                         <p xml:id="t9BodyFr01.17.p012"
-                                >12. Le renfoncement des ordrescadres P sous
+                                >12. Le renfoncement des ordrescadres<!-- TODO pb --> P sous
                             les offices du <term
                                 type="gT" ref="#larmier">larmier</term> entre les <term type="gT"
                                 ref="#modillon">modillons</term> se <term type="gT" ref="#toiser"
@@ -11888,7 +11888,7 @@
                             >architecture</term> quand ils
                             sont galbés R.</p>
                         <p xml:id="t9BodyFr01.17.p014">14. La <term type="gT" ref="#moulure"
-                                >moulure</term>S qui sert de <term type="gT" ref="#couronnement"
+                                >moulure</term> S qui sert de <term type="gT" ref="#couronnement"
                                 >couronnement</term> aux <term type="gT" ref="#modillon"
                                 >modillons</term> se compte
                             pour ce qu’elle contient couramment et dans tout le pourtour du front,
@@ -12272,7 +12272,7 @@
                                 </choice></term>
                             inférieure de leur <term
                                 type="gT" ref="#moulure"
-                                >moulure</term>du bas,
+                                >moulure</term> du bas,
                             et les <term
                                 type="gT" ref="#bossage" ana="#ibossage"
                                 >bossages</term>
@@ -12309,7 +12309,7 @@
                             ravalemens enduits <term
                                 type="gT" ref="#plafond" ana="#iplafond">plafonds</term>
                             <term type="gT" ref="#corniche" ana="#icorniche">corniches</term>
-                            <term type="gT" ref="#cadre">cadres</term> , et toutes sortes d’<term
+                            <term type="gT" ref="#cadre">cadres</term>, et toutes sortes d’<term
                                 type="gT" ref="#ouvrage"
                                 >ouvrages</term>
                             de <term type="gT"
@@ -14952,7 +14952,7 @@
                                 >fer</term> sur les
                             seuils de <term
                                 type="gT" ref="#pierreDeTaille">pierre de taille</term> des <term
-                                type="gT" ref="#porte">portes</term> cochères, et sur les <choice>
+                                    type="gT" ref="#porteCochere">portes cochères</term>, et sur les <choice>
                                 <abbr>1<hi rend="superscript">eres</hi>
                                 </abbr>
                                 <expan>premières</expan>
@@ -15042,7 +15042,7 @@
                                 type="gT" ref="#gond"
                                 >gonds</term>
                             de <term type="gT"
-                                ref="#porte">portes</term> cochères en <term type="gT"
+                                ref="#porteCochere">portes cochères</term> en <term type="gT"
                                 ref="#pierreDeTaille"
                                 >pierre de taille</term> sont comptés chacun pour 4 pieds
                             de légers <term
@@ -15268,16 +15268,13 @@
                                 >poutres</term> portées dans les
                             <term
                                 type="gT" ref="#mur"
-                                >murs</term> en distances égales pour l’ordinaire les<hi
+                                >murs</term> en distances égales<ref type="noteHistorical" target="#t9Nh0001"/> pour l’ordinaire les<hi
                                 rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0001"/>
                             </hi>
                             <term type="gT" ref="#solive">solives</term> de ces <term type="gT"
                                 ref="#travée">travées</term> étoient de même <term type="gT"
                                 ref="#longueur">longueur</term> et <term type="gT" ref="#grosseur"
-                                >grosseur</term> on <hi rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0002"/>
-                            </hi> les comptoit au cent et on les réduisoit par le calcul, les
+                                >grosseur</term>. On les comptoit au cent et on les réduisoit par le calcul, les
                             <term
                                 type="gT" ref="#poutre"
                                 >poutres</term> et les autres grosses et mesmes pièces de bois des bâtimens à la
@@ -15348,10 +15345,7 @@
                             parce que la pièce étant de 2 <term
                                 type="gT" ref="#toise"
                                 >toises</term> de long de 6 pouces de gros quarré,
-                            le <hi
-                                rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0003"/>
-                            </hi>bout de sa coupe contient 36 <choice>
+                            le bout de sa coupe contient 36 <choice>
                                 <abbr>po<hi rend="superscript">s</hi>
                                 </abbr>
                                 <expan>pouces</expan>
@@ -15765,9 +15759,7 @@
                                 type="gT" ref="#refend">refend</term>. Elles seront comptées de 21 <choice>
                                 <abbr>pi.</abbr>
                                 <expan>pieds</expan>
-                            </choice> les <hi rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0004"/>
-                            </hi>autres <term type="gT" ref="#solive"
+                            </choice>. Les autres <term type="gT" ref="#solive"
                                 >solives</term> posées sur les sablières entre les <term type="gT"
                                 ref="#mur">murs</term> qui n’ont
                             que 19 <choice>
@@ -15901,10 +15893,7 @@
                             les <term
                                 type="gT" ref="#mur"
                                 >murs</term> des 2 bouts auront 19 pieds 1/4 de long, elles seront comptées
-                            19 pieds 1/2 la <hi
-                                rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0005"/>
-                            </hi>
+                            19 pieds 1/2. La 
                             <term type="gT" ref="#solive">solive</term> d’enchevêtrure 5 aura 18 pieds juste de <choice>
                                 <abbr>long<hi rend="superscript">r</hi>
                                 </abbr>
@@ -16540,10 +16529,7 @@
                                 >moulures</term> dans les échiffres et les <term type="gT"
                                 ref="#marche"
                                 >marches</term> n’y sont point
-                            payés à part l’on <hi
-                                rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0006"/>
-                            </hi>compte la quantité des pièces de bois qui sont employées aux <term
+                            payés à part. L’on compte la quantité des pièces de bois qui sont employées aux <term
                                 type="gT" ref="#escalier" ana="#iescalier"
                                 >escaliers</term> sur le
                             même prix des autres <term
@@ -17110,10 +17096,7 @@
                                 type="gT" ref="#douelle"
                                 >douelles</term> ou de douves de vieux
                             tonneaux coupés quarrément de 15 pouces de long amincies par le bout
-                            d’en haut, il<hi
-                                rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0007"/>
-                            </hi> se cloue sur des planches jointives qui lui servent de lattis. Il
+                            d’en haut, il se cloue sur des planches jointives qui lui servent de lattis. Il
                             résiste au grand vent, à la gresle et aux coups de <term
                                 type="gT" ref="#pierre"
                             >pierre</term>, mais il se
@@ -17124,19 +17107,13 @@
                             moins pesante que la <term
                                 type="gT" ref="#tuile" ana="#ituile"
                                 >tuile
-                                </term>l’on<hi
-                                rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0008"/>
-                            </hi> employe à Paris de 5 sortes d’<term type="gT" ref="#ardoise"
+                                </term>. L’on employe à Paris de 5 sortes d’<term type="gT" ref="#ardoise"
                                 ana="#iardoise">ardoises</term> dont 4 viennent d’<placeName
                                 ref="#angers">Angers</placeName>, qui sont, la grosse noire qui est
                             la plus épaisse, elle <sic/>
                             <!-- TODO voir le rendu --> 12 à 13 pouces de long, 7 à 8 pouces de
                             large, la quarré forte qui a 11 à 12 pouces de long, 7 à 8 pouces de
-                            large c’est <hi
-                                rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0009"/>
-                            </hi>de cette sorte d’<term type="gT" ref="#ardoise" ana="#iardoise"
+                            large. C’est de cette sorte d’<term type="gT" ref="#ardoise" ana="#iardoise"
                                 >ardoise </term>que l’on employe le plus communément aux
                             <term
                                 type="gT" ref="#couverture"
@@ -18461,11 +18438,8 @@
                         </head>
                         <p xml:id="t9BodyFr04.01.p001">1. Les <term type="gT" ref="#ouvrage"
                                 >ouvrages</term> de plomb ne se <term type="gT" ref="#toiser"
-                                >toisent</term> point
-                            ils <hi
-                                rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0010"/>
-                            </hi>se livrent au poid, le plomb et la soudure séparément ; la façon,
+                                >toisent</term> point, 
+                            ils se livrent au poid, le plomb et la soudure séparément ; la façon,
                             la voiture, l’employ et la pose sont compris dans le prix du poids tant
                             du plomb que de la soudure, c’est à dire, que dans le prix dont on
                             convient pour chaque livre pesant de plomb ou de soudure, la fonte, la
@@ -18680,11 +18654,9 @@
                             <term
                                 type="gT" ref="#pierre">pierre</term> ou de <term type="gT"
                                 ref="#carreau" ana="#icarreau">carreaux</term> de <term type="gT"
-                                ref="#pierre">pierre</term> de <term type="gT" ref="#liais"
-                                >lierre</term>
-                            <hi rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0011"/>
-                            </hi> et <term type="gT" ref="#marbre" ana="#imarbre"
+                                ref="#pierreDeLiais">pierre de lierre</term>
+                            <ref type="noteCritical" target="#t9Nc0046"/>
+                             et <term type="gT" ref="#marbre" ana="#imarbre"
                                 >marbre</term> noir
                             ou autrement se <term
                                 type="gT" ref="#toiser">toisent</term> aussi à <term type="gT"
@@ -18784,7 +18756,7 @@
                                 ref="#panneau"
                                 >panneaux</term> simples
                             ou avec <term
-                                type="gT" ref="#cadre">cadres</term> , <term type="gT"
+                                type="gT" ref="#cadre">cadres</term>, <term type="gT"
                                 ref="#pilastre" ana="#ipilastre">pilastres</term>,  <term type="gT"
                                 ref="#plinthe">plinthes</term>,
                             <term
@@ -18818,7 +18790,7 @@
                             <term type="gT"
                                 ref="#corniche" ana="#icorniche">corniche</term> ou <term type="gT"
                                 ref="#moulure"
-                                >moulure</term>qui couronne le
+                                >moulure</term> qui couronne le
                                 <term
                                 type="gT" ref="#lambris" ana="#ilambris"
                                 >lambris
@@ -19178,10 +19150,7 @@
                                 type="gT" ref="#serrurier" ana="#iserrurier"
                                 >serrurier</term>, on luy accorde
                             4 livres pesant par chacun cent pour le déchet c’est à dire que de cent
-                            quatre livres pesant il ne tient compte que de 100 livres l’on <hi
-                                rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0012"/>
-                            </hi>convient d’un prix particulier pour la façon et l’employ du vieux
+                            quatre livres pesant il ne tient compte que de 100 livres. L’on convient d’un prix particulier pour la façon et l’employ du vieux
                             <term
                                 type="gT" ref="#fer">fer</term>.</p>
                         <p xml:id="t9BodyFr04.04.p004">4. Lorsque l’on a donné du vieux <term
@@ -19465,10 +19434,7 @@
                                 >carreaux</term> et les <term type="gT" ref="#panneau"
                                 >panneaux</term> et ils les posent en place aux
                             <term
-                                type="gT" ref="#panneau">panneaux</term> il <hi
-                                rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0013"/>
-                            </hi>doit y avoir des attaches de plomb de distance en distance pour les
+                                type="gT" ref="#panneau">panneaux</term>. Il doit y avoir des attaches de plomb de distance en distance pour les
                             lier et retenir aux verges de <term
                                 type="gT" ref="#fer"
                                 >fer</term> qui les soutiennent. Les verges de <term type="gT"
@@ -19489,10 +19455,7 @@
                                 type="gT" ref="#carreau" ana="#icarreau"
                                 >carreaux</term> de papier
                             se payent à la pièce à proportion de la grandeur des feuilles de papier
-                            qui y sont employés ceux <hi
-                                rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0014"/>
-                            </hi>qui sont un peu plus grands <pb xml:id="t9P175" n="p175"/>
+                            qui y sont employés. Ceux qui sont un peu plus grands <pb xml:id="t9P175" n="p175"/>
                             <fw type="pageNum"
                             >175</fw> ou un peu plus petits l’un que l’autre sont
                             payés au même prix quand ils sont faits avec une même grandeur de
@@ -19517,10 +19480,7 @@
                         <p xml:id="t9BodyFr04.06.p002">2. Il y a différentes sortes de <term
                                 type="gT" ref="#pave" ana="#ipave"
                                 >pavé</term> suivant les différens
-                            pays, on <hi
-                                rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0015"/>
-                            </hi>en connoît de 3 sortes à <placeName ref="#paris"
+                            pays. On en connoît de 3 sortes à <placeName ref="#paris"
                                 >Paris</placeName>
                             qui sont le <term
                                 type="gT" ref="#pave" ana="#ipave"
@@ -19553,10 +19513,7 @@
                         <p xml:id="t9BodyFr04.06.p004">4. Le <term type="gT" ref="#pave"
                                 ana="#ipave"
                                 >pavé</term> de grais est plus commode et le plus
-                            ordinaire, il doit estre fait d<hi
-                                rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0016"/>
-                            </hi>e roche dure et non de roche tendre pour estre durable, le <term
+                            ordinaire, il doit estre fait <supplied reason="gap">d</supplied>e roche dure et non de roche tendre pour estre durable, le <term
                                 type="gT" ref="#pave" ana="#ipave"
                             >pavé</term> de roche tendre étant
                             sujet à s’user promptement, se casser sous le fardeau et se réduire en
@@ -19580,10 +19537,7 @@
                                 ana="#ipave">pavé</term> fendu s’employe dans les <term type="gT"
                                 ref="#cour"
                                 >cours</term> où il entre
-                            des voitures, on le<hi
-                                rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0017"/>
-                            </hi> pose avec du <term type="gT" ref="#mortier"
+                            des voitures, on <supplied>le</supplied> pose avec du <term type="gT" ref="#mortier"
                                 >mortier</term> de chaux et sable sur une forme de sable dans
                             les grandes <term
                                 type="gT" ref="#cour"
@@ -19601,10 +19555,7 @@
                             il n’entre point de voitures, les <term
                                 type="gT" ref="#ecurie" ana="#iEcuries"
                                 >écuries</term>, les cuisines et autres lieux
-                            semblables, le <hi
-                                rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0018"/>
-                            </hi>petit <term type="gT" ref="#pave" ana="#ipave"
+                            semblables. Le petit <term type="gT" ref="#pave" ana="#ipave"
                                 >pavé</term> doit
                             toujours estre posé en ciment sur une forme de sable parce qu’il ne
                             subsisteroit pas longtems, s’il étoit posé en <term
@@ -19648,10 +19599,8 @@
                                 type="gT" ref="#pierre"
                                 >pierre</term> dure
                             d’autres petits bancs nommés plaquières de 3 à 4 pouces 1/2 d’épaisseur
-                            comme une espèce de lierre<hi
-                                rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0019"/>
-                            </hi>. On laisse ces petits bancs de l’épaisseur qu’ils sont, et on les
+                            comme une espèce de <term type="gT" ref="#pierreDeLiais">lierre</term><ref type="noteCritical" target="#t9Nc0048"/>
+                            . On laisse ces petits bancs de l’épaisseur qu’ils sont, et on les
                             débite en <term
                                 type="gT" ref="#pave" ana="#ipave"
                                 >pavé</term> de 5 à 6
@@ -19676,11 +19625,9 @@
                         <p xml:id="t9BodyFr04.06.p012">12. Entre toutes ces sortes de <term
                                 type="gT" ref="#pave" ana="#ipave"
                                 >pavé</term> celui de grais est le
-                            plus cher le <term
-                                type="gT" ref="#pave" ana="#ipave">pavé</term>
-                            <hi rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0020"/>
-                            </hi>d’échantillon est le plus cher de tous, ensuite le gros <term
+                            plus cher. Le <term
+                                type="gT" ref="#pave" ana="#ipave">pavé</term> 
+                            d’échantillon est le plus cher de tous, ensuite le gros <term
                                 type="gT" ref="#pave" ana="#ipave"
                                 >pavé</term> des rues, après le
                                 <term
@@ -19860,7 +19807,7 @@
                             pourtour et se réduisent au pied quarré.</p>
                         <p xml:id="t9BodyFr04.07.p007">7. Les <term type="gT" ref="#moulure"
                                 >moulures</term>, canneaux, <term type="gT" ref="#listeau"
-                                >listeau</term>x et autres <term type="gT" ref="#architecture"
+                                >listeau</term> x et autres <term type="gT" ref="#architecture"
                                 >architectures</term> de <term type="gT" ref="#marbre"
                                 ana="#imarbre"
                                 >marbre</term> sont toisés chacun sur
@@ -19957,11 +19904,9 @@
                         <p xml:id="t9BodyFr04.07.p010">10. Les <term type="gT" ref="#marbrier"
                                 ana="#iMarbrier">marbriers</term> font aussi des <term type="gT"
                                 ref="#ouvrage"
-                                >ouvrages</term> de lierre
-                                <hi
-                                rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0021"/>
-                            </hi>lesquels peuvent se <term type="gT" ref="#toiser"
+                                >ouvrages</term> de <term type="gT" ref="#pierreDeLiais">lierre</term>
+                                <ref type="noteCritical" target="#t9Nc0049"/>
+                            lesquels peuvent se <term type="gT" ref="#toiser"
                                 >toiser</term> comme il est dit pour les <term type="gT"
                                 ref="#ouvrage"
                                 >ouvrages</term> de
@@ -19969,10 +19914,9 @@
                                 ref="#marbre" ana="#imarbre"
                                 >marbre</term>. Les
                             <term type="gT"
-                                ref="#ouvrage">ouvrages</term> de <term type="gT" ref="#pierre"
-                                >pierre</term> de lierre <hi rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0022"/>
-                            </hi>le plus ordinaire <gap reason="erased" extent="1" unit="words"
+                                ref="#ouvrage">ouvrages</term> de <term type="gT" ref="#pierreDeLiais"
+                                    >pierre de lierre</term><ref type="noteCritical" target="#t9Nc0050"/> 
+                            le plus ordinaire <gap reason="erased" extent="1" unit="words"
                                 />
                             sont les <term type="gT"
                                 ref="#chambranle">chambranles</term> de <term type="gT"
@@ -19990,7 +19934,7 @@
                             pans ou quarrés et les <term
                                 type="gT" ref="#pave" ana="#ipave"
                                 >pavé
-                            </term> de lierre et <term
+                            </term> de <term type="gT" ref="#pierreDeLiais">lierre</term> et <term
                                 type="gT" ref="#marbre" ana="#imarbre"
                                 >marbre</term>, ou les petits <term
                                 type="gT" ref="#carreau" ana="#icarreau">carreaux</term> de <term
@@ -20012,10 +19956,8 @@
                                 type="gT" ref="#pave" ana="#ipave">pavé</term>  de <term type="gT"
                                 ref="#pierre">pierre</term> ou de
                             <term
-                                type="gT" ref="#pierre">pierre</term> de lierre <hi
-                                rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0023"/>
-                            </hi>sont faits par les maçons et ce sont les <term type="gT"
+                                type="gT" ref="#pierreDeLiais">pierre de lierre</term><ref type="noteCritical" target="#t9Nc0051"/>
+                            sont faits par les maçons et ce sont les <term type="gT"
                                 ref="#marbrier" ana="#iMarbrier"
                                 >marbriers</term> qui posent le
                                 <term
@@ -20042,15 +19984,12 @@
                                 ana="#ichapiteau">chapiteaux</term>, les <term type="gT"
                                 ref="#panneau">panneaux</term> de <term type="gT" ref="#rinceau"
                                 >rinceaux</term>, <term type="gT" ref="#palmette"
-                                >palmettes</term> ou autres <term type="gT" ref="#ornement"><choice>
+                                >palmettes</term>, ou autres <term type="gT" ref="#ornement"><choice>
                                     <orig>ornemens</orig>
                                     <reg>ornements</reg>
-                                </choice></term>, particuliers que l’on prétend
+                                </choice></term> particuliers que l’on prétend
                             réduire à la <term
-                                type="gT" ref="#toise">toise</term>, ces <hi
-                                rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0024"/>
-                            </hi>sortes d’<term type="gT" ref="#ouvrage"
+                                type="gT" ref="#toise">toise</term>, ces sortes d’<term type="gT" ref="#ouvrage"
                             >ouvrages</term> sont estimés à la pièce, principalement les
                             figures dont la valeur dépend moins de la grandeur que de l’habileté des
                             sculpteurs qui les ont faites.</p>
@@ -20066,27 +20005,27 @@
                                 </choice></term>, qui sont
                             taillés sur des <term
                                 type="gT" ref="#moulure"
-                                >moulures</term> ou
+                                >moulures</term> ou 
                             <term type="gT"
                                 ref="#membre">membres</term> d’<term type="gT" ref="#architecture"
-                                >architectures</term> ,
+                                >architectures</term>, 
                             comme les <term
                                 type="gT" ref="#corniche" ana="#icorniche"
                                 >corniches</term>, les <term type="gT" ref="#frise"
                                 >frises</term>, <term type="gT" ref="#architrave" ana="#iarchitrave"
                                 >architraves</term>, <term type="gT" ref="#cadre"
-                                >cadres</term> , bordures, <term type="gT" ref="#chambranle"
+                                >cadres</term>, bordures, <term type="gT" ref="#chambranle"
                                 >chambranles</term> et autres parties d’<term type="gT"
                                 ref="#architecture">architectures</term>, tant en <term type="gT"
                                 ref="#marbre" ana="#imarbre">marbre</term> qu’en <term type="gT"
                                 ref="#pierre">pierre</term>,
                              <term
-                                type="gT" ref="#platre">plâtre</term> bois et autres <pb
+                                type="gT" ref="#platre">plâtre</term>, bois et autres <pb
                                 xml:id="t9P181" n="p181"/>
                             <fw type="pageNum">181</fw> matières de toutes lesquelles le <term
                                 type="gT" ref="#toise">toisé</term> est uniforme.</p>
                         <p xml:id="t9BodyFr04.08.p003">3. L’on réduit ordinairement chaque <term
-                                type="gT" ref="#moulure">moulure</term>et <term type="gT"
+                                type="gT" ref="#moulure">moulure</term> et <term type="gT"
                                 ref="#membre">membre</term> d’<term type="gT" ref="#architecture"
                                 >architecture</term> sculpté au pied ou à la
                                 <term
@@ -20255,7 +20194,7 @@
                                 type="gT" ref="#pierre"
                                 >pierre</term>, le
                                 <gap extent="4"
-                                unit="chars"/>tre <ref type="noteCritical" target="#t9Nc0046"
+                                unit="chars"/>tre <ref type="noteCritical" target="#t9Nc0047"
                             /> et le bois. Il n’y a pas un si bel œil que l’or
                             bruni et l’or repassé la poudre s’y attache, il se passe et ternit avec
                             le tems.</p>
@@ -20299,10 +20238,7 @@
                             blanc de céruse à l’huile de noix aux endroits à couverts ou 2 couches
                             d’ocre jaune à huile à ceux qui sont à découvert l’une et l’autre bien
                             séchée avant que d’y mettre l’or de couleur qui est aussi à huile fait
-                            avec de vieilles couleurs engraissées lorsque <hi
-                                rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0025"/>
-                            </hi>cette dernière couleur est imbue avant qu’elle soit séchée, l’on y
+                            avec de vieilles couleurs engraissées. Lorsque cette dernière couleur est imbue avant qu’elle soit séchée, l’on y
                             applique les feuilles d’or battu que l’on appuie légèrement dessus avec
                             du cotton pour les faire joindre et tenir sur l’or couleur.</p>
                         <p xml:id="t9BodyFr04.09.p008"
@@ -20503,9 +20439,9 @@
                             et du noir de fumée plus ou moins de l’un ou de l’autre selon qu’on le
                             veut faire claire ou gris, la couleur d’olive se fait avec de la terre
                             d’ombre qui est une couleur brune, de l’ocre jaune et du noir de fumée,
-                            touttes incorporées avec de la colle de cuir de gands <pb
+                            touttes incorporées avec de la colle de cuir de gands.<pb
                                 xml:id="t9P186" n="p186"/>
-                            <fw type="pageNum">186</fw> toutes <hi rend="annotation_reference">
+                            <fw type="pageNum">186</fw> Toutes <hi rend="annotation_reference">
                                 <ref type="noteHistorical" target="#t9Nh0026"/>
                             </hi>les couleurs en détrempe sont à peu près de même prix. Le blanc est
                             le meilleur marché.</p>
@@ -20578,9 +20514,8 @@
                             >toisé</term>
                             sur un seul prix.</p>
                         <p xml:id="t9BodyFr04.10.p013">13. Le <term type="gT" ref="#marbre"
-                                ana="#imarbre">marbre</term> feint <ref type="noteHistorical"
-                                target="#t9Nh0027"/> en <term type="gT" ref="#peinture"
-                                ana="#ipeinture">peinture </term> se <term type="gT" ref="#toiser"
+                                ana="#imarbre">marbre</term> feint en <term type="gT" ref="#peinture"
+                                ana="#ipeinture">peinture</term> se <term type="gT" ref="#toiser"
                                 >toise</term> comme les autres <pb xml:id="t9P187" n="p187"/>
                             <fw type="pageNum">187</fw>
                             <term type="gT" ref="#peinture" ana="#ipeinture"
@@ -20728,10 +20663,7 @@
                                 >verre </term>avec <term type="gT" ref="#volet" ana="#ivolet"
                                 >volets</term> sont toisées par
                             le dedans et doublées pour les 2 <term
-                                type="gT" ref="#face">faces</term>, quand <hi
-                                rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0028"/>
-                            </hi>il n’y a pas de <term type="gT" ref="#volet" ana="#ivolet"
+                                type="gT" ref="#face">faces</term>. Quand il n’y a pas de <term type="gT" ref="#volet" ana="#ivolet"
                                 >volet</term>,elles sont toisées de même par le dedans et doublées,
                             et l’on en rabat le vuide de châssis à <term
                                 type="gT" ref="#verre" ana="#iverre">verre </term>pour les 2 <term
@@ -20770,11 +20702,7 @@
                             pouces de mailles peints de tous côtés devant et derrière, soit isolés
                             ou non avant que d’estre mis en œuvre, sont toisés les 2 <term
                                 type="gT" ref="#face"
-                                >faces</term> pour une
-                            quand <hi
-                                rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0029"/>
-                            </hi>ils ne sont peints que par la <term type="gT" ref="#face"
+                                >faces</term> pour une. Quand ils ne sont peints que par la <term type="gT" ref="#face"
                                 >face</term> et par les épaisseurs entre les
                             mailles, étant en œuvre, la <term
                                 type="gT" ref="#toiseCarree"><choice>
@@ -20902,9 +20830,7 @@
                             pour toujours les prix de <pb
                                 xml:id="t9P190" n="p190"/>
                             <fw type="pageNum">190</fw> chaque nature d’<term type="gT"
-                                ref="#ouvrage">ouvrages</term>, il <hi rend="annotation_reference">
-                                <ref type="noteHistorical" target="#t9Nh0030"/>
-                            </hi>est même incertain de les pouvoir apprécier au juste pour le
+                                ref="#ouvrage">ouvrages</term>, il est même incertain de les pouvoir apprécier au juste pour le
                             courant d’une seule année.</p>
                         <p xml:id="t9BodyFr04.11.p005">Fin </p>
                         <pb xml:id="t9P191" n="p191"/>
