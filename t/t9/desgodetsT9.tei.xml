@@ -1309,7 +1309,8 @@
                     <fw type="pagination" n="11">11</fw>
                     <div xml:id="t9BodyFr01.03" type="chapter" n="3">
                         <head rend="alignCenter">
-                            <label rend="bigger"><num>Chapitre 3</num><hi rend="superscript">e</hi></label> 
+                            <label rend="bigger"><num>Chapitre 3</num><hi rend="superscript"
+                                >e</hi></label>
                             <lb/><term type="gT" ref="#maconnerie" ana="#imaconnerie"
                                 >Maçonnerie</term> à la <term type="gT" ref="#toiseSuperficielle"
                                 >toise superficielle</term></head>
@@ -1516,7 +1517,8 @@
                                 >longueur,</term> et on y ajoute à la <term type="gT"
                                 ref="#longueur"
                                 >longueur</term>
-                            la moitié de l’épaisseur de la teste, et que l’on nomme <term type="gT" ref="#demiFace">demi face</term>.</p>
+                            la moitié de l’épaisseur de la teste, et que l’on nomme <term
+                                type="gT" ref="#demiFace">demi face</term>.</p>
                         <p xml:id="t9BodyFr01.03.p011"
                                 >11°. Les éperons ou pilles à buttans et les
                             dosselets saillans hors les <term
@@ -1535,7 +1537,8 @@
                                 ref="#parement">parement</term> du <term type="gT" ref="#mur"
                                 >mur</term> contre lequel ils sont addossés,
                             et on y augmente la <term
-                                type="gT" ref="#demiFace">demi face</term>, c’est à dire la moitié de la <term type="gT"
+                                type="gT" ref="#demiFace"
+                                >demi face</term>, c’est à dire la moitié de la <term type="gT"
                                 ref="#largeur"
                                 >largeur</term> de
                             leur <term type="gT"
@@ -1673,7 +1676,8 @@
                                 type="gT" ref="#assise">assise</term> du haut<ref
                                 type="noteCritical" target="#t9Nc0006"
                                 />, et l’on ne compte points la 
-                            <term type="gT" ref="#demiFace"
+                            <term
+                                type="gT" ref="#demiFace"
                                 >demi face</term> du
                             dessus quand même le dessus feroit <term
                                 type="gT" ref="#parement">parement</term> tant en <term type="gT"
@@ -1805,8 +1809,9 @@
                                 type="gT" ref="#assise"
                                 >assises</term> l’une sur
                             l’autre, on rabat les vuides des <term
-                                type="gT" ref="#porte">portes</term> moins les <term
-                                    type="gT" ref="#demiFace">demi faces</term> des
+                                type="gT" ref="#porte">portes</term> moins les <term type="gT"
+                                ref="#demiFace"
+                                >demi faces</term> des
                             tableaux aux autres <term
                                 type="gT" ref="#assise"
                             >assises</term> au
@@ -1821,7 +1826,8 @@
                                 >mur</term> la tranchée qui se fait dans les vieux
                             <term
                                 type="gT" ref="#mur">mur</term> pour y liaisonner le <term type="gT"
-                                ref="#mur">mur</term> neuf se compte pour un demi pied de
+                                ref="#mur"
+                                >mur</term> neuf se compte pour un demi pied de
                             <term
                                 type="gT" ref="#longueur">longueur</term> sur toute la <term
                                 type="gT" ref="#hauteur">hauteur</term> de la tranchée dans le <term
@@ -1831,11 +1837,13 @@
                             vieux <term
                                 type="gT" ref="#mur">murs</term> aux deux côtés du <term type="gT"
                                 ref="#mur">mur</term> neuf.</p>
-                        <p xml:id="t9BodyFr01.03.p023">23. L’on compte pareillement un demi pied de
-                            <term type="gT"
-                                ref="#longueur">longueur</term> pour les liaisons des <term
-                                type="gT" ref="#assise">assises</term> de parpin de <term type="gT"
-                                ref="#pierreDeTaille">pierre de taille</term>, <subst>
+                        <p xml:id="t9BodyFr01.03.p023"
+                                >23. L’on compte pareillement un demi pied de
+                            <term
+                                type="gT" ref="#longueur"
+                                >longueur</term> pour les liaisons des <term type="gT" ref="#assise"
+                                >assises</term> de parpin de <term type="gT" ref="#pierreDeTaille"
+                                >pierre de taille</term>, <subst>
                                 <add rend="overWriting">et des <term type="gT" ref="#voute"
                                         >voûtes</term> neuves</add>
                             </subst> dans les vieux <term type="gT" ref="#mur">murs</term>.</p>
@@ -1860,7 +1868,7 @@
                     </div>
                     <div xml:id="t9BodyFr01.04" type="chapter" n="4">
                         <head rend="alignCenter">
-                            <label rend="bigger"><num>Chapitre 4.</num></label> 
+                            <label rend="bigger"><num>Chapitre 4.</num></label>
                             <lb/>Toisé des <term type="gT" ref="#baie"><choice>
                                     <orig>bayes</orig>
                                     <reg>baies</reg>
@@ -2029,8 +2037,8 @@
                                 >mur</term> a d’épaisseur en cet endroits, à l’une
                             et à l’autre, on rabat le vuide au dessous jusqu’au bas dans toute la
                             <term
-                                type="gT" ref="#largeur">largeur</term> moins les <term
-                                    type="gT" ref="#demiFace">demi faces</term> des <term type="gT"
+                                type="gT" ref="#largeur">largeur</term> moins les <term type="gT"
+                                ref="#demiFace">demi faces</term> des <term type="gT"
                                 ref="#piedroit"><choice>
                                     <orig>pieds droits</orig>
                                     <reg>piédroits</reg>
@@ -2113,7 +2121,7 @@
                                     <orig>bayes</orig>
                                     <reg>baies</reg>
                                 </choice></term> de <term type="gT" ref="#porteCochere"
-                                    >porte cochère</term>,
+                                >porte cochère</term>,
                             remises de carosses, ou <term
                                 type="gT" ref="#arcade" ana="#iarcade">arcade</term>, <term
                                 type="gT" ref="#ouverture"
@@ -2165,8 +2173,8 @@
                                 </choice></term> dans leur <term type="gT" ref="#hauteur"
                                 >hauteur</term> et
                             <term type="gT"
-                                ref="#largeur">largeur</term>, moins les <term
-                                    type="gT" ref="#demiFace">demi faces</term> des <term type="gT"
+                                ref="#largeur">largeur</term>, moins les <term type="gT"
+                                ref="#demiFace">demi faces</term> des <term type="gT"
                                 ref="#piedroit"><choice>
                                     <orig>pieds droits</orig>
                                     <reg>piédroits</reg>
@@ -2332,8 +2340,9 @@
                                 type="gT" ref="#retour"
                                 >retour</term>
                             de leur épaisseur pour les 2 <term
-                                type="gT" ref="#demiFace">demi faces</term> des bouts sur toute la <term
-                                type="gT" ref="#hauteur"
+                                type="gT" ref="#demiFace"
+                                >demi faces</term> des bouts sur toute la <term type="gT"
+                                ref="#hauteur"
                                 >hauteur</term>
                             depuis le dessus des <term
                                 type="gT" ref="#mur"
@@ -2427,7 +2436,7 @@
                     <fw type="pageNum">21</fw>
                     <div xml:id="t9BodyFr01.05" type="chapter" n="5">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 5.</num></label> 
+                            <label><num>Chapitre 5.</num></label>
                             <lb/>Toisé des <term type="gT" ref="#puits" ana="#ipuits"
                             >puits</term></head>
                         <p xml:id="t9BodyFr01.05.p001">1. Les <term type="gT" ref="#puits"
@@ -2779,10 +2788,11 @@
                                     <orig>plein ceintre</orig>
                                     <reg>plein cintre</reg>
                                 </choice></term>, c’est à dire lorsque leurs <term type="gT"
-                                ref="#circonference">circonférences</term> est en demi cercle, la règle
-                            <term type="gT"
-                                ref="#geometrique">géométrique</term> est aisée à <pb xml:id="t9P25"
-                                n="p25"/>
+                                ref="#circonference"
+                                >circonférences</term> est en demi cercle, la règle
+                            <term
+                                type="gT" ref="#geometrique">géométrique</term> est aisée à <pb
+                                xml:id="t9P25" n="p25"/>
                             <fw type="pageNum">25</fw> pratiquer, il faut prendre la <term type="gT"
                                 ref="#largeur"
                                 >largeur</term> de la
@@ -2798,7 +2808,8 @@
                                     <reg>diamètre</reg>
                                 </choice></term> entier du <term type="gT" ref="#cercle"
                                 >cercle</term>, le joindre avec le demi 
-                            <term type="gT" ref="#diametre"><choice>
+                            <term
+                                type="gT" ref="#diametre"><choice>
                                     <orig>diamettre</orig>
                                     <reg>diamètre</reg>
                                 </choice></term> à plomb
@@ -2813,8 +2824,10 @@
                                 </choice></term> de niveau, y ajouter la 7<hi rend="superscript"
                                 >e</hi> partie
                             de la <term type="gT"
-                                ref="#hauteur">hauteur</term> ou demi 
-                            <term type="gT" ref="#diametre"><choice>
+                                ref="#hauteur"
+                                >hauteur</term> ou demi 
+                            <term type="gT"
+                                ref="#diametre"><choice>
                                     <orig>diamettre</orig>
                                     <reg>diamètre</reg>
                                 </choice></term>, ce qui fait ensemble la <term type="gT"
@@ -2827,8 +2840,10 @@
                                     <reg>diamètre</reg>
                                 </choice></term> de niveau étant de 14
                             pieds, la <term
-                                type="gT" ref="#hauteur">hauteur</term> ou demi 
-                            <term type="gT" ref="#diametre"><choice>
+                                type="gT" ref="#hauteur"
+                                >hauteur</term> ou demi 
+                            <term type="gT"
+                                ref="#diametre"><choice>
                                     <orig>diamettre</orig>
                                     <reg>diamètre</reg>
                                 </choice></term> est de 7 pieds, la 7<hi rend="superscript"
@@ -2862,20 +2877,25 @@
                                 ref="#hauteur"
                                 >hauteur</term>
                             ou montée de la <term
-                                type="gT" ref="#voute">voûte</term>, trouver un demi 
-                            <term type="gT" ref="#diametre"><choice>
+                                type="gT" ref="#voute"
+                                >voûte</term>, trouver un demi 
+                            <term
+                                type="gT" ref="#diametre"><choice>
                                     <orig>diamettre</orig>
                                     <reg>diamètre</reg>
                                 </choice></term>
                             <term type="gT" ref="#proportionner"
                                 >proportionné</term> entre le 
                             demi 
-                            <term type="gT" ref="#diametre"><choice>
+                            <term
+                                type="gT" ref="#diametre"><choice>
                                     <orig>diamettre</orig>
                                     <reg>diamètre</reg>
                                 </choice></term> de niveau et celui de la <term type="gT"
-                                ref="#hauteur">hauteur</term>, multiplier ce 
-                            <term type="gT" ref="#diametre"><choice>
+                                ref="#hauteur"
+                                >hauteur</term>, multiplier ce 
+                            <term
+                                type="gT" ref="#diametre"><choice>
                                     <orig>diamettre</orig>
                                     <reg>diamètre</reg>
                                 </choice></term> proportionnel par 3 1/7 ; le produit sera la <term
@@ -2898,10 +2918,13 @@
                                 ref="#hauteur"
                                 >hauteur</term> ou montée de la
                             <term
-                                type="gT" ref="#voute">voûte</term> de 9 pieds ; le demi 
-                            <term type="gT" ref="#diametre"
+                                type="gT" ref="#voute"
+                                >voûte</term> de 9 pieds ; le demi 
+                            <term
+                                type="gT" ref="#diametre"
                                 >diamettre</term> proportionnel entre 7 pieds 
-                            <term type="gT" ref="#diametre"><choice>
+                            <term
+                                type="gT" ref="#diametre"><choice>
                                     <orig>diamettre</orig>
                                     <reg>diamètre</reg>
                                 </choice></term> de sa <term type="gT" ref="#largeur"
@@ -2930,8 +2953,10 @@
                                 xml:id="t9P26" n="p26"/>
                             <fw type="pageNum">26</fw>
                             <term type="gT" ref="#hauteur">hauteur</term> sur 14 pieds de <term
-                                type="gT" ref="#largeur">largeur</term> ; le demi 
-                            <term type="gT" ref="#diametre"><choice>
+                                type="gT" ref="#largeur"
+                                >largeur</term> ; le demi 
+                            <term
+                                type="gT" ref="#diametre"><choice>
                                     <orig>diamettre</orig>
                                     <reg>diamètre</reg>
                                 </choice></term> moyen proportionnel entre la <term type="gT"
@@ -2944,7 +2969,8 @@
                                 ref="#ligne"
                                 >ligne</term> 2/3
                             laquelle étant jointe à 3 fois le demi 
-                            <term type="gT" ref="#diametre"
+                            <term
+                                type="gT" ref="#diametre"
                                 >diamettre</term> proportionnel font
                             ensemble 18 pieds, 7 pouces 1 <term
                                 type="gT" ref="#ligne">ligne</term> 2/3 pour la <term type="gT"
@@ -2960,22 +2986,27 @@
                                     <reg>cintre</reg>
                                 </choice></term> ovale des <term type="gT" ref="#voute"
                                 >voûtes</term> par les demi 
-                            <term type="gT" ref="#diametre"
+                            <term
+                                type="gT" ref="#diametre"
                                 >diamettres</term> moyens
                             proportionnels étant embarrassantes à plusieurs personnes, l’on peut
                             avoir le pourtour de la même <term
                                 type="gT" ref="#circonference"
                                 >circonférence</term> plus aisément à très peu de
                             chose de différence par la règle de pratique suivante ; en joignant le
-                            demi <term type="gT" ref="#diametre">diamettre</term> de la <term type="gT"
+                            demi <term
+                                type="gT" ref="#diametre">diamettre</term> de la <term type="gT"
                                 ref="#largeur">largeur</term> avec la <term type="gT" ref="#hauteur"
                                 >hauteur</term> la moitié de leur somme
                             sera le demi 
-                            <term type="gT" ref="#diametre"
+                            <term
+                                type="gT" ref="#diametre"
                                 >diamettre</term> moyen arithmétique entre les 2 : y ajoutant la
                                 7<hi
-                                rend="superscript">e</hi> partie de ce demi 
-                            <term type="gT" ref="#diametre"
+                                rend="superscript"
+                                >e</hi> partie de ce demi 
+                            <term
+                                type="gT" ref="#diametre"
                                 >diamettre</term> moyen le
                             tout ensemble fera la <term
                                 type="gT" ref="#circonference">circonférence</term> de la <term
@@ -2984,13 +3015,15 @@
                                 ref="#vouteSurmontee" ana="#ivouteSurmontee"
                                 >voûte
                             surmontée</term> ; le demi 
-                            <term type="gT" ref="#diametre">diamettre</term> de la <term type="gT"
+                            <term
+                                type="gT" ref="#diametre">diamettre</term> de la <term type="gT"
                                 ref="#largeur"
                                 >largeur</term> étant de 7 pieds, et
                             la <term
                                 type="gT" ref="#hauteur"
                                 >hauteur</term> de 9 pieds, lesquels estant joints ensemble avec le demi 
-                            <term type="gT" ref="#diametre"
+                            <term
+                                type="gT" ref="#diametre"
                                 >diamettre</term> moyen arithmétique qui est de 8 pieds est dont la 7<hi
                                 rend="superscript">e</hi> partie est 1 pied 1 pouce 8 <term
                                 type="gT" ref="#ligne"
@@ -3009,11 +3042,14 @@
                                 ref="#vouteSurbaissee" ana="#ivouteSurbaissee"
                                 >voûte
                                 surbaissé</term> à 5 pieds de <term
-                                type="gT" ref="#largeur">largeur</term> sur le même demi 
-                            <term type="gT" ref="#diametre"
+                                type="gT" ref="#largeur"
+                                >largeur</term> sur le même demi 
+                            <term
+                                type="gT" ref="#diametre"
                                 >diamettre</term> de
                             7 pieds, le demi 
-                            <term type="gT" ref="#diametre">diamettre</term>
+                            <term
+                                type="gT" ref="#diametre">diamettre</term>
                             <del rend="strikethrough"
                                 >de 7 pieds</del>
                             moyen arithmétique sera de 6 pieds dont la 7<hi
@@ -3189,7 +3225,8 @@
                             <term
                                 type="gT" ref="#circonference"
                                 >circonférences</term> trouvées par les demi 
-                            <term type="gT" ref="#diametre"
+                            <term
+                                type="gT" ref="#diametre"
                                 >diamettre</term> moyens arithmétiques
                             expliqués dans les articles 10. 11. 12. de ce chapitre ce qui produiroit
                             quelquechose de plus, mais l’opération est beaucoup plus prompte et la
@@ -3468,7 +3505,7 @@
                     </div>
                     <div xml:id="t9BodyFr01.07" type="chapter" n="7">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 7<hi rend="superscript">e</hi></num></label> 
+                            <label><num>Chapitre 7<hi rend="superscript">e</hi></num></label>
                             <lb/><term type="gT" ref="#toise">Toisé</term> des <term type="gT"
                                 ref="#vouteDArrete" ana="#ivouteDArrete">voûte d’<choice>
                                     <orig>arreste</orig>
@@ -3516,11 +3553,13 @@
                                 </choice></term> de la <term type="gT" ref="#voute"
                                 >voûte</term> sera de 22 pieds dont
                             la moitié 11 pieds estant multiplié par le demi 
-                            <term type="gT" ref="#diametre"
+                            <term
+                                type="gT" ref="#diametre"
                                 >diamettre</term> qui est de 7
                             pieds, le produit sera 77 pieds en superficie dont ayant oté 49 pieds
                             quarré de demi 
-                            <term type="gT" ref="#diametre"
+                            <term
+                                type="gT" ref="#diametre"
                                         ><choice><orig>diamettre</orig><reg>diamètre</reg>
                                 </choice></term>, il restera 28 pieds, lesquels étant
                             multipliés par 8 produisent 224 pieds pour la superficie de la <term
@@ -4037,7 +4076,7 @@
                     <div xml:id="t9BodyFr01.08" type="chapter" n="8">
                         <head rend="alignCenter">
                             <label><num>Chapitre 8<hi rend="superscript">e</hi></num>
-                            </label> 
+                            </label>
                             <lb/><term type="gT" ref="#toise">Toisé</term> des <term type="gT"
                                 ref="#vouteDeCloitre" ana="#ivouteDeCloitre"><choice>
                                     <orig>voûte de cloître</orig>
@@ -4840,7 +4879,7 @@
                     </div>
                     <div xml:id="t9BodyFr01.09" type="chapter" n="9">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 9<hi rend="superscript">e</hi>.</num></label> 
+                            <label><num>Chapitre 9<hi rend="superscript">e</hi>.</num></label>
                             <lb/><term type="gT" ref="#toise">Toisé</term> des <term type="gT"
                                 ref="#vouteDeCloitre" ana="#ivouteDeCloitre"
                                 >voûtes de
@@ -4880,7 +4919,8 @@
                                 >diamettre</term> aura 22 pieds de pourtour, chacun des côtés AB, BC, et
                             les autres sont de 8 pieds 1 pouce faisant ensemble 48 pieds 6 pouces,
                             ce pourtour estant multiplié par ce demi
-                            <term type="gT" ref="#diametre"
+                            <term
+                                type="gT" ref="#diametre"
                                 >diamettre</term> IG de 7 pieds
                             produisent 339 pieds 7 pouces qui est le double de la superficie de
                             l’exagone <pb
@@ -4917,7 +4957,8 @@
                                 >lignes</term>, ce qui fait 46
                             pieds 4 pouces pour le pourtour des 8 côtés, lesquels étant multipliés
                             par le demi 
-                            <term type="gT" ref="#diametre"
+                            <term
+                                type="gT" ref="#diametre"
                                 >diamettre</term> IL de 7 pieds produisent 324 pieds 4 pouces pour
                             la superficie de la <term
                                 type="gT" ref="#vouteDeCloitre" ana="#ivouteDeCloitre"
@@ -5138,7 +5179,7 @@
                     </div>
                     <div xml:id="t9BodyFr01.10" type="chapter" n="10">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 10<hi rend="superscript">e</hi>. </num></label> 
+                            <label><num>Chapitre 10<hi rend="superscript">e</hi>. </num></label>
                             <lb/><term type="gT" ref="#toise">Toisé</term> des <term type="gT"
                                 ref="#vouteSpherique" ana="#ivouteSpherique"
                                 >voûtes
@@ -5214,8 +5255,10 @@
                             grand <term
                                 type="gT" ref="#cercle">cercle</term> de leur <term type="gT"
                                 ref="#naissance">naissance</term> ou plan par leur <term type="gT"
-                                ref="#hauteur">hauteur</term> ou demi 
-                            <term type="gT" ref="#diametre"><choice>
+                                ref="#hauteur"
+                                >hauteur</term> ou demi 
+                            <term type="gT"
+                                ref="#diametre"><choice>
                                     <orig>diamettre</orig>
                                     <reg>diamètre</reg>
                                 </choice></term>, le produit sera la superficie de la <term
@@ -5231,8 +5274,10 @@
                                 type="gT" ref="#circonference"
                                 >circonférence</term> sera de 44 pieds, lesquels étant multipliés par
                             7 pieds <term
-                                type="gT" ref="#hauteur">hauteur</term> ou demi 
-                            <term type="gT" ref="#diametre"
+                                type="gT" ref="#hauteur"
+                                >hauteur</term> ou demi 
+                            <term type="gT"
+                                ref="#diametre"
                                 >diamettre</term> du plan, le produit sera 308 pieds
                             pour la superficie de la <term
                                 type="gT" ref="#voute">voûte</term>.</p>
@@ -5253,8 +5298,10 @@
                                 type="gT" ref="#circonference"
                                 >circonférence</term> est de 44 pieds, il faut
                             multiplier 22 pieds moitié de la <term
-                                type="gT" ref="#circonference">circonférence</term> par le demi 
-                            <term type="gT" ref="#diametre"
+                                type="gT" ref="#circonference"
+                                >circonférence</term> par le demi 
+                            <term
+                                type="gT" ref="#diametre"
                                 >diamettre</term> 7
                             pieds, leur produit donnera 154 pieds, dont le double 308 pieds est égal
                             à la superficie de la <term
@@ -5303,8 +5350,10 @@
                                 >circonférence</term> du
                             <term type="gT"
                                 ref="#cercle">cercle</term> du plan de sa <term type="gT"
-                                ref="#naissance">naissance</term>, est le demi 
-                            <term type="gT" ref="#diametre">diamettre</term> d’un <term type="gT"
+                                ref="#naissance"
+                                >naissance</term>, est le demi 
+                            <term
+                                type="gT" ref="#diametre">diamettre</term> d’un <term type="gT"
                                 ref="#cercle"
                                 >cercle</term> dont
                             la superficie est égale à la superficie de la <term
@@ -5320,10 +5369,11 @@
                                 ref="#naissance">naissance</term> de la <term type="gT" ref="#voute"
                                 >voûte</term> étant de 14 pieds,
                             et la <term
-                                type="gT" ref="#hauteur">hauteur</term> ou demi 
-                            <term type="gT" ref="#diametre"
-                                >diamettre</term> à plomb CD. de 7 pieds, la <term type="gT"
-                                ref="#ligne"
+                                type="gT" ref="#hauteur"
+                                >hauteur</term> ou demi 
+                            <term type="gT"
+                                ref="#diametre">diamettre</term> à plomb CD. de 7 pieds, la <term
+                                type="gT" ref="#ligne"
                                 >ligne</term> CB.
                             menée du sommet de la <term
                                 type="gT" ref="#voute">voûte</term> C à l’extrêmité du <term
@@ -5336,15 +5386,19 @@
                                 ref="#ligne"
                                 >ligne</term> CB
                             pour le demi 
-                            <term type="gT" ref="#diametre">diamettre</term> d’un <term type="gT"
-                                ref="#cercle">cercle</term>, duquel la demi 
-                            <term type="gT" ref="#circonference"
+                            <term
+                                type="gT" ref="#diametre">diamettre</term> d’un <term type="gT"
+                                ref="#cercle"
+                                >cercle</term>, duquel la demi 
+                            <term
+                                type="gT" ref="#circonference"
                                 >circonférence</term>
                             contiendra 31 pieds 1 pouce 3 <term
                                 type="gT" ref="#ligne"
                                 >lignes</term> 2/3 qu’il faut multiplier par le demi 
-                            <term type="gT" ref="#diametre"
-                                >diamettre</term> 9 pieds 10 pouces 9 <term type="gT" ref="#ligne"
+                            <term
+                                type="gT" ref="#diametre">diamettre</term> 9 pieds 10 pouces 9 <term
+                                type="gT" ref="#ligne"
                                 >lignes</term> 1/2. pour avoir 308 pieds
                             superficie d’un <term
                                 type="gT" ref="#cercle"
@@ -5369,8 +5423,10 @@
                                 type="gT" ref="#circonference"
                                 >circonférence</term>
                             de leurs bazes, laquelle <term
-                                type="gT" ref="#ligne">ligne</term> étant prise pour le demi 
-                            <term type="gT" ref="#diametre"
+                                type="gT" ref="#ligne"
+                                >ligne</term> étant prise pour le demi 
+                            <term
+                                type="gT" ref="#diametre"
                                 >diamettre</term> d’un
                             <term type="gT"
                                 ref="#cercle">cercle</term>, la superficie de ce <term type="gT"
@@ -5391,7 +5447,8 @@
                                 type="gT" ref="#hauteur"
                                 >hauteur</term> au point G
                             en sorte que le demi 
-                            <term type="gT" ref="#diametre">diamettre</term>
+                            <term
+                                type="gT" ref="#diametre">diamettre</term>
                             <pb xml:id="t9P50" n="p50"/>
                             <fw type="pageNum">50</fw> à plomb DC mené du sommet au <term type="gT"
                                 ref="#centre">centre</term> de la
@@ -5444,7 +5501,8 @@
                                 ref="#cercle">cercle</term> dont leur <term type="gT" ref="#hauteur"
                                 >hauteur</term>
                             sera le demi 
-                            <term type="gT" ref="#diametre"><choice>
+                            <term
+                                type="gT" ref="#diametre"><choice>
                                     <orig>diamettre</orig>
                                     <reg>diamètre</reg>
                                 </choice></term>, la superficie de ces 2 <term type="gT"
@@ -5469,7 +5527,8 @@
                             <fw type="pageNum">51</fw> la <term type="gT" ref="#hauteur"
                                 >hauteur</term> CG étant supposée de 3 pieds 6
                             pouces prise sur le demi 
-                            <term type="gT" ref="#diametre">diamettre</term> d’un autre <term
+                            <term
+                                type="gT" ref="#diametre">diamettre</term> d’un autre <term
                                 type="gT" ref="#cercle"
                                 >cercle</term> dont la moitié de
                             la <term
@@ -5600,7 +5659,7 @@
                     </div>
                     <div xml:id="t9BodyFr01.11" type="chapter" n="11">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 11<hi rend="superscript">e</hi>.</num></label> 
+                            <label><num>Chapitre 11<hi rend="superscript">e</hi>.</num></label>
                             <lb/><term type="gT" ref="#toise">Toisé</term> des <term type="gT"
                                 ref="#vouteSpheroide" ana="#ivouteSpheroide"
                                 >voûtes
@@ -6087,7 +6146,7 @@
                     <fw type="pageNum">57</fw>
                     <div xml:id="t9BodyFr01.12" type="chapter" n="12">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 12 :</num></label> 
+                            <label><num>Chapitre 12 :</num></label>
                             <lb/><term type="gT" ref="#toise">Toisé</term> des <term type="gT"
                                 ref="#vouteSurNoyau" ana="#ivouteSurNoyau"
                                 >voûtes sur le
@@ -6731,7 +6790,7 @@
                     </div>
                     <div xml:id="t9BodyFr01.13" type="chapter" n="13">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 13.</num></label> 
+                            <label><num>Chapitre 13.</num></label>
                             <lb/><term type="gT" ref="#toise">Toisé</term> des <term type="gT"
                                 ref="#voute">voûtes</term> en <term type="gT" ref="#visSaintGilles"
                                 ana="#ivisSaintGilles"
@@ -6795,7 +6854,8 @@
                                     <orig>plein ceintre</orig>
                                     <reg>plein-cintre</reg>
                                 </choice></term> suivant le demi
-                            <term type="gT" ref="#cercle"
+                            <term
+                                type="gT" ref="#cercle"
                                 >cercle</term> ACB qui est supposé
                             estre de 14 pieds de <term
                                 type="gT" ref="#diametre">diamettre</term> AB et de 7 pieds de <term
@@ -6920,9 +6980,10 @@
                                 ref="#voute"
                                 >voûte</term> sur lequel doit estre réglé la
                             <term
-                                type="gT" ref="#proportions"
-                                >proportion</term> de son <term type="gT" ref="#rampant">rampant</term>, ayant à quelqu’endroit tracé une <term
-                                type="gT" ref="#ligne"
+                                type="gT" ref="#proportions">proportion</term> de son <term
+                                type="gT" ref="#rampant"
+                                >rampant</term>, ayant à quelqu’endroit tracé une <term type="gT"
+                                ref="#ligne"
                                 >ligne</term> de
                             niveau OP , il faut sur cette <term
                                 type="gT" ref="#ligne"
@@ -6959,11 +7020,14 @@
                                 type="gT" ref="#ligne"
                                 >ligne</term> OP la distance TS étant égale à la
                             <term
-                                type="gT" ref="#circonference">circonférence</term> ou demi 
-                            <term type="gT" ref="#cercle"
+                                type="gT" ref="#circonference"
+                                >circonférence</term> ou demi 
+                            <term
+                                type="gT" ref="#cercle"
                                 >cercle</term> IKL qui est de 33 pieds, sur le quel doit
-                            estre réglé le <term type="gT" ref="#rampant">rampant</term> de la <term
-                                type="gT" ref="#voute"
+                            estre réglé le <term
+                                type="gT" ref="#rampant">rampant</term> de la <term type="gT"
+                                ref="#voute"
                                 >voûte</term> dans la moitié du pourtour de la
                             <term
                                 type="gT" ref="#circonvolution"
@@ -7015,7 +7079,8 @@
                                 ref="#parallele"
                                 >parallèle</term>1-2
                             au point 3 ayant fait V-4 V 5 chacunes égales au demi 
-                            <term type="gT" ref="#diametre"
+                            <term
+                                type="gT" ref="#diametre"
                                 >diamettre</term> de la
                             <term type="gT"
                                 ref="#voute">voûte</term> I.A, I.E, le <term type="gT"
@@ -7249,8 +7314,9 @@
                                 type="gT" ref="#centre">centres</term> des 4 <term type="gT"
                                 ref="#diametre"
                                 >diamettres</term> sont de 21. pieds sur
-                            lesquels côtés du quarré du milieu sont réglés le <term type="gT" ref="#rampant">rampant</term> de la <term
-                                type="gT" ref="#voute"
+                            lesquels côtés du quarré du milieu sont réglés le <term
+                                type="gT" ref="#rampant">rampant</term> de la <term type="gT"
+                                ref="#voute"
                                 >voûte</term> en
                             ayant prolongé 2 <del
                                 rend="strikethrough"
@@ -7277,7 +7343,9 @@
                                 >voûte</term>,
                             laquelle <term type="gT"
                                 ref="#hauteur"
-                                >hauteur</term> on suppose avoir 10. pieds pour former le <term type="gT" ref="#rampant">rampant</term> PX
+                                >hauteur</term> on suppose avoir 10. pieds pour former le <term
+                                type="gT" ref="#rampant"
+                                >rampant</term> PX
                             par lequel point X ayant mené le <term
                                 type="gT" ref="#diametre"
                                 >diamettre</term> de niveau VS entre les deux
@@ -7291,11 +7359,14 @@
                             4-5. Sur les <term
                                 type="gT" ref="#diametre">diamettres</term> VS, BR il faut des <term
                                 type="gT" ref="#centre">centres</term> PX <pb xml:id="t9P67" n="p67"/>
-                            <fw type="pageNum">67 [corrigé 7]</fw> tracer des demi 
-                            <term type="gT" ref="#cercle"
+                            <fw type="pageNum"
+                                >67 [corrigé 7]</fw> tracer des demi 
+                            <term
+                                type="gT" ref="#cercle"
                                 >cercles</term> V2S, B3R,
                             avec les demi 
-                            <term type="gT" ref="#diametre"
+                            <term
+                                type="gT" ref="#diametre"
                                 >diamettres</term> à plomb X-2. P-3., qui auront chacun 7. pieds
                             de haut, mener la <term
                                 type="gT" ref="#ligne">ligne</term> rampante du sommet de la <term
@@ -7309,7 +7380,8 @@
                                 type="gT" ref="#ligne"
                                 >ligne</term> du sommet 2-3., il faut du point T prendre de chaque
                             côté les distances TY, TZ égales au demi 
-                            <term type="gT" ref="#diametre">diamettre</term> XV, XS.</p>
+                            <term
+                                type="gT" ref="#diametre">diamettre</term> XV, XS.</p>
                         <p xml:id="t9BodyFr01.13.p014"
                                 >La distance YZ aura 14 pieds et sera le
                             <term
@@ -7328,8 +7400,8 @@
                                 type="gT" ref="#ligne"
                                 >lignes</term> du pourtour ayant
                             tracé les <term
-                                type="gT" ref="#ligne"
-                                >lignes</term> BV. RS. BV, sera le <term type="gT" ref="#rampant">rampant</term> de la <term type="gT"
+                                type="gT" ref="#ligne">lignes</term> BV. RS. BV, sera le <term
+                                type="gT" ref="#rampant">rampant</term> de la <term type="gT"
                                 ref="#naissance">naissance</term> de la <term type="gT" ref="#voute"
                                 >voûte</term>
                             sur le côté du <term
@@ -7773,7 +7845,7 @@
                     </div>
                     <div xml:id="t9BodyFr01.14" type="chapter" n="14">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 14<hi rend="superscript">e</hi>.</num></label> 
+                            <label><num>Chapitre 14<hi rend="superscript">e</hi>.</num></label>
                             <lb/><term type="gT" ref="#toise">Toisé</term> des <term type="gT"
                                 ref="#voute"
                             >voûtes</term> en
@@ -7876,9 +7948,8 @@
                                 type="gT" ref="#ligne">ligne</term>
                             <term type="gT" ref="#droit">droite</term> AC pour avoir le <term
                                 type="gT" ref="#toise">toisé</term> de la superficie de la <term
-                                type="gT" ref="#douelle"
-                                >douelle</term> de cette <term type="gT" ref="#trompe">trompe</term>, il faut <term type="gT"
-                                ref="#mesurer"
+                                type="gT" ref="#douelle">douelle</term> de cette <term type="gT"
+                                ref="#trompe">trompe</term>, il faut <term type="gT" ref="#mesurer"
                                 >mesurer</term> sur
                             l’<term type="gT"
                                 ref="#elevation">élévation</term> le pourtour de la <term type="gT"
@@ -7901,8 +7972,9 @@
                                 >toisé</term> de la
                             superficie de la <term
                                 type="gT" ref="#douelle"
-                            >douelle</term> de cette
-                            <term type="gT" ref="#trompe">trompe</term></p>
+                                >douelle</term> de cette
+                            <term type="gT"
+                                ref="#trompe">trompe</term></p>
                         <p xml:id="t9BodyFr01.14.p006"
                                 >6. Dans cet exemple comme dans les autres  cy
                             après et cy devant qui servent de preuves aux <term
@@ -7955,8 +8027,9 @@
                                 ref="#naissance"
                                 >naissances</term> BA,
                             ou BC, en sorte que pour avoir le développement de la <term
-                                type="gT" ref="#douelle"
-                                >douelle</term> de la <term type="gT" ref="#trompe">trompe</term>, du point I qui
+                                type="gT" ref="#douelle">douelle</term> de la <term type="gT"
+                                ref="#trompe"
+                                >trompe</term>, du point I qui
                             représente le point B, ou le point F <term
                                 type="gT" ref="#centre"
                                 >centre</term> de la trompe et de
@@ -7983,7 +8056,8 @@
                                 </choice></term> de l’<term type="gT" ref="#arête"><choice>
                                     <orig>arreste</orig>
                                     <reg>arête</reg>
-                                </choice></term> de la teste de la <term type="gT" ref="#trompe">trompe</term> ADC. depuis le point K
+                                </choice></term> de la teste de la <term type="gT" ref="#trompe"
+                                >trompe</term> ADC. depuis le point K
                             jusqu’au point M <add
                                 place="above"
                                 >que</add> l’on divisera en 2 au
@@ -7994,9 +8068,10 @@
                             du secteur de <term
                                 type="gT" ref="#cercle">cercle</term> IKLM sera égale à la <term
                                 type="gT" ref="#douelle">douelle</term> de la <term type="gT"
-                                ref="#voute">voûte</term> de la <term type="gT" ref="#trompe">trompe</term> dont le <term type="gT"
-                                ref="#toise">toisé</term> fera en multipliant le pourtour de l’<term
-                                type="gT" ref="#arc">arc</term> LK moitié de la <term type="gT"
+                                ref="#voute">voûte</term> de la <term type="gT" ref="#trompe"
+                                >trompe</term> dont le <term type="gT" ref="#toise"
+                                >toisé</term> fera en multipliant le pourtour de l’<term type="gT"
+                                ref="#arc">arc</term> LK moitié de la <term type="gT"
                                 ref="#circonference"
                                 >circonférence</term> KLM
                             par l’un des <term
@@ -8009,8 +8084,8 @@
                                 ref="#circonference"
                             >circonférence</term> de la teste
                             de la trompe AD.</p>
-                        <p xml:id="t9BodyFr01.14.p008">8. Aux <term type="gT" ref="#trompe">trompes</term> en  <term type="gT"
-                                ref="#pleinCintre"><choice>
+                        <p xml:id="t9BodyFr01.14.p008">8. Aux <term type="gT" ref="#trompe"
+                                >trompes</term> en  <term type="gT" ref="#pleinCintre"><choice>
                                     <orig>plein ceintre</orig>
                                     <reg>plein-cintre</reg>
                                 </choice></term> qui ont les
@@ -8023,10 +8098,15 @@
                                 type="gT" ref="#ligne">ligne</term>
                             <term type="gT" ref="#droit"
                                 >droite</term> tel qu’il est à
-                            la <term type="gT" ref="#trompe">trompe</term> précédente, comme sont les <term type="gT" ref="#trompe">trompes</term> sur le coin dont la teste
+                            la <term
+                                type="gT" ref="#trompe"
+                                >trompe</term> précédente, comme sont les <term type="gT"
+                                ref="#trompe"
+                                >trompes</term> sur le coin dont la teste
                             forme un <term
-                                type="gT" ref="#angle"
-                                >angle</term> saillant, les <term type="gT" ref="#trompe">trompes</term>
+                                type="gT" ref="#angle">angle</term> saillant, les <term type="gT"
+                                ref="#trompe"
+                                >trompes</term>
                             qui ont leurs testes en tour sont ou <term
                                 type="gT" ref="#rond">ronde</term> ou en <term type="gT"
                                 ref="#tourCreuse"
@@ -8046,12 +8126,12 @@
                                     <orig>arreste</orig>
                                     <reg>arête</reg>
                                 </choice></term> de leurs <term type="gT" ref="#tete"
-                                    >têtes</term> en 4 parties
+                                        >têtes</term> en 4 parties
                             égalles, et du point de partage du <choice><abbr>1<hi
-                                    rend="superscript">er</hi>
-                            </abbr><expan>premier</expan></choice> quart de <term type="gT" ref="#circonference"
-                                >circonférence</term> vers l’une des <term type="gT"
-                                ref="#naissance"
+                                        rend="superscript">er</hi>
+                                </abbr><expan>premier</expan></choice> quart de <term type="gT"
+                                ref="#circonference">circonférence</term> vers l’une des <term
+                                type="gT" ref="#naissance"
                                 >naissances</term> de
                             la trompe et par le point du bas de cette <term
                                 type="gT" ref="#ligne">ligne</term>
@@ -8063,8 +8143,9 @@
                             <term
                                 type="gT" ref="#ligne"
                                 >ligne</term> à plomb sur le plan de niveau des <term type="gT"
-                                ref="#naissance"
-                                >naissances</term> de la <term type="gT" ref="#trompe">trompe</term>, et par
+                                ref="#naissance">naissances</term> de la <term type="gT"
+                                ref="#trompe"
+                                >trompe</term>, et par
                             le point du bas de cette <term
                                 type="gT" ref="#ligne"
                                 >ligne</term> à plomb sur le plan de niveau mener une
@@ -8088,9 +8169,12 @@
                                 type="gT" ref="#ligne">ligne</term>
                             <term type="gT" ref="#parallele"
                                 >parallèle</term>décrire un demi 
-                            <term type="gT" ref="#cercle">cercle</term> la moitié de la <term
-                                type="gT" ref="#circonference">circonférence</term> de ce demi 
-                            <term type="gT" ref="#cercle"
+                            <term
+                                type="gT" ref="#cercle">cercle</term> la moitié de la <term
+                                type="gT" ref="#circonference"
+                                >circonférence</term> de ce demi 
+                            <term
+                                type="gT" ref="#cercle"
                                 >cercle</term> étant
                             multiplié par la <term
                                 type="gT" ref="#longueur">longueur</term> de l’une des <term
@@ -8150,7 +8234,8 @@
                             sommet de la teste de la trompe qui répond à plomb sur l’ <term
                                 type="gT" ref="#angle saillant"
                                 >angle saillant</term> D. du plan. Le demi 
-                            <term type="gT" ref="#cintre"><choice>
+                            <term
+                                type="gT" ref="#cintre"><choice>
                                     <orig>ceintre</orig>
                                     <reg>cintre</reg>
                                 </choice></term> surmonté KLM est la moitié de l’<term type="gT"
@@ -8193,12 +8278,15 @@
                                 ref="#voute">voûte</term> AB. AC. prolongés au point RQ sur la <term
                                 type="gT" ref="#ligne"
                                 >ligne</term> RQ décrire le demi 
-                            <term type="gT" ref="#cercle">cercle</term> RSQ ayant mesuré la <term
+                            <term
+                                type="gT" ref="#cercle">cercle</term> RSQ ayant mesuré la <term
                                 type="gT" ref="#circonference"
                                 >circonférence</term> RS, moitié du pourtour de
                             la <term
-                                type="gT" ref="#circonference">circonférence</term> du demi 
-                            <term type="gT" ref="#cercle"
+                                type="gT" ref="#circonference"
+                                >circonférence</term> du demi 
+                            <term
+                                type="gT" ref="#cercle"
                                 >cercle</term>, il la faut multiplier par la <term type="gT"
                                 ref="#longueur"
                                 >longueur</term>
@@ -8217,8 +8305,8 @@
                                 type="gT" ref="#douelle"
                                 >douelle</term>
                             de la <term type="gT"
-                                ref="#voute"
-                                >voûte</term> de la <term type="gT" ref="#trompe">trompe</term> sur le coin dont T est le <term type="gT"
+                                ref="#voute">voûte</term> de la <term type="gT" ref="#trompe"
+                                >trompe</term> sur le coin dont T est le <term type="gT"
                                 ref="#centre"
                                 >centre</term> ayant divisé
                             le pourtour de l’<term
@@ -8297,7 +8385,8 @@
                                 type="gT" ref="#circonference"
                                 >circonférence</term> d’un
                             demi 
-                            <term type="gT" ref="#cercle">cercle</term>
+                            <term
+                                type="gT" ref="#cercle">cercle</term>
                             <pb xml:id="t9P75" n="p75"/>
                             <fw type="pageNum">75 [« 7 » coupé]</fw> dont le <term type="gT"
                                 ref="#cordeau"
@@ -8307,10 +8396,11 @@
                                     <orig>diamettre</orig>
                                     <reg>diamètre</reg>
                                 </choice></term>, prendre la mesure de la moitié de la <term
-                                type="gT" ref="#circonference">circonférence</term> de ce demi 
-                            <term type="gT" ref="#cercle"
-                                >cercle</term> et la multiplier par la <term type="gT"
-                                ref="#longueur"
+                                type="gT" ref="#circonference"
+                                >circonférence</term> de ce demi 
+                            <term
+                                type="gT" ref="#cercle">cercle</term> et la multiplier par la <term
+                                type="gT" ref="#longueur"
                                 >longueur</term> AQ ou AR le produit sera le
                                 <term
                                 type="gT" ref="#toise"
@@ -8344,8 +8434,8 @@
                                 >arc</term> BDC, le plan de la <term type="gT" ref="#tete"
                                 >tête</term> BC est le
                             <term type="gT"
-                                ref="#diametre">diamettre</term> du <term type="gT" ref="#cercle">cercle</term> à plomb BEC qui est le <term
-                                type="gT" ref="#cintre"><choice>
+                                ref="#diametre">diamettre</term> du <term type="gT" ref="#cercle"
+                                >cercle</term> à plomb BEC qui est le <term type="gT" ref="#cintre"><choice>
                                     <orig>ceintre</orig>
                                     <reg>cintre</reg>
                                 </choice></term> de la <term type="gT" ref="#voute"
@@ -8394,7 +8484,8 @@
                                 type="gT" ref="#circonference"
                                 >circonférence</term> au sommet N répond au sommet du <term
                                 type="gT" ref="#profil">profil</term> I.</p>
-                        <p xml:id="t9BodyFr01.14.p015">15. Ayant divisé le pourtour de la demie circonférence de la <term
+                        <p xml:id="t9BodyFr01.14.p015"
+                                >15. Ayant divisé le pourtour de la demie circonférence de la <term
                                 type="gT" ref="#tete"
                                 >tête</term> LN en 2 également au point O d’où ayant
                             abaisséabbaissé la <term
@@ -8421,7 +8512,8 @@
                                 xml:id="t9P76" n="p76"/>
                             <fw type="pageNum">76</fw> sera le <term type="gT" ref="#diametre"
                                 >diamettre</term> d’un demi
-                            <term type="gT" ref="#cercle"
+                            <term
+                                type="gT" ref="#cercle"
                                 >cercle</term> RTS, dont
                             la moitié de la <term
                                 type="gT" ref="#circonference"
@@ -8511,9 +8603,10 @@
                             </subst> du plan, la <term type="gT" ref="#ligne"
                                 >ligne</term> à plomb HK représente et est égale à la
                             <term
-                                type="gT" ref="#hauteur">hauteur</term> du demi
-                            <term type="gT" ref="#diametre">diamettre</term> FE du <term type="gT"
-                                ref="#cintre"><choice>
+                                type="gT" ref="#hauteur"
+                                >hauteur</term> du demi
+                            <term type="gT"
+                                ref="#diametre">diamettre</term> FE du <term type="gT" ref="#cintre"><choice>
                                     <orig>ceintre</orig>
                                     <reg>cintre</reg>
                                 </choice></term> à plomb, la <term type="gT" ref="#ligne"
@@ -8579,11 +8672,13 @@
                                 type="gT" ref="#ligne"
                                 >ligne</term> RS.,
                             décrire le demi
-                            <term type="gT" ref="#cercle">cercle</term> RTS <term type="gT"
+                            <term
+                                type="gT" ref="#cercle">cercle</term> RTS <term type="gT"
                                 ref="#mesurer">mesurer</term> la moitié de la <term type="gT"
                                 ref="#circonference"
                                 >circonférence</term> de ce demi
-                            <term type="gT" ref="#cercle"
+                            <term
+                                type="gT" ref="#cercle"
                                 >cercle</term> RT la multiplier par l’une des distances AR, ou AS leur
                             produit sera le <term
                                 type="gT" ref="#toise"
@@ -8634,16 +8729,19 @@
                                 type="gT" ref="#longueur"
                                 >longueur</term> également de niveau de
                             chaque côté au long des <term
-                                type="gT" ref="#mur"
-                                >murs</term> qui soutiennent la <term type="gT" ref="#trompe">trompe</term> depuis l’angle A
+                                type="gT" ref="#mur">murs</term> qui soutiennent la <term type="gT"
+                                ref="#trompe"
+                                >trompe</term> depuis l’angle A
                             jusqu’aux points RS ; tendre une <term
                                 type="gT" ref="#ligne">ligne</term> ou <term type="gT"
                                 ref="#cordeau">cordeau</term> RS en <term type="gT" ref="#mesurer"
                                 >mesurer</term> la
                             <term type="gT"
                                 ref="#longueur">longueur</term> trouver par le calcul la <term
-                                type="gT" ref="#circonference">circonférence</term> d’un demi
-                            <term type="gT" ref="#cercle"
+                                type="gT" ref="#circonference"
+                                >circonférence</term> d’un demi
+                            <term
+                                type="gT" ref="#cercle"
                                 >cercle</term> dont
                             cette <term
                                 type="gT" ref="#ligne">ligne</term> RS sera le <term type="gT"
@@ -8654,9 +8752,9 @@
                                 ref="#circonference"
                                 >circonférence</term>
                             de ce demi
-                            <term type="gT" ref="#cercle"
-                                >cercle</term> et la multiplier par la <term type="gT"
-                                ref="#longueur"
+                            <term
+                                type="gT" ref="#cercle">cercle</term> et la multiplier par la <term
+                                type="gT" ref="#longueur"
                                 >longueur</term> AR. Leur produit sera
                             de même que le <term
                                 type="gT" ref="#toise"
@@ -8708,9 +8806,10 @@
                                 >tête</term> de la <term type="gT" ref="#voute"
                                 >voûte</term> BDC et
                             en demi
-                            <term type="gT" ref="#cercle">cercle</term> à plomb sur la <term
-                                type="gT" ref="#ligne">ligne</term> droite BC qui luy sert de <term
-                                type="gT" ref="#diametre"><choice>
+                            <term
+                                type="gT" ref="#cercle">cercle</term> à plomb sur la <term type="gT"
+                                ref="#ligne">ligne</term> droite BC qui luy sert de <term type="gT"
+                                ref="#diametre"><choice>
                                     <orig>diamettre</orig>
                                     <reg>diamètre</reg>
                                 </choice></term>,
@@ -8977,7 +9076,8 @@
                                     <orig>ceintre</orig>
                                     <reg>cintre</reg>
                                 </choice></term> de la <term type="gT" ref="#tete"
-                                >tête</term> de la <term type="gT" ref="#trompe">trompe</term>
+                                >tête</term> de la <term type="gT" ref="#trompe"
+                                >trompe</term>
                             étoit rampant en <term
                                 type="gT" ref="#parement"
                                 >parement</term> droit, et à plomb sur un plan régulier, c’est
@@ -9094,15 +9194,18 @@
                                 type="gT" ref="#rayon"
                                 >rayon</term> RV vers Y, il faut faire RY égal à RX partager la
                             différence VY en 2. aux points Z multipliant la <term
-                                type="gT" ref="#longueur">longueur</term> RZ par la demi
-                            <term type="gT" ref="#circonference">circonférence</term> de la <term
+                                type="gT" ref="#longueur"
+                                >longueur</term> RZ par la demi
+                            <term
+                                type="gT" ref="#circonference">circonférence</term> de la <term
                                 type="gT" ref="#tete">tête</term> BHK, leur produit sera le <term
                                 type="gT" ref="#toise">toisé</term> de la superficie de la <term
                                 type="gT" ref="#douelle">douelle</term> RSVXT.</p>
                         <pb xml:id="t9P81" n="p81"/>
                         <fw type="pageNum">81</fw>
-                        <p xml:id="t9BodyFr01.14.p027"
-                                >27. Cette sorte de <term type="gT" ref="#trompeRampante">trompes rampantes</term> dont le
+                        <p xml:id="t9BodyFr01.14.p027">27. Cette sorte de <term type="gT"
+                                ref="#trompeRampante"
+                                >trompes rampantes</term> dont le
                             <term
                                 type="gT" ref="#cintre"><choice>
                                     <orig>ceintre</orig>
@@ -9134,9 +9237,10 @@
                                 type="gT" ref="#naissance">naissance</term> du bas de la <term
                                 type="gT" ref="#voute"
                                 >voûte</term> étoit de niveau sur le
-                            côté AB, tout le <term type="gT" ref="#rampant">rampant</term> de la <term
-                                type="gT" ref="#voute">voûte</term> étant réduit dans la <term
-                                type="gT" ref="#longueur"
+                            côté AB, tout le <term
+                                type="gT" ref="#rampant">rampant</term> de la <term type="gT"
+                                ref="#voute">voûte</term> étant réduit dans la <term type="gT"
+                                ref="#longueur"
                                 >longueur</term> du
                             coussinet de l’autre <term
                                 type="gT" ref="#naissance"
@@ -9155,14 +9259,17 @@
                             >voûte</term> pourroit glisser en dehors au long du coussinet AB.</p>
                         <p xml:id="t9BodyFr01.14.p028">28. Le <term type="gT" ref="#toise"
                                 >toisé</term> de la <term type="gT" ref="#voute"
-                                >voûte</term> de cette seconde manière de <term type="gT" ref="#trompeRampante">trompe
+                                >voûte</term> de cette seconde manière de <term type="gT"
+                                ref="#trompeRampante"
+                                >trompe
                             rampante</term> se fait par la même règle générale comme l’autre. Le <term
                                 type="gT" ref="#cintre"><choice>
                                     <orig>ceintre</orig>
                                     <reg>cintre</reg>
                                 </choice></term> de
-                            l’<term type="gT" ref="#arcRampant">arc rampant</term> de la <term
-                                type="gT" ref="#tete"
+                            l’<term type="gT"
+                                ref="#arcRampant">arc rampant</term> de la <term type="gT"
+                                ref="#tete"
                                 >tête</term> estant toujours le même il n’y a que la <term type="gT"
                                 ref="#douelle"
                                 >douelle</term> qui change à cause que son
@@ -9223,8 +9330,10 @@
                                 >douelle</term> de la <term type="gT" ref="#voute"
                             >voûte</term> de cette trompe.</p>
                         <p xml:id="t9BodyFr01.14.p029">29. Les trompes en <term type="gT"
-                                ref="#niche" ana="#iniche">niches</term> sont comme des demie
-                            <term type="gT" ref="#vouteSpherique" ana="#ivouteSpherique"
+                                ref="#niche" ana="#iniche"
+                                >niches</term> sont comme des demie
+                            <term
+                                type="gT" ref="#vouteSpherique" ana="#ivouteSpherique"
                                 >voûtes
                                 sphériques</term> la superficie de leur <term
                                 type="gT" ref="#douelle"
@@ -9279,9 +9388,13 @@
                                 ref="#toise"
                                 >toisé</term> se fera en multipliant le poutourpourtour
                             de la <term
-                                type="gT" ref="#circonference">circonférence</term> du demi
-                            <term type="gT" ref="#cercle">cercle</term> BDC par le demi
-                            <term type="gT" ref="#diametre"
+                                type="gT" ref="#circonference"
+                                >circonférence</term> du demi
+                            <term
+                                type="gT" ref="#cercle"
+                                >cercle</term> BDC par le demi
+                            <term
+                                type="gT" ref="#diametre"
                             >diamettre</term> GF. ou EB
                             qui est la même chose.</p>
                         <p xml:id="t9BodyFr01.14.p031">31. Aux trompes sur une <term type="gT"
@@ -9332,9 +9445,11 @@
                                 ref="#saillie"
                                 >saillie</term> de la
                             trompe en <term
-                                type="gT" ref="#tourRonde">tour ronde</term> est le demi
-                            <term type="gT" ref="#cercle">cercle</term> BDC qui a pour <term
-                                type="gT" ref="#diametre"
+                                type="gT" ref="#tourRonde"
+                                >tour ronde</term> est le demi
+                            <term
+                                type="gT" ref="#cercle">cercle</term> BDC qui a pour <term type="gT"
+                                ref="#diametre"
                                 >diamettre</term> la
                             <term type="gT"
                                 ref="#ligne">ligne</term> droite B sur laquelle pose la <term
@@ -9390,7 +9505,8 @@
                                 >saillie</term> de la <term type="gT" ref="#voute"
                                 >voûte</term> EFG
                             avec le demi
-                            <term type="gT" ref="#diametre"
+                            <term
+                                type="gT" ref="#diametre"
                                 >diamettre</term> ST égal à CA moitié de la <term type="gT"
                                 ref="#longueur"
                                 >longueur</term> du coussinet
@@ -9399,7 +9515,8 @@
                                 ref="#voute">voûte</term> toute la <term type="gT" ref="#longueur"
                                 >longueur</term> TM sera le <term type="gT" ref="#diametre"
                                 >diamettre</term> d’un demi
-                            <term type="gT" ref="#cercle"
+                            <term
+                                type="gT" ref="#cercle"
                                 >cercle</term> TOM dont la superficie de la <term type="gT"
                                 ref="#douelle">douelle</term> de la <term type="gT" ref="#voute"
                                 >voûte</term> de la trompe en <term type="gT" ref="#tourRonde"
@@ -9409,8 +9526,9 @@
                                 ref="#toise"
                                 >toisé</term> de laquelle se fera
                             en multipliant le demi
-                            <term type="gT" ref="#diametre">diamettre</term> TN par la <term
-                                type="gT" ref="#circonference"
+                            <term
+                                type="gT" ref="#diametre">diamettre</term> TN par la <term type="gT"
+                                ref="#circonference"
                                 >circonférence</term> du quart de
                             <term
                                 type="gT" ref="#cercle">cercle</term> TO le produit sera le <term
@@ -9473,10 +9591,11 @@
                                 >us et
                                 coutumes</term> de <placeName
                                 ref="#paris">Paris</placeName> la 
-                            <term type="gT" ref="#demiFace"
-                                >demi face</term> de cette teste à la superficie de la <term type="gT"
-                                ref="#douelle">douelle</term> de la <term type="gT" ref="#voute"
-                                >voûte</term>.</p>
+                            <term
+                                type="gT" ref="#demiFace"
+                                >demi face</term> de cette teste à la superficie de la <term
+                                type="gT" ref="#douelle">douelle</term> de la <term type="gT"
+                                ref="#voute">voûte</term>.</p>
                         <pb xml:id="t9P84" n="p84"/>
                         <fw type="pageNum">84</fw>
                         <p xml:id="t9BodyFr01.14.p036">36. La <term type="gT" ref="#douelle"
@@ -9547,7 +9666,8 @@
                                 type="gT" ref="#face">face</term> de la <term type="gT" ref="#tete"
                                 >tête</term> de la <term type="gT" ref="#voute"
                                 >voûte</term> dont la moitié de la superficie que l’on
-                            nomme <term type="gT" ref="#demiFace"
+                            nomme <term
+                                type="gT" ref="#demiFace"
                                 >demi face</term> doit estre ajoutée à la superficie de la <term
                                 type="gT" ref="#douelle">douelle</term> de la <term type="gT"
                                 ref="#voute"
@@ -9584,11 +9704,13 @@
                                 type="gT" ref="#hauteur">hauteur</term> DH, le produit sera le <term
                                 type="gT" ref="#toise"
                                 >toisé</term>
-                            de la <term type="gT" ref="#demiFace">demi face</term> de la <term type="gT"
-                                ref="#tete">tête</term> de la <term type="gT" ref="#voute"
+                            de la <term type="gT"
+                                ref="#demiFace">demi face</term> de la <term type="gT" ref="#tete"
+                                >tête</term> de la <term type="gT" ref="#voute"
                                 >voûte</term> ce qui est une règle générale
                             pour le <term
-                                type="gT" ref="#toise">toisé</term> des <term type="gT" ref="#demiFace"
+                                type="gT" ref="#toise">toisé</term> des <term type="gT"
+                                ref="#demiFace"
                                 >de mi faces</term> de
                             toutes sortes de <term
                                 type="gT" ref="#voute">voûtes</term>, lorsqu’on compte les <term
@@ -9597,7 +9719,8 @@
                             passer dans la <term
                                 type="gT" ref="#hauteur">hauteur</term> BN des reins de la <term
                                 type="gT" ref="#voute">voûte</term>.</p>
-                        <p xml:id="t9BodyFr01.14.p038">38. L’on observera que quoique la <term type="gT" ref="#demiFace"
+                        <p xml:id="t9BodyFr01.14.p038">38. L’on observera que quoique la <term
+                                type="gT" ref="#demiFace"
                                 >demi face</term>
                             de la <term type="gT"
                                 ref="#tete">tête</term> des <term type="gT" ref="#voute"
@@ -9607,7 +9730,8 @@
                                 ref="#voute"
                                 >voûte</term>, ce
                             n’est cependant que la superficie de la <term
-                                type="gT" ref="#douelle">douelle</term> non compris la <term type="gT" ref="#demiFace">demi face</term> de la <term type="gT"
+                                type="gT" ref="#douelle">douelle</term> non compris la <term
+                                type="gT" ref="#demiFace">demi face</term> de la <term type="gT"
                                 ref="#tete"
                                 >tête</term> qui sert à
                             régler le <term
@@ -9664,11 +9788,13 @@
                             <term
                                 type="gT" ref="#toise"
                                 >toise</term>, elles seront réduites à une <term type="gT"
-                                ref="#toise">toise</term> et demie de l’épaisseur de la
+                                ref="#toise"
+                                >toise</term> et demie de l’épaisseur de la
                             <term
                                 type="gT" ref="#voute">voûte</term>, et cette <term type="gT"
-                                ref="#toise">toise</term> et demie sera rabattue sur la quantité du <term type="gT"
-                                ref="#toise">toisé</term> des reins de la <term type="gT"
+                                ref="#toise"
+                                >toise</term> et demie sera rabattue sur la quantité du <term
+                                type="gT" ref="#toise">toisé</term> des reins de la <term type="gT"
                                 ref="#voute"
                                 >voûte</term> parce que
                             ces parties de <term
@@ -9677,7 +9803,7 @@
                     </div>
                     <div xml:id="t9BodyFr01.15" type="chapter" n="15">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 15<hi rend="superscript">e </hi>.</num></label> 
+                            <label><num>Chapitre 15<hi rend="superscript">e </hi>.</num></label>
                             <lb/><term type="gT" ref="#toise">Toisé</term> des <term type="gT"
                                 ref="#arriereVoussure">arrières voussures</term>
                         </head>
@@ -9800,8 +9926,10 @@
                                     <reg>arête</reg>
                                 </choice></term> s de la feuillure, et de la
                             <term
-                                type="gT" ref="#tete">tête</term> additionner les 2 demi
-                            <term type="gT" ref="#longueur"
+                                type="gT" ref="#tete"
+                                >tête</term> additionner les 2 demi
+                            <term
+                                type="gT" ref="#longueur"
                                 >longueurs</term> GO, NK ensemble et en multiplier
                             la somme par la <term
                                 type="gT" ref="#largeur">largeur</term> ON, le produit sera le <term
@@ -10395,7 +10523,7 @@
                     </div>
                     <div xml:id="t9BodyFr01.16" type="chapter" n="16">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 16.</num></label> 
+                            <label><num>Chapitre 16.</num></label>
                             <lb/>Toisé des <term type="gT" ref="#moulure"
                             >moulures</term> 
                             d’architecture. </head>
@@ -10426,9 +10554,8 @@
                                 >ouvrages</term> quoique de
                             différentes valeurs selon la matière de leur construction comme celles
                             qui sont faites en <term
-                                type="gT" ref="#marbre" ana="#imarbre"
-                                >marbre</term>, en <term type="gT"
-                                ref="#pierreDeTaille"
+                                type="gT" ref="#marbre" ana="#imarbre">marbre</term>, en <term
+                                type="gT" ref="#pierreDeTaille"
                                 >pierre de taille</term> dure, ou tendre ou en  <term type="gT"
                                 ref="#platre"
                                 >plastre</term>, ces
@@ -10564,7 +10691,8 @@
                                 type="gT" ref="#saillie"
                                 >saillie</term> par le dessous ne doit estre comptée que pour
                             un seul <term
-                                type="gT" ref="#membre">membre</term> de demi pied courant lorsqu’il est debout comme au profil
+                                type="gT" ref="#membre"
+                                >membre</term> de demi pied courant lorsqu’il est debout comme au profil
                             côté 4. Lequel selon AB étant <term
                                 type="gT" ref="#renverse">renversé</term> comme au <term type="gT"
                                 ref="#profil"
@@ -10580,7 +10708,8 @@
                                 type="gT" ref="#doucine"
                                 >doucine </term> doivent selon eux
                             estre comptée pour 2 <term
-                                type="gT" ref="#membre">membres</term> de chacun pied, ainsi des autres
+                                type="gT" ref="#membre"
+                                >membres</term> de chacun pied, ainsi des autres
                             <term
                                 type="gT" ref="#membre">membres</term> d’<term type="gT"
                                 ref="#architecture"
@@ -10621,8 +10750,9 @@
                             lesquelles étant considérées <pb
                                 xml:id="t9P93" n="p93"/>
                             <fw type="pageNum">93</fw> chacune pour <term type="gT" ref="#moulure"
-                                >moulure</term> parfaite doivent estre comptées comme <term type="gT"
-                                ref="#membre">membre</term> pour
+                                >moulure</term> parfaite doivent estre comptées comme <term
+                                type="gT" ref="#membre"
+                            >membre</term> pour
                             demi pied courant.</p>
                         <p xml:id="t9BodyFr01.16.p006">6. Suivant ce principe les <term type="gT"
                                 ref="#moulure">moulures</term> quarrées comme les <term type="gT"
@@ -10660,9 +10790,9 @@
                             dessus et en dessous se comptent chacun compris leurs <term
                                 type="gT" ref="#conge"
                                 >congés</term> pour un
-                            demi pied courant à cause de leur <term type="gT"
-                                ref="#face">face</term> droite AB et de leurs <term type="gT"
-                                ref="#face"
+                            demi pied courant à cause de leur <term
+                                type="gT" ref="#face">face</term> droite AB et de leurs <term
+                                type="gT" ref="#face"
                                 >faces</term>
                             concaves BC. qui forment leurs <term
                                 type="gT" ref="#conge">congés</term>.</p>
@@ -10703,7 +10833,7 @@
                             dessus.</p>
                         <p xml:id="t9BodyFr01.16.p012">12. Par la même exception les <term type="gT"
                                 ref="#astragale" ana="#iastragale"
-                                >astragales</term> 22., 23. sont
+                            >astragales</term> 22., 23. sont
                             comptées chacune pour un demi pied courant.</p>
                         <p xml:id="t9BodyFr01.16.p013">13. De <subst>
                                 <add rend="overWriting">même</add>
@@ -10736,7 +10866,7 @@
                                 >scoties</term> simples 28. 29. sans leurs
                             <term
                                 type="gT" ref="#filet"
-                                >filets</term> sont comptées chacune pour un demi pied courant, ainsi qu’il est
+                            >filets</term> sont comptées chacune pour un demi pied courant, ainsi qu’il est
                             marqué en l’article 5. quoiqu’elles ne soient formées que d’une concave
                             AB.</p>
                         <p xml:id="t9BodyFr01.16.p016">16. Les <term type="gT" ref="#cimaise"
@@ -10744,8 +10874,8 @@
                                 >doucines</term>droites (30) ou <term type="gT"
                                 ref="#doucineRenversee"
                                 >renversées</term> 31. sont
-                            comptées chacune pour demi pied courant, le <term type="gT"
-                                ref="#filet"
+                            comptées chacune pour demi pied courant, le <term
+                                type="gT" ref="#filet"
                                 >filet</term> AB qui termine leur
                             <term
                                 type="gT" ref="#saillie"
@@ -10818,7 +10948,8 @@
                                 >moulure</term> pendante 35. avec un arrière
                             <term
                                 type="gT" ref="#filet">filet</term> ou <term type="gT" ref="#conge"
-                                >congé</term> est compté pour un pied et demi à cause de sa grande <term type="gT" ref="#face"
+                                >congé</term> est compté pour un pied et demi à cause de sa grande <term
+                                type="gT" ref="#face"
                                 >face</term>
                             AB non compris le <term
                                 type="gT" ref="#conge">congé</term> du haut de la petitte <term
@@ -10927,7 +11058,8 @@
                                 type="gT" ref="#doucineRecreusée"
                                 >doucine</term> DEF recreusée par
                             le dessous est aussi comptée pour un pied un quart courant, la <term
-                                type="gT" ref="#doucine">doucine </term>étant d’un demi pied, et les
+                                type="gT" ref="#doucine"
+                                >doucine </term>étant d’un demi pied, et les
                             3 <term
                                 type="gT" ref="#face"
                             >faces</term> AB, BC, CD chacune d’un quart de pied.</p>
@@ -11022,7 +11154,8 @@
                                 type="gT" ref="#toise">toisé</term>.</p>
                         <p xml:id="t9BodyFr01.16.p030">30. Les <term type="gT" ref="#scotie"
                                 >scoties</term> en demi
-                            <term type="gT" ref="#cercle"
+                            <term type="gT"
+                                ref="#cercle"
                                 >cercle</term> 47. les
                             <term type="gT"
                                 ref="#scotie">scoties</term> en <term type="gT" ref="#piedouche"
@@ -11626,7 +11759,7 @@
                     </div>
                     <div xml:id="t9BodyFr01.17" type="chapter" n="17">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 17.</num></label> 
+                            <label><num>Chapitre 17.</num></label>
                             <lb/><term type="gT" ref="#toise">Toisé</term> des <term type="gT"
                                 ref="#ornement"><choice>
                                     <orig>ornemens</orig>
@@ -12234,8 +12367,10 @@
                                 ref="#saillie"
                                 >saillie</term> CD au
                             record du <term
-                                type="gT" ref="#mur">mur</term> par le bas avec un demi
-                            <term type="gT" ref="#diametre"
+                                type="gT" ref="#mur"
+                                >mur</term> par le bas avec un demi
+                            <term
+                                type="gT" ref="#diametre"
                                 >diamettre</term> AE que l’on multiplie
                             par la <term
                                 type="gT" ref="#hauteur"
@@ -12285,7 +12420,7 @@
                     </div>
                     <div xml:id="t9BodyFr01.18" type="chapter" n="18">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 18.</num></label> 
+                            <label><num>Chapitre 18.</num></label>
                             <lb/><term type="gT" ref="#toise">Toisé</term> des légers <term
                                 type="gT" ref="#ouvrage">ouvrages</term>
                         </head>
@@ -12489,8 +12624,9 @@
                                 type="gT" ref="#cheminee" ana="#icheminee"
                                 >cheminées</term> tant à plomb que rampantes doivent estre
                             pigeonnées de  <term
-                                type="gT" ref="#platre"
-                                >plâtre</term> pur et les <term type="gT" ref="#pigeons">pigeons</term> avoir au moins 2 pouces
+                                type="gT" ref="#platre">plâtre</term> pur et les <term type="gT"
+                                ref="#pigeons"
+                                >pigeons</term> avoir au moins 2 pouces
                             d’épaisseur, en sorte qu’étant enduits dedans et dehors elles ayent 3
                             pouces d’épaisseur alors une <term
                                 type="gT" ref="#toiseSuperficielle"
@@ -12735,7 +12871,8 @@
                             <fw type="pageNum">110</fw> à chaque <term type="gT" ref="#retour"
                                 >retour</term>, les jambages ayant chacun
                             8.18 pouces de <term
-                                type="gT" ref="#saillie">saillie</term> non compris leurs <term type="gT" ref="#demiFace">demi faces</term> et la <term type="gT"
+                                type="gT" ref="#saillie">saillie</term> non compris leurs <term
+                                type="gT" ref="#demiFace">demi faces</term> et la <term type="gT"
                                 ref="#largeur"
                                 >largeur</term> du
                             vuide entre les jambages 4 pieds faisant ensemble 7 pieds parce que les
@@ -12918,7 +13055,8 @@
                                 >saillie</term> des 2 jambages hors le<term type="gT" ref="#corps"
                                 >corps</term> du <term type="gT" ref="#mur"
                                 >mur</term> par les côtés
-                            sans <term type="gT" ref="#demiFace">demi faces</term>, et la <term type="gT"
+                            sans <term
+                                type="gT" ref="#demiFace">demi faces</term>, et la <term type="gT"
                                 ref="#largeur">largeur</term> du vuide de la <term type="gT"
                                 ref="#face"
                                 >face</term> entre 2. non compris
@@ -12960,7 +13098,8 @@
                             manteau comme la languette de <term
                                 type="gT" ref="#refend"
                                 >refend</term> sans rien rabattre pour le vuide ou
-                            bas des tuyaux et leurs <term type="gT" ref="#demiFace">demi faces</term> sur leur <term type="gT"
+                            bas des tuyaux et leurs <term
+                                type="gT" ref="#demiFace">demi faces</term> sur leur <term type="gT"
                                 ref="#hauteur">hauteur</term> du dessus du <term type="gT"
                                 ref="#carreau" ana="#icarreau"
                                 >carreau </term>jusqu’à
@@ -13168,9 +13307,10 @@
                                 ref="#mur">murs</term> des jambages chacun sur leur <term type="gT"
                                 ref="#largeur">largeur</term> au <term type="gT" ref="#demiFace"
                                 >demi face</term>, et leur
-                            <term type="gT"
-                                ref="#hauteur">hauteur</term> depuis le pourtour des petittes <term
-                                type="gT" ref="#voute"
+                            <term
+                                type="gT" ref="#hauteur"
+                                >hauteur</term> depuis le pourtour des petittes <term type="gT"
+                                ref="#voute"
                                 >voûtes</term> par le dedans sur leur
                             <term
                                 type="gT" ref="#longueur"
@@ -13717,9 +13857,11 @@
                                 >toises</term> en superficie, et que l’âtre contienne 12 pieds, ;
                             l’on ôteroit 12 pieds de 12 <term
                                 type="gT" ref="#toise">toises</term>, il resterait 11. <term
-                                type="gT" ref="#toise">toises</term> et demie 6
+                                type="gT" ref="#toise"
+                                >toises</term> et demie 6
                             pieds dont les 3/4 seroient 9 <term
-                                type="gT" ref="#toise">toises</term> et demie 9 pieds auxquels on
+                                type="gT" ref="#toise"
+                                >toises</term> et demie 9 pieds auxquels on
                             ajouteroit 12 pieds, il viendroit 10 <term
                                 type="gT" ref="#toise">toises</term> 3 pieds pour le <term type="gT"
                                 ref="#toise">toisé</term> de ce <term type="gT" ref="#plancher"
@@ -14155,10 +14297,9 @@
                         <p xml:id="t9BodyFr01.18.p081"
                                 >77. Les exhaussemens faits avec plâtras et
                              <term
-                                type="gT" ref="#platre"
-                                >plâtre</term> au derrière du <term type="gT" ref="#rampant">rampant</term> des <term type="gT"
-                                ref="#chevron">chevrons</term> sur les <term type="gT"
-                                ref="#murDeFace"
+                                type="gT" ref="#platre">plâtre</term> au derrière du <term type="gT"
+                                ref="#rampant">rampant</term> des <term type="gT" ref="#chevron"
+                                >chevrons</term> sur les <term type="gT" ref="#murDeFace"
                                 >murs de faces</term> enduits
                             à plomb du <term
                                 type="gT" ref="#parement">parement</term> du dedans desdits <term
@@ -14388,9 +14529,11 @@
                                 >marches</term> droites ou des
                             quartiers tournans, mesurent la <term
                                 type="gT" ref="#longueur">longueur</term> d’une des <term type="gT"
-                                ref="#marche">marches</term> 
+                                ref="#marche"
+                                >marches</term> 
                             demi 
-                            <term type="gT" ref="#angle"
+                            <term
+                                type="gT" ref="#angle"
                                 >angle</term> seulement qui leur sert de
                             mesure commune pour la multiplier par le pourtour des <term
                                 type="gT" ref="#marche"
@@ -14515,8 +14658,10 @@
                                 type="gT" ref="#toiseCourante"
                                 >toise courante</term> sur leur
                             <term
-                                type="gT" ref="#hauteur">hauteur</term> pour une demie
-                            <term type="gT" ref="#toise">toise</term> de légers <term type="gT"
+                                type="gT" ref="#hauteur"
+                                >hauteur</term> pour une demie
+                            <term
+                                type="gT" ref="#toise">toise</term> de légers <term type="gT"
                                 ref="#ouvrage">ouvrages</term>, et outre ce le <term type="gT"
                                 ref="#mur"
                             >mur</term> est
@@ -14531,8 +14676,10 @@
                                 >plâtre</term> pour deux à trois pouces d’épaisseur enduites
                             par le dehors sont comptées chaque <term
                                 type="gT" ref="#toiseCourante">toise courante</term> sur la <term
-                                type="gT" ref="#hauteur">hauteur</term> pour demi 
-                            <term type="gT" ref="#toise"
+                                type="gT" ref="#hauteur"
+                                >hauteur</term> pour demi 
+                            <term
+                                type="gT" ref="#toise"
                                 >toise</term> de légers
                             <term type="gT"
                                 ref="#ouvrage">ouvrages</term>.</p>
@@ -14553,8 +14700,10 @@
                                 >plâtre</term> dans le trou au
                             pourtour de la <sic>chaussée</sic> sont compté chaque <term
                                 type="gT" ref="#toiseCourante">toise courante</term> sur la <term
-                                type="gT" ref="#hauteur">hauteur</term> pour demi 
-                            <term type="gT" ref="#toise">toise</term> de légers <term type="gT"
+                                type="gT" ref="#hauteur"
+                                >hauteur</term> pour demi 
+                            <term
+                                type="gT" ref="#toise">toise</term> de légers <term type="gT"
                                 ref="#ouvrage"
                                 >ouvrages</term>, et l’on compte en plus valeur du <term type="gT"
                                 ref="#mur"
@@ -14581,9 +14730,10 @@
                                 type="gT" ref="#toiseCourante"
                                 >toise
                                     courante</term> sur la <term
-                                type="gT" ref="#hauteur">hauteur</term> pour 
-                            <term type="gT" ref="#toise">toise</term> de légers <term type="gT"
-                                ref="#ouvrage"
+                                type="gT" ref="#hauteur"
+                                >hauteur</term> pour 
+                            <term type="gT"
+                                ref="#toise">toise</term> de légers <term type="gT" ref="#ouvrage"
                                 >ouvrages</term> à
                             commencer du dessous de la <term
                                 type="gT" ref="#naissance"
@@ -14706,8 +14856,10 @@
                                 >mur</term> et la devanture. Cette manière de mangeoire se
                             mesure sur sa <term
                                 type="gT" ref="#longueur">longueur,</term> chaque <term type="gT"
-                                ref="#toiseCourante">toise courante</term> est comptée pour demie
-                            <term type="gT" ref="#toise"
+                                ref="#toiseCourante"
+                                >toise courante</term> est comptée pour demie
+                            <term
+                                type="gT" ref="#toise"
                                 >toise</term> de légers
                             <term type="gT"
                                 ref="#ouvrage"
@@ -14952,7 +15104,7 @@
                                 >fer</term> sur les
                             seuils de <term
                                 type="gT" ref="#pierreDeTaille">pierre de taille</term> des <term
-                                    type="gT" ref="#porteCochere">portes cochères</term>, et sur les <choice>
+                                type="gT" ref="#porteCochere">portes cochères</term>, et sur les <choice>
                                 <abbr>1<hi rend="superscript">eres</hi>
                                 </abbr>
                                 <expan>premières</expan>
@@ -15004,7 +15156,8 @@
                                 >pierre de taille</term> sont comptés chacun pour 1 pied de léger
                             <term
                                 type="gT" ref="#ouvrage">ouvrage,</term> et en <term type="gT"
-                                ref="#mur">mur</term> de moilon pour demi pied, le scellement des pattes
+                                ref="#mur"
+                                >mur</term> de moilon pour demi pied, le scellement des pattes
                             des <term
                                 type="gT" ref="#chambranle">chambranles</term> des <term type="gT"
                                 ref="#porte"
@@ -15267,10 +15420,7 @@
                                 ref="#poutre"
                                 >poutres</term> portées dans les
                             <term
-                                type="gT" ref="#mur"
-                                >murs</term> en distances égales<ref type="noteHistorical" target="#t9Nh0001"/> pour l’ordinaire les<hi
-                                rend="annotation_reference">
-                            </hi>
+                                type="gT" ref="#mur">murs</term> en distances égales. Pour l’ordinaire, les 
                             <term type="gT" ref="#solive">solives</term> de ces <term type="gT"
                                 ref="#travée">travées</term> étoient de même <term type="gT"
                                 ref="#longueur">longueur</term> et <term type="gT" ref="#grosseur"
@@ -15343,8 +15493,7 @@
                                 <expan>pieds</expan>
                             </choice> de long, et il faut 72 de ces échalats pour faire une pièce
                             parce que la pièce étant de 2 <term
-                                type="gT" ref="#toise"
-                                >toises</term> de long de 6 pouces de gros quarré,
+                                type="gT" ref="#toise">toises</term> de long de 6 pouces de gros quarré,
                             le bout de sa coupe contient 36 <choice>
                                 <abbr>po<hi rend="superscript">s</hi>
                                 </abbr>
@@ -15519,7 +15668,7 @@
                     </div>
                     <div xml:id="t9BodyFr02.02" type="chapter" n="2">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 2.</num></label> 
+                            <label><num>Chapitre 2.</num></label>
                             <lb/>L’usage de la <term type="gT" ref="#charpenterie"
                                 ana="#icharpenterie">charpenterie</term>. (du <term type="gT"
                                 ref="#toise">toisé</term>).</head>
@@ -15665,7 +15814,7 @@
                     <fw type="pageNum">135</fw>
                     <div xml:id="t9BodyFr02.03" type="chapter" n="3">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 3<hi rend="superscript">e</hi>.</num></label> 
+                            <label><num>Chapitre 3<hi rend="superscript">e</hi>.</num></label>
                             <lb/><term type="gT" ref="#toise">Toisé</term> des <term type="gT"
                                 ref="#plancher" ana="#iplancher">planchers</term>
                         </head>
@@ -15894,7 +16043,8 @@
                                 type="gT" ref="#mur"
                                 >murs</term> des 2 bouts auront 19 pieds 1/4 de long, elles seront comptées
                             19 pieds 1/2. La 
-                            <term type="gT" ref="#solive">solive</term> d’enchevêtrure 5 aura 18 pieds juste de <choice>
+                            <term
+                                type="gT" ref="#solive">solive</term> d’enchevêtrure 5 aura 18 pieds juste de <choice>
                                 <abbr>long<hi rend="superscript">r</hi>
                                 </abbr>
                                 <expan>longueur</expan>
@@ -16120,7 +16270,7 @@
                     </div>
                     <div xml:id="t9BodyFr02.04" type="chapter" n="4">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 4.</num></label>  
+                            <label><num>Chapitre 4.</num></label>
                             <lb/><term type="gT" ref="#toise">Toisé</term> des <term type="gT"
                                 ref="#panDeBois" ana="#ipanDeBois">pans de bois</term> et <term
                                 type="gT" ref="#cloison" ana="#icloison">cloison</term>.</head>
@@ -16282,7 +16432,9 @@
                             </choice> 1/2 de long. Les décharges 34, 35 seront toisés de la <term
                                 type="gT" ref="#hauteur"
                                 >hauteur</term>
-                            qu’elles sont suivant leur <term type="gT" ref="#rampant">rampant</term> en comptant 3 pouces de tenons à
+                            qu’elles sont suivant leur <term
+                                type="gT" ref="#rampant"
+                                >rampant</term> en comptant 3 pouces de tenons à
                             chaque bout la <term
                                 type="gT" ref="#hauteur">hauteur</term> entre les sablières du haut et du bas étant de 14 <choice>
                                 <abbr>pi.</abbr>
@@ -16355,8 +16507,8 @@
                                 </choice></term> au dessous de 2 pieds de <term type="gT"
                                 ref="#largeur"
                                 >largeur</term>
-                            sont comptés pour demi pièce, et ceux des <term type="gT"
-                                ref="#baie"><choice>
+                            sont comptés pour demi pièce, et ceux des <term
+                                type="gT" ref="#baie"><choice>
                                     <orig>bayes</orig>
                                     <reg>baies</reg>
                                 </choice></term> au dessus de 4 <choice>
@@ -16368,7 +16520,7 @@
                     </div>
                     <div xml:id="t9BodyFr02.05" type="chapter" n="5">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 5</num></label> 
+                            <label><num>Chapitre 5</num></label>
                             <lb/><term type="gT" ref="#toise">Toisé</term> des <term type="gT"
                                 ref="#escalier" ana="#iescalier">escaliers</term> de <term type="gT"
                                 ref="#charpente" ana="#icharpente">charpente </term></head>
@@ -16493,8 +16645,10 @@
                                 >rampe </term>droite avec des
                             quartiers tournans on <term
                                 type="gT" ref="#toiser">toise</term> les <term type="gT"
-                                ref="#marche">marches</term> droites à part et le demi 
-                            <term type="gT" ref="#angle"
+                                ref="#marche"
+                                >marches</term> droites à part et le demi 
+                            <term
+                                type="gT" ref="#angle"
                                 >angle</term> pour mesure commune de celles
                             des quartiers tournans, et quand les <term
                                 type="gT" ref="#marche"
@@ -16549,12 +16703,12 @@
                     <div xml:id="t9BodyFr02.06" type="chapter" n="6">
                         <head rend="alignCenter">
                             <label><num>Chapitre 6<hi rend="superscript">e</hi></num>
-                            </label> 
+                            </label>
                             <lb/>Toisé des <term type="gT" ref="#calotte" ana="#iCalotte"
                                 >calottes</term> et <term type="gT" ref="#dome" ana="#idome"
                                 >dômes</term> et autres <term type="gT" ref="#ouvrage"
                                 >ouvrages</term> de <term type="gT" ref="#charpenterie"
-                                ana="#icharpenterie">charpenterie</term> 
+                                ana="#icharpenterie">charpenterie</term>
                             <lb/>dont les bois sont élégis</head>
                         <metamark rend="line"/>
                         <!-- TODO préciser la métamark trait ondulé -->
@@ -16731,7 +16885,7 @@
                     </div>
                     <div xml:id="t9BodyFr02.07" type="chapter" n="7">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 7<hi rend="superscript">e</hi>.</num></label> 
+                            <label><num>Chapitre 7<hi rend="superscript">e</hi>.</num></label>
                             <lb/>Toisé de la <term type="gT" ref="#charpente" ana="#icharpente"
                                 >charpente </term>des <term type="gT" ref="#ecurie" ana="#iEcuries"
                                 >écuries</term>
@@ -16837,7 +16991,7 @@
                     <div xml:id="t9BodyFr02.08" type="chapter" n="8">
                         <head rend="alignCenter">
                             <label><num>Chapitre 8<hi rend="superscript">e</hi>
-                                </num></label> 
+                                </num></label>
                             <lb/>Toisé des <term type="gT" ref="#ouvrage">ouvrages</term> de <term
                                 type="gT" ref="#charpenterie" ana="#icharpenterie"
                                 >charpenterie</term> en vieux bois et
@@ -16911,10 +17065,10 @@
                     <fw type="pageNum">147</fw>
                     <div xml:id="t9BodyFr02.09" type="chapter" n="9">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 9</num></label> 
-                            <lb/><term type="gT" ref="#parallele">Parallèle</term> du <term type="gT"
-                                ref="#toise">toisé</term> de la <term type="gT" ref="#charpenterie"
-                                ana="#icharpenterie"
+                            <label><num>Chapitre 9</num></label>
+                            <lb/><term type="gT" ref="#parallele">Parallèle</term> du <term
+                                type="gT" ref="#toise">toisé</term> de la <term type="gT"
+                                ref="#charpenterie" ana="#icharpenterie"
                                 >charpenterie</term> à l’usage des 
                             <lb/>bâtimens du roy, et du <term
                                 type="gT" ref="#toise">toisé</term> aux <term type="gJ"
@@ -17061,7 +17215,7 @@
                 <fw type="pageNum">149</fw>
                 <div xml:id="t9BodyFr03" type="part" n="3">
                     <head rend="alignCenter">
-                        <num>Section troisième</num> 
+                        <num>Section troisième</num>
                         <lb/>Du <term type="gT" ref="#toise"
                         >toisé</term> des bâtimens 
                         <lb/>concernant la couverture.</head>
@@ -17069,7 +17223,7 @@
                     <div xml:id="t9BodyFr03.01" type="chapter" n="1">
                         <head rend="alignCenter">
                             <label><num>Chapitre 1<hi rend="superscript">er</hi></num>
-                            </label> 
+                            </label>
                             <lb/>Qualités des <term type="gT" ref="#couverture"
                             >couvertures</term></head>
                         <p xml:id="t9BodyFr03.01.p001">1. Il y a trois sortes de <term type="gT"
@@ -17107,13 +17261,15 @@
                             moins pesante que la <term
                                 type="gT" ref="#tuile" ana="#ituile"
                                 >tuile
-                                </term>. L’on employe à Paris de 5 sortes d’<term type="gT" ref="#ardoise"
-                                ana="#iardoise">ardoises</term> dont 4 viennent d’<placeName
-                                ref="#angers">Angers</placeName>, qui sont, la grosse noire qui est
+                                </term>. L’on employe à Paris de 5 sortes d’<term
+                                type="gT" ref="#ardoise" ana="#iardoise"
+                                >ardoises</term> dont 4 viennent d’<placeName ref="#angers"
+                                >Angers</placeName>, qui sont, la grosse noire qui est
                             la plus épaisse, elle <sic/>
                             <!-- TODO voir le rendu --> 12 à 13 pouces de long, 7 à 8 pouces de
                             large, la quarré forte qui a 11 à 12 pouces de long, 7 à 8 pouces de
-                            large. C’est de cette sorte d’<term type="gT" ref="#ardoise" ana="#iardoise"
+                            large. C’est de cette sorte d’<term
+                                type="gT" ref="#ardoise" ana="#iardoise"
                                 >ardoise </term>que l’on employe le plus communément aux
                             <term
                                 type="gT" ref="#couverture"
@@ -17244,7 +17400,7 @@
                     <div xml:id="t9BodyFr03.02" type="chapter" n="2">
                         <head rend="alignCenter">
                             <label><num>Chapitre 2<hi rend="superscript">e</hi>
-                                </num></label> 
+                                </num></label>
                             <lb/><term type="gT" ref="#toise"
                                 >Toisé</term> superficiel des
                             <term
@@ -17503,7 +17659,7 @@
                     <div xml:id="t9BodyFr03.03" type="chapter" n="3">
                         <head rend="alignCenter">
                             <label><num>Chapitre 3<hi rend="superscript">e</hi></num>
-                            </label> 
+                            </label>
                             <lb/><term type="gT" ref="#toise">Toisé</term> de la <term type="gT"
                                 ref="#couverture"
                                 >couverture</term> des
@@ -17607,7 +17763,8 @@
                                 ref="#toise"
                                 >toise</term>
                             pour le chevalet, et demie
-                            <term type="gT" ref="#toise">toise</term> pour le <term type="gT"
+                            <term
+                                type="gT" ref="#toise">toise</term> pour le <term type="gT"
                                 ref="#fronton" ana="#ifronton">fronton</term>.</p>
                         <p xml:id="t9BodyFr03.03.p007">7. Pour une <term type="gT"
                                 ref="#lucarneALaCapucine"
@@ -17629,15 +17786,18 @@
                                 type="gT" ref="#comble" ana="#icomble"
                                 >comble</term> l’on
                             augmente demie
-                            <term type="gT" ref="#toise"
+                            <term
+                                type="gT" ref="#toise"
                                 >toise</term> non compris la valeur du bois ou du plomb de la
                                 <term
                                 type="gT" ref="#gouttiere" ana="#igouttiere"><choice>
                                     <orig>goutière</orig>
                                     <reg>gouttière</reg>
                                 </choice></term>.</p>
-                        <p xml:id="t9BodyFr03.03.p009">9. L’on augmente pareillement demie
-                            <term type="gT" ref="#toise"
+                        <p xml:id="t9BodyFr03.03.p009"
+                                >9. L’on augmente pareillement demie
+                            <term
+                                type="gT" ref="#toise"
                                 >toise</term>
                             pour une <term type="gT"
                                 ref="#lucarneRempante"
@@ -17716,7 +17876,7 @@
                     </div>
                     <div xml:id="t9BodyFr03.04" type="chapter" n="4">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 4</num></label> 
+                            <label><num>Chapitre 4</num></label>
                             <lb/><term type="gT" ref="#toise">Toisé</term> des <term type="gT"
                                 ref="#saillie">saillies</term> de 
                             <term
@@ -17765,7 +17925,8 @@
                                 ref="#tuile" ana="#ituile"
                                 >tuile </term>entière du grand
                             moule par le dessous de la <term
-                                type="gT" ref="#saillie">saillie</term> est compté pour demi pied courant non
+                                type="gT" ref="#saillie"
+                                >saillie</term> est compté pour demi pied courant non
                             compris le rang de <term
                                 type="gT" ref="#tuile" ana="#ituile"><choice>
                                     <orig>thuille</orig>
@@ -18380,7 +18541,7 @@
                 <fw type="pageNum">162</fw>
                 <div xml:id="t9BodyFr04" type="part" n="4">
                     <head rend="alignCenter">
-                        <num>Section 4</num> 
+                        <num>Section 4</num>
                         <lb/>Du traité du <term type="gT" ref="#toise"
                             >toisé</term> des bâtimens 
                         <lb/>concernant 
@@ -18393,8 +18554,9 @@
                             ref="#serrurerie" ana="#iserrurerie">serrurerie</term>, la 
                         <lb/>
                         <term type="gT" ref="#vitrerie" ana="#ivitrerie">vitrerie</term>, le <term
-                            type="gT" ref="#pave" ana="#ipave"
-                            >pavé</term>, la <term type="gT" ref="#marbrerie">marbrerie</term>, la dorure et 
+                            type="gT" ref="#pave" ana="#ipave">pavé</term>, la <term type="gT"
+                            ref="#marbrerie"
+                            >marbrerie</term>, la dorure et 
                         <lb/>la <term
                             type="gT" ref="#peinture" ana="#ipeinture"
                             >peinture
@@ -18432,7 +18594,7 @@
                         contenus dans cette présente section.</p>
                     <div xml:id="t9BodyFr04.01" type="chapter" n="1">
                         <head rend="alignCenter">
-                            <label><num>Chapitre premier</num></label> 
+                            <label><num>Chapitre premier</num></label>
                             <lb/>Concernant la <term type="gT" ref="#plomberie" ana="#iplomberie"
                                 >plomberie</term>
                         </head>
@@ -18535,7 +18697,7 @@
                     <div xml:id="t9BodyFr04.02" type="chapter" n="2">
                         <head rend="alignCenter">
                             <label><num>Chapitre 2<hi rend="superscript">e</hi></num>
-                            </label> 
+                            </label>
                             <lb/>Concernant le <term type="gT" ref="#carrelage">carrelage</term>
                         </head>
                         <p xml:id="t9BodyFr04.02.p001">1. L’on entend vulgairement par les <term
@@ -18655,8 +18817,10 @@
                                 type="gT" ref="#pierre">pierre</term> ou de <term type="gT"
                                 ref="#carreau" ana="#icarreau">carreaux</term> de <term type="gT"
                                 ref="#pierreDeLiais">pierre de lierre</term>
-                            <ref type="noteCritical" target="#t9Nc0046"/>
-                             et <term type="gT" ref="#marbre" ana="#imarbre"
+                            <ref type="noteCritical" target="#t9Nc0046"
+                                />
+                             et <term type="gT" ref="#marbre"
+                                ana="#imarbre"
                                 >marbre</term> noir
                             ou autrement se <term
                                 type="gT" ref="#toiser">toisent</term> aussi à <term type="gT"
@@ -18670,7 +18834,7 @@
                     <div xml:id="t9BodyFr04.03" type="chapter" n="3">
                         <head rend="alignCenter">
                             <label><num>Chapitre 3<hi rend="superscript">e</hi></num>
-                            </label> 
+                            </label>
                             <lb/>Concernant la <term type="gT" ref="#menuiserie"
                             >menuiserie</term></head>
                         <p xml:id="t9BodyFr04.03.p001">1. Il y a 2 sortes de <term type="gT"
@@ -19088,7 +19252,7 @@
                     <fw type="pageNum">170</fw>
                     <div xml:id="t9BodyFr04.04" type="chapter" n="4">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 4</num></label> 
+                            <label><num>Chapitre 4</num></label>
                             <lb/>Concernant la <term type="gT" ref="#serrurerie" ana="#iserrurerie"
                                 >serrurerie</term>
                         </head>
@@ -19287,7 +19451,7 @@
                     <div xml:id="t9BodyFr04.05" type="chapter" n="5">
                         <head rend="alignCenter">
                             <label><num>Chapitre 5<hi rend="superscript">e</hi></num>
-                            </label> 
+                            </label>
                             <lb/>Concernant la <term type="gT" ref="#vitrerie" ana="#ivitrerie"
                                 >vitrerie</term>
                         </head>
@@ -19434,7 +19598,8 @@
                                 >carreaux</term> et les <term type="gT" ref="#panneau"
                                 >panneaux</term> et ils les posent en place aux
                             <term
-                                type="gT" ref="#panneau">panneaux</term>. Il doit y avoir des attaches de plomb de distance en distance pour les
+                                type="gT" ref="#panneau"
+                                >panneaux</term>. Il doit y avoir des attaches de plomb de distance en distance pour les
                             lier et retenir aux verges de <term
                                 type="gT" ref="#fer"
                                 >fer</term> qui les soutiennent. Les verges de <term type="gT"
@@ -19455,7 +19620,8 @@
                                 type="gT" ref="#carreau" ana="#icarreau"
                                 >carreaux</term> de papier
                             se payent à la pièce à proportion de la grandeur des feuilles de papier
-                            qui y sont employés. Ceux qui sont un peu plus grands <pb xml:id="t9P175" n="p175"/>
+                            qui y sont employés. Ceux qui sont un peu plus grands <pb
+                                xml:id="t9P175" n="p175"/>
                             <fw type="pageNum"
                             >175</fw> ou un peu plus petits l’un que l’autre sont
                             payés au même prix quand ils sont faits avec une même grandeur de
@@ -19463,7 +19629,7 @@
                     </div>
                     <div xml:id="t9BodyFr04.06" type="chapter" n="6">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 6</num></label> 
+                            <label><num>Chapitre 6</num></label>
                             <lb/>Concernant le <term type="gT" ref="#pave" ana="#ipave"
                             >pavé</term></head>
                         <p xml:id="t9BodyFr04.06.p001">1. L’on entend par le terme de <term
@@ -19480,7 +19646,8 @@
                         <p xml:id="t9BodyFr04.06.p002">2. Il y a différentes sortes de <term
                                 type="gT" ref="#pave" ana="#ipave"
                                 >pavé</term> suivant les différens
-                            pays. On en connoît de 3 sortes à <placeName ref="#paris"
+                            pays. On en connoît de 3 sortes à <placeName
+                                ref="#paris"
                                 >Paris</placeName>
                             qui sont le <term
                                 type="gT" ref="#pave" ana="#ipave"
@@ -19513,7 +19680,9 @@
                         <p xml:id="t9BodyFr04.06.p004">4. Le <term type="gT" ref="#pave"
                                 ana="#ipave"
                                 >pavé</term> de grais est plus commode et le plus
-                            ordinaire, il doit estre fait <supplied reason="gap">d</supplied>e roche dure et non de roche tendre pour estre durable, le <term
+                            ordinaire, il doit estre fait <supplied
+                                reason="gap"
+                                >d</supplied>e roche dure et non de roche tendre pour estre durable, le <term
                                 type="gT" ref="#pave" ana="#ipave"
                             >pavé</term> de roche tendre étant
                             sujet à s’user promptement, se casser sous le fardeau et se réduire en
@@ -19537,7 +19706,8 @@
                                 ana="#ipave">pavé</term> fendu s’employe dans les <term type="gT"
                                 ref="#cour"
                                 >cours</term> où il entre
-                            des voitures, on <supplied>le</supplied> pose avec du <term type="gT" ref="#mortier"
+                            des voitures, on <supplied>le</supplied> pose avec du <term
+                                type="gT" ref="#mortier"
                                 >mortier</term> de chaux et sable sur une forme de sable dans
                             les grandes <term
                                 type="gT" ref="#cour"
@@ -19555,7 +19725,8 @@
                             il n’entre point de voitures, les <term
                                 type="gT" ref="#ecurie" ana="#iEcuries"
                                 >écuries</term>, les cuisines et autres lieux
-                            semblables. Le petit <term type="gT" ref="#pave" ana="#ipave"
+                            semblables. Le petit <term
+                                type="gT" ref="#pave" ana="#ipave"
                                 >pavé</term> doit
                             toujours estre posé en ciment sur une forme de sable parce qu’il ne
                             subsisteroit pas longtems, s’il étoit posé en <term
@@ -19599,7 +19770,10 @@
                                 type="gT" ref="#pierre"
                                 >pierre</term> dure
                             d’autres petits bancs nommés plaquières de 3 à 4 pouces 1/2 d’épaisseur
-                            comme une espèce de <term type="gT" ref="#pierreDeLiais">lierre</term><ref type="noteCritical" target="#t9Nc0048"/>
+                            comme une espèce de <term
+                                type="gT" ref="#pierreDeLiais">lierre</term><ref type="noteCritical"
+                                target="#t9Nc0048"
+                                />
                             . On laisse ces petits bancs de l’épaisseur qu’ils sont, et on les
                             débite en <term
                                 type="gT" ref="#pave" ana="#ipave"
@@ -19626,7 +19800,8 @@
                                 type="gT" ref="#pave" ana="#ipave"
                                 >pavé</term> celui de grais est le
                             plus cher. Le <term
-                                type="gT" ref="#pave" ana="#ipave">pavé</term> 
+                                type="gT" ref="#pave" ana="#ipave"
+                                >pavé</term> 
                             d’échantillon est le plus cher de tous, ensuite le gros <term
                                 type="gT" ref="#pave" ana="#ipave"
                                 >pavé</term> des rues, après le
@@ -19642,7 +19817,7 @@
                     </div>
                     <div xml:id="t9BodyFr04.07" type="chapter" n="7">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 7</num></label> 
+                            <label><num>Chapitre 7</num></label>
                             <lb/>Concernant la <term type="gT" ref="#marbrerie" ana="#imarbrerie"
                                 >marbrerie</term></head>
                         <p xml:id="t9BodyFr04.07.p001">1. Il y a 2 choses à considérer aux <term
@@ -19662,7 +19837,7 @@
                             <term
                                 type="gT" ref="#ouvrage">ouvrage,</term> l’on <term type="gT"
                                 ref="#toiser">toise</term> le <term type="gT" ref="#marbre"
-                                ana="#imarbre">marbre</term> 
+                                ana="#imarbre">marbre</term>
                             <term rend="gT" ref="#aupart">
                                 <sic>aupart</sic>
                             </term>
@@ -19903,20 +20078,24 @@
                             part.</p>
                         <p xml:id="t9BodyFr04.07.p010">10. Les <term type="gT" ref="#marbrier"
                                 ana="#iMarbrier">marbriers</term> font aussi des <term type="gT"
-                                ref="#ouvrage"
-                                >ouvrages</term> de <term type="gT" ref="#pierreDeLiais">lierre</term>
-                                <ref type="noteCritical" target="#t9Nc0049"/>
-                            lesquels peuvent se <term type="gT" ref="#toiser"
-                                >toiser</term> comme il est dit pour les <term type="gT"
-                                ref="#ouvrage"
+                                ref="#ouvrage">ouvrages</term> de <term type="gT"
+                                ref="#pierreDeLiais">lierre</term>
+                            <ref type="noteCritical" target="#t9Nc0049"
+                                />
+                            lesquels peuvent se <term type="gT"
+                                ref="#toiser">toiser</term> comme il est dit pour les <term
+                                type="gT" ref="#ouvrage"
                                 >ouvrages</term> de
                                 <term type="gT"
                                 ref="#marbre" ana="#imarbre"
                                 >marbre</term>. Les
                             <term type="gT"
-                                ref="#ouvrage">ouvrages</term> de <term type="gT" ref="#pierreDeLiais"
-                                    >pierre de lierre</term><ref type="noteCritical" target="#t9Nc0050"/> 
-                            le plus ordinaire <gap reason="erased" extent="1" unit="words"
+                                ref="#ouvrage">ouvrages</term> de <term type="gT"
+                                ref="#pierreDeLiais">pierre de lierre</term><ref type="noteCritical"
+                                target="#t9Nc0050"
+                                /> 
+                            le plus ordinaire <gap
+                                reason="erased" extent="1" unit="words"
                                 />
                             sont les <term type="gT"
                                 ref="#chambranle">chambranles</term> de <term type="gT"
@@ -19934,13 +20113,12 @@
                             pans ou quarrés et les <term
                                 type="gT" ref="#pave" ana="#ipave"
                                 >pavé
-                            </term> de <term type="gT" ref="#pierreDeLiais">lierre</term> et <term
-                                type="gT" ref="#marbre" ana="#imarbre"
-                                >marbre</term>, ou les petits <term
-                                type="gT" ref="#carreau" ana="#icarreau">carreaux</term> de <term
-                                type="gT" ref="#pierre"
-                                >pierre</term> de Caen se réduisent à la <term type="gT"
-                                ref="#toiseCarree"><choice>
+                            </term> de <term type="gT"
+                                ref="#pierreDeLiais">lierre</term> et <term type="gT" ref="#marbre"
+                                ana="#imarbre">marbre</term>, ou les petits <term type="gT"
+                                ref="#carreau" ana="#icarreau">carreaux</term> de <term type="gT"
+                                ref="#pierre">pierre</term> de Caen se réduisent à la <term
+                                type="gT" ref="#toiseCarree"><choice>
                                     <orig>toise quarré</orig>
                                     <reg>toise carrée</reg>
                                 </choice></term>
@@ -19956,9 +20134,11 @@
                                 type="gT" ref="#pave" ana="#ipave">pavé</term>  de <term type="gT"
                                 ref="#pierre">pierre</term> ou de
                             <term
-                                type="gT" ref="#pierreDeLiais">pierre de lierre</term><ref type="noteCritical" target="#t9Nc0051"/>
-                            sont faits par les maçons et ce sont les <term type="gT"
-                                ref="#marbrier" ana="#iMarbrier"
+                                type="gT" ref="#pierreDeLiais">pierre de lierre</term><ref
+                                type="noteCritical" target="#t9Nc0051"
+                                />
+                            sont faits par les maçons et ce sont les <term
+                                type="gT" ref="#marbrier" ana="#iMarbrier"
                                 >marbriers</term> qui posent le
                                 <term
                                 type="gT" ref="#pave" ana="#ipave"
@@ -19969,7 +20149,7 @@
                     <div xml:id="t9BodyFr04.08" type="chapter" n="8">
                         <head rend="alignCenter">
                             <label><num>Chapitre 8<hi rend="superscript">e</hi></num>
-                            </label> 
+                            </label>
                             <lb/>Concernant la <term type="gT" ref="#sculpture" ana="#isculpture"
                                 >sculpture</term></head>
                         <p xml:id="t9BodyFr04.08.p001"
@@ -19989,7 +20169,8 @@
                                     <reg>ornements</reg>
                                 </choice></term> particuliers que l’on prétend
                             réduire à la <term
-                                type="gT" ref="#toise">toise</term>, ces sortes d’<term type="gT" ref="#ouvrage"
+                                type="gT" ref="#toise">toise</term>, ces sortes d’<term type="gT"
+                                ref="#ouvrage"
                             >ouvrages</term> sont estimés à la pièce, principalement les
                             figures dont la valeur dépend moins de la grandeur que de l’habileté des
                             sculpteurs qui les ont faites.</p>
@@ -20165,7 +20346,7 @@
                     <fw type="pageNum">182</fw>
                     <div xml:id="t9BodyFr04.09" type="chapter" n="9">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 9</num></label>  
+                            <label><num>Chapitre 9</num></label>
                             <lb/>Concernant la dorure</head>
                         <p xml:id="t9BodyFr04.09.p001"
                             >1. Il y a 2 sortes de dorrures dans les
@@ -20234,7 +20415,7 @@
                             d’ocre jaune et 2 couches d’assiettes sur lesquelles on applique les
                             feuilles d’or aussi avec de l’eau et on ne le brunit pas.</p>
                         <p xml:id="t9BodyFr04.09.p007"
-                                >7. Pour l’or mat l’on donne 2 couches de
+                            >7. Pour l’or mat l’on donne 2 couches de
                             blanc de céruse à l’huile de noix aux endroits à couverts ou 2 couches
                             d’ocre jaune à huile à ceux qui sont à découvert l’une et l’autre bien
                             séchée avant que d’y mettre l’or de couleur qui est aussi à huile fait
@@ -20331,7 +20512,7 @@
                     </div>
                     <div xml:id="t9BodyFr04.10" type="chapter" n="10">
                         <head rend="alignCenter">
-                            <label><num>Chapitre 10<hi rend="superscript">e</hi></num></label> 
+                            <label><num>Chapitre 10<hi rend="superscript">e</hi></num></label>
                             <lb/>Concernant la <term type="gT" ref="#peinture" ana="#ipeinture"
                                 >peinture </term>et les impressions des couleurs</head>
                         <p xml:id="t9BodyFr04.10.p001">1. Les <term type="gT" ref="#peinture"
@@ -20514,16 +20695,16 @@
                             >toisé</term>
                             sur un seul prix.</p>
                         <p xml:id="t9BodyFr04.10.p013">13. Le <term type="gT" ref="#marbre"
-                                ana="#imarbre">marbre</term> feint en <term type="gT" ref="#peinture"
-                                ana="#ipeinture">peinture</term> se <term type="gT" ref="#toiser"
-                                >toise</term> comme les autres <pb xml:id="t9P187" n="p187"/>
+                                ana="#imarbre">marbre</term> feint en <term type="gT"
+                                ref="#peinture" ana="#ipeinture">peinture</term> se <term type="gT"
+                                ref="#toiser">toise</term> comme les autres <pb xml:id="t9P187"
+                                n="p187"/>
                             <fw type="pageNum">187</fw>
                             <term type="gT" ref="#peinture" ana="#ipeinture"
                                 >peintures</term> sur
                             différens prix à proportion de ce qu’il est plus ou moins bien
                             ressemblans au <term
-                                type="gT" ref="#marbre" ana="#imarbre"
-                                >marbre</term> naturel.</p>
+                                type="gT" ref="#marbre" ana="#imarbre">marbre</term> naturel.</p>
                         <p xml:id="t9BodyFr04.10.p014">14. Pour ce qui regarde la manière de <term
                                 type="gT" ref="#toiser"
                                 >toiser</term>,
@@ -20663,7 +20844,8 @@
                                 >verre </term>avec <term type="gT" ref="#volet" ana="#ivolet"
                                 >volets</term> sont toisées par
                             le dedans et doublées pour les 2 <term
-                                type="gT" ref="#face">faces</term>. Quand il n’y a pas de <term type="gT" ref="#volet" ana="#ivolet"
+                                type="gT" ref="#face">faces</term>. Quand il n’y a pas de <term
+                                type="gT" ref="#volet" ana="#ivolet"
                                 >volet</term>,elles sont toisées de même par le dedans et doublées,
                             et l’on en rabat le vuide de châssis à <term
                                 type="gT" ref="#verre" ana="#iverre">verre </term>pour les 2 <term
@@ -20702,7 +20884,8 @@
                             pouces de mailles peints de tous côtés devant et derrière, soit isolés
                             ou non avant que d’estre mis en œuvre, sont toisés les 2 <term
                                 type="gT" ref="#face"
-                                >faces</term> pour une. Quand ils ne sont peints que par la <term type="gT" ref="#face"
+                                >faces</term> pour une. Quand ils ne sont peints que par la <term
+                                type="gT" ref="#face"
                                 >face</term> et par les épaisseurs entre les
                             mailles, étant en œuvre, la <term
                                 type="gT" ref="#toiseCarree"><choice>
@@ -20740,7 +20923,7 @@
                     <div xml:id="t9BodyFr04.11" type="chapter" n="11">
                         <head rend="alignCenter">
                             <label><num>Chapitre 11<hi rend="superscript">e</hi></num>
-                            </label> 
+                            </label>
                             <lb/>Conclusion du traité du <term type="gT" ref="#toise"
                             >toisé</term> des bâtimens</head>
                         <p xml:id="t9BodyFr04.11.p001"
@@ -20830,7 +21013,8 @@
                             pour toujours les prix de <pb
                                 xml:id="t9P190" n="p190"/>
                             <fw type="pageNum">190</fw> chaque nature d’<term type="gT"
-                                ref="#ouvrage">ouvrages</term>, il est même incertain de les pouvoir apprécier au juste pour le
+                                ref="#ouvrage"
+                            >ouvrages</term>, il est même incertain de les pouvoir apprécier au juste pour le
                             courant d’une seule année.</p>
                         <p xml:id="t9BodyFr04.11.p005">Fin </p>
                         <pb xml:id="t9P191" n="p191"/>
@@ -21031,7 +21215,8 @@
                                 ref="#vitrerie" ana="#ivitrerie">vitrerie</term> 173</p>
                         <p xml:id="t9BackFr01.01.p049">Chapitre 6. Du <term type="gT" ref="#pave"
                                 ana="#ipave">pavé</term> 175</p>
-                        <p xml:id="t9BackFr01.01.p050">Chapitre 7. De la <term type="gT" ref="#marbrerie">marbrerie</term> 177</p>
+                        <p xml:id="t9BackFr01.01.p050">Chapitre 7. De la <term type="gT"
+                                ref="#marbrerie">marbrerie</term> 177</p>
                         <p xml:id="t9BackFr01.01.p051">Chapitre 8. De la <term type="gT"
                                 ref="#sculpture" ana="#isculpture">sculpture</term> 180</p>
                         <p xml:id="t9BackFr01.01.p052">Chapitre 9. La dorure 182</p>
