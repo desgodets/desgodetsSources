@@ -362,7 +362,7 @@
          <graphic n="full" mimeType="image/jpg" url="facs/c1Facs0016.jpg"/>
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/c1Facs0016.jpg"/>
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/c1Facs0016.jpg"/>
-         <desc>description du fichier</desc>
+         <!--<desc><!-\-description du fichier-\-></desc>-->
       </surface>
       <surface xml:id="c1FacsPl0002">
          <graphic n="full" mimeType="image/jpg" url="facs/c1Facs0020.jpg"/>

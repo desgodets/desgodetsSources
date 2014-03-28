@@ -359,8 +359,7 @@
             url="facs/medium/facsC2Pl0001.jpg"/>
          <graphic n="thumb" mimeType="image/jpg"
             url="facs/thumbs/facsC2Pl0001.jpg"/>
-         <!-- si nécessaire -->
-         <desc>description du fichier</desc>
+         <!--<desc><!-\- si nécessaire -\-></desc>-->
       </surface>
       <surface xml:id="c2FacsPl0002">
          <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0002.jpg"/>
