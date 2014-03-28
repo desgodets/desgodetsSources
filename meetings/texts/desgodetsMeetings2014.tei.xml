@@ -16,8 +16,7 @@
             <!-- mentions de titre et de responsabilité -->
             <titleStmt>
                 <title xml:lang="fre" type="main">Colloques</title>
-                <title xml:lang="fre" type="sub"
-                    >Appel à communication du colloque de 2014</title>
+                <title xml:lang="fre" type="sub">Appel à communication du colloque de 2014</title>
                 <!-- mention de responsabilité principale (responsable scientifique de l'édition) -->
                 <principal>
                     <persName ref="#RC">
@@ -225,8 +224,7 @@
             <titlePage xml:id="meetings2014Front00">
                 <docTitle>
                     <titlePart type="main">Les nouveaux savoirs de l'architecte moderne</titlePart>
-                    <titlePart type="sub"
-                        >Antoine Desgodets, entre théorie et pratique</titlePart>
+                    <titlePart type="sub">Antoine Desgodets, entre théorie et pratique</titlePart>
                 </docTitle>
                 <argument>
                     <p>Appel à communication du colloque international de 2014</p>
@@ -305,6 +303,7 @@
                     <list>
                         <item>Laurent Baridon, <hi rend="italic"
                             >Université Lumière Lyon 2</hi></item>
+                        <item>Basile Baudez, <hi rend="italic">Université Paris-Sorbonne</hi></item>
                         <item>Robert Carvais, <hi rend="italic"
                             >CNRS, ENSA Paris-Malaquais</hi></item>
                         <item>Pierre Caye, <hi rend="italic">CNRS</hi></item>
