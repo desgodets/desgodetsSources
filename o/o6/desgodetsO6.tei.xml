@@ -133,14 +133,14 @@
             <availability status="restricted" xml:id="o6TextLicence">
                <!-- TODO : <licence> à ajouter partout -->
                <licence
-                  target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr/"
-                  >
+                  target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr/">
                   <p>Ce(tte) œuvre est mise à disposition selon les termes
                      de la Licence Creative Commons Attribution - Pas
                      d’Utilisation Commerciale - Partage dans les Mêmes
                      Conditions 3.0 France.</p>
                   <graphic
-                     url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png" />
+                     url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png"
+                  />
                </licence>
                <p>Le Centre de théorie et d'analyse du droit
                   (UMR 7074) met à disposition cette ressource électronique
@@ -148,7 +148,7 @@
                   intellectuelle sur le droit d'auteur (L111-1) et sur les bases
                   de données (L341-1), selon les termes de la licence Creative
                   Commons : « Paternité - Pas d'Utilisation Commerciale - Pas de
-                  Modification ; 3.0 France ». <lb />Cette licence est
+                  Modification ; 3.0 France ». <lb/>Cette licence est
                   disponible en ligne : <ref
                      target="http://creativecommons.org/licences/by-nc-sa/3.0/fr"
                      >http://creativecommons.org/licenses/by-nc/3.0/fr/</ref> ou
@@ -162,11 +162,11 @@
                   obtenue auprès du Centre de théorie et d'analyse du droit.</p>
                <p>Paternité : Le Centre de théorie et d'analyse du droit demande
                   à ce que toute publication dérivée de ses ressources
-                  électroniques comporte : <lb />1. le nom du Centre de théorie
+                  électroniques comporte : <lb/>1. le nom du Centre de théorie
                   et d'analyse du droit et, pour les publications électroniques,
-                  son logo <lb />2. l'URI permettant d'accéder à la page citée
+                  son logo <lb/>2. l'URI permettant d'accéder à la page citée
                   sur notre site, ou à la page d'accueil de la ressource
-                  <lb />3. la date du fichier source utilisé. </p>
+                  <lb/>3. la date du fichier source utilisé. </p>
                <p>Vous êtes libres de remixer, arranger et adapter cette œuvre à
                   des fins non commerciales, tant que vous nous créditez et que
                   les nouvelles œuvres sont diffusées selon les mêmes
@@ -212,11 +212,14 @@
                <msContents>
                   <msItemStruct>
                      <author>
-                        <persName xml:lang="fre" full="yes">Desgodets, Antoine
+                        <persName xml:lang="fre" full="yes"
+                           >Desgodets, Antoine
                            (1653-1728)</persName>
                      </author>
-                     <title type="supplied">Traité des ordres de l’architecture</title>
-                     <title type="full">Traité de ordres d’architecture et de
+                     <title type="supplied"
+                        >Traité des ordres de l’architecture</title>
+                     <title type="full"
+                        >Traité de ordres d’architecture et de
                         leurs parties divisés en deux parties. La première
                         contient la description des cinq ordres et de leurs
                         accompagnements. La seconde renferme la manière de les
@@ -224,7 +227,8 @@
                         Architecte du roy et Professeur de l’Accadémie Royale
                         d’Architecture</title>
                      <!-- TODO : vérifier -->
-                     <textLang mainLang="fre">texte en
+                     <textLang mainLang="fre"
+                        >texte en
                         français</textLang>
                   </msItemStruct>
                </msContents>
@@ -233,14 +237,17 @@
                   <objectDesc form="codex">
                      <supportDesc material="paper">
                         <support>
-                           <p><objectType>codex</objectType>, <material>papier à la cuve</material>.</p>
-                           <p><watermark>Filigranes (dont certains millésimés <date notBefore="1742">1742</date>)</watermark>.</p>
+                           <p><objectType>Codex</objectType>, <material>papier à la cuve</material>. </p>
+                           <p><watermark>Filigranes (dont certains millésimés <date
+                                    notBefore="1742"
+                              >1742</date>)</watermark>.</p>
                         </support>
                         <extent>
                            <dimensions type="leaves">
-                              <dim quantity="182" unit="leaves">182 pages comprenant 62 planches</dim>
-                              <height quantity="330" unit="mm" />
-                              <width quantity="280" unit="mm" />
+                              <dim quantity="182" unit="leaves"
+                                 >182 pages comprenant 62 planches</dim>
+                              <height quantity="330" unit="mm"/>
+                              <width quantity="280" unit="mm"/>
                               <!-- TODO : donner l'épaisseur -->
                            </dimensions>
                            <!-- dimensions est répétable -->
@@ -249,13 +256,15 @@
                      </supportDesc>
                      <layoutDesc>
                         <!-- vérifier le nombre de lignes -->
-                        <layout columns="1" ruledLines="30">texte sur une
+                        <layout columns="1" ruledLines="30"
+                           >texte sur une
                            colonne, environ 30 lignes par page</layout>
                         <!-- layout est répétable et peut contenir une localisation avec locus -->
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote xml:id="o6Hand1" scope="major">Plume et encre d'une écriture régulière assez liée avec quelques ratures.</handNote>
+                     <handNote xml:id="o6Hand1" scope="major"
+                        >Plume et encre d'une écriture régulière assez liée avec quelques ratures.</handNote>
                   </handDesc>
                   <decoDesc>
                      <decoNote>Le manuscrit contient 62 planches au lavis d'une
@@ -267,7 +276,8 @@
                </physDesc>
                <history>
                   <acquisition>
-                     <p>Legs Godfrey Samuel en <date when="1982-12">décembre 1982</date></p>
+                     <p>Legs Godfrey Samuel en <date when="1982-12"
+                           >décembre 1982</date></p>
                   </acquisition>
                </history>
                <additional>
@@ -289,11 +299,13 @@
          <editorialDecl>
             <correction>
                <p>La syntaxe originale du manuscrit a été respectée en suivant
-                  les indications de Bernard Barbiche, <ref type="external"
+                  les indications de Bernard Barbiche, <ref
+                     type="external"
                      target="http://theleme.enc.sorbonne.fr/cours/edition_epoque_moderne/edition_des_textes"
-                     >Conseils pour l’édition des textes de l’époque moderne
-                        (XVI<hi rend="superscript">e</hi>-XVIII<hi
-                        rend="superscript">e</hi> siècle)</ref>.</p>
+                        >Conseils pour l’édition des textes de l’époque moderne
+                        (XVI<hi
+                        rend="superscript">e</hi>-XVIII<hi rend="superscript"
+                        >e</hi> siècle)</ref>.</p>
             </correction>
             <hyphenation>
                <p>Pour les ouvrages imprimés, il n'a pas été tenu compte de
@@ -327,15 +339,18 @@
          <samplingDecl>
             <p>Le manuscrit a été transcrit intégralement.</p>
          </samplingDecl>
-         <variantEncoding method="location-referenced" location="external" />
+         <variantEncoding method="location-referenced" location="external"/>
       </encodingDesc>
       <!-- présentation du profil de fichier -->
       <profileDesc>
-         <creation notBefore="1742">XVIII<hi rend="superscript">e</hi> siècle (après 1742)</creation>
+         <creation notBefore="1742">XVIII<hi rend="superscript"
+            >e</hi> siècle (après 1742)</creation>
          <langUsage>
-            <language ident="fre" usage="99">Français (langue principale du
+            <language ident="fre" usage="99"
+               >Français (langue principale du
                corpus)</language>
-            <language ident="lat" usage="01">Latin (langue utilisée dans le
+            <language ident="lat" usage="01"
+               >Latin (langue utilisée dans le
                corpus)</language>
          </langUsage>
          <textClass>
@@ -345,13 +360,15 @@
                <term>France</term>
                <term>Architecture –– Philosophie</term>
             </keywords>
-            <keywords xml:lang="eng" scheme="http://id.loc.gov/authorities/about.html#lcsh">
+            <keywords xml:lang="eng"
+               scheme="http://id.loc.gov/authorities/about.html#lcsh">
                <term>Architecture, Modern</term>
                <term>17th-18th centuries</term>
                <term>France</term>
                <term>Architecture -- Philosophy</term>
             </keywords>
-            <classCode scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
+            <classCode
+               scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
                <term>Text</term>
             </classCode>
          </textClass>
@@ -363,18 +380,18 @@
    </teiHeader>
    <facsimile corresp="#o6ImagesLicence" xml:id="o6Facs">
       <surface xml:id="o6FacsPl0001">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsO6Pl0001.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/facsO6Pl0001.jpg"/>
          <graphic n="medium" mimeType="image/jpg"
-            url="facs/medium/facsO6Pl0001.jpg" />
+            url="facs/medium/facsO6Pl0001.jpg"/>
          <graphic n="thumb" mimeType="image/jpg"
-            url="facs/thumbs/facsO6Pl0001.jpg" />
+            url="facs/thumbs/facsO6Pl0001.jpg"/>
          <!-- si nécessaire -->
          <desc>description du fichier</desc>
       </surface>
    </facsimile>
    <text>
       <front>
-         <div xml:lang="fre" type="transcription" />
+         <div xml:lang="fre" type="transcription"/>
       </front>
       <body>
          <div xml:lang="fre" type="transcription">
@@ -382,7 +399,7 @@
          </div>
       </body>
       <back>
-         <div xml:lang="fre" type="transcription"></div>
+         <div xml:lang="fre" type="transcription"/>
          <div xml:lang="fre">
             <!-- Inclusion du fichier des figures -->
             <xi:include href="divs/desgodetsO6Figures.tei.xml" parse="xml">
