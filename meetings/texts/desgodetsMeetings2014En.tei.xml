@@ -16,7 +16,7 @@
             <!-- mentions de titre et de responsabilité -->
             <titleStmt>
                 <title xml:lang="fre" type="main">International Conference</title>
-                <title xml:lang="fre" type="subSubSub">Call for Abstracts</title>
+                <title xml:lang="fre" type="sub">Call for Abstracts</title>
                 <!-- mention de responsabilité principale (responsable scientifique de l'édition) -->
                 <principal>
                     <persName ref="#RC">
@@ -223,9 +223,9 @@
         <front xml:id="meetings2014EnFront">
             <titlePage xml:id="meetings2014Front00" xml:lang="eng">
                 <docTitle>
-                    <titlePart type="main"
-                        >Antoine Desgodets [Desgodetz], Combining Theory and Practice</titlePart>
-                    <titlePart type="sub">The Modern Architect's New Knowledge</titlePart>
+                    <titlePart type="main">The Modern Architect's New Knowledge</titlePart>
+                    <titlePart type="sub"
+                        >Antoine Desgodets, Combining Theory and Practice</titlePart>
                 </docTitle>
                 <argument>
                     <p>International Conference – Call for Abstracts</p>

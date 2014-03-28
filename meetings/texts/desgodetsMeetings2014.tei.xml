@@ -16,7 +16,7 @@
             <!-- mentions de titre et de responsabilité -->
             <titleStmt>
                 <title xml:lang="fre" type="main">Colloques</title>
-                <title xml:lang="fre" type="subSubSub"
+                <title xml:lang="fre" type="sub"
                     >Appel à communication du colloque de 2014</title>
                 <!-- mention de responsabilité principale (responsable scientifique de l'édition) -->
                 <principal>
@@ -224,9 +224,9 @@
         <front xml:id="meetings2014Front">
             <titlePage xml:id="meetings2014Front00">
                 <docTitle>
-                    <titlePart type="main"
-                        >Antoine Desgodets [Desgodetz], entre théorie et pratique</titlePart>
-                    <titlePart type="sub">Les nouveaux savoirs de l'architecte moderne</titlePart>
+                    <titlePart type="main">Les nouveaux savoirs de l'architecte moderne</titlePart>
+                    <titlePart type="sub"
+                        >Antoine Desgodets, entre théorie et pratique</titlePart>
                 </docTitle>
                 <argument>
                     <p>Appel à communication du colloque international de 2014</p>
@@ -259,7 +259,10 @@
             <div xml:id="meetings2014BodyFr" xml:lang="fre">
                 <div xml:id="meetings2014BodyFr01" type="part" n="1">
                     <head><label>I.</label> Antoine Desgodets, cet inconnu : vers une biographie</head>
-                    <p>Antoine Desgodets, que nous connaissons surtout par Les <hi rend="italic">Édifices antiques de Rome</hi>, son œuvre savante majeure émanant d’une commande royale, mais aussi par <hi rend="italic">Les Loix des bâtiments</hi>, ouvrage juridique posthume inaugurant une nouvelle discipline, reste encore aujourd’hui peu étudié. Si nous lui découvrons un père ébéniste à Paris, que savons-nous de la famille dont il était issu et de celle qu’il fonda ? De quelles sources disposons-nous pour écrire la biographie de cet architecte ? De nouvelles archives notariales parisiennes mises au jour méritent une étude approfondie.</p>
+                    <p>Antoine Desgodets, que nous connaissons surtout par Les <hi rend="italic"
+                            >Édifices antiques de Rome</hi>, son œuvre savante majeure émanant d’une commande royale, mais aussi par <hi
+                            rend="italic"
+                        >Les Loix des bâtiments</hi>, ouvrage juridique posthume inaugurant une nouvelle discipline, reste encore aujourd’hui peu étudié. Si nous lui découvrons un père ébéniste à Paris, que savons-nous de la famille dont il était issu et de celle qu’il fonda ? De quelles sources disposons-nous pour écrire la biographie de cet architecte ? De nouvelles archives notariales parisiennes mises au jour méritent une étude approfondie.</p>
                     <p>Plus largement, Desgodets maintient-il des relations avec les gens des métiers du bâtiment ou cherche-t-il au contraire à s’en détacher dans un mouvement constant pour parvenir au sommet de la société des gens de cour ? Que sait-on de sa vie avant son entrée à l’Académie, et notamment jusqu’à ses 20 ans ? La protection dont il bénéficia pour séjourner à Rome, en dehors de l’Académie de France, sa détention par des corsaires à Alger, restent aussi mystérieuses. De même, il serait intéressant de s’interroger sur les raisons qui le menèrent à la fonction de professeur à l’Académie royale d’architecture, où il fut le premier véritable architecte, après une lignée composée exclusivement d’hommes de sciences, F. Blondel - bien que celui-ci fut aussi architecte - et les La Hire. Quels réseaux fréquentait-il ? Celui des sociétés savantes (les hommes de sciences ou des techniques), les grandes agences d’architecture ou les jeunes architectes, les gens des finances (banquiers, spéculateurs…), les grands commis de l’Etat (surintendants, ministres) ou l’administration subalterne, la société provinciale, étrangère (en particulier, la Suède) ou parisienne, le monde artistique ou celui des artisans ?</p>
                 </div>
                 <div xml:id="meetings2014BodyFr02" type="part" n="2">
@@ -271,18 +274,23 @@
                 </div>
                 <div xml:id="meetings2014BodyFr03" type="part" n="3">
                     <head><label>III.</label> Les écrits d’un praticien</head>
-                    <p>Si l’œuvre majeure d’Antoine Desgodets, Les <hi rend="italic">Édifices antiques de Rome dessinés et mesurés très exactement</hi> (Paris, chez Jean-Baptiste Coignard, 1687), a fait l’objet de nombreuses publications et a connu ces dernières années plusieurs éditions critiques, il est désormais temps de faire le point sur les raisons exactes de cette mission à Rome, sur la façon dont Desgodets a travaillé, et sur la fortune de l’ouvrage, réédité en France et à l’étranger, annoté, voire traduit. Il est tout simplement temps de mesurer pleinement l’influence de cette œuvre décrite comme majeure dans l’histoire de l’architecture occidentale. </p>
-                    <p>Devenu professeur à l’Académie, Desgodets s’engage dans des champs inédits de l’architecture et peut apparaître à ce titre comme un théoricien très novateur. Il conviendrait d’étudier précisément les apports des quatre cours par rapport à ceux de ses prédécesseurs dont nous gardons la trace (F. Blondel, Ph. de La Hire), voire des traités d’architecture antérieurs : le rapport opéré par Desgodets entre théorie et pratique est-il vraiment nouveau, ou ne fait-il que consacrer une situation déjà existante depuis la fin du XVII<hi rend="superscript">e</hi> siècle ? Comment ses suiveurs à l’Académie, ou en dehors à l’Ecole des arts, les écoles gratuites ou les ateliers privés, ont-ils appréhendé, renouvelé ou tronqué les sujets de ses cours ? Ces derniers ont-ils conservé une dimension modélisatrice ? Au XIX<hi rend="superscript">e</hi> siècle, qu’est-ce que les enseignements des grandes écoles, des Beaux-arts, des arts décoratifs, des arts et métiers ont-ils conservé de l’œuvre de Desgodets ? L’analyse des manuscrits (transcrits, copiés ou autographes) portant sur les ordres, les commodités, le toisé et les servitudes, permet de découvrir comment ces textes et ces figures ont été établis (originalité ou tradition de ses sources) et pour quelles finalités (maîtriser la concurrence d’avec les entrepreneurs, assoir une éthique de leur profession, servir de modèles). Il ne faut pas omettre non plus l’impact des cours sur la nature même de l’architecture et de l’architecte, qui devient alors « moderne ». Nous invitons bien entendu les auteurs à participer à l’analyse de ces cours désormais disponibles en ligne.</p>
+                    <p>Si l’œuvre majeure d’Antoine Desgodets, Les <hi rend="italic"
+                            >Édifices antiques de Rome dessinés et mesurés très exactement</hi> (Paris, chez Jean-Baptiste Coignard, 1687), a fait l’objet de nombreuses publications et a connu ces dernières années plusieurs éditions critiques, il est désormais temps de faire le point sur les raisons exactes de cette mission à Rome, sur la façon dont Desgodets a travaillé, et sur la fortune de l’ouvrage, réédité en France et à l’étranger, annoté, voire traduit. Il est tout simplement temps de mesurer pleinement l’influence de cette œuvre décrite comme majeure dans l’histoire de l’architecture occidentale. </p>
+                    <p>Devenu professeur à l’Académie, Desgodets s’engage dans des champs inédits de l’architecture et peut apparaître à ce titre comme un théoricien très novateur. Il conviendrait d’étudier précisément les apports des quatre cours par rapport à ceux de ses prédécesseurs dont nous gardons la trace (F. Blondel, Ph. de La Hire), voire des traités d’architecture antérieurs : le rapport opéré par Desgodets entre théorie et pratique est-il vraiment nouveau, ou ne fait-il que consacrer une situation déjà existante depuis la fin du XVII<hi
+                            rend="superscript"
+                            >e</hi> siècle ? Comment ses suiveurs à l’Académie, ou en dehors à l’Ecole des arts, les écoles gratuites ou les ateliers privés, ont-ils appréhendé, renouvelé ou tronqué les sujets de ses cours ? Ces derniers ont-ils conservé une dimension modélisatrice ? Au XIX<hi
+                            rend="superscript"
+                        >e</hi> siècle, qu’est-ce que les enseignements des grandes écoles, des Beaux-arts, des arts décoratifs, des arts et métiers ont-ils conservé de l’œuvre de Desgodets ? L’analyse des manuscrits (transcrits, copiés ou autographes) portant sur les ordres, les commodités, le toisé et les servitudes, permet de découvrir comment ces textes et ces figures ont été établis (originalité ou tradition de ses sources) et pour quelles finalités (maîtriser la concurrence d’avec les entrepreneurs, assoir une éthique de leur profession, servir de modèles). Il ne faut pas omettre non plus l’impact des cours sur la nature même de l’architecture et de l’architecte, qui devient alors « moderne ». Nous invitons bien entendu les auteurs à participer à l’analyse de ces cours désormais disponibles en ligne.</p>
                     <p>Sur chacun de ces champs, nous ne saurions nous contenter d’une analyse uniquement française. L’apport du regard des théoriciens et praticiens étrangers nous apparaît indispensable.</p>
                 </div>
                 <div xml:id="meetings2014BodyEn04" type="part" n="4">
                     <head>Règlement</head>
                     <p>Nous invitons les chercheurs de toutes les disciplines concernées par la figure emblématique et l’œuvre d’Antoine Desgodets à soumettre une proposition de communication à ce colloque international. Les auteurs retenus auront 20 minutes pour présenter leur présentation. La proposition, en français ou en anglais, devra inclure :<list>
-                        <item>un titre suivi du (ou des) nom(s) du (ou des) auteur(s) et de son (ou de leurs) institutions ;</item>
-                        <item>un argumentaire développé de 500 mots maximum contenant obligatoirement les sources sollicitées ;</item>
-                        <item>six mots clés ;</item>
-                        <item>un court curriculum vitae d’une page maximum indiquant coordonnées, statuts, laboratoire de rattachement le cas échéant, ainsi que les plus importantes ou plus récentes publications.</item>
-                    </list>
+                            <item>un titre suivi du (ou des) nom(s) du (ou des) auteur(s) et de son (ou de leurs) institutions ;</item>
+                            <item>un argumentaire développé de 500 mots maximum contenant obligatoirement les sources sollicitées ;</item>
+                            <item>six mots clés ;</item>
+                            <item>un court curriculum vitae d’une page maximum indiquant coordonnées, statuts, laboratoire de rattachement le cas échéant, ainsi que les plus importantes ou plus récentes publications.</item>
+                        </list>
                     </p>
                     <p>La proposition doit nous parvenir par mail (<ref type="external"
                             target="mailto:rcarvais@noos.fr">rcarvais[@]noos.fr</ref>) <hi
