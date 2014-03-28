@@ -9,7 +9,7 @@
     <head>Notes</head>
     <note xml:id="tN0001">
         <p> Ce toisé de <persName ref="#desgodets"
-            >Desgodets</persName> est suivi
+                >Desgodets</persName> est suivi
                 d’exemples – d’une autre main – pratiques de différents
                 éléments d’architecture mesurés et dessinés (p.
                 169-252). Cette partie du manuscrit mériterait une
@@ -19,32 +19,32 @@
                 toisé des bâtiments », relié avec figures, appartenant
                 au fonds <persName>Lesage</persName>, provenant du fonds <persName>Corencez</persName><!-- à indexer -->, nièce de
                 <persName
-            ref="#pronyGaspardClairFrançoisMarieRicheDe"
-            >Prony</persName>. Il a été écarté du corpus en raison, lors de sa
+                ref="#pronyGaspardClairFrançoisMarieRicheDe"
+                >Prony</persName>. Il a été écarté du corpus en raison, lors de sa
                 consultation, de sa non-correspondance avec le cours de
                 <persName
-            ref="#desgodets">Desgodets</persName>.</p>
+                ref="#desgodets">Desgodets</persName>.</p>
     </note>
     <note xml:id="tN0002">
-        <p>Henry LEMONNIER, Procès-verbaux de l’Académie royale d’architecture 1671-1793, Paris, Jean Schemit, Édouard Champion puis Armand Colin, 1911-1929, séance du 7 février 1752. séance du 7 février 1752.</p>
+        <p><bibl corresp="#lemonnier">séance du 7 février 1752. séance du 7 février 1752.</bibl></p>
     </note>
     <note xml:id="tN0003">
         <p> De la même façon, les manuscrits
                 T8 et T9 semblent correspondre respectivement à des
                 cours dispensés <date
-            when="1736">en 1736</date> et <date when="1745"
-            >en 1745</date> sur la base du cours
+                when="1736">en 1736</date> et <date when="1745"
+                >en 1745</date> sur la base du cours
                 de <persName
-            ref="#desgodets"
-            >Desgodets</persName>, ce qui prouverait la longévité et la
+                ref="#desgodets"
+                >Desgodets</persName>, ce qui prouverait la longévité et la
                 forte destinée de ce texte. Nous avons l’intention de
                 publier le cours de <persName
-            ref="#camusCharlesEtienneLouis"
-            >Camus</persName> (Archives de l’Académie des
-                Beaux-arts de L’Institut de France, B8, 1733-1734) et
+                ref="#camusCharlesEtienneLouis"
+                >Camus</persName> (Archives de l’Académie des
+                Beaux-arts de l’Institut de France, B8, 1733-1734) et
                 celui de <persName
-            ref="#ginetNicolas">Ginet</persName> (publié <date when="1761"
-            >en 1761</date>).</p>
+                ref="#ginetNicolas">Ginet</persName> (publié <date when="1761"
+                >en 1761</date>).</p>
     </note>
     <note xml:id="tN0004">
         <p> « Mathias Mesange, garde de la
@@ -67,7 +67,8 @@
     </note>
     <note xml:id="tN0008">
         <p><bibl corresp="#hernu2010"/> ; <bibl corresp="#hernu2012"/> ; <bibl
-            corresp="#hernu2013"/> </p>
+                corresp="#hernu2013"/>
+        </p>
     </note>
     <note xml:id="tN0009">
         <p>
@@ -95,10 +96,10 @@
     </note>
     <note xml:id="tN0014">
         <p><bibl corresp="#gazetteArtsEtMetiers1775"
-            />. La critique est
+                />. La critique est
                 également sévère chez <persName
-            ref="#morisotMadeleineRoseJoseph"
-            >Joseph-Madeleine-Rose
+                ref="#morisotMadeleineRoseJoseph"
+                >Joseph-Madeleine-Rose
                     Morisot</persName>. Après un long argumentaire, il écrit qu’on
                 ne peut le lire <quote>qu’avec dégoût et que jamais
                 personne […] ne s’est avisé de [le] citer ou de
@@ -111,7 +112,7 @@
         </p>
     </note>
     <note xml:id="tN0016">
-        <p> La longueur d’une ellipse ne
+        <p>La longueur d’une ellipse ne
                 s’exprime pas de façon simple en fonction des axes,
                 mais nécessite l’utilisation « d’intégrale
                 elliptique ».</p>
@@ -133,21 +134,21 @@
                 confusion et une erreur, nous semble-t-il. D’une
                 part, si un « Delepé » s’est occupé de toisé ce
                 serait <persName
-            ref="#lEpeeCharlesFrancois"
-            >Charles-François De L’Épée</persName>, architecte de 2<hi
-            rend="superscript"
-            >e</hi> classe de l’Académie,
+                ref="#lEpeeCharlesFrancois"
+                >Charles-François De L’Épée</persName>, architecte de 2<hi
+                rend="superscript"
+                >e</hi> classe de l’Académie,
                 entrepreneur, père du célèbre <persName
-            ref="#lEpeeCharlesMichel"
-            >abbé Charles-Michel</persName>
+                ref="#lEpeeCharlesMichel"
+                >abbé Charles-Michel</persName>
                 qui emprunte la copie manuscrite du cours de
                 <persName
-            ref="#desgodets"
-            >Desgodets</persName> à l’Académie et assiste à toutes les
+                ref="#desgodets"
+                >Desgodets</persName> à l’Académie et assiste à toutes les
                 lectures académiques sur le sujet dans <date
-            from="1750" to="1759">les années
+                from="1750" to="1759">les années
                 1750</date> (<bibl
-            corresp="#lemonnier"
+                corresp="#lemonnier"
             >t. VII, p. 68</bibl>). D’autre part,
                 cet architecte n’écrivit aucun toisé.</p>
     </note>
@@ -162,12 +163,12 @@
         </p>
     </note>
     <note xml:id="tN0022">
-        <p> T9, [p. 1].</p>
+        <p><ref type="internal" target="/toise-t9">T9</ref>, p. 1.</p>
     </note>
     <note xml:id="tN0023">
-        <p> T9, [p. 2-3].</p>
+        <p><ref type="internal" target="/toise-t9">T9</ref>, p. 2-3.</p>
     </note>
     <note xml:id="tN0024">
-        <p> T9, [p. 3].</p>
+        <p>T9, p. 3.</p>
     </note>
 </div>
