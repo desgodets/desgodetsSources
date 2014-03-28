@@ -531,7 +531,7 @@
                 <p>fol. 2 </p>
             </div>-->
             <titlePage xml:id="t9Front.01" xml:lang="fre">
-                <!-- <div> <p>: 2531<hi rend="annotation_reference"> <note place="comment" resp="Joëlle_Barreau"> <date when="2010-10-18T17:10:00Z"/>en haut à droite, entouré d’un cercle </note> </hi> / « A »<hi rend="annotation_reference"> <note place="comment" resp="Joëlle_Barreau"> <date when="2010-10-18T17:12:00Z"/>En haut, à droite, dans la petite marge délimitée au crayon sur toute la hauteur de la feuille</note></hi> </p> </div> -->
+                <!-- <div> <p>: 2531<hi rend="annotation_reference"> <note place="comment" resp="Joëlle_Barreau"> <date when="2010-10-18T17:10:00Z"/>en haut à droite, entouré d’un cercle </note> </hi> / « A »<hi rend="annotation_reference"> <note place="comment" resp="Joëlle_Barreau"> <date when="2010-10-18T17:12:00Z"/> En haut, à droite, dans la petite marge délimitée au crayon sur toute la hauteur de la feuille</note></hi> </p> </div> -->
                 <pb xml:id="t9F1"/>
                 <docTitle>
                     <titlePart>Traitté du toisé des 
@@ -904,7 +904,7 @@
                                 <reg>cintre</reg>
                             </choice></term> de
                             l’<term type="gT"
-                            ref="#arc">arc</term>jusqu’au bas des <term type="gT" ref="#parement"
+                            ref="#arc">arc</term> jusqu’au bas des <term type="gT" ref="#parement"
                             >parements</term> de
                         leur première <term
                             type="gT" ref="#assise">assise</term>, le tout sur leur <term type="gT"
@@ -973,7 +973,7 @@
                                     type="gT" ref="#balustrade"
                                     >balustrade</term> au pourtour d’un
                                 <term
-                                    type="gT" ref="#edifice">édifice</term>ou d’une <term type="gT"
+                                    type="gT" ref="#edifice">édifice</term> ou d’une <term type="gT"
                                     ref="#terrasse" ana="#iterrasse"
                                     >terrasse</term>, et autres sortes d’<term type="gT"
                                     ref="#ouvrage"
@@ -1850,7 +1850,7 @@
                         <p xml:id="t9BodyFr01.03.p024">24. Pour le <term type="gT" ref="#toise"
                                 >toisé</term> superficiel des <term type="gT" ref="#marche"
                                 >marches</term> de <term type="gT" ref="#pierreDeTaille"
-                                >pierre de taille</term>s, l’on
+                                >pierre de tailles</term>, l’on
                             mesure leur <term
                                 type="gT" ref="#longueur"
                                 >longueur</term> sur leur pourtour de ce qui est apparent de la
@@ -3098,7 +3098,7 @@
                         <p xml:id="t9BodyFr01.06.p016">14. Exemple à une <term type="gT"
                                 ref="#vouteEnBerceau" ana="#ivouteEnBerceau"
                                 >voûte en berceau
-                        </term>en  <term type="gT"
+                        </term> en <term type="gT"
                                 ref="#pleinCintre"><choice>
                                     <orig>plein ceintre</orig>
                                     <reg>plein-cintre</reg>
@@ -3117,7 +3117,7 @@
                         <p xml:id="t9BodyFr01.06.p017">15. Autre exemple d’une <term type="gT"
                                 ref="#vouteEnBerceau" ana="#ivouteEnBerceau"
                                 >voûte en berceau
-                            </term>dont le <term
+                            </term> dont le <term
                                 type="gT" ref="#cintre"><choice>
                                     <orig>ceintre</orig>
                                     <reg>cintre</reg>
@@ -3161,7 +3161,7 @@
                         <p xml:id="t9BodyFr01.06.p019">17. Lorsque la <term type="gT"
                                 ref="#vouteEnBerceau" ana="#ivouteEnBerceau"
                                 >voûte en berceau
-                            </term>est sur un plan rectangle, c’est à dire plus long d’un sens que
+                            </term> est sur un plan rectangle, c’est à dire plus long d’un sens que
                             d’un autre à <term
                                 type="gT" ref="#angle">angles</term>
                             <term type="gT" ref="#droit"
@@ -3217,7 +3217,7 @@
                             des <term
                                 type="gT" ref="#vouteEnBerceau" ana="#ivouteEnBerceau"
                                 >voûte
-                                en berceau</term>soient faites par les <term
+                                en berceau</term> soient faites par les <term
                                 type="gT" ref="#circonference">circonférences</term>
                             <term type="gT" ref="#geometrique"
                                 >géométriques</term>,
@@ -3342,7 +3342,7 @@
                         <p xml:id="t9BodyFr01.06.p025">23. L’on peut avoir la superficie de la <term
                                 type="gT" ref="#vouteEnBerceau" ana="#ivouteEnBerceau"
                                 >voûte en
-                                berceau </term>sur le même plan trapèze à très peu de chose près par
+                                berceau </term> sur le même plan trapèze à très peu de chose près par
                             une pratique plus aisée en multipliant la <term
                                 type="gT" ref="#circonference">circonférence</term> du <term
                                 type="gT" ref="#cintre"><choice>
@@ -3440,7 +3440,7 @@
                             aux <term
                                 type="gT" ref="#vouteEnBerceau" ana="#ivouteEnBerceau"
                                 >voûte
-                                en berceau</term>en  <term
+                                en berceau</term> en <term
                                 type="gT" ref="#pleinCintre"><choice>
                                     <orig>plein ceintre</orig>
                                     <reg>plein-cintre</reg>
@@ -3482,7 +3482,7 @@
                                 >voûtes</term>, et on le rabat de la quantité que l’usage accorde
                             pour le remplissage des reins de la <term
                                 type="gT" ref="#voute"
-                                >voûte</term>.<lb/>27. De quelque qualité de
+                                >voûte</term>. <lb/>27. De quelque qualité de
                             <term
                                 type="gT" ref="#materiau">matériaux</term> que soient les <term
                                 type="gT" ref="#voute">voûtes</term>, en <term type="gT"
@@ -3828,7 +3828,7 @@
                             les <term
                                 type="gT" ref="#vouteEnBerceau" ana="#ivouteEnBerceau"
                                 >voûte
-                                en berceau</term>la superficie des <term
+                                en berceau</term> la superficie des <term
                                 type="gT" ref="#vouteDArrete" ana="#ivouteDArrete">voûte d’<choice>
                                     <orig>arreste</orig>
                                     <reg>arête</reg>
@@ -3932,7 +3932,7 @@
                                 >saillies</term> des dosserets
                             seront touttes toisées comme des <term
                                 type="gT" ref="#vouteEnBerceau" ana="#ivouteEnBerceau"
-                                >voûte en berceau</term>en  <term type="gT" ref="#pleinCintre"><choice>
+                                >voûte en berceau</term> en  <term type="gT" ref="#pleinCintre"><choice>
                                     <orig>plein ceintre</orig>
                                     <reg>plein-cintre</reg>
                                 </choice></term>
@@ -3945,7 +3945,7 @@
                         <p xml:id="t9BodyFr01.07.p015">12. Lorsqu’aux <term type="gT"
                                 ref="#vouteEnBerceau" ana="#ivouteEnBerceau"
                                 >voûte en
-                            berceau</term>il se fait des lunettes de la même <term
+                            berceau</term> il se fait des lunettes de la même <term
                                 type="gT" ref="#hauteur">hauteur</term> de la <term type="gT"
                                 ref="#voute"
                                 >voûte</term>,
@@ -4441,7 +4441,7 @@
                             égale superficie en la manière expliquée au chapitre des <term
                                 type="gT" ref="#vouteEnBerceau" ana="#ivouteEnBerceau"
                                 >voûtes en
-                                berceau</term>et opérer comme il est dit cy devant pour une <term
+                                berceau</term> et opérer comme il est dit cy devant pour une <term
                                 type="gT" ref="#vouteDeCloitre" ana="#ivouteDeCloitre"
                                 >voûte de
                                 cloître</term> qui seroit sur un plan rectangle de même <term
@@ -4456,9 +4456,9 @@
                                 >hauteur</term> que le plan est au
                             plan.</p>
                         <p xml:id="t9BodyFr01.08.p018">12. Les <term type="gT" ref="#arête"><choice>
-                                    <orig>arreste</orig>
-                                    <reg>arête</reg>
-                                </choice>s</term> des <term type="gT" ref="#vouteDeCloitre"
+                                    <orig>arrestes</orig>
+                                    <reg>arêtes</reg>
+                                </choice></term> des <term type="gT" ref="#vouteDeCloitre"
                                 ana="#ivouteDeCloitre">voûtes de cloître</term> se <term type="gT"
                                 ref="#toiser"
                                 >toisent</term> dans leur
@@ -4469,9 +4469,9 @@
                                 type="gT" ref="#voute"
                                 >voûte</term> se continue au derrière des <term type="gT"
                                 ref="#arête"><choice>
-                                    <orig>arreste</orig>
-                                    <reg>arête</reg>
-                                </choice>s</term>
+                                    <orig>arrestes</orig>
+                                    <reg>arêtes</reg>
+                                </choice></term>
                             <term type="gT" ref="#creuses"
                                 >creuses</term> pour la liaison des 2
                             <term
@@ -4558,13 +4558,13 @@
                             quarré sont ensemble égales à 2 fois la superficie d’une <term
                                 type="gT" ref="#vouteEnBerceau" ana="#ivouteEnBerceau"
                                 >voûte en berceau
-                            </term>de même <term
+                            </term> de même <term
                                 type="gT" ref="#hauteur">hauteur</term> sur le même plan.</p>
                         <!-- TODO peut-être une division -->
                         <p xml:id="t9BodyFr01.08.p023">16. <hi rend="bigger">Exemple</hi> une <term
                                 type="gT" ref="#vouteEnBerceau" ana="#ivouteEnBerceau"
                                 >voûte en
-                                berceau </term>en  <term
+                                berceau </term> en <term
                                 type="gT" ref="#pleinCintre"><choice>
                                     <orig>plein ceintre</orig>
                                     <reg>plein-cintre</reg>
@@ -4593,7 +4593,7 @@
                             contient en superficie 392 pieds faisant ensemble 616 pieds égal au
                             double de la <term
                                 type="gT" ref="#vouteEnBerceau" ana="#ivouteEnBerceau"
-                                >voûte en berceau </term>en  <term type="gT" ref="#pleinCintre"><choice>
+                                >voûte en berceau </term> en <term type="gT" ref="#pleinCintre"><choice>
                                     <orig>plein ceintre</orig>
                                     <reg>plein-cintre</reg>
                                 </choice></term> la
@@ -4722,7 +4722,7 @@
                                 >voûte de cloître</term> ensemble sont égales
                             aux deux superficies des <term
                                 type="gT" ref="#vouteEnBerceau" ana="#ivouteEnBerceau"
-                                >voûtes en berceau</term>l’un sur le grand
+                                >voûtes en berceau</term> l’un sur le grand
                             <term
                                 type="gT" ref="#diametre"
                                 >diamettre</term> et l’autre sur le petit, touttes deux de la même <term
@@ -5543,7 +5543,7 @@
                             superficies des <term
                                 type="gT" ref="#vouteSpherique" ana="#ivouteSpherique"
                                 >voûtes sphériques</term> en <term type="gT" ref="#pendentif"
-                                >pendentifs</term>s sur un
+                                >pendentifs</term> sur un
                             plan quarré ou sur tel autre plan poligone recti<term
                                 type="gT" ref="#ligne"
                                 >ligne</term> qu’il sera
@@ -5639,7 +5639,7 @@
                                 type="gT" ref="#voute">voûte</term>.</p>
                         <p xml:id="t9BodyFr01.10.p029">14. Lorsque les reins de la <term type="gT"
                                 ref="#vouteSpherique" ana="#ivouteSpherique"
-                                >voûte sphérique</term>s
+                                >voûte sphérique</term> 
                             sont remplis de <term
                                 type="gT" ref="#maconnerie" ana="#imaconnerie"
                                 >maçonnerie</term> jusqu’au niveau du <term type="gT"
@@ -6187,7 +6187,7 @@
                             <term
                                 type="gT" ref="#toiser">toisent</term> comme des <term type="gT"
                                 ref="#vouteEnBerceau" ana="#ivouteEnBerceau"
-                                >voûtes en berceau</term>en différentes
+                                >voûtes en berceau</term> en différentes
                             manières qui seront expliquées par ordre chacune en particulier les cinq
                             premières dans ce chapitre et les <term
                                 type="gT" ref="#visSaintGilles" ana="#ivisSaintGilles"
@@ -6277,7 +6277,7 @@
                                     <reg>voûtes d'arête</reg>
                                 </choice></term> ensemble sont double de la <term type="gT"
                                 ref="#vouteEnBerceau" ana="#ivouteEnBerceau"
-                                >voûte en berceau </term>de même <term type="gT" ref="#cintre"><choice>
+                                >voûte en berceau</term> de même <term type="gT" ref="#cintre"><choice>
                                     <orig>ceintre</orig>
                                     <reg>cintre</reg>
                                 </choice></term> sur
@@ -6829,7 +6829,7 @@
                             fait pour <term
                                 type="gT" ref="#toiser">toiser</term> les <term type="gT"
                                 ref="#vouteEnBerceau" ana="#ivouteEnBerceau"
-                                >voûtes en berceau</term>des descentes
+                                >voûtes en berceau</term> des descentes
                             <term
                                 type="gT" ref="#droit">droites</term>.</p>
                         <p xml:id="t9BodyFr01.13.p002"
@@ -7071,13 +7071,13 @@
                                 ref="#parallele"
                                 >parallèle</term>à la rampante TX du point V milieu de la <term
                                 type="gT" ref="#rampe" ana="#irampe"
-                                >rampe </term>mener une autre <term type="gT" ref="#ligne"
+                                >rampe</term> mener une autre <term type="gT" ref="#ligne"
                                 >ligne</term> V-3
                             perpendiculaire ou <term
                                 type="gT" ref="#dEquerre">d'équerre</term> à la <term type="gT"
                                 ref="#ligne">ligne</term> TX rencontrant la <term type="gT"
                                 ref="#parallele"
-                                >parallèle</term>1-2
+                                >parallèle</term> 1-2
                             au point 3 ayant fait V-4 V 5 chacunes égales au demi 
                             <term
                                 type="gT" ref="#diametre"
@@ -7153,7 +7153,7 @@
                                 type="gT" ref="#voute"
                                 >voûtes</term>, il se fait plus aisément et plus promptement par la mécanique,
                             en mesurant manuellement le pourtour de la <term
-                                type="gT" ref="#rampe" ana="#irampe">rampe </term>des 2. <term
+                                type="gT" ref="#rampe" ana="#irampe">rampe</term> des 2. <term
                                 type="gT" ref="#naissance">naissances</term> de la <term type="gT"
                                 ref="#voute"
                                 >voûte</term>, l’une dans
@@ -7338,7 +7338,7 @@
                             <term
                                 type="gT" ref="#hauteur">hauteur</term> qui doit estre la <term
                                 type="gT" ref="#rampe" ana="#irampe"
-                                >rampe </term>sur le côté IK du quarré du milieu de la <term
+                                >rampe</term> sur le côté IK du quarré du milieu de la <term
                                 type="gT" ref="#voute"
                                 >voûte</term>,
                             laquelle <term type="gT"
@@ -7438,8 +7438,8 @@
                                 ref="#voute">voûte</term> Y&amp;Z de 20 pieds 4 pouces 6 <term
                                 type="gT" ref="#ligne">lignes</term> leur produit 1<subst>
                                 <add rend="overWriting">9</add>
-                            </subst>68. pieds 7 pouces 3 <term type="gT" ref="#ligne"
-                                >lignes</term>3/4. sera la superficie des 4 côtés
+                            </subst> 68. pieds 7 pouces 3 <term type="gT" ref="#ligne"
+                                >lignes</term> 3/4. sera la superficie des 4 côtés
                             de la <term
                                 type="gT" ref="#voute">voûte</term> Saint Gilles IKLM.</p>
                         <!-- TODO peut-être une division -->
@@ -7490,7 +7490,7 @@
                                 </choice></term>
                             <term type="gT" ref="#droit">droit</term>
                             <term type="gT" ref="#dEquerre">d'équerre</term> à la <term type="gT"
-                                ref="#rampe" ana="#irampe">rampe </term>de la <term type="gT"
+                                ref="#rampe" ana="#irampe">rampe</term> de la <term type="gT"
                                 ref="#voute"
                                 >voûte</term> au milieu d’un
                             des côtés du <term
@@ -7563,7 +7563,7 @@
                                 ref="#marche">marches</term> d’un <term type="gT" ref="#escalier"
                                 ana="#iescalier"
                                 >escalier
-                            </term>lesquelles sont toutes d’une égale <term
+                            </term> lesquelles sont toutes d’une égale <term
                                 type="gT" ref="#longueur"
                                 >longueur,</term> ainsi tous les
                             les <term
@@ -7769,7 +7769,7 @@
                                 type="gT" ref="#dEquerre">d'équerre</term> à la <term type="gT"
                                 ref="#rampe" ana="#irampe"
                                 >rampe
-                            </term>au droit des <term
+                            </term> au droit des <term
                                 type="gT" ref="#ligne">lignes</term> du milieu de la <term type="gT"
                                 ref="#largeur">largeur</term> de la <term type="gT" ref="#voute"
                                 >voûte</term> IKLM le 
@@ -7812,7 +7812,7 @@
                                 l’<term type="gT"
                                 ref="#escalier" ana="#iescalier"
                                 >escalier
-                            </term>se comptent pour la quantité d’un tiers du <term
+                            </term> se comptent pour la quantité d’un tiers du <term
                                 type="gT" ref="#toise">toisé</term> de la <term type="gT"
                                 ref="#voute">voûte</term>, lorsque les <term type="gT" ref="#marche"
                                 >marches</term> posent
@@ -7823,9 +7823,9 @@
                             les <term
                                 type="gT" ref="#marche">marches</term>.</p>
                         <p xml:id="t9BodyFr01.13.p025">17. Les <term type="gT" ref="#arête"><choice>
-                                    <orig>arreste</orig>
-                                    <reg>arête</reg>
-                                </choice>s</term> tant <term type="gT" ref="#creuses"
+                                    <orig>arrestes</orig>
+                                    <reg>arêtes</reg>
+                                </choice></term> tant <term type="gT" ref="#creuses"
                                 >creuses</term> que saillantes en <term type="gT"
                                 ref="#visSaintGilles" ana="#ivisSaintGilles"
                                 >vis Saint Gilles</term>
@@ -7854,7 +7854,7 @@
                                 ref="#voute"
                                 >voûtes</term> que l’on
                             nomme trompe qui servent à porter une partie d’<term
-                                type="gT" ref="#edifice">édifice</term>en <term type="gT"
+                                type="gT" ref="#edifice">édifice</term> en <term type="gT"
                                 ref="#saillie"
                                 >saillie</term> hors
                             le<term type="gT"
@@ -8023,7 +8023,7 @@
                             la teste la <term
                                 type="gT" ref="#ligne">ligne</term> FH du <term type="gT"
                                 ref="#profil">profil</term> de la <term type="gT" ref="#rampe"
-                                ana="#irampe">rampe </term>sera égale aux côtés des <term type="gT"
+                                ana="#irampe">rampe</term> sera égale aux côtés des <term type="gT"
                                 ref="#naissance"
                                 >naissances</term> BA,
                             ou BC, en sorte que pour avoir le développement de la <term
@@ -8154,7 +8154,7 @@
                                     <orig>droitte</orig>
                                     <reg>droite</reg>
                                 </choice></term>
-                            <term type="gT" ref="#parallele">parallèle</term>au <term type="gT"
+                            <term type="gT" ref="#parallele">parallèle</term> au <term type="gT"
                                 ref="#diametre">diamettre</term> du <term type="gT" ref="#cintre"><choice>
                                     <orig>ceintre</orig>
                                     <reg>cintre</reg>
@@ -8168,7 +8168,7 @@
                                 ref="#voute">voûte</term> prolongé de chaque côté ; sur cette <term
                                 type="gT" ref="#ligne">ligne</term>
                             <term type="gT" ref="#parallele"
-                                >parallèle</term>décrire un demi 
+                                >parallèle</term> décrire un demi 
                             <term
                                 type="gT" ref="#cercle">cercle</term> la moitié de la <term
                                 type="gT" ref="#circonference"
@@ -8186,7 +8186,7 @@
                                 >centre</term> de la trompe jusqu’à la rencontre de la <term
                                 type="gT" ref="#ligne">ligne</term>
                             <term type="gT" ref="#parallele"
-                                >parallèle</term>leur produit sera la superficie de la <term
+                                >parallèle</term> leur produit sera la superficie de la <term
                                 type="gT" ref="#douelle">douelle</term> de la trompe.</p>
                         <p xml:id="t9BodyFr01.14.p009">9. <hi rend="bold"
                                 >Exemple</hi> d’une trompe
@@ -8270,7 +8270,7 @@
                             sur le plan du point B, au point P, par lequel point P on mènera la
                             <term
                                 type="gT" ref="#ligne">ligne</term> QPR <term type="gT"
-                                ref="#parallele">parallèle</term>au <term type="gT" ref="#diametre"
+                                ref="#parallele">parallèle</term> au <term type="gT" ref="#diametre"
                                 >diamettre</term> BC. <term type="gT" ref="#rentrant"
                                 >rentrant</term> les côtés des <term type="gT" ref="#naissance"
                                 >naissances</term>
@@ -8503,7 +8503,7 @@
                                 type="gT" ref="#ligne"
                                 >ligne</term> RS
                             <term type="gT"
-                                ref="#parallele">parallèle</term>au <term type="gT" ref="#diametre"
+                                ref="#parallele">parallèle</term> au <term type="gT" ref="#diametre"
                                 >diamettre</term> BC rencontrant les 2. côtés des <term type="gT"
                                 ref="#naissance"
                                 >naissances</term> de la
@@ -8664,7 +8664,7 @@
                                 >77 [« 7 » en partie coupé]</fw> LP , il faut par le
                             point Q mener la <term
                                 type="gT" ref="#ligne">ligne</term> RS, <term type="gT"
-                                ref="#parallele">parallèle</term>au <term type="gT" ref="#diametre"
+                                ref="#parallele">parallèle</term> au <term type="gT" ref="#diametre"
                                 >diamettre</term> BC. rencontrant les
                             côtés des <term
                                 type="gT" ref="#naissance">naissances</term> de la <term type="gT"
@@ -9003,7 +9003,7 @@
                                 </choice></term><ref type="noteCritical" target="#t9Nc0025"
                                 /> en 4 parts
                             égales, et mesurant les <term
-                                type="gT" ref="#longueur">longueurs</term>la <term type="gT"
+                                type="gT" ref="#longueur">longueurs</term> la <term type="gT"
                                 ref="#longueur">longueur</term> du <term type="gT" ref="#rayon"
                                 >rayon</term> de la <term type="gT" ref="#douelle"
                                 >douelle</term> depuis l’un des points des
@@ -9091,7 +9091,7 @@
                                 >voûte</term> de la
                             trompe biaise en <term
                                 type="gT" ref="#tete">tête</term>, expliquée en l’article 20<hi
-                                rend="superscript">e </hi>de ce chapitre en divisant l’<term
+                                rend="superscript">e</hi> de ce chapitre en divisant l’<term
                                 type="gT" ref="#arête"><choice>
                                     <orig>arreste</orig>
                                     <reg>arête</reg>
@@ -9246,7 +9246,7 @@
                                 type="gT" ref="#naissance"
                                 >naissance</term> sur le côté AC., parce que le glissant de
                             la pondération de la <term
-                                type="gT" ref="#rampe" ana="#irampe">rampe </term>seroit <subst>
+                                type="gT" ref="#rampe" ana="#irampe">rampe</term> seroit <subst>
                                 <add rend="overWriting">butté</add>
                             </subst> à l’angle A par le coussinet de niveau de l’autre <term
                                 type="gT" ref="#naissance"
@@ -9285,7 +9285,7 @@
                                 >ligne</term> de niveau du plan
                             de la teste AB. Le coussinet EB est de niveau toute la <term
                                 type="gT" ref="#rampe" ana="#irampe"
-                                >rampe </term>est sur le coussinet ED au
+                                >rampe</term> est sur le coussinet ED au
                             <term
                                 type="gT" ref="#profil">profil</term>
                             <term type="gT" ref="#geometrique">géométrique</term>, le point Q <term
@@ -9372,7 +9372,7 @@
                                 type="gT" ref="#niche" ana="#iniche">niche</term></p>
                         <p xml:id="t9BodyFr01.14.p030">30. <hi rend="bold">Exemple</hi> à la 25<hi
                                 rend="superscript">e</hi> figure. ABC est le plan de la <term
-                                type="gT" ref="#niche" ana="#iniche">niche </term>BDC en la <term
+                                type="gT" ref="#niche" ana="#iniche">niche</term> BDC en la <term
                                 type="gT" ref="#face"
                                 >face</term> ou
                             <term type="gT"
@@ -9576,7 +9576,7 @@
                                 >e</hi> chapitre pour les
                             reins des <term
                                 type="gT" ref="#vouteEnBerceau" ana="#ivouteEnBerceau"
-                                >voûtes en berceau</term>dont la règle est générale pour les reins
+                                >voûtes en berceau</term> dont la règle est générale pour les reins
                             de toutes les sortes de <term
                                 type="gT" ref="#voute">voûtes</term>.</p>
                         <p xml:id="t9BodyFr01.14.p035">35. Quand les lits des <term type="gT"
@@ -9617,9 +9617,9 @@
                                 type="gT" ref="#cintre"><choice>
                                     <orig>ceintre</orig>
                                     <reg>cintre</reg>
-                                </choice></term> d’une <term type="gT" ref="#ligne">ligne</term>
+                                </choice></term> d’une <term type="gT" ref="#ligne">ligne</term> 
                             <term type="gT" ref="#courbe">courbe</term>
-                            <term type="gT" ref="#parallele">parallèle</term>au <term type="gT"
+                            <term type="gT" ref="#parallele">parallèle</term> au <term type="gT"
                                 ref="#cintre"><choice>
                                     <orig>ceintre</orig>
                                     <reg>cintre</reg>
@@ -9679,7 +9679,7 @@
                             <term type="gT" ref="#courbe"
                                 >courbe</term>
                             HKI <term type="gT"
-                                ref="#parallele">parallèle</term>au <term type="gT" ref="#cintre"><choice>
+                                ref="#parallele">parallèle</term> au <term type="gT" ref="#cintre"><choice>
                                     <orig>ceintre</orig>
                                     <reg>cintre</reg>
                                 </choice></term> de l’<term type="gT" ref="#arête"><choice>
@@ -10123,7 +10123,7 @@
                                 type="gT" ref="#arriereVoussure"
                                 >arrière voussure</term> en
                                 <term
-                                type="gT" ref="#niche" ana="#iniche">niche </term>EFGHIK <term
+                                type="gT" ref="#niche" ana="#iniche">niche</term> EFGHIK <term
                                 type="gT" ref="#niche" ana="#iniche"
                                 >niche</term> EFGHIK, son
                             <term
@@ -10153,7 +10153,7 @@
                                 >arc</term> BPC
                             du <term type="gT"
                                 ref="#cercle">cercle</term> de la <term type="gT" ref="#niche"
-                                ana="#iniche">niche</term>niche <term type="gT" ref="#toiser"
+                                ana="#iniche">niche</term>, <term type="gT" ref="#toiser"
                                 >toiser</term> toute la superficie de la <term type="gT"
                                 ref="#voute">voûte</term> de la <term type="gT" ref="#niche"
                                 ana="#iniche"
@@ -10175,7 +10175,7 @@
                                 type="gT" ref="#toise">toisé</term> de la <term type="gT"
                                 ref="#douelle">douelle</term> de l’<term type="gT"
                                 ref="#arriereVoussure">arrière voussure</term> et <term type="gT"
-                                ref="#niche" ana="#iniche">niche</term>niche EFGHIK.</p>
+                                ref="#niche" ana="#iniche">niche</term> EFGHIK.</p>
                         <p xml:id="t9BodyFr01.15.p010">10<hi rend="superscript">e</hi>. L’<term
                                 type="gT" ref="#arriereVoussure"
                                 >arrière voussure</term> Saint
@@ -10201,7 +10201,7 @@
                                 >douelle</term> concave en forme de
                             coquille sur un plan trapeze recti<term
                                 type="gT" ref="#ligne">ligne</term> se <term type="gT" ref="#toiser"
-                                >toiser</term>a en œuvre en mesurant
+                                >toisera</term> en œuvre en mesurant
                             la <term
                                 type="gT" ref="#longueur"
                                 >longueur</term> ou pourtour de tous les joints de ses voussoirs, l’un après
@@ -10290,7 +10290,7 @@
                                 type="gT" ref="#ligne">ligne</term>
                             <term type="gT" ref="#courbe">courbe</term> dont on <term type="gT"
                                 ref="#mesurer"
-                                >mesurer</term>a le pourtour que l’on doublera, et on en
+                                >mesurera</term> le pourtour que l’on doublera, et on en
                             additionnera le double avec la <term
                                 type="gT" ref="#longueur">longueur</term> de la <term type="gT"
                                 ref="#ligne">ligne</term> droite EF de l’<term type="gT"
@@ -10440,7 +10440,7 @@
                                 >arrière voussure</term> entre les joints 3-I,
                             12-H, on <term
                                 type="gT" ref="#mesurer"
-                                >mesurer</term>a ensuitte la superficie des <term type="gT"
+                                >mesurera</term> ensuitte la superficie des <term type="gT"
                                 ref="#douelle"
                                 >douelles</term> des autres voussoirs du bas -1-3.-
                             –I. -2. 13. 14. H-12. et des autres en trapèzes, s’il y en avoit
@@ -10461,7 +10461,7 @@
                                 type="gT" ref="#douelle"
                                 >douelle</term> de chacun de ces voussoirs, on <term type="gT"
                                 ref="#mesurer"
-                                >mesurer</term>a aussi la
+                                >mesurera</term> aussi la
                             superficie des <term
                                 type="gT" ref="#douelle">douelles</term>
                             triangulaires des 2 <choice>
@@ -10608,7 +10608,7 @@
                                 type="gT" ref="#face"
                                 >face</term> de moulure, et la retraite CD n’est pas comptée estant
                             prise pour le lit du dessus des <term
-                                type="gT" ref="#assise">assises</term>de l’<term type="gT"
+                                type="gT" ref="#assise">assises</term> de l’<term type="gT"
                                 ref="#assise"
                                 >assise</term> qui
                             forme le <term
@@ -10678,7 +10678,7 @@
                             détacher l’une de l’autre et rester chacune un <term
                                 type="gT" ref="#membre">membre</term> et <term type="gT"
                                 ref="#moulure"
-                                >moulure</term>parfaitte ; les autres soutiennent que
+                                >moulure</term> parfaitte ; les autres soutiennent que
                             c’est le nom et la situation des <term
                                 type="gT" ref="#moulure">moulures</term> qui dénotent les <term
                                 type="gT" ref="#membre">membres</term> d’<term type="gT"
@@ -10871,7 +10871,7 @@
                             AB.</p>
                         <p xml:id="t9BodyFr01.16.p016">16. Les <term type="gT" ref="#cimaise"
                                 >cimaises</term> ou <term type="gT" ref="#doucine"
-                                >doucines</term>droites (30) ou <term type="gT"
+                                >doucines</term> droites (30) ou <term type="gT"
                                 ref="#doucineRenversee"
                                 >renversées</term> 31. sont
                             comptées chacune pour demi pied courant, le <term
@@ -10935,7 +10935,7 @@
                                 >filet</term> au
                             dessus de la petitte <term
                                 type="gT" ref="#face">face</term> en <term type="gT" ref="#plafond"
-                                ana="#iplafond">plafond </term>BC. du <term type="gT" ref="#conge"
+                                ana="#iplafond">plafond</term> BC. du <term type="gT" ref="#conge"
                                 >congé</term> CD qui remonte pour
                             joindre le <term
                                 type="gT" ref="#soffite">soffite</term> DE <term type="gT"
@@ -10955,11 +10955,11 @@
                                 type="gT" ref="#conge">congé</term> du haut de la petitte <term
                                 type="gT" ref="#face">face</term> en <term type="gT" ref="#plafond"
                                 ana="#iplafond"
-                                >plafond </term>BC. de l’autre petitte
+                                >plafond</term> BC. de l’autre petitte
                             <term
                                 type="gT" ref="#face">face</term> en <term type="gT" ref="#plafond"
                                 ana="#iplafond"
-                                >plafond </term>de
+                                >plafond</term> de
                             l’arrière <term
                                 type="gT" ref="#filet">filet</term> FG et du <term type="gT"
                                 ref="#soffite">soffite</term> DC. avec ses <term type="gT"
@@ -11034,7 +11034,7 @@
                                 type="gT" ref="#face">faces</term> AB, BC, CD, 3/4<hi
                                 rend="superscript">4/4</hi> de pied.</p>
                         <p xml:id="t9BodyFr01.16.p024">24. La  <term type="gT" ref="#plinthe"
-                                >plinte</term> en <term type="gT" ref="#larmier">larmier</term>
+                                >plinte</term> en <term type="gT" ref="#larmier">larmier</term> 
                             <term type="gT" ref="#chanfriner"
                                 >chanfrinée</term> et scotie
                             <term
@@ -11077,7 +11077,7 @@
                                 >profil</term> 42 : qui est
                             une <term
                                 type="gT" ref="#doucineRecreusee"
-                                >doucine recreusée</term>recreusée par le
+                                >doucine recreusée</term> recreusée par le
                             dedans avec un <term
                                 type="gT" ref="#filet"
                                 >filet</term> saillant d’un côté et de l’autre un champ de
@@ -11085,7 +11085,7 @@
                                 type="gT" ref="#degagement"
                                 >dégagement</term> qui font ensemble 1. 1/4 pied courant la <term
                                 type="gT" ref="#doucine"
-                                >doucine </term>BDCBCD étant comptée pour 1/2. pied à
+                                >doucine</term> BDCBCD étant comptée pour 1/2. pied à
                             cause de son <term
                                 type="gT" ref="#recreusement">recreusement</term>, les 2 <term
                                 type="gT" ref="#face">faces</term> DE. EF. et <pb xml:id="t9P96"
@@ -11095,19 +11095,19 @@
                                 >face</term>
                             valant 3/4. de pied.</p>
                         <p xml:id="t9BodyFr01.16.p027">27. L’autre <term type="gT" ref="#doucine"
-                                >doucine </term>pendante 43, dégagée en <term type="gT"
+                                >doucine</term> pendante 43, dégagée en <term type="gT"
                                 ref="#grainDOrge"
                                 >grain d'orge</term> par le derrière
                             se compte pour un pied courant, la <term
                                 type="gT" ref="#doucine"
-                                >doucine </term>CD pour 1/2 pied, et les 2 <term type="gT"
+                                >doucine</term> CD pour 1/2 pied, et les 2 <term type="gT"
                                 ref="#face">faces</term> AB, BC. du <term type="gT" ref="#filet"
                                 >filet</term>
                             chacune pour 1/4 de pied, le <term
                                 type="gT" ref="#grainDOrge"
                                 >grain d'orge</term> D qui dégage le derrière de la
                                 <term
-                                type="gT" ref="#doucine">doucine </term>ne se compte pas.</p>
+                                type="gT" ref="#doucine">doucine</term> ne se compte pas.</p>
                         <p xml:id="t9BodyFr01.16.p028">28. Les <term type="gT" ref="#boudin"
                                 >boudins</term> 44. 45. avec leurs champs de <term type="gT"
                                 ref="#degagement"
@@ -11137,7 +11137,7 @@
                             rond ainsi qu’au <term
                                 type="gT" ref="#profil">profil</term> 43, le <term type="gT"
                                 ref="#degagement">dégagement</term> D entre la <term type="gT"
-                                ref="#doucine">doucine </term>et le <term type="gT" ref="#filet"
+                                ref="#doucine">doucine</term> et le <term type="gT" ref="#filet"
                                 >filet</term> au derrière et au profil
                             42. Le <term
                                 type="gT" ref="#degagement">dégagement</term> F entre l’<term
@@ -11160,7 +11160,7 @@
                             <term type="gT"
                                 ref="#scotie">scoties</term> en <term type="gT" ref="#piedouche"
                                 >piédouche</term> 48, les <term type="gT" ref="#scotie"
-                                >scoties</term> en <term type="gT" ref="#piedouche">piédouche</term>
+                                >scoties</term> en <term type="gT" ref="#piedouche">piédouche</term> 
                             <term type="gT" ref="#recreuser"
                                 >recreusée</term> par le bas
                             49., et les <term
@@ -11197,7 +11197,7 @@
                                 >face</term> le milieu du
                                 <term
                                 type="gT" ref="#bossage" ana="#ibossage"
-                                >bossage </term>pour
+                                >bossage</term> pour
                             une autre <term
                                 type="gT" ref="#face">face</term> et le champ de <term type="gT"
                                 ref="#degagement">dégagement</term> DE aussi pour une <term
@@ -11237,11 +11237,11 @@
                                 type="gT" ref="#hauteur"
                                 >hauteur</term> pour la moitié de ce que le courant d’un <term
                                 type="gT" ref="#bossage" ana="#ibossage"
-                                >bossage </term>est compté c’est à
+                                >bossage</term> est compté c’est à
                             dire que si le <term
                                 type="gT" ref="#bossage" ana="#ibossage"
                                 >bossage
-                            </term>est compté pour un pied courant chaque côté de la <term
+                            </term> est compté pour un pied courant chaque côté de la <term
                                 type="gT" ref="#saillie"
                                 >saillie</term> de
                                 l’<term type="gT"
@@ -11249,7 +11249,7 @@
                                 >avant-corps</term> est compté
                             pour 1/2 pied, et si le <term
                                 type="gT" ref="#bossage" ana="#ibossage"
-                                >bossage </term>n’est compté que pour 1/2 pied, chaque côté de
+                                >bossage</term> n’est compté que pour 1/2 pied, chaque côté de
                                 l’<term
                                 type="gT" ref="#avantCorps"
                                 >avant-corps</term> sera compté
@@ -11294,7 +11294,7 @@
                                 ref="#table"
                                 >table</term> BC. est entourée
                             d’une <term
-                                type="gT" ref="#doucine">doucine </term>et 2 <term type="gT"
+                                type="gT" ref="#doucine">doucine</term> et 2 <term type="gT"
                                 ref="#saillie"
                                 >saillies</term> AB, CD
                             contenant 7 <term
@@ -11318,7 +11318,7 @@
                                 type="gT" ref="#hauteur">hauteur</term> ; et les <term type="gT"
                                 ref="#table">tables</term> renfoncées avec une <term type="gT"
                                 ref="#doucine"
-                                >doucine </term>au pourtour, 60, pour 1. 3/4. 3/4 de
+                                >doucine</term> au pourtour, 60, pour 1. 3/4. 3/4 de
                             pied courant sur la <term
                                 type="gT" ref="#longueur">longueur,</term> et chacun des <term
                                 type="gT" ref="#retour"
@@ -11331,7 +11331,7 @@
                                 >table</term> pour 1/4. de pied
                             et la <term
                                 type="gT" ref="#doucine"
-                                >doucine </term>ABCD avec les
+                                >doucine</term> ABCD avec les
                             petittes <term
                                 type="gT" ref="#face"
                                 >faces</term> dessus et dessous pour 3/4. de pied courant dans tout le
@@ -11454,7 +11454,7 @@
                                 >face</term> de la costière AB n’est
                             pas comptée, mais si le <term
                                 type="gT" ref="#pilastre" ana="#ipilastre"
-                                >pilastre </term>avoit une <term type="gT" ref="#face"
+                                >pilastre</term> avoit une <term type="gT" ref="#face"
                                 >face</term> et un <term type="gT" ref="#retour"
                                 >retour</term> par la costière AB et
                             qu’il y eut un <sic>arrierre</sic>
@@ -11465,7 +11465,7 @@
                                 >composés</term> de 4
                             <term type="gT"
                                 ref="#face">faces</term> et compté pour un pied sur la <term
-                                type="gT" ref="#hauteur">hauteur</term>.<lb/>43. Les mêmes <term
+                                type="gT" ref="#hauteur">hauteur</term>. <lb/>43. Les mêmes <term
                                 type="gT" ref="#pilastre" ana="#ipilastre"
                                 >pilastres</term> faisant
                             <term
@@ -12363,7 +12363,7 @@
                                 >colonnes engagées</term> dans les <term type="gT" ref="#mur"
                                 >murs</term> comme à la
                                 80<hi
-                                rend="superscript">e </hi>figure l’on joint leur <term type="gT"
+                                rend="superscript">e</hi> figure l’on joint leur <term type="gT"
                                 ref="#saillie"
                                 >saillie</term> CD au
                             record du <term
@@ -12482,7 +12482,7 @@
                                 ref="#toise"
                                 >toise</term>
                             quarrée ou superficielle <!-- indexer "toise superficielle" --> de <term
-                                type="gT" ref="#cloison" ana="#icloison">cloison </term>pour 2 <term
+                                type="gT" ref="#cloison" ana="#icloison">cloison</term> pour 2 <term
                                 type="gT" ref="#toise">toises</term> de légers <term type="gT"
                                 ref="#ouvrage"
                                 >ouvrages</term> ;
@@ -12669,7 +12669,7 @@
                             <term
                                 type="gT" ref="#toise">toise</term> de légers <term type="gT"
                                 ref="#ouvrage"
-                                >ouvrages</term>.<lb/>8. L’on doit observer de mettre des
+                                >ouvrages</term>. <lb/>8. L’on doit observer de mettre des
                             fantons de <term
                                 type="gT" ref="#fer">fer</term> scelléssçellés dans les <term
                                 type="gT" ref="#mur"
@@ -12684,7 +12684,7 @@
                             par le propriétaire du bâtiment, et s’ils sont fournis par l’<term
                                 type="gT" ref="#entrepreneur" ana="#ientrepreneur"
                                 >entrepreneur
-                            </term>de la <term
+                            </term> de la <term
                                 type="gT" ref="#maconnerie" ana="#imaconnerie"
                                 >maçonnerie</term>, on doit les peser avant de <add place="inline"
                                 >les</add> employer, et luy payer les fantons à part au delà du
@@ -12752,7 +12752,7 @@
                                 >plinte</term> du haut jusqu’au bas qui se prend pour l’ordinaire du dessous
                             du <term
                                 type="gT" ref="#plancher" ana="#iplancher"
-                                >plancher </term>du
+                                >plancher</term> du
                             grenier aux bâtimens neufs et l’on augmente 6. pouces sur la <term
                                 type="gT" ref="#hauteur"
                             >hauteur</term>
@@ -12768,7 +12768,7 @@
                                 >corps</term> de la souche ils sont plus nuisibles
                             qu’utiles étant sujets à se détacher, l’on <term
                                 type="gT" ref="#mesurer"
-                                >mesurer</term>oit toujours la
+                                >mesureroit</term> toujours la
                             <term
                                 type="gT" ref="#hauteur"
                                 >hauteur</term> de la souche à prendre du haut de la <term type="gT"
@@ -12844,13 +12844,13 @@
                                 >mesures</term> dont on prend la moitié que l’on multiplie
                             par la <term
                                 type="gT" ref="#hauteur">hauteur</term> depuis le dessus du <term
-                                type="gT" ref="#carreau" ana="#icarreau">carreau </term>du <term
+                                type="gT" ref="#carreau" ana="#icarreau">carreau</term> du <term
                                 type="gT" ref="#plancher" ana="#iplancher"
-                                >plancher </term>intérieurinférieur jusques sous le
+                                >plancher</term> intérieurinférieur jusques sous le
                                 <term
                                 type="gT" ref="#plancher" ana="#iplancher"
                                 >plancher
-                            </term>supérieur, chaque <term
+                            </term> supérieur, chaque <term
                                 type="gT" ref="#toiseSuperficielle"
                                 >toise
                                 superficielle</term> se compte pour 1. <term
@@ -13007,7 +13007,7 @@
                         <p xml:id="t9BodyFr01.18.p021">21. Si les tuyaux excédoit <subst>
                                 <add rend="overStrike">l’épaisseur</add>
                             </subst> du <term type="gT" ref="#mur">mur</term>, l’on <term type="gT"
-                                ref="#toiser">toiser</term>oit à part la languette de <term
+                                ref="#toiser">toiseroit</term> à part la languette de <term
                                 type="gT" ref="#face"
                                 >face</term> et les
                             autres qui seroient hors le<term
@@ -13102,7 +13102,7 @@
                                 type="gT" ref="#demiFace">demi faces</term> sur leur <term type="gT"
                                 ref="#hauteur">hauteur</term> du dessus du <term type="gT"
                                 ref="#carreau" ana="#icarreau"
-                                >carreau </term>jusqu’à
+                                >carreau</term> jusqu’à
                                 l’<term
                                 type="gT" ref="#arête"><choice>
                                     <orig>arreste</orig>
@@ -13120,7 +13120,7 @@
                             l’épaisseur du <term
                                 type="gT" ref="#plancher" ana="#iplancher"
                                 >plancher
-                            </term>du bas, parce que le manteau est <term
+                            </term> du bas, parce que le manteau est <term
                                 type="gT" ref="#toise">toisé</term> sur la <term type="gT"
                                 ref="#hauteur"
                                 >hauteur</term> des tuiaux des côtés qui sont comptés
@@ -13207,7 +13207,7 @@
                                 xml:id="t9P113" n="p113"/>
                             <fw type="pageNum"> 113</fw> le <term type="gT" ref="#plancher"
                                 ana="#iplancher"
-                                >plancher </term>du haut, pris suivant le rampant de
+                                >plancher</term> du haut, pris suivant le rampant de
                             la hotte.<ref
                                 type="noteCritical" target="#t9Nc0033"/>
                         </p>
@@ -13359,7 +13359,7 @@
                             bâtiment, alors l’on compte seulement le scellement de la barre de <term
                                 type="gT" ref="#ceinture">ceinture</term> par les deux bouts.</p>
                         <p xml:id="t9BodyFr01.18.p037">36. Le <term type="gT" ref="#carreau"
-                                ana="#icarreau">carreau </term>du dessus des fourneaux se <term
+                                ana="#icarreau">carreau</term> du dessus des fourneaux se <term
                                 type="gT" ref="#toiser"
                                 >toise</term> sur
                             la <term type="gT"
@@ -13387,7 +13387,7 @@
                                 ref="#ouvrage"
                                 >ouvrages</term> tout compris même le
                                 <term
-                                type="gT" ref="#carreau" ana="#icarreau">carreau </term>du
+                                type="gT" ref="#carreau" ana="#icarreau">carreau</term> du
                             dessus et l’on compte à part le scellementsçellement des <subst>
                                 <add rend="overWriting">réchauds</add>
                             </subst>, observant lorsque les potagers sont addossées contre les vieux
@@ -13670,7 +13670,7 @@
                                 >117</fw> enduits par le dessus à lattes apparentes
                             par le dessus dessous sont comptés chaque <term
                                 type="gT" ref="#toiseSuperficielle"
-                                >toise superficielle</term> pour <add place="above">1/2 et 1/8</add>
+                                >toise superficielle</term> pour <add place="above">1/2 et 1/8</add> 
                             <term type="gT" ref="#toise">toise</term> de légers <term type="gT"
                                 ref="#ouvrage">ouvrages</term>.</p>
                         <p xml:id="t9BodyFr01.18.p054">51. Lesdits <term type="gT" ref="#plancher"
@@ -13810,10 +13810,10 @@
                                 >cheminées</term> bandés pleins de
                             toute l’épaisseur du <term
                                 type="gT" ref="#plancher" ana="#iplancher"
-                                >plancher </term>avec plâtras et  <term type="gT" ref="#platre"
+                                >plancher</term> avec plâtras et  <term type="gT" ref="#platre"
                                 >plâtre</term> dressés au niveau de l’aire
                             par le dessus enduits par le dessous à l’affleurement du <term
-                                type="gT" ref="#plafond" ana="#iplafond">plafond </term>ou des <term
+                                type="gT" ref="#plafond" ana="#iplafond">plafond</term> ou des <term
                                 type="gT" ref="#solive"
                                 >solives</term> ou
                             chevêtres, lorsque les bois sont apparens se <term
@@ -13883,7 +13883,7 @@
                                 type="gT" ref="#ouvrage">ouvrages</term>. La <term type="gT"
                                 ref="#maconnerie" ana="#imaconnerie">maçonnerie</term> de ce <term
                                 type="gT" ref="#plancher" ana="#iplancher"
-                                >plancher </term>reviendroit à 17. <term type="gT" ref="#toise"
+                                >plancher</term> reviendroit à 17. <term type="gT" ref="#toise"
                                 >toises</term> et demie 
                             12 pieds.</p>
                         <p xml:id="t9BodyFr01.18.p062">59. Au <term type="gT" ref="#toise"
@@ -13897,7 +13897,7 @@
                             ainsi que des <term
                                 type="gT" ref="#mur">murs</term> ou <term type="gT" ref="#cloison"
                                 ana="#icloison">cloisons</term> de <term type="gT" ref="#charpente"
-                                ana="#icharpente">charpente </term>qui passent sous les <term
+                                ana="#icharpente">charpente</term> qui passent sous les <term
                                 type="gT" ref="#plancher" ana="#iplancher">planchers</term>..</p>
                         <p xml:id="t9BodyFr01.18.p063">60. Le scellement des <term type="gT"
                                 ref="#lambourde">lambourdes</term> pour poser des <term type="gT"
@@ -13943,7 +13943,7 @@
                                 >planchers</term> ne sont point
                             enduits mais disposés pour recevoir du <term
                                 type="gT" ref="#carreau" ana="#icarreau"
-                                >carreau </term>sans poussière par le dessus, il en
+                                >carreau</term> sans poussière par le dessus, il en
                             faut 4 <term
                                 type="gT" ref="#toiseSuperficielle"
                                 >toises superficielles</term> pour faire une <term type="gT"
@@ -13993,7 +13993,7 @@
                                 >plâtre</term> dressés de
                             niveau pour recevoir le <term
                                 type="gT" ref="#carreau" ana="#icarreau"
-                                >carreau </term>au dessus des <term type="gT" ref="#voute"
+                                >carreau</term> au dessus des <term type="gT" ref="#voute"
                                 >voûtes</term> et de leur reins faits à neuf
                             sont comptés 4 <term
                                 type="gT" ref="#toiseSuperficielle"
@@ -14032,9 +14032,9 @@
                             mais c’est un mauvais <term
                                 type="gT" ref="#ouvrage"
                                 >ouvrage</term> sujet à se salpêtrer et rendre le <term type="gT"
-                                ref="#carreau" ana="#icarreau">carreau </term>ou <term type="gT"
+                                ref="#carreau" ana="#icarreau">carreau</term> ou <term type="gT"
                                 ref="#plancher" ana="#iplancher"
-                                >plancher </term>de
+                                >plancher</term> de
                             planche humides et les lieux inhabitables ; les <term
                                 type="gT" ref="#aire">aires</term> de moilon et <term type="gT"
                                 ref="#mortier"
@@ -14236,7 +14236,7 @@
                         <p xml:id="t9BodyFr01.18.p078">74. Les <term type="gT" ref="#cloison"
                                 ana="#icloison">cloisons</term> de <term type="gT" ref="#plancher"
                                 ana="#iplancher"
-                                >plancher </term>refendues par tringles éloignées
+                                >plancher</term> refendues par tringles éloignées
                             tant plein que vuide ourdées à  <term
                                 type="gT" ref="#platre"
                                 >plâtre</term> entre les tringles lattées et
@@ -14267,7 +14267,7 @@
                                 bois</term> hourdés, pleins sur les <term
                                 type="gT" ref="#cloison" ana="#icloison">cloisons</term> de <term
                                 type="gT" ref="#plancher" ana="#iplancher"
-                                >plancher </term>jointives sur les <term type="gT" ref="#poutre"
+                                >plancher</term> jointives sur les <term type="gT" ref="#poutre"
                                 >poutres</term> ou autre
                             bois vieux ou neufs lattés à 4 pouces de distance de milieu en milieu
                             des lattes crépis et enduites de  <term
@@ -14279,7 +14279,7 @@
                                 ref="#toise">toise</term> de légers <term type="gT" ref="#ouvrage"
                                 >ouvrages</term>.</p>
                         <p xml:id="t9BodyFr01.18.p080">76. Les <term type="gT" ref="#lambris"
-                                ana="#ilambris">lambris </term>rampans de  <term type="gT"
+                                ana="#ilambris">lambris</term> rampans de  <term type="gT"
                                 ref="#platre"
                                 >plâtre</term> de pareille
                             construction que les <term
@@ -14397,7 +14397,7 @@
                                 >plâtre</term> faits sur les
                             anciens <term
                                 type="gT" ref="#lambris" ana="#ilambris"
-                                >lambris </term>et
+                                >lambris</term> et
                             recouvremens hachés jusqu’aux lattes où l’ancien ressert en le <del
                                 rend="strikethrough"
                                 >re</del>cloutant, où il est détaché sont
@@ -14433,7 +14433,7 @@
                         <p xml:id="t9BodyFr01.18.p092">85. Aux <term type="gT" ref="#escalier"
                                 ana="#iescalier">escaliers</term> de <term type="gT"
                                 ref="#charpente" ana="#icharpente"
-                                >charpente </term>lattés à lattes
+                                >charpente</term> lattés à lattes
                             jointives comme les <term
                                 type="gT" ref="#plafond" ana="#iplafond"
                                 >plafonds</term> posés en liaison et cloués par le dessous de
@@ -14511,7 +14511,7 @@
                             de la superficie des <term
                                 type="gT" ref="#marche">marches</term> de l’<term type="gT"
                                 ref="#etage">étage</term> de l’<term type="gT" ref="#escalier"
-                                ana="#iescalier">escalier </term>dont chaque <term type="gT"
+                                ana="#iescalier">escalier</term> dont chaque <term type="gT"
                                 ref="#toise"
                                 >toise</term>
                             sera comptée pour une <term
@@ -14577,22 +14577,22 @@
                             déduisant la valeur de l’enduit dans le prix du <term
                                 type="gT" ref="#carreau" ana="#icarreau">carreau</term>, si le <term
                                 type="gT" ref="#carreau" ana="#icarreau"
-                                >carreau </term>est fourni
+                                >carreau</term> est fourni
                             par l’<term
                                 type="gT" ref="#entrepreneur" ana="#ientrepreneur"
-                                >entrepreneur </term>de la <term type="gT" ref="#maconnerie"
+                                >entrepreneur</term> de la <term type="gT" ref="#maconnerie"
                                 ana="#imaconnerie">maçonnerie</term> mais quand le <term type="gT"
                                 ref="#carreau" ana="#icarreau"
-                                >carreau </term>est fourni par le
+                                >carreau</term> est fourni par le
                             propriétaire et posé par le maçon en faisant le hourdis, la pose du
                                 <term
                                 type="gT" ref="#carreau" ana="#icarreau"
-                                >carreau </term>passe
+                                >carreau</term> passe
                             pour l’enduit sans rien diminuer ni augmenter dans le <term
                                 type="gT" ref="#toise">toisé</term> de l’<term type="gT"
                                 ref="#escalier" ana="#iescalier">escalier</term>, ou si le <term
                                 type="gT" ref="#carreau" ana="#icarreau"
-                                >carreau </term>est fourni et posé par
+                                >carreau</term> est fourni et posé par
                             le carreleur, l’on diminue au maçon la valeur de l’enduit non fait sur
                             les <term
                                 type="gT" ref="#marche">marches</term>.</p>
@@ -14840,7 +14840,7 @@
                                 <add>pièces</add>
                             </subst>
                             <!-- TODO vérifier l'affichage --> de <term type="gT" ref="#charpente"
-                                ana="#icharpente">charpente </term>courante sur la <term type="gT"
+                                ana="#icharpente">charpente</term> courante sur la <term type="gT"
                                 ref="#longueur"
                                 >longueur</term> deux
                             desquelles sont par le devant assemblées dans des racineaux au milieu,
@@ -14872,7 +14872,7 @@
                             de deux <term
                                 type="gT" ref="#plattebande">plattebande</term> de <term type="gT"
                                 ref="#charpente" ana="#icharpente"
-                                >charpente </term>l’une faisant toute la <term type="gT"
+                                >charpente</term> l’une faisant toute la <term type="gT"
                                 ref="#largeur">largeur</term> ou
                             <term
                                 type="gT" ref="#hauteur"
@@ -14906,7 +14906,7 @@
                                 type="gT" ref="#poutre">poutres</term>, <term type="gT"
                                 ref="#solive">solives</term>, sablières, <term type="gT"
                                 ref="#marche">marches</term> d’<term type="gT" ref="#escalier"
-                                ana="#iescalier">escalier </term>tant de <term type="gT"
+                                ana="#iescalier">escalier</term> tant de <term type="gT"
                                 ref="#pierre"
                                 >pierre</term> que de bois,
                             <term
@@ -15001,7 +15001,7 @@
                                 >planchers</term> et de
                             bois et des <term
                                 type="gT" ref="#marche">marches</term> d’<term type="gT"
-                                ref="#escalier" ana="#iescalier">escalier </term>tant de <term
+                                ref="#escalier" ana="#iescalier">escalier</term> tant de <term
                                 type="gT" ref="#pierre">pierre</term> que de bois, celles des <term
                                 type="gT" ref="#palier"
                                 >paliers</term> et
@@ -15128,7 +15128,7 @@
                                 <expan>pied</expan>
                             </choice> de légers <term type="gT" ref="#ouvrage">ouvrages</term>.</p>
                         <p xml:id="t9BodyFr01.18.p119">109<ref type="noteCritical"
-                                target="#t9Nc0036"/>.. Mais lorsque les <term type="gT" ref="#baie"><choice>
+                                target="#t9Nc0036"/>. Mais lorsque les <term type="gT" ref="#baie"><choice>
                                     <orig>bayes</orig>
                                     <reg>baies</reg>
                                 </choice></term> sont rabattues, ou en
@@ -15333,12 +15333,12 @@
                                 >117. Les scellemens du chassis au pourtour
                             des 4 côtés d’une trape de descente de <term
                                 type="gT" ref="#cave" ana="#icave"
-                                >cave </term>avec le rétablissement de la <term type="gT"
+                                >cave</term> avec le rétablissement de la <term type="gT"
                                 ref="#maconnerie" ana="#imaconnerie">maçonnerie</term> au
                             pourtour tant par le dessus que par le dessous est compté pour 2 <choice>
                                 <abbr>pi.</abbr>
                                 <expan>pied</expan>
-                            </choice> de légers <term type="gT" ref="#ouvrage">ouvrages</term>
+                            </choice> de légers <term type="gT" ref="#ouvrage">ouvrages</term> 
                             <choice>
                                 <abbr>cad</abbr>
                                 <expan>c’est-à-dire</expan>
@@ -15420,8 +15420,10 @@
                                 ref="#poutre"
                                 >poutres</term> portées dans les
                             <term
-                                type="gT" ref="#mur">murs</term> en distances égales. Pour l’ordinaire, les 
-                            <term type="gT" ref="#solive">solives</term> de ces <term type="gT"
+                                type="gT" ref="#mur"
+                                >murs</term> en distances égales. Pour l’ordinaire, les 
+                            <term
+                                type="gT" ref="#solive">solives</term> de ces <term type="gT"
                                 ref="#travée">travées</term> étoient de même <term type="gT"
                                 ref="#longueur">longueur</term> et <term type="gT" ref="#grosseur"
                                 >grosseur</term>. On les comptoit au cent et on les réduisoit par le calcul, les
@@ -15435,7 +15437,7 @@
                                 >toiser</term> et
                             réduire les bois de <term
                                 type="gT" ref="#charpente" ana="#icharpente"
-                                >charpente </term>au cent de <term type="gT" ref="#solive"
+                                >charpente</term> au cent de <term type="gT" ref="#solive"
                                 >solives</term> s’est continué jusqu’à présent.
                             Mais chaque pays à sa <term
                                 type="gT" ref="#longueur">longueur</term> et <term type="gT"
@@ -15445,7 +15447,7 @@
                             <term
                                 type="gT" ref="#toiser">toiser</term> soit la même</p>
                         <p xml:id="t9BodyFr02.01.p003">3. À Rouen l’on compte le bois de <term
-                                type="gT" ref="#charpente" ana="#icharpente">charpente </term>au
+                                type="gT" ref="#charpente" ana="#icharpente">charpente</term> au
                             cent de marques et la marque contient 10 <choice>
                                 <abbr>pi.</abbr>
                                 <expan>pied</expan>
@@ -15486,7 +15488,7 @@
                             <pb xml:id="t9P132" n="p132"/>
                             <fw type="pageNum">132</fw> des bois de <term type="gT" ref="#charpente"
                                 ana="#icharpente"
-                                >charpente </term>l’on suppose qu’ils sont réduits
+                                >charpente</term> l’on suppose qu’ils sont réduits
                             en échalats d’un pouce de <term
                                 type="gT" ref="#grosseur">grosseur</term> quarré sur 6 <choice>
                                 <abbr>pi.</abbr>
@@ -15574,7 +15576,7 @@
                                 >6. L’on remarque dans les anciens bâtimens
                             que les bois de <term
                                 type="gT" ref="#charpente" ana="#icharpente"
-                                >charpente </term>y étoient apparens, et que l’on étoit exact à les
+                                >charpente</term> y étoient apparens, et que l’on étoit exact à les
                             dresser <pb
                                 xml:id="t9P133" n="p133"/>
                             <fw type="pageNum">133</fw> proprement à vive <term type="gT"
@@ -15614,9 +15616,9 @@
                                 </choice></term> s
                             sans beaucoup de déchet a fait que l’on est pas si exact à <add
                                 place="above">en</add> éviter les <term type="gT" ref="#arête"><choice>
-                                    <orig>arreste</orig>
-                                    <reg>arête</reg>
-                                </choice></term> s cepend<subst>
+                                    <orig>arrestes</orig>
+                                    <reg>arêtes</reg>
+                                </choice></term> cepend<subst>
                                 <add rend="overWriting">a</add>
                             </subst>nt il faut qu’ils soient équarris et dressés dans leur <term
                                 type="gT" ref="#longueur"
@@ -15716,7 +15718,7 @@
                                 >marché</term> particulier.</p>
                         <p xml:id="t9BodyFr02.02.p004">4. Il y a 2 choses à observer dans le <term
                                 type="gT" ref="#toise">toisé</term> de la <term type="gT"
-                                ref="#charpente" ana="#icharpente">charpente </term>aux <term
+                                ref="#charpente" ana="#icharpente">charpente</term> aux <term
                                 type="gJ" ref="#usEtCoutumes">us et coutumes</term> de <placeName
                                 ref="#paris">Paris</placeName>, l’une regarde en général le <term
                                 type="gT" ref="#toise">toisé</term> de la <term type="gT"
@@ -15825,7 +15827,7 @@
                                 <term type="gT"
                                 ref="#charpente" ana="#icharpente"
                                 >charpente
-                            </term>où l’on compte les bois au droit des vuides des <term
+                            </term> où l’on compte les bois au droit des vuides des <term
                                 type="gT" ref="#baie"><choice>
                                     <orig>bayes</orig>
                                     <reg>baies</reg>
@@ -15846,7 +15848,7 @@
                                 type="gT" ref="#longueur">longueur</term> des autres <term type="gT"
                                 ref="#solive">solives</term> du <term type="gT" ref="#plancher"
                                 ana="#iplancher"
-                                >plancher </term>prises entre les
+                                >plancher</term> prises entre les
                             <term
                                 type="gT" ref="#mur"
                                 >murs</term>, lorsqu’elles sont posées sur des sablières ou compris leur portée,
@@ -15867,7 +15869,7 @@
                                 type="gT" ref="#salle">salle</term> où les <term type="gT"
                                 ref="#solive">solives</term> du <term type="gT" ref="#plancher"
                                 ana="#iplancher"
-                                >plancher </term>sont posées sur des sablières au long du <term
+                                >plancher</term> sont posées sur des sablières au long du <term
                                 type="gT" ref="#mur"
                                 >mur</term>
                             mitoyen BC et du <term
@@ -16004,7 +16006,7 @@
                             chevêtre 7 au derrière de l’âtre de la <term
                                 type="gT" ref="#cheminee" ana="#icheminee"
                                 >cheminée</term> de la <term type="gT" ref="#salle"
-                                >salle</term>, l’autre <term type="gT" ref="#solive">solive</term>
+                                >salle</term>, l’autre <term type="gT" ref="#solive">solive</term> 
                             d’enchevestrure 6 est assemblée d’un bout dans le chevestre 8 à 3 <choice>
                                 <abbr>pi.</abbr>
                                 <expan>pieds</expan>
@@ -16100,7 +16102,7 @@
                                 >5. S’il arrivoit par l ‘avidité du gain que
                                 l’<term
                                 type="gT" ref="#entrepreneur" ana="#ientrepreneur"
-                                >entrepreneur </term>pour servir du bois de 12 pieds aux soliveaux
+                                >entrepreneur</term> pour servir du bois de 12 pieds aux soliveaux
                             entre les chevêtres 8, 10 recula l’un ou l’autre de ces chevestres, et
                             mit un arrière chevestre pour réduire la trémie de l’astre ou le <term
                                 type="gT" ref="#passage"
@@ -16170,7 +16172,7 @@
                                 >e</hi> figure servant d’antichambre
                             où la <term
                                 type="gT" ref="#solive">solive</term> d’enchevestrure 13 est <term
-                                type="gT" ref="#parallele">parallèle</term>au <term type="gT"
+                                type="gT" ref="#parallele">parallèle</term> au <term type="gT"
                                 ref="#mur">mur</term> de <term type="gT" ref="#refend"
                                 >refend</term> FG contre
                             lequel le manteau de <term
@@ -16183,12 +16185,12 @@
                                 <term type="gT"
                                 ref="#plancher" ana="#iplancher"
                                 >plancher
-                            </term>portent d’un bout sur le <term
+                            </term> portent d’un bout sur le <term
                                 type="gT" ref="#murDeFace"
                                 >mur de face</term> GH, et de l’autre bout sur
                             la <term
                                 type="gT" ref="#cloison" ana="#icloison"
-                                >cloison </term>de
+                                >cloison</term> de
                             <term type="gT"
                                 ref="#refend">refend</term> EI et sont <term type="gT"
                                 ref="#parallele">parallèles</term> au <term type="gT" ref="#mur"
@@ -16402,7 +16404,7 @@
                                 >corniche</term> dans les chambres sous
                             le <term
                                 type="gT" ref="#plafond" ana="#iplafond"
-                                >plafond </term>du
+                                >plafond</term> du
                                 <term type="gT"
                                 ref="#plancher" ana="#iplancher">plancher</term>,
                             les petits potelets 29 auront 15 à 18 pouces de haut compris leurs
@@ -16550,7 +16552,7 @@
                                 type="gT" ref="#longueur">longueur</term> des limons et des <term
                                 type="gT" ref="#appui">appuis</term> se prend suivant leur <term
                                 type="gT" ref="#rampe" ana="#irampe"
-                                >rampe </term>de l’extrémité de leur coupe
+                                >rampe</term> de l’extrémité de leur coupe
                             du bas à l’extrémité de leur coupe du haut compris 3 pouces à chaque
                             bout pour les tenons, l’épaisseur des limons est égale sur leur
                             <term
@@ -16558,7 +16560,7 @@
                                 >longueur,</term> mais ils sont quelquefois chantournés plus larges à <pb
                                 xml:id="t9P142" n="p142"/>
                             <fw type="pageNum">142</fw> un endroit qu’à l’autre suivant la <term
-                                type="gT" ref="#rampe" ana="#irampe">rampe </term>des <term
+                                type="gT" ref="#rampe" ana="#irampe">rampe</term> des <term
                                 type="gT" ref="#marche"
                                 >marches</term> l’on
                             pose une règle droite avec un <term
@@ -16642,7 +16644,7 @@
                             </sic>
                             <!-- TODO vérifier l'affichage --> où les <term type="gT" ref="#marche"
                                 >marches</term> sont en <term type="gT" ref="#rampe" ana="#irampe"
-                                >rampe </term>droite avec des
+                                >rampe</term> droite avec des
                             quartiers tournans on <term
                                 type="gT" ref="#toiser">toise</term> les <term type="gT"
                                 ref="#marche"
@@ -16689,7 +16691,7 @@
                             même prix des autres <term
                                 type="gT" ref="#ouvrage">ouvrages</term> de <term type="gT"
                                 ref="#charpente" ana="#icharpente"
-                                >charpente </term>du bâtiment lorsqu’ils sont
+                                >charpente</term> du bâtiment lorsqu’ils sont
                             confondus ensemble à moins qu’il n’en soit fait une distinction expresse
                             par un <term
                                 type="gJ" ref="#devis">devis</term> et <term type="gJ" ref="#marche"
@@ -16766,7 +16768,7 @@
                             de <term
                                 type="gT" ref="#charpente" ana="#icharpente"
                                 >charpente
-                            </term>où il se fait des <term
+                            </term> où il se fait des <term
                                 type="gT" ref="#bossage" ana="#ibossage"
                                 >bossages</term> au droit des assemblages, le restant de la <term
                                 type="gT" ref="#longueur"
@@ -16797,7 +16799,7 @@
                             par exemple si le <term
                                 type="gT" ref="#bossage" ana="#ibossage"
                                 >bossage
-                            </term>de l’un des bouts étoit de 9 pouces de <term
+                            </term> de l’un des bouts étoit de 9 pouces de <term
                                 type="gT" ref="#grosseur"
                                 >grosseur</term>, et que celuy de
                             l’autre bout ne fut que de 8 pouces, la <term
@@ -16810,7 +16812,7 @@
                                 type="gT" ref="#bossage" ana="#ibossage">bossages</term>..</p>
                         <p xml:id="t9BodyFr02.06.p003">3. Aux poteaux de <term type="gT"
                                 ref="#charpente" ana="#icharpente"
-                                >charpente </term>qui portent
+                                >charpente</term> qui portent
                             encorbellement par le haut et sont élégis du dessous des encorbellemens
                             jusqu’au bas pour s’écraser, et aligner à l’épaisseur des autres poteaux
                             des <term
@@ -16887,7 +16889,7 @@
                         <head rend="alignCenter">
                             <label><num>Chapitre 7<hi rend="superscript">e</hi>.</num></label>
                             <lb/>Toisé de la <term type="gT" ref="#charpente" ana="#icharpente"
-                                >charpente </term>des <term type="gT" ref="#ecurie" ana="#iEcuries"
+                                >charpente</term> des <term type="gT" ref="#ecurie" ana="#iEcuries"
                                 >écuries</term>
                         </head>
                         <p xml:id="t9BodyFr02.07.p001">1. Les mangeoires des <term type="gT"
@@ -16923,7 +16925,7 @@
                             se réduisent à la pièce de même que les autres <term
                                 type="gT" ref="#ouvrage">ouvrages</term> de <term type="gT"
                                 ref="#charpente" ana="#icharpente"
-                                >charpente </term>dont
+                                >charpente</term> dont
                             il est parlé cy devant. Si les racinaux sont élégis par le haut et plus
                             gros par le dessous de la mangeoire, on les compte suivant leur plus
                             forte <term
@@ -17038,7 +17040,7 @@
                                 >entrepreneurs</term>, ce qui est un abus très considérable.</p>
                         <p xml:id="t9BodyFr02.08.p003">3. Les bois fournis par l’<term type="gT"
                                 ref="#entrepreneur" ana="#ientrepreneur"
-                                >entrepreneur </term>ou ceux
+                                >entrepreneur</term> ou ceux
                             qui lui ont été donnés en compte, employés aux étayemens, sont mesurés
                             des <term
                                 type="gT" ref="#grosseur">grosseur</term> et <term type="gT"
@@ -17046,7 +17048,7 @@
                                 >largeur</term> qu’ils ont en place, et réduits à la pièce comme
                             les autres <term
                                 type="gT" ref="#ouvrage">ouvrages</term> de <term type="gT"
-                                ref="#charpente" ana="#icharpente">charpente </term>aux <term
+                                ref="#charpente" ana="#icharpente">charpente</term> aux <term
                                 type="gJ" ref="#usEtCoutumes">us et coutumes</term> de <placeName
                                 ref="#paris">Paris</placeName>, c’est à dire que leurs <term
                                 type="gT" ref="#longueur"
@@ -17096,7 +17098,7 @@
                                 >er</hi> de ces
                             deux exemples qui est le <term
                                 type="gT" ref="#plancher" ana="#iplancher"
-                                >plancher </term>d’une <term type="gT" ref="#salle"
+                                >plancher</term> d’une <term type="gT" ref="#salle"
                                 >salle</term> (figure 1<hi rend="superscript">ere</hi>) <term
                                 type="gT" ref="#composer">composée</term> de 4 <term type="gT"
                                 ref="#solive"
@@ -17136,7 +17138,7 @@
                             bâtimens royaux monte à la quantité de 54 pièces 7 pieds 5 pouces
                             réduits, les mêmes bois employés audit <term
                                 type="gT" ref="#plancher" ana="#iplancher"
-                                >plancher </term>produisent 60 pièces 5 pieds 8
+                                >plancher</term> produisent 60 pièces 5 pieds 8
                             pouces étant comptés aux <term
                                 type="gJ" ref="#usEtCoutumes"
                                 >us et
@@ -17194,7 +17196,7 @@
                             différence du <term
                                 type="gT" ref="#toise">toisé</term> de la <term type="gT"
                                 ref="#charpente" ana="#icharpente"
-                                >charpente </term>aux
+                                >charpente</term> aux
                                 <term
                                 type="gJ" ref="#usEtCoutumes"
                                 >us et coutumes</term> de
@@ -17238,14 +17240,14 @@
                                 </choice></term> et le <term type="gT" ref="#bardeau"
                                 >bardeau</term>, la <term type="gT" ref="#couverture"
                                 >couverture</term> du <term type="gT" ref="#bardeau" ana="#ibardeau"
-                                >bardeau </term>n’est guère en usage
+                                >bardeau</term> n’est guère en usage
                             qu’aux moulins, aux échoppes, <term
                                 type="gT" ref="#loge">loges</term> et autres petits <term type="gT"
                                 ref="#edifice"
                                 >édifices</term> isolés et
                             ambulans sur des roulettes. Le <term
                                 type="gT" ref="#bardeau" ana="#ibardeau"
-                                >bardeau </term>est fait de mérin ou pour l’ordinaire
+                                >bardeau</term> est fait de mérin ou pour l’ordinaire
                             de <term
                                 type="gT" ref="#douelle"
                                 >douelles</term> ou de douves de vieux
@@ -17257,7 +17259,7 @@
                             pourrit en peu de tems et n’est pas de longue durée.</p>
                         <p xml:id="t9BodyFr03.01.p002">2. L’<term type="gT" ref="#ardoise"
                                 ana="#iardoise"
-                                >ardoise </term>est plus propre, couvre mieux, et est
+                                >ardoise</term> est plus propre, couvre mieux, et est
                             moins pesante que la <term
                                 type="gT" ref="#tuile" ana="#ituile"
                                 >tuile
@@ -17270,19 +17272,19 @@
                             large, la quarré forte qui a 11 à 12 pouces de long, 7 à 8 pouces de
                             large. C’est de cette sorte d’<term
                                 type="gT" ref="#ardoise" ana="#iardoise"
-                                >ardoise </term>que l’on employe le plus communément aux
+                                >ardoise</term> que l’on employe le plus communément aux
                             <term
                                 type="gT" ref="#couverture"
                                 >couvertures</term>, la forte, et a au plus 11 pouces de long, 6 à 7 pouces de
                                 large<ref
                                 type="noteCritical" target="#t9Nc0043"/>, la 5<hi rend="superscript"
                                 >e</hi> sorte d’<term type="gT" ref="#ardoise" ana="#iardoise"
-                                >ardoise </term>vient de <placeName ref="mezieresSurSeine"
+                                >ardoise</term> vient de <placeName ref="mezieresSurSeine"
                                 >Mézières</placeName>. Elle est plus longue et
                             plus large que la grosse noire mais plus grise et moins bonne, étant
                             sujette à se fendre.</p>
                         <p xml:id="t9BodyFr03.01.p003">3. L’<term type="gT" ref="#ardoise"
-                                ana="#iardoise">ardoise </term>quarselette s’employe aux <term
+                                ana="#iardoise">ardoise</term> quarselette s’employe aux <term
                                 type="gT" ref="#dome" ana="#idome">dômes</term> et <term type="gT"
                                 ref="#comble" ana="#icomble"
                                 >combles</term> ceintrés on ne luy donne
@@ -17294,7 +17296,7 @@
                             échantillon. Les <term
                                 type="gT" ref="#couverture">couvertures</term> d’<term type="gT"
                                 ref="#ardoise" ana="#iardoise"
-                            >ardoise </term>des 4 autres sortes d’échantillons
+                            >ardoise</term> des 4 autres sortes d’échantillons
                             ont 4 pouces de pureau suivant l’usage ordinaire.</p>
                         <p xml:id="t9BodyFr03.01.p004"
                                 >4. La quarrée fine est trop faible pour
@@ -17346,14 +17348,14 @@
                                 </choice></term> est celle qui résiste le
                             mieux au vent et à la grêle, et qui dure le plus longtems quand la <term
                                 type="gT" ref="#tuile" ana="#ituile"
-                                >tuile </term>est de bonne
+                                >tuile</term> est de bonne
                             qualité droite et bien cuite. La <term
                                 type="gT" ref="#tuile" ana="#ituile"
-                                >tuile </term>est de 2 sortes, celle dont on se sert
+                                >tuile</term> est de 2 sortes, celle dont on se sert
                             est celle qu’on appelle du grand moule a 13 pouces de long, sur 9 pouces
                             de large, elle se pose à 4 pouces de pureau. L’autre sorte de <term
                                 type="gT" ref="#tuile" ana="#ituile"
-                                >tuile </term>qui est le petit
+                                >tuile</term> qui est le petit
                             moule n’a que 9 à 10 pouces sur 7 pouces de large, on la pose à 3 pouces
                             de pureau. Les 2 sortes de <term
                                 type="gT" ref="#tuile" ana="#ituile">tuile</term> ont un <term
@@ -17381,11 +17383,11 @@
                             <pb xml:id="t9P151" n="p151"/>
                             <fw type="pageNum">151</fw> ou <term type="gT" ref="#ardoise"
                                 ana="#iardoise"
-                                >ardoise </term>se dépose et repose sur un lattis
+                                >ardoise</term> se dépose et repose sur un lattis
                             neuf, et la <term
                                 type="gT" ref="#couverture"
                                 >couverture</term> en recherche ou l’on y met quelque <term
-                                type="gT" ref="#tuile" ana="#ituile">tuile </term>ou <term type="gT"
+                                type="gT" ref="#tuile" ana="#ituile">tuile</term> ou <term type="gT"
                                 ref="#ardoise" ana="#iardoise"
                                 >ardoise </term>à la place des cassées
                             et l’on en rétablit tous les  <term
@@ -17582,9 +17584,9 @@
                             parties d’<term
                                 type="gT" ref="#ardoise" ana="#iardoise"
                                 >ardoise
-                            </term>ou de <term type="gT"
+                            </term> ou de <term type="gT"
                                 ref="#tuile" ana="#ituile"
-                                >tuile </term>qui
+                                >tuile</term> qui
                             sont cachées par le plomb, et l’on rabat la superficie du plomb de celle
                             de la <term
                                 type="gT" ref="#couverture"
@@ -17610,9 +17612,9 @@
                                 type="gT" ref="#couverture"
                                 >couverture</term>
                             de <term type="gT"
-                                ref="#tuile" ana="#ituile">tuile </term>ou d’<term type="gT"
+                                ref="#tuile" ana="#ituile">tuile</term> ou d’<term type="gT"
                                 ref="#ardoise" ana="#iardoise"
-                                >ardoise </term>neuve, et si
+                                >ardoise</term> neuve, et si
                             le <term
                                 type="gT" ref="#cintre"><choice>
                                     <orig>ceintre</orig>
@@ -17841,7 +17843,7 @@
                             sur les <term
                                 type="gT" ref="#couverture">couvertures</term> d’<term type="gT"
                                 ref="#ardoise" ana="#iardoise"
-                                >ardoise </term>pour éclairer les <term type="gT" ref="#comble"
+                                >ardoise</term> pour éclairer les <term type="gT" ref="#comble"
                                 ana="#icomble">combles</term> au lieu des <term type="gT"
                                 ref="#lucarne" ana="#ilucarne">lucarnes</term>, c’est le <term
                                 type="gT" ref="#plombier" ana="#iplombier"
@@ -17923,7 +17925,7 @@
                         <p xml:id="t9BodyFr03.04.p003">3. Aux <term type="gT" ref="#egout"
                                 >égouts</term> de thuile, chaque rang de <term type="gT"
                                 ref="#tuile" ana="#ituile"
-                                >tuile </term>entière du grand
+                                >tuile</term> entière du grand
                             moule par le dessous de la <term
                                 type="gT" ref="#saillie"
                                 >saillie</term> est compté pour demi pied courant non
@@ -18055,11 +18057,11 @@
                                 type="gT" ref="#egout">égout</term> en pointe.</p>
                         <p xml:id="t9BodyFr03.04.p008">8. L’on compte les <term type="gT"
                                 ref="#egout">égouts</term> d’<term type="gT" ref="#ardoise"
-                                ana="#iardoise">ardoise </term>comme les <term type="gT"
+                                ana="#iardoise">ardoise</term> comme les <term type="gT"
                                 ref="#egout">égouts</term> de
                                 <term
                                 type="gT" ref="#tuile" ana="#ituile"
-                            >tuile </term>suivant
+                            >tuile</term> suivant
                             leurs différentes manières.</p>
                         <p xml:id="t9BodyFr03.04.p009">9. Lorsqu’aux <term type="gT"
                                 ref="#couverture">couvertures</term> d’<term type="gT"
@@ -18070,7 +18072,7 @@
                                 type="gT" ref="#tuile" ana="#ituile"
                                 >tuiles</term> noircies par le dessus et par le
                             dessous, l’on compte ce qui est de <term
-                                type="gT" ref="#tuile" ana="#ituile">tuile </term>comme <term
+                                type="gT" ref="#tuile" ana="#ituile">tuile</term> comme <term
                                 type="gT" ref="#couverture">couverture</term> de <term type="gT"
                                 ref="#tuile" ana="#ituile"
                                 >tuile</term>, et l’on ne
@@ -18140,7 +18142,7 @@
                             prise quarrément <term
                                 type="gT" ref="#dEquerre">d'équerre</term> au pureau de la <term
                                 type="gT" ref="#tuile" ana="#ituile"
-                                >tuile </term>c’est à dire, qu’ayant mesuré la <term type="gT"
+                                >tuile</term> c’est à dire, qu’ayant mesuré la <term type="gT"
                                 ref="#longueur"
                                 >longueur</term>
                             des 4 <term type="gT"
@@ -18192,7 +18194,7 @@
                                 type="gT" ref="#gouttiere" ana="#igouttiere"><choice>
                                     <orig>goutière</orig>
                                     <reg>gouttière</reg>
-                                </choice></term>se compte à part à <term type="gT"
+                                </choice></term> se compte à part à <term type="gT"
                                 ref="#toiseCourante"
                                 >toise courante</term>, et est payé séparément
                             de la <term
@@ -18200,7 +18202,7 @@
                                 >couverture</term> sans rien augmenter pour sa pose et son scellement,
                             mais on compte les batellemens et la <term
                                 type="gT" ref="#tuile" ana="#ituile"
-                                >tuile </term>par augmentation pour 1/2 pied courant de
+                                >tuile</term> par augmentation pour 1/2 pied courant de
                             <term
                                 type="gT" ref="#hauteur">hauteur</term> de <term type="gT"
                                 ref="#couverture">couverture</term> de chaque côté sur la <term
@@ -18215,7 +18217,7 @@
                                 ana="#igouttiere"><choice>
                                     <orig>goutière</orig>
                                     <reg>gouttière</reg>
-                                </choice></term>sous les batellemens, l’on augmente
+                                </choice></term> sous les batellemens, l’on augmente
                             encore pour chaque <term
                                 type="gT" ref="#parement"
                                 >parement</term> un autre 1/2 pied courant de <term type="gT"
@@ -18224,18 +18226,18 @@
                                 type="gT" ref="#couverture">couverture</term>.</p>
                         <p xml:id="t9BodyFr03.04.p015">Quant aux <term type="gT" ref="#couverture"
                                 >couvertures</term> de <term type="gT" ref="#tuile" ana="#ituile"
-                                >tuile </term>neuves les batellemens des
+                                >tuile</term> neuves les batellemens des
                                 <term
                                 type="gT" ref="#gouttiere" ana="#igouttiere"><choice>
                                     <orig>goutières</orig>
                                     <reg>gouttières</reg>
-                                </choice></term>sont faites de vieille <term type="gT" ref="#tuile"
+                                </choice></term> sont faites de vieille <term type="gT" ref="#tuile"
                                 ana="#ituile"
                                 >tuile</term>, on en fait distinction,
                             et on les compte comme <term
                                 type="gT" ref="#couverture">couvertures</term> de <term type="gT"
                                 ref="#tuile" ana="#ituile"
-                                >tuile </term>maniée à bout quoique les <term type="gT"
+                                >tuile</term> maniée à bout quoique les <term type="gT"
                                 ref="#parement"><choice>
                                     <orig>paremens</orig>
                                     <reg>parements</reg>
@@ -18243,7 +18245,7 @@
                              <term type="gT"
                                 ref="#platre">plâtre</term> au dessous soient comptés en <term
                                 type="gT" ref="#tuile" ana="#ituile"
-                                >tuile </term>neuve comme le reste de la <term type="gT"
+                                >tuile</term> neuve comme le reste de la <term type="gT"
                                 ref="#couverture"
                                 >couverture</term>,
                             lorsqu’il y a du plomb sur les <term
@@ -18256,7 +18258,7 @@
                                 type="gT" ref="#gouttiere" ana="#igouttiere"><choice>
                                     <orig>goutière</orig>
                                     <reg>gouttière</reg>
-                                </choice></term>est
+                                </choice></term> est
                             de bois neuf fourni par l’<term
                                 type="gT" ref="#entrepreneur" ana="#ientrepreneur"
                                 >entrepreneur</term>, et si elle <pb xml:id="t9P159" n="p159"/>
@@ -18267,16 +18269,16 @@
                                 ref="#gouttiere" ana="#igouttiere"><choice>
                                     <orig>goutière</orig>
                                     <reg>gouttière</reg>
-                                </choice></term>en <term type="gT" ref="#couverture"
+                                </choice></term> en <term type="gT" ref="#couverture"
                                 >couverture</term> de manié à bout pour
                             son posement et scellement mais si le plomb servant de <term
                                 type="gT" ref="#gouttiere" ana="#igouttiere"><choice>
                                     <orig>goutière</orig>
                                     <reg>gouttière</reg>
-                                </choice></term>est immédiatement
+                                </choice></term> est immédiatement
                             posé sur une pente faite de <term
                                 type="gT" ref="#plancher" ana="#iplancher"
-                                >plancher </term>ou de lattes jointives, avec <term type="gT"
+                                >plancher</term> ou de lattes jointives, avec <term type="gT"
                                 ref="#platre"
                                 >plâtre</term>
                             fourni par l’<term
@@ -18313,7 +18315,7 @@
                                 type="gT" ref="#gouttiere" ana="#igouttiere"><choice>
                                     <orig>goutière</orig>
                                     <reg>gouttière</reg>
-                                </choice></term>contre le <term type="gT" ref="#mur"
+                                </choice></term> contre le <term type="gT" ref="#mur"
                                 >mur</term> ou les tuiaux, se compte pour 1 pied
                             courant de <term
                                 type="gT" ref="#couverture">couverture</term> sur sa <choice>
@@ -18386,7 +18388,7 @@
                                 type="gT" ref="#egout">égouts</term> chaque <term type="gT"
                                 ref="#ardoise" ana="#iardoise"
                                 >ardoise
-                            </term>entière de la <term
+                            </term> entière de la <term
                                 type="gT" ref="#saillie"
                                 >saillie</term> de dessous pour 1/2 pied comme aux <term type="gT"
                                 ref="#egout">égouts</term>
@@ -18399,7 +18401,7 @@
                                 type="gT" ref="#couverture">couvertures</term>
                             <pb xml:id="t9P160" n="p160"/>
                             <fw type="pageNum">160</fw> d’<term type="gT" ref="#ardoise"
-                                ana="#iardoise">ardoise </term>la <term type="gT" ref="#saillie"
+                                ana="#iardoise">ardoise</term> la <term type="gT" ref="#saillie"
                                 >saillie</term> de l’<term type="gT" ref="#egout"
                                 >égout</term> est faite avec
                             des <term
@@ -18407,7 +18409,7 @@
                                 type="gT" ref="#toiser">toise</term> séparément pour <term type="gT"
                                 ref="#couverture">couverture</term> d’<term type="gT" ref="#ardoise"
                                 ana="#iardoise"
-                                >ardoise </term>ce qui est
+                                >ardoise</term> ce qui est
                             fait d’<term
                                 type="gT" ref="#ardoise" ana="#iardoise"
                                 >ardoise </term>,
@@ -18417,7 +18419,7 @@
                             </term> à l’<term type="gT"
                                 ref="#egout">égout</term> pour <term type="gT" ref="#couverture"
                                 >couverture</term> de <term type="gT" ref="#tuile" ana="#ituile"
-                                >tuile </term>chacune selon sa valeur, de même aux
+                                >tuile</term> chacune selon sa valeur, de même aux
                             <term
                                 type="gT" ref="#couverture">couvertures</term> d’<term type="gT"
                                 ref="#ardoise" ana="#iardoise"
@@ -18428,7 +18430,7 @@
                                 >couverture</term> de
                                 <term
                                 type="gT" ref="#tuile" ana="#ituile"
-                                >tuile </term>séparément
+                                >tuile</term> séparément
                             de l’<term
                                 type="gT" ref="#ardoise" ana="#iardoise">ardoise </term>;</p>
                         <p xml:id="t9BodyFr03.04.p021">20. Les embardellemens sur les <term
@@ -18482,13 +18484,13 @@
                         <p xml:id="t9BodyFr03.04.p024">23. Toutes <term type="gT" ref="#lucarne"
                                 ana="#ilucarnes">lucarnes</term> et autres <term type="gT"
                                 ref="#saillie">saillies</term> en <term type="gT" ref="#ardoise"
-                                ana="#iardoise">ardoise </term>ou en <term type="gT" ref="#platre"
+                                ana="#iardoise">ardoise</term> ou en <term type="gT" ref="#platre"
                                 >plâtre</term>
                             aux <term type="gT"
                                 ref="#couverture">couvertures</term> d’<term type="gT"
                                 ref="#ardoise" ana="#iardoise"
                                 >ardoise
-                            </term>sont comptées comme il est expliqué cy dessus pour les
+                            </term> sont comptées comme il est expliqué cy dessus pour les
                             <term
                                 type="gT" ref="#couverture">couvertures</term> de <term type="gT"
                                 ref="#tuile" ana="#ituile"
@@ -18496,7 +18498,7 @@
                             il en est de même aux <term
                                 type="gT" ref="#couverture"
                                 >couvertures</term> de manié à bout tant d’<term type="gT"
-                                ref="#ardoise" ana="#iardoise">ardoise </term>que de <term type="gT"
+                                ref="#ardoise" ana="#iardoise">ardoise</term> que de <term type="gT"
                                 ref="#tuile" ana="#ituile">tuiles</term> vieilles.</p>
                         <p xml:id="t9BodyFr03.04.p025">24. L’usage de compter les  <term type="gT"
                                 ref="#platre"
@@ -18506,9 +18508,9 @@
                                 >ouvrages</term> où ils sont faits n’est pas juste puisqu’ils <del
                                 rend="strikethrough">s</del>ont tant <pb xml:id="t9P161" n="p161"/>
                             <fw type="pageNum">161</fw> sur la <term type="gT" ref="#tuile"
-                                ana="#ituile">tuile </term>et sur l’<term type="gT" ref="#ardoise"
+                                ana="#ituile">tuile</term> et sur l’<term type="gT" ref="#ardoise"
                                 ana="#iardoise"
-                                >ardoise </term>neuve, que sur les vieilles maniées à
+                                >ardoise</term> neuve, que sur les vieilles maniées à
                             bout cependant il y a une grande différence de prix des uns aux autres
                             ce qui donne occasion aux <term
                                 type="gT" ref="#ouvrier" ana="#iOuvrier"
@@ -18608,7 +18610,7 @@
                             façon et la voiture, le bois, le charbon et l’employ, le temps de
                                 l’<term
                                 type="gT" ref="#ouvrier" ana="#iouvrier"
-                            >ouvrier </term>et
+                            >ouvrier</term> et
                             la pose sont comprises.</p>
                         <pb xml:id="t9P163" n="p163"/>
                         <fw type="pageNum">163</fw>
@@ -18705,8 +18707,7 @@
                                 >ouvrages</term>
                             de <term type="gT"
                                 ref="#carrelage" ana="#icarrelage"
-                                >carrelage
-                            </term>les <term type="gT"
+                                >carrelage</term> les <term type="gT"
                                 ref="#aire"
                                 >aires</term> des sales et des
                             autres <term
@@ -18759,7 +18760,7 @@
                                 >plâtre</term> doivent estre
                             bien dressés de nouveau afin de poser immédiatement le <term
                                 type="gT" ref="#carreau" ana="#icarreau"
-                            >carreau </term>dessus sans poussière
+                            >carreau</term> dessus sans poussière
                             entre deux.</p>
                         <p xml:id="t9BodyFr04.02.p004"
                                 >4. Ce sont les maîtres potiers de terre qui
@@ -18865,12 +18866,12 @@
                             les menuisiers fournissent les <term
                                 type="gT" ref="#lambourde">lambourdes</term> au dessus qu’ils <subst>
                                 <add rend="overWriting">es</add>
-                            </subst>pacent de 9 à 10 pouces de distance l’une de l’autre, il les
+                            </subst> pacent de 9 à 10 pouces de distance l’une de l’autre, il les
                             posent de niveau sur des cales, et c’est le maçon qui les scellent dans
                             toute leur <term
                                 type="gT" ref="#longueur">longueur</term> en auget ou autrement.</p>
                         <p xml:id="t9BodyFr04.03.p002">2. Le <term type="gT" ref="#parquet"
-                                ana="#iparquet">parquet </term>se <term type="gT" ref="#toiser"
+                                ana="#iparquet">parquet</term> se <term type="gT" ref="#toiser"
                                 >toise</term> sur la <term type="gT" ref="#longueur"
                                 >longueur</term> et <term type="gT" ref="#largeur"
                                 >largeur</term>
@@ -18913,10 +18914,10 @@
                                 >toisent</term> comme
                             le <term type="gT"
                                 ref="#parquet" ana="#iparquet"
-                            >parquet </term>selon
+                            >parquet</term> selon
                             leur quantité.</p>
                         <p xml:id="t9BodyFr04.03.p004">4. Les <term type="gT" ref="#lambris"
-                                ana="#ilambris">lambris </term>d’assemblages avec <term type="gT"
+                                ana="#ilambris">lambris</term> d’assemblages avec <term type="gT"
                                 ref="#panneau"
                                 >panneaux</term> simples
                             ou avec <term
@@ -18925,7 +18926,7 @@
                                 ref="#plinthe">plinthes</term>,
                             <term
                                 type="gT" ref="#cimaise">cimaises</term> et <term type="gT"
-                                ref="#corniche" ana="#icorniche">corniches</term>se <term type="gT"
+                                ref="#corniche" ana="#icorniche">corniches</term> se <term type="gT"
                                 ref="#toiser">toisent</term> dans leur pourtour et <term type="gT"
                                 ref="#hauteur"
                                 >hauteur</term>, et se
@@ -18943,14 +18944,14 @@
                             planche ni des <term
                                 type="gT" ref="#cadre">cadres</term> et <term type="gT"
                                 ref="#corniche" ana="#icorniche"
-                                >corniches</term>de
+                                >corniches</term> de
                             <term type="gT"
                                 ref="#menuiserie">menuiserie</term>, mesurant simplement la <term
                                 type="gT" ref="#hauteur"
                                 >hauteur</term> depuis le dessous de la
                                 cor<term
                                 type="gT" ref="#niche" ana="#iniche"
-                                >niche</term>ou
+                                >niche</term> ou
                             <term type="gT"
                                 ref="#corniche" ana="#icorniche">corniche</term> ou <term type="gT"
                                 ref="#moulure"
@@ -18958,10 +18959,10 @@
                                 <term
                                 type="gT" ref="#lambris" ana="#ilambris"
                                 >lambris
-                            </term>jusques sur le <term
-                                type="gT" ref="#parquet" ana="#iparquet">parquet </term>ou <term
+                            </term> jusques sur le <term
+                                type="gT" ref="#parquet" ana="#iparquet">parquet</term> ou <term
                                 type="gT" ref="#carreau" ana="#icarreau"
-                                >carreau </term>dans la <term type="gT" ref="#longueur"
+                                >carreau</term> dans la <term type="gT" ref="#longueur"
                                 >longueur</term> ou pourtour des chambres, la façon
                             de l’<term
                                 type="gT" ref="#ouvrage"
@@ -18987,12 +18988,12 @@
                                     <reg>parements</reg>
                                 </choice></term> servans de <term type="gT" ref="#cloison"
                                 ana="#icloison"
-                                >cloison </term>pour séparer
+                                >cloison</term> pour séparer
                             2 chambres ou autres <term
                                 type="gT" ref="#piece">pièces</term> se <term type="gT"
                                 ref="#toiser">toisent</term> comme les <term type="gT"
                                 ref="#lambris" ana="#ilambris"
-                                >lambris </term>simples par l’une des
+                                >lambris</term> simples par l’une des
                             <term
                                 type="gT" ref="#face">faces</term> seulement sur leur <term
                                 type="gT" ref="#hauteur"
@@ -19008,7 +19009,7 @@
                                 type="gT" ref="#toiseSuperficielle"
                                 >toise
                                 superficielles</term>, mais les <term
-                                type="gT" ref="#lambris" ana="#ilambris">lambris </term>d’<term
+                                type="gT" ref="#lambris" ana="#ilambris">lambris</term> d’<term
                                 type="gT" ref="#appui">appui</term> étant de différentes <term
                                 type="gT" ref="#hauteur"
                             >hauteurs</term> il est plus juste de les
@@ -19019,7 +19020,7 @@
                                 >planchers</term> jointes à rainures et languettes
                             ou autrement se <term
                                 type="gT" ref="#toiser">toisent</term> comme les <term type="gT"
-                                ref="#lambris" ana="#ilambris">lambris </term>par leur <term
+                                ref="#lambris" ana="#ilambris">lambris</term> par leur <term
                                 type="gT" ref="#longueur">longueur</term> et <term type="gT"
                                 ref="#hauteur"
                                 >hauteur</term>, on les
@@ -19035,7 +19036,7 @@
                             joints des <term
                                 type="gT" ref="#plancher" ana="#iplancher">planchers</term>..</p>
                         <p xml:id="t9BodyFr04.03.p008">8. Aux <term type="gT" ref="#lambris"
-                                ana="#ilambris">lambris </term>ou <term type="gT" ref="#cloison"
+                                ana="#ilambris">lambris</term> ou <term type="gT" ref="#cloison"
                                 ana="#icloison">cloisons</term> qui forment des <term type="gT"
                                 ref="#retour">retours</term> à <term type="gT" ref="#angle"
                                 >angles</term> saillans ou rentrans, on <term type="gT"
@@ -19099,11 +19100,11 @@
                                 type="gT" ref="#toiser"
                                 >toisent</term> dans tout le pourtour de leurs côtés et <term
                                 type="gT" ref="#plafond" ana="#iplafond"
-                                >plafond </term>en
+                                >plafond</term> en
                             augmentant un pouce de <term
                                 type="gT" ref="#longueur">longueur</term> à chaque bout du <term
                                 type="gT" ref="#plafond" ana="#iplafond"
-                                >plafond </term>pour son recouvrement
+                                >plafond</term> pour son recouvrement
                             sur les côtés montans, l’on mesure leur <term
                                 type="gT" ref="#largeur"
                                 >largeur</term> dans l’épaisseur des
@@ -19142,9 +19143,9 @@
                             <term
                                 type="gT" ref="#cimaise"
                                 >cimaises</term> que l’on raporte des vieux <term type="gT"
-                                ref="#lambris" ana="#ilambris">lambris </term>ou sur des <term
+                                ref="#lambris" ana="#ilambris">lambris</term> ou sur des <term
                                 type="gT" ref="#lambris" ana="#ilambris"
-                                >lambris </term>neufs après coup,
+                                >lambris</term> neufs après coup,
                             c’est à dire, après que l’<term
                                 type="gT" ref="#ouvrage"
                                 >ouvrage</term> est fait et posé, et les tringles que
@@ -19167,13 +19168,13 @@
                             <term
                                 type="gT" ref="#panneau">panneaux</term> de <term type="gT"
                                 ref="#verre" ana="#iverre"
-                                >verre </term>et à
+                                >verre</term> et à
                                 <term type="gT"
                                 ref="#carreau" ana="#icarreau"
                                 >carreaux</term> avec
                             ou sans <term
                                 type="gT" ref="#volet" ana="#ivolet"
-                                >volet </term>ouvrant
+                                >volet</term> ouvrant
                             ou à coulisse, plus ou moins large pour estre comptées sur différents
                             prix à proportion de leur <term
                                 type="gT" ref="#largeur">largeur</term> et qualité aux <term
@@ -19322,8 +19323,7 @@
                                 >fer</term> en
                             compte au <term type="gT"
                                 ref="#serrurier" ana="#iserrurier"
-                                >serrurier
-                            </term>s’il le façonne et le pose aux endroits où il convient
+                                >serrurier</term> s’il le façonne et le pose aux endroits où il convient
                             indifféremment avec le <term
                                 type="gT" ref="#fer"
                                 >fer</term> neuf, on les reçoit tant l’un que l’autre au
@@ -19429,7 +19429,7 @@
                                     <reg>fenêtres</reg>
                                 </choice></term> et autres semblables sont comptés au pied courant, leurs
                             poulies des bouts pour passer les <term
-                                type="gT" ref="#cordon">cordons</term>, leurs <sic>gonneaux</sic>
+                                type="gT" ref="#cordon">cordons</term>, leurs <sic>gonneaux</sic> 
                             <!-- TODO vérifier qu'il s'agit bien d'un sic --> et pitons se comptent
                             à part.</p>
                         <p xml:id="t9BodyFr04.04.p010">10. Tous les autres <term type="gT"
@@ -19466,10 +19466,10 @@
                                 ref="#panneau">panneaux</term> de <term type="gT" ref="#verre"
                                 ana="#iverre"
                                 >verre
-                            </term>neuf et les vieux <term
+                            </term> neuf et les vieux <term
                                 type="gT" ref="#panneau">panneaux</term> de <term type="gT"
                                 ref="#verre" ana="#iverre"
-                                >verre </term>remis en plomb neuf, ces 3 sortes
+                                >verre</term> remis en plomb neuf, ces 3 sortes
                             d’<term
                                 type="gT" ref="#ouvrage">ouvrages</term> se <term type="gT"
                                 ref="#toiser">toisent</term> chacun sur leur <term type="gT"
@@ -19493,7 +19493,7 @@
                             <term type="gT"
                                 ref="#panneau">panneaux</term> de <term type="gT" ref="#verre"
                                 ana="#iverre"
-                                >verre </term>pour
+                                >verre</term> pour
                             la facilité et l’abréviation du calcul est par pied, pouces, <term
                                 type="gT" ref="#ligne"
                                 >lignes</term>,
@@ -19511,13 +19511,13 @@
                         </p>
                         <p xml:id="t9BodyFr04.05.p005">4. Un <term type="gT" ref="#carreau"
                                 ana="#icarreau"
-                                >carreau </term>qui auroit 14 pouces de haut sur un
+                                >carreau</term> qui auroit 14 pouces de haut sur un
                             pied de large contiendroit 164 pouces quarrés en superficie qui feroit 1
                             pied 2 pouces suivant la manière de <term
                                 type="gT" ref="#toiser">toiser</term>, de même un <term type="gT"
                                 ref="#panneau">panneau</term> de <term type="gT" ref="#verre"
                                 ana="#iverre"
-                                >verre </term>qui auroit 2 pieds
+                                >verre</term> qui auroit 2 pieds
                             3 pouces de haut sur 1 pied 10 pouces de large, contiendroit 4 pieds et
                             18 pouces en superficie, il seroit compté pour 4 pieds 1 pouce 6 <term
                                 type="gT" ref="#ligne"
@@ -19544,7 +19544,7 @@
                                 xml:id="t9P174" n="p174"/>
                             <fw type="pageNum">174</fw> Les <term type="gT" ref="#carreau"
                                 ana="#icarreau">carreaux</term> de <term type="gT" ref="#verre"
-                                ana="#iverre">verre </term>neuf sont plus chers que les <term
+                                ana="#iverre">verre</term> neuf sont plus chers que les <term
                                 type="gT" ref="#panneau"
                                 >panneaux</term>
                             neufs quoiqu’aux <term
@@ -19553,7 +19553,7 @@
                             assemble toutes les pièces, parce que pour tailler les <term
                                 type="gT" ref="#carreau" ana="#icarreau"
                                 >carreaux</term> dans un plat de <term type="gT" ref="#verre"
-                                ana="#iverre">verre </term>qui est <term type="gT" ref="#rond"
+                                ana="#iverre">verre</term> qui est <term type="gT" ref="#rond"
                                 >rond</term> ayant
                             une boudine au milieu, il y a beaucoup plus de déchet que de tailler les
                             pièces des <term
@@ -19562,10 +19562,10 @@
                             grandeur dans un même panneau.</p>
                         <p xml:id="t9BodyFr04.05.p006">6. Plus les <term type="gT" ref="#panneau"
                                 >panneaux</term> de <term type="gT" ref="#verre" ana="#iverre"
-                                >verre </term>sont grands, plus le pied de
+                                >verre</term> sont grands, plus le pied de
                                 <term
                                 type="gT" ref="#verre" ana="#iverre"
-                                >verre </term>en est cher,
+                                >verre</term> en est cher,
                             et les <term
                                 type="gT" ref="#carreau" ana="#icarreau"
                                 >carreaux</term>
@@ -19589,7 +19589,7 @@
                                 >panneaux</term> remis en plomb
                             lorsqu’on fait servir les vieilles pièces de <term
                                 type="gT" ref="#verre" ana="#iverre"
-                            >verre </term>en les rassemblant avec des
+                            >verre</term> en les rassemblant avec des
                             plombs neufs.</p>
                         <p xml:id="t9BodyFr04.05.p008"
                                 >8. Les vitriers fournissent les pointes pour
@@ -19616,7 +19616,7 @@
                             coulisses au lieu de <term
                                 type="gT" ref="#verre" ana="#iverre"
                                 >verre
-                            </term>sont fournis, colés et huilés par les vitriers. Les <term
+                            </term> sont fournis, colés et huilés par les vitriers. Les <term
                                 type="gT" ref="#carreau" ana="#icarreau"
                                 >carreaux</term> de papier
                             se payent à la pièce à proportion de la grandeur des feuilles de papier
@@ -19782,7 +19782,7 @@
                             forme de sable, le <term
                                 type="gT" ref="#pave" ana="#ipave"
                                 >pavé
-                            </term>de rabot s’éclate et se calcine au feu.</p>
+                            </term> de rabot s’éclate et se calcine au feu.</p>
                         <p xml:id="t9BodyFr04.06.p011">11. Touttes ces différentes espèces de <term
                                 type="gT" ref="#pave" ana="#ipave">pavé</term> se réduisent à <term
                                 type="gT" ref="#toiseCarree"><choice>
@@ -19989,7 +19989,7 @@
                             leur <term
                                 type="gT" ref="#longueur"
                                 >longueur</term> dans leur pourtour et <term type="gT"
-                                ref="#contour">contours</term>s tant droite que <term type="gT"
+                                ref="#contour">contours</term> tant droite que <term type="gT"
                                 ref="#courbe">courbes</term>,
                             <term
                                 type="gT" ref="#convexe">convexes</term> ou concaves, ou en <term
@@ -19997,9 +19997,9 @@
                                 >angles</term>
                             saillans et rentrans sans rien augmenter pour les <term
                                 type="gT" ref="#arête"><choice>
-                                    <orig>arreste</orig>
-                                    <reg>arête</reg>
-                                </choice>s</term> extérieures ou intérieures des <term type="gT"
+                                    <orig>arrestes</orig>
+                                    <reg>arêtes</reg>
+                                </choice></term> extérieures ou intérieures des <term type="gT"
                                 ref="#retour"
                                 >retours</term>
                             lorsque les <term
@@ -20229,7 +20229,7 @@
                                 <term type="gT"
                                 ref="#sculpture" ana="#isculpture"
                                 >sculpture
-                            </term>et aux <term type="gT"
+                            </term> et aux <term type="gT"
                                 ref="#frise">frises</term> décorées d’<term type="gT"
                                 ref="#ornement"><choice>
                                     <orig>ornemens</orig>
@@ -20285,7 +20285,7 @@
                                 >composent</term> aux
                                 <term
                                 type="gT" ref="#corniche" ana="#icorniche"
-                                >corniches</term>et
+                                >corniches</term> et
                                 <term type="gT"
                                 ref="#entablement" ana="#ientablement"><choice>
                                     <orig>entablemens</orig>
@@ -20491,7 +20491,7 @@
                                     <orig>ornemens</orig>
                                     <reg>ornements</reg>
                                 </choice></term>, saillans en <term type="gT" ref="#bossage"
-                                ana="#ibossage">bossage </term>se <term type="gT" ref="#toiser"
+                                ana="#ibossage">bossage</term> se <term type="gT" ref="#toiser"
                                 >toisent</term> pareillement en tournant
                             avec une <term
                                 type="gT" ref="#bande">bande</term> de parchemin <pb xml:id="t9P184"
@@ -20514,7 +20514,7 @@
                         <head rend="alignCenter">
                             <label><num>Chapitre 10<hi rend="superscript">e</hi></num></label>
                             <lb/>Concernant la <term type="gT" ref="#peinture" ana="#ipeinture"
-                                >peinture </term>et les impressions des couleurs</head>
+                                >peinture</term> et les impressions des couleurs</head>
                         <p xml:id="t9BodyFr04.10.p001">1. Les <term type="gT" ref="#peinture"
                                 ana="#ipeinture"
                                 >peintures</term> ordinaires des bâtimens que l’on
@@ -20539,7 +20539,7 @@
                                 ref="#cadre">cadres</term> et <term type="gT" ref="#panneau"
                                 >panneaux</term> avec <term type="gT" ref="#cimaise"
                                 >cimaises</term>, <term type="gT" ref="#corniche" ana="#icorniche"
-                                >corniches</term>et autres <term type="gT" ref="#moulure"
+                                >corniches</term> et autres <term type="gT" ref="#moulure"
                                 >moulures</term> en couleur de bois ruiné en
                             blanc gris ou autres couleurs, les couleurs que l’on couche à plat avec
                             des brosses sur la <term
@@ -20581,7 +20581,7 @@
                             faire sécher la couleur de noir à huile plus promptement on donne la
                                 2<hi
                                 rend="superscript"
-                            >de </hi>couche de noir incorporé avec du
+                            >de</hi> couche de noir incorporé avec du
                             vernis d’esprit de vin au lieu d’huile de noix, ce que l’on nomme noir
                             au vernis alors il est plus cher.</p>
                         <p xml:id="t9BodyFr04.10.p007"
@@ -20614,7 +20614,7 @@
                             </subst> est trop forte, la couleur s’écaille. </p>
                         <p xml:id="t9BodyFr04.10.p009">9. Le blanc en dét<term type="gT"
                                 ref="#rampe" ana="#irampe"
-                                >rampe </term>se fait avec du blanc
+                                >rampe</term> se fait avec du blanc
                             d’Espagne bien fin, le jaune et le rouge avec de l’ocre jaune ou rouge,
                             le noir avec du noir de fumée, le gris de perle avec du blanc d’Espagne
                             et du noir de fumée plus ou moins de l’un ou de l’autre selon qu’on le
@@ -20624,7 +20624,7 @@
                                 xml:id="t9P186" n="p186"/>
                             <fw type="pageNum">186</fw> Toutes <hi rend="annotation_reference">
                                 <ref type="noteHistorical" target="#t9Nh0026"/>
-                            </hi>les couleurs en détrempe sont à peu près de même prix. Le blanc est
+                            </hi> les couleurs en détrempe sont à peu près de même prix. Le blanc est
                             le meilleur marché.</p>
                         <p xml:id="t9BodyFr04.10.p010"
                                 >10. Le bon vernis est fait avec de l’esprit
@@ -20714,7 +20714,7 @@
                             droits que ceintrés se <term
                                 type="gT" ref="#toiser">toisent</term> du dessus de leur <term
                                 type="gT" ref="#corniche" ana="#icorniche"
-                                >corniche </term>sur la <term type="gT" ref="#longueur"
+                                >corniche</term> sur la <term type="gT" ref="#longueur"
                                 >longueur</term> et
                             <term type="gT"
                                 ref="#largeur"
@@ -20758,7 +20758,7 @@
                             sur le <term
                                 type="gT" ref="#lambris" ana="#ilambris"
                                 >lambris
-                            </term>tant en <term type="gT"
+                            </term> tant en <term type="gT"
                                 ref="#menuiserie">menuiserie</term> qu’en  <term type="gT"
                                 ref="#platre"
                                 >plâtre</term> sont mesurées chacune sur leur
@@ -20800,13 +20800,13 @@
                         <p xml:id="t9BodyFr04.10.p019">19. Les <term type="gT" ref="#croisee"
                                 >croisées</term> à <term type="gT" ref="#carreau" ana="#icarreau"
                                 >carreaux</term> de <term type="gT" ref="#verre" ana="#iverre"
-                                >verre </term>sans <term type="gT" ref="#volet" ana="#ivolet"
-                                >volet </term>peintes par le dedans et par
+                                >verre</term> sans <term type="gT" ref="#volet" ana="#ivolet"
+                                >volet</term> peintes par le dedans et par
                             le dehors à la réserve du dehors des petits bois et pourtour des bords
                             des bâtis des chassis à <term
                                 type="gT" ref="#verre" ana="#iverre"
                                 >verre
-                            </term>ou le papier doit estre colé, sont mesurées par le dedans les 2
+                            </term> ou le papier doit estre colé, sont mesurées par le dedans les 2
                             <term
                                 type="gT" ref="#face"
                                 >faces</term> n’estant comptées que pour une seule <term type="gT"
@@ -20822,7 +20822,7 @@
                                 ref="#carreau" ana="#icarreau">carreaux</term>
                             <pb xml:id="t9P188" n="p188"/>
                             <fw type="pageNum">188</fw> de <term type="gT" ref="#verre"
-                                ana="#iverre">verre </term>ont des <term type="gT" ref="#volet"
+                                ana="#iverre">verre</term> ont des <term type="gT" ref="#volet"
                                 ana="#ivolet">volets</term>, les <term type="gT" ref="#volet"
                                 ana="#ivolet">volets</term> ouvrent de toute la <term type="gT"
                                 ref="#hauteur">hauteur</term> des <term type="gT" ref="#croisee"
@@ -20841,17 +20841,17 @@
                         <p xml:id="t9BodyFr04.10.p020">20. Les <term type="gT" ref="#croisee"
                                 >croisées</term> à <term type="gT" ref="#panneau"
                                 >panneaux</term> de <term type="gT" ref="#verre" ana="#iverre"
-                                >verre </term>avec <term type="gT" ref="#volet" ana="#ivolet"
+                                >verre</term> avec <term type="gT" ref="#volet" ana="#ivolet"
                                 >volets</term> sont toisées par
                             le dedans et doublées pour les 2 <term
                                 type="gT" ref="#face">faces</term>. Quand il n’y a pas de <term
                                 type="gT" ref="#volet" ana="#ivolet"
                                 >volet</term>,elles sont toisées de même par le dedans et doublées,
                             et l’on en rabat le vuide de châssis à <term
-                                type="gT" ref="#verre" ana="#iverre">verre </term>pour les 2 <term
+                                type="gT" ref="#verre" ana="#iverre">verre</term> pour les 2 <term
                                 type="gT" ref="#face">faces</term>.</p>
                         <p xml:id="t9BodyFr04.10.p021">21. La <term type="gT" ref="#peinture"
-                                ana="#ipeinture">peinture </term>des <term type="gT" ref="#grille"
+                                ana="#ipeinture">peinture</term> des <term type="gT" ref="#grille"
                                 >grilles</term> à <term type="gT" ref="#carreau" ana="#icarreau"
                                 >carreaux</term> de <term type="gT" ref="#fer"
                                 >fer</term> par les 2
@@ -20987,7 +20987,7 @@
                                 >ouvrages</term>, tous n’y travaillans que pour y trouver
                             du profit et de quoy subsister. L’<term
                                 type="gT" ref="#entrepreneur" ana="#ientrepreneur"
-                                >entrepreneur </term>qui est habile sçait
+                                >entrepreneur</term> qui est habile sçait
                             choisir, débiter, employer les <term
                                 type="gT" ref="#materiau"
                                 >matériaux</term> avec peu de déchet. Au
@@ -20998,7 +20998,7 @@
                                 >ouvrages</term> soient moins bons
                             que ceux de l’autre <term
                                 type="gT" ref="#entrepreneur" ana="#ientrepreneur"
-                                >entrepreneur </term>qui a le moyen d’avancer et
+                                >entrepreneur</term> qui a le moyen d’avancer et
                             faire les amas de <term
                                 type="gT" ref="#materiau"
                                 >matériaux</term> dans le tems et les saisons où ils sont les
@@ -21070,7 +21070,7 @@
                                 cloître</term> sur des plans poligones 44</p>
                         <p xml:id="t9BackFr01.01.p014">Chapitre 10. Toisé des <term type="gT"
                                 ref="#vouteSpherique" ana="#ivouteSpherique"
-                            >voûte sphérique</term>s
+                            >voûte sphériques</term> 
                             47</p>
                         <p xml:id="t9BackFr01.01.p015">Chapitre 11. Toisé des <term type="gT"
                                 ref="#vouteSpheroide" ana="#ivouteSpheroide"
@@ -21161,7 +21161,7 @@
                         </p>
                         <p xml:id="t9BackFr01.01.p033">en vieux bois et étayemens 146</p>
                         <p xml:id="t9BackFr01.01.p034">Chapitre 9. <term type="gT" ref="#parallele"
-                                >parallèle</term>du toisé de la <term type="gT" ref="#charpente">
+                                >parallèle</term> du toisé de la <term type="gT" ref="#charpente">
                                 <choice>
                                     <abbr>charp.</abbr>
                                     <expan>charpente</expan>
@@ -21222,7 +21222,7 @@
                         <p xml:id="t9BackFr01.01.p052">Chapitre 9. La dorure 182</p>
                         <p xml:id="t9BackFr01.01.p053">Chapitre 10. La <term type="gT"
                                 ref="#peinture" ana="#ipeinture"
-                            >peinture </term>et les impressions
+                            >peinture</term> et les impressions
                             de couleur 184</p>
                         <p xml:id="t9BackFr01.01.p054"
                             >Chapitre 11. Conclusion du traité du toisé
