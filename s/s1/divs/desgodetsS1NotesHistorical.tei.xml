@@ -8,62 +8,50 @@
 <!-- RMQ : identifiants composés de l'identifiant dans le corpus, suivi de Nh pour notes historiques, suivi d'un numéro d'ordre à quatre unités -->
 <!-- TODO : encoder dans la bibliographie l'ensemble des références biblio des notes -->
 
-<div xmlns="http://www.tei-c.org/ns/1.0" type="notesHistorical" xml:id="s1BackFr01"
-    xml:lang="fre">
+<div xmlns="http://www.tei-c.org/ns/1.0" type="notesHistorical" xml:id="s1BackFr01" xml:lang="fre">
     <head>Notes de commentaire historique</head>
     <note xml:id="s1Nh0001">
-        <p> Il faut espérer que l’auteur ne confonde pas le juriste Claude de Ferrière
-            (1639-1715) avec son fils <hi rend="Desgodets_IndexNominum">[Claude-Joseph
-                de Ferrière ; Ferrière, Claude-Joseph de (1680?-1748?) ; </hi>
-            <ref target="numbering.xml">
-                <hi rend="Desgodets_IndexNominum"
-                    >http://catalogue.bnf.fr/ark:/12148/cb12176473t/PUBLIC</hi>
-            </ref>
-            <hi rend="Desgodets_IndexNominum">] qui a en particulier continué les
+        <p> Il faut espérer que l’auteur ne confonde pas le juriste <persName ref="#ferriereClaudeDeLa">Claude de Ferrière</persName>
+            (1639-1715) avec son fils <persName ref="#ferriereClaudeJosephDe">Claude-Joseph
+                de Ferrière</persName> qui a en particulier continué les
                 œuvres de son père, en particulier le Corps et compilation de tous les
                 commentateurs sur la coutume de Paris, réédité, corrigé et augmenté en
                 1714 et qui a été la base du travail d’Antoine Desgodets pour son cours
-                sur les servitudes. </hi>
-        </p>
+                sur les servitudes.</p>
     </note>
     <note xml:id="s1Nh0002">
-        <p> La Bourgogne est une <ref target="styles.xml">région historique</ref> et
-                <ref target="stylesWithEffects.xml">administrative</ref> située au
-            centre-est de la <ref target="settings.xml">France</ref> et constituée de
-            quatre <ref target="webSettings.xml">départements</ref> : l'<ref
-                target="footnotes.xml">Yonne</ref>, la <ref target="endnotes.xml"
-                >Côte-d'Or</ref>, la <ref
+        <p> La Bourgogne est une région historique et administrative située au centre-est de la France et constituée de
+            quatre départements : l'Yonne, la Côte-d'Or, la <ref
                 target="http://micmap.org/dicfro/introduction/dictionnaire-godefroy"
-                >Nièvre</ref> et la <ref target="http://cnrlt.fr">Saône-et-Loire</ref>.
+                >Nièvre</ref> et la <ref target="http://cnrlt.fr"
+                >Saône-et-Loire</ref>.
             Avec ses quatre départements, la Bourgogne est l'une des plus vastes
             régions de France. Elle couvre 6 % du territoire national. Au <ref
-                target="http://www.atilf.fr/dmf">Moyen Âge</ref>, il convient de
+                target="http://www.atilf.fr/dmf"
+                >Moyen Âge</ref>, il convient de
             distinguer le <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb125177213/PUBLIC">comté de
+                target="http://catalogue.bnf.fr/ark:/12148/cb125177213/PUBLIC"
+                >comté de
                 Bourgogne</ref> du <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15275624h/PUBLIC">duché de
+                target="http://catalogue.bnf.fr/ark:/12148/cb15275624h/PUBLIC"
+                >duché de
                 Bourgogne</ref>. Le premier (maintenant la <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15263371h/PUBLIC"
                 >Franche-Comté</ref>) était <ref target="#.C3.80_travers_l.27Histoire"
                 >terre d'empire</ref>, le second constitué des comtés de <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15259030b/PUBLIC"
-                >Mâcon</ref>, <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb152684563/PUBLIC"
-                >Chalon</ref>, <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15276507w/PUBLIC"
-                >Sens</ref>, <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15276507w/PUBLIC"
-                >Auxerre</ref>, <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15253258t/PUBLIC"
-                >Tonnerre</ref>, <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15266595s/PUBLIC"
-                >Nevers</ref>, <ref
+                target="http://catalogue.bnf.fr/ark:/12148/cb15259030b/PUBLIC">Mâcon</ref>, <ref
+                target="http://catalogue.bnf.fr/ark:/12148/cb152684563/PUBLIC">Chalon</ref>, <ref
+                target="http://catalogue.bnf.fr/ark:/12148/cb15276507w/PUBLIC">Sens</ref>, <ref
+                target="http://catalogue.bnf.fr/ark:/12148/cb15276507w/PUBLIC">Auxerre</ref>, <ref
+                target="http://catalogue.bnf.fr/ark:/12148/cb15253258t/PUBLIC">Tonnerre</ref>, <ref
+                target="http://catalogue.bnf.fr/ark:/12148/cb15266595s/PUBLIC">Nevers</ref>, <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15274614z/PUBLIC"
                 >Autun</ref> appartenait au royaume de France. Le <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb152684830/PUBLIC">Comté de
+                target="http://catalogue.bnf.fr/ark:/12148/cb152684830/PUBLIC"
+                >Comté de
                 Bourgogne</ref> constitue la majeure partie de la <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb152506017/PUBLIC"
-                >Franche-Comté</ref> actuelle. Le Duché de Bourgogne correspond lui à
+            >Franche-Comté</ref> actuelle. Le Duché de Bourgogne correspond lui à
             peu près à l'actuelle région Bourgogne moins la Nièvre.</p>
     </note>
     <note xml:id="s1Nh0003">
@@ -80,9 +68,12 @@
     </note>
     <note xml:id="s1Nh0005">
         <p> Cette notion existe depuis l’Antiquité, que ce soit à travers la cité
-            grecque ou par la <hi rend="italic">res publica</hi> ou la <hi
-                rend="italic">res nullius</hi> romaine. Cependant le bien matériel
-            appartenant à la communauté, le <hi rend="italic">bonus communis</hi>
+            grecque ou par la <hi
+                rend="italic">res publica</hi> ou la <hi rend="italic"
+                >res nullius</hi> romaine. Cependant le bien matériel
+            appartenant à la communauté, le <hi
+                rend="italic"
+                >bonus communis</hi>
             serait l’invention de Thomas d’Aquin. Au Moyen Age, dans le cadre du régime
             féodal, les biens communaux, gérés en commun par les occupants du domaine
             seigneurial donneront lieu à de longs développements de la pratique et de
@@ -90,10 +81,16 @@
             les fours banaux, les près, les bois que les droits d’usage, comme les
             droits de glanage, de vaine pâture, etc. Les seigneurs qui pouvaient seuls
             en restreindre l’usage s’affrontèrent souvent avec les communautés
-            villageoises. Voir Jean-Louis Halpérin, <hi rend="italic">op. cit</hi>.,
-            83-84, 171-174 et 184 ; Anne-Maris Patault, <hi rend="italic">op.
+            villageoises. Voir Jean-Louis Halpérin, <hi
+                rend="italic"
+                >op. cit</hi>.,
+            83-84, 171-174 et 184 ; Anne-Maris Patault, <hi
+                rend="italic"
+                >op.
                 cit.,</hi> p. 67-68, 165-167, 176, 179-180, 186-187, 194-196 ; N°
-            spécial de la <hi rend="italic">Revue Française d’Histoire ses Idées
+            spécial de la <hi
+                rend="italic"
+            >Revue Française d’Histoire ses Idées
                 Politiques</hi> consacré au « Pouvoir d’un seul et bien commun
             (VIe-XVIe siècles) », 32-2, 2010.</p>
     </note>
@@ -114,14 +111,14 @@
         <p> Le Perche-Gouët est une ancienne province de <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb153769284/PUBLIC"
                 >France</ref> située à 130 kilomètres environ à l'ouest-sud-ouest de
-                <ref target="http://catalogue.bnf.fr/ark:/12148/cb15257314f/PUBLIC"
+                <ref
+                target="http://catalogue.bnf.fr/ark:/12148/cb15257314f/PUBLIC"
                 >Paris</ref>. Elle s'étend de <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb152685222/PUBLIC"
                 >Nogent-le-Rotrou</ref> et <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb152646978/PUBLIC"
                 >Montmirail</ref> à <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15266627k/PUBLIC"
-                >Alluyes</ref>, <ref
+                target="http://catalogue.bnf.fr/ark:/12148/cb15266627k/PUBLIC">Alluyes</ref>, <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15247463q/PUBLIC"
                 >Illiers-Combray</ref> et <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15269925f/PUBLIC"
@@ -130,19 +127,16 @@
                 >Eure-et-Loir</ref> et pour partie dans le <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15280384j/PUBLIC"
                 >Loir-et-Cher</ref> et la <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb152532920/PUBLIC"
-                >Sarthe</ref>. </p>
+                target="http://catalogue.bnf.fr/ark:/12148/cb152532920/PUBLIC">Sarthe</ref>. </p>
     </note>
     <note xml:id="s1Nh0008">
         <p> Annappes est un village du <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb152765563/PUBLIC"
-                >Nord</ref> de la <ref
+                target="http://catalogue.bnf.fr/ark:/12148/cb152765563/PUBLIC">Nord</ref> de la <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb152753716/PUBLIC"
                 >France</ref> sur la <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15275419c/PUBLIC"
                 >Marque</ref> qui a formé en 1970 avec les communes d’<ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb152960475/PUBLIC"
-                >Ascq</ref> et de <ref
+                target="http://catalogue.bnf.fr/ark:/12148/cb152960475/PUBLIC">Ascq</ref> et de <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15267307c/PUBLIC"
                 >Flers-lez-Lille</ref> la ville nouvelle de <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb152673061/PUBLIC"
@@ -167,28 +161,26 @@
             département des <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15266681c/PUBLIC"
                 >Deux-Sèvres</ref> (<ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb153221685/PUBLIC"
-                >Pioussay</ref>, <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb152418385/PUBLIC"
-                >Hanc</ref> et <ref
+                target="http://catalogue.bnf.fr/ark:/12148/cb153221685/PUBLIC">Pioussay</ref>, <ref
+                target="http://catalogue.bnf.fr/ark:/12148/cb152418385/PUBLIC">Hanc</ref> et <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb153229869/PUBLIC"
                 >Bouin</ref>, issues du marquisat de <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb152493799/PUBLIC"
                 >Ruffec</ref>), ainsi que de <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb152988215/PUBLIC"
-                >Dordogne</ref> (<ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15266675f/PUBLIC">La
+                target="http://catalogue.bnf.fr/ark:/12148/cb152988215/PUBLIC">Dordogne</ref> (<ref
+                target="http://catalogue.bnf.fr/ark:/12148/cb15266675f/PUBLIC"
+                >La
                 Tour-Blanche</ref>).</p>
     </note>
     <note xml:id="s1Nh0010">
         <p> L’Anjou est une région <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15255083z/PUBLIC"
                 >historique</ref> et <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15253351p/PUBLIC"
-                >culturelle</ref>
+                target="http://catalogue.bnf.fr/ark:/12148/cb15253351p/PUBLIC">culturelle</ref>
             <ref target="http://catalogue.bnf.fr/ark:/12148/cb15253404f/PUBLIC"
                 >française</ref>, correspondant à l’<ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb152698224/PUBLIC">ancienne
+                target="http://catalogue.bnf.fr/ark:/12148/cb152698224/PUBLIC"
+                >ancienne
                 province</ref> du même nom et dont la capitale est <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15269409t/PUBLIC"
                 >Angers</ref>. Bien que le duché ait disparu, le terme « Anjou » est
@@ -197,54 +189,55 @@
         </p>
     </note>
     <note xml:id="s1Nh0011">
-        <p> L’Artois est un <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15257333q/PUBLIC">pays
+        <p> L’Artois est un <ref target="http://catalogue.bnf.fr/ark:/12148/cb15257333q/PUBLIC"
+                >pays
                 traditionnel</ref> de France et une <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15257335d/PUBLIC"
                 >province</ref> du Royaume sous l’<ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15247532q/PUBLIC">Ancien
+                target="http://catalogue.bnf.fr/ark:/12148/cb15247532q/PUBLIC"
+                >Ancien
                 Régime</ref>, ayant pour capitale <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15268635p/PUBLIC"
                 >Arras</ref>, aujourd’hui inclus dans le département du <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb152666983/PUBLIC"
-                >Pas-de-Calais</ref>.</p>
+            >Pas-de-Calais</ref>.</p>
     </note>
     <note xml:id="s1Nh0012">
         <p> L'Auvergne est d'une part une <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15274751f/PUBLIC">ancienne
+                target="http://catalogue.bnf.fr/ark:/12148/cb15274751f/PUBLIC"
+                >ancienne
                 province de France</ref> et d'autre part une <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15262721t/PUBLIC">région
+                target="http://catalogue.bnf.fr/ark:/12148/cb15262721t/PUBLIC"
+                >région
                 administrative</ref> située dans le <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15257338f/PUBLIC">Massif
+                target="http://catalogue.bnf.fr/ark:/12148/cb15257338f/PUBLIC"
+                >Massif
                 central</ref>. <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15243361s/PUBLIC"
                 >Clermont-Ferrand</ref> est le <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15262736v/PUBLIC"
                 >chef-lieu</ref> de la région administrative et la capitale de
             l'ancienne province. Les langues régionales sont l’<ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15254016k/PUBLIC"
-                >occitan</ref> (<ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb152754406/PUBLIC"
-                >Auvergnat</ref>, <ref
+                target="http://catalogue.bnf.fr/ark:/12148/cb15254016k/PUBLIC">occitan</ref> (<ref
+                target="http://catalogue.bnf.fr/ark:/12148/cb152754406/PUBLIC">Auvergnat</ref>, <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15254020t/PUBLIC"
                 >Haut-languedocien</ref>, <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb152576148/PUBLIC"
                 >Vivaro-alpin</ref>) et le <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15257348r/PUBLIC"
                 >bourbonnais</ref> (<ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb152573493/PUBLIC">langue
+                target="http://catalogue.bnf.fr/ark:/12148/cb152573493/PUBLIC"
+                >langue
                 d'oïl</ref>).</p>
         <p>La région administrative regroupe quatre <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15260478g/PUBLIC"
                 >départements</ref> : l'<ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15263371h/PUBLIC"
-                >Allier</ref>, le <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb152673824/PUBLIC"
-                >Cantal</ref>, la <ref
+                target="http://catalogue.bnf.fr/ark:/12148/cb15263371h/PUBLIC">Allier</ref>, le <ref
+                target="http://catalogue.bnf.fr/ark:/12148/cb152673824/PUBLIC">Cantal</ref>, la <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb152678459/PUBLIC"
                 >Haute-Loire</ref> et le <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15275457x/PUBLIC"
-                >Puy-de-Dôme</ref>.</p>
+            >Puy-de-Dôme</ref>.</p>
     </note>
     <note xml:id="s1Nh0013">
         <p> Il s’agit probablement d’un lieu dénommé « les Bancs de l’Épine
@@ -252,7 +245,8 @@
     </note>
     <note xml:id="s1Nh0014">
         <p> Le Béarn est un ancien État souverain puis une ancienne <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15267396t/PUBLIC">province
+                target="http://catalogue.bnf.fr/ark:/12148/cb15267396t/PUBLIC"
+                >province
                 française</ref>. Il forme avec la <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15269463m/PUBLIC"
                 >Basse-Navarre</ref>, le <ref
@@ -260,7 +254,8 @@
                 >Labourd</ref> et la <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15267398h/PUBLIC"
                 >Soule</ref> (composant le <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15253404f/PUBLIC">Pays
+                target="http://catalogue.bnf.fr/ark:/12148/cb15253404f/PUBLIC"
+                >Pays
                 basque français</ref>) le département des <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15253351p/PUBLIC"
                 >Pyrénées-Atlantiques</ref> (64).</p>
@@ -272,8 +267,7 @@
                 target="http://catalogue.bnf.fr/ark:/12148/cb152434078/PUBLIC"
                 >Manche</ref>, dans le département du <ref target="comments.xml"
                 >Pas-de-Calais</ref>. Il constitue l’arrière-pays du <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb152677064/PUBLIC)"
-                >port</ref> de <ref
+                target="http://catalogue.bnf.fr/ark:/12148/cb152677064/PUBLIC)">port</ref> de <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15243877j/PUBLIC"
                 >Boulogne-sur-Mer</ref>. Comté puis sénéchaussée de la <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb152438348/PUBLIC"
@@ -281,7 +275,7 @@
                 target="http://catalogue.bnf.fr/ark:/12148/cb152434078/PUBLIC"
                 >Assemblée constituante de 1789</ref> au département du <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb152435949/PUBLIC"
-                >Pas-de-Calais</ref>.</p>
+            >Pas-de-Calais</ref>.</p>
     </note>
     <note xml:id="s1Nh0016">
         <p> Il convient de distinguer le comté et le duché de Bourgogne. Le duché de
@@ -312,8 +306,7 @@
             </ref>. Le comté de Bourgogne est un important <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15275673q/PUBLIC">
                 <hi rend="italic">comté</hi>
-            </ref> fondé en <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb153043810/PUBLIC"
+            </ref> fondé en <ref target="http://catalogue.bnf.fr/ark:/12148/cb153043810/PUBLIC"
                 >986</ref> par le comte <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb152754406/PUBLIC">
                 <hi rend="italic">Otte-Guillaume de Bourgogne</hi>
@@ -330,8 +323,7 @@
                 <hi rend="superscript">e</hi> siècle</ref> par les <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15274898c/PUBLIC">
                 <hi rend="italic">comtes palatin de Bourgogne</hi>
-            </ref>, à l'origine <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15247532q/PUBLIC"
+            </ref>, à l'origine <ref target="http://catalogue.bnf.fr/ark:/12148/cb15247532q/PUBLIC"
                 >vassaux</ref> des <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15247463q/PUBLIC">
                 <hi rend="italic">ducs de Bourgogn</hi>e</ref> du <ref
@@ -347,8 +339,7 @@
                 >Saône</ref>, de l'<ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb152532920/PUBLIC"
                 >Ognon</ref> et du <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15253548b/PUBLIC"
-                >Doubs</ref>), l'<ref
+                target="http://catalogue.bnf.fr/ark:/12148/cb15253548b/PUBLIC">Doubs</ref>), l'<ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15253404f/PUBLIC"
                 >Escuens</ref> (région de <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15253351p/PUBLIC"
@@ -360,17 +351,18 @@
                 target="http://catalogue.bnf.fr/ark:/12148/cb15253258t/PUBLIC"
                 >Varais</ref> (région enserrée dans le « M » que forme le tracé de la
             rivière le <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15253612m/PUBLIC"
-                >Doubs</ref>).</p>
+                target="http://catalogue.bnf.fr/ark:/12148/cb15253612m/PUBLIC">Doubs</ref>).</p>
         <p>L'ensemble des territoires du comté, mouvant au cours des siècles,
             correspond aujourd'hui, approximativement à l'actuelle région de <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15253909j/PUBLIC"
-                >Franche-Comté</ref>.</p>
+            >Franche-Comté</ref>.</p>
     </note>
     <note xml:id="s1Nh0017">
-        <p> Le Labourd (anciennement écrit avec un <hi rend="italic">t</hi>)est la
+        <p> Le Labourd (anciennement écrit avec un <hi rend="italic"
+                >t</hi>)est la
             province la plus occidentale du <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15267936m/PUBLIC">Pays
+                target="http://catalogue.bnf.fr/ark:/12148/cb15267936m/PUBLIC"
+                >Pays
                 basque français</ref>. Il fait partie de l'<ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15274751f/PUBLIC">
                 <hi rend="italic">arrondissement de Bayonne</hi>
@@ -383,7 +375,8 @@
             <ref target="http://catalogue.bnf.fr/ark:/12148/cb15257555k/PUBLIC">
                 <hi rend="italic">Pyrénées-Atlantiques</hi>
             </ref>
-            <hi rend="italic">.</hi> Le bailliage du Labourd est attesté depuis 1247.
+            <hi rend="italic"
+                >.</hi> Le bailliage du Labourd est attesté depuis 1247.
             Son siège est à <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15259425v/PUBLIC">
                 <hi rend="italic">Ustaritz</hi>
@@ -403,7 +396,9 @@
             qui dépendait donc de la châtellenie de Lille, mais qui au spirituel
             dépendait de la paroisse de Fleurbaix (Artois). Elle forma une commune
             jusqu’en 1790 où elle fut réunit, à la demande des habitants et à l’avis du
-            district à la commune de <hi rend="Desgodets_IndexLocorum">[Fleurbaix ;
+            district à la commune de <hi
+                rend="Desgodets_IndexLocorum"
+                >[Fleurbaix ;
                 Fleurbaix (Pas-de-Calais, France) ; </hi>
             <ref target="http://catalogue.bnf.fr/ark:/12148/cb15278634j/PUBLIC">
                 <hi rend="Desgodets_IndexLocorum"
@@ -423,7 +418,8 @@
                 target="http://catalogue.bnf.fr/ark:/12148/cb152574361/PUBLIC">
                 <hi rend="italic">royaume de France</hi>
             </ref>. Son territoire couvrait approximativement la région actuelle de la
-                <ref target="http://catalogue.bnf.fr/ark:/12148/cb15257335d/PUBLIC">
+                <ref
+                target="http://catalogue.bnf.fr/ark:/12148/cb15257335d/PUBLIC">
                 <hi rend="italic">Bretagne</hi>
             </ref> et le département de la <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15257498k/PUBLIC">
@@ -438,21 +434,21 @@
         </p>
     </note>
     <note xml:id="s1Nh0021">
-        <p> L'Auvergne est une <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15254041s/PUBLIC">ancienne
+        <p> L'Auvergne est une <ref target="http://catalogue.bnf.fr/ark:/12148/cb15254041s/PUBLIC"
+                >ancienne
                 province de France</ref>. Elle est aujourd’hui une <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb152574272/PUBLIC">
                 <hi rend="italic">région administrative</hi>
             </ref> située dans le <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb152575082/PUBLIC">Massif
+                target="http://catalogue.bnf.fr/ark:/12148/cb152575082/PUBLIC"
+                >Massif
                 central</ref>. <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb152576148/PUBLIC"
                 >Clermont-Ferrand</ref> est le <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15259377t/PUBLIC"
                 >chef-lieu</ref> de la région administrative et la capitale de
             l'ancienne province. Les langues régionales sont l’<ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb152592944/PUBLIC"
-                >occitan</ref> (<ref
+                target="http://catalogue.bnf.fr/ark:/12148/cb152592944/PUBLIC">occitan</ref> (<ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb152594684/PUBLIC">
                 <hi rend="italic">Auvergnat</hi>
             </ref>
@@ -463,11 +459,11 @@
             <hi rend="italic">, </hi>
             <ref target="http://catalogue.bnf.fr/ark:/12148/cb153221685/PUBLIC">
                 <hi rend="italic">Vivaro-alpin</hi>
-            </ref>) et le <ref
-                target="http://catalogue.bnf.fr/ark:/12148/cb15244326h/PUBLIC"
+            </ref>) et le <ref target="http://catalogue.bnf.fr/ark:/12148/cb15244326h/PUBLIC"
                 >bourbonnais</ref> (<ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb152440480/PUBLIC">
-                <hi rend="italic">langue d'oï</hi>l</ref>). La région administrative
+                <hi rend="italic"
+                >langue d'oï</hi>l</ref>). La région administrative
             regroupe quatre <ref
                 target="http://catalogue.bnf.fr/ark:/12148/cb15249447z/PUBLIC"
                 >départements</ref> : <hi rend="italic">l'</hi>
@@ -493,7 +489,8 @@
             <ref target="http://catalogue.bnf.fr/ark:/12148/cb15269728x/PUBLIC">
                 <hi rend="italic">Haute-Auvergne</hi>
             </ref>. Le département de l'Allier correspond approximativement au
-                Bourbonnais.<hi rend="cite_crochet1"> ] </hi>
+                Bourbonnais.<hi
+                rend="cite_crochet1"> ] </hi>
         </p>
     </note>
     <note xml:id="s1Nh0022">
@@ -509,29 +506,32 @@
             </ref> est le <ref target="footer2.xml">
                 <hi rend="italic">chef-lieu</hi>
             </ref> de la région administrative et la capitale de l'ancienne province.
-            On distinguait autrefois les pays de <ref target="fontTable.xml">
+            On distinguait autrefois les pays de <ref
+                target="fontTable.xml">
                 <hi rend="italic">Basse</hi>
             </ref> et de <ref target="theme/theme1.xml">
                 <hi rend="italic">Haute-Auvergne</hi>
             </ref>.</p>
     </note>
     <note xml:id="s1Nh0023">
-        <p> Aujourd'hui, le Vermandois est le pays dont la ville-centre est <ref
-                target="">
+        <p> Aujourd'hui, le Vermandois est le pays dont la ville-centre est <ref target="">
                 <hi rend="italic">Saint-Quentin</hi>
             </ref>, ville du <ref target="">
                 <hi rend="italic">département de l'Aisne</hi>
             </ref> dans la région <ref target="">
                 <hi rend="italic">Picardie</hi>
             </ref>. Mais le Vermandois historique était beaucoup plus vaste. Le pagus
-            Viromandensis du <ref target="">haut Moyen Âge</ref> correspondait à la
-            plus grande partie de l'<ref target="">
+            Viromandensis du <ref
+                target=""
+                >haut Moyen Âge</ref> correspondait à la
+            plus grande partie de l'<ref
+                target="">
                 <hi rend="italic">évêché</hi>
             </ref> du même nom, sauf un petit secteur autour de <ref target="">
                 <hi rend="italic">Noyon</hi>
             </ref>, appelé pagus noviomensis ou Noyonnais. Il était l'héritier de la
-            civitas Viromanduorum, le territoire des <ref target=""
-            >Viromanduens</ref>.</p>
+            civitas Viromanduorum, le territoire des <ref
+                target="">Viromanduens</ref>.</p>
     </note>
     <note xml:id="s1Nh0024">
         <p> La Saintonge est une province française à cheval aujourd’hui sur 5
@@ -539,10 +539,14 @@
     </note>
     <note xml:id="s1Nh0025">
         <p> L’article défini figure dans la version publiée par le Bourdot de
-            Richebourg (<hi rend="italic">op. cit.,</hi> t. 3, p. 44) alors qu’il est
+            Richebourg (<hi
+                rend="italic"
+                >op. cit.,</hi> t. 3, p. 44) alors qu’il est
             remplacé par l’article indéfini « un » dans l’édition de Goupy. Cette
             erreur de transcription permet d’affirmer que Goupy s’est bien servi du Ms
-            95 pour éditer les <hi rend="italic">Loix des bâtimens</hi>. En effet,
+            95 pour éditer les <hi
+                rend="italic"
+            >Loix des bâtimens</hi>. En effet,
             l’erreur figure bien dans ledit manuscrit et est probablement du à une
             copie d’après l’ouvrage de Ferrière.</p>
     </note>
@@ -552,15 +556,19 @@
             coutume, publié par Bourdot de Richebour, op. cit., t. 3, p. 81-82.</p>
     </note>
     <note xml:id="s1Nh0027">
-        <p> Bourdot de Richebourg, <hi rend="italic">Nouveau coutumier général</hi>, t.
+        <p> Bourdot de Richebourg, <hi rend="italic"
+                >Nouveau coutumier général</hi>, t.
             3, p. 388. Voit pour des commentaires approfondis, ceux de Jean Bobé, <hi
-                rend="italic">Commentaire sur les coutumes générales du baillaige de
+                rend="italic"
+                >Commentaire sur les coutumes générales du baillaige de
                 Meaux, avec des notes sur la coutume de Paris, et une conférence des
                 deux coutumes</hi>, Paris, 1683.</p>
     </note>
     <note xml:id="s1Nh0028">
         <p> Cette coutume se retrouve dans Charles A. Bourdot de Richebourg,
-            (1665-1735) avocat au Parlement, <hi rend="italic">Nouveau Coutumier
+            (1665-1735) avocat au Parlement, <hi
+                rend="italic"
+                >Nouveau Coutumier
                 Général, ou Corps des coutumes générales et particulières de France et
                 des provinces connues sous le nom des Gaules, avec les notes de MM.
                 Toussaint Chauvelin, Julien Brodeau &amp; Jean-Marie Ricard, avocats au
@@ -577,7 +585,8 @@
             Desgodets ait consulté cet ouvrage pour écrire le manuscrit préparatoire de
             son cours. Cette coutume a été analysé plus tard par Louis-Alphonse
             Sevenet, avocat en Parlement &amp; notaire au Châtelet de Melun, <hi
-                rend="italic">Coutume du bailliage de Melun, anciens ressorts &amp;
+                rend="italic"
+                >Coutume du bailliage de Melun, anciens ressorts &amp;
                 enclaves d’icelui, suivant la réformation accordée en l’Assemblée des
                 trois Etats dudit bailliage, au mois d’avril mil cinq cent soixante,
                 avec des observations nouvelles, où l’on a renfermé tout ce qui a paru
@@ -589,20 +598,24 @@
     </note>
     <note xml:id="s1Nh0029">
         <p> Ces remarques sur les servitudes sont copiées du procès-verbal
-            d’installation de la nouvelle coutume reproduit dans le <hi rend="italic"
+            d’installation de la nouvelle coutume reproduit dans le <hi
+                rend="italic"
                 >Nouveau Coutumier Général </hi>de Bourdot de Richebourg, t. 3, p. 473.
             Le dernier paragraphe qui relève davantage de la police que des servitudes
             concerne les usages des bâtiments en ville à propos de l’élevage des bêtes,
             de leur passage en boucherie et du traitement des déchets. Ces articles ont
             été rajoutés à la fin de la coutume dans un chapitre intitulé « autres
-            coutumes » comme servant le bien public (<hi rend="italic">op. cit.,</hi>
+            coutumes » comme servant le bien public (<hi
+                rend="italic"
+            >op. cit.,</hi>
             t. 3, p. 458) . Cela démontre la volonté de Desgodets de parcourir
             l’ensemble des coutumes et d’y relever de près ou de loin ce qui touche à
             l’architecture pris au sens large, à la construction mais aussi aux usages
             des biens immeubles. </p>
     </note>
     <note xml:id="s1Nh0030">
-        <p> Du latin <hi rend="italic">cuniculus</hi>, signifie « lapin ». Dans sa
+        <p> Du latin <hi rend="italic"
+            >cuniculus</hi>, signifie « lapin ». Dans sa
             forme ancienne le mot prends deux « n ».</p>
     </note>
     <note xml:id="s1Nh0031">
@@ -614,7 +627,8 @@
             par Desgodets et annoté par Goupy ? Dans les commentaires de Bourdot de
             Richebourg, il n’ya pas de renvoi à la coutume d’Etampes. Ceci dit, la
             référence à la coutume d’Etampes peut avoir été rajoutée à la lecture des
-            articles de ladite coutume contenue dans le <hi rend="italic">Nouveau
+            articles de ladite coutume contenue dans le <hi
+                rend="italic">Nouveau
                 Coutumier Général</hi>, t. 3, p. 99.</p>
     </note>
     <note xml:id="s1Nh0032">
@@ -627,56 +641,65 @@
             ou le copiste s’approprie le texte. </p>
     </note>
     <note xml:id="s1Nh0034">
-        <p> L’explication du mot figure en note dans Bourdot d Richebourg, <hi
-                rend="italic">op. cit</hi>., t. 3, p. 514, d.</p>
+        <p> L’explication du mot figure en note dans Bourdot d Richebourg, <hi rend="italic"
+                >op. cit</hi>., t. 3, p. 514, d.</p>
     </note>
     <note xml:id="s1Nh0035">
         <p> Ces remarques sont empruntées au procès-verbal d’installation de la
-            nouvelle coutume et publié par Bourdot de Richebour, <hi rend="italic">op.
+            nouvelle coutume et publié par Bourdot de Richebour, <hi
+                rend="italic">op.
                 cit,</hi> t. 3, p. 553.</p>
     </note>
     <note xml:id="s1Nh0036">
         <p> L’article défini ne figure pas dans la version publiée par Bourdot de
-                Richebourg<hi rend="italic">, op. cit,,</hi> t. 3, p. 599.</p>
+                Richebourg<hi
+                rend="italic">, op. cit,,</hi> t. 3, p. 599.</p>
     </note>
     <note xml:id="s1Nh0037">
         <p>
             <hi rend="italic">Ibid</hi>.</p>
     </note>
     <note xml:id="s1Nh0038">
-        <p> Chez Bourdot de Richebourg, ce mot est initialement « terre » (<hi
-                rend="italic">ibid</hi>.)</p>
+        <p> Chez Bourdot de Richebourg, ce mot est initialement « terre » (<hi rend="italic"
+                >ibid</hi>.)</p>
     </note>
     <note xml:id="s1Nh0039">
         <p> L’usage de « ne » à la place de « ni » en ancien français est récurrent
-            depuis le Moyen Age. Le <hi rend="italic">Dictionnaire</hi> d’Antoine
+            depuis le Moyen Age. Le <hi
+                rend="italic"
+                >Dictionnaire</hi> d’Antoine
             Furetière (Paris, 1690) à l’entrée « ni », renvoie directement à l’entrée
-            « ne ». Voir Ambroise Quéffelec, <hi rend="italic">La négation en ancien
+            « ne ». Voir Ambroise Quéffelec, <hi
+                rend="italic"
+                >La négation en ancien
                 français</hi>, Thèse de doctorat d’Etat, Université de Paris IV, 1985.
-            Claude Muller,<hi rend="italic"> La négation en français. Syntaxe,
+            Claude Muller,<hi
+                rend="italic"
+                > La négation en français. Syntaxe,
                 sémantique et éléments de comparaison avec les autres langues
                 romanes</hi>, Genève, Droz, Publications romanes et françaises,
             CXCVIII, 1991.</p>
     </note>
     <note xml:id="s1Nh0040">
-        <p> Chez Bourdot de Richebourg, ce mot est initialement « toutesfois » (<hi
-                rend="italic">ibid</hi>.)</p>
+        <p> Chez Bourdot de Richebourg, ce mot est initialement « toutesfois » (<hi rend="italic"
+                >ibid</hi>.)</p>
     </note>
     <note xml:id="s1Nh0041">
-        <p> Chez Bourdot de Richebourg, ce mot est initialement « en » (<hi
-                rend="italic">op. cit., </hi>t. 3, p. 600 )</p>
+        <p> Chez Bourdot de Richebourg, ce mot est initialement « en » (<hi rend="italic"
+                >op. cit., </hi>t. 3, p. 600 )</p>
     </note>
     <note xml:id="s1Nh0042">
-        <p> Chez Bourdot de Richebourg, ce mot est initialement « led. » (<hi
-                rend="italic">ibid</hi>.)</p>
+        <p> Chez Bourdot de Richebourg, ce mot est initialement « led. » (<hi rend="italic"
+                >ibid</hi>.)</p>
     </note>
     <note xml:id="s1Nh0043">
-        <p> Cf. note <hi rend="italic">supra</hi> à propos de la coutume de Sens. Chez
+        <p> Cf. note <hi rend="italic"
+            >supra</hi> à propos de la coutume de Sens. Chez
             Bourdot de Richebourg, ce mot est écrit « quoys ».</p>
     </note>
     <note xml:id="s1Nh0044">
-        <p> Chez Bourdot de Richebourg, ce mot est initialement « ne » (<hi
-                rend="italic">ibid</hi>.)</p>
+        <p> Chez Bourdot de Richebourg, ce mot est initialement « ne » (<hi rend="italic"
+            >ibid</hi>.)</p>
     </note>
     <note xml:id="s1Nh0045">
         <p> Une chantille est un morceau de bois : « XVe siècle. Bois débité en menues
@@ -699,20 +722,24 @@
             Paris, 1829, p. 220.</p>
     </note>
     <note xml:id="s1Nh0047">
-        <p> Chez Bourdot de Richebourg, ce mot est initialement « encrer » (<hi
-                rend="italic">ibid</hi>.)</p>
+        <p> Chez Bourdot de Richebourg, ce mot est initialement « encrer » (<hi rend="italic"
+                >ibid</hi>.)</p>
     </note>
     <note xml:id="s1Nh0048">
         <p> Ce terme, bien que figurant dans la coutume sous deux formes d’ailleurs
             « lanciers » et « lancières », comporte certainement une erreur. Il doit
             s’agir probablement de « lancis » qui se rapprocherait le plus du mot et
             qui posséderait un sens en architecture. D’après l’Encyclopédie Diderot et
-            D’Alembert (ou <hi rend="italic">Dictionnaire raisonné des sciences, des
+            D’Alembert (ou <hi
+                rend="italic"
+                >Dictionnaire raisonné des sciences, des
                 arts et des métiers par une société de gens de lettres</hi>, Genève,
             1765, t. 9), ce serait « dans le jambage d’une porte ou d’une crioisée, les
             deux pierres plus longues que le [sic. « pie »] qui est d’une pièce. Ces
             lancis se font pour ménager la pierre qui ne peut pas toujours faire parpin
-            dans un mur épais. - <hi rend="italic">Lancis de moilon</hi> […] se dit
+            dans un mur épais. - <hi
+                rend="italic"
+            >Lancis de moilon</hi> […] se dit
             lorsqu’on refait le parement d’un vieux mur avec du moilon, &amp; qu’on
             lance le plus avant que faire se peut avec plâtre ou mortier de chaux &amp;
             sable. »</p>
@@ -733,9 +760,12 @@
         <p> Dans la coutume, ce mot est écrit « viz ».</p>
     </note>
     <note xml:id="s1Nh0053">
-        <p> D’après le <hi rend="italic">Dictionnaire historique de la langue
+        <p> D’après le <hi rend="italic"
+                >Dictionnaire historique de la langue
                 française</hi>, ce verbe transitif attesté en 1242 au participe passé
-            (1573 à l’infinitif) est un dérivé ancien de <hi rend="italic">blef</hi>,
+            (1573 à l’infinitif) est un dérivé ancien de <hi
+                rend="italic"
+            >blef</hi>,
             c’est-à-dire blé, formé avec le préfixe em-(en-) et le développement d’une
             consonne de transition « v ». C’est un terme d’agriculture signifiant
             « ensemences (une terre) en blé » et s’emploie pour semer toutes céréales.
@@ -744,23 +774,31 @@
     <note xml:id="s1Nh0054">
         <p> Nous sommes ici en présence d’un cas ou la lettre « v » va se transformer
             en la lettre « y ». Déblaver est rapporté par Jean-Baptiste Richard de
-            Radonvilliers (<hi rend="italic">Enrichissement de la langue française.
+            Radonvilliers (<hi
+                rend="italic"
+                >Enrichissement de la langue française.
                 Dictionnaire de mots nouveaux, 2</hi>
             <hi rend="italic superscript">e</hi>
-            <hi rend="italic"> édition augmenté de vingt et un mille mots</hi>, Paris,
+            <hi rend="italic"
+                > édition augmenté de vingt et un mille mots</hi>, Paris,
             1845, p. 88), comme signifiant « ôter, recueillir, enlever une emblaye dans
             un grand nombre de lieux agricoles ». On s’en sert pour exprimer que la
             récolte est faite ou que le blé a été détruit par l’orage, la pluie ou la
             grêle, ce qui a donné le verbe « déblayer » qui a la même racine. D’après
-            le <hi rend="italic">Dictionnaire historique de la langue française</hi>,
-            ce verbe est un dérivé de <hi rend="italic">blé</hi> avec le préfixe
-            privatif <hi rend="italic">dé</hi>- et la désinence –er sous la forme
+            le <hi
+                rend="italic"
+                >Dictionnaire historique de la langue française</hi>,
+            ce verbe est un dérivé de <hi
+                rend="italic">blé</hi> avec le préfixe
+            privatif <hi rend="italic"
+                >dé</hi>- et la désinence –er sous la forme
             desbleer (1265) qui a perdu son sens propre de « moisonner, récolter le
-            blé » pour un sens figuré, démotivé par rapport à <hi rend="italic"
-                >blé</hi> « enlever la terre, les décombres »(1311). La variante <hi
-                rend="italic">desblaver, déblaver</hi> (1311à, dérivé de blé, n’a pas
-            réussi à s’imposer, la symétrie de sens avec <hi rend="italic"
-                >remblayer</hi> étant plus forte que le lien étymologique avec <hi
+            blé » pour un sens figuré, démotivé par rapport à <hi
+                rend="italic">blé</hi> « enlever la terre, les décombres »(1311). La variante <hi
+                rend="italic"
+                >desblaver, déblaver</hi> (1311à, dérivé de blé, n’a pas
+            réussi à s’imposer, la symétrie de sens avec <hi
+                rend="italic">remblayer</hi> étant plus forte que le lien étymologique avec <hi
                 rend="italic">emblaver</hi>.</p>
     </note>
     <note xml:id="s1Nh0055">
@@ -768,14 +806,17 @@
             bois en forme de bâton qui a environ quatre pieds et demi de longueur et
             qui sert à soutenir un cep de vigne ou des treillages ou des
             contre-palières. Les grands modèles seraient dans certains endroits des
-            « perches » et les petits, des « pesseaux » (Cf. <hi rend="italic"
+            « perches » et les petits, des « pesseaux » (Cf. <hi
+                rend="italic"
                 >Dictionnaire universel françois et latin, vulgairement appelé
-                Dictionnaire de Trévoux, </hi>1704, <hi rend="italic">V°</hi>
+                Dictionnaire de Trévoux, </hi>1704, <hi
+                rend="italic">V°</hi>
             Eschalas). </p>
     </note>
     <note xml:id="s1Nh0056">
         <p> Ces remarques sont recopiées du procès-verbal d’installation de la nouvelle
-            coutume publié par Bourdot de Richebourg, <hi rend="italic">op. cit.,</hi>
+            coutume publié par Bourdot de Richebourg, <hi
+                rend="italic">op. cit.,</hi>
             t. 3, p. 626.</p>
     </note>
     <note xml:id="s1Nh0057">
@@ -828,7 +869,8 @@
     </note>
     <note xml:id="s1Nh0068">
         <p> Dans la coutume, cette expression est encore latine et s’écrit directement
-                « <hi rend="italic">pro rata</hi> ».</p>
+                « <hi
+                rend="italic">pro rata</hi> ».</p>
     </note>
     <note xml:id="s1Nh0069">
         <p> Dans la coutume, le mot utilisé est « desgaté ».</p>
@@ -839,8 +881,9 @@
             est probable que cette mesure n’a qu’un rôle comminatoire. Préoccupés par
             la protection du patrimoine familial, ce n’est qu’au tournant des XIIIe et
             XIVe siècles que le droit français a de nouveau autorisé l’exécution sur
-            les immeubles. Cf. Jean-Philippe Lévy, André Castaldo, <hi rend="italic"
-                >Histoire du droit civil</hi>, Paris, Dalloz, « Précis », 2002, p.
+            les immeubles. Cf. Jean-Philippe Lévy, André Castaldo, <hi
+                rend="italic"
+            >Histoire du droit civil</hi>, Paris, Dalloz, « Précis », 2002, p.
             996-1005.</p>
     </note>
     <note xml:id="s1Nh0071">
@@ -854,7 +897,8 @@
             pourrait être une version locale.</p>
     </note>
     <note xml:id="s1Nh0074">
-        <p> Ces remarques figurent dans le Bourdot de Richebourg, <hi rend="italic">op.
+        <p> Ces remarques figurent dans le Bourdot de Richebourg, <hi rend="italic"
+                >op.
                 cit.,</hi> t. 3, p. 113.</p>
     </note>
     <note xml:id="s1Nh0075">
@@ -887,8 +931,9 @@
             Il s’agit d’une sorte de pilastre sans base ni chapiteau, sur lequel est
             appliquée une colonne ou un pilastre véritable, ou qui sert de piédroit à
             un arc doubleau, de jambage à une baie. L’étymologie du mot est bien
-            respectée : « qui forme dos ». Voir Antoine Thomas, <hi rend="italic"
-                >Nouveaux essais de philologie française</hi>, Paris, 1904, p. 76,
+            respectée : « qui forme dos ». Voir Antoine Thomas, <hi
+                rend="italic"
+            >Nouveaux essais de philologie française</hi>, Paris, 1904, p. 76,
             89.</p>
     </note>
     <note xml:id="s1Nh0083">
@@ -900,11 +945,14 @@
             sont utilisés comme synonymes. En effet, au XIXe siècle, on peut lire que
             « le rejet ou la levée de la terre d’un seul côté fait présumer qu’il n’y a
             pas de mitoyenneté ; le fossé est censé appartenir à celui du côté duquel
-            se trouve le rejet (C. civ., 667). » Voir Malepeyre aîné, <hi rend="italic"
+            se trouve le rejet (C. civ., 667). » Voir Malepeyre aîné, <hi
+                rend="italic"
                 >Maison rustique du XIXe siècle. Encyclopédie d’agriculture
                 pratique,</hi> Paris, 1836, t. 4 : agriculture forestière, législation
             et administration rurale, p. 256. Mais aussi à propos du même article du
-            Code civil, Joseph-Adrien Rogron, <hi rend="italic">Le Code civil expliqué
+            Code civil, Joseph-Adrien Rogron, <hi
+                rend="italic"
+                >Le Code civil expliqué
                 par ses motifs, par ses exemples et par la jurisprudence</hi>,
             Bruxelles, 1838, p. 130</p>
     </note>
@@ -915,9 +963,12 @@
             les habitants de la même province ou 20 ans pour les autres, avec une juste
             titre et la bonne foi, soit une prescription de 30 ans sans titre mais avec
             la bonne foi qui exclut la violence, ce dernier point ayant été discuté <hi
-                rend="italic">Cf.</hi> Jean-Louis Halperin, <hi rend="italic">Histoire
+                rend="italic">Cf.</hi> Jean-Louis Halperin, <hi rend="italic"
+                >Histoire
                 du droit des biens</hi>, Paris, Economica, 2008, p. 50, 85 ; Anne-Marie
-            Patault, <hi rend="italic">Introduction historique au droit des biens</hi>,
+            Patault, <hi
+                rend="italic"
+            >Introduction historique au droit des biens</hi>,
             Paris, PUF, coll. Droit fondamental, 1989, p. 116 ; Jean Bart, Histoire du
             droit privé de la chute de l’Empire romain au XIXe siècle, Paris,
             Montchrestien, 1998, p. 270-272.</p>
@@ -937,12 +988,13 @@
     </note>
     <note xml:id="s1Nh0090">
         <p> Cette note figure dans la coutume. Il est même rajoutée : « C’est la fosse
-            d’aisance » (Bourdot de Richebourg, <hi rend="italic">op. cit</hi>., t. 3,
+            d’aisance » (Bourdot de Richebourg, <hi
+                rend="italic">op. cit</hi>., t. 3,
             p. 190).</p>
     </note>
     <note xml:id="s1Nh0091">
-        <p> La coutume inscrit le mot « rejet » à la place de « jet ». <hi
-                rend="italic">Cf. supra.</hi>
+        <p> La coutume inscrit le mot « rejet » à la place de « jet ». <hi rend="italic"
+                >Cf. supra.</hi>
         </p>
     </note>
     <note xml:id="s1Nh0092">
@@ -967,12 +1019,18 @@
     <note xml:id="s1Nh0098">
         <p> Cette note ne provient pas du Bourdot de Richebourg. Il s’agit de la
             traduction d’une action de droit romain protégeant la possession,
-            l’interdit <hi rend="italic">uti possidetis</hi>. Le magistrat conditionne
+            l’interdit <hi
+                rend="italic"
+                >uti possidetis</hi>. Le magistrat conditionne
             la protection possessoire à trois conditions : la non violence, la non
             clandestinité et la non précarité. Voir pour plus de détails, Jean-Philippe
-            Lévy et André Castaldo, <hi rend="italic">Histoire du droit civil, op.
+            Lévy et André Castaldo, <hi
+                rend="italic"
+                >Histoire du droit civil, op.
                 cit.,</hi> p. 505-506 et plus généralement sur les interdits
-            possessoires, Jean-Louis Halpérin, <hi rend="italic">Histoire du droit des
+            possessoires, Jean-Louis Halpérin, <hi
+                rend="italic"
+            >Histoire du droit des
                 biens, op. cit.,</hi> p. 39-42.</p>
     </note>
     <note xml:id="s1Nh0099">
@@ -987,8 +1045,8 @@
             Grand Coutumier de France distingue la saisine de fait, correspondant à une
             appréhension effective de la chose, de la saisine de droit reconnues par
             des règles coutumières en matière successorale. La notion de possession
-            prends alors toute sa force. Cf. Jean-Louis Halpérin, <hi rend="italic"
-                >Histoire du droit des biens, op. cit.,</hi> p. 69-75.</p>
+            prends alors toute sa force. Cf. Jean-Louis Halpérin, <hi
+                rend="italic">Histoire du droit des biens, op. cit.,</hi> p. 69-75.</p>
     </note>
     <note xml:id="s1Nh0100">
         <p> Il s’agit d’une action possessoire appelée complainte en cas de saisine et
@@ -998,10 +1056,14 @@
             en cas de simple saisine quand la complainte est impossible (hors délai) ou
             a échoué afin d’opposer au possesseur actuel un possesseur de longue date
             fondée sur un titre. La première mêle le délai d’an et jour avec des
-            éléments de l’interdit <hi rend="italic">uti possidetis</hi> de droit
+            éléments de l’interdit <hi
+                rend="italic"
+                >uti possidetis</hi> de droit
             romain visée dans la note précédente. Cette action deviendra plus tard
             l’action possessoire de droit commun sous le nom de complainte. Cf.
-            Jean-Louis Halpérin, <hi rend="italic">Histoire du droit des biens, op.
+            Jean-Louis Halpérin, <hi
+                rend="italic"
+            >Histoire du droit des biens, op.
                 cit.,</hi> p. 76. D’autre coutume comme celle de Clermont en Beauvaisis
             de 1559 prévoit cette action spécifiquement dans son article 44 : « Item,
             quand aucun possesseur d’aucun héritage, ou droit réel, réputé immeuble,
@@ -1057,7 +1119,8 @@
     <note xml:id="s1Nh0112">
         <p> Dans la coutume, pourtant un passage sur ces articles et leurs rapports
             avec l’ancienne coutume n’est même pas résumé : « Sur le 268<hi
-                rend="superscript">e</hi> article, les officiers du roy de Compiègne
+                rend="superscript"
+                >e</hi> article, les officiers du roy de Compiègne
             ont dit que par ci-devant en la coutume ancienne, observée et gardée en la
             ville et châtellenie dudit Compiègne, dont fait mention ledit article, avec
             vues et égout, y avoit enclaves qui pareillement n’acqueroient point de
@@ -1068,11 +1131,14 @@
             a esté ordonné que lesdits officiers de Compiègne &amp; Picard auront
             lettres de leurs déclarations &amp; protestations et que d’icelles sera
             faite mention en notre procès verbal : Et que néantmoins ledit article
-            demourera comme il gist. – L’article cotté 269<hi rend="superscript">e</hi>
+            demourera comme il gist. – L’article cotté 269<hi
+                rend="superscript"
+                >e</hi>
             a esté trouvéau cayer apporté par les estats de la Chatellenie de
             Ponthoise ; lequel a est leu, &amp; ont accordé tous les assistans, ledit
             article estre enregistré comme coutume généralle dudit bailliage, ce qui a
-            esté ordonné. » Cf. Bourdot de Richebourg, <hi rend="italic">op. cit</hi>.,
+            esté ordonné. » Cf. Bourdot de Richebourg, <hi
+                rend="italic">op. cit</hi>.,
             t. 2, p. 759.</p>
     </note>
     <note xml:id="s1Nh0113">
@@ -1126,10 +1192,13 @@
         <p> « porter quelq. Dommage et » ne figure pas dans la coutume.</p>
     </note>
     <note xml:id="s1Nh0120">
-        <p> Ici la coutume précise en note : « L<hi rend="italic">. Si quando 17 § 2.
+        <p> Ici la coutume précise en note : « L<hi rend="italic"
+                >. Si quando 17 § 2.
                 Si servitus vind. Secundum cujus paristem vicinus, sterculinium fecerat
                 ex quo paries madescebat &amp; Hermenop</hi>. Lib. 2. tit. 40 § 90, 91,
-            92 <hi rend="italic">ϑει λύϰυϒ</hi>, <hi rend="italic">&amp; id est, de
+            92 <hi
+                rend="italic">ϑει λύϰυϒ</hi>, <hi rend="italic"
+                >&amp; id est, de
                 lacu latrina, cacatoriis seu lavacris. Idem</hi> Bourbonnois, art. 516,
             Berry, tit. II. De servitude, art. 11. Dixi Paris, art. 191. J. B. »</p>
     </note>
@@ -1138,7 +1207,8 @@
     </note>
     <note xml:id="s1Nh0122">
         <p> Cette note ne figure pas dans la coutume. Il s’agit sans doute de
-            « parsonniers ». Voir note <hi rend="italic">supra</hi>.</p>
+            « parsonniers ». Voir note <hi
+                rend="italic">supra</hi>.</p>
     </note>
     <note xml:id="s1Nh0123">
         <p> Dans la coutume, ile st écrit « voirre ».</p>
@@ -1162,7 +1232,9 @@
         <p> Il s’agit de péages. En effet, depuis une ordonnance royale d’octobre 1370,
             des traversiers ou percepteurs du droit appelés travers avaient l’habitude
             d’augmenter le péage qu’ils tenaient des seigneurs. Voir sur ce point les
-                <hi rend="italic">Ordonnances des rois de France de la Troisième
+                <hi
+                rend="italic"
+                >Ordonnances des rois de France de la Troisième
                 race</hi>, recueillies par Eusèbe de Laubière, M. Le comte de Pastoret,
             1814, vol. 16, p. LIX qui renvoie au vol. 15, p. 252, note c. </p>
     </note>
@@ -1178,10 +1250,12 @@
             cours.</p>
     </note>
     <note xml:id="s1Nh0132">
-        <p> Mesure de superficie d'un demi <ref target="#ARPENT#ARPENT">arpent</ref> (
-            Beauvais ) = 50 <ref target="#VERGE#VERGE">verges</ref> carrées de 22 <ref
-                target="#PIED#PIED">pieds</ref> de Paris de côté, soit 24200 <ref
-                target="#PIED#PIED">pieds</ref> carrés de Paris ou 22.5360 a. Dans
+        <p> Mesure de superficie d'un demi <ref target="#ARPENT#ARPENT"
+                >arpent</ref> (
+            Beauvais ) = 50 <ref target="#VERGE#VERGE"
+                >verges</ref> carrées de 22 <ref target="#PIED#PIED"
+                >pieds</ref> de Paris de côté, soit 24200 <ref target="#PIED#PIED"
+            >pieds</ref> carrés de Paris ou 22.5360 a. Dans
             cette coutume de Clermont, on mesure les terres labourables en muid qui
             contient 12 mines, chaque mine, 60 verges, chaque verge, 22 pieds de 11
             pouces de longueur. Ces mesures ne sont pas stables d’une ville à l’autre
@@ -1205,8 +1279,11 @@
     </note>
     <note xml:id="s1Nh0138">
         <p> Elle correspond à la ville de Sacy-le-Grand, Oise (60700). Voir sur son
-            histoire, Robert Gaston, <hi rend="italic">La seigneurie de Sacy au Moyen
-                Age,</hi> Paris, 1912 (extrait de la <hi rend="italic">Revue de
+            histoire, Robert Gaston, <hi
+                rend="italic"
+                >La seigneurie de Sacy au Moyen
+                Age,</hi> Paris, 1912 (extrait de la <hi
+                rend="italic">Revue de
                 Champagne</hi>, janvier-février 1912). </p>
     </note>
     <note xml:id="s1Nh0139">
@@ -1227,9 +1304,11 @@
     </note>
     <note xml:id="s1Nh0144">
         <p> Dans le procès-verbal de coutume on peut néanmoins lire : « Les 233<hi
-                rend="superscript">e</hi> article, d’un commun accord &amp;
+                rend="superscript"
+                >e</hi> article, d’un commun accord &amp;
             consentement desdits Estats, a esté mis &amp; introduit pour nouvelle
-            coustume. » Bourdot de Richebourg, <hi rend="italic">op. cit.</hi>, t. 2,
+            coustume. » Bourdot de Richebourg, <hi
+                rend="italic">op. cit.</hi>, t. 2,
             p. 794.</p>
     </note>
     <note xml:id="s1Nh0145">
@@ -1308,8 +1387,8 @@
             mieux à même de choisir la solution adéquate pour leur client. Le rôle des
             ordonnances peu nombreuses sur la construction et de la jurisprudence
             éparse n’est pas à négliger. Voir dans le champ architectural, les
-            commentaires de François Savot, dans son traité <hi rend="italic"
-                >L’architecture françoise</hi>, Paris, 1624, p. 209-216. </p>
+            commentaires de François Savot, dans son traité <hi
+                rend="italic">L’architecture françoise</hi>, Paris, 1624, p. 209-216. </p>
     </note>
     <note xml:id="s1Nh0160">
         <p> Dans la coutume, « de grosses murailles » est placé avant « d’un pied
@@ -1339,12 +1418,17 @@
     </note>
     <note xml:id="s1Nh0165">
         <p> Adverbe de temps marquant la proximité du passé, le caractère immédiat du
-            présent, l'imminence du futur ; le sens 1<hi rend="superscript">er</hi> «
+            présent, l'imminence du futur ; le sens 1<hi
+                rend="superscript"
+                >er</hi> «
             dès maintenant, dès cet instant » est issu l'emploi de renforcement d'une
-                affirmation <hi rend="bold">; </hi>le 2<hi rend="superscript">e</hi>
+                affirmation <hi
+                rend="bold">; </hi>le 2<hi rend="superscript"
+                >e</hi>
             sens marque le caractère immédiat de l'action présente ou désigne un moment
             du passé, voire l'imminence d'une action future. Du lat. class. <hi
-                rend="italic">jam </hi>1 temp. « à l'instant, dès maintenant; il y a un
+                rend="italic"
+            >jam </hi>1 temp. « à l'instant, dès maintenant; il y a un
             instant; dans un instant, désormais; autrefois »; 2 exprimant un rapport
             log. « dès lors, dès cet instant », d'où son emploi pour renforcer une
             affirmation.</p>
@@ -1363,11 +1447,15 @@
         <p> Il est intéressant de noter le rôle de l’apparence d’un fait en droit qui
             fait présumer une situation juridique ici de propriété. En général en droit
             positif cette notion sert plutôt une situation de tromperie, sauf ce qui a
-            été développé dans la <hi rend="italic">théorie de l’apparence</hi> « en
+            été développé dans la <hi
+                rend="italic"
+                >théorie de l’apparence</hi> « en
             vertu de laquelle la seule apparence suffit à produire des effets à l’égard
             des tiers qui, par suite d’une erreur légitime, ont ignoré la réalité »
-            (Gérard Cornu, dir., <hi rend="italic">Vocabulaire juridique</hi>, Paris,
-            PUF, 8<hi rend="superscript">e</hi> édition, 2000).</p>
+            (Gérard Cornu, dir., <hi
+                rend="italic">Vocabulaire juridique</hi>, Paris,
+            PUF, 8<hi
+                rend="superscript">e</hi> édition, 2000).</p>
     </note>
     <note xml:id="s1Nh0169">
         <p> La coutume précise « dix pieds ». Il s’agit probablement d’erreur de
@@ -1375,15 +1463,20 @@
     </note>
     <note xml:id="s1Nh0170">
         <p> La coutume précise en note que « ce proverbe est expliqué par Rageau en son
-            indice, <hi rend="italic">litt. P.</hi> sous le mot <hi rend="italic"
+            indice, <hi
+                rend="italic">litt. P.</hi> sous le mot <hi rend="italic"
                 >Pied</hi>. Dixi ad articul. 183. de la coutume de Paris. J.B. ». En
-            effet, il s’agit du <hi rend="italic">Glossaire du droit François […] donné
+            effet, il s’agit du <hi
+                rend="italic"
+                >Glossaire du droit François […] donné
                 cy-devant au Public sous le nom d’Indice des droits royaux et
                 seigneuriaux</hi> par François Rageau, lieutenant du bailliage de
             Berry, au siège de Mehun, docteur régent en droit en l’Université de
             Bourges, revu, corrigé et augmenté [….] par Eusèbe de Laurière, avocat au
             Parlement, t. 2, 1704, qui donne toutes lois romaines à l’origine de cette
-            règles avant de citer la coutume de Châlons : « <hi rend="italic">Ex
+            règles avant de citer la coutume de Châlons : « <hi
+                rend="italic"
+                >Ex
                 idiotisimo Francorum : Solo semper cedit superficies &amp; civili &amp;
                 naturali jure : Aedificium sequitur jus soli. Area enim pars est vel
                 maxima aedificii, l. 3. § sed si supra. D. Uti possideris, l. 2. D. de
@@ -1395,30 +1488,40 @@
                 44. par. si area. de leg. l. 39. de leg. 2. l. 26. l. 39. de usurpat.
                 Et si in publico aedicatum est, publicum est l. penult. part. ultim. de
                 adquir. rerum dominio. Itaque in alieno non est temere
-                aedificandum</hi>. » Dans le Bourdot de Richebourg (<hi rend="italic"
+                aedificandum</hi>. » Dans le Bourdot de Richebourg (<hi
+                rend="italic"
                 >op. cit.,</hi> t. 3, p. 447, note m), Toussaint Chauvelin précise à
             propos de la coutume de Melun qu’il signifie « que l’on peut élever
             l’édifice aussi haut qu’on le souhaite », reprenant le contenu dudit
             article 143 de la coutume de Châlons. D’après J. B. B. Roquefort, <hi
-                rend="italic">Glossaire de la langue romane</hi>, Paris, t. 2, 1808 v°
+                rend="italic"
+                >Glossaire de la langue romane</hi>, Paris, t. 2, 1808 v°
             « Pied à chef : Le pied saisit le chef, c’est-à-dire, que si l’on bâtit une
             maison sur un terrain qu’on a loué, et que le loyer finisse, la bâtisse
             appartient au propriétaire du terrain. » C’est le corollaire du premier
-            sens donné par Antoine Furetière (<hi rend="italic">Dictionnaire
+            sens donné par Antoine Furetière (<hi
+                rend="italic"
+                >Dictionnaire
                 universel</hi>, t. 3, 1727) : « en jurisprudence […] ce qui est à la
             superficie appartient à celui à qui est le fond de terre, le sol. Un
             édifice, par exemple, suit le droit du sol sur lequel il est assis. » Ce
             principe est ancré aujourd’hui dans le code civil dans son article 552.
             C’est le fondement du concept d’accession comme moyen légal d’acquisition
-            de la propriété. Voir Antoine Loisel, <hi rend="italic">Institutes
+            de la propriété. Voir Antoine Loisel, <hi
+                rend="italic"
+                >Institutes
                 coutumières</hi> avec les notes d’Eusèbe de Laubière , Nouvelle édition
             par Dupin et Laboulaye, Paris, 1846, t . 1, p. 262 ; Anne-Marie Patault,
-                <hi rend="italic">op. cit</hi>., p. 144 ; Jean-Louis Halpérin, <hi
-                rend="italic">op. cit.,</hi> p. 44-46.</p>
+                <hi
+                rend="italic">op. cit</hi>., p. 144 ; Jean-Louis Halpérin, <hi rend="italic"
+                >op. cit.,</hi> p. 44-46.</p>
     </note>
     <note xml:id="s1Nh0171">
-        <p> Ce passage est repris de Bourdot de Richebour, <hi rend="italic">op.
-                cit,</hi> t. 2, p. 563, à l’exception d’une note <hi rend="italic">in
+        <p> Ce passage est repris de Bourdot de Richebour, <hi rend="italic"
+                >op.
+                cit,</hi> t. 2, p. 563, à l’exception d’une note <hi
+                rend="italic"
+            >in
                 fine</hi> renvoyant au procès-verbal de la coutume de Vermandois, art.
             145. L’auteur de la note oublie de préciser qu’il s’agit d’un renvoi au
             procès-verbal de la coutume de Laon (p. 558).</p>
@@ -1435,11 +1538,15 @@
     </note>
     <note xml:id="s1Nh0174">
         <p> Il semble que la prescription de droit soit trentenaire. Claude Joseph de
-            Ferrière (dans son <hi rend="italic">Dictionnaire de droit et de
+            Ferrière (dans son <hi
+                rend="italic"
+                >Dictionnaire de droit et de
                 pratique</hi>, Paris, 1740) concède 19 articles différents à chaque cas
             de prescription selon sa durée. Mais la prescription trentenaire après des
             situations particulières, il est écrit que « tous les droits et toutes les
-            actions que nous pouvons intenter, <hi rend="italic">se prescrivent
+            actions que nous pouvons intenter, <hi
+                rend="italic"
+            >se prescrivent
                 ordinairement par trente ans</hi>, excepté celles qui sont bornées par
             les les loix, les coutumes ou les ordonnances, à une prescription qui
             s’accomplit par un moindre tems ».</p>
@@ -1508,10 +1615,14 @@
     <note xml:id="s1Nh0189">
         <p> La coutume porte une note précisant que l’original au greffe porte « n’est
             mitoyen », ce qui semble plausible. Or Desgodets conserve l’erreur du
-            Bourdot de Richebourg malgré l’avertissement (<hi rend="italic">op.
+            Bourdot de Richebourg malgré l’avertissement (<hi
+                rend="italic"
+                >op.
                 cit.,</hi> t. 2., p. 514). Cela démontre qu’il s’agit d’une copie sans
             véritable compréhension du sens du texte. Néanmoins si l’on se réfère aux
-            commentaires fournis par Buridan, dans <hi rend="italic">Le Coutumier de
+            commentaires fournis par Buridan, dans <hi
+                rend="italic"
+            >Le Coutumier de
                 Vermandois</hi>, Paris, 1728, t. 2, p. 544-545, la négation ne figure
             pas. Les marques de maçonnerie prouveraient la mitoyenneté. Et l’auteur de
             citer les pierres en attente, les corbeaux dépassant du mur, poutres,
@@ -1526,18 +1637,23 @@
         <p> Jean-Baptiste Buridan dans son commentaire (op. cit. , t. p. 548-549) donne
             une explication très précise de ces deux termes : « Or il convient
             remarquer, qu’encore que la coutume use ici de ces deux mots de <hi
-                rend="italic">goutières</hi> ou <hi rend="italic">nauts</hi> , comme
+                rend="italic">goutières</hi> ou <hi rend="italic"
+                >nauts</hi> , comme
             voulant dénoter ou désigner deux choses diverses ; néanmoins ils ne
             signifient qu’uen même chose : bien que les prenant en leur étroite
             signification, les architectes semblent y vouloir apporter quelque
-            différence ; celle de <hi rend="italic">goutière</hi> étant plus générale
-            que celle de <hi rend="italic">nauts</hi> qui sont une espèce de goutières,
+            différence ; celle de <hi
+                rend="italic">goutière</hi> étant plus générale
+            que celle de <hi
+                rend="italic"
+                >nauts</hi> qui sont une espèce de goutières,
             lesquelles ont une grande saillie sur rue &amp; sont faits d’une longue
             pièce de bois creux &amp; cavé ou bien de plomb, avec quelque appui de fer
             au dessous pour les soutenir, comme chacun en peut voir tous les jours sur
             les rues. – Et est vraisemblable que ce mot de Naut vient du latin <hi
                 rend="italic">Navis</hi>, quoiqu’il soit ici écrit <hi rend="italic"
-                >Naucts</hi> avec un <hi rend="italic">ä</hi> qui est superflu, parce
+                >Naucts</hi> avec un <hi rend="italic"
+                >ä</hi> qui est superflu, parce
             que le Naut est long et creux en forme de d’une petite nacelle, au long
             duquelle l’eau de la pluie découle en plus grande abondance, que nont pas
             des simples goutières ; &amp; par ainsi ils sont plus nuisibles au public,
@@ -1548,9 +1664,13 @@
             faits caducs : &amp; la principale raison est , parce qu’étant posez plus
             bas, que de la susdite hauteur de 22,5 pieds, ils pourroient apporter de
             l’incommodité aux passants &amp; au charroy à cause de leur longueur, outre
-            la raison ci-devant apportée au nombre 2<hi rend="italic">. Qua enim in
+            la raison ci-devant apportée au nombre 2<hi
+                rend="italic"
+                >. Qua enim in
                 loco publico, aut via publica construantur, ita construi debent</hi>,
-            dit la susdite Loi unique<hi rend="italic">, § Construat, ff. De via
+            dit la susdite Loi unique<hi
+                rend="italic"
+                >, § Construat, ff. De via
                 publica : ut non prohibeatur vehiculum transire.</hi> – De laquelle
             espèce de goutières ou nauts, s’entend ici la coutume, &amp; non de toutes
             sortes de goutières indifféremment &amp; notamment des goutes qui tombent
@@ -1572,10 +1692,15 @@
             &amp; néanmoins il y en a plus de cette sorte, que d’autres ès rues qui ne
             sont pas fort fréquentées ou communes. – C’est pourquoi ladite coutume se
             doit ici seulement entendre des nauts susdits qui pendent &amp; saillent
-            sur la rue. Aussi après avoir usé du mot <hi rend="italic">goutières</hi>,
-            y ajoute-t-elle aussi-tôt celui de <hi rend="italic">nauts</hi>, sous
+            sur la rue. Aussi après avoir usé du mot <hi
+                rend="italic">goutières</hi>,
+            y ajoute-t-elle aussi-tôt celui de <hi
+                rend="italic"
+                >nauts</hi>, sous
             l’appellation desquels elle les entend, se servant de l’alternative pour
-            signifier la même chose de ces deux mots de <hi rend="italic">goutières
+            signifier la même chose de ces deux mots de <hi
+                rend="italic"
+            >goutières
                 &amp; nauts</hi>. - Joint aussi que quand il y a de la difficulté pour
             reconnoître le vrai sens de la coutume, l’on la doit toujours interpréter
             selon le commun usage du pays ; attendu qu’elle n’a été introduite que par
@@ -1611,7 +1736,8 @@
             parties. J. B. pour Julien Brodeau ».</p>
     </note>
     <note xml:id="s1Nh0198">
-        <p> D’après Augustin-Charles D’Aviler, <hi rend="italic">Dictionnaire
+        <p> D’après Augustin-Charles D’Aviler, <hi rend="italic"
+                >Dictionnaire
                 d’architecture civile et hydraulique et des arts qui en dépendent,</hi>
             nouvelle édition corrigée, Paris, 1755, il s’agit d’un terme de
             charpenterie qui dans le contexte serait « des pièces de bois qui portent
@@ -1630,22 +1756,30 @@
         <p> Dans la coutume, il est écrit « édifice et pan de feu de bois »</p>
     </note>
     <note xml:id="s1Nh0203">
-        <p> François Rageau, <hi rend="italic">Glossaire du droit françois, op.
+        <p> François Rageau, <hi rend="italic"
+                >Glossaire du droit françois, op.
                 cit</hi>., V° « Sol » explique qu’il s’agit ici de « solive ».</p>
     </note>
     <note xml:id="s1Nh0204">
         <p> Dans la coutume éditée par Bourdot de Richebourg, il est écrit « sa solle
-            &amp; pan de feu ». Or, François Rageau dans son <hi rend="italic"
+            &amp; pan de feu ». Or, François Rageau dans son <hi
+                rend="italic"
                 >Glossaire du droit françois, op. cit</hi>, V° « Pan de fust, de
             bois », donne l’explication de cet article de la coutume de Reims : « c’est
             un mur de bois. Les rédacteurs ou réformateurs de cette coutume qui n’ont
-            pas sçu l’étymologie du mot, ont écrit <hi rend="italic">Pandefust</hi> au
-            lieu de <hi rend="italic">pan de fust</hi>, et ils ont ajouté <hi
-                rend="italic">de bois</hi>, sans faire attention qu’ils disoient deux
-            fois la même chose ; un <hi rend="italic">pan de fust</hi> n’étant autre
-            chose qu’un <hi rend="italic">pan de bois. </hi>De <hi rend="italic"
-                >pannus, segmentum</hi>, on a fait <hi rend="italic">pan de mur</hi>,
-            pour signifier une partie d’un mur et de <hi rend="italic">fustis</hi>, on
+            pas sçu l’étymologie du mot, ont écrit <hi
+                rend="italic">Pandefust</hi> au
+            lieu de <hi rend="italic"
+                >pan de fust</hi>, et ils ont ajouté <hi rend="italic"
+                >de bois</hi>, sans faire attention qu’ils disoient deux
+            fois la même chose ; un <hi
+                rend="italic">pan de fust</hi> n’étant autre
+            chose qu’un <hi
+                rend="italic">pan de bois. </hi>De <hi rend="italic"
+                >pannus, segmentum</hi>, on a fait <hi rend="italic"
+                >pan de mur</hi>,
+            pour signifier une partie d’un mur et de <hi
+                rend="italic">fustis</hi>, on
             fait <hi rend="italic">fust</hi>. »</p>
     </note>
     <note xml:id="s1Nh0205">
@@ -1659,7 +1793,8 @@
             constructions qu’il érigeait, de manière à pouvoir poser ses échelles sans
             passer sur le fonds d’autrui, et qui, constituant sa propriété privative,
             entrait, pour l’ouverture des vues, dans le calcul des distances de
-            recul. » (Gérard Cornu, <hi rend="italic">Vocabulaire juridique, op.
+            recul. » (Gérard Cornu, <hi
+                rend="italic">Vocabulaire juridique, op.
                 cit.</hi>)</p>
     </note>
     <note xml:id="s1Nh0206">
@@ -1667,15 +1802,16 @@
             compréhension de celle-ci.</p>
     </note>
     <note xml:id="s1Nh0207">
-        <p> Ces remarques sont recopiées de la coutume de Bourdot de Richebourg, <hi
-                rend="italic">op. cit.,</hi> t. 2, p. 574.</p>
+        <p> Ces remarques sont recopiées de la coutume de Bourdot de Richebourg, <hi rend="italic"
+                >op. cit.,</hi> t. 2, p. 574.</p>
     </note>
     <note xml:id="s1Nh0208">
         <p> Il est à noter que l’erreur de la coutume a été corrigée dans cette
             citation, en particulier la négative finale.</p>
     </note>
     <note xml:id="s1Nh0209">
-        <p> Dans le Bourdot de Richebourg, (<hi rend="italic">op. cit</hi>., t. 1, p.
+        <p> Dans le Bourdot de Richebourg, (<hi rend="italic"
+            >op. cit</hi>., t. 1, p.
             183) il est renvoyé en note à l’article 63 de l’ancienne coutume. </p>
     </note>
     <note xml:id="s1Nh0210">
@@ -1697,32 +1833,43 @@
         <p> Dans la coutume, il est précisé « parisis ». </p>
     </note>
     <note xml:id="s1Nh0215">
-        <p> Dans la coutume, ile st écrit « tayon et perot ». Selon le <hi
-                rend="italic">Dictionnaire</hi> de Trévoux, t. VI, 1743, le « tayon »
+        <p> Dans la coutume, ile st écrit « tayon et perot ». Selon le <hi rend="italic"
+                >Dictionnaire</hi> de Trévoux, t. VI, 1743, le « tayon »
             est un terme des Eaux et Forêts qui veux dire un gros arbre ou un très
             vieil arbre, car « tayon signifie un aïeul » C’est un chêne qui a les trois
             âges de la coupe de bois ; autrement dit c’est un chêne réservée depuis
             trois coupes qui a trois fois l’âge de taillis. Son étymologie provient du
-            latin <hi rend="italic">atavus</hi>.</p>
+            latin <hi
+                rend="italic">atavus</hi>.</p>
     </note>
     <note xml:id="s1Nh0216">
         <p> Ces remarques sont copiées du procès-verbal de la coutume reproduit dans
-            Bourdot de Richebourg, <hi rend="italic">op. cit.</hi>, t. 1, p.
+            Bourdot de Richebourg, <hi
+                rend="italic">op. cit.</hi>, t. 1, p.
             215-216.</p>
     </note>
     <note xml:id="s1Nh0217">
         <p> Petit pavé de rebut dont on garnit les chemins.</p>
     </note>
     <note xml:id="s1Nh0218">
-        <p> En <ref target="">agriculture</ref> et <ref target="">jardinage</ref>, le
-                <hi rend="italic">paillis</hi> (ou <hi rend="italic">mulch</hi>) est
-            une couche de <ref target="">matériau</ref> protecteur posée sur le <ref
-                target="">sol</ref>, principalement dans le but de modifier les effets
-            du <ref target="">climat</ref> local. Si, à l'origine, le terme dérive
-            évidemment de <ref target="">paille</ref>, de nombreux autres matériaux
-                <ref target="">naturels</ref> ou <ref target="">synthétiques</ref> sont
+        <p> En <ref target="">agriculture</ref> et <ref target=""
+                >jardinage</ref>, le
+                <hi rend="italic">paillis</hi> (ou <hi
+                rend="italic">mulch</hi>) est
+            une couche de <ref target=""
+                >matériau</ref> protecteur posée sur le <ref target=""
+                >sol</ref>, principalement dans le but de modifier les effets
+            du <ref
+                target=""
+                >climat</ref> local. Si, à l'origine, le terme dérive
+            évidemment de <ref
+                target="">paille</ref>, de nombreux autres matériaux
+                <ref target=""
+                >naturels</ref> ou <ref target=""
+                >synthétiques</ref> sont
             utilisés à cet effet. L'opération qui consiste à mettre en place ce
-            matériau est le <hi rend="italic">paillage</hi>.</p>
+            matériau est le <hi
+                rend="italic">paillage</hi>.</p>
     </note>
     <note xml:id="s1Nh0219">
         <p> Pour une fois, Desgodets ne se réfère qu’à l’ancienne coutume de St Omer et
@@ -1741,7 +1888,9 @@
             comme le chêne pouilloux, le chêne à deux pilles, le chêne fourchu et même
             parfois des buissons d’aubépine. Ces éléments sont sous-entendus par
             l’expression « borne, coupe…épine » de la coutume (Edme de la Poix de
-            Fréminville, <hi rend="italic">Les vrais principes des fiefs en forme de
+            Fréminville, <hi
+                rend="italic"
+                >Les vrais principes des fiefs en forme de
                 dictionnaire</hi>, Paris, 1759).</p>
     </note>
     <note xml:id="s1Nh0221">
@@ -1761,8 +1910,8 @@
         <p> Dans la coutume, la conjponction est « à ».</p>
     </note>
     <note xml:id="s1Nh0225">
-        <p> La note est copiée de l’édition de Bourdot de Richebourg, (<hi
-                rend="italic">op. cit.,</hi> t. 1, p. 156, note g) qui renvoie à
+        <p> La note est copiée de l’édition de Bourdot de Richebourg, (<hi rend="italic"
+                >op. cit.,</hi> t. 1, p. 156, note g) qui renvoie à
             Rageau.</p>
     </note>
     <note xml:id="s1Nh0226">
@@ -1775,7 +1924,8 @@
     <note xml:id="s1Nh0228">
         <p> Ce terme ne semble pas exister dans la langue française. Il figure en
             revanche dans un dictionnaire étymologique écossais dans le sens juridique
-            de « annulé » ou « mis au repos » (John Jamieson, <hi rend="italic"
+            de « annulé » ou « mis au repos » (John Jamieson, <hi
+                rend="italic"
                 >Suplement to the Etymological Dictionary of the Scottish
             Language</hi>, Edinbourgh, 2 vol., 1825).</p>
     </note>
@@ -1813,7 +1963,8 @@
             précise le sens du mot : « bouchez ».</p>
     </note>
     <note xml:id="s1Nh0237">
-        <p> La coutume explique ce mot en note g (<hi rend="italic">ibid</hi>).
+        <p> La coutume explique ce mot en note g (<hi rend="italic"
+            >ibid</hi>).
             L’éteule est ce « que l’on nomme les chaumes pendant les trois premiers
             jours après que les bleds ont été emportez de dessus le champ où ils ont
             crûs. Ce terme est donné afin que les pauvres aient la liberté de glaner
@@ -1830,9 +1981,11 @@
         <p> Terres localisées le long de la côte.</p>
     </note>
     <note xml:id="s1Nh0241">
-        <p> Il s’agit d’une mesure agraire locale équivalente à environ 500 m<hi
-                rend="superscript">2</hi>. Il convient de la vérifier dans Claude
-            Pétillon, Alain Derville, Bernard Garnier, <hi rend="italic">Atlas
+        <p> Il s’agit d’une mesure agraire locale équivalente à environ 500 m<hi rend="superscript"
+                >2</hi>. Il convient de la vérifier dans Claude
+            Pétillon, Alain Derville, Bernard Garnier, <hi
+                rend="italic"
+                >Atlas
                 historique et statistique des mesures agraires. Nord-Pas-de-Calais,
             </hi>Editions-Diffusion du Lys, 1991. Dans la coutume, il est écrit
             « carterons » qui désigne, selon Pierre Richelet, soit à propos de choses
@@ -1841,7 +1994,8 @@
     </note>
     <note xml:id="s1Nh0242">
         <p>
-            <hi rend="italic">Flégard</hi> s’écrit avec un « d » final. La coutume
+            <hi rend="italic"
+            >Flégard</hi> s’écrit avec un « d » final. La coutume
             renvoie en note à l’article 84 de la coutume d’Amiens.</p>
     </note>
     <note xml:id="s1Nh0243">
@@ -1873,7 +2027,8 @@
         <p> Unité de mesure de longueur équivalente à 0,325 m.</p>
     </note>
     <note xml:id="s1Nh0251">
-        <p> Cette note figure dans Bourdot de Richebourg, <hi rend="italic">op.
+        <p> Cette note figure dans Bourdot de Richebourg, <hi rend="italic"
+                >op.
                 cit.,</hi> t. I, p. 60, note i.</p>
     </note>
     <note xml:id="s1Nh0252">
@@ -1885,7 +2040,8 @@
         <p> Dans la coutume, il est écrit ici « est ».</p>
     </note>
     <note xml:id="s1Nh0254">
-        <p> Dans la coutume une note précise : « <hi rend="italic">idem de jure L. ult.
+        <p> Dans la coutume une note précise : « <hi rend="italic"
+                >idem de jure L. ult.
                 De flummibus &amp; L. 1. Ne quid in loco publico, ubi dicitur pontem
                 privati juris per viam publicam, aut in ripa flummis facere non licere:
                 non enim operter eum deteriorem viam facere. J. B. Pour Julien
@@ -1899,7 +2055,9 @@
     </note>
     <note xml:id="s1Nh0257">
         <p> Cette définition ne se trouve pas dans le Bourdot de Richebourg. Voir J. B.
-            B. Roquefort, <hi rend="italic">Glossaire de la langue romane,</hi> Paris,
+            B. Roquefort, <hi
+                rend="italic"
+            >Glossaire de la langue romane,</hi> Paris,
             vol. 1, 1808 qui donne comme définition du mot « paille, fourrage, chaume,
             stramen », ce que l’on étend à terre, lit de paille, d’herbe, de feuillage,
             litière.</p>
@@ -1915,12 +2073,14 @@
             pas été retrouvé.</p>
     </note>
     <note xml:id="s1Nh0260">
-        <p> Dans le Bourdot de Richebourg (<hi rend="italic">op. cit.,</hi> t. 1, p.
+        <p> Dans le Bourdot de Richebourg (<hi rend="italic"
+            >op. cit.,</hi> t. 1, p.
             61), cette explication figure en note f : « Veteres villam rusticam
             appellarunt. François Rageau ».</p>
     </note>
     <note xml:id="s1Nh0261">
-        <p> Dans la version de Bourdot de Richebourg (<hi rend="italic">op. cit.,</hi>
+        <p> Dans la version de Bourdot de Richebourg (<hi rend="italic"
+            >op. cit.,</hi>
             t. 1, p. 61), le mot est aussi oublié et même pas cité en note</p>
     </note>
     <note xml:id="s1Nh0262">
@@ -1930,8 +2090,10 @@
         <p> Cette explication ne figure pas dans la coutume.</p>
     </note>
     <note xml:id="s1Nh0264">
-        <p> Ce mot provient de la préposition en bas-latin <hi rend="italic">latus</hi>
-            (même sens) dérivé du nom <hi rend="italic">latus</hi> « côté ». C’est ce
+        <p> Ce mot provient de la préposition en bas-latin <hi rend="italic"
+                >latus</hi>
+            (même sens) dérivé du nom <hi rend="italic"
+            >latus</hi> « côté ». C’est ce
             qu’il doit probablement signifier : « côté ». </p>
     </note>
     <note xml:id="s1Nh0265">
@@ -1961,20 +2123,25 @@
             calculer. Il s’agit de l’article 8 du chapitre 6.</p>
     </note>
     <note xml:id="s1Nh0271">
-        <p> Dans l’édition de Bourdot de Richebourg (<hi rend="italic">op. cit</hi>.,
+        <p> Dans l’édition de Bourdot de Richebourg (<hi rend="italic"
+                >op. cit</hi>.,
             t. 2, p. 840), il est écrit « bonnes » et une note précise « bonnes et
-            assens se prennent pour bournes <hi rend="italic">&amp; pro limitibus &amp;
+            assens se prennent pour bournes <hi
+                rend="italic"
+            >&amp; pro limitibus &amp;
                 terminis agrorum</hi>. » Desgodets corrige ainsi le mot pour qu’il ait
             un sens.</p>
     </note>
     <note xml:id="s1Nh0272">
-        <p> Cette note figure dans l’édition de Bourdot de Richebourg, <hi
-                rend="italic">ibid</hi>.</p>
+        <p> Cette note figure dans l’édition de Bourdot de Richebourg, <hi rend="italic"
+            >ibid</hi>.</p>
     </note>
     <note xml:id="s1Nh0273">
         <p> Ce mot est le substantif provenant du verbe « cirquemaner qui signifie :
             « borner, mesurer, fixer les limites, les bornes d’un champ, d’une ville,
-            d’un pays ». Voir Frédéric Godefroy, <hi rend="italic">Dictionnaire de
+            d’un pays ». Voir Frédéric Godefroy, <hi
+                rend="italic"
+                >Dictionnaire de
                 l’ancienne langue française et de tous ses dialectes du IXe au XVe
                 siècle</hi>, Paris, 1880-1895, 10 vol. </p>
     </note>
@@ -2000,7 +2167,8 @@
         <p> Bornes.</p>
     </note>
     <note xml:id="s1Nh0277">
-        <p> Cette note figure dans Bourdot de Richebourg, <hi rend="italic">op. cit.,
+        <p> Cette note figure dans Bourdot de Richebourg, <hi rend="italic"
+                >op. cit.,
             </hi>t. 3, p. 1137, note d. sans que figure pourtant le mot
             « chesneaux ».</p>
     </note>
@@ -2008,18 +2176,23 @@
         <p> La coutume rajoute ici l’adjectif « propre ».</p>
     </note>
     <note xml:id="s1Nh0279">
-        <p> Dans le Bourdot de Richebourg, <hi rend="italic">ibid</hi>, se trouve une
-            note explicative : « <hi rend="italic">droit en possession</hi>. Sinon par
-            possession immédiate ; <hi rend="italic">ut infra,</hi> art. 20 &amp; au
-            titre <hi rend="italic">Des Bois</hi>, art. 10. Toussaint Chauvelin »</p>
+        <p> Dans le Bourdot de Richebourg, <hi rend="italic"
+                >ibid</hi>, se trouve une
+            note explicative : « <hi rend="italic"
+                >droit en possession</hi>. Sinon par
+            possession immédiate ; <hi
+                rend="italic">ut infra,</hi> art. 20 &amp; au
+            titre <hi rend="italic"
+                >Des Bois</hi>, art. 10. Toussaint Chauvelin »</p>
     </note>
     <note xml:id="s1Nh0280">
         <p> Erreur de transcription. Il est écrit dans la coutume <hi rend="italic"
-                >contradiction</hi> avec une note qui précise qu’il faut lire, <hi
-                rend="italic">ou possession après contradiction</hi>.</p>
+                >contradiction</hi> avec une note qui précise qu’il faut lire, <hi rend="italic"
+                >ou possession après contradiction</hi>.</p>
     </note>
     <note xml:id="s1Nh0281">
-        <p> Dans le Bourdot de Richebourg, <hi rend="italic">ibid</hi>, une note (g)
+        <p> Dans le Bourdot de Richebourg, <hi rend="italic"
+            >ibid</hi>, une note (g)
             précise que « si la muraille vient à faillir par les fondemens, Coquille
             estime que chacun y doit contribuer. Toussaint Chauvelin ».</p>
     </note>
@@ -2051,16 +2224,20 @@
             le Nivernais.</p>
     </note>
     <note xml:id="s1Nh0290">
-        <p> Dans le Bourdot de Richebourg, <hi rend="italic">ibid</hi>. , une note
+        <p> Dans le Bourdot de Richebourg, <hi rend="italic"
+                >ibid</hi>. , une note
             précise le sens de l’expression : « Néanmoins il est en celuy qui avance,
             de se faire rembourser de la moitié, sans user de ce bénéfice de coutume.
-            Coquille <hi rend="italic">hic</hi>. Toussaint Chauvelin ».</p>
+            Coquille <hi
+                rend="italic">hic</hi>. Toussaint Chauvelin ».</p>
     </note>
     <note xml:id="s1Nh0291">
         <p> Dans le Bourdot de Richebourg (op. cit., t. 3, 1138) une note (a) précise :
             « ce qui s’entend de profit en estimation, comme louage de maison, bail de
             moulin &amp; autres semblables, &amp; cela ne se peut dire d’une muraille,
-            laquelle ne porte fruit ny profit. Coquille. <hi rend="italic">Hic</hi>.
+            laquelle ne porte fruit ny profit. Coquille. <hi
+                rend="italic"
+            >Hic</hi>.
             Toussaint Chauvelin ». En droit, les fruits sont toutes sortes de biens
             (somme d’argent, biens en nature) que fournissent et rapportent
             périodiquement les biens frugifères (sans que la substance de ceux-ci soit
@@ -2088,7 +2265,9 @@
     <note xml:id="s1Nh0297">
         <p> Dans l’édition de Bourdot de Richebourg, op. cit., t. 3, p. 1138, une note
             (b) précise « cela doit être entendu des fruits levez depuis les
-            réparations. <hi rend="italic">L. si fruct. §. Ult. Ff. de pignor</hi>.
+            réparations. <hi
+                rend="italic"
+            >L. si fruct. §. Ult. Ff. de pignor</hi>.
             Toussaint Chauvelin ».</p>
     </note>
     <note xml:id="s1Nh0298">
@@ -2105,8 +2284,10 @@
     <note xml:id="s1Nh0301">
         <p> Mot qui désigne un trou ou une petite ouverture et qui fut employé jusqu’au
             début du XVIIe siècle. Ce déverbal vient du latin populaire <hi
-                rend="italic">pertusiare</hi> (à l’origine, percer). Dès le VIIIe
-            siècle, le latin médiéval atteste <hi rend="italic">pertusium</hi> pour
+                rend="italic"
+                >pertusiare</hi> (à l’origine, percer). Dès le VIIIe
+            siècle, le latin médiéval atteste <hi
+                rend="italic">pertusium</hi> pour
             trou.</p>
     </note>
     <note xml:id="s1Nh0302">
@@ -2119,7 +2300,8 @@
         <p> Dans la coutume, la préposition est « ou ».</p>
     </note>
     <note xml:id="s1Nh0305">
-        <p> Utilisée avec la préposition <hi rend="italic">ex</hi>, cette expression
+        <p> Utilisée avec la préposition <hi rend="italic"
+            >ex</hi>, cette expression
             signifie : « à la discrétion des juges ».</p>
     </note>
     <note xml:id="s1Nh0306">
@@ -2135,7 +2317,8 @@
         <p> Forme ancienne du futur du verbe choir (tomber).</p>
     </note>
     <note xml:id="s1Nh0310">
-        <p> Dans le Bourdot de Richebourg (<hi rend="italic">ibid</hi>), une note
+        <p> Dans le Bourdot de Richebourg (<hi rend="italic"
+            >ibid</hi>), une note
             précise que «  Coquille demande quelqu’acte pour montrer qu’on a jouy comme
             de chose propre en qualité de seigneur. Toussaint Chauvelin ».</p>
     </note>
@@ -2160,7 +2343,8 @@
         <p> Il s’agit du chapitre 17.</p>
     </note>
     <note xml:id="s1Nh0317">
-        <p> Dans Bourdot de Richebourg (<hi rend="italic">op. cit</hi>., t., 3, p.
+        <p> Dans Bourdot de Richebourg (<hi rend="italic"
+            >op. cit</hi>., t., 3, p.
             1141) figure une note explicative (d) « il faut entendre ‘une possession
             immémoriale. Toussaint Chauvelin ».</p>
     </note>
@@ -2176,8 +2360,10 @@
     <note xml:id="s1Nh0321">
         <p> D’après Godefroy, ce serait une brique de peu d’épaisseur et le contre-mur
             de demi-pied d’épaisseur fait de ce type de brique. Ce terme figure
-            également dans la coutume d’Auxerre, CXI <hi rend="italic">in</hi> Bourdot
-            de Richebourg, <hi rend="italic">op. cit</hi>. t. 3, p. 600. </p>
+            également dans la coutume d’Auxerre, CXI <hi
+                rend="italic">in</hi> Bourdot
+            de Richebourg, <hi rend="italic"
+                >op. cit</hi>. t. 3, p. 600. </p>
     </note>
     <note xml:id="s1Nh0322">
         <p> Dans la coutume ile st écrit « lancière » qui est synonyme et qui
@@ -2189,13 +2375,15 @@
     </note>
     <note xml:id="s1Nh0324">
         <p> Dans la coutume, il est rajouté « arme » avec une note (f) dans l’édition
-            de Bourdot de Richebourg (<hi rend="italic">op. cit.,</hi> t. 3, p. 844)
+            de Bourdot de Richebourg (<hi
+                rend="italic"
+            >op. cit.,</hi> t. 3, p. 844)
             qui donne un mot équivalent : « fosse, coyes » qui n’est pas reprise par
             Desgodets.</p>
     </note>
     <note xml:id="s1Nh0325">
-        <p> Cette explication n’est pas dans le Bourdot de Richebourg (<hi
-                rend="italic">ibid</hi>). </p>
+        <p> Cette explication n’est pas dans le Bourdot de Richebourg (<hi rend="italic"
+            >ibid</hi>). </p>
     </note>
     <note xml:id="s1Nh0326">
         <p> Dans Bourdot de Richebourg figure une note renvoyant à « fosses » et
@@ -2259,7 +2447,8 @@
     <note xml:id="s1Nh0342">
         <p> Filet dormant de pêche, ainsi nommé, parce qu'après l'avoir tendu, on bat
             et on trouble l'eau, pour prendre le poisson (Littré).<hi
-                rend="color(4D4D4D)"> </hi>Petit filet de pêche en forme de poche,
+                rend="color(4D4D4D)"
+            > </hi>Petit filet de pêche en forme de poche,
             monté sur un cerceau, muni parfois d’un manche, et qu’utilisent aussi les
             pisciculteurs pour retirer les poissons des viviers (CNRTL).</p>
     </note>
@@ -2312,8 +2501,11 @@
             ecclésiastique ou militaire, titré ou simple (CNRTL).</p>
     </note>
     <note xml:id="s1Nh0356">
-        <p> Bourdot de Richebourg (<hi rend="italic">op. cit</hi>., t. 3, p. 792)
-            rajoute une note explicative : « mesmes de cent ans. <hi rend="italic">Dixi
+        <p> Bourdot de Richebourg (<hi rend="italic"
+                >op. cit</hi>., t. 3, p. 792)
+            rajoute une note explicative : « mesmes de cent ans. <hi
+                rend="italic"
+            >Dixi
                 supra</hi>, art. 100 &amp; sur Paris, art. 71 &amp; 186. Jean
             Brodeau ».</p>
     </note>
@@ -2336,7 +2528,9 @@
     </note>
     <note xml:id="s1Nh0362">
         <p> Dans le Bourdot de Richebourg (op. cit., t. 3, p. 792) une note (f)
-            précise : « <hi rend="italic">Ergo quod sursum est non commune. Quid si
+            précise : « <hi
+                rend="italic"
+                >Ergo quod sursum est non commune. Quid si
                 vicinus per 50 annos secerit sursum immitti sua signa &amp; caminos :
                 respondeo, ergo prescrisit jus oneris ferendi, non autem dominium
                 commune muri: unde hoc prarectu non potest coger veterem dominum muri
@@ -2402,7 +2596,9 @@
             propriétaire est non seulement propriétaire libre et indépendant mais aussi
             seigneur ; et l’alleu simple, terre que son propriétaire possédait
             librement, mais sans être investi du droit de justice ; il était placé sous
-            la juridiction du seigneur dans le <hi rend="italic">détroit</hi> duquel se
+            la juridiction du seigneur dans le <hi
+                rend="italic"
+                >détroit</hi> duquel se
             trouvait la terre (par opposition au propriétaire de l’alleu justicier). Le
             système féodal a lutté contre ce système selon les régions. Trois adages
             traduisent cette distinction : Nul seigneur sans titre, nul alleu sans
@@ -2411,13 +2607,16 @@
             mais la personne qui prétend avoir des droits d’alleutier peut prouver par
             titre la liberté de sa terre. L’alleu a été de plus en plus menacé à
             l’époque moderne, bien que la rédaction des coutumes au XVIe siècle fut
-            l’occasion de le consolider (voir Jean-Louis Halpérin, <hi rend="italic"
-                >op. cit</hi>., p. 77-78).</p>
+            l’occasion de le consolider (voir Jean-Louis Halpérin, <hi
+                rend="italic">op. cit</hi>., p. 77-78).</p>
     </note>
     <note xml:id="s1Nh0377">
-        <p> Une note (n) dans le Bourdot de Richebourg (<hi rend="italic">op.
-            cit</hi>., t. 3, p ; 793) précise « <hi rend="italic">Dixi</hi> sur Paris,
-            art. 74. verbo <hi rend="italic">cens</hi>, <hi rend="italic">ou fond de
+        <p> Une note (n) dans le Bourdot de Richebourg (<hi rend="italic"
+                >op.
+            cit</hi>., t. 3, p ; 793) précise « <hi rend="italic"
+                >Dixi</hi> sur Paris,
+            art. 74. verbo <hi rend="italic">cens</hi>, <hi
+                rend="italic">ou fond de
                 terre</hi>. Julien Brodeau ».</p>
     </note>
     <note xml:id="s1Nh0378">
@@ -2437,7 +2636,8 @@
         <p> Dans le sens de « partager, diviser en parties » (CNRTL).</p>
     </note>
     <note xml:id="s1Nh0382">
-        <p> Une note (o) dans le Bourdot de Richebourg (<hi rend="italic">ibid</hi>)
+        <p> Une note (o) dans le Bourdot de Richebourg (<hi rend="italic"
+            >ibid</hi>)
             précise : « idem, Paris, art. 68 &amp; supra Vitry, art. 19. J’ai expliqué
             amplement sur ledit article 68, ce qui est dit en cet article, que tout
             franc aleu est sujet à la justice du Roy, ou du seigneur. Julien Brodeau ».
@@ -2461,7 +2661,8 @@
             « Les élites artisanales au service de la ville. Les cas de Paris et de
             Rouen à la fin du Moyen Age », dans Actes des congrès de la Société des
             historiens médiévistes de l'enseignement supérieur public. <hi
-                rend="italic">Les élites urbaines au Moyen Âge, </hi>27e congrès, Rome,
+                rend="italic"
+            >Les élites urbaines au Moyen Âge, </hi>27e congrès, Rome,
             1996, p. 287-304
             [http://www.persee.fr/web/revues/home/prescript/article/shmes_1261-9078_1997_act_27_1_1704]</p>
     </note>
@@ -2469,22 +2670,27 @@
         <p> Dans la coutume il est ajouté ici : « des vignes de son voisin ».</p>
     </note>
     <note xml:id="s1Nh0387">
-        <p> Ces remarques sont copiées de Bourdot de Richebourg, <hi rend="italic">op.
+        <p> Ces remarques sont copiées de Bourdot de Richebourg, <hi rend="italic"
+                >op.
                 cit.,</hi> t. 3, p. 821-822. L’auteur aurait pu être plus complet et
             rapporté ce qui est dit à propos des articles sur les étangs (<hi
                 rend="italic">ibid</hi>, p. 820).</p>
     </note>
     <note xml:id="s1Nh0388">
-        <p> Une note explicative (k) de Bourdot de Richebourg (<hi rend="italic">op.
+        <p> Une note explicative (k) de Bourdot de Richebourg (<hi rend="italic"
+                >op.
                 cit.,</hi> t. 4, p. 69) précise que « ce sont des fosses que l’on fait
-            pour mettre, <hi rend="italic">rouir</hi> ou préparer les chanvres ». <hi
-                rend="italic">Rouir</hi> signifie : « isoler les fibres des plantes
+            pour mettre, <hi
+                rend="italic">rouir</hi> ou préparer les chanvres ». <hi rend="italic"
+            >Rouir</hi> signifie : « isoler les fibres des plantes
             texteiles en détruisant la matière gommo-résineuse qui les soude, par la
             macération dans l’eau ou par tout autre procédé. » (CNRTL).</p>
     </note>
     <note xml:id="s1Nh0389">
-        <p> Ici le terme de <hi rend="italic">jouissance</hi> est usité comme synonyme
-            de <hi rend="italic">possession</hi> dans la mesure où elle serait les
+        <p> Ici le terme de <hi rend="italic"
+                >jouissance</hi> est usité comme synonyme
+            de <hi rend="italic"
+                >possession</hi> dans la mesure où elle serait les
             bénéfices et avantages divers attachés à la possession (au sens large) d’un
             bien : une protection d’usage paisible du bien, le droit d’en percevoir les
             fruits, etc.</p>
@@ -2499,7 +2705,8 @@
             baies de grande ouverture.</p>
     </note>
     <note xml:id="s1Nh0392">
-        <p> D’après l’article consacré à la <hi rend="italic">courge</hi> dans
+        <p> D’après l’article consacré à la <hi rend="italic"
+            >courge</hi> dans
             l’Encyclopédie de Diderot et d’Alembert – écrit par Jacques-François
             Blondel, la courge dans le domaine de la construction serait « une espèce
             de corbeau de pierre ou de fer qui porte le faux manteau d’une
@@ -2525,16 +2732,26 @@
             diminuer » [Godefroy]</p>
     </note>
     <note xml:id="s1Nh0398">
-        <p> Dans les premiers jours de 1558, le <ref target="">duc de Guise</ref>,
+        <p> Dans les premiers jours de 1558, le <ref target=""
+                >duc de Guise</ref>,
             lieutenant général du royaume, rappelé d'urgence dans le Nord de la France
-            par <ref target="">Henri II</ref> pour faire face à l’invasion espagnole
-            depuis les Pays-Bas, s'empare du port de <ref target="">Calais</ref>. Après
+            par <ref
+                target=""
+                >Henri II</ref> pour faire face à l’invasion espagnole
+            depuis les Pays-Bas, s'empare du port de <ref
+                target=""
+                >Calais</ref>. Après
             211 ans d'occupation anglaise, (du 4 août 1347 au 8 janvier 1558), cette
-            ville importante revient définitivement à la <ref target="">couronne de
-                France</ref>. <ref target="">Lord Wentworth</ref>, gouverneur de la
-            ville et les habitants anglais de Calais et de <ref target="">Guînes</ref>
-            furent alors renvoyés en <ref target="">Angleterre</ref> et le <ref
-                target="">Calaisis</ref> fut renommé « <hi rend="italic">Pays
+            ville importante revient définitivement à la <ref
+                target="">couronne de
+                France</ref>. <ref target=""
+                >Lord Wentworth</ref>, gouverneur de la
+            ville et les habitants anglais de Calais et de <ref
+                target="">Guînes</ref>
+            furent alors renvoyés en <ref target=""
+                >Angleterre</ref> et le <ref target="">Calaisis</ref> fut renommé « <hi
+                rend="italic"
+            >Pays
                 Reconquis</hi> » pour commémorer le rétablissement de la domination
             française.</p>
     </note>
@@ -2559,7 +2776,8 @@
             « ou ».</p>
     </note>
     <note xml:id="s1Nh0403">
-        <p> Dans Bourdot de Richebourg (<hi rend="italic">op. cit</hi>., t. 1, p. 32),
+        <p> Dans Bourdot de Richebourg (<hi rend="italic"
+            >op. cit</hi>., t. 1, p. 32),
             une note (i) précise : « ce sont selon la notion qu’en donne Coquille sur
             Nivernois, des terres amassées et élevées par la main d’homme et non les
             terres qui, per leur sol &amp; assiette naturelle, seroinet pus hautes ue
@@ -2596,18 +2814,25 @@
             l’article 207 de la coutume de Paris. Chaîne signifie « rangée de pierres
             de taille superposées pour donner de la solidité à un mur de petites
             pierre » [Littré]. Contrairement à ce que dit Desgodets dans son cours sur
-            la coutume de Paris (cf. dans <hi rend="italic">S2</hi>), Goupy en
-            annotation (1748, p. 300 et suivantes) repris par <hi rend="italic"
+            la coutume de Paris (cf. dans <hi
+                rend="italic"
+                >S2</hi>), Goupy en
+            annotation (1748, p. 300 et suivantes) repris par <hi
+                rend="italic"
                 >L’Architecture moderne ou l’art de bien bâtir pour toutes sortes de
                 personnes </hi> de Charles Jombert (1764, t. 2, p. 57 et s.), précise
-            ces termes de la coutume : « Les <hi rend="italic">jambes</hi> et les <hi
-                rend="italic">chaînes de pierre</hi> dans un mur ne sont pas la même
-            chose ; l’un sert à porter &amp; l’autre à lier. Une <hi rend="italic"
+            ces termes de la coutume : « Les <hi
+                rend="italic">jambes</hi> et les <hi rend="italic"
+                >chaînes de pierre</hi> dans un mur ne sont pas la même
+            chose ; l’un sert à porter &amp; l’autre à lier. Une <hi
+                rend="italic"
                 >jambe parpaigne</hi> est une jambe de pierre dont toutes les assises
             sont le parpain du mur, c’est-à-dire qu’elles en remplissent toute
             l’épaisseur, ce que l’on ne peut faire autrement quand le mur a peu
             d’épaisseur, sans contrevenir aux règlemens de la maçonnerie. On fait usage
-            des <hi rend="italic">chaînes de pierre</hi> lorsque le mur a beaucoup
+            des <hi
+                rend="italic"
+            >chaînes de pierre</hi> lorsque le mur a beaucoup
             d’épaisseur ; alors il n’est pas nécessaire d’élever sous la poutre une
             jambe parpaigne, c’est-à-dire qui soit de toute l’épaisseur du mur, mais
             seulement une chaîne de force suffisante pour porter cette poutre, sans
@@ -2617,8 +2842,10 @@
     <note xml:id="s1Nh0412">
         <p> Les murs des champs sont ceux qui sont élevés en dehors des villes. Cette
             distinction opérée entre la mitoyenneté urbaine et rurale est expliqué
-            clairement par Desgodets dans son cours (cf dans <hi rend="italic">S2</hi>
-            et <hi rend="italic">S3) </hi>: « Les maisons des villes sont plus élevées
+            clairement par Desgodets dans son cours (cf dans <hi
+                rend="italic">S2</hi>
+            et <hi rend="italic"
+            >S3) </hi>: « Les maisons des villes sont plus élevées
             &amp; chargent plus les murs que les maisons des champs ; &amp; aussi parce
             que pour l’ordinaire les murs mitoyens des champs sont plus épais que ceux
             des villes. ».</p>
@@ -2634,9 +2861,11 @@
         <p> Dans le sens de « concéder ».</p>
     </note>
     <note xml:id="s1Nh0416">
-        <p> D’après D’Aviler, <hi rend="italic">Explication des termes
-                d’architecture</hi>, Paris, nouvelle édition, 1710, <hi rend="italic"
-                >verbo</hi> « Filet de mur » : « Terme de la coutume de Paris, art. 214
+        <p> D’après D’Aviler, <hi rend="italic"
+                >Explication des termes
+                d’architecture</hi>, Paris, nouvelle édition, 1710, <hi
+                rend="italic"
+            >verbo</hi> « Filet de mur » : « Terme de la coutume de Paris, art. 214
             pour signifier de petites poutrelles faites de jeunes arbres appellez
             filets par les charpentiers, qu’on avoit droit d’encastrer en tout ou en
             partie, &amp; faire porter sur des corbeaux de pierre, pour servir de
@@ -2668,21 +2897,22 @@
             est entre parenthèses.</p>
     </note>
     <note xml:id="s1Nh0420">
-        <p> Dans le Bourdot de Richebourg (<hi rend="italic">op. cit</hi>., t. 3, 127),
+        <p> Dans le Bourdot de Richebourg (<hi rend="italic"
+            >op. cit</hi>., t. 3, 127),
             une note (a) renvoie à l’article 207 de la coutume de Paris pour comprendre
             l’expression « jambes parpaignes » qui y figure à la place de « jambes,
             parpins ».</p>
     </note>
     <note xml:id="s1Nh0421">
-        <p> Bourdot de Richebourg (<hi rend="italic">ibid</hi>.) explique que « <hi
-                rend="italic">dosserasses</hi> vient de <hi rend="italic"
-            >dosseret</hi>, qui en termes d’architecture est une espèce de pilastre
-            saillant qui sert à soutenir les voutes ; de sorte que <hi rend="italic"
-                >dosserasse</hi> est ici la même chose qu’un corbeau. »</p>
+        <p> Bourdot de Richebourg (<hi rend="italic">ibid</hi>.) explique que « <hi rend="italic"
+                >dosserasses</hi> vient de <hi rend="italic"
+                >dosseret</hi>, qui en termes d’architecture est une espèce de pilastre
+            saillant qui sert à soutenir les voutes ; de sorte que <hi
+                rend="italic">dosserasse</hi> est ici la même chose qu’un corbeau. »</p>
     </note>
     <note xml:id="s1Nh0422">
-        <p> A la suite de ces ordonnances de 1563, dans le Bourdot de Richebourg (<hi
-                rend="italic">op. cit</hi>., t. 2, p. 395-425), figurent deux textes de
+        <p> A la suite de ces ordonnances de 1563, dans le Bourdot de Richebourg (<hi rend="italic"
+                >op. cit</hi>., t. 2, p. 395-425), figurent deux textes de
             coutumes plus tardifs et concernant la cité de Metz ou l’Evêché de cette
             même cité et qui portent tous les deux des titres sur les servitudes, voire
             sur les pâturages, bois, rivières et leur usages contenant également des
@@ -2697,8 +2927,9 @@
     <note xml:id="s1Nh0423">
         <p> La galerie « est dans une maison, un lieu beaucoup plus long que large,
             couvert, &amp; fermé de croisées, qui sert pour se promener, &amp; pour
-            communiquer, &amp; dégager les apartemens. On nomme aussi <hi rend="italic"
-                >galerie</hi>, un corridor à jour bâti de charpente en manière de
+            communiquer, &amp; dégager les apartemens. On nomme aussi <hi
+                rend="italic"
+            >galerie</hi>, un corridor à jour bâti de charpente en manière de
             meniane [petit balcon italien avec jalousies en manière de loges pour voir
             dehors sans être vu] à chaque étage pour dégager plusieurs chambres comme
             on e voit dans de grandes hôtelleies » (D’Aviler) Ce long passage couvert
@@ -2763,17 +2994,22 @@
             des affiches publiques. Dans la première acception on dit, Exposer des
             meubles en vente. Exposer des tableaux en vente. Ses meubles ont été saisis
             et puis exposés en vente. Dans la seconde, on dit Exposer une maison en
-            vente. » <hi rend="italic">Dictionnaire de l’Académie Françoise,</hi>
-            Paris, Nouvelle édition, 1802 [1762], t. 1, <hi rend="italic">verbo</hi>
+            vente. » <hi
+                rend="italic"
+                >Dictionnaire de l’Académie Françoise,</hi>
+            Paris, Nouvelle édition, 1802 [1762], t. 1, <hi
+                rend="italic"
+            >verbo</hi>
             « Exposer en vente ». Il s’agit ici d’une vente forcée aux enchères.</p>
     </note>
     <note xml:id="s1Nh0436">
         <p> La référence est sans aucun doute faite à l’ordonnance de Henri II du 3
             septembre 1551, connu sous le nom de l’édit des criées. Voir sur ce point
             Jean-Baptiste Denisart, Collection de décisions nouvelles et de notions
-            relatives à la jurisprudence actuelle, Paris, 7<hi rend="superscript"
-                >e</hi> édition revue et considérablement augmentée, 1771, 4 vol. <hi
-                rend="italic">Verbo</hi> « Criées » et « Enchères ».</p>
+            relatives à la jurisprudence actuelle, Paris, 7<hi
+                rend="superscript"
+                >e</hi> édition revue et considérablement augmentée, 1771, 4 vol. <hi rend="italic"
+                >Verbo</hi> « Criées » et « Enchères ».</p>
     </note>
     <note xml:id="s1Nh0437">
         <p> Les criées sont des proclamations qui se font par le ministère d’huissiers
@@ -2897,11 +3133,13 @@
         <p> Pacte, accord, convention [Godefroy]</p>
     </note>
     <note xml:id="s1Nh0471">
-        <p> Ces remarques figurent dans le Bourdot de Richebourg, <hi rend="italic">op.
+        <p> Ces remarques figurent dans le Bourdot de Richebourg, <hi rend="italic"
+                >op.
                 cit</hi>., t. 4, p. 695.</p>
     </note>
     <note xml:id="s1Nh0472">
-        <p> Hameau de <hi rend="Desgodets_IndexLocorum">[Yzeures-sur-Creuse ;
+        <p> Hameau de <hi rend="Desgodets_IndexLocorum"
+                >[Yzeures-sur-Creuse ;
                 Yzeures-sur-Creuse (Indre-et-Loire, France) ;
                 http://catalogue.bnf.fr/ark:/12148/cb152578302/PUBLIC].</hi>
         </p>
@@ -2913,7 +3151,8 @@
             <ref target="">
                 <hi rend="italic">bénédictine</hi>
             </ref> importante, dont les dépendances s'étendaient dans une bonne partie
-            de la France médiévale. Elle était située au nord de la <ref target="">
+            de la France médiévale. Elle était située au nord de la <ref
+                target="">
                 <hi rend="italic">Loire</hi>
             </ref>, face à la vieille ville de <ref target="">
                 <hi rend="italic">Tours</hi>
@@ -2922,19 +3161,23 @@
             fait aujourd’hui partie de la commune de Tours.</p>
     </note>
     <note xml:id="s1Nh0474">
-        <p> D’après H. Klimrath (<hi rend="italic">Etudes sur les coutumes</hi>, Paris,
+        <p> D’après H. Klimrath (<hi rend="italic"
+            >Etudes sur les coutumes</hi>, Paris,
             1837, p. 56) il s’agirait de La Mothe-sur-Indre ou La Motte-sur-Indre qui
             serait probablement devenue La Motte-Feuilly.</p>
     </note>
     <note xml:id="s1Nh0475">
-        <p> Klimrath (<hi rend="italic">ibid</hi>.) parle de « Châtellenie de Banche »,
+        <p> Klimrath (<hi rend="italic"
+                >ibid</hi>.) parle de « Châtellenie de Banche »,
             comme elle se trouve inscrite dans le commentaire de coutumes de Bourdot de
-            Richebourg (<hi rend="italic">cf. supra</hi>) mais nous n’avons pu la
+            Richebourg (<hi
+                rend="italic">cf. supra</hi>) mais nous n’avons pu la
             localiser.</p>
     </note>
     <note xml:id="s1Nh0476">
         <p> L'abbaye de Saint-Cyran-en-Brenne, aussi dénommée depuis 1975 abbaye de
-            Saint-Michel-en-Brenne, est une <ref target="">
+            Saint-Michel-en-Brenne, est une <ref
+                target="">
                 <hi rend="italic">abbaye</hi>
             </ref> située dans la commune de <ref target="">
                 <hi rend="italic">Saint-Michel-en-Brenne</hi>
@@ -2946,7 +3189,8 @@
     </note>
     <note xml:id="s1Nh0477">
         <p> La châteua de L’Isle Savary est situé sur la commune de <hi
-                rend="Desgodets_IndexLocorum">[Clion ; Clion (Indre, France) ;
+                rend="Desgodets_IndexLocorum"
+                >[Clion ; Clion (Indre, France) ;
                 http://catalogue.bnf.fr/ark:/12148/cb15257359d/PUBLIC].</hi>
         </p>
     </note>
@@ -2954,7 +3198,8 @@
         <p> Non localisé.</p>
     </note>
     <note xml:id="s1Nh0479">
-        <p> Peut-être sur la commune de <hi rend="Desgodets_IndexLocorum">[Mazières de
+        <p> Peut-être sur la commune de <hi rend="Desgodets_IndexLocorum"
+                >[Mazières de
                 Touraine ; Mazières-de-Touraine (Indre-et-Loire, France) ; </hi>
             <ref target="">
                 <hi rend="Desgodets_IndexLocorum"
@@ -2965,14 +3210,17 @@
         </p>
     </note>
     <note xml:id="s1Nh0480">
-        <p> Bourdot de Richebourg (<hi rend="italic">op. cit.,</hi> t. 4, p. 646)
+        <p> Bourdot de Richebourg (<hi rend="italic"
+            >op. cit.,</hi> t. 4, p. 646)
             précise dans une note (a) : « Choppin Anjou lib. 1. cap. 19. Gousset sur
             Chaumont art. 111. Pith. Troyes art. 180. Vid. Not. Nivernois tit. 16. art.
             4. Toussain Chauvelin. »</p>
     </note>
     <note xml:id="s1Nh0481">
-        <p> Bourdot de Richebourg (<hi rend="italic">ibid</hi>.) précise dans une note
-            (b) : « <hi rend="italic">Habens latifundium : fecus si non haberet
+        <p> Bourdot de Richebourg (<hi rend="italic"
+                >ibid</hi>.) précise dans une note
+            (b) : « <hi rend="italic"
+                >Habens latifundium : fecus si non haberet
                 domanium vel valdé modicum</hi>. Charles Dumoulin. Ayant cinquante
             arpens de terres en domaine &amp; propriété de Paris art. 70. <hi
                 rend="italic">Ubi dixi</hi>. Julien Brodau. »</p>
@@ -2999,27 +3247,34 @@
             autres meusniers que le meusnier desditz moulins bancquiers estoient
             trouvez chassas bledz &amp; emmener farines au-dedans de ladite
             chastellenie, lesditz bledz &amp; farines peuvent estre confisquez,
-            déclaration premièrement faite ». En effet, le <hi rend="italic">moulin
-                bannal</hi>, selon le <hi rend="italic">Dictionnaire de Trévoux</hi>,
+            déclaration premièrement faite ». En effet, le <hi
+                rend="italic">moulin
+                bannal</hi>, selon le <hi rend="italic"
+                >Dictionnaire de Trévoux</hi>,
             est « celui d’un seigneur, qui peut obliger tous les habitants de la
-            seigneurie d’y venir moudre le blé. <hi rend="italic">Indictiva
+            seigneurie d’y venir moudre le blé. <hi
+                rend="italic"
+                >Indictiva
                 moletrina.</hi> Ce droit a peut-être été, dans les premiers tems, une
             usurpation des grands seigneurs, qui ont contraint leurs vassaux à venir
             moudre leurs blez à leurs moulins. Cette bannalité produit un profit qu’on
-            appelle <hi rend="italic">droit de moute</hi>. Les <hi rend="italic"
+            appelle <hi
+                rend="italic">droit de moute</hi>. Les <hi rend="italic"
                 >moulins bannaux</hi> ne s’établissent point sans titre, parce que
             c’est une servitude. Par l’article 72 de la coutume de Paris, un <hi
-                rend="italic">moulin</hi> à vent ne peut être <hi rend="italic"
-                >bannal</hi>. »</p>
+                rend="italic">moulin</hi> à vent ne peut être <hi rend="italic">bannal</hi>. »</p>
     </note>
     <note xml:id="s1Nh0486">
-        <p> « A la manière des nobles, en gentilhomme. <hi rend="italic">Vivre
+        <p> « A la manière des nobles, en gentilhomme. <hi rend="italic"
+                >Vivre
                 noblement</hi> en France sous l’Ancien Régime, vivre comme les membres
             de la noblesse qui ne pouvaient exercer sans déroger aucune profession à
             l’exception du métier des armes et d’un petit nombre d’activités
             manufacturières ou commerciales. Beaucoup de roturiers qui s’étaient portés
             acquéreurs d’un fief vivaient noblement, [d’où l’expression] tenir
-            noblement une terre, la tenir en fief. » (<hi rend="italic">Dictionnaire de
+            noblement une terre, la tenir en fief. » (<hi
+                rend="italic"
+            >Dictionnaire de
                 l’Académie française</hi>, éd. 1986).</p>
     </note>
     <note xml:id="s1Nh0487">
@@ -3029,8 +3284,8 @@
         <p> Une bonde.</p>
     </note>
     <note xml:id="s1Nh0489">
-        <p> Ce mot provenant de <hi rend="italic">dominium</hi> signifie <hi
-                rend="italic">pouvoir</hi>. Mais ici il est utilisé dans le sens de
+        <p> Ce mot provenant de <hi rend="italic">dominium</hi> signifie <hi rend="italic"
+                >pouvoir</hi>. Mais ici il est utilisé dans le sens de
             « territoire sur lequel s’exerce un pouvoir seigneurial, en particulier
             ensemble de terres et de droits qu’un seigneur (laïc ou ecclésiastique)
             conserve pour ne assurer la gestion directe et en percevoir le produit,
@@ -3041,7 +3296,8 @@
     </note>
     <note xml:id="s1Nh0491">
         <p>
-            <hi rend="italic">Res publica.</hi> « Les affaires publiques, ce qui
+            <hi rend="italic"
+            >Res publica.</hi> « Les affaires publiques, ce qui
             concerne l’ensemble des habitants » [DMF].</p>
     </note>
     <note xml:id="s1Nh0492">
@@ -3080,9 +3336,10 @@
         <p> Dans la coutume, il est inséré ici « qui seront ».</p>
     </note>
     <note xml:id="s1Nh0500">
-        <p> Dans la coutume, il est écrit « ruraux ». Bourdot de Richebourg (<hi
-                rend="italic">op. cit</hi>., t. 4, p. 377) précise en note (b) : « <hi
-                rend="italic">Vide</hi>. Art. 451 &amp; 454 <hi rend="italic">ubi
+        <p> Dans la coutume, il est écrit « ruraux ». Bourdot de Richebourg (<hi rend="italic"
+                >op. cit</hi>., t. 4, p. 377) précise en note (b) : « <hi rend="italic"
+                >Vide</hi>. Art. 451 &amp; 454 <hi rend="italic"
+            >ubi
                 dixi</hi>. Julien Brodeau ».</p>
     </note>
     <note xml:id="s1Nh0501">
@@ -3151,7 +3408,9 @@
         <p> Servitude par laquelle une personne est assujettie à une autre personne en
             droit romain. Sou l’Anien Régime, « il y a des hommes que l’on appelle
             mainmortables, hommes ou gens de corps ou de porte qui ressemble à ceux que
-            les Romains appellaient <hi rend="italic">adscriptii, agricolae, coloni,
+            les Romains appellaient <hi
+                rend="italic"
+                >adscriptii, agricolae, coloni,
                 censiti &amp; membra sive servi terrae</hi>, mais ils ne laissent pas
             d’être libres, toute leur sujettion ne se résuit qu’à certains devoirs qui
             ne blesent point absolument les doits de la liberté naturelle. Voyez
@@ -3159,13 +3418,19 @@
     </note>
     <note xml:id="s1Nh0514">
         <p> Cette distinction entre servitudes continues et discontinues est classique.
-            Lalaure (<hi rend="italic">Traités des servitudes réelles,</hi> Paris,
+            Lalaure (<hi
+                rend="italic"
+                >Traités des servitudes réelles,</hi> Paris,
             1761, p. 10) la définit ainsi : « Les servitudes continues sont celles dont
-            l’usage est perpétuel &amp; sans interruption ; <hi rend="italic">Quae
+            l’usage est perpétuel &amp; sans interruption ; <hi
+                rend="italic"
+                >Quae
                 perpetuam causam habent, &amp; absque humana &amp; continua opera
                 semper sunt in usu, sive potentia, ut aquaeductus, altius non
                 tollendi</hi> ; &amp; les discontinues sont celles dont le possesseur
-            ne peut jouir qu’en certain tems, <hi rend="italic">quae non semper sunt in
+            ne peut jouir qu’en certain tems, <hi
+                rend="italic"
+                >quae non semper sunt in
                 usu actualiter, nec potentialiter, sed necessario requirunt
                 interpositionem &amp; factum hominis, quod non potest esse
                 continuuum</hi> ». Elle reste active aujourd’hui et est ainsi définie :
@@ -3173,28 +3438,37 @@
             s’exerce par le seul aménagement du fonds, sans qu’il soit besoin d’un fait
             actuel de l’homme, et qui s’oppose en ce sens aux servitudes discontinues
             qui nécessitent, elles, le fait du propriétaire du fonds dominant. »
-            [CREDI, <hi rend="italic">Dictionnaire des servitudes</hi>, Paris, Editions
+            [CREDI, <hi
+                rend="italic"
+            >Dictionnaire des servitudes</hi>, Paris, Editions
             du Moniteur, 2003].</p>
     </note>
     <note xml:id="s1Nh0515">
-        <p> Dans la coutume il est écrit « à charrette » et Bourdot de Richebourg (<hi
-                rend="italic">op. cit.,</hi> t. 4, p. 577) de préciser en note (c) :
-                « <hi rend="italic">Alias</hi> ô charrette ».</p>
+        <p> Dans la coutume il est écrit « à charrette » et Bourdot de Richebourg (<hi rend="italic"
+                >op. cit.,</hi> t. 4, p. 577) de préciser en note (c) :
+                « <hi
+                rend="italic">Alias</hi> ô charrette ».</p>
     </note>
     <note xml:id="s1Nh0516">
         <p> Cette expression mérite une longue note (d) dans Bourdot de Richebourg (<hi
-                rend="italic">ibid</hi>.) : « <hi rend="italic">Supra</hi> art. 449.
-                <hi rend="italic">Scilicet quando semper transire vel aqua labi
+                rend="italic">ibid</hi>.) : « <hi rend="italic"
+                >Supra</hi> art. 449.
+                <hi rend="italic"
+                >Scilicet quando semper transire vel aqua labi
                 potest : ita restringi debet hac odiosa consuetudo, secus</hi> si par
             saisons comme en vendanges seulement ; car lors faut garder le droit commun
-            qui requiert temps immémorial : <hi rend="italic">Aut saltem tempus
+            qui requiert temps immémorial : <hi
+                rend="italic"
+                >Aut saltem tempus
                 duplicatum l. ult. C. de servit. Idem probandum esset quod jure
                 servitutis &amp; non pro simplici commodidate quaerendorum fructuum vel
                 decimarum colligendarum</hi>. Charles Du Moulin.</p>
         <p>
-            <hi rend="italic">Vide Eguin. Baro ad tit. Instit. De Servit. Rust. &amp;
-                urban. Praed. In fine supra</hi> art. 449, 450. <hi rend="italic"
-                >Secus</hi> en la coutume du Maine, art. 462. <hi rend="italic">ubi
+            <hi rend="italic"
+                >Vide Eguin. Baro ad tit. Instit. De Servit. Rust. &amp;
+                urban. Praed. In fine supra</hi> art. 449, 450. <hi
+                rend="italic">Secus</hi> en la coutume du Maine, art. 462. <hi rend="italic"
+                >ubi
                 dixi. Vide Chopp. Lib. 1, de Morib. Paris. Tit. 4, num. 1 &amp; lib. 3
                 in consuet. Andeg. cap. 2 tit. 5. num. 25.</hi> Julien Brodeau.</p>
         <p>Voyez Le Prestre, cent. 2, chap. 58 ou 59. Jean-Marie Ricard ».</p>
@@ -3203,8 +3477,8 @@
         <p> Dans le sens de « grillagée ».</p>
     </note>
     <note xml:id="s1Nh0518">
-        <p> Cet article ressemble beaucoup à l’article 20 de la coutume d’Anjou (<hi
-                rend="italic">supra</hi>)</p>
+        <p> Cet article ressemble beaucoup à l’article 20 de la coutume d’Anjou (<hi rend="italic"
+                >supra</hi>)</p>
     </note>
     <note xml:id="s1Nh0519">
         <p> Dans la coutume, il est écrit « rouet » à la pace de « roues ». Ce mot est
@@ -3219,37 +3493,40 @@
         <p> La coutume écrit plutôt « profits » à la pace de « fruits ».</p>
     </note>
     <note xml:id="s1Nh0522">
-        <p> Cet article ressemble beaucoup à l’article 29 de la coutume d’Anjou (<hi
-                rend="italic">supra</hi>).</p>
+        <p> Cet article ressemble beaucoup à l’article 29 de la coutume d’Anjou (<hi rend="italic"
+                >supra</hi>).</p>
     </note>
     <note xml:id="s1Nh0523">
         <p> Alors que son premier sens est « nudité », ce mot est utilisé ici dans
             celui de « immédiatement et dans toute son étendue » [Godefroy].</p>
     </note>
     <note xml:id="s1Nh0524">
-        <p> Cet article ressemble beaucoup à l’article 450 de la coutume d’Anjou (<hi
-                rend="italic">supra</hi>) avec moins de fautes de copie.</p>
+        <p> Cet article ressemble beaucoup à l’article 450 de la coutume d’Anjou (<hi rend="italic"
+                >supra</hi>) avec moins de fautes de copie.</p>
     </note>
     <note xml:id="s1Nh0525">
         <p> Dans Bourdot de Richebourg (op. cit., t. 4, p. 513) une note (d) précise :
             « Ces termes semblent comprendre les servitudes rurales &amp; prédiales
             aussi bien que celles des villes, de sorte qu’il ne faut pas garder en
             cette coutume la distinction que fait celle d’Anjou ès art. 449, 450, 454.
-                <hi rend="italic">Vide Chopp. Lib. 3, in consuet Andeg. cap. 2, tit. 5,
+                <hi
+                rend="italic"
+                >Vide Chopp. Lib. 3, in consuet Andeg. cap. 2, tit. 5,
                 num 25, in principio</hi>. Julien Brodeau ».</p>
     </note>
     <note xml:id="s1Nh0526">
         <p> Même faute que précédemment. Il faut lire « soient-telles »</p>
     </note>
     <note xml:id="s1Nh0527">
-        <p> Cet article ressemble beaucoup à l’article 455 de la coutume d’Anjou (<hi
-                rend="italic">supra</hi>).</p>
+        <p> Cet article ressemble beaucoup à l’article 455 de la coutume d’Anjou (<hi rend="italic"
+                >supra</hi>).</p>
     </note>
     <note xml:id="s1Nh0528">
         <p> Dans al coutume, la conjonction est « &amp; ».</p>
     </note>
     <note xml:id="s1Nh0529">
-        <p> Ces remarques figurent dans le Bourdot de Richebourg, <hi rend="italic">op.
+        <p> Ces remarques figurent dans le Bourdot de Richebourg, <hi rend="italic"
+                >op.
                 cit.,</hi> t. 3, p. 676.</p>
     </note>
     <note xml:id="s1Nh0530">
@@ -3259,17 +3536,22 @@
         <p> Dans la coutume, il est ajouté ici « constituée ».</p>
     </note>
     <note xml:id="s1Nh0532">
-        <p> Bourdot de Richebourg (<hi rend="italic">op. cit.,</hi> t. 3, p. 711) prend
+        <p> Bourdot de Richebourg (<hi rend="italic"
+                >op. cit.,</hi> t. 3, p. 711) prend
             soin de préciser en note (d) : « C’est-à-dire, s’il n’y a titre. <hi
-                rend="italic">Dixi ad art. 186 consuet. Paris</hi>. Julien
+                rend="italic"
+            >Dixi ad art. 186 consuet. Paris</hi>. Julien
             Brodeau ».</p>
     </note>
     <note xml:id="s1Nh0533">
         <p> Dans la coutume, il est écrit : « monte » et non « monté ».</p>
     </note>
     <note xml:id="s1Nh0534">
-        <p> Dans Bourdot de Richebourg, <hi rend="italic">op. cit</hi>., t. 3, p. 1065,
-            une note (a) précise : « <hi rend="italic">Intellege de simplici
+        <p> Dans Bourdot de Richebourg, <hi rend="italic"
+                >op. cit</hi>., t. 3, p. 1065,
+            une note (a) précise : « <hi
+                rend="italic"
+                >Intellege de simplici
                 stillicidio in aera, id est non quiescente in fundo vicini, sive
                 pendeat supra fundum vicini sive non pendeat, sed in illud stillat :
                 Secus de incorporato &amp; inaedificato visibiliter vel quiescente
@@ -3297,10 +3579,12 @@
     <note xml:id="s1Nh0540">
         <p> Desgodets renvoie au chapitre qu’il consacre plus loin au droit de
             colombier. L’article 239 mérite d’être néanmoins cité en entier : « <hi
-                rend="italic">Item</hi>, Nul ne pourra faire ne édifier coulombier
+                rend="italic"
+                >Item</hi>, Nul ne pourra faire ne édifier coulombier
             &amp; fuye à pied, ne garenne, sinon qu’il aye ce droit, ou qu’il aye jouy
             desdits garenne &amp; coulombier d’ancienneté. » Bourdot de Richebourg (<hi
-                rend="italic">op. cit</hi>., t. 3, p. 1065) consacre une note (b) pour
+                rend="italic"
+            >op. cit</hi>., t. 3, p. 1065) consacre une note (b) pour
             pour préciser le sens de « fuye à pied » : « Intelligitur secundum modum
             loquendi regionis. L. si servus plurium in si. ff. de legatis. Ideo non
             habet locum in elevato tribus vel quatuor pedibus supra aream : &amp; ainsy
@@ -3312,13 +3596,17 @@
     </note>
     <note xml:id="s1Nh0542">
         <p> Toutes ces coutumes locales sont listées dans cet ordre dans Bourdot de
-            Richebourg (<hi rend="italic">ibid</hi>.). Aucune ne traite de servitudes à
+            Richebourg (<hi
+                rend="italic"
+                >ibid</hi>.). Aucune ne traite de servitudes à
             l’exception de celle de Menetou sur Cher. Cependant les 5 articles du
             chapitre 10 sur les servitudes réelles ne traitent que de servitudes
-            rurales (<hi rend="italic">ibid</hi>., p. 1082-1083).</p>
+            rurales (<hi
+                rend="italic">ibid</hi>., p. 1082-1083).</p>
     </note>
     <note xml:id="s1Nh0543">
-        <p> Bourdot de Richebourg (<hi rend="italic">op. cit.,</hi> t. 3, p. 957)
+        <p> Bourdot de Richebourg (<hi rend="italic"
+            >op. cit.,</hi> t. 3, p. 957)
             précise dans une note (e) : « Voyez Coquille sur la coutume de Nivernois,
             ch. 15. de prises des bestes, art. 1. Julien Brodeau ».</p>
     </note>
@@ -3348,8 +3636,8 @@
         <p> Dans la coutume l’expression est au singulier.</p>
     </note>
     <note xml:id="s1Nh0552">
-        <p> Le mot « expert » est bien utilisé ici comme adjectif. <hi
-                rend="color(FF0000)">Cf. Bernardi.</hi>
+        <p> Le mot « expert » est bien utilisé ici comme adjectif. <hi rend="color(FF0000)"
+                >Cf. Bernardi.</hi>
         </p>
     </note>
     <note xml:id="s1Nh0553">
@@ -3361,9 +3649,11 @@
             d’exploiter &amp; tenir ladite maison… ».</p>
     </note>
     <note xml:id="s1Nh0555">
-        <p> Bourdot de Richebourg, <hi rend="italic">op. cit</hi>., t. 3, p. 958, note
-            (a) : « Tit. XI, art. 11 ou <hi rend="italic">détérioration</hi>. <hi
-                rend="italic">Dixi</hi> Clermont, art. 221. Julien brodeau ».</p>
+        <p> Bourdot de Richebourg, <hi rend="italic"
+                >op. cit</hi>., t. 3, p. 958, note
+            (a) : « Tit. XI, art. 11 ou <hi
+                rend="italic">détérioration</hi>. <hi rend="italic"
+            >Dixi</hi> Clermont, art. 221. Julien brodeau ».</p>
     </note>
     <note xml:id="s1Nh0556">
         <p> Il faut lire « vis » comme écrit dans la coutume. </p>
@@ -3386,14 +3676,18 @@
         <p>Et le huitième article de ladite rubriche est coutume nouvelle, quant au
             gain de fruits. Et les vingt-un, vingt-deux, vingt-trois &amp;
             vingt-quatriesme articles de ladite rubriche sont coutumes nouvelles. »
-            Bourdot de Richebourg, <hi rend="italic">op. cit</hi>., t. 3, p. 987.</p>
+            Bourdot de Richebourg, <hi
+                rend="italic">op. cit</hi>., t. 3, p. 987.</p>
     </note>
     <note xml:id="s1Nh0560">
         <p> Erreur de transcription. Il s’agit du chapitre 31 et non 21.</p>
     </note>
     <note xml:id="s1Nh0561">
-        <p> Bourdot de Richebourg (<hi rend="italic">op. cit</hi>., t. 3, p. 1270)
-            propose une note (a) précisant : « <hi rend="italic">Scilicet pro indivisio
+        <p> Bourdot de Richebourg (<hi rend="italic"
+                >op. cit</hi>., t. 3, p. 1270)
+            propose une note (a) précisant : « <hi
+                rend="italic"
+                >Scilicet pro indivisio
                 qui proprie communis est ; secus de muro medio tantum, id est communi
                 pro aiviso, ut infra § 506 Plenè dixi in consuet. Parisi. § 85.</hi>
             Charles Du Moulin ».</p>
@@ -3423,8 +3717,10 @@
         <p> Dans la coutume, on lit « ou ».</p>
     </note>
     <note xml:id="s1Nh0570">
-        <p> Bourdot de Richebourg (<hi rend="italic">op. cit.,</hi> t. 3, p. 1271)
-            précise dans une note (a) : « <hi rend="italic">Dixi.</hi> Clermont article
+        <p> Bourdot de Richebourg (<hi rend="italic"
+                >op. cit.,</hi> t. 3, p. 1271)
+            précise dans une note (a) : « <hi
+                rend="italic">Dixi.</hi> Clermont article
             222. Julien Brodeau ».</p>
     </note>
     <note xml:id="s1Nh0571">
@@ -3432,11 +3728,13 @@
             « carrelage ».</p>
     </note>
     <note xml:id="s1Nh0572">
-        <p> Dans la coutume il est écrit ici « vuide ». Et Bourdot de Richebourg (<hi
-                rend="italic">ibid</hi>.) de rajouter une note (b) : « <hi
-                rend="italic">Non dicit</hi>, place close ou maison. <hi rend="italic"
-                >Vide</hi>. Coquille, Nivernois, chap. 10. <hi rend="italic">Des
-                maisons ou servitudes</hi>, art. 2. <hi rend="italic">in
+        <p> Dans la coutume il est écrit ici « vuide ». Et Bourdot de Richebourg (<hi rend="italic"
+                >ibid</hi>.) de rajouter une note (b) : « <hi rend="italic"
+                >Non dicit</hi>, place close ou maison. <hi rend="italic"
+                >Vide</hi>. Coquille, Nivernois, chap. 10. <hi rend="italic"
+                >Des
+                maisons ou servitudes</hi>, art. 2. <hi rend="italic"
+                >in
             principio</hi>. Julie Brodeau ».</p>
     </note>
     <note xml:id="s1Nh0573">
@@ -3447,78 +3745,106 @@
         <p> Dans la coutume, il est écrit ici « &amp; ».</p>
     </note>
     <note xml:id="s1Nh0575">
-        <p> Bourdot de Richebourg (<hi rend="italic">op. cit.,</hi> t. 4, p. 1174)
-            précise dans une note (a) : « Ch. 17. <hi rend="italic">Rubr. Des
+        <p> Bourdot de Richebourg (<hi rend="italic"
+                >op. cit.,</hi> t. 4, p. 1174)
+            précise dans une note (a) : « Ch. 17. <hi
+                rend="italic"
+                >Rubr. Des
                 prescriptons. Ad hunc tit. Commentaria scripsit Antonius Rigaltius cui
                 tit. De divers. Temp. &amp; terminis legis municipalis Arvenorum,
                 &amp;c.</hi> 1613. Julien Brodeau ».</p>
     </note>
     <note xml:id="s1Nh0576">
         <p>
-            <anchor xml:id="OLE_LINK91" />
-            <anchor xml:id="OLE_LINK92" />Bourdot de Richebourg (<hi rend="italic"
-                >ibid</hi>.) précise en note (b) : « <hi rend="italic">Masuer. tit. 22.
+            <anchor xml:id="OLE_LINK91"/>
+            <anchor xml:id="OLE_LINK92"/>Bourdot de Richebourg (<hi rend="italic"
+                >ibid</hi>.) précise en note (b) : « <hi rend="italic"
+                >Masuer. tit. 22.
                 de praescript. Num. 1 in patria Alverniae consuetudinaria est una soila
                 praescript 30. annorum. </hi>Et ce qui est tiré de la Novelle de <hi
-                rend="italic">Theod. &amp; Valentin. de 30. annarum praescriptione
+                rend="italic"
+                >Theod. &amp; Valentin. de 30. annarum praescriptione
                 omnibus causis opponenda</hi>, qui étoit anciennement générale en ce
             royaume, au rapport de Sidonius Apollinaris Evesque d’Auvergne l. 8 ep. 6
-                <hi rend="italic">Dixi ad Loëtium litt. H. num. 3</hi>. Julien
+                <hi
+                rend="italic"
+            >Dixi ad Loëtium litt. H. num. 3</hi>. Julien
             Brodeau ».</p>
     </note>
     <note xml:id="s1Nh0577">
-        <p> Bourdot de Richebourg (<hi rend="italic">ibid</hi>.) précise en note (c) :
+        <p> Bourdot de Richebourg (<hi rend="italic"
+                >ibid</hi>.) précise en note (c) :
             «  Même contre ‘église. Jugé en cette coutume par arrest de 1624 donné en
             la Grand-Chambre au rapport de M. Boucher, contre le Commandeur de la
             Tourette, nonobstant les privilèges de l’Ordre de Malte. Voyez le
-            procès-verbal, &amp; <hi rend="italic">ibi Moli. verbo</hi> de l’Eglise,
-                <hi rend="italic">&amp; not. Infra art</hi>. 18 par autres anciens
-            arrests. <hi rend="italic">Dixi ad art. 123. consuet. Paris</hi>. »</p>
+            procès-verbal, &amp; <hi
+                rend="italic">ibi Moli. verbo</hi> de l’Eglise,
+                <hi rend="italic"
+                >&amp; not. Infra art</hi>. 18 par autres anciens
+            arrests. <hi
+                rend="italic">Dixi ad art. 123. consuet. Paris</hi>. »</p>
     </note>
     <note xml:id="s1Nh0578">
-        <p> Bourdot de Richebourg (<hi rend="italic">ibid</hi>.) précise en note (d) :
-            « Etc. <hi rend="italic">Etiam</hi> contre l’église, arrest du 7 septembre
+        <p> Bourdot de Richebourg (<hi rend="italic"
+                >ibid</hi>.) précise en note (d) :
+            « Etc. <hi rend="italic"
+                >Etiam</hi> contre l’église, arrest du 7 septembre
             1624 en la quatrième, M. le Nain rapporteur, contre les chanoines de
-            Lansac, <hi rend="italic">Vide</hi> Coutume de Berry, <hi rend="italic">Des
+            Lansac, <hi
+                rend="italic">Vide</hi> Coutume de Berry, <hi rend="italic"
+                >Des
                 prescriptions</hi> art. 1. Et par arrest du 2 juin 1628 jugé que par
             tente ans la prescription étoit acquise contre la ville de Brioude, bien
             que la ville soit réglée par le droit écrit. Toussaint Chauvelin. – Le
             droit d’hypothèque se prescrit dans cette coutume par 30 ans. <hi
-                rend="italic">Molin</hi>. Bourbonnois art. 23. Chopin, Paris, l. 2 tit.
+                rend="italic"
+            >Molin</hi>. Bourbonnois art. 23. Chopin, Paris, l. 2 tit.
             8 n. 3 Toussaint Chauvelin ».</p>
     </note>
     <note xml:id="s1Nh0579">
-        <p> Bourdot de Richebourg (<hi rend="italic">ibid</hi>.) précise en note (e) :
-                « <hi rend="italic">id est</hi>, plus grandes ».</p>
+        <p> Bourdot de Richebourg (<hi rend="italic"
+                >ibid</hi>.) précise en note (e) :
+                « <hi rend="italic"
+            >id est</hi>, plus grandes ».</p>
     </note>
     <note xml:id="s1Nh0580">
-        <p> Bourdot de Richebourg (<hi rend="italic">ibid</hi>.) précise en note (f) :
-                « <hi rend="italic">Infra</hi> art. 6, 17 et 19 ».</p>
+        <p> Bourdot de Richebourg (<hi rend="italic"
+                >ibid</hi>.) précise en note (f) :
+                « <hi rend="italic"
+            >Infra</hi> art. 6, 17 et 19 ».</p>
     </note>
     <note xml:id="s1Nh0581">
-        <p> Bourdot de Richebourg (<hi rend="italic">ibid</hi>.) précise en note (g) :
-            « La coutume dit <hi rend="italic">prescriptibles</hi>, car il y a des
-            droits qui sont imprescriptibles, <hi rend="italic">infra</hi> art. 9, 12,
+        <p> Bourdot de Richebourg (<hi rend="italic"
+                >ibid</hi>.) précise en note (g) :
+            « La coutume dit <hi rend="italic"
+                >prescriptibles</hi>, car il y a des
+            droits qui sont imprescriptibles, <hi
+                rend="italic">infra</hi> art. 9, 12,
             15 &amp; 18. Julien Brodeau ».</p>
     </note>
     <note xml:id="s1Nh0582">
-        <p> Bourdot de Richebourg (<hi rend="italic">ibid</hi>.) précise en note (h) :
-                « <hi rend="italic">Secus</hi>, au pays d’Auvergne regy par le droit
+        <p> Bourdot de Richebourg (<hi rend="italic"
+                >ibid</hi>.) précise en note (h) :
+                « <hi rend="italic"
+                >Secus</hi>, au pays d’Auvergne regy par le droit
             écrit, où le cens est imprescriptible, même par cent ans. M. Louet <hi
-                rend="italic">lit. C. n</hi>. 21 pour la prescription d’Auvergne ; <hi
-                rend="italic">etiam</hi> contre l’église il y a eu divers arrests, un
+                rend="italic">lit. C. n</hi>. 21 pour la prescription d’Auvergne ; <hi rend="italic"
+                >etiam</hi> contre l’église il y a eu divers arrests, un
             du 7 février 1643 au rapport de M. Bérulle en la cinquiesme des Enquêts, au
             profit de Pierre Textoris, contre Dame Gabrielle de Beaufort de Canillac,
             abbesse de Beausaignes, prieure de Champaignat. Julien Brodeau ».</p>
     </note>
     <note xml:id="s1Nh0583">
-        <p> Bourdot de Richebourg (<hi rend="italic">ibid</hi>.) précise en note (i) :
-                « <hi rend="italic">Ergo</hi>, elle n’a lieu contre les mineurs,
+        <p> Bourdot de Richebourg (<hi rend="italic"
+                >ibid</hi>.) précise en note (i) :
+                « <hi rend="italic"
+            >Ergo</hi>, elle n’a lieu contre les mineurs,
             suivant le droit commun &amp; ordinaire. Julien Brodeau ».</p>
     </note>
     <note xml:id="s1Nh0584">
-        <p> Ce passage est repris de <anchor xml:id="OLE_LINK93" />
-            <anchor xml:id="OLE_LINK94" />Bourdot de Richebourg, <hi rend="italic">op.
+        <p> Ce passage est repris de <anchor xml:id="OLE_LINK93"/>
+            <anchor xml:id="OLE_LINK94"/>Bourdot de Richebourg, <hi rend="italic"
+                >op.
                 cit. </hi>, t. 4, p. 1197.</p>
     </note>
     <note xml:id="s1Nh0585">
@@ -3531,7 +3857,8 @@
             force de loi [DDP].</p>
     </note>
     <note xml:id="s1Nh0586">
-        <p> Ce passage est repris de Bourdot de Richebourg, <hi rend="italic">op. cit.
+        <p> Ce passage est repris de Bourdot de Richebourg, <hi rend="italic"
+                >op. cit.
             </hi>, t. 4, p. 1206.</p>
     </note>
     <note xml:id="s1Nh0587">
@@ -3573,7 +3900,8 @@
         <p> Il s’agit de l’article 5.</p>
     </note>
     <note xml:id="s1Nh0598">
-        <p> Bourdot de Richebourg (<hi rend="italic">op. cit</hi>., t. 4, p. 1211)
+        <p> Bourdot de Richebourg (<hi rend="italic"
+            >op. cit</hi>., t. 4, p. 1211)
             précise en note (a) : « perrières », c’est-à-dire « carrières de pierre »
             [Godefroy].</p>
     </note>
@@ -3588,7 +3916,8 @@
                     >http://catalogue.bnf.fr/ark:/12148/cb152609258/PUBLIC</hi>
             </ref>
             <hi rend="Desgodets_IndexLocorum">]</hi>
-            <hi rend="color(333333)"> </hi>». S’il s’agit de cette commune, Il est
+            <hi rend="color(333333)"
+            > </hi>». S’il s’agit de cette commune, Il est
             étrange qu’elle se situe si loin de la paroisse de Cros (Puy-de-Dôme).</p>
     </note>
     <note xml:id="s1Nh0601">
