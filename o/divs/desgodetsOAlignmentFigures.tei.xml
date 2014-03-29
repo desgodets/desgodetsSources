@@ -9,8 +9,7 @@
 -->
 <!-- RMQ : Le fichier est placé au niveau du corpus dans le système de fichier car il est par nature indépendant de la version du cours édité. Le même fichier pouvant ainsi par la suite être utilisé pour l'édition des autres versions qui ont pour le moment seulement fait l'objet d'un encodage sommaire. -->
 
-<TEI  xmlns="http://www.tei-c.org/ns/1.0"
-    xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
     <!-- début de l'en-tête TEI -->
     <teiHeader>
         <fileDesc>
@@ -140,13 +139,13 @@
                         <p>Ce(tte) œuvre est mise à disposition selon les termes de la Licence Creative
                             Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes
                             Conditions 3.0 France.</p>
-                        <graphic url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png" />
+                        <graphic url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png"/>
                     </licence>
                     <p>Le Centre de théorie et d'analyse du droit (UMR 7074) met à disposition cette ressource
                         électronique structurée, protégée par le code de la propriété intellectuelle sur le
                         droit d'auteur (L111-1) et sur les bases de données (L341-1), selon les termes de la
                         licence Creative Commons : « Paternité - Pas d'Utilisation Commerciale - Pas de
-                        Modification ; 3.0 France ». <lb />Cette licence est disponible en ligne : <ref
+                        Modification ; 3.0 France ». <lb/>Cette licence est disponible en ligne : <ref
                             target="http://creativecommons.org/licences/by-nc-sa/3.0/fr"
                             >http://creativecommons.org/licenses/by-nc/3.0/fr/</ref> ou par courrier postal à
                         Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105,
@@ -156,10 +155,10 @@
                         intérêts de l'enseignement et de la recherche. Toute autorisation au-delà du champ de
                         cette licence doit être obtenue auprès du Centre de théorie et d'analyse du droit.</p>
                     <p>Paternité : Le Centre de théorie et d'analyse du droit demande à ce que toute
-                        publication dérivée de ses ressources électroniques comporte : <lb />1. le nom du
+                        publication dérivée de ses ressources électroniques comporte : <lb/>1. le nom du
                         Centre de théorie et d'analyse du droit et, pour les publications électroniques, son
-                        logo <lb />2. l'URI permettant d'accéder à la page citée sur notre site, ou à la page
-                        d'accueil de la ressource <lb />3. la date du fichier source utilisé. </p>
+                        logo <lb/>2. l'URI permettant d'accéder à la page citée sur notre site, ou à la page
+                        d'accueil de la ressource <lb/>3. la date du fichier source utilisé. </p>
                     <p>Vous êtes libres de remixer, arranger et adapter cette œuvre à des fins non
                         commerciales, tant que vous nous créditez et que les nouvelles œuvres sont diffusées
                         selon les mêmes conditions. Cependant, afin de mieux servir la communauté
@@ -192,16 +191,19 @@
             <!-- description du projet éditorial -->
             <projectDesc>
                 <p>L'édition des cours de Desgodets fait partie d'un programme de recherche sur la
-                    formalisation du savoir architectural au XVII<hi rend="superscript">e</hi> siècle.</p>
+                    formalisation du savoir architectural au XVII<hi
+                        rend="superscript">e</hi> siècle.</p>
             </projectDesc>
             <!-- déclaration des principes éditoriaux -->
             <editorialDecl>
                 <correction>
                     <p>La syntaxe originale du manuscrit a été respectée en suivant les indications de Bernard
-                        Barbiche, <ref type="external"
+                        Barbiche, <ref
+                            type="external"
                             target="http://theleme.enc.sorbonne.fr/cours/edition_epoque_moderne/edition_des_textes"
-                            >Conseils pour l’édition des textes de l’époque moderne (XVI<hi rend="superscript"
-                                >e</hi>-XVIII<hi rend="superscript">e</hi> siècle)</ref>.</p>
+                                >Conseils pour l’édition des textes de l’époque moderne (XVI<hi
+                                rend="superscript">e</hi>-XVIII<hi rend="superscript"
+                        >e</hi> siècle)</ref>.</p>
                 </correction>
                 <hyphenation>
                     <p>Pour les ouvrages imprimés, il n'a pas été tenu compte de l'hyphénation.</p>
@@ -231,7 +233,7 @@
             <samplingDecl>
                 <p>Le manuscrit a été transcrit intégralement [dans certains cas ce ne sera pas le cas].</p>
             </samplingDecl>
-            <variantEncoding method="location-referenced" location="external" />
+            <variantEncoding method="location-referenced" location="external"/>
         </encodingDesc>
         <!-- présentation du profil de fichier -->
         <profileDesc>
@@ -270,67 +272,67 @@
         <body>
             <div type="alignmentFigures" xml:id="oAlignmentFiguresBody01">
                 <linkGrp>
-                    <link target="#o5Pl0002"/> 
-                    <link target="#o5Pl0002 #o1Pl0001" />
-                    <link target="#o5Pl0003 #o1Pl0002" />
-                    <link target="#o5Pl0004 #o1Pl0003" />
-                    <link target="#o5Pl0005 #o1Pl0004" />
-                    <link target="#o5Pl0006 #o1Pl0005" />
-                    <link target="#o5Pl0007 #o1Pl0006" />
-                    <link target="#o5Pl0008 #o1Pl0007" />
-                    <link target="#o5Pl0009 #o1Pl0008" />
-                    <link target="#o5Pl0010 #o1Pl0009" />
-                    <link target="#o5Pl0011 #o1Pl0010" />
-                    <link target="#o5Pl0012 #o1Pl0011" />
-                    <link target="#o5Pl0013 #o1Pl0012" />
-                    <link target="#o5Pl0014 #o1Pl0013" />
-                    <link target="#o5Pl0015 #o1Pl0014" />
-                    <link target="#o5Pl0016 #o1Pl0015" />
-                    <link target="#o5Pl0017 #o1Pl0016" />
-                    <link target="#o5Pl0018 #o1Pl0017" />
-                    <link target="#o5Pl0019 #o1Pl0018" />
-                    <link target="#o5Pl0020 #o1Pl0019" />
-                    <link target="#o5Pl0021 #o1Pl0020" />
-                    <link target="#o5Pl0022" />
-                    <link target="#o5Pl0023 #o1Pl0021" />
-                    <link target="#o5Pl0024 #o1Pl0022" />
-                    <link target="#o5Pl0025 #o1Pl0023" />
-                    <link target="#o5Pl0026 #o1Pl0024" />
-                    <link target="#o5Pl0027 #o1Pl0025" />
-                    <link target="#o5Pl0028 #o1Pl0026" />
-                    <link target="#o5Pl0029 #o1Pl0027" />
-                    <link target="#o5Pl0030 #o1Pl0028" />
-                    <link target="#o5Pl0031 #o1Pl0029" />
-                    <link target="#o5Pl0032 #o1Pl0030" />
-                    <link target="#o5Pl0033 #o1Pl0031" />
-                    <link target="#o5Pl0034 #o1Pl0032" />
-                    <link target="#o5Pl0035 #o1Pl0033" />
-                    <link target="#o5Pl0036 #o1Pl0034" />
-                    <link target="#o5Pl0037 #o1Pl0035" />
-                    <link target="#o5Pl0038 #o1Pl0036" />
-                    <link target="#o5Pl0039 #o1Pl0037" />
-                    <link target="#o5Pl0040 #o1Pl0038" />
-                    <link target="#o5Pl0041 #o1Pl0039" />
-                    <link target="#o5Pl0042 #o1Pl0039" />
-                    <link target="#o5Pl0043 #o1Pl0040" />
-                    <link target="#o5Pl0044 #o1Pl0041" />
-                    <link target="#o5Pl0045 #o1Pl0042" />
-                    <link target="#o5Pl0046" />
-                    <link target="#o5Pl0047 #o1Pl0043" />
-                    <link target="#o5Pl0048 #o1Pl0044" />
-                    <link target="#o5Pl0049" />
-                    <link target="#o5Pl0050 #o1Pl0045" />
-                    <link target="#o5Pl0051" />
-                    <link target="#o5Pl0052 #o1Pl0046" />
-                    <link target="#o5Pl0053 #o1Pl0047" />
-                    <link target="#o5Pl0054 #o1Pl0048" />
-                    <link target="#o5Pl0055 #o1Pl0049" />
-                    <link target="#o5Pl0056 #o1Pl0050" />
+                    <link target="#o5Pl0002"/>
+                    <link target="#o5Pl0002 #o1Pl0001"/>
+                    <link target="#o5Pl0003 #o1Pl0002"/>
+                    <link target="#o5Pl0004 #o1Pl0003"/>
+                    <link target="#o5Pl0005 #o1Pl0004"/>
+                    <link target="#o5Pl0006 #o1Pl0005"/>
+                    <link target="#o5Pl0007 #o1Pl0006"/>
+                    <link target="#o5Pl0008 #o1Pl0007"/>
+                    <link target="#o5Pl0009 #o1Pl0008"/>
+                    <link target="#o5Pl0010 #o1Pl0009"/>
+                    <link target="#o5Pl0011 #o1Pl0010"/>
+                    <link target="#o5Pl0012 #o1Pl0011"/>
+                    <link target="#o5Pl0013 #o1Pl0012"/>
+                    <link target="#o5Pl0014 #o1Pl0013"/>
+                    <link target="#o5Pl0015 #o1Pl0014"/>
+                    <link target="#o5Pl0016 #o1Pl0015"/>
+                    <link target="#o5Pl0017 #o1Pl0016"/>
+                    <link target="#o5Pl0018 #o1Pl0017"/>
+                    <link target="#o5Pl0019 #o1Pl0018"/>
+                    <link target="#o5Pl0020 #o1Pl0019"/>
+                    <link target="#o5Pl0021 #o1Pl0020"/>
+                    <link target="#o5Pl0022"/>
+                    <link target="#o5Pl0023 #o1Pl0021"/>
+                    <link target="#o5Pl0024 #o1Pl0022"/>
+                    <link target="#o5Pl0025 #o1Pl0023"/>
+                    <link target="#o5Pl0026 #o1Pl0024"/>
+                    <link target="#o5Pl0027 #o1Pl0025"/>
+                    <link target="#o5Pl0028 #o1Pl0026"/>
+                    <link target="#o5Pl0029 #o1Pl0027"/>
+                    <link target="#o5Pl0030 #o1Pl0028"/>
+                    <link target="#o5Pl0031 #o1Pl0029"/>
+                    <link target="#o5Pl0032 #o1Pl0030"/>
+                    <link target="#o5Pl0033 #o1Pl0031"/>
+                    <link target="#o5Pl0034 #o1Pl0032"/>
+                    <link target="#o5Pl0035 #o1Pl0033"/>
+                    <link target="#o5Pl0036 #o1Pl0034"/>
+                    <link target="#o5Pl0037 #o1Pl0035"/>
+                    <link target="#o5Pl0038 #o1Pl0036"/>
+                    <link target="#o5Pl0039 #o1Pl0037"/>
+                    <link target="#o5Pl0040 #o1Pl0038"/>
+                    <link target="#o5Pl0041 #o1Pl0039"/>
+                    <link target="#o5Pl0042 #o1Pl0039"/>
+                    <link target="#o5Pl0043 #o1Pl0040"/>
+                    <link target="#o5Pl0044 #o1Pl0041"/>
+                    <link target="#o5Pl0045 #o1Pl0042"/>
+                    <link target="#o5Pl0046"/>
+                    <link target="#o5Pl0047 #o1Pl0043"/>
+                    <link target="#o5Pl0048 #o1Pl0044"/>
+                    <link target="#o5Pl0049"/>
+                    <link target="#o5Pl0050 #o1Pl0045"/>
+                    <link target="#o5Pl0051"/>
+                    <link target="#o5Pl0052 #o1Pl0046"/>
+                    <link target="#o5Pl0053 #o1Pl0047"/>
+                    <link target="#o5Pl0054 #o1Pl0048"/>
+                    <link target="#o5Pl0055 #o1Pl0049"/>
+                    <link target="#o5Pl0056 #o1Pl0050"/>
                     <link target="#o5Pl0057"/>
-                    <link target="#o5Pl0058 #o1Pl0051" />
-                    <link target="#o5Pl0059 #o1Pl0052" />
-                    <link target="#o5Pl0060 #o1Pl0053" />
-                    <link target="#o5Pl0061 #o1Pl0054" />
+                    <link target="#o5Pl0058 #o1Pl0051"/>
+                    <link target="#o5Pl0059 #o1Pl0052"/>
+                    <link target="#o5Pl0060 #o1Pl0053"/>
+                    <link target="#o5Pl0061 #o1Pl0054"/>
                     <link target="#o5Pl0062"/>
                 </linkGrp>
             </div>
