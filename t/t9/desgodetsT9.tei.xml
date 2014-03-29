@@ -1466,7 +1466,7 @@
                                 >murs</term> des
                             <term type="gT"
                                 ref="#edifice">édifices</term> en poligones, et des <term type="gT"
-                                ref="#mur">murs</term>
+                                ref="#mur">murs</term> 
                             <term type="gT" ref="#circulaire"
                                 >circulaires</term> ou ovales, il les faut
                             <term
@@ -1749,7 +1749,7 @@
                                 ref="#hauteur">hauteur</term> des <term type="gT" ref="#voute"
                                 >voûtes</term> et des reins de la même
                             qualité que le bas parce que leur partie du haut n’a point de <term
-                                type="gT" ref="#parement">parement</term>
+                                type="gT" ref="#parement">parement</term> 
                             <sic>ets</sic> n’est pas construite avec les même <term type="gT"
                                 ref="#materiau"
                                 >matériaux</term>, et si
@@ -1780,7 +1780,7 @@
                                 >pans de
                                 bois</term> de <term
                                 type="gT" ref="#charpente" ana="#icharpente"
-                                >charpente </term>, se <term type="gT" ref="#toiser"
+                                >charpente</term>, se <term type="gT" ref="#toiser"
                                 >toisent</term> quelquefois à la <term type="gT"
                                 ref="#toiseCourante"
                                 >toise courante</term>, mais
@@ -7621,7 +7621,7 @@
                             <fw type="pageNum">69 [coupé : 9]</fw> du <term type="gT" ref="#cintre"><choice>
                                     <orig>ceintre</orig>
                                     <reg>cintre</reg>
-                                </choice></term> incliné CFG pris
+                                </choice></term> incliné CFG pris 
                             <term
                                 type="gT" ref="#dEquerre">d'équerre</term> à la <term type="gT"
                                 ref="#ligne"
@@ -9617,7 +9617,7 @@
                                 type="gT" ref="#cintre"><choice>
                                     <orig>ceintre</orig>
                                     <reg>cintre</reg>
-                                </choice></term> d’une <term type="gT" ref="#ligne">ligne</term> 
+                                </choice></term> d’une <term type="gT" ref="#ligne">ligne</term>
                             <term type="gT" ref="#courbe">courbe</term>
                             <term type="gT" ref="#parallele">parallèle</term> au <term type="gT"
                                 ref="#cintre"><choice>
@@ -11034,7 +11034,7 @@
                                 type="gT" ref="#face">faces</term> AB, BC, CD, 3/4<hi
                                 rend="superscript">4/4</hi> de pied.</p>
                         <p xml:id="t9BodyFr01.16.p024">24. La  <term type="gT" ref="#plinthe"
-                                >plinte</term> en <term type="gT" ref="#larmier">larmier</term> 
+                                >plinte</term> en <term type="gT" ref="#larmier">larmier</term>
                             <term type="gT" ref="#chanfriner"
                                 >chanfrinée</term> et scotie
                             <term
@@ -11160,7 +11160,7 @@
                             <term type="gT"
                                 ref="#scotie">scoties</term> en <term type="gT" ref="#piedouche"
                                 >piédouche</term> 48, les <term type="gT" ref="#scotie"
-                                >scoties</term> en <term type="gT" ref="#piedouche">piédouche</term> 
+                                >scoties</term> en <term type="gT" ref="#piedouche">piédouche</term>
                             <term type="gT" ref="#recreuser"
                                 >recreusée</term> par le bas
                             49., et les <term
@@ -13670,7 +13670,7 @@
                                 >117</fw> enduits par le dessus à lattes apparentes
                             par le dessus dessous sont comptés chaque <term
                                 type="gT" ref="#toiseSuperficielle"
-                                >toise superficielle</term> pour <add place="above">1/2 et 1/8</add> 
+                                >toise superficielle</term> pour <add place="above">1/2 et 1/8</add>
                             <term type="gT" ref="#toise">toise</term> de légers <term type="gT"
                                 ref="#ouvrage">ouvrages</term>.</p>
                         <p xml:id="t9BodyFr01.18.p054">51. Lesdits <term type="gT" ref="#plancher"
@@ -15338,7 +15338,7 @@
                             pourtour tant par le dessus que par le dessous est compté pour 2 <choice>
                                 <abbr>pi.</abbr>
                                 <expan>pied</expan>
-                            </choice> de légers <term type="gT" ref="#ouvrage">ouvrages</term> 
+                            </choice> de légers <term type="gT" ref="#ouvrage">ouvrages</term>
                             <choice>
                                 <abbr>cad</abbr>
                                 <expan>c’est-à-dire</expan>
@@ -18706,9 +18706,8 @@
                                 type="gT" ref="#ouvrage"
                                 >ouvrages</term>
                             de <term type="gT"
-                                ref="#carrelage" ana="#icarrelage"
-                                >carrelage</term> les <term type="gT"
-                                ref="#aire"
+                                ref="#carrelage" ana="#icarrelage">carrelage</term> les <term
+                                type="gT" ref="#aire"
                                 >aires</term> des sales et des
                             autres <term
                                 type="gT" ref="#logement"><choice>
@@ -19429,7 +19428,7 @@
                                     <reg>fenêtres</reg>
                                 </choice></term> et autres semblables sont comptés au pied courant, leurs
                             poulies des bouts pour passer les <term
-                                type="gT" ref="#cordon">cordons</term>, leurs <sic>gonneaux</sic> 
+                                type="gT" ref="#cordon">cordons</term>, leurs <sic>gonneaux</sic>
                             <!-- TODO vérifier qu'il s'agit bien d'un sic --> et pitons se comptent
                             à part.</p>
                         <p xml:id="t9BodyFr04.04.p010">10. Tous les autres <term type="gT"
@@ -20229,8 +20228,8 @@
                                 <term type="gT"
                                 ref="#sculpture" ana="#isculpture"
                                 >sculpture
-                            </term> et aux <term type="gT"
-                                ref="#frise">frises</term> décorées d’<term type="gT"
+                            </term> et aux <term
+                                type="gT" ref="#frise">frises</term> décorées d’<term type="gT"
                                 ref="#ornement"><choice>
                                     <orig>ornemens</orig>
                                     <reg>ornements</reg>

@@ -2211,7 +2211,7 @@
                                 </imprint>
                                 <extent>1 vol. (IX-688 p.) : fac-similés ; 23 cm, verbo « Babuty », p. 101-108</extent>
                             </monogr>
-                            <idno type="isbn10">ISBN 978-2-600-01336-9 </idno>
+                            <idno type="isbn10">978-2-600-01336-9 </idno>
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb41204159v/PUBLIC</idno>
                         </biblStruct>
@@ -2436,7 +2436,7 @@
                             </monogr>
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb411977577/PUBLIC</idno>
-                            <idno type="isbn13">ISBN 978-2-7084-0810-4</idno>
+                            <idno type="isbn13">978-2-7084-0810-4</idno>
                         </biblStruct>
                         <biblStruct xml:id="carvais2008">
                             <analytic>
@@ -2657,7 +2657,7 @@
                             </monogr>
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb42790811p/PUBLIC</idno>
-                            <idno type="isbn13">ISBN 978-2-7572-0587-7</idno>
+                            <idno type="isbn13">978-2-7572-0587-7</idno>
                         </biblStruct>
                         <biblStruct xml:id="carvais2012c">
                             <analytic>
@@ -2692,10 +2692,10 @@
                             </monogr>
                             <idno type="catbnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb425275708/PUBLIC</idno>
-                            <idno type="isbn13">ISBN 978-2-7056-8216-3</idno>
+                            <idno type="isbn13">978-2-7056-8216-3</idno>
                         </biblStruct>
                         <biblStruct xml:id="cellauro2008">
-                            <monogr>
+                            <analytic>
                                 <author>
                                     <persName>
                                         <forename>Louis</forename>
@@ -2709,13 +2709,48 @@
                                     </persName>
                                 </author>
                                 <title level="a"
-                                    >notice à propos de l’édition de 1682 des Édifices antiques de Rome (appartenant à l’INHA) mis en ligne sur le site « Architectura » du Centre d’Etudes Supérieures de la Renaissance de Tours par F. Lemerle et Y. Pauwels</title>
+                                    >notice à propos de l’édition de 1682 des Édifices antiques de Rome (appartenant à l’INHA)</title>
+                            </analytic>
+                            <monogr>
+                                <editor>Centre d’Études Supérieures de la Renaissance de Tours</editor>
+                                <title>Architectura</title>
                                 <imprint>
                                     <date when="2008">2008</date>
                                 </imprint>
                             </monogr>
                             <idno type="architectura"
                                 >http://architectura.cesr.univ-tours.fr/traite/Notice/Binha125840.asp?param=</idno>
+                        </biblStruct>
+                        <biblStruct xml:id="cellauro2008b">
+                            <monogr>
+                                <editor>
+                                    <persName>
+                                        <forename>Louis</forename>
+                                        <surname>Cellauro</surname>
+                                    </persName>
+                                </editor>
+                                <editor>
+                                    <persName>
+                                        <forename>Gibert</forename>
+                                        <surname>Richaud</surname>
+                                    </persName>
+                                </editor>
+                                <title level="m"
+                                    >Antoine Desgodets : Les Édifices antiques de Rome, édition fac-simile du Manuscrit inédit 2718 de l’Institut de France avec transcription, annotations et reproduction des planches de l’ouvrage publié en 1682</title>
+                                <imprint>
+                                    <date when="2008">2008</date>
+                                    <publisher>De Luca Editori d'arte</publisher>
+                                    <pubPlace>Roma</pubPlace>
+                                </imprint>
+                                <extent>340 p., ill., 104 pl., 22 x 30,5 cm</extent>
+                            </monogr>
+                            <series>
+                                <title level="s"
+                                    >Studi sulla Cultura dell'Antico</title>
+                                <biblScope type="issue">7</biblScope>
+                                <editor>Collana diretta da Maria Luisa Madonna</editor>
+                            </series>
+                            <idno type="ibsn13">9788880168669</idno>
                         </biblStruct>
                         <biblStruct xml:id="celisDAmico2006">
                             <analytic>
@@ -2798,7 +2833,7 @@
                                 </imprint>
                                 <extent>1 vol. (279 p.) : ill. en noir et en coul., fig., couv. ill. en coul. ; 29 cm</extent>
                             </monogr>
-                            <idno type="isbn13">ISBN 978-2-7577-0304-5</idno>
+                            <idno type="isbn13">978-2-7577-0304-5</idno>
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb435778394/PUBLIC</idno>
                         </biblStruct>
@@ -3409,7 +3444,7 @@
                             </monogr>
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb38886368d/PUBLIC</idno>
-                            <idno type="isbn10">ISBN 1-57898-223-5</idno>
+                            <idno type="isbn10">1-57898-223-5</idno>
                         </biblStruct>
                         <biblStruct xml:id="hermann1958">
                             <analytic>
@@ -3835,12 +3870,13 @@
                                     </persName>
                                 </editor>
                                 <title level="m"
-                                    >Procès-verbaux de l’Académie royale d’architecture</title>
+                                    >Procès-verbaux de l’Académie royale d’architecture 1671-1793</title>
                                 <imprint>
-                                    <date when="1915">1915</date>
+                                    <date from="1911" to="1915">1911-1929</date>
                                     <pubPlace>Paris</pubPlace>
+                                    <publisher>Jean Schemit</publisher>
                                     <publisher>Édouard Champion</publisher>
-                                    <biblScope type="vol">IV</biblScope>
+                                    <publisher>Armand Colin</publisher>
                                 </imprint>
                             </monogr>
                         </biblStruct>
@@ -5017,6 +5053,32 @@
                                     <biblScope type="pp">1358-1359</biblScope>
                                 </imprint>
                             </monogr>
+                        </biblStruct>
+                        <biblStruct>
+                            <monogr>
+                                <author>
+                                    <persName>
+                                        <forename>Nicholas</forename>
+                                        <surname>Savage</surname>
+                                    </persName>
+                                    <persName>
+                                        <forename>Gerald</forename>
+                                        <surname>Beasley</surname>
+                                    </persName>
+                                    <persName>
+                                        <forename>Alison</forename>
+                                        <surname>Shell</surname>
+                                    </persName>
+                                </author>
+                                <title>Early printed books 1478-1840 : catalogue of the British architectural library early imprints collection</title>
+                                <imprint>
+                                    <date from="1994" to="2003">1994-2003</date>
+                                    <pubPlace>London</pubPlace>
+                                    <publisher>Melbourne</publisher>
+                                </imprint>
+                                <extent>5 vol.</extent>
+                            </monogr>
+                            <idno type="catBnf">http://catalogue.bnf.fr/ark:/12148/cb37334652b/</idno>
                         </biblStruct>
                         <biblStruct xml:id="schöller1993">
                             <monogr>
