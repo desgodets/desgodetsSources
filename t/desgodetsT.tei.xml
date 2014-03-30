@@ -8,7 +8,8 @@
 -->
 <!-- RMQ : inclue les documents TEI de présentation du Cours, tous les fichiers des témoins du cours et deux fichiers pour l'alignement du texte et des images. -->
 <!-- RMQ : la liste des témoins (listWit) renvoie aux msDesc des fichiers concernés -->
-<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:xi="http://www.w3.org/2001/XInclude">
     <!-- début de l'en-tête TEI -->
     <teiHeader>
         <fileDesc>
@@ -104,8 +105,8 @@
             </titleStmt>
             <!-- mention d'édition -->
             <editionStmt>
-                <edition n="1">première édition électronique, <date from="2013" to="2013"
-                    >2008-2013</date></edition>
+                <edition n="bêta">première édition électronique, <date from="2013"
+                        to="2013">2008-2013</date>, version bêta</edition>
             </editionStmt>
             <extent><!-- TODO : taille du fichier en octet --></extent>
             <!-- information sur la publication électronique -->
@@ -132,10 +133,10 @@
                     <p>Les images numériques des manuscrits sont mises à disposition par les institutions partenaires mais restent leur propriété exclusive. Celles-ci en autorisent la reproduction et la réutilisation selon leurs propres règles en vigueur. Toute diffusion de ces images, sous quelque forme et sur quelque support que ce soit (papier, audiovisuel, ou numérique), pour quelque finalité que ce soit (pédagogique, scientifique ou commercial), doit faire l’objet d’une demande d’autorisation préalable auprès de l’institution concernée.</p>
                 </availability>
                 <availability status="restricted" xml:id="tTextLicence">
-                    <p>Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr">Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
                         <lb/>Cette licence est disponible en ligne : <ref
                             target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
-                            >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</p>
+                            >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</licence>
                     <p>Attribution : Vous devez créditer l’œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées. Vous devez indiquer ces informations par tous les moyens possibles mais vous ne pouvez pas suggérer que le Centre de théorie et d’analyse du droit vous soutient ou soutient la façon dont vous avez utilisé son œuvre. 
                         <lb/>Le Centre de théorie et d’analyse du droit demande à ce que toute publication dérivée de ses ressources électroniques comporte : 
                         <lb/>1. le nom du Centre de théorie
@@ -148,7 +149,7 @@
                         >Pas d’Utilisation Commerciale</hi> — Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant. 
                         <lb/>Le Centre de théorie et d’analyse du droit souhaite principalement encourager l’utilisation et l’amélioration de ses ressources électroniques dans l’intérêt de l’enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d’analyse du droit.</p>
                     <p><hi rend="italic"
-                        >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
+                            >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
                         <lb/>Vous n’êtes pas obligé de signaler votre travail auprès du Centre de théorie et d’analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
                             type="external" target="mailto:contact@desgodets.net"
                             >contact@desgodets.net</ref>.</p>
@@ -174,18 +175,22 @@
                     <witness n="criticalEdition" corresp="#t9">
                         <desc>Texte de description au besoin</desc>
                         <!-- texte de description du témoin -->
-                        <ref type="file" target="t9/desgodetsT9.tei.xml" mimeType="application/tei+xml"/>
+                        <ref type="file" target="t9/desgodetsT9.tei.xml"
+                            mimeType="application/tei+xml"/>
                         <!-- lien de téléchargement de la source XML-TEI -->
-                        <ref type="file" target="../files/desgodetsT9.pdf" mimeType="application/pdf"/>
+                        <ref type="file" target="../files/desgodetsT9.pdf"
+                            mimeType="application/pdf"/>
                         <!-- pour le texte édité, lien de téléchargement d'une version pdf que nous générerons -->
                     </witness>
                     <witness corresp="#t2">
                         <desc>Texte de description au besoin</desc>
-                        <ref type="file" target="t2/desgodetsT2.tei.xml" mimeType="application/tei+xml"/>
+                        <ref type="file" target="t2/desgodetsT2.tei.xml"
+                            mimeType="application/tei+xml"/>
                     </witness>
                     <witness corresp="#t8">
                         <desc>Texte de description au besoin</desc>
-                        <ref type="file" target="t8/desgodetsT8.tei.xml" mimeType="application/tei+xml"/>
+                        <ref type="file" target="t8/desgodetsT8.tei.xml"
+                            mimeType="application/tei+xml"/>
                     </witness>
                 </listWit>
             </sourceDesc>
@@ -205,7 +210,7 @@
                             target="http://theleme.enc.sorbonne.fr/cours/edition_epoque_moderne/edition_des_textes"
                                 >Conseils pour l’édition des textes de l’époque moderne (XVI<hi
                                 rend="superscript">e</hi>-XVIII<hi rend="superscript"
-                        >e</hi> siècle)</ref>.</p>
+                                >e</hi> siècle)</ref>.</p>
                 </correction>
                 <hyphenation>
                     <p>Pour les ouvrages imprimés, il n'a pas été tenu compte de l'hyphénation.</p>
@@ -239,10 +244,13 @@
         </encodingDesc>
         <!-- présentation du profil de fichier -->
         <profileDesc>
-            <creation notBefore="1719">XVIII<hi rend="superscript">e</hi> siècle (après 1719)</creation>
+            <creation notBefore="1719">XVIII<hi rend="superscript"
+                >e</hi> siècle (après 1719)</creation>
             <langUsage>
-                <language ident="fre" usage="99">Français (langue principale du corpus)</language>
-                <language ident="lat" usage="01">Latin (langue utilisée dans le corpus)</language>
+                <language ident="fre" usage="99"
+                    >Français (langue principale du corpus)</language>
+                <language ident="lat" usage="01"
+                    >Latin (langue utilisée dans le corpus)</language>
                 <!-- TODO : évaluer les langues -->
             </langUsage>
             <textClass>
@@ -252,18 +260,21 @@
                     <term>France</term>
                     <term>Architecture –– Philosophie</term>
                 </keywords>
-                <keywords xml:lang="eng" scheme="http://id.loc.gov/authorities/about.html#lcsh">
+                <keywords xml:lang="eng"
+                    scheme="http://id.loc.gov/authorities/about.html#lcsh">
                     <term>Architecture, Modern</term>
                     <term>17th-18th centuries</term>
                     <term>France</term>
                     <term>Architecture -- Philosophy</term>
                 </keywords>
-                <classCode scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
+                <classCode
+                    scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
                     <term>Text</term>
                 </classCode>
             </textClass>
         </profileDesc>
         <revisionDesc>
+            <change when="2014-03-30" who="#EC">version bêta</change>
             <change when="2013-01-06" who="#EC"
                 >augmentation de l'en-tête TEI, création de la liste de
                 témoins, et inclusion de la présentation</change>
