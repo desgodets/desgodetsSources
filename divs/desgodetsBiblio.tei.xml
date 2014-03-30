@@ -672,6 +672,31 @@
                     <listBibl type="bibliography">
                         <!-- lettre A -->
                         <!-- lettre B -->
+                        <biblStruct xml:id="bellierAuvray1882">
+                            <monogr>
+                                <author>
+                                    <persName ref="#bellierDeLaChavignerieEmile">
+                                        <forename>Émile</forename>
+                                        <surname>Bellier de la Chavignerie</surname>
+                                    </persName>
+                                    <persName ref="#auvrayLouis">
+                                        <forename>Louis</forename>
+                                        <surname>Auvray</surname>
+                                    </persName>
+                                </author>
+                                <title level="m"
+                                    >Dictionnaire général des artistes de l’école française, depuis l’origine des arts du dessin jusqu’en 1882 inclusivement : peintres, sculpteurs, architectes, graveurs et lithographes</title>
+                                <imprint>
+                                    <date from="1882" to="1888">1882-1888</date>
+                                    <pubPlace>Paris</pubPlace>
+                                    <publisher>V<hi rend="superscript"
+                                        >ve</hi> H. Loones</publisher>
+                                </imprint>
+                                <extent>3 vol. : gr. in-8</extent>
+                            </monogr>
+                            <idno type="catBnf"
+                                >http://catalogue.bnf.fr/ark:/12148/cb300806507/PUBLIC</idno>
+                        </biblStruct>
                         <biblStruct xml:id="berthier1852">
                             <monogr>
                                 <author>
@@ -681,7 +706,7 @@
                                     </persName>
                                 </author>
                                 <title level="m"
-                                    >L’abbé de l’Epée : sa vie, son apostolat, ses travaux, sa lutte et ses succès, avec l’historique des monuments élevés à sa mémoire à Paris et à Versailles</title>
+                                    >L’abbé de l’Épée : sa vie, son apostolat, ses travaux, sa lutte et ses succès, avec l’historique des monuments élevés à sa mémoire à Paris et à Versailles</title>
                                 <imprint>
                                     <date when="1852">1852</date>
                                     <pubPlace>Paris</pubPlace>
@@ -705,14 +730,12 @@
                                     >Dictionnaire raisonné d’architecture et des sciences et arts qui s’y rattachent</title>
                                 <imprint>
                                     <date when="1880">1880</date>
-                                    <publisher/>
-                                    <distributor/>
                                     <pubPlace>Paris</pubPlace>
                                 </imprint>
                                 <extent>4 vol. ; in-4</extent>
                             </monogr>
                             <note>Desgodets y est très souvent cité pour les loix</note>
-                            <idno type="catbnf"
+                            <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb41626963w/PUBLIC</idno>
                         </biblStruct>
                         <biblStruct xml:id="bourdotDeRichebourg1724">
@@ -744,9 +767,9 @@
                                     </persName>
                                 </author>
                                 <title level="m"
-                                    >Les architectes par leurs œuvres : ouvrage rédigé sur les manuscrits de feu Al. Du Bois (de l’École polytechnique), architecte du gouvernement / Élie Brault</title>
+                                    >Les architectes par leurs œuvres : ouvrage rédigé sur les manuscrits de feu Al. Du Bois (de l’École polytechnique), architecte du gouvernement</title>
                                 <imprint>
-                                    <date when="1893"/>
+                                    <date when="1893">1893</date>
                                     <pubPlace>Paris</pubPlace>
                                     <publisher> H. Laurens</publisher>
                                 </imprint>
@@ -777,6 +800,26 @@
                                 >http://catalogue.bnf.fr/ark:/12148/cb30175548k/PUBLIC</idno>
                         </biblStruct>
                         <!-- lettre C -->
+                        <biblStruct xml:id="cepollae1570">
+                            <monogr>
+                                <author>
+                                    <persName ref="#cepollaeBartholomaei">
+                                        <forename>Bartholomaei</forename>
+                                        <surname>Cepollae</surname>
+                                    </persName>
+                                </author>
+                                <title level="m"
+                                    >Tractatus de Servitutibus tam urbanorum quam rusticorum praediorum. Acc. Nunc primum Martini [garati] Laudensis Repetito as 1. servitutes 14.ff de servitutibus</title>
+                                <imprint>
+                                    <date when="1570">1570</date>
+                                    <pubPlace>Coloniae Agrippinae</pubPlace>
+                                    <publisher>Apud Ioannem Gymnicum</publisher>
+                                </imprint>
+                                <extent>In-8° , pièces liminaires, 845 p.</extent>
+                            </monogr>
+                            <idno type="catBnf"
+                                >http://catalogue.bnf.fr/ark:/12148/cb30212118r/PUBLIC</idno>
+                        </biblStruct>
                         <biblStruct xml:id="chalmers1813">
                             <monogr>
                                 <author>
@@ -786,14 +829,14 @@
                                     </persName>
                                 </author>
                                 <title level="m"
-                                    >The General Biographical Dictionnary : containing an hsitorical and critical account of the lives and writings of the most eminent persons in every nation, new edition revided and enlarged by Alexander Chalmers</title>
+                                    >The General Biographical Dictionnary: containing an historical and critical account of the lives and writings of the most eminent persons in every nation, new edition revided and enlarged by Alexander Chalmers</title>
                                 <imprint>
-                                    <date when="1813">1813</date>
+                                    <date to="1813">1813</date>
                                     <pubPlace>London</pubPlace>
-                                    <publisher>Gilles Le Roy, Jean-Marie Bruyset, Pierre-Marie Bruyset</publisher>
+                                    <publisher>Printed for J. Nichols</publisher>
+                                    <biblScope type="vol">XI</biblScope>
+                                    <biblScope type="pp">508-509</biblScope>
                                 </imprint>
-                                <extent>XI</extent>
-                                <extent>508-509</extent>
                             </monogr>
                         </biblStruct>
                         <biblStruct xml:id="chaudon1789">
@@ -808,7 +851,7 @@
                                         <surname>Grosley</surname>
                                     </persName>
                                     <persName ref="#moysantFrançoi">
-                                        <forename>Françoi</forename>
+                                        <forename>François</forename>
                                         <surname>Moysant</surname>
                                     </persName>
                                 </author>
@@ -816,8 +859,10 @@
                                     >Nouveau dictionnaire historique ; ou Histoire abrégée de tous les hommes qui se sont fait un nom par des talens, des vertus, des forfaits, des erreurs, &amp;c. depuis le commencement du monde jusqu’a nos jours… avec des tables chronologiques… Par une société de gens-de-lettres. Septième édition…</title>
                                 <imprint>
                                     <date when="1789">1789</date>
-                                    <pubPlace>Caen</pubPlace>
-                                    <publisher>Gilles Le Roy, Jean-Marie Bruyset, Pierre-Marie Bruyset</publisher>
+                                    <pubPlace>À Caen</pubPlace>
+                                    <publisher>chez G. Le Roy</publisher>
+                                    <pubPlace>À Lyon</pubPlace>
+                                    <publisher>chez Bruyset, frères</publisher>
                                 </imprint>
                                 <extent>9 vol. ; in-8</extent>
                             </monogr>
@@ -861,7 +906,8 @@
                                 <imprint>
                                     <date when="1771">1771</date>
                                     <pubPlace>Paris</pubPlace>
-                                    <publisher/>
+                                    <publisher>V<hi rend="superscript"
+                                        >ve</hi> Desaint</publisher>
                                 </imprint>
                                 <extent>4 vol.</extent>
                             </monogr>
@@ -1208,7 +1254,7 @@
                                 <imprint>
                                     <date when="1740">1740</date>
                                     <pubPlace>Paris</pubPlace>
-                                    <publisher/>
+                                    <publisher>Brunet</publisher>
                                 </imprint>
                                 <extent>2 vol. in-4° </extent>
                             </monogr>
@@ -1328,7 +1374,7 @@
                                 <imprint>
                                     <date when="1784">1784</date>
                                     <pubPlace>Paris</pubPlace>
-                                    <publisher/>
+                                    <publisher>Dorez</publisher>
                                 </imprint>
                                 <extent>17 vol.</extent>
                             </monogr>
@@ -1422,16 +1468,53 @@
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb30782648c/PUBLIC</idno>
                         </biblStruct>
-                        <biblStruct xml:id="lazar1906">
+                        <biblStruct xml:id="lalaure1761">
+                            <monogr>
+                                <author>
+                                    <persName ref="#lalaureClaudeNicolas">
+                                        <forename>Claude-Nicolas</forename>
+                                        <surname>Lalaure</surname>
+                                    </persName>
+                                </author>
+                                <title level="m"
+                                    >Traité des servitudes réelles à l’usage de tous les Parlemens et siège du royaume, soit pays de droit écrit, soit pays coutumiers, &amp; aussi à l’usage de la Flandre impériale &amp; d’une patie de l’Allemagne, dans lequel sont rassemblés les principes de la matière, les dispositions des différentes coutumes, &amp; les usages de chaque province, conformément à la jurisprudence des cours souveraines, contenant une compilation &amp; une traduction des Loix romaines qui ont rapport aux servitudes réelles, au nombre de plus de mille loix ou paragraphes</title>
+                                <imprint>
+                                    <date when="1761">1761</date>
+                                    <pubPlace>Paris</pubPlace>
+                                    <publisher>Chez Jean-Thomas Hérissant</publisher>
+                                </imprint>
+                            </monogr>
+                        </biblStruct>
+                        <biblStruct xml:id="lemonnier">
+                            <!-- TODO : revoir la référence -->
+                            <monogr>
+                                <editor>
+                                    <persName ref="#lemonnierHenry">
+                                        <forename>Henry</forename>
+                                        <surname>Lemonnier</surname>
+                                    </persName>
+                                </editor>
+                                <title level="m"
+                                    >Procès-verbaux de l’Académie royale d’architecture 1671-1793</title>
+                                <imprint>
+                                    <date from="1911" to="1915">1911-1929</date>
+                                    <pubPlace>Paris</pubPlace>
+                                    <publisher>Jean Schemit</publisher>
+                                    <publisher>Édouard Champion</publisher>
+                                    <publisher>Armand Colin</publisher>
+                                </imprint>
+                            </monogr>
+                        </biblStruct>
+                        <biblStruct xml:id="lazard1906">
                             <analytic>
                                 <author>
-                                    <persName ref="#lazarL">
-                                        <forename>L</forename>
-                                        <surname>Lazar</surname>
+                                    <persName ref="#lazardLucien">
+                                        <forename>Lucien</forename>
+                                        <surname>Lazard</surname>
                                     </persName>
                                 </author>
                                 <title level="a"
-                                    >Documents rellatifs aux artistes parisiens conservés aux archives de la Seine </title>
+                                    >Documents relatifs aux artistes parisiens conservés aux archives de la Seine</title>
                             </analytic>
                             <monogr>
                                 <title level="j"
@@ -1536,6 +1619,26 @@
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb30793843n/PUBLIC</idno>
                         </biblStruct>
+                        <biblStruct xml:id="letarouilly1840">
+                            <monogr>
+                                <author>
+                                    <persName ref="#letarouillyPaulMarie">
+                                        <forename>Paul-Marie</forename>
+                                        <surname>Letarouilly</surname>
+                                    </persName>
+                                </author>
+                                <title level="m"
+                                    >Édifices de Rome moderne, ou Recueil des palais, maison, églises, couvents et autres monuments publics et particuliers les plus remarquables de la ville de Romme, dessinés, mesurés et publiés par l’auteur</title>
+                                <imprint>
+                                    <date from="1840" to="1857">1840-1857</date>
+                                    <pubPlace>Paris</pubPlace>
+                                    <publisher>F. Didot frères, puis Bance</publisher>
+                                </imprint>
+                                <extent>3 vol. 12 éditions successives</extent>
+                            </monogr>
+                            <idno type="catBnf"
+                                >http://catalogue.bnf.fr/ark:/12148/cb32378916d/PUBLIC</idno>
+                        </biblStruct>
                         <biblStruct xml:id="lepage1852">
                             <monogr>
                                 <author>
@@ -1591,12 +1694,34 @@
                                 <title level="j">L’architecture</title>
                                 <imprint>
                                     <date when="1893">1893</date>
-                                    <publisher/>
-                                    <distributor/>
-                                    <pubPlace/>
+                                    <biblScope type="pp">131-133</biblScope>
                                 </imprint>
-                                <biblScope type="pp">131-133</biblScope>
                             </monogr>
+                        </biblStruct>
+                        <biblStruct xml:id="lunsinghScherleer1962">
+                            <analytic>
+                                <author>
+                                    <persName ref="#lunsinghScheurleerTheodorHerman">
+                                        <forename>Theodor Herman</forename>
+                                        <forename>Lunsingh Scheurleer</forename>
+                                    </persName>
+                                </author>
+                                <title level="a"
+                                    >Een exemplaar van Antoine Desgodets’ Traité de la commodité de l’Architecture in het Rijksprentenkabinet</title>
+                            </analytic>
+                            <monogr>
+                                <title level="m"
+                                    >Opus musivum, een bundel studies aangeboden aan Professor doctor M. D. Ozinga ter gelegenheid van zijn zestigste verjaardag op 10 november 1962</title>
+                                <imprint>
+                                    <date>1964</date>
+                                    <publisher>Van Gorcum en C̊</publisher>
+                                    <pubPlace>Assen</pubPlace>
+                                    <biblScope type="pp">285-297</biblScope>
+                                </imprint>
+                                <extent>IV-507 p. ; In-4°</extent>
+                            </monogr>
+                            <idno type="catBnf"
+                                >http://catalogue.bnf.fr/ark:/12148/cb331220465/PUBLIC</idno>
                         </biblStruct>
                         <!-- lettre M -->
                         <biblStruct xml:id="mariette1853-1862">
@@ -1920,6 +2045,32 @@
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb313066275/PUBLIC</idno>
                         </biblStruct>
+                        <biblStruct xml:id="societeGensDeLettres">
+                            <analytic>
+                                <title level="a">Desgodets</title>
+                            </analytic>
+                            <monogr>
+                                <author>
+                                    <persName>
+                                        <forename>Louis-Mayeul</forename>
+                                        <surname>Chaudon</surname>
+                                    </persName>
+                                </author>
+                                <title level="m"
+                                    >Nouveau dictionnaire historique ou Histoire abrégée de tous les hommes qui se sont fait un nom par des talens, des vertus, des forfaits, des erreurs, etc. … par une Société de gens de lettres</title>
+                                <edition>7e édition revue, corrigée et considérablement augmentée</edition>
+                                <imprint>
+                                    <date when="1789">1789</date>
+                                    <pubPlace>Caen</pubPlace>
+                                    <publisher>G. Leroy</publisher>
+                                    <biblScope type="vol">3</biblScope>
+                                    <biblScope type="pp">270</biblScope>
+                                </imprint>
+                                <extent>9 vol.</extent>
+                            </monogr>
+                            <idno type="catBnf"
+                                >http://catalogue.bnf.fr/ark:/12148/cb30990968w/PUBLIC</idno>
+                        </biblStruct>
                         <!-- lettre T -->
                         <!-- lettre U -->
                         <!-- lettre V -->
@@ -2010,11 +2161,10 @@
                             <monogr>
                                 <title level="m">l’Encyclopedia Universalis</title>
                                 <imprint>
-                                    <date/>
+                                    <date>s.d.</date>
                                     <publisher/>
                                     <pubPlace/>
                                 </imprint>
-                                <extent/>
                             </monogr>
                         </biblStruct>
                         <biblStruct xml:id="armstrong2000">
@@ -2034,9 +2184,9 @@
                                     <date when="2000">2000</date>
                                     <publisher/>
                                     <pubPlace>Munich et Leipzig</pubPlace>
+                                    <biblScope type="vol">26</biblScope>
+                                    <biblScope type="pp">353-356</biblScope>
                                 </imprint>
-                                <biblScope type="vol">26</biblScope>
-                                <biblScope type="pp">353-356</biblScope>
                             </monogr>
                         </biblStruct>
                         <biblStruct xml:id="astengo2012">
@@ -2058,58 +2208,13 @@
                             </monogr>
                         </biblStruct>
                         <!-- lettre B -->
-                        <biblStruct xml:id="baudez2012">
-                            <monogr>
-                                <author>
-                                    <persName ref="#baudezBasile">
-                                        <forename>Basile</forename>
-                                        <surname>Baudez</surname>
-                                    </persName>
-                                </author>
-                                <title level="m"
-                                    >Architecture &amp; tradition académique : au temps des Lumières </title>
-                                <imprint>
-                                    <date when="2012"/>
-                                    <pubPlace>Rennes</pubPlace>
-                                    <publisher>Presses universitaires de Rennes</publisher>
-                                </imprint>
-                                <extent>390 p.-XX p. de pl.</extent>
-                            </monogr>
-                            <series>
-                                <title level="s">Art &amp; société</title>
-                            </series>
-                            <idno type="isbn13">978-2-7535-2122-3</idno>
-                            <idno type="catBnf"
-                                >http://catalogue.bnf.fr/ark:/12148/cb43530809p/PUBLIC</idno>
-                        </biblStruct>
-                        <biblStruct xml:id="baudez2013">
-                            <monogr>
-                                <author>
-                                    <persName ref="#baudezBasile">
-                                        <forename>Basile</forename>
-                                        <surname>Baudez</surname>
-                                    </persName>
-                                </author>
-                                <title level="m"
-                                    >Architecture &amp; tradition académique : au temps des Lumières / Basile Baudez ; préface de Jean-Michel Leniaud</title>
-                                <imprint>
-                                    <date when="2013">2013</date>
-                                    <pubPlace>Rennes</pubPlace>
-                                    <publisher>PUR</publisher>
-                                </imprint>
-                                <extent>1 vol. (390 p.-XX p. de pl.) : ill. en noir et en coul., plans, couv. ill. en coul. ; 25 cm</extent>
-                            </monogr>
-                            <idno type="isbn">978-2-7535-2122-3</idno>
-                            <idno type="catBnf"
-                                >http://catalogue.bnf.fr/ark:/12148/cb43530809p/PUBLIC</idno>
-                        </biblStruct>
                         <biblStruct xml:id="barbiche1993">
                             <monogr>
                                 <title level="m">L’édition des textes anciens : XVI<hi
                                         rend="superscript">e</hi>-XVIII<hi
                                         rend="superscript">e</hi> siècle </title>
                                 <respStmt>
-                                    <resp>director</resp>
+                                    <resp>dir.</resp>
                                     <persName ref="#barbicheBernard">
                                         <forename>Bernard</forename>
                                         <surname>Barbiche</surname>
@@ -2185,33 +2290,43 @@
                                 </imprint>
                             </monogr>
                         </biblStruct>
-                        <biblStruct xml:id="barbierJuraticMellerio2007">
+                        <biblStruct xml:id="barbier2007">
+                            <analytic>
+                                <title level="a">Babuty</title>
+                            </analytic>
                             <monogr>
-                                <title level="m"
-                                    >Dictionnaire des imprimeurs, libraires et gens du livre à Paris, 1701-1789, verbo « Babuty », p. 101-108</title>
-                                <respStmt>
-                                    <resp>director</resp>
-                                    <persName ref="#barbierFrédéric">
-                                        <forename>Frédéric</forename>
+                                <author>
+                                    <persName>
+                                        <forename ref="#barbierFrederic"
+                                           >Frédéric</forename>
                                         <surname>Barbier</surname>
                                     </persName>
-                                    <persName ref="#juraticSabine">
-                                        <forename>Sabine</forename>
+                                    <persName>
+                                        <forename ref="#juraticSabine"
+                                           >Sabine</forename>
                                         <surname>Juratic</surname>
                                     </persName>
                                     <persName ref="#mellerioAnnick">
                                         <forename>Annick</forename>
                                         <surname>Mellerio</surname>
                                     </persName>
-                                </respStmt>
+                                </author>
+                                <title level="m"
+                                    >Dictionnaire des imprimeurs, libraires et gens du livre à Paris, 1701-1789</title>
                                 <imprint>
-                                    <date>2007</date>
+                                    <date from="2007">2007</date>
                                     <publisher>Droz</publisher>
                                     <pubPlace>Genève</pubPlace>
+                                    <biblScope type="vol">1</biblScope>
+                                    <biblScope type="pp">101-108</biblScope>
                                 </imprint>
-                                <extent>1 vol. (IX-688 p.) : fac-similés ; 23 cm, verbo « Babuty », p. 101-108</extent>
+                                <extent>1 vol. (IX-688 p.) : fac-similés ; 23 cm</extent>
                             </monogr>
-                            <idno type="isbn10">978-2-600-01336-9 </idno>
+                            <series>
+                                <title level="s"
+                                    >Histoire et civilisation du livre</title>
+                            </series>
+                            <idno type="isbn10">978-2-600-01336-9</idno>
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb41204159v/PUBLIC</idno>
                         </biblStruct>
@@ -2237,6 +2352,51 @@
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb361994742/PUBLIC</idno>
                         </biblStruct>
+                        <biblStruct xml:id="baudez2012">
+                            <monogr>
+                                <author>
+                                    <persName ref="#baudezBasile">
+                                        <forename>Basile</forename>
+                                        <surname>Baudez</surname>
+                                    </persName>
+                                </author>
+                                <title level="m"
+                                    >Architecture &amp; tradition académique : au temps des Lumières </title>
+                                <imprint>
+                                    <date when="2012"/>
+                                    <pubPlace>Rennes</pubPlace>
+                                    <publisher>Presses universitaires de Rennes</publisher>
+                                </imprint>
+                                <extent>390 p.-XX p. de pl.</extent>
+                            </monogr>
+                            <series>
+                                <title level="s">Art &amp; société</title>
+                            </series>
+                            <idno type="isbn13">978-2-7535-2122-3</idno>
+                            <idno type="catBnf"
+                                >http://catalogue.bnf.fr/ark:/12148/cb43530809p/PUBLIC</idno>
+                        </biblStruct>
+                        <biblStruct xml:id="baudez2013">
+                            <monogr>
+                                <author>
+                                    <persName ref="#baudezBasile">
+                                        <forename>Basile</forename>
+                                        <surname>Baudez</surname>
+                                    </persName>
+                                </author>
+                                <title level="m"
+                                    >Architecture &amp; tradition académique : au temps des Lumières / Basile Baudez ; préface de Jean-Michel Leniaud</title>
+                                <imprint>
+                                    <date when="2013">2013</date>
+                                    <pubPlace>Rennes</pubPlace>
+                                    <publisher>PUR</publisher>
+                                </imprint>
+                                <extent>1 vol. (390 p.-XX p. de pl.) : ill. en noir et en coul., plans, couv. ill. en coul. ; 25 cm</extent>
+                            </monogr>
+                            <idno type="isbn">978-2-7535-2122-3</idno>
+                            <idno type="catBnf"
+                                >http://catalogue.bnf.fr/ark:/12148/cb43530809p/PUBLIC</idno>
+                        </biblStruct>
                         <biblStruct xml:id="benedetti1996">
                             <analytic>
                                 <author>
@@ -2250,12 +2410,12 @@
                             </analytic>
                             <monogr>
                                 <title level="m"
-                                    >Bizanzio e l’Occidente: arte, archeologia, storia: studi in onore di Frenanta de’ Maffei </title>
+                                    >Bizanzio e l’Occidente: arte, archeologia, storia: studi in onore di Frenanta de’ Maffei</title>
                                 <imprint>
                                     <date when="1996">1996</date>
                                     <pubPlace>Rome</pubPlace>
+                                    <biblScope type="pp">621-634</biblScope>
                                 </imprint>
-                                <biblScope type="pp">621-634</biblScope>
                             </monogr>
                         </biblStruct>
                         <biblStruct xml:id="bezagu-Deluy1990">
@@ -2293,9 +2453,9 @@
                                 <title level="j">Journal des savants</title>
                                 <imprint>
                                     <date when="1970">1970</date>
+                                    <biblScope type="issue">4</biblScope>
+                                    <biblScope type="pp">275-284</biblScope>
                                 </imprint>
-                                <biblScope type="issue">4</biblScope>
-                                <biblScope type="pp">275-284</biblScope>
                             </monogr>
                             <note>Sébastien Slodtz est le neveu par alliance d’Antoine Desgodets</note>
                         </biblStruct>
@@ -2308,7 +2468,7 @@
                                     </persName>
                                 </author>
                                 <title level="m"
-                                        >L’Edition d’Architecture à Paris au XIX<hi
+                                        >L’Édition d’Architecture à Paris au XIX<hi
                                         rend="superscript"
                                     >e</hi> siècle. Les maisons Bance et Morel et la presse architecturale ; préf. de Frédéric Barbier</title>
                                 <imprint>
@@ -2351,7 +2511,7 @@
                                         rend="superscript">e</hi>-XX<hi
                                         rend="superscript">e</hi> siècle)</edition>
                                 <respStmt>
-                                    <resp>director</resp>
+                                    <resp>dir.</resp>
                                     <persName>
                                         <forename>Stéphane</forename>
                                         <surname>Van Damme</surname>
@@ -2373,7 +2533,7 @@
                             </analytic>
                             <monogr>
                                 <respStmt>
-                                    <resp>director</resp>
+                                    <resp>dir.</resp>
                                     <persName>
                                         <forename>Patrick</forename>
                                         <surname>Arabeyre</surname>
@@ -2407,7 +2567,7 @@
                         <biblStruct xml:id="carvais2007b">
                             <monogr>
                                 <respStmt>
-                                    <resp>director</resp>
+                                    <resp>dir.</resp>
                                     <persName ref="#RC">
                                         <forename>Robert</forename>
                                         <surname>Carvais</surname>
@@ -2540,7 +2700,7 @@
                         <biblStruct xml:id="carvais2010">
                             <analytic>
                                 <respStmt>
-                                    <resp>director</resp>
+                                    <resp>dir.</resp>
                                     <persName ref="#RC">
                                         <forename>Robert</forename>
                                         <surname>Carvais</surname>
@@ -2563,7 +2723,7 @@
                         <biblStruct xml:id="carvais2011">
                             <analytic>
                                 <respStmt>
-                                    <resp>director</resp>
+                                    <resp>dir.</resp>
                                     <persName ref="#RC">
                                         <forename>Robert</forename>
                                         <surname>Carvais</surname>
@@ -2585,7 +2745,7 @@
                         <biblStruct xml:id="carvais2012">
                             <monogr>
                                 <respStmt>
-                                    <resp>director</resp>
+                                    <resp>dir.</resp>
                                     <persName ref="#RC">
                                         <forename>Robert</forename>
                                         <surname>Carvais</surname>
@@ -2617,6 +2777,53 @@
                                 >http://catalogue.bnf.fr/ark:/12148/cb42704195q/PUBLIC</idno>
                             <idno type="isbn13">978-2-7084-0929-3</idno>
                         </biblStruct>
+                        <biblStruct xml:id="carvais2012a">
+                            <analytic>
+                                <author>
+                                    <persName ref="#RC">
+                                        <forename>Robert</forename>
+                                        <surname>Carvais</surname>
+                                    </persName>
+                                </author>
+                                <title level="a"
+                                    >For a Comparative Study of Construction Laws</title>
+                            </analytic>
+                            <monogr>
+                                <respStmt>
+                                    <resp>dir.</resp>
+                                    <persName ref="#RC">
+                                        <forename>Robert</forename>
+                                        <surname>Carvais</surname>
+                                    </persName>
+                                    <persName ref="#guillermeAndre">
+                                        <forename>André</forename>
+                                        <surname>Guillerme</surname>
+                                    </persName>
+                                    <persName ref="#negreValerie">
+                                        <forename>Valérie</forename>
+                                        <surname>Nègre</surname>
+                                    </persName>
+                                    <persName ref="#sakarovitchJoel">
+                                        <forename>Joël</forename>
+                                        <surname>Sakarovitch</surname>
+                                    </persName>
+                                </respStmt>
+                                <meeting>Actes du congrès international d’histoire de la construction. Paris, 2012.</meeting>
+                                <title level="m"
+                                    >Nuts &amp; bolts of construction history : culture, technology and society</title>
+                                <imprint>
+                                    <date when="2012">2012</date>
+                                    <pubPlace>Paris</pubPlace>
+                                    <publisher>Picard</publisher>
+                                    <biblScope type="vol">1</biblScope>
+                                    <biblScope type="pp">475-487</biblScope>
+                                </imprint>
+                                <extent>3 vol. (XIV-690, VI-664, VI-728 p.) : ill., couv. ill. ; 24 cm</extent>
+                            </monogr>
+                            <idno type="catBnf"
+                                >http://catalogue.bnf.fr/ark:/12148/cb42704195q/PUBLIC</idno>
+                            <idno type="isbn13">978-2-7084-0929-3</idno>
+                        </biblStruct>
                         <biblStruct xml:id="carvais2012b">
                             <analytic>
                                 <author>
@@ -2634,7 +2841,7 @@
                             </analytic>
                             <monogr>
                                 <respStmt>
-                                    <resp>director</resp>
+                                    <resp>dir.</resp>
                                     <persName ref="#hamonEtienne">
                                         <forename>Etienne</forename>
                                         <surname>Hamon</surname>
@@ -2651,9 +2858,9 @@
                                     <date when="2012">2012</date>
                                     <pubPlace>Paris</pubPlace>
                                     <publisher>Somogy : Archives nationales</publisher>
+                                    <biblScope type="pp">56-61</biblScope>
                                 </imprint>
                                 <extent>1 vol.(293 p.) : ill. en noir et en coul., couv. ill. en coul. ; 28 cm</extent>
-                                <biblScope type="pp">56-61</biblScope>
                             </monogr>
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb42790811p/PUBLIC</idno>
@@ -2686,13 +2893,45 @@
                                     <date when="2012">2012</date>
                                     <pubPlace>Paris</pubPlace>
                                     <publisher>Hermann</publisher>
+                                    <biblScope type="pp">333-358</biblScope>
                                 </imprint>
                                 <extent>2 vol. (470, 563 p.) : ill. en noir et en coul., cartes, plans, couv. ill. en coul. ; 24 cm</extent>
-                                <biblScope type="pp">333-358</biblScope>
                             </monogr>
                             <idno type="catbnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb425275708/PUBLIC</idno>
                             <idno type="isbn13">978-2-7056-8216-3</idno>
+                        </biblStruct>
+                        <biblStruct xml:id="carvais2014a">
+                            <analytic>
+                                <title level="a">Savot, précusseur de Desgodets</title>
+                            </analytic>
+                            <monogr>
+                                <respStmt>
+                                    <resp>dir.</resp>
+                                    <persName ref="#RC">
+                                        <forename>Robert</forename>
+                                        <surname>Carvais</surname>
+                                    </persName>
+                                    <persName ref="#garconAnneFrancoise">
+                                        <forename>Anne-Françoise</forename>
+                                        <surname>Garçon</surname>
+                                    </persName>
+                                    <persName ref="#grelonAndre">
+                                        <forename>André</forename>
+                                        <surname>Grelon</surname>
+                                    </persName>
+                                </respStmt>
+                                <title level="m"
+                                        >L’éclat technique. La construction historique des savoirs de l’action, XVI<hi
+                                        rend="superscript">e</hi>-XXI<hi
+                                        rend="superscript"
+                                    >e</hi> siècle (Apports et prolongements de l’Œuvre d’Hélène Vérin)</title>
+                                <imprint>
+                                    <date>à paraître</date>
+                                    <pubPlace>Paris</pubPlace>
+                                    <publisher>Classiques Garnier</publisher>
+                                </imprint>
+                            </monogr>
                         </biblStruct>
                         <biblStruct xml:id="cellauro2008">
                             <analytic>
@@ -2739,14 +2978,14 @@
                                     >Antoine Desgodets : Les Édifices antiques de Rome, édition fac-simile du Manuscrit inédit 2718 de l’Institut de France avec transcription, annotations et reproduction des planches de l’ouvrage publié en 1682</title>
                                 <imprint>
                                     <date when="2008">2008</date>
-                                    <publisher>De Luca Editori d'arte</publisher>
+                                    <publisher>De Luca Editori d’arte</publisher>
                                     <pubPlace>Roma</pubPlace>
                                 </imprint>
                                 <extent>340 p., ill., 104 pl., 22 x 30,5 cm</extent>
                             </monogr>
                             <series>
                                 <title level="s"
-                                    >Studi sulla Cultura dell'Antico</title>
+                                    >Studi sulla Cultura dell’Antico</title>
                                 <biblScope type="issue">7</biblScope>
                                 <editor>Collana diretta da Maria Luisa Madonna</editor>
                             </series>
@@ -2772,26 +3011,6 @@
                                     <biblScope type="pp">76-87</biblScope>
                                 </imprint>
                             </monogr>
-                        </biblStruct>
-                        <biblStruct xml:id="cepollae1570">
-                            <monogr>
-                                <author>
-                                    <persName ref="#cepollaeBartholomaei">
-                                        <forename>Bartholomaei</forename>
-                                        <surname>Cepollae</surname>
-                                    </persName>
-                                </author>
-                                <title level="m"
-                                    >Tractatus de Servitutibus tam urbanorum quam rusticorum praediorum. Acc. Nunc primum Martini [garati] Laudensis Repetito as 1. servitutes 14.ff de servitutibus</title>
-                                <imprint>
-                                    <date when="1570">1570</date>
-                                    <pubPlace/>
-                                    <publisher>Apud Ioannem Gymnicum</publisher>
-                                </imprint>
-                                <extent>In-8° , pièces liminaires, 845 p.</extent>
-                            </monogr>
-                            <idno type="catBnf"
-                                >http://catalogue.bnf.fr/ark:/12148/cb30212118r/PUBLIC</idno>
                         </biblStruct>
                         <biblStruct xml:id="charageat1957">
                             <analytic>
@@ -2856,8 +3075,6 @@
                                     <biblScope type="vol">53</biblScope>
                                     <biblScope type="issue">2</biblScope>
                                     <biblScope type="pp">139-183</biblScope>
-                                    <pubPlace/>
-                                    <publisher/>
                                 </imprint>
                             </monogr>
                             <idno type="catBnf"
@@ -3100,8 +3317,6 @@
                                     <date when="2001">2001</date>
                                     <biblScope type="issue">1</biblScope>
                                     <biblScope type="pp">13-30</biblScope>
-                                    <pubPlace/>
-                                    <publisher/>
                                 </imprint>
                                 <extent/>
                             </monogr>
@@ -3269,16 +3484,80 @@
                                 <title level="m">Document numérique</title>
                                 <imprint>
                                     <date when="2004">2004</date>
-                                    <pubPlace/>
                                     <biblScope type="vol">8</biblScope>
                                     <biblScope type="issue">4</biblScope>
                                     <biblScope type="pp">91-11</biblScope>
-                                    <publisher/>
                                 </imprint>
                             </monogr>
                             <series>
                                 <title level="s">Temps et documents</title>
                             </series>
+                            <!-- http://www.item.ens.fr/index.php?id=172975 -->
+                        </biblStruct>
+                        <biblStruct xml:id="ganascia2004b">
+                            <analytic>
+                                <author>
+                                    <persName ref="#ganasciaJeanGabriel">
+                                        <forename>Jean-Gabriel</forename>
+                                        <surname>Ganascia</surname>
+                                    </persName>
+                                </author>
+                                <author>
+                                    <persName ref="#fenoglioIrene">
+                                        <forename>Irène</forename>
+                                        <surname>Fénoglio</surname>
+                                    </persName>
+                                </author>
+                                <author>
+                                    <persName ref="#lebraveJeanLouis">
+                                        <forename>Jean-Louis</forename>
+                                        <surname>Lebrave</surname>
+                                    </persName>
+                                </author>
+                                <!--<author>
+                                    <persName ref="#rosinC">
+                                        <forename>C</forename>
+                                        <surname>Rosin</surname>
+                                    </persName>
+                                </author>
+                                <author>
+                                    <persName ref="#SèdesFl">
+                                        <forename>Fl</forename>
+                                        <surname>Sèdes</surname>
+                                    </persName>
+                                </author>-->
+                                <title level="a"
+                                    >EDITE MEDITE : un logiciel de comparaison de versions</title>
+                            </analytic>
+                            <monogr>
+                                <respStmt>
+                                    <resp>dir.</resp>
+                                    <persName>
+                                        <forename>Gérald</forename>
+                                        <surname>Purnelle</surname>
+                                    </persName>
+                                    <persName>
+                                        <forename>Cédrick</forename>
+                                        <surname>Fairon</surname>
+                                    </persName>
+                                    <persName>
+                                        <forename>Anne</forename>
+                                        <surname>Dister</surname>
+                                    </persName>
+                                </respStmt>
+                                <meeting>actes des 7<hi rend="superscript"
+                                    >es</hi> journées internationales d’analyse statistique des données textuelles</meeting>
+                                <title level="m">Le poids des mots</title>
+                                <imprint>
+                                    <date when="2004">2004</date>
+                                    <pubPlace>Louvain-la-Neuve</pubPlace>
+                                    <publisher>Presses universitaires de Louvain</publisher>
+                                    <biblScope type="vol">1</biblScope>
+                                    <biblScope type="pp">468-478</biblScope>
+                                </imprint>
+                                <extent>2 vol.</extent>
+                            </monogr>
+
                             <!-- http://www.item.ens.fr/index.php?id=172975 -->
                         </biblStruct>
                         <biblStruct xml:id="garlopeau2007">
@@ -3361,10 +3640,10 @@
                                 <imprint>
                                     <date when="1976">1976</date>
                                     <pubPlace>Paris</pubPlace>
+                                    <biblScope type="vol">32</biblScope>
+                                    <biblScope type="issue">1</biblScope>
+                                    <biblScope type="pp">6-14</biblScope>
                                 </imprint>
-                                <biblScope type="vol">32</biblScope>
-                                <biblScope type="issue">1</biblScope>
-                                <biblScope type="pp">6-14</biblScope>
                             </monogr>
                             <idno type="issn">0035-1326</idno>
                             <idno type="catBnf"
@@ -3386,9 +3665,9 @@
                                     <date when="1996">1996</date>
                                     <pubPlace>New York</pubPlace>
                                     <publisher/>
+                                    <biblScope type="vol">8</biblScope>
+                                    <biblScope type="pp">793-794</biblScope>
                                 </imprint>
-                                <biblScope type="vol">8</biblScope>
-                                <biblScope type="pp">793-794</biblScope>
                             </monogr>
                         </biblStruct>
                         <biblStruct xml:id="hamon1978">
@@ -3410,9 +3689,9 @@
                                     <date when="1978">1978</date>
                                     <pubPlace>Rennes</pubPlace>
                                     <publisher/>
+                                    <biblScope type="issue">1</biblScope>
+                                    <biblScope type="pp">5-20</biblScope>
                                 </imprint>
-                                <biblScope type="issue">1</biblScope>
-                                <biblScope type="pp">5-20</biblScope>
                             </monogr>
                         </biblStruct>
                         <biblStruct xml:id="harris1990">
@@ -3438,9 +3717,9 @@
                                     <date when="2000">2000</date>
                                     <pubPlace>Cambridge</pubPlace>
                                     <publisher>Mansfield Centre : Martino publ.</publisher>
+                                    <biblScope type="pp">180-182</biblScope>
                                 </imprint>
                                 <extent>571 p. : ill. ; 24 cm; Reprod. en fac-sim. de l’éd. de Cambridge, 1990</extent>
-                                <biblScope type="pp">180-182</biblScope>
                             </monogr>
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb38886368d/PUBLIC</idno>
@@ -3537,7 +3816,7 @@
                             </analytic>
                             <monogr>
                                 <respStmt>
-                                    <resp>director</resp>
+                                    <resp>dir.</resp>
                                     <persName ref="#RC">
                                         <forename>Robert</forename>
                                         <surname>Carvais</surname>
@@ -3705,7 +3984,7 @@
                             </monogr>
                         </biblStruct>
                         <!-- lettre K -->
-                        <biblStruct xml:id="kockel20010">
+                        <biblStruct xml:id="kockel2010">
                             <analytic>
                                 <author>
                                     <persName ref="#kockelValentin">
@@ -3744,42 +4023,6 @@
                                 >http://catalogue.bnf.fr/ark:/12148/cb422892621/PUBLIC</idno>
                         </biblStruct>
                         <!-- lettre L -->
-                        <biblStruct xml:id="lalaure1761">
-                            <monogr>
-                                <author>
-                                    <persName ref="#lalaureClaudeNicolas">
-                                        <forename>Claude-Nicolas</forename>
-                                        <surname>Lalaure</surname>
-                                    </persName>
-                                </author>
-                                <title level="m"
-                                    >Traité des servitudes réelles à l’usage de tous les Parlemens et siège du royaume, soit pays de droit écrit, soit pays coutumiers, &amp; aussi à l’usage de la Flandre impériale &amp; d’une patie de l’Allemagne, dans lequel sont rassemblés les principes de la matière, les dispositions des différentes coutumes, &amp; les usages de chaque province, conformément à la jurisprudence des cours souveraines, contenant une compilation &amp; une traduction des Loix romaines qui ont rapport aux servitudes réelles, au nombre de plus de mille loix ou paragraphes</title>
-                                <imprint>
-                                    <date when="1761">1761</date>
-                                    <pubPlace>Paris</pubPlace>
-                                    <publisher/>
-                                </imprint>
-                                <extent/>
-                            </monogr>
-                        </biblStruct>
-                        <biblStruct xml:id="latarouilly1840">
-                            <monogr>
-                                <author>
-                                    <persName ref="#latarouillyPaulMarie">
-                                        <forename>Paul-Marie</forename>
-                                        <surname>Latarouilly</surname>
-                                    </persName>
-                                </author>
-                                <title level="m"
-                                    >Édifices de Rome moderne, ou Recueil des palais, maison, églises, couvents et autres monuments publics et particuliers les plus remarquables de la ville de Romme, dessinés, mesurés et publiés par l’auteur</title>
-                                <imprint>
-                                    <date when="1840">1840</date>
-                                    <pubPlace>Paris</pubPlace>
-                                    <publisher/>
-                                </imprint>
-                                <extent>3 vol. 12 éditions successives</extent>
-                            </monogr>
-                        </biblStruct>
                         <biblStruct xml:id="laget2012">
                             <monogr>
                                 <author>
@@ -3859,26 +4102,6 @@
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb34349087b/PUBLIC</idno>
                             <idno type="issn">ISSN-L 0035-1326</idno>
-                        </biblStruct>
-                        <biblStruct xml:id="lemonnier">
-                            <!-- TODO : revoir la référence -->
-                            <monogr>
-                                <editor>
-                                    <persName ref="#lemonnierHenry">
-                                        <forename>Henry</forename>
-                                        <surname>Lemonnier</surname>
-                                    </persName>
-                                </editor>
-                                <title level="m"
-                                    >Procès-verbaux de l’Académie royale d’architecture 1671-1793</title>
-                                <imprint>
-                                    <date from="1911" to="1915">1911-1929</date>
-                                    <pubPlace>Paris</pubPlace>
-                                    <publisher>Jean Schemit</publisher>
-                                    <publisher>Édouard Champion</publisher>
-                                    <publisher>Armand Colin</publisher>
-                                </imprint>
-                            </monogr>
                         </biblStruct>
                         <biblStruct xml:id="lemonnier1916">
                             <analytic>
@@ -3989,7 +4212,7 @@
                                 <author>
                                     <persName ref="#lepointeGabriel">
                                         <forename>Gabriel</forename>
-                                        <surname>Lapointe</surname>
+                                        <surname>Lepointe</surname>
                                     </persName>
                                 </author>
                                 <title level="m"
@@ -4344,8 +4567,29 @@
                                     <date when="1992">1992</date>
                                     <publisher/>
                                     <pubPlace>Rome</pubPlace>
+                                    <biblScope type="pp">215-226</biblScope>
                                 </imprint>
-                                <biblScope type="pp">215-226</biblScope>
+                            </monogr>
+                        </biblStruct>
+                        <biblStruct xml:id="pasquali2000">
+                            <analytic>
+                                <author>
+                                    <persName ref="#pasqualiSusanna">
+                                        <forename>Susanna</forename>
+                                        <surname>Pasquali</surname>
+                                    </persName>
+                                </author>
+                                <title level="a"
+                                    >Francesco Algarotti, Andrea Palladio e un frammento du marno di Pola</title>
+                            </analytic>
+                            <monogr>
+                                <title level="j"
+                                    >Annali di architecttura. Rivista del Centro internazionale di Studi di Architettura Andrea Palladio di Vicenza</title>
+                                <imprint>
+                                    <date when="2000">2000</date>
+                                    <biblScope type="issue">12</biblScope>
+                                    <biblScope type="pp">159-166</biblScope>
+                                </imprint>
                             </monogr>
                         </biblStruct>
                         <biblStruct xml:id="pelpel1980">
@@ -4481,36 +4725,6 @@
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb36635044p/PUBLIC</idno>
                         </biblStruct>
-                        <biblStruct xml:id="propeckLhinares2003">
-                            <analytic>
-                                <author>
-                                    <persName>
-                                        <forename>Lina</forename>
-                                        <surname>Propeck</surname>
-                                    </persName>
-                                </author>
-                                <author>
-                                    <persName>
-                                        <forename>Laurence</forename>
-                                        <surname>Lhinares</surname>
-                                    </persName>
-                                </author>
-                                <title level="a"
-                                    >Signatures, marques et paraphes administratifs des dessins du Louvre, 1671-1796</title>
-                            </analytic>
-                            <monogr>
-                                <title level="j"
-                                    >Revue du Louvre et des Musées de France</title>
-                                <imprint>
-                                    <date when="2003">2003</date>
-                                    <biblScope type="vol">53</biblScope>
-                                </imprint>
-                                <biblScope type="issue">2</biblScope>
-                                <biblScope type="pp">64-74</biblScope>
-                            </monogr>
-                            <idno type="cataBnf"
-                                >http://catalogue.bnf.fr/ark:/12148/cb34349164z/PUBLIC</idno>
-                        </biblStruct>
                         <biblStruct xml:id="pinon1990">
                             <analytic>
                                 <author>
@@ -4528,29 +4742,8 @@
                                 <imprint>
                                     <date when="1990">1990</date>
                                     <biblScope type="vol">26</biblScope>
+                                    <biblScope type="pp">18-28</biblScope>
                                 </imprint>
-                                <biblScope type="pp">18-28</biblScope>
-                            </monogr>
-                        </biblStruct>
-                        <biblStruct xml:id="pinon2013">
-                            <analytic>
-                                <author>
-                                    <persName ref="#pinonPierre">
-                                        <forename>Pierre</forename>
-                                        <surname>Pinon</surname>
-                                    </persName>
-                                </author>
-                                <title level="a"
-                                    >Pierre-Adrien Pâris (1745-1819), Architecte, et les Monuments antiques de Rome et de la Campanie</title>
-                            </analytic>
-                            <monogr>
-                                <title level="j"
-                                    >Gnomon. Kritische Zeitchrift für die gesamte Klassische Altertumswissenschaft</title>
-                                <imprint>
-                                    <date when="2013">2013</date>
-                                    <biblScope type="vol">81-1</biblScope>
-                                </imprint>
-                                <biblScope type="pp">64-74</biblScope>
                             </monogr>
                         </biblStruct>
                         <biblStruct xml:id="pinon1993">
@@ -4577,8 +4770,9 @@
                                         <surname>Sapin</surname>
                                     </persName>
                                 </author>
+                                <meeting>Actes du colloque de Dijon, Musée archéologique, 23-25 septembre 1993</meeting>
                                 <title level="m"
-                                    >Guillaume de Volpiano et l’architecture des rotondes (Actes du colloque de Dijon, Musée archéologique, 23-25 septembre 1993)</title>
+                                    >Guillaume de Volpiano et l’architecture des rotondes</title>
                                 <imprint>
                                     <date when="1993">1993</date>
                                     <pubPlace>Dijon</pubPlace>
@@ -4589,6 +4783,58 @@
                             <idno type="isbn">2-905965-10-X</idno>
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb358363935/PUBLIC</idno>
+                        </biblStruct>
+                        <biblStruct xml:id="pinon2013">
+                            <analytic>
+                                <author>
+                                    <persName ref="#pinonPierre">
+                                        <forename>Pierre</forename>
+                                        <surname>Pinon</surname>
+                                    </persName>
+                                </author>
+                                <title level="a"
+                                    >Pierre-Adrien Pâris (1745-1819), Architecte, et les Monuments antiques de Rome et de la Campanie</title>
+                            </analytic>
+                            <monogr>
+                                <title level="j"
+                                    >Gnomon. Kritische Zeitchrift für die gesamte Klassische Altertumswissenschaft</title>
+                                <imprint>
+                                    <date when="2013-01">janvier 2013</date>
+                                    <biblScope type="vol">81-1</biblScope>
+                                    <biblScope type="pp">64-74</biblScope>
+                                </imprint>
+                            </monogr>
+                        </biblStruct>
+
+                        <biblStruct xml:id="propeckLhinares2003">
+                            <analytic>
+                                <author>
+                                    <persName>
+                                        <forename>Lina</forename>
+                                        <surname>Propeck</surname>
+                                    </persName>
+                                </author>
+                                <author>
+                                    <persName>
+                                        <forename>Laurence</forename>
+                                        <surname>Lhinares</surname>
+                                    </persName>
+                                </author>
+                                <title level="a"
+                                    >Signatures, marques et paraphes administratifs des dessins du Louvre, 1671-1796</title>
+                            </analytic>
+                            <monogr>
+                                <title level="j"
+                                    >Revue du Louvre et des Musées de France</title>
+                                <imprint>
+                                    <date when="2003">2003</date>
+                                    <biblScope type="vol">53</biblScope>
+                                    <biblScope type="issue">2</biblScope>
+                                    <biblScope type="pp">64-74</biblScope>
+                                </imprint>
+                            </monogr>
+                            <idno type="cataBnf"
+                                >http://catalogue.bnf.fr/ark:/12148/cb34349164z/PUBLIC</idno>
                         </biblStruct>
                         <!-- lettre Q -->
                         <!-- lettre R -->
@@ -4655,8 +4901,8 @@
                                 <imprint>
                                     <date when="2008">2008</date>
                                     <biblScope type="vol">15</biblScope>
+                                    <biblScope type="pp">101-108</biblScope>
                                 </imprint>
-                                <biblScope type="pp">101-108</biblScope>
                             </monogr>
                         </biblStruct>
                         <biblStruct xml:id="rollenhagenTilly2010">
@@ -4674,8 +4920,7 @@
                                 <title level="m"
                                     >Journée d’études organisée par le projet « Desgodets » sélectionné par l’Agence nationale de la recherche (ANR) dans le cadre du programme « Corpus et outils de la recherche en sciences humaines et sociales » et l’Institut national d’histoire de l’art (INHA), 31 mars 2010 </title>
                                 <imprint>
-                                    <date when="2010">2010</date>
-                                    <publisher>Inédit</publisher>
+                                    <date>indédit</date>
                                     <!-- TODO préciser -->
                                 </imprint>
                             </monogr>
@@ -4697,8 +4942,8 @@
                                     <date when="2011">2011</date>
                                     <biblScope type="vol">80</biblScope>
                                     <biblScope type="issue">4</biblScope>
+                                    <biblScope type="pp">207-218</biblScope>
                                 </imprint>
-                                <biblScope type="pp">207-218</biblScope>
                             </monogr>
                             <idno type="doi">10.1080/00233609.2011.582143</idno>
                         </biblStruct>
@@ -4738,14 +4983,55 @@
                                     <date when="2012">2012</date>
                                     <publisher>Paris</publisher>
                                     <pubPlace>Picard</pubPlace>
+                                    <biblScope type="vol">1</biblScope>
+                                    <biblScope type="pp">409-417</biblScope>
                                 </imprint>
-                                <biblScope type="vol">1</biblScope>
-                                <biblScope type="pp">409-417</biblScope>
                                 <extent>3 vol. (XIV-690, VI-664, VI-728 p.) : ill., couv. ill. ; 24</extent>
                             </monogr>
                             <idno type="isbn">978-2-7084-0929-3</idno>
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb42704195q/PUBLIC</idno>
+                        </biblStruct>
+                        <biblStruct xml:id="rollenhagenTilly2014a">
+                            <monogr>
+                                <author>
+                                    <persName ref="#rollenhagenTillyLinnea">
+                                        <forename>Linnéa</forename>
+                                        <surname>Rollenhagen Tilly</surname>
+                                    </persName>
+                                </author>
+                                <title level="m"
+                                    >Carl Johan Cronstedt, arkitekt och organisatör - en man av sid tid [Carl Johan Cronstedt, architecte et organisateur - un homme des Lumières]</title>
+                                <imprint>
+                                    <date>à paraitre</date>
+                                </imprint>
+                            </monogr>
+                        </biblStruct>
+                        <biblStruct xml:id="rollenhagenTilly2014b">
+                            <analytic>
+                                <author>
+                                    <persName ref="#rollenhagenTillyLinnea">
+                                        <forename>Linnéa</forename>
+                                        <surname>Rollenhagen Tilly</surname>
+                                    </persName>
+                                    <persName>
+                                        <forename>Linda</forename>
+                                        <surname>Hinners</surname>
+                                    </persName>
+                                    <persName>
+                                        <forename>Anne-Sophie</forename>
+                                        <surname>Michel</surname>
+                                    </persName>
+                                </author>
+                                <title level="a">Paris à Stockholm</title>
+                            </analytic>
+                            <monogr>
+                                <title level="j"
+                                    >Bulletin de la société de l'histoire de Paris et l'île de France</title>
+                                <imprint>
+                                    <date>à paraître</date>
+                                </imprint>
+                            </monogr>
                         </biblStruct>
                         <biblStruct>
                             <monogr>
@@ -4861,9 +5147,9 @@
                                     <date when="2008">2008</date>
                                     <publisher>Oxford : Taylor Institution</publisher>
                                     <pubPlace>Oxford</pubPlace>
+                                    <biblScope type="vol">6</biblScope>
+                                    <biblScope type="pp">57-68</biblScope>
                                 </imprint>
-                                <biblScope type="vol">6</biblScope>
-                                <biblScope type="pp">57-68</biblScope>
                             </monogr>
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb389975975/PUBLIC</idno>
@@ -4884,8 +5170,7 @@
                                 <title level="m"
                                     >Journée d’études organisée par le projet « Desgodets » sélectionné par l’Agence nationale de la recherche (ANR) dans le cadre du programme « Corpus et outils de la recherche en sciences humaines et sociales » et l’Institut national d’histoire de l’art (INHA), 31 mars 2010 </title>
                                 <imprint>
-                                    <date when="2010">2010</date>
-                                    <publisher>Inédit</publisher>
+                                    <date>indédit</date>
                                 </imprint>
                             </monogr>
                         </biblStruct>
@@ -4942,10 +5227,10 @@
                                     <date when="2012">2012</date>
                                     <publisher>Paris</publisher>
                                     <pubPlace>Picard</pubPlace>
+                                    <biblScope type="vol">1</biblScope>
+                                    <biblScope type="pp">545-553</biblScope>
                                 </imprint>
                                 <extent>3 vol. (XIV-690, VI-664, VI-728 p.) : ill., couv. ill. ; 24 cm</extent>
-                                <biblScope type="vol">1</biblScope>
-                                <biblScope type="pp">545-553</biblScope>
                             </monogr>
                             <idno type="isbn">978-2-7084-0929-3</idno>
                             <idno type="catBnf"
@@ -4997,8 +5282,7 @@
                             </analytic>
                             <monogr>
                                 <imprint>
-                                    <date when="2014">2014</date>
-                                    <publisher>à paraître</publisher>
+                                    <date>à paraître</date>
                                 </imprint>
                             </monogr>
                         </biblStruct>
@@ -5025,17 +5309,19 @@
                         </biblStruct>
                         <biblStruct xml:id="sacy1965">
                             <analytic>
+                                <author>
+                                    <persName ref="#sacyJacquesDe">
+                                        <forename>Jacques</forename>
+                                        <surname>de Sacy</surname>
+                                    </persName>
+                                </author>
                                 <title level="a">Desgodets</title>
                             </analytic>
                             <monogr>
                                 <respStmt>
                                     <resp>dir.</resp>
-                                    <persName ref="#sacyJacquesDe">
-                                        <forename>Jacques</forename>
-                                        <surname>de Sacy</surname>
-                                    </persName>
                                     <persName ref="#amatRomanDe">
-                                        <forename>roman</forename>
+                                        <forename>Roman</forename>
                                         <surname>d’Amat</surname>
                                     </persName>
                                     <persName>
@@ -5054,7 +5340,7 @@
                                 </imprint>
                             </monogr>
                         </biblStruct>
-                        <biblStruct>
+                        <biblStruct xml:id="savage19942003">
                             <monogr>
                                 <author>
                                     <persName>
@@ -5078,7 +5364,8 @@
                                 </imprint>
                                 <extent>5 vol.</extent>
                             </monogr>
-                            <idno type="catBnf">http://catalogue.bnf.fr/ark:/12148/cb37334652b/</idno>
+                            <idno type="catBnf"
+                                >http://catalogue.bnf.fr/ark:/12148/cb37334652b/</idno>
                         </biblStruct>
                         <biblStruct xml:id="schöller1993">
                             <monogr>
@@ -5181,9 +5468,7 @@
                                 <title level="m"
                                     >Journée d’études organisée par le projet « Desgodets » sélectionné par l’Agence nationale de la recherche (ANR) dans le cadre du programme « Corpus et outils de la recherche en sciences humaines et sociales » et l’Institut national d’histoire de l’art (INHA), 31 mars 2010</title>
                                 <imprint>
-                                    <date when="2010">2010</date>
-                                    <publisher/>
-                                    <pubPlace/>
+                                    <date>inédit</date>
                                 </imprint>
                             </monogr>
                         </biblStruct>
@@ -5203,11 +5488,10 @@
                             </analytic>
                             <monogr>
                                 <title level="m"
-                                    >Journée d’études organisée par le projet « Desgodets » sélectionné par l’Agence nationale de la recherche (ANR) dans le cadre du programme « Corpus et outils de la recherche en sciences humaines et sociales » et l’Institut national d’histoire de l’art (INHA), 31 mars 2010 </title>
+                                    >Journée d’études organisée par le projet « Desgodets » sélectionné par l’Agence nationale de la recherche (ANR) dans le cadre du programme « Corpus et outils de la recherche en sciences humaines et sociales » et l’Institut national d’histoire de l’art (INHA), 31 mars 2010</title>
                                 <imprint>
-                                    <date when="2010">2010</date>
+                                    <date>inédit</date>
                                 </imprint>
-                                <biblScope type="pp"/>
                             </monogr>
                         </biblStruct>
                         <biblStruct xml:id="verdier2003">
@@ -5270,12 +5554,23 @@
                                     <date when="1980-12">décembre 1980</date>
                                     <biblScope type="vol">XXXIX</biblScope>
                                     <biblScope type="pp">312-315</biblScope>
-                                    <pubPlace/>
-                                    <publisher/>
                                 </imprint>
                             </monogr>
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb339471871/PUBLIC</idno>
+                        </biblStruct>
+                        <biblStruct>
+                            <analytic>
+                                <title level="a">Claude-Martin Goupy</title>
+                            </analytic>
+                            <monogr>
+                                <title level="m">Wikipédia</title>
+                                <imprint>
+                                    <date when="2013">2013</date>
+                                </imprint>
+                            </monogr>
+                            <ref type="url"
+                                >http://fr.wikipedia.org/wiki/Claude-Martin_Goupy</ref>
                         </biblStruct>
                         <!-- lettre X -->
                         <!-- lettre Y -->
