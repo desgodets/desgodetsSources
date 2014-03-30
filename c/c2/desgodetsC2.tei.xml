@@ -5760,7 +5760,7 @@
                            >e</hi></num>
                      <lb/>Description des <term type="gT"
                         ref="#egliseParoissiale"
-                              ><choice><orig>églizes</orig><expan>églises</expan></choice>
+                              ><choice><orig>églizes</orig><expan>églises</expan></choice> 
                         <lb/>paroissiales</term></head>
                   <div xml:id="c2BodyFr01.03.001" type="section" n="1">
                      <p xml:id="c2BodyFr01.03.001.p001">
@@ -5768,7 +5768,7 @@
                            >Les fonctions des curés, étant</hi> de célébrer avec leurs paroissiens, les sacrés mistères et l’office divin, aux différentes heures de la journée, de les instruire dans la foy, leur enseigner la parolle de dieu, expliquer l’Évangille, les prophéties, les Épitres et autres traités de la sainte écriture, par des prédications publiques ou particulières, et prosne famillier, leur administrer les sacremens, observer les cérémonies de l’Église, et rendre aux deffunts les dernières œuvres de charité<ref
                            type="noteHistorical" target="#c2Nh0307"/>.</p>
                      <p xml:id="c2BodyFr01.03.001.p002">
-                        <hi rend="bigger">Les</hi>
+                        <hi rend="bigger">Les</hi> 
                         <term type="gT" ref="#egliseParoissiale">églises <choice>
                               <orig>paroissialles</orig>
                               <reg>paroissiales</reg>
