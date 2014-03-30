@@ -8,8 +8,7 @@
    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
 -->
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-   xmlns:xi="http://www.w3.org/2001/XInclude">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
    <!-- début de l'en-tête TEI -->
    <teiHeader>
       <fileDesc>
@@ -94,8 +93,8 @@
          </titleStmt>
          <!-- mention d'édition -->
          <editionStmt>
-            <edition n="1">première édition électronique, <date from="2013"
-                  to="2013">2008-2013</date></edition>
+            <edition n="bêta">première édition électronique, <date from="2013" to="2013"
+                  >2008-2013</date>, version bêta</edition>
          </editionStmt>
          <extent><!-- taille du fichier en octet --></extent>
          <!-- information sur la publication électronique -->
@@ -120,70 +119,34 @@
                </address>
             </publisher>
             <availability status="restricted" xml:id="o8ImagesLicence">
-               <p>Les images numériques des manuscrits sont mises à disposition
-                  par les institutions partenaires mais restent leur propriété
-                  exclusive. Celles-ci en autorisent la reproduction et la
-                  réutilisation selon leurs propres règles en vigueur. Toute
-                  diffusion de ces images, sous quelque forme et sur quelque
-                  support que ce soit (papier, audiovisuel, ou numérique), pour
-                  quelque finalité que ce soit (pédagogique, scientifique ou
-                  commercial), doit faire l’objet d’une demande d’autorisation
-                  préalable auprès de l’institution concernée.</p>
+               <p>Les images numériques des manuscrits sont mises à disposition par les institutions partenaires mais restent leur propriété exclusive. Celles-ci en autorisent la reproduction et la réutilisation selon leurs propres règles en vigueur. Toute diffusion de ces images, sous quelque forme et sur quelque support que ce soit (papier, audiovisuel, ou numérique), pour quelque finalité que ce soit (pédagogique, scientifique ou commercial), doit faire l’objet d’une demande d’autorisation préalable auprès de l’institution concernée.</p>
             </availability>
             <availability status="restricted" xml:id="o8TextLicence">
-               <!-- TODO : <licence> à ajouter partout -->
-               <licence
-                  target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr/"
-                  >
-                  <p>Ce(tte) œuvre est mise à disposition selon les termes
-                     de la Licence Creative Commons Attribution - Pas
-                     d’Utilisation Commerciale - Partage dans les Mêmes
-                     Conditions 3.0 France.</p>
-                  <graphic
-                     url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png" />
-               </licence>
-               <p>Le Centre de théorie et d'analyse du droit
-                  (UMR 7074) met à disposition cette ressource électronique
-                  structurée, protégée par le code de la propriété
-                  intellectuelle sur le droit d'auteur (L111-1) et sur les bases
-                  de données (L341-1), selon les termes de la licence Creative
-                  Commons : « Paternité - Pas d'Utilisation Commerciale - Pas de
-                  Modification ; 3.0 France ». <lb />Cette licence est
-                  disponible en ligne : <ref
-                     target="http://creativecommons.org/licences/by-nc-sa/3.0/fr"
-                     >http://creativecommons.org/licenses/by-nc/3.0/fr/</ref> ou
-                  par courrier postal à Creative Commons, 171 Second Street,
-                  Suite 300, San Francisco, California 94105, USA.</p>
-               <p>Pas d'Utilisation Commerciale : Le Centre de théorie et
-                  d'analyse du droit souhaite encourager l'utilisation et
-                  l'amélioration de ses ressources électroniques, pour les
-                  intérêts de l'enseignement et de la recherche. Toute
-                  autorisation au-delà du champ de cette licence doit être
-                  obtenue auprès du Centre de théorie et d'analyse du droit.</p>
-               <p>Paternité : Le Centre de théorie et d'analyse du droit demande
-                  à ce que toute publication dérivée de ses ressources
-                  électroniques comporte : <lb />1. le nom du Centre de théorie
-                  et d'analyse du droit et, pour les publications électroniques,
-                  son logo <lb />2. l'URI permettant d'accéder à la page citée
-                  sur notre site, ou à la page d'accueil de la ressource
-                  <lb />3. la date du fichier source utilisé. </p>
-               <p>Vous êtes libres de remixer, arranger et adapter cette œuvre à
-                  des fins non commerciales, tant que vous nous créditez et que
-                  les nouvelles œuvres sont diffusées selon les mêmes
-                  conditions. Cependant, afin de mieux servir la communauté
-                  scientifique, le Centre de théorie et d'analyse du droit
-                  s'engage à conserver et à toujours offrir publiquement la
-                  version la plus à jour de ses ressources électroniques par une
-                  URI pérenne. Il s'engage en conséquence à les corriger et à
-                  les améliorer, à intégrer les contributions qui lui sont
-                  soumises (après validation par un comité scientifique), et à
-                  référencer l'origine de ces contributions. Toute modification
-                  de la ressource qui ne serait pas reversée à la version de
-                  référence sous l'autorité éditoriale du Centre de théorie et
-                  d'analyse risquerait en conséquence d'être perdue, afin de ne
-                  pas disperser les contributions et de permettre les meilleures
-                  conditions possibles de collaboration scientifique, nous vous
-                  invitons à nous en faire part.</p>
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr">Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
+                  <lb/>Cette licence est disponible en ligne : <ref
+                     target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
+                     >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</licence>
+               <p>Attribution : Vous devez créditer l’œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées. Vous devez indiquer ces informations par tous les moyens possibles mais vous ne pouvez pas suggérer que le Centre de théorie et d’analyse du droit vous soutient ou soutient la façon dont vous avez utilisé son œuvre. 
+                  <lb/>Le Centre de théorie et d’analyse du droit demande à ce que toute publication dérivée de ses ressources électroniques comporte : 
+                  <lb/>1. le nom du Centre de théorie
+                  et d’analyse du droit et, pour les publications électroniques,
+                  son logo ainsi que la mention des auteurs de l’édition. 
+                  <lb/>2. l’URI permettant d’accéder à la page citée
+                  sur notre site, ou à la page d’accueil de la ressource
+                  <lb/>3. la date et la version du fichier source utilisé.</p>
+               <p><hi rend="italic"
+                  >Pas d’Utilisation Commerciale</hi> — Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant. 
+                  <lb/>Le Centre de théorie et d’analyse du droit souhaite principalement encourager l’utilisation et l’amélioration de ses ressources électroniques dans l’intérêt de l’enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d’analyse du droit.</p>
+               <p><hi rend="italic"
+                  >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
+                  <lb/>Vous n’êtes pas obligé de signaler votre travail auprès du Centre de théorie et d’analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
+                     type="external" target="mailto:contact@desgodets.net"
+                     >contact@desgodets.net</ref>.</p>
+               <p><hi rend="italic"
+                  >Pas de restrictions additionnelles</hi> – Vous n’êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l’œuvre dans les conditions décrites par la licence.</p>
+               <p>Le Centre de théorie et d’analyse du droit s’engage à conserver et à toujours offrir publiquement la version la plus à jour de ses ressources électroniques par l’intermédiaire d’une URI pérenne. 
+                  <lb/>Dans l’intérêt de la communauté scientifique, afin de ne pas disperser les contributions et de permettre les meilleures conditions de collaboration scientifique, le Centre de théorie et d’analyse du droit se propose de recueillir et d’intégrer les corrections et contributions qui lui seront soumises (après validation par un comité scientifique), et à référencer leur origine.</p>
+               <p>Vous n’êtes pas dans l’obligation de respecter la licence pour les éléments ou matériel appartenant au domaine public ou dans le cas où l’utilisation que vous souhaitez faire est couverte par une exception.</p>
             </availability>
          </publicationStmt>
          <!-- ajout d'un élément pour traiter le corpus général et réduire la hiérarchie des titres -->
@@ -201,26 +164,30 @@
          <sourceDesc>
             <msDesc xml:id="o8" xml:lang="fre">
                <!-- identification du manuscrit -->
-                    <msIdentifier xml:id="o8msIdentifier">
-                        <country>Suède</country>
-                        <settlement>Fullerö, Västeras</settlement>
-                        <collection>collection particulière</collection>
-                    </msIdentifier>
+               <msIdentifier xml:id="o8msIdentifier">
+                  <country>Suède</country>
+                  <settlement>Fullerö, Västeras</settlement>
+                  <collection>collection particulière</collection>
+               </msIdentifier>
                <!-- contenu du manuscrit-->
                <msContents>
                   <msItemStruct>
                      <author>
-                        <persName xml:lang="fre" full="yes">Desgodets, Antoine
+                        <persName xml:lang="fre" full="yes"
+                           >Desgodets, Antoine
                            (1653-1728)</persName>
                      </author>
                      <title type="supplied">Traité des ordres de l’architecture</title>
-                            <title type="full">Traité des ordres d'Architectures
+                     <title type="full"
+                           >Traité des ordres d'Architectures
                                 donné dans l'accadémie royale par Mr Desgodets
                                 architecte du roy et professeur de ladite académie
-                                commencé le <date notBefore="1724-09-13">13 9<hi
-                                        rend="superscript">bre</hi> 1724</date></title>
+                                commencé le <date
+                           notBefore="1724-09-13">13 9<hi rend="superscript"
+                        >bre</hi> 1724</date></title>
                      <!-- TODO : vérifier -->
-                     <textLang mainLang="fre">texte en
+                     <textLang mainLang="fre"
+                        >texte en
                         français, les graphies trahissent une phonétique suédoise</textLang>
                   </msItemStruct>
                </msContents>
@@ -235,9 +202,10 @@
                         </support>
                         <extent>
                            <dimensions type="leaves">
-                              <dim quantity="270" unit="leaves">270 pages comprenant 62 planches</dim>
-                              <height quantity="420" unit="mm" />
-                              <width quantity="270" unit="mm" />
+                              <dim quantity="270" unit="leaves"
+                                 >270 pages comprenant 62 planches</dim>
+                              <height quantity="420" unit="mm"/>
+                              <width quantity="270" unit="mm"/>
                               <!-- TODO : donner l'épaisseur -->
                            </dimensions>
                            <!-- dimensions est répétable -->
@@ -246,17 +214,19 @@
                      </supportDesc>
                      <layoutDesc>
                         <!-- vérifier le nombre de lignes -->
-                        <layout columns="1" ruledLines="55 58">texte sur une
+                        <layout columns="1" ruledLines="55 58"
+                           >texte sur une
                            colonne entourée d'un cadre en trait fin, 55 à 58 lignes par page</layout>
                         <!-- layout est répétable et peut contenir une localisation avec locus -->
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote xml:id="o8Hand1" scope="major">Plume et encre marron.
+                     <handNote xml:id="o8Hand1" scope="major"
+                        >Plume et encre marron.
                         Main unique pour les planches et le texte.</handNote>
                   </handDesc>
                   <decoDesc>
-                      <!-- TODO faire le décompte des planches -->
+                     <!-- TODO faire le décompte des planches -->
                      <decoNote>Le manuscrit contient des planches.</decoNote>
                      <!-- decoNote est répétable et peut contenir une localisation avec locus -->
                   </decoDesc>
@@ -271,9 +241,11 @@
                </physDesc>
                <history>
                   <origin>
-                      <p>Copie sans doute réalisée entre le <date
-                                    notBefore="1763-06-13">13 juin 1763</date> et
-                                le <date notAfter="1763-11-23">23 novembre
+                     <p>Copie sans doute réalisée entre le <date notBefore="1763-06-13"
+                           >13 juin 1763</date> et
+                                le <date
+                           notAfter="1763-11-23"
+                           >23 novembre
                                     1763</date> d'après les inscriptions sur la
                                 page de titre et la page 264 accompagnées d'un
                                 paraphe.</p>
@@ -282,7 +254,7 @@
                <additional>
                   <!-- références bibliographiques sur l'exemplaire -->
                   <listBibl>
-                      <bibl corresp="#rollenhagenTilly2011" />
+                     <bibl corresp="#rollenhagenTilly2011"/>
                   </listBibl>
                </additional>
             </msDesc>
@@ -299,11 +271,13 @@
          <editorialDecl>
             <correction>
                <p>La syntaxe originale du manuscrit a été respectée en suivant
-                  les indications de Bernard Barbiche, <ref type="external"
+                  les indications de Bernard Barbiche, <ref
+                     type="external"
                      target="http://theleme.enc.sorbonne.fr/cours/edition_epoque_moderne/edition_des_textes"
-                     >Conseils pour l’édition des textes de l’époque moderne
-                        (XVI<hi rend="superscript">e</hi>-XVIII<hi
-                        rend="superscript">e</hi> siècle)</ref>.</p>
+                        >Conseils pour l’édition des textes de l’époque moderne
+                        (XVI<hi
+                        rend="superscript">e</hi>-XVIII<hi rend="superscript"
+                  >e</hi> siècle)</ref>.</p>
             </correction>
             <hyphenation>
                <p>Pour les ouvrages imprimés, il n'a pas été tenu compte de
@@ -337,15 +311,18 @@
          <samplingDecl>
             <p>Le manuscrit a été transcrit intégralement.</p>
          </samplingDecl>
-         <variantEncoding method="location-referenced" location="external" />
+         <variantEncoding method="location-referenced" location="external"/>
       </encodingDesc>
       <!-- présentation du profil de fichier -->
       <profileDesc>
-            <creation notBefore="1763-06-13" notAfter="1763-11-23">XVIII<hi rend="superscript">e</hi> siècle (entre le 13 juin 1763 et le 23 novembre 1763)</creation>
+         <creation notBefore="1763-06-13" notAfter="1763-11-23">XVIII<hi rend="superscript"
+            >e</hi> siècle (entre le 13 juin 1763 et le 23 novembre 1763)</creation>
          <langUsage>
-            <language ident="fre" usage="99">Français (langue principale du
+            <language ident="fre" usage="99"
+               >Français (langue principale du
                corpus)</language>
-            <language ident="lat" usage="01">Latin (langue utilisée dans le
+            <language ident="lat" usage="01"
+               >Latin (langue utilisée dans le
                corpus)</language>
          </langUsage>
          <textClass>
@@ -367,38 +344,37 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
+         <change when="2014-03-30" who="#EC">version bêta</change>
          <change when="2013-05-30" who="#EC">mise à jour du fichier</change>
          <change when="2012-05" who="#EC">importation du fichier </change>
       </revisionDesc>
    </teiHeader>
    <facsimile corresp="#o8ImagesLicence" xml:id="o8Facs">
       <surface xml:id="o8FacsPl0001">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsO8Pl0001.jpg" />
-         <graphic n="medium" mimeType="image/jpg"
-            url="facs/medium/facsO8Pl0001.jpg" />
-         <graphic n="thumb" mimeType="image/jpg"
-            url="facs/thumbs/facsO8Pl0001.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/facsO8Pl0001.jpg"/>
+         <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsO8Pl0001.jpg"/>
+         <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsO8Pl0001.jpg"/>
          <!-- si nécessaire -->
          <desc>description du fichier</desc>
       </surface>
    </facsimile>
-   <text>
-        <front>
-            <div xml:lang="fre" type="transcription" />
-        </front>
-        <body>
+   <text corresp="#o8TextLicence">
+      <front>
+         <div xml:lang="fre" type="transcription"/>
+      </front>
+      <body>
          <div xml:lang="fre" type="transcription">
             <p>Texte en cours de relecture</p>
          </div>
-        </body>
-       <back>
-         <div xml:lang="fre" type="transcription" />
+      </body>
+      <back>
+         <div xml:lang="fre" type="transcription"/>
          <div xml:lang="fre">
             <!-- Inclusion du fichier des figures -->
             <xi:include href="divs/desgodetsO8Figures.tei.xml" parse="xml">
                <xi:fallback>Fichier des figures de O8 non trouvé</xi:fallback>
             </xi:include>
          </div>
-       </back>
+      </back>
    </text>
 </TEI>
