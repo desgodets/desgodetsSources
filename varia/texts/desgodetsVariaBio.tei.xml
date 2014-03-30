@@ -97,8 +97,8 @@
                 <availability status="restricted" xml:id="variaBioTextLicence">
                     <p>Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
                         <lb/>Cette licence est disponible en ligne : <ref
-                        target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
-                        >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</p>
+                            target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
+                            >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</p>
                     <p>Attribution : Vous devez créditer l’œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées. Vous devez indiquer ces informations par tous les moyens possibles mais vous ne pouvez pas suggérer que le Centre de théorie et d’analyse du droit vous soutient ou soutient la façon dont vous avez utilisé son œuvre. 
                         <lb/>Le Centre de théorie et d’analyse du droit demande à ce que toute publication dérivée de ses ressources électroniques comporte : 
                         <lb/>1. le nom du Centre de théorie
@@ -111,10 +111,10 @@
                         >Pas d’Utilisation Commerciale</hi> — Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant. 
                         <lb/>Le Centre de théorie et d’analyse du droit souhaite principalement encourager l’utilisation et l’amélioration de ses ressources électroniques dans l’intérêt de l’enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d’analyse du droit.</p>
                     <p><hi rend="italic"
-                        >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
+                            >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
                         <lb/>Vous n’êtes pas obligé de signaler votre travail auprès du Centre de théorie et d’analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
-                        type="external" target="mailto:contact@desgodets.net"
-                        >contact@desgodets.net</ref>.</p>
+                            type="external" target="mailto:contact@desgodets.net"
+                            >contact@desgodets.net</ref>.</p>
                     <p><hi rend="italic"
                         >Pas de restrictions additionnelles</hi> – Vous n’êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l’œuvre dans les conditions décrites par la licence.</p>
                     <p>Le Centre de théorie et d’analyse du droit s’engage à conserver et à toujours offrir publiquement la version la plus à jour de ses ressources électroniques par l’intermédiaire d’une URI pérenne. 
@@ -145,7 +145,7 @@
             <projectDesc>
                 <p>L'édition des cours de Desgodets fait partie d'un programme de recherche sur la
                     formalisation du savoir architectural au XVII<hi
-                    rend="superscript">e</hi>
+                        rend="superscript">e</hi>
                     siècle.</p>
             </projectDesc>
             <!-- déclaration des principes éditoriaux -->
@@ -193,6 +193,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc>
+            <change when="2014-03-30" who="#EC">version bêta</change>
             <change when="2013-04-16" who="#EC">première version du fichier</change>
         </revisionDesc>
     </teiHeader>
@@ -206,7 +207,7 @@
                     <persName ref="#EC">Robert Carvais</persName>
                 </docAuthor>
                 <docDate>14 avril 2013</docDate>
-                <docEdition>version Beta</docEdition>
+                <docEdition>version bêta</docEdition>
             </titlePage>
             <div xml:id="variaBioFrontFr" xml:lang="fre">
                 <div xml:id="variaBioFrontFr01" type="abstract">
@@ -230,7 +231,7 @@
                         expertises qu’il a commis pour l’Académie ou initialement à la
                         demande de Colbert à travers le relevé minutieux des monuments
                         romains dont il rendit compte en publiant ses fameux <hi
-                        rend="italic">Edifices antiques</hi> en 1682.</p>
+                            rend="italic">Edifices antiques</hi> en 1682.</p>
                 </div>
             </div>
         </front>
@@ -271,7 +272,7 @@
                         mieux est-il cité « Desgodets » voire « Desgodets
                         [Desgodetz] ». Nous avons tenté d’expliquer cette
                             transformation<ref
-                        type="note" target="#variaBioN0001"
+                            type="note" target="#variaBioN0001"
                         />, mais nous avons choisi de trancher pour la version
                         moderne. Par ailleurs, son nom se trouve encore affublé du
                         patronyme de « Babuty » qui se trouve être le nom de son gendre
@@ -291,10 +292,10 @@
                     <p>Enfin, hormis son œuvre savante qui commence à être cernée, peu
                         de recherches ont été menées sur la carrière de l’artiste. Nous
                         constatons que seules des notices de dictionnaires<ref
-                        type="note" target="#variaBioN0002"
-                        /> et quelques rares articles de fond ou récents travaux
+                            type="note" target="#variaBioN0002"
+                            /> et quelques rares articles de fond ou récents travaux
                             universitaires<ref
-                        type="note" target="#variaBioN0003"
+                            type="note" target="#variaBioN0003"
                         /> seraient susceptibles d’y être mobilisés. Or de
                         nombreuses archives, notariales en l’occurrence, n’ont pas
                         encore été dépouillées. Nous envisageons de publier, de manière
@@ -308,11 +309,11 @@
                     <head>Pièces d'archives à caractère biographique</head>
                     <list>
                         <item>A.N. MC LIII 120-121, <date when="1699-06-22"
-                            >22 juin
+                                >22 juin
                                 1699</date>. Constitution de rente de 500 000 livres
                             pour René Chauveau garantie par Desgodets.</item>
                         <item>A.N. MC LIII 120-121, <date when="1699-08-21"
-                            >21 aoust
+                                >21 aoust
                                 1699</date>. Constitution de rente de 500 000 livres au
                             denier 20 en faveur du Prévost des Marchands par Anthoine
                             Desgodetz, architecte du roi, pour la somme de 2000 livres
@@ -320,25 +321,25 @@
                             remboursée par quittance passée par devant Coucault notaire
                             qui en a la minute le 25 février 1714.</item>
                         <item>A.N. MC LIII 120-121, <date when="1699-08-27"
-                            >27 aoust
+                                >27 aoust
                                 1699</date>. Constitution de rente de 500 000 livres au
                             denier 20 en faveur du Prévost des Marchands par René
                             Chauveau, sculpteur, représenté par Desgodets, pour la
                             somme de 2000 livres à raison de 100 livres annuels dues
                             audit Chauveau.</item>
                         <item>A.N. MC LIII 120-121, <date when="1699-08-27"
-                            >27 aoust
+                                >27 aoust
                                 1699</date>. Constitution de rente de 500 000 livres au
                             denier 20 en faveur du Prévost des Marchands par Pierre
                             Mallerbe, chirurgien, représenté par Desgodets, pour la
                             somme de 3600 livres à raison de 180 livres annuels dues
                             audit Chauveau.</item>
                         <item>A.N. MC LIII 120-121, <date when="1699-09-23"
-                            >23
+                                >23
                                 septembre 1699</date>. Constitution de rente de 80 000
                             livres pour Eurard Chauveau garantie par Desgodets.</item>
                         <item>A.N. MC LIII 120-121, <date when="1699-12-02"
-                            >2 décembre
+                                >2 décembre
                                 1699</date>. Réception de 3 600 livres pour le rachat
                             de l’amortissement de 200 livres de rente en faveur du
                             Trésor royal à prendre dans le million de livres de rente
@@ -346,13 +347,13 @@
                             aides et gabelles, au profit d’Antoine Desgodetz qui en
                             décharge le Trésor royal.</item>
                         <item>A.N. MC LIII 120-121, <date when="1699-12-12"
-                            >12 décembre
+                                >12 décembre
                                 1699</date>. Réception de 7 291 livres 19 sols pour le
                             remboursement de 405 livres 15 s. 6 d. de rente en faveur
                             du Trésor royal par René Chauveau, sculpteur représenté par
                             Antoine Desgodetz. </item>
                         <item>A.N. MC CXVIII, 281, <date when="1713-03-14"
-                            >14 Mars
+                                >14 Mars
                                 1713</date>. Bail pour 6 ans par Antoine Desgodets,
                             demeurant Rue St-Germain l’Auxerrois à Christophe Grimpel,
                             laboureur à Aubervilliers de 5 arpents et demi et 18
@@ -360,7 +361,7 @@
                             Chapelle, Bobigny et La Courneuve, moyennant 96 livres de
                             loyer annuel.</item>
                         <item>A.N. MC CXVIII, 282. <date when="1713-05-11"
-                            >11 mai
+                                >11 mai
                                 1713</date>. Transport par Antoine Desgodets et
                             Madeleine Goujon de la Baronnière, sa femme, aux religieux
                             de l’abbaye royale du Val-de-Grâce de 300 livres de rente
@@ -368,7 +369,7 @@
                             Marie-Françoise Desgodets, leur fille, qui a fait
                             profession dans ce couvent.</item>
                         <item>A.N. MC X, 360. <date when="1723-05-14"
-                            >14 mai
+                                >14 mai
                                 1723</date>. Mainlevée par Antoine Desgodets,
                             architecte des bâtiments du roi et professeur à l’académie
                             royale d’architecture, demeurant rue
@@ -377,17 +378,17 @@
                             écuyer, entre les mains du principal locataire d’une maison
                             sise rue Saint-Denis appartenante à ladite Dame. </item>
                         <item>A.N. MC LIII, 226, <date when="1724-05-22"
-                            >22 mai
+                                >22 mai
                                 1724</date>. Inventaire après décès de Louise
                             Desgodets, fille d’Antoine Desgodets et épouse en seconde
                             noces de Thomas Joachim Hébert.</item>
                         <item>A.N. MC XXXIX, 271, <date when="1713-09-26"
-                            >26 septembre
+                                >26 septembre
                                 1713</date>. Inventaire après décès de Nicolas
                             Guillaume Daustel, premier époux de Louise Desgodets, fille
                             d’Antoine Desgodets., </item>
                         <item>A.N. MC CXVIII, 285. <date when="1713-12-01">1<hi rend="superscript"
-                            >er</hi> décembre 1713</date>.
+                                    >er</hi> décembre 1713</date>.
                             Transport par Andrée Cousin, veuve d’Auger de Marcillac
                             dem. rue Vieille du Temple à Antoine D. de 150 livres de
                             rentes au principal de 3000 livres, restant à racheter des
@@ -402,50 +403,50 @@
                             en qualité de tuteur des mineurs Leduc le 12 juillet
                             1712.</item>
                         <item>AN MC LIII, 245, Testament du <date when="1727-06-24"
-                            >24
+                                >24
                                 juin 1727</date> d’Antoine Desgodets déposé chez
                             Billeheu, notaire, le 20 mai 1728, insinué le 14 mars 1729
                             (cf. plus haut).</item>
                         <item>AN MC LIII, 289, Codicille de Madeleine Gougeon de la
                             Baronnière au testament du <date
-                            when="1727-06-24"
-                            >24 juin
+                                when="1727-06-24"
+                                >24 juin
                                 1727</date>.</item>
                         <item>AN MC LIII, 245, Inventaire après décès d’Antoine
                             Desgodets, <date
-                            when="1728-06-17"
+                                when="1728-06-17"
                             >17 juin
                             1728</date>.</item>
                         <item>AN MC LIII, 245, Partage de succession du <date when="1728-07-05"
-                            >5 juillet 1728</date>.</item>
+                                >5 juillet 1728</date>.</item>
                         <item>Archives départementales la Seine (désormais ADS),
                             DC6 219, f. 158, <date
-                            when="1729-03-14"
-                            >14 mars
+                                when="1729-03-14"
+                                >14 mars
                                 1729</date>, insinuation du testament d’Antoine
                             Desgodets.</item>
                         <item>ADS, DC6 394, p. 73, Antoine Paul Desgodets, déclaration
                             du <date
-                            when="1729-03-14">14 mars 1729</date>.</item>
+                                when="1729-03-14">14 mars 1729</date>.</item>
                         <item>ADS, DC6 231, f. 63 v°, codicille au testament Desgodets
                             le <date
-                            when="1738-11-10">10 novembre 1738</date></item>
+                                when="1738-11-10">10 novembre 1738</date></item>
                         <item>AN MC LIII, 310, <date when="1744-08-28"
-                            >28 septembre
+                                >28 septembre
                                 1744</date>, Inventaire après décès de Madeleine
                             Gougeon de la Baronnière, épouse d’Antoine Desgodets, rue
                             de l’arbre à sec</item>
                         <item>ADS, DC6 70, f. 24 et 25 r., <date when="1758-09-25"
-                            >25
+                                >25
                                 septembre 1758</date>, testament de Paul Desgodets,
                             prêtre du diocèse de Paris</item>
                         <item>ADS, DC6 70, f. 263, <date when="1766-10-18"
-                            >18 octobre
+                                >18 octobre
                                 1766</date>, renonciation de François Antoine Babuty
                             Desgodets, architecte expert, et du garde meuble du
                             roy.</item>
                         <item>ADS, DC6 253, f. 204, insinuation du <date when="1772-01-31"
-                            >31 janvier 1772</date> du testament
+                                >31 janvier 1772</date> du testament
                             de Magdeleine Jeanne Desgodets (fille d’Antoine Desgodets),
                             notaire Neau, 25 janvier 1747.</item>
                     </list>
@@ -541,7 +542,7 @@
                         <figDesc>
                             <title>Frontispice des édifices antiques</title>
                             <desc>Antoine Desgodets, <hi rend="italic"
-                                >Les
+                                    >Les
                                     édifices antiques</hi>, frontispice</desc>
                         </figDesc>
                         <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0001.jpg"
@@ -555,7 +556,7 @@
                         <figDesc>
                             <title>Dédicace</title>
                             <desc>Antoine Desgodets, <hi rend="italic"
-                                >Les
+                                    >Les
                                     édifices antiques</hi>, p. 9</desc>
                         </figDesc>
                         <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0257.jpg"
@@ -569,7 +570,7 @@
                         <figDesc>
                             <title>Élévation antérieure du panthéon</title>
                             <desc>Antoine Desgodets, <hi rend="italic"
-                                >Les
+                                    >Les
                                     édifices antiques</hi>, p. 30</desc>
                         </figDesc>
                         <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0001.jpg"
@@ -583,7 +584,7 @@
                         <figDesc>
                             <title>Élévation latérale du panthéon</title>
                             <desc>Antoine Desgodets, <hi rend="italic"
-                                >Les
+                                    >Les
                                     édifices antiques</hi>, p. 33</desc>
                         </figDesc>
                         <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0001.jpg"

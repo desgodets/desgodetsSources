@@ -96,8 +96,8 @@
                 <availability status="restricted" xml:id="variaGravureTextLicence">
                     <p>Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
                         <lb/>Cette licence est disponible en ligne : <ref
-                        target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
-                        >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</p>
+                            target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
+                            >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</p>
                     <p>Attribution : Vous devez créditer l’œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées. Vous devez indiquer ces informations par tous les moyens possibles mais vous ne pouvez pas suggérer que le Centre de théorie et d’analyse du droit vous soutient ou soutient la façon dont vous avez utilisé son œuvre. 
                         <lb/>Le Centre de théorie et d’analyse du droit demande à ce que toute publication dérivée de ses ressources électroniques comporte : 
                         <lb/>1. le nom du Centre de théorie
@@ -110,10 +110,10 @@
                         >Pas d’Utilisation Commerciale</hi> — Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant. 
                         <lb/>Le Centre de théorie et d’analyse du droit souhaite principalement encourager l’utilisation et l’amélioration de ses ressources électroniques dans l’intérêt de l’enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d’analyse du droit.</p>
                     <p><hi rend="italic"
-                        >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
+                            >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
                         <lb/>Vous n’êtes pas obligé de signaler votre travail auprès du Centre de théorie et d’analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
-                        type="external" target="mailto:contact@desgodets.net"
-                        >contact@desgodets.net</ref>.</p>
+                            type="external" target="mailto:contact@desgodets.net"
+                            >contact@desgodets.net</ref>.</p>
                     <p><hi rend="italic"
                         >Pas de restrictions additionnelles</hi> – Vous n’êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l’œuvre dans les conditions décrites par la licence.</p>
                     <p>Le Centre de théorie et d’analyse du droit s’engage à conserver et à toujours offrir publiquement la version la plus à jour de ses ressources électroniques par l’intermédiaire d’une URI pérenne. 
@@ -144,7 +144,7 @@
             <projectDesc>
                 <p>L'édition des cours de Desgodets fait partie d'un programme de recherche sur la
                     formalisation du savoir architectural au XVII<hi
-                    rend="superscript">e</hi>
+                        rend="superscript">e</hi>
                     siècle.</p>
             </projectDesc>
             <!-- déclaration des principes éditoriaux -->
@@ -192,6 +192,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc>
+            <change when="2014-03-30" who="#EC">version bêta</change>
             <change when="2013-04-16" who="#EC">première version du fichier</change>
         </revisionDesc>
     </teiHeader>
@@ -205,7 +206,7 @@
                     <persName ref="#RC">Robert Carvais</persName>
                 </docAuthor>
                 <docDate>14 avril 2013</docDate>
-                <docEdition>version Beta</docEdition>
+                <docEdition>version bêta</docEdition>
             </titlePage>
             <div xml:id="variaGravueFrontFr" xml:lang="fre">
                 <div xml:id="variaGravueFrontFr01" type="abstract">
@@ -222,8 +223,8 @@
                         dessein [sic] son père le plaça chez un architecte qui
                         quoiqu’estimé pour sa capacité, se vit bientôt surpassé par son
                         nouveau disciple »<ref
-                        type="note" target="#variaGravureN0004"
-                        />.
+                            type="note" target="#variaGravureN0004"
+                            />.
                         Si ces éloges peuvent n’être que l’œuvre d’un flatteur,
                         certains faits les confirment. En effet, parce qu’une des
                         missions qui lui furent confiées par l’autorité royale fut de
@@ -235,8 +236,8 @@
                         de dessins – il conservait à son décès trois portefeuilles
                         d’estampes et de brouillons de dessins en plus des planches de
                         ses <hi
-                        rend="italic">Édifices antiques</hi><ref type="note"
-                        target="#variaGravureN0005"/>. </p>
+                            rend="italic">Édifices antiques</hi><ref type="note"
+                            target="#variaGravureN0005"/>. </p>
                 </div>
             </div>
         </front>
@@ -248,18 +249,18 @@
                         Jestaz qui dans son ouvrage sur Jules Hardouin-Mansart reconnut
                         « son style de dessinateur sec et précis, […] bien connus par
                         ses manuscrits ou des papiers relatifs à Chambord »<ref
-                        type="note" target="#variaGravureN0006"
-                        />. Wolfgang Nittnaus,
+                            type="note" target="#variaGravureN0006"
+                            />. Wolfgang Nittnaus,
                         documentaliste au Nationalmuseum de Stockholm (Suède) n’eut pas
                         de mal à en faire autant dans les collections Tessin Hårleman
                         et Cronstedt de ce même musée<ref
-                        type="note" target="#variaGravureN0007"
+                            type="note" target="#variaGravureN0007"
                         />. Certains de ces dessins
                         nouvellement attribués à Desgodets pourraient compléter son
                         cours de la commodité inachevé. </p>
                     <p>Nous ne doutons pas que le Rijksmuseum<ref type="note"
-                        target="#variaGravureN0008"/>, le Louvre<ref type="note"
-                        target="#variaGravureN0009"
+                            target="#variaGravureN0008"/>, le Louvre<ref type="note"
+                            target="#variaGravureN0009"
                         /> ainsi que le département des
                         Estampes de la Bibliothèque nationale de France renferment sur
                         ce point de nombreux documents à découvrir.</p>
@@ -294,7 +295,7 @@
                         <figDesc>
                             <title>Frontispice des édifices antiques</title>
                             <desc>Antoine Desgodets, <hi rend="italic"
-                                >Les
+                                    >Les
                                     édifices antiques</hi>, frontispice.</desc>
                         </figDesc>
                         <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0001.jpg"
@@ -308,7 +309,7 @@
                         <figDesc>
                             <title>Dédicace</title>
                             <desc>Antoine Desgodets, <hi rend="italic"
-                                >Les
+                                    >Les
                                     édifices antiques</hi>, p. 9</desc>
                         </figDesc>
                         <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0257.jpg"
@@ -322,7 +323,7 @@
                         <figDesc>
                             <title>Élévation antérieure du panthéon</title>
                             <desc>Antoine Desgodets, <hi rend="italic"
-                                >Les
+                                    >Les
                                     édifices antiques</hi>, p. 30</desc>
                         </figDesc>
                         <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0001.jpg"
@@ -336,7 +337,7 @@
                         <figDesc>
                             <title>Élévation latérale du panthéon</title>
                             <desc>Antoine Desgodets, <hi rend="italic"
-                                >Les
+                                    >Les
                                     édifices antiques</hi>, p. 33</desc>
                         </figDesc>
                         <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0001.jpg"

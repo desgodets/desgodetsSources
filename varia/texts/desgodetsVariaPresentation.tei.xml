@@ -64,8 +64,8 @@
                 <availability status="restricted" xml:id="variaPresentationTextLicence">
                     <p>Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
                             <lb/>Cette licence est disponible en ligne : <ref
-                        target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
-                        >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</p>
+                            target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
+                            >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</p>
                     <p>Attribution : Vous devez créditer l’œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées. Vous devez indiquer ces informations par tous les moyens possibles mais vous ne pouvez pas suggérer que le Centre de théorie et d’analyse du droit vous soutient ou soutient la façon dont vous avez utilisé son œuvre. 
                             <lb/>Le Centre de théorie et d’analyse du droit demande à ce que toute publication dérivée de ses ressources électroniques comporte : 
                             <lb/>1. le nom du Centre de théorie
@@ -78,10 +78,10 @@
                         >Pas d’Utilisation Commerciale</hi> — Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant. 
                             <lb/>Le Centre de théorie et d’analyse du droit souhaite principalement encourager l’utilisation et l’amélioration de ses ressources électroniques dans l’intérêt de l’enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d’analyse du droit.</p>
                     <p><hi rend="italic"
-                        >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
+                            >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
                             <lb/>Vous n’êtes pas obligé de signaler votre travail auprès du Centre de théorie et d’analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
-                        type="external" target="mailto:contact@desgodets.net"
-                        >contact@desgodets.net</ref>.</p>
+                            type="external" target="mailto:contact@desgodets.net"
+                            >contact@desgodets.net</ref>.</p>
                     <p><hi rend="italic"
                         >Pas de restrictions additionnelles</hi> – Vous n’êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l’œuvre dans les conditions décrites par la licence.</p>
                     <p>Le Centre de théorie et d’analyse du droit s’engage à conserver et à toujours offrir publiquement la version la plus à jour de ses ressources électroniques par l’intermédiaire d’une URI pérenne. 
@@ -133,6 +133,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc>
+            <change when="2014-03-30" who="#EC">version bêta</change>
             <change when="2013-04-16" who="#EC">première version du fichier</change>
         </revisionDesc>
     </teiHeader>
@@ -148,10 +149,10 @@
             <div xml:id="variaFrontFr" xml:lang="fre">
                 <div xml:id="variaFrontFr01" type="introduction">
                     <p>La figure d’<persName>Antoine Desgodets</persName>, personnage central de ce site, peut être abordée de plusieurs côtés. Nous avons décidé de couvrir quatre domaines :<list>
-                        <item>l’homme dans ses éléments de vie personnelle dans lesquelles nous avons inclus sa participation comme constructeur, parce que celle demeure restreinte ;</item>
-                        <item>sa vie comme académicien et son travail au sein de l’académie en dehors de son activité de professeur qui constitue le cœur du site ;</item>
-                        <item>ses qualités exceptionnelles de dessinateur ;</item>
-                        <item>sa seule et unique œuvre imprimé Les édifices antiques de Rome…, emblématique à plus d’un titre de l’histoire de l’architecture.</item>
+                            <item>l’homme dans ses éléments de vie personnelle dans lesquelles nous avons inclus sa participation comme constructeur, parce que celle demeure restreinte ;</item>
+                            <item>sa vie comme académicien et son travail au sein de l’académie en dehors de son activité de professeur qui constitue le cœur du site ;</item>
+                            <item>ses qualités exceptionnelles de dessinateur ;</item>
+                            <item>sa seule et unique œuvre imprimé Les édifices antiques de Rome…, emblématique à plus d’un titre de l’histoire de l’architecture.</item>
                         </list></p>
                 </div>
             </div>

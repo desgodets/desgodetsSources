@@ -67,8 +67,7 @@
             </titleStmt>
             <!-- mention d'édition -->
             <editionStmt>
-                <edition n="1">première édition électronique, <date when="2013"
-                    >2013</date></edition>
+                <edition n="1">première édition électronique, <date when="2013">2013</date></edition>
             </editionStmt>
             <extent><!-- TODO : taille du fichier en octet --></extent>
             <!-- information sur la publication électronique -->
@@ -111,10 +110,10 @@
                         >Pas d’Utilisation Commerciale</hi> — Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant. 
                         <lb/>Le Centre de théorie et d’analyse du droit souhaite principalement encourager l’utilisation et l’amélioration de ses ressources électroniques dans l’intérêt de l’enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d’analyse du droit.</p>
                     <p><hi rend="italic"
-                        >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
+                            >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
                         <lb/>Vous n’êtes pas obligé de signaler votre travail auprès du Centre de théorie et d’analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
                             type="external" target="mailto:contact@desgodets.net"
-                            >contact@desgodets.net</ref>.</p>
+                        >contact@desgodets.net</ref>.</p>
                     <p><hi rend="italic"
                         >Pas de restrictions additionnelles</hi> – Vous n’êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l’œuvre dans les conditions décrites par la licence.</p>
                     <p>Le Centre de théorie et d’analyse du droit s’engage à conserver et à toujours offrir publiquement la version la plus à jour de ses ressources électroniques par l’intermédiaire d’une URI pérenne. 
@@ -145,7 +144,7 @@
             <projectDesc>
                 <p>L'édition des cours de Desgodets fait partie d'un programme de recherche sur la
                     formalisation du savoir architectural au XVII<hi
-                    rend="superscript">e</hi>
+                        rend="superscript">e</hi>
                     siècle.</p>
             </projectDesc>
             <!-- déclaration des principes éditoriaux -->
@@ -193,6 +192,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc>
+            <change when="2014-03-30" who="#EC">version bêta</change>
             <change when="2013-04-16" who="#EC">première version du fichier</change>
         </revisionDesc>
     </teiHeader>
@@ -206,7 +206,7 @@
                     <persName ref="#EC">Emmanuel Chateau</persName>
                 </docAuthor>
                 <docDate>14 avril 2013</docDate>
-                <docEdition>version Beta</docEdition>
+                <docEdition>version bêta</docEdition>
             </titlePage>
             <div xml:id="variaExpertiseFrontFr" xml:lang="fre">
                 <div xml:id="variaExpertiseFrontFr01" type="abstract">
@@ -324,7 +324,9 @@
                             <cell>[Total]</cell>
                             <cell>
                                 <measure unit="franc">
-                                    <num>0.<subst> <del>54</del> <add place="ligne">46</add>
+                                    <num>0.<subst>
+                                            <del>54</del>
+                                            <add place="ligne">46</add>
                                         </subst></num>
                                 </measure>
                             </cell>
@@ -338,18 +340,19 @@
                         multiplices ac ruinas, vinculis membra ingenuorum adfligens et quosdam
                         obterens manicis, crimina scilicet multa consarcinando a veritate longe
                         discreta. <ref
-                        type="note" target="#variaExpertiseN0001"
-                        >unde admissum est facinus
+                            type="note" target="#variaExpertiseN0001"
+                            >unde admissum est facinus
                             impium, quod Constanti tempus nota inusserat sempiterna</ref>.</p>
                     <p>Incenderat autem audaces usque ad insaniam homines ad haec, quae nefariis
                         egere conatibus, Luscus quidam curator urbis subito visus: <list>
-                        <item>eosque ut</item> <item>heiulans baiolorum praecentor</item>
-                        <item>ad expediendum quod orsi sunt incitans vocibus</item>
-                        <item>Dum apud Persas, ut supra narravimus, perfidia.</item></list> Regis motus agitat insperatos,
+                            <item>eosque ut</item>
+                            <item>heiulans baiolorum praecentor</item>
+                            <item>ad expediendum quod orsi sunt incitans vocibus</item>
+                            <item>Dum apud Persas, ut supra narravimus, perfidia.</item></list> Regis motus agitat insperatos,
                         crebris. qui haut longe postea ideo vivus exustus est.</p>
                     <p>et in eois tractibus bella rediviva consurgunt, anno sexto decimo et eo
                         diutius <ref
-                        type="note" target="#variaExpertiseN0002"
+                            type="note" target="#variaExpertiseN0002"
                         >post Nepotiani exitium</ref>,
                         saeviens per urbem aeternam urebat cuncta Bellona, ex primordiis minimis ad
                         clades excita luctuosas, quas obliterasset utinam iuge silentium! ne forte
@@ -393,13 +396,13 @@
                     <p>Nam sole orto magnitudine angusti gurgitis sed profundi a transitu arcebantur
                         et dum piscatorios quaerunt lenunculos vel innare temere contextis cratibus
                         parant, effusae legiones, <ref
-                        type="note" target="#variaExpertiseN0003"
-                        >quae hiemabant
+                            type="note" target="#variaExpertiseN0003"
+                            >quae hiemabant
                             tunc apud</ref> Siden, isdem impetu occurrere veloci. et signis prope
                         ripam locatis ad manus comminus conserendas denseta scutorum conpage semet
                         scientissime praestruebant, <ref
-                        type="note" target="#variaExpertiseN0004"
-                        >ausos quoque
+                            type="note" target="#variaExpertiseN0004"
+                            >ausos quoque
                             aliquos fiducia nandi vel cavatis arborum truncis amnem permeare
                             latenter facillime trucidarunt</ref>.</p>
                     <p>Et eodem impetu Domitianum praecipitem per scalas itidem funibus
@@ -450,7 +453,7 @@
                         <figDesc>
                             <title>Frontispice des édifices antiques</title>
                             <desc>Antoine Desgodets, <hi rend="italic"
-                                >Les
+                                    >Les
                                     édifices antiques</hi>, frontispice</desc>
                         </figDesc>
                         <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0001.jpg"
@@ -464,7 +467,7 @@
                         <figDesc>
                             <title>Dédicace</title>
                             <desc>Antoine Desgodets, <hi rend="italic"
-                                >Les
+                                    >Les
                                     édifices antiques</hi>, p. 9</desc>
                         </figDesc>
                         <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0257.jpg"
@@ -478,7 +481,7 @@
                         <figDesc>
                             <title>Élévation antérieure du panthéon</title>
                             <desc>Antoine Desgodets, <hi rend="italic"
-                                >Les
+                                    >Les
                                     édifices antiques</hi>, p. 30</desc>
                         </figDesc>
                         <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0001.jpg"
@@ -492,7 +495,7 @@
                         <figDesc>
                             <title>Élévation latérale du panthéon</title>
                             <desc>Antoine Desgodets, <hi rend="italic"
-                                >Les
+                                    >Les
                                     édifices antiques</hi>, p. 33</desc>
                         </figDesc>
                         <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0001.jpg"
