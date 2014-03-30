@@ -86,8 +86,8 @@
          </titleStmt>
          <!-- mention d’édition -->
          <editionStmt>
-            <edition n="1">première édition électronique, <date from="2013"
-                  to="2013">2008-2013</date></edition>
+            <edition n="bêta">première édition électronique, <date from="2013"
+                  to="2013">2008-2013</date>, version bêta</edition>
          </editionStmt>
          <extent><!-- taille du fichier en octet --></extent>
          <!-- information sur la publication électronique -->
@@ -105,10 +105,10 @@
                <p>Les images numériques des manuscrits sont mises à disposition par les institutions partenaires mais restent leur propriété exclusive. Celles-ci en autorisent la reproduction et la réutilisation selon leurs propres règles en vigueur. Toute diffusion de ces images, sous quelque forme et sur quelque support que ce soit (papier, audiovisuel, ou numérique), pour quelque finalité que ce soit (pédagogique, scientifique ou commercial), doit faire l’objet d’une demande d’autorisation préalable auprès de l’institution concernée.</p>
             </availability>
             <availability status="restricted" xml:id="c2TextLicence">
-               <p>Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
+               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr">Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
                   <lb/>Cette licence est disponible en ligne : <ref
                      target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
-                     >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</p>
+                     >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</licence>
                <p>Attribution : Vous devez créditer l’œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées. Vous devez indiquer ces informations par tous les moyens possibles mais vous ne pouvez pas suggérer que le Centre de théorie et d’analyse du droit vous soutient ou soutient la façon dont vous avez utilisé son œuvre. 
                   <lb/>Le Centre de théorie et d’analyse du droit demande à ce que toute publication dérivée de ses ressources électroniques comporte : 
                   <lb/>1. le nom du Centre de théorie
@@ -342,7 +342,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2013-03-24" who="#EC">version beta</change>
+         <change when="2013-03-30" who="#EC">version bêta</change>
          <change when="2013-04-11" who="#EC">mise à jour du teiHeader</change>
          <change when="2013-01-07" who="#EC"
             >sérialisation des paragraphes</change>
@@ -5760,7 +5760,7 @@
                            >e</hi></num>
                      <lb/>Description des <term type="gT"
                         ref="#egliseParoissiale"
-                              ><choice><orig>églizes</orig><expan>églises</expan></choice> 
+                              ><choice><orig>églizes</orig><expan>églises</expan></choice>
                         <lb/>paroissiales</term></head>
                   <div xml:id="c2BodyFr01.03.001" type="section" n="1">
                      <p xml:id="c2BodyFr01.03.001.p001">
@@ -5768,7 +5768,7 @@
                            >Les fonctions des curés, étant</hi> de célébrer avec leurs paroissiens, les sacrés mistères et l’office divin, aux différentes heures de la journée, de les instruire dans la foy, leur enseigner la parolle de dieu, expliquer l’Évangille, les prophéties, les Épitres et autres traités de la sainte écriture, par des prédications publiques ou particulières, et prosne famillier, leur administrer les sacremens, observer les cérémonies de l’Église, et rendre aux deffunts les dernières œuvres de charité<ref
                            type="noteHistorical" target="#c2Nh0307"/>.</p>
                      <p xml:id="c2BodyFr01.03.001.p002">
-                        <hi rend="bigger">Les</hi> 
+                        <hi rend="bigger">Les</hi>
                         <term type="gT" ref="#egliseParoissiale">églises <choice>
                               <orig>paroissialles</orig>
                               <reg>paroissiales</reg>
