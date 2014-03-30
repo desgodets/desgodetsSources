@@ -91,57 +91,35 @@
                         <addrLine>contact@desgodets.fr</addrLine>
                     </address>
                 </publisher>
+                <availability status="restricted" xml:id="meetings2014EnImagesLicence">
+                    <p>Les images numériques des manuscrits sont mises à disposition par les institutions partenaires mais restent leur propriété exclusive. Celles-ci en autorisent la reproduction et la réutilisation selon leurs propres règles en vigueur. Toute diffusion de ces images, sous quelque forme et sur quelque support que ce soit (papier, audiovisuel, ou numérique), pour quelque finalité que ce soit (pédagogique, scientifique ou commercial), doit faire l’objet d’une demande d’autorisation préalable auprès de l’institution concernée.</p>
+                </availability>
                 <availability status="restricted" xml:id="meetings2014EnTextLicence">
-                    <!-- TODO : <licence> à ajouter partout -->
-                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr/">
-                        <p>Ce(tte) œuvre est mise à disposition selon les termes
-                            de la Licence Creative Commons Attribution - Pas
-                            d’Utilisation Commerciale - Partage dans les Mêmes
-                            Conditions 3.0 France.</p>
-                        <graphic url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png"/>
-                    </licence>
-                    <p>Le Centre de théorie et d'analyse du droit
-                        (UMR 7074) met à disposition cette ressource électronique
-                        structurée, protégée par le code de la propriété
-                        intellectuelle sur le droit d'auteur (L111-1) et sur les bases
-                        de données (L341-1), selon les termes de la licence Creative
-                        Commons : « Paternité - Pas d'Utilisation Commerciale - Pas de
-                        Modification ; 3.0 France ». <lb/>Cette licence est
-                        disponible en ligne : <ref
-                            target="http://creativecommons.org/licences/by-nc-sa/3.0/fr"
-                            >http://creativecommons.org/licenses/by-nc/3.0/fr/</ref> ou
-                        par courrier postal à Creative Commons, 171 Second Street,
-                        Suite 300, San Francisco, California 94105, USA.</p>
-                    <p>Pas d'Utilisation Commerciale : Le Centre de théorie et
-                        d'analyse du droit souhaite encourager l'utilisation et
-                        l'amélioration de ses ressources électroniques, pour les
-                        intérêts de l'enseignement et de la recherche. Toute
-                        autorisation au-delà du champ de cette licence doit être
-                        obtenue auprès du Centre de théorie et d'analyse du droit.</p>
-                    <p>Paternité : Le Centre de théorie et d'analyse du droit demande
-                        à ce que toute publication dérivée de ses ressources
-                        électroniques comporte : <lb/>1. le nom du Centre de théorie
-                        et d'analyse du droit et, pour les publications électroniques,
-                        son logo <lb/>2. l'URI permettant d'accéder à la page citée
-                        sur notre site, ou à la page d'accueil de la ressource
-                        <lb/>3. la date du fichier source utilisé. </p>
-                    <p>Vous êtes libres de remixer, arranger et adapter cette œuvre à
-                        des fins non commerciales, tant que vous nous créditez et que
-                        les nouvelles œuvres sont diffusées selon les mêmes
-                        conditions. Cependant, afin de mieux servir la communauté
-                        scientifique, le Centre de théorie et d'analyse du droit
-                        s'engage à conserver et à toujours offrir publiquement la
-                        version la plus à jour de ses ressources électroniques par une
-                        URI pérenne. Il s'engage en conséquence à les corriger et à
-                        les améliorer, à intégrer les contributions qui lui sont
-                        soumises (après validation par un comité scientifique), et à
-                        référencer l'origine de ces contributions. Toute modification
-                        de la ressource qui ne serait pas reversée à la version de
-                        référence sous l'autorité éditoriale du Centre de théorie et
-                        d'analyse risquerait en conséquence d'être perdue, afin de ne
-                        pas disperser les contributions et de permettre les meilleures
-                        conditions possibles de collaboration scientifique, nous vous
-                        invitons à nous en faire part.</p>
+                    <p>Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
+                        <lb/>Cette licence est disponible en ligne : <ref
+                            target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
+                            >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</p>
+                    <p>Attribution : Vous devez créditer l’œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées. Vous devez indiquer ces informations par tous les moyens possibles mais vous ne pouvez pas suggérer que le Centre de théorie et d’analyse du droit vous soutient ou soutient la façon dont vous avez utilisé son œuvre. 
+                        <lb/>Le Centre de théorie et d’analyse du droit demande à ce que toute publication dérivée de ses ressources électroniques comporte : 
+                        <lb/>1. le nom du Centre de théorie
+                        et d’analyse du droit et, pour les publications électroniques,
+                        son logo ainsi que la mention des auteurs de l’édition. 
+                        <lb/>2. l’URI permettant d’accéder à la page citée
+                        sur notre site, ou à la page d’accueil de la ressource
+                        <lb/>3. la date et la version du fichier source utilisé.</p>
+                    <p><hi rend="italic"
+                        >Pas d’Utilisation Commerciale</hi> — Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant. 
+                        <lb/>Le Centre de théorie et d’analyse du droit souhaite principalement encourager l’utilisation et l’amélioration de ses ressources électroniques dans l’intérêt de l’enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d’analyse du droit.</p>
+                    <p><hi rend="italic"
+                        >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
+                        <lb/>Vous n’êtes pas obligé de signaler votre travail auprès du Centre de théorie et d’analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
+                            type="external" target="mailto:contact@desgodets.net"
+                            >contact@desgodets.net</ref>.</p>
+                    <p><hi rend="italic"
+                        >Pas de restrictions additionnelles</hi> – Vous n’êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l’œuvre dans les conditions décrites par la licence.</p>
+                    <p>Le Centre de théorie et d’analyse du droit s’engage à conserver et à toujours offrir publiquement la version la plus à jour de ses ressources électroniques par l’intermédiaire d’une URI pérenne. 
+                        <lb/>Dans l’intérêt de la communauté scientifique, afin de ne pas disperser les contributions et de permettre les meilleures conditions de collaboration scientifique, le Centre de théorie et d’analyse du droit se propose de recueillir et d’intégrer les corrections et contributions qui lui seront soumises (après validation par un comité scientifique), et à référencer leur origine.</p>
+                    <p>Vous n’êtes pas dans l’obligation de respecter la licence pour les éléments ou matériel appartenant au domaine public ou dans le cas où l’utilisation que vous souhaitez faire est couverte par une exception.</p>
                 </availability>
             </publicationStmt>
             <!-- ajout d'un élément pour traiter le corpus général et réduire la hiérarchie des titres -->
@@ -216,12 +194,13 @@
             </textClass>
         </profileDesc>
         <revisionDesc>
+            <change when="2014-03-30" who="#EC">version bêta</change>
             <change when="2013-04-16" who="#EC">première version du fichier</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text corresp="#meetings2014EnTextLicence">
         <front xml:id="meetings2014EnFront">
-            <titlePage xml:id="meetings2014Front00" xml:lang="eng">
+            <titlePage xml:id="meetings2014EnFront00" xml:lang="eng">
                 <docTitle>
                     <titlePart type="main">The Modern Architect's New Knowledge</titlePart>
                     <titlePart type="sub"
@@ -233,18 +212,18 @@
                 <docAuthor>
                     <persName ref="#RC">Robert Carvais</persName>
                 </docAuthor>
-                <docDate>14 avril 2013</docDate>
-                <docEdition>version 0</docEdition>
+                <docDate>30 mars 2014</docDate>
+                <docEdition>version bêta</docEdition>
             </titlePage>
-            <div xml:id="meetings2014FrontEn" xml:lang="eng">
-                <div xml:id="meetings2014FrontEn01" type="abstract">
+            <div xml:id="meetings2014EnFrontEn" xml:lang="eng">
+                <div xml:id="meetings2014EnFrontEn01" type="abstract">
                     <p>International Conference 2014 – Call for Abstracts.</p>
                 </div>
             </div>
         </front>
         <body>
-            <div xml:id="meetings2014BodyEn" xml:lang="fre">
-                <div xml:id="meetings2014BodyEn01" type="part" n="1">
+            <div xml:id="meetings2014EnBodyEn" xml:lang="fre">
+                <div xml:id="meetings2014EnBodyEn01" type="part" n="1">
                     <head><label>I.</label> Tentative Biography of a Stranger Called Desgodets</head>
                     <p>Antoine Desgodets is known to us mostly through <hi rend="italic"
                             >Les Édifices Antiques de Rome</hi>, his major academic work commissioned by the King, but also thanks to <hi
@@ -252,21 +231,21 @@
                         >Les Loix des Bâtiments</hi>, a posthumous legal work introducing a new discipline. But precious little do we know of the man himself. Beyond the fact that his father was a cabinetmaker, what do we know of the family he was born into or the one he founded? What resources could we rely on to write his biography? Newly discovered archives from a Parisian solicitor's office should definitely be delved into.</p>
                     <p>Did Desgodets keep up relations with the building trades, or did he seek to remove himself from them in a constant motion towards the heights of the royal entourage? What do we know of his life before he entered the Académie, in particular before he turned twenty? Or of the protection allowing him to live in Rome, unaffiliated with the Académie de France, or of when he was held captive by pirates in Algiers? Likewise, it would be interesting to investigate the reasons that led him to the Académie Royale d'Architecture, where he was the first real architect, after a line of scientists, F. Blondel—although he was also an architect—and the La Hire family. Who did he rub shoulders with, in what networks? With men of science or techniques in learned societies, with senior architectural firms or younger architects, with bankers or speculators, with higher civil servants (Superintendents, Ministers) or lesser ones, with provincial, foreign (in particular Swedish) or Parisian circles, with the artistic world or the world of tradesmen?</p>
                 </div>
-                <div xml:id="meetings2014BodyEn02" type="part" n="2">
+                <div xml:id="meetings2014EnBodyEn02" type="part" n="2">
                     <head><label>II.</label> A Theoretician's Practical Work</head>
                     <p>Desgodets started out as a civil servant, as Controller of the Royal buildings in Chambord and afterwards in Paris. His work at the time could be defined more precisely by examining other similar careers, the nature and missions they involved (building site management and monitoring, draughtsman, professional quantity surveying, upkeep of buildings, etc.)</p>
                     <p>He also had an architect's career, when he built an edifice for nuns on the Val-de-Grâce hospital's grounds, rearranged the Château of Vaudreuil, or designed some ordinary houses on Parisian streets (Rue du Bourg l'Abbé, Rue Montmartre). But his activities as an architect are relatively unknown: did he design projects on his own, or on the behalf of a studio, did he also manage and supervise the works?</p>
                     <p>Thanks to his great drawing capacities, he left to posterity a large number of plans and elevations in many collections of prints. His recognisable style allows experts to rightfully attribute them: whether they represented built or unbuilt projects, surveying work, printed or unprinted knowledge tools, or job-site drawings, the array of Desgodets' production turns out to be bountiful and deserves specific attention.</p>
                     <p>The architect also worked as a surveyor. Like many of his coevals who sat in the Académie Royale d’Architecture, he presented technical reports, for example on how to repair the collapsed bridge of Pirmil in Nantes. Analysing all of his technical contributions at the Académie and comparing them with his coevals' presentations could help to assess the actual role of the Académie in the technical and constructive developments of the time. Likewise, the tight links between his collaborations and the wider range of the Académie's activities on the one hand with the courses he gave on the other should be analysed, more specifically regarding the themes he chose to approach in the courses.</p>
                 </div>
-                <div xml:id="meetings2014BodyEn03" type="part" n="3">
+                <div xml:id="meetings2014EnBodyEn03" type="part" n="3">
                     <head><label>III.</label> Theoretical Writings of a Building Practitioner</head>
                     <p>Antoine Desgodets' major work, <hi rend="italic"
                             >Les Édifices Antiques de Rome Dessinés et Mesurés Très Exactement</hi> (Paris, published by Jean-Baptiste Coignard, 1687), has been the subject of many publications and, over the last few years, of several critical editions. It is now time to shift focus to his mission in Rome, to the way Desgodets worked, and to the book's good fortune, both in France and abroad where it was republished, commented and even translated. Now is just the right time to fully gauge the influence of this work, described as major in the history of Western architecture.</p>
                     <p>Once he became a teacher at the Académie, Desgodets engaged in hitherto unknown fields of architecture and in that respect could be considered a highly innovative theoretician. It would be interesting to study how Desgodets' four courses expanded on his predecessors who left a trace (F. Blondel, Ph. de La Hire) or even on earlier architecture treatises: was the link he established between theory and practice really new, or did it merely confirm a situation existing since the late seventeenth century? How were his courses approached, renewed or shortened by the teachers following him at the Académie, or beyond there at the Ecole des Arts, the free schools or in private studios? Did his courses carry remain references for those that followed? During the nineteenth century what did the top engineering schools, the Beaux-Arts, the Arts et Métiers and the Arts Décoratifs schools maintain of Desgodets' work? Analysing the manuscripts (transcribed, copied or autograph) pertaining to the orders, commodité, toisé and easements reveals how Desgodets produced these texts and figures (novelty or tradition of their sources) and to what end (to contain the competition from building contractors, to establish a professional ethics, to have them serve as models). What is more, the impact of the courses cannot be overlooked as they changed the nature of architecture itself, and of architects who from then became “modern”. Naturally, prospective participants are more than welcome to take part in analysing the courses which are now available online.</p>
                     <p>We would not be satisfied with a French analysis only for either of these fields and we feel that foreign points of view, both theoretical and practical, are indispensable to our research.</p>
                 </div>
-                <div xml:id="meetings2014BodyEn04" type="part" n="4">
+                <div xml:id="meetings2014EnBodyEn04" type="part" n="4">
                     <head>Application for the Conference</head>
                     <p>We encourage researchers from all the disciplines concerned with the emblematic figure of Antoine Desgodets and his work to submit 20-minute paper abstracts. The proposal, in French or in English, should include:<list>
                             <item>a title followed by the name(s) of the author(s) and institutional affiliation(s);</item>
@@ -282,7 +261,7 @@
                     <p>The Conference should take place in Paris (ENSA Paris-Malaquais and INHA) during two days, on <hi
                             rend="bold">Monday 24 and Tuesday 25 November 2014</hi>.</p>
                 </div>
-                <div xml:id="meetings2014BodyEn05" type="part" n="5">
+                <div xml:id="meetings2014EnBodyEn05" type="part" n="5">
                     <head>Scientific Comittee</head>
                     <list>
                         <item>Laurent Baridon, <hi rend="italic"
@@ -314,7 +293,7 @@
                                 >Université Paul-Valéry, Montpellier III</hi></item>
                     </list>
                 </div>
-                <div xml:id="meetings2014BodyEn06" type="part" n="6">
+                <div xml:id="meetings2014EnBodyEn06" type="part" n="6">
                     <head>Organisation Committee</head>
                     <list>
                         <item>Robert Carvais CNRS, ENSA Paris-Malaquais</item>
@@ -322,14 +301,14 @@
                         <item>Béatrice Gaillard, ENSA Versailles / Linnéa Rollenhagen-Tilly</item>
                     </list>
                 </div>
-                <div xml:id="meetings2014BodyEn07" type="part" n="7">
+                <div xml:id="meetings2014EnBodyEn07" type="part" n="7">
                     <head>Potential Partner Institutions</head>
                     <p>ENSA Paris-Malaquais, CNRS, Paris Ouest Nanterre La Défense, ANR, INHA, BnF, Collège de France.</p>
                 </div>
             </div>
         </body>
-        <back xml:id="meetings2014Back">
-            <div xml:id="meetings2014BackEn" xml:lang="fre">
+        <back xml:id="meetings2014EnBack">
+            <div xml:id="meetings2014EnBackEn" xml:lang="fre">
                 <!-- inclusion du fichier de notes -->
                 <!--<xi:include href="divs/desgodetsMeetings2014Notes.tei.xml"
                     parse="xml">
@@ -337,7 +316,7 @@
                         non trouvé</xi:fallback>
                 </xi:include>-->
                 <!-- lien vers le fichier à télécharger -->
-                <!--<div xml:id="meetings2014BackEn02" type="downloads">
+                <!--<div xml:id="meetings2014EnBackEn02" type="downloads">
                     <head>Téléchargements</head>
                     <p><ref type="file" target="../../files/programme2010.pdf"
                             mimeType="application/pdf">Programme</ref></p>
