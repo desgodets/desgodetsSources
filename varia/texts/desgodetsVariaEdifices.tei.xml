@@ -69,7 +69,7 @@
             </titleStmt>
             <!-- mention d'édition -->
             <editionStmt>
-                <edition n="1">première édition électronique, <date when="2013">2013</date>
+                <edition n="bêta">première édition électronique, <date when="2013">2013, version bêta</date>
                 </edition>
             </editionStmt>
             <extent><!-- TODO : taille du fichier en octet --></extent>
@@ -97,10 +97,10 @@
                     <p>Les images numériques des manuscrits sont mises à disposition par les institutions partenaires mais restent leur propriété exclusive. Celles-ci en autorisent la reproduction et la réutilisation selon leurs propres règles en vigueur. Toute diffusion de ces images, sous quelque forme et sur quelque support que ce soit (papier, audiovisuel, ou numérique), pour quelque finalité que ce soit (pédagogique, scientifique ou commercial), doit faire l’objet d’une demande d’autorisation préalable auprès de l’institution concernée.</p>
                 </availability>
                 <availability status="restricted" xml:id="variaEdificesTextLicence">
-                    <p>Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr">Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
                         <lb/>Cette licence est disponible en ligne : <ref
                             target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
-                            >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</p>
+                            >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</licence>
                     <p>Attribution : Vous devez créditer l’œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées. Vous devez indiquer ces informations par tous les moyens possibles mais vous ne pouvez pas suggérer que le Centre de théorie et d’analyse du droit vous soutient ou soutient la façon dont vous avez utilisé son œuvre. 
                         <lb/>Le Centre de théorie et d’analyse du droit demande à ce que toute publication dérivée de ses ressources électroniques comporte : 
                         <lb/>1. le nom du Centre de théorie
