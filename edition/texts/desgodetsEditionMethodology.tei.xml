@@ -91,49 +91,35 @@
                         <addrLine>contact@desgodets.fr</addrLine>
                     </address>
                 </publisher>
+                <availability status="restricted" xml:id="editionMethodologyImagesLicence">
+                    <p>Les images numériques des manuscrits sont mises à disposition par les institutions partenaires mais restent leur propriété exclusive. Celles-ci en autorisent la reproduction et la réutilisation selon leurs propres règles en vigueur. Toute diffusion de ces images, sous quelque forme et sur quelque support que ce soit (papier, audiovisuel, ou numérique), pour quelque finalité que ce soit (pédagogique, scientifique ou commercial), doit faire l’objet d’une demande d’autorisation préalable auprès de l’institution concernée.</p>
+                </availability>
                 <availability status="restricted" xml:id="editionMethodologyTextLicence">
-                    <!-- TODO : <licence> à ajouter partout -->
-                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr/">
-                        <p>Ce(tte) œuvre est mise à disposition selon les termes de la Licence
-                            Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage
-                            dans les Mêmes Conditions 3.0 France.</p>
-                        <graphic url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png"/>
-                    </licence>
-                    <p>Le Centre de théorie et d'analyse du droit (UMR 7074) met à disposition cette
-                        ressource électronique structurée, protégée par le code de la propriété
-                        intellectuelle sur le droit d'auteur (L111-1) et sur les bases de données
-                        (L341-1), selon les termes de la licence Creative Commons : « Paternité -
-                        Pas d'Utilisation Commerciale - Pas de Modification ; 3.0 France ».
+                    <p>Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
                         <lb/>Cette licence est disponible en ligne : <ref
-                            target="http://creativecommons.org/licences/by-nc-sa/3.0/fr"
-                            >http://creativecommons.org/licenses/by-nc/3.0/fr/</ref> ou par courrier
-                        postal à Creative Commons, 171 Second Street, Suite 300, San Francisco,
-                        California 94105, USA.</p>
-                    <p>Pas d'Utilisation Commerciale : Le Centre de théorie et d'analyse du droit
-                        souhaite encourager l'utilisation et l'amélioration de ses ressources
-                        électroniques, pour les intérêts de l'enseignement et de la recherche. Toute
-                        autorisation au-delà du champ de cette licence doit être obtenue auprès du
-                        Centre de théorie et d'analyse du droit.</p>
-                    <p>Paternité : Le Centre de théorie et d'analyse du droit demande à ce que toute
-                        publication dérivée de ses ressources électroniques comporte : <lb/>1. le
-                        nom du Centre de théorie et d'analyse du droit et, pour les publications
-                        électroniques, son logo <lb/>2. l'URI permettant d'accéder à la page citée
-                        sur notre site, ou à la page d'accueil de la ressource <lb/>3. la date du
-                        fichier source utilisé. </p>
-                    <p>Vous êtes libres de remixer, arranger et adapter cette œuvre à des fins non
-                        commerciales, tant que vous nous créditez et que les nouvelles œuvres sont
-                        diffusées selon les mêmes conditions. Cependant, afin de mieux servir la
-                        communauté scientifique, le Centre de théorie et d'analyse du droit s'engage
-                        à conserver et à toujours offrir publiquement la version la plus à jour de
-                        ses ressources électroniques par une URI pérenne. Il s'engage en conséquence
-                        à les corriger et à les améliorer, à intégrer les contributions qui lui sont
-                        soumises (après validation par un comité scientifique), et à référencer
-                        l'origine de ces contributions. Toute modification de la ressource qui ne
-                        serait pas reversée à la version de référence sous l'autorité éditoriale du
-                        Centre de théorie et d'analyse risquerait en conséquence d'être perdue, afin
-                        de ne pas disperser les contributions et de permettre les meilleures
-                        conditions possibles de collaboration scientifique, nous vous invitons à
-                        nous en faire part.</p>
+                            target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
+                            >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</p>
+                    <p>Attribution : Vous devez créditer l’œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées. Vous devez indiquer ces informations par tous les moyens possibles mais vous ne pouvez pas suggérer que le Centre de théorie et d’analyse du droit vous soutient ou soutient la façon dont vous avez utilisé son œuvre. 
+                        <lb/>Le Centre de théorie et d’analyse du droit demande à ce que toute publication dérivée de ses ressources électroniques comporte : 
+                        <lb/>1. le nom du Centre de théorie
+                        et d’analyse du droit et, pour les publications électroniques,
+                        son logo ainsi que la mention des auteurs de l’édition. 
+                        <lb/>2. l’URI permettant d’accéder à la page citée
+                        sur notre site, ou à la page d’accueil de la ressource
+                        <lb/>3. la date et la version du fichier source utilisé.</p>
+                    <p><hi rend="italic"
+                        >Pas d’Utilisation Commerciale</hi> — Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant. 
+                        <lb/>Le Centre de théorie et d’analyse du droit souhaite principalement encourager l’utilisation et l’amélioration de ses ressources électroniques dans l’intérêt de l’enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d’analyse du droit.</p>
+                    <p><hi rend="italic"
+                            >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
+                        <lb/>Vous n’êtes pas obligé de signaler votre travail auprès du Centre de théorie et d’analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
+                            type="external" target="mailto:contact@desgodets.net"
+                            >contact@desgodets.net</ref>.</p>
+                    <p><hi rend="italic"
+                        >Pas de restrictions additionnelles</hi> – Vous n’êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l’œuvre dans les conditions décrites par la licence.</p>
+                    <p>Le Centre de théorie et d’analyse du droit s’engage à conserver et à toujours offrir publiquement la version la plus à jour de ses ressources électroniques par l’intermédiaire d’une URI pérenne. 
+                        <lb/>Dans l’intérêt de la communauté scientifique, afin de ne pas disperser les contributions et de permettre les meilleures conditions de collaboration scientifique, le Centre de théorie et d’analyse du droit se propose de recueillir et d’intégrer les corrections et contributions qui lui seront soumises (après validation par un comité scientifique), et à référencer leur origine.</p>
+                    <p>Vous n’êtes pas dans l’obligation de respecter la licence pour les éléments ou matériel appartenant au domaine public ou dans le cas où l’utilisation que vous souhaitez faire est couverte par une exception.</p>
                 </availability>
             </publicationStmt>
             <seriesStmt>
@@ -148,7 +134,8 @@
             </notesStmt>-->
             <!-- description de la source -->
             <sourceDesc>
-                <p xml:id="editionMethodology">Texte original : le texte a été créé sous forme
+                <p xml:id="editionMethodology"
+                    >Texte original : le texte a été créé sous forme
                     électronique</p>
             </sourceDesc>
         </fileDesc>
@@ -156,7 +143,8 @@
             <!-- description du projet éditorial -->
             <projectDesc>
                 <p>L’édition des cours de Desgodets fait partie d'un programme de recherche sur la
-                    formalisation du savoir architectural au XVII<hi rend="superscript">e</hi>
+                    formalisation du savoir architectural au XVII<hi
+                        rend="superscript">e</hi>
                     siècle.</p>
             </projectDesc>
             <!-- déclaration des principes éditoriaux -->
@@ -188,20 +176,21 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
+            <change when="2014-03-30" who="#EC">version bêta</change>
             <change when="2013-04-16" who="#EC">première version du fichier</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text corresp="#editionMethodologyTextLicence">
         <front xml:id="editionMethodologyFront">
             <titlePage xml:id="editionMethodologyFront00">
                 <docTitle>
                     <titlePart>Méthodologie</titlePart>
                 </docTitle>
-                <!--<docAuthor>
-                    <persName ref="#EC">Emmanuel Château</persName>
-                </docAuthor>-->
+                <docAuthor>
+                    <persName ref="#RC">Emmanuel Château</persName>
+                </docAuthor>
                 <docDate>septembre 2013</docDate>
-                <docEdition>version 0</docEdition>
+                <docEdition>version bêta</docEdition>
             </titlePage>
             <div xml:id="editionMethodologyFrontFr" xml:lang="fre">
                 <div xml:id="editionMethodologyFrontFr01" type="abstract">
@@ -228,8 +217,9 @@
                         manière posthume par un « disciple ». Les autres cours de
                             <persName>Desgodets</persName> sont restés jusqu’à nos jours inédits.
                         Pourtant, le nombre de copies conservées suffit à attester de leur
-                        importance dans la culture architecturale du <date from="1700" to="1799"
-                                >XVIII<hi rend="superscript">e</hi> siècle</date>. De ce point de
+                        importance dans la culture architecturale du <date
+                            from="1700" to="1799">XVIII<hi rend="superscript"
+                            >e</hi> siècle</date>. De ce point de
                         vue, la publication d’une édition critique des cours de
                             <persName>Desgodets</persName> avait le mérite de faire entrer dans
                         l’histoire de l’art tout un pan de la théorie architecturale.</p>
@@ -249,10 +239,12 @@
                             différents, moyennant un artifice typographique, avec comme variante
                             l’édition génétique, qui rend compte par des artifices typographiques
                             des différentes couches et états successifs du texte ; l’édition
-                                <foreign xml:lang="lat">variorum</foreign>, qui donne le texte
+                                <foreign
+                                xml:lang="lat"
+                            >variorum</foreign>, qui donne le texte
                             accompagné, outre l’apparat normal des variantes, de toutes les
-                            solutions des éditeurs précédents.</quote><ref type="note"
-                            target="#editionMethodologyN0001"/></p>
+                            solutions des éditeurs précédents.</quote><ref
+                            type="note" target="#editionMethodologyN0001"/></p>
                     <p>Même si le domaine de l’édition scientifique a connu de profonds changements
                         au cours de ces dernières années avec l’irruption du numérique, les
                         opérations à la base de toute édition critique sont toutefois restées pour
@@ -303,25 +295,30 @@
                     <div type="chapter" n="3">
                         <p>Comme le relevait déjà Jean Varloot en 1980, <q>l’édition de textes
                                 français moderne est un domaine qui est loin d’être l’objet de lois
-                                ou d’usages admis par tous</q><ref type="note"
-                                target="#editionMethodologyN0003"/>. Malgré les efforts des érudits
-                            du <date from="1800" to="1899">XIX<hi rend="superscript">e</hi>
+                                ou d’usages admis par tous</q><ref
+                                type="note" target="#editionMethodologyN0003"
+                                />. Malgré les efforts des érudits
+                            du <date
+                                from="1800" to="1899">XIX<hi rend="superscript"
+                                >e</hi>
                                 siècle</date> et la création d’importantes collections
                             scientifiques, ou plusieurs grandes entreprises d’œuvres complètes, il
                             subsiste une grande variabilité dans les conceptions et surtout dans les
                             pratiques. En outre, par rapport à leurs collègues littéraires, <q>les
                                 éditeurs de sources documentaires, ont généralement tardé, en France
                                 particulièrement, à intégrer une interrogation de méthode sur les
-                                implications de leur travail</q><ref type="note"
-                                target="#editionMethodologyN0004"/>. En l’absence de règles
+                                implications de leur travail</q><ref
+                                type="note" target="#editionMethodologyN0004"
+                            />. En l’absence de règles
                             clairement établies et partagées dans la communauté scientifique, la
                             définition d’un protocole de transcription du texte s’est avérée plutôt
                             difficile.</p>
                         <p>Il était néanmoins possible de se référer au guide de transcription des
                             textes anciens publié sous la direction de <persName>Bernard
                                 Barbiche</persName> et <persName>Monique Châtenet</persName> par
-                                l’<orgName>Inventaire</orgName><ref type="note"
-                                target="#editionMethodologyN0005"/>. Dans la mesure où ces
+                                l’<orgName>Inventaire</orgName><ref
+                                type="note" target="#editionMethodologyN0005"
+                                />. Dans la mesure où ces
                             indications sont relativement sommaires et datent des années 1990,
                             celles-ci méritent une mise à jour et une révision de fonds en comble,
                             notamment pour prendre acte de l’irruption des techniques d’édition
@@ -340,7 +337,8 @@
                             récentes pour l’édition des textes de l’époque moderne, c’est le travail
                             publié par <persName>Bernard Barbiche</persName> et ses collègues dans
                             la collection de l’<orgName>Inventaire</orgName> qui fait référence<ref
-                                type="note" target="#editionMethodologyN0006"/>. L’équipe de
+                                type="note" target="#editionMethodologyN0006"
+                            />. L’équipe de
                             transcripteurs a donc formulé les premières propositions concernant la
                             transcription des manuscrits à partir de ces indications. Toutefois, eu
                             égard aux besoins particuliers du projet ayant trait à la comparaison
@@ -356,7 +354,8 @@
                             généralement qu’un intérêt limité du point de vue de la compréhension et
                             de la signification. Une telle attitude semblait admise pour l’édition
                             des textes littéraires postérieurs à 1600 et surtout à 1700<ref
-                                type="note" target="#editionMethodologyN0007"/>. La normalisation
+                                type="note" target="#editionMethodologyN0007"
+                            />. La normalisation
                             des transcriptions paraissait surtout fournir une solution pour réduire
                             le bruit lors de l’étude des variantes à l’aide du logiciel MEDITE comme
                             elle était prévue au début du projet. En outre, elle permettait de se
@@ -375,7 +374,8 @@
                             manuscrits et de mieux les situer les uns par rapport aux autres. Aux
                             consignes publiées dans <title>Guide</title> de <persName>Bernard
                                 Barbiche</persName> et <persName>Monique Châtenet</persName><ref
-                                type="note" target="#editionMethodologyN0008"/>, le conseil
+                                type="note" target="#editionMethodologyN0008"
+                            />, le conseil
                             scientifique ajoutait le respect des majuscules, réservant à l’éditeur
                             le choix final sur la graphie à retenir.</p>
                         <p>Ce changement d’orientation intervenu dans les directives n’a pas
@@ -402,20 +402,24 @@
                             nécessaire afin de mieux les caractériser les uns par rapport aux
                             autres. Cette opération consiste à comparer le texte des différents
                             manuscrits en repérant les leçons variantes en chaque lieu variant des
-                            témoins du texte<ref type="note" target="#editionMethodologyN0009"/>. Le
+                            témoins du texte<ref
+                                type="note" target="#editionMethodologyN0009"
+                                />. Le
                             projet initial prévoyait l’utilisation d’un logiciel développé par
                                 l’<orgName>Institut des textes et manuscrits modernes
                                 (ITEM)</orgName> pour les études de génétique textuelle<ref
-                                type="note" target="#editionMethodologyN0010"/>. Ce logiciel, EDITE
+                                type="note" target="#editionMethodologyN0010"
+                            />. Ce logiciel, EDITE
                             MEDITE, posait des problèmes de versions de système d’exploitation pour
                             pouvoir être installé sur l’ensemble des postes de travail des membres
                             des équipes d’édition. Une autre solution logicielle a donc été
                             recherchée.</p>
                         <p>Plusieurs logiciels ont été identifiés comme pouvant répondre aux besoins
-                            du projet : l’outil Unix Diff, Versionning-Machine<ref type="note"
-                                target="#editionMethodologyN0011"/>, CollateX<ref type="note"
-                                target="#editionMethodologyN0012"/>, ou encore Juxta<ref type="note"
-                                target="#editionMethodologyN0013"/>. Après plusieurs tests, nous
+                            du projet : l’outil Unix Diff, Versionning-Machine<ref
+                                type="note" target="#editionMethodologyN0011"/>, CollateX<ref
+                                type="note" target="#editionMethodologyN0012"/>, ou encore Juxta<ref
+                                type="note" target="#editionMethodologyN0013"
+                            />. Après plusieurs tests, nous
                             avons retenu le logiciel Juxta qui nous paraissait à la fois le plus
                             flexible et le plus simple d’emploi. Le logiciel était multiplate-forme
                             et son interface graphique permettait d’aligner facilement le texte et
@@ -450,7 +454,8 @@
                             l’aspect d’un texte à partir de ses témoins, d’approches plus
                             conservatistes inspirées de <persName>Joseph Bédier</persName> et qui
                             consistent à choisir un manuscrit de base en le corrigeant le moins
-                                possible<ref type="note" target="#editionMethodologyN0014"/>.</p>
+                                possible<ref
+                                type="note" target="#editionMethodologyN0014"/>.</p>
                         <p>C’est l’approche conservatiste qui a le plus de faveur aujourd’hui en
                             France pour l’édition de sources documentaires. Celle-ci est plus
                             respectueuse de la source et évite de produire un texte qui n’a jamais
@@ -459,10 +464,11 @@
                             plusieurs années, et donc leur contenu étant susceptible d’avoir varié
                             au cours du temps, la production d’une édition composite pouvait être
                             défendue malgré l’interdit formulé par <persName>Pierre-Georges
-                                Castex</persName><ref type="note" target="#editionMethodologyN0015"
-                            />.</p>
+                                Castex</persName><ref
+                                type="note" target="#editionMethodologyN0015"/>.</p>
                         <p>Bien sûr, il aurait été vain de prétendre rétablir le texte <foreign
-                                xml:lang="lat">princeps</foreign> de chacun des cours à partir d’une
+                                xml:lang="lat"
+                                >princeps</foreign> de chacun des cours à partir d’une
                             critique textuelle des différents témoins conservés. La
                                 <soCalled>recension stemmatique</soCalled>, nous paraissait peu
                             praticable compte-tenu de la proximité des témoins et l’absence de
@@ -477,8 +483,9 @@
                             de se contenter d’éditer un témoin en lui rapportant en note les
                             variantes que présentaient les autres états par rapport au texte de base
                             ainsi que le suggère le Guide de <persName>Bernard Barbiche</persName>
-                            et <persName>Monique Châtenet</persName><ref type="note"
-                                target="#editionMethodologyN0016"/>. Comme on l’a dit, cette
+                            et <persName>Monique Châtenet</persName><ref
+                                type="note" target="#editionMethodologyN0016"
+                            />. Comme on l’a dit, cette
                             approche privilégie la source primaire mais il faut également avoir
                             conscience qu’elle présente plusieurs inconvénients. D’abord, elle
                             favorise l’intégration des fautes du copiste, telles que les
@@ -502,8 +509,9 @@
                         <p>Ayant choisi l’approche conservatiste, il restait à déterminer les
                             critères de choix du manuscrit maître. À cet égard <q>chaque texte, en
                                 fonction de son histoire propre, impose un choix particulier.</q>
-                            dit <persName>Beugnot</persName><ref type="note"
-                                target="#editionMethodologyN0017"/>. Les équipes éditoriales ont
+                            dit <persName>Beugnot</persName><ref
+                                type="note" target="#editionMethodologyN0017"
+                            />. Les équipes éditoriales ont
                             donc été laissées libres de proposer un manuscrit maître pour le cours
                             qu’elles éditaient en justifiant de leurs critères de choix d’après une
                             grille établie dans le cadre du projet. Le choix du manuscrit maître
@@ -517,12 +525,16 @@
                             identique, l’autre est un texte autographe plutôt bref, composé
                             antérieurement sous la forme d’un traité, et probablement présenté au
                             roi à l’occasion de sa visite à l’<orgName>Académie royale
-                                d’architecture</orgName> le <date when="1719-08-02">2 août
+                                d’architecture</orgName> le <date
+                                when="1719-08-02"
+                                >2 août
                                 1719</date> comme l’indique une inscription apportée sur le
                             manuscrit. Parmi les témoins, on relève une famille de manuscrits
                             suédoise. Tous ces témoins présentent le même état du texte et ils
                             commencent par un titre identique faisant référence au texte prononcé à
-                            partir du <date when="1724-11-13">13 novembre 1724</date>. L’analyse
+                            partir du <date
+                                when="1724-11-13"
+                                >13 novembre 1724</date>. L’analyse
                             laisse donc penser qu’ils sont issus d’un prototype commun<ref
                                 type="note" target="#editionMethodologyN0018"/>.</p>
                         <p>L’équipe chargée de l’édition de ce cours a montré que si l’établissement
@@ -570,10 +582,12 @@
                         <p>Le texte du manuscrit maître de chaque manuscrit devait disposer d’un
                             apparat critique informant sur les variantes des différents témoins.
                             Conformément aux conseils de Barbiche, seules ont été retenues <q>les
-                                    <hi rend="bold">variantes</hi> qui [avaient] une incidence sur
+                                    <hi
+                                    rend="bold"
+                                >variantes</hi> qui [avaient] une incidence sur
                                 le sens du texte, à l’exclusion des particularités purement
-                                graphiques ou grammaticales.</q><ref type="note"
-                                target="#editionMethodologyN0019"/></p>
+                                graphiques ou grammaticales.</q><ref
+                                type="note" target="#editionMethodologyN0019"/></p>
                     </div>
                 </div>
                 <div xml:id="editionMethodologyBodyFr03" type="part" n="3">
@@ -615,7 +629,8 @@
                             sur un même texte, ou encore par exemple de proposer à bien moindre
                             frais qu’avec l’imprimé des éditions dites
                                 <soCalled>hyper-diplomatiques</soCalled> qui présentent des <foreign
-                                xml:lang="lat">fac simili</foreign> en regard du texte édité. Il
+                                xml:lang="lat"
+                            >fac simili</foreign> en regard du texte édité. Il
                             n’en reste pas moins qu’une bonne édition numérique se doit de respecter
                             un certain nombre de standards éditoriaux en particulier pour faciliter
                             la citation ou rendre la consultation de l’apparat critique ou des notes
@@ -667,8 +682,9 @@
                         <p>Outre cet apparat critique et historique, nous avions le désir de fournir
                             un glossaire des termes architecturaux et juridiques. C’est-à-dire une
                             liste alphabétique des mots difficiles jouant le rôle d’un dictionnaire
-                            propre au texte pour favoriser sa compréhension<ref type="note"
-                                target="#editionMethodologyN0020"/>. En dehors des aspects de
+                            propre au texte pour favoriser sa compréhension<ref
+                                type="note" target="#editionMethodologyN0020"
+                            />. En dehors des aspects de
                             vulgarisation, un tel glossaire répondait aussi assez bien au caractère
                             pluri-disciplinaire de l’édition pouvant à la fois intéresser les
                             historiens de l’architecture et les historiens du droit.</p>
@@ -692,7 +708,9 @@
                         <p>Faute d’être assurés d’obtenir les droits pour la publication de
                             l’ensemble des reproductions des manuscrits, il n’était pas possible de
                             produire une édition <soCalled>hyper-diplomatique</soCalled> qui offre
-                            un accès simultané aux transcriptions et aux <foreign xml:lang="lat">fac
+                            un accès simultané aux transcriptions et aux <foreign
+                                xml:lang="lat"
+                            >fac
                                 simili</foreign> des différents témoins. En revanche, conformément
                             au vœu exprimé par le Conseil scientifique du projet, il a paru
                             nécessaire d’offrir au lecteur une consultation des transcriptions des
@@ -729,7 +747,9 @@
                             numérique. Il nous paraissait donc difficile de nous en passer.
                             Toutefois, pour être efficace, une telle recherche suppose un traitement
                             particulier de la langue qui n’est pas sans présenter quelques
-                            difficultés ; <foreign xml:lang="lat">a fortiori</foreign> comme dans
+                            difficultés ; <foreign
+                                xml:lang="lat"
+                            >a fortiori</foreign> comme dans
                             notre situation où le texte n’était pas modernisé. Si une telle
                             fonctionnalité apparemment simple pour l’utilisateur nous paraissait
                             nécessaire et attendue, sa mise en place efficace était loin d’être

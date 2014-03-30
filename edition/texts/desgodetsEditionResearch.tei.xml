@@ -91,49 +91,35 @@
                         <addrLine>contact@desgodets.fr</addrLine>
                     </address>
                 </publisher>
+                <availability status="restricted" xml:id="editionResearchImagesLicence">
+                    <p>Les images numériques des manuscrits sont mises à disposition par les institutions partenaires mais restent leur propriété exclusive. Celles-ci en autorisent la reproduction et la réutilisation selon leurs propres règles en vigueur. Toute diffusion de ces images, sous quelque forme et sur quelque support que ce soit (papier, audiovisuel, ou numérique), pour quelque finalité que ce soit (pédagogique, scientifique ou commercial), doit faire l’objet d’une demande d’autorisation préalable auprès de l’institution concernée.</p>
+                </availability>
                 <availability status="restricted" xml:id="editionResearchTextLicence">
-                    <!-- TODO : <licence> à ajouter partout -->
-                    <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/fr/">
-                        <p>Ce(tte) œuvre est mise à disposition selon les termes de la Licence
-                            Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage
-                            dans les Mêmes Conditions 3.0 France.</p>
-                        <graphic url="http://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png"/>
-                    </licence>
-                    <p>Le Centre de théorie et d'analyse du droit (UMR 7074) met à disposition cette
-                        ressource électronique structurée, protégée par le code de la propriété
-                        intellectuelle sur le droit d'auteur (L111-1) et sur les bases de données
-                        (L341-1), selon les termes de la licence Creative Commons : « Paternité -
-                        Pas d'Utilisation Commerciale - Pas de Modification ; 3.0 France ».
+                    <p>Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
                         <lb/>Cette licence est disponible en ligne : <ref
-                            target="http://creativecommons.org/licences/by-nc-sa/3.0/fr"
-                            >http://creativecommons.org/licenses/by-nc/3.0/fr/</ref> ou par courrier
-                        postal à Creative Commons, 171 Second Street, Suite 300, San Francisco,
-                        California 94105, USA.</p>
-                    <p>Pas d'Utilisation Commerciale : Le Centre de théorie et d'analyse du droit
-                        souhaite encourager l'utilisation et l'amélioration de ses ressources
-                        électroniques, pour les intérêts de l'enseignement et de la recherche. Toute
-                        autorisation au-delà du champ de cette licence doit être obtenue auprès du
-                        Centre de théorie et d'analyse du droit.</p>
-                    <p>Paternité : Le Centre de théorie et d'analyse du droit demande à ce que toute
-                        publication dérivée de ses ressources électroniques comporte : <lb/>1. le
-                        nom du Centre de théorie et d'analyse du droit et, pour les publications
-                        électroniques, son logo <lb/>2. l'URI permettant d'accéder à la page citée
-                        sur notre site, ou à la page d'accueil de la ressource <lb/>3. la date du
-                        fichier source utilisé. </p>
-                    <p>Vous êtes libres de remixer, arranger et adapter cette œuvre à des fins non
-                        commerciales, tant que vous nous créditez et que les nouvelles œuvres sont
-                        diffusées selon les mêmes conditions. Cependant, afin de mieux servir la
-                        communauté scientifique, le Centre de théorie et d'analyse du droit s'engage
-                        à conserver et à toujours offrir publiquement la version la plus à jour de
-                        ses ressources électroniques par une URI pérenne. Il s'engage en conséquence
-                        à les corriger et à les améliorer, à intégrer les contributions qui lui sont
-                        soumises (après validation par un comité scientifique), et à référencer
-                        l'origine de ces contributions. Toute modification de la ressource qui ne
-                        serait pas reversée à la version de référence sous l'autorité éditoriale du
-                        Centre de théorie et d'analyse risquerait en conséquence d'être perdue, afin
-                        de ne pas disperser les contributions et de permettre les meilleures
-                        conditions possibles de collaboration scientifique, nous vous invitons à
-                        nous en faire part.</p>
+                            target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
+                            >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</p>
+                    <p>Attribution : Vous devez créditer l’œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées. Vous devez indiquer ces informations par tous les moyens possibles mais vous ne pouvez pas suggérer que le Centre de théorie et d’analyse du droit vous soutient ou soutient la façon dont vous avez utilisé son œuvre. 
+                        <lb/>Le Centre de théorie et d’analyse du droit demande à ce que toute publication dérivée de ses ressources électroniques comporte : 
+                        <lb/>1. le nom du Centre de théorie
+                        et d’analyse du droit et, pour les publications électroniques,
+                        son logo ainsi que la mention des auteurs de l’édition. 
+                        <lb/>2. l’URI permettant d’accéder à la page citée
+                        sur notre site, ou à la page d’accueil de la ressource
+                        <lb/>3. la date et la version du fichier source utilisé.</p>
+                    <p><hi rend="italic"
+                        >Pas d’Utilisation Commerciale</hi> — Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant. 
+                        <lb/>Le Centre de théorie et d’analyse du droit souhaite principalement encourager l’utilisation et l’amélioration de ses ressources électroniques dans l’intérêt de l’enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d’analyse du droit.</p>
+                    <p><hi rend="italic"
+                            >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
+                        <lb/>Vous n’êtes pas obligé de signaler votre travail auprès du Centre de théorie et d’analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
+                            type="external" target="mailto:contact@desgodets.net"
+                            >contact@desgodets.net</ref>.</p>
+                    <p><hi rend="italic"
+                        >Pas de restrictions additionnelles</hi> – Vous n’êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l’œuvre dans les conditions décrites par la licence.</p>
+                    <p>Le Centre de théorie et d’analyse du droit s’engage à conserver et à toujours offrir publiquement la version la plus à jour de ses ressources électroniques par l’intermédiaire d’une URI pérenne. 
+                        <lb/>Dans l’intérêt de la communauté scientifique, afin de ne pas disperser les contributions et de permettre les meilleures conditions de collaboration scientifique, le Centre de théorie et d’analyse du droit se propose de recueillir et d’intégrer les corrections et contributions qui lui seront soumises (après validation par un comité scientifique), et à référencer leur origine.</p>
+                    <p>Vous n’êtes pas dans l’obligation de respecter la licence pour les éléments ou matériel appartenant au domaine public ou dans le cas où l’utilisation que vous souhaitez faire est couverte par une exception.</p>
                 </availability>
             </publicationStmt>
             <seriesStmt>
@@ -148,7 +134,8 @@
             </notesStmt>-->
             <!-- description de la source -->
             <sourceDesc>
-                <p xml:id="editionResearch">Texte original : le texte a été créé sous forme
+                <p xml:id="editionResearch"
+                    >Texte original : le texte a été créé sous forme
                     électronique</p>
             </sourceDesc>
         </fileDesc>
@@ -156,7 +143,8 @@
             <!-- description du projet éditorial -->
             <projectDesc>
                 <p>L'édition des cours de Desgodets fait partie d'un programme de recherche sur la
-                    formalisation du savoir architectural au XVII<hi rend="superscript">e</hi>
+                    formalisation du savoir architectural au XVII<hi
+                        rend="superscript">e</hi>
                     siècle.</p>
             </projectDesc>
             <!-- déclaration des principes éditoriaux -->
@@ -205,10 +193,11 @@
             </textClass>
         </profileDesc>
         <revisionDesc>
+            <change when="2014-03-30" who="#EC">version bêta</change>
             <change when="2013-04-16" who="#EC">première version du fichier</change>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text corresp="#editionResearchTextLicence">
         <front xml:id="editionResearchFront">
             <titlePage xml:id="editionResearchFront00">
                 <docTitle>
@@ -218,7 +207,7 @@
                     <persName ref="#RC">Robert Carvais</persName>
                 </docAuthor>
                 <docDate>14 avril 2013</docDate>
-                <docEdition>version 0</docEdition>
+                <docEdition>version bêta</docEdition>
             </titlePage>
             <div xml:id="editionResearchFrontFr" xml:lang="fre">
                 <div xml:id="editionResearchFrontFr01" type="abstract">
@@ -246,14 +235,16 @@
         <body xml:id="editionResearchBody">
             <div xml:id="editionResearchBodyFr" xml:lang="fre">
                 <div xml:id="editionResearchBodyFr01" type="part" n="1">
-                    <div xml:id="editionResearchBodyFr01.01" type="section" n="1">
-                        <head>Objectifs, contexte et état de la question, originalité</head>
-                        <p>Notre projet avait pour but de mesurer le savoir de l’architecte à la fin
-                            du XVII<hi rend="superscript">e</hi> et au début du XVIII<hi
-                                rend="superscript">e</hi> siècles, en s’appuyant sur la tradition
+                    <head>Objectifs, contexte et état de la question, originalité</head>
+                    <p>Notre projet avait pour but de mesurer le savoir de l’architecte à la fin
+                            du XVII<hi
+                            rend="superscript">e</hi> et au début du XVIII<hi rend="superscript"
+                            >e</hi> siècles, en s’appuyant sur la tradition
                             manuscrite des écrits architecturaux au cœur même de la construction
                             théorique de la discipline qui remonte à la tradition vitruvienne du XV
-                                <hi rend="superscript">e</hi> siècle. Nous savons que les traités
+                                <hi
+                            rend="superscript"
+                        >e</hi> siècle. Nous savons que les traités
                             d’architecture dès l’âge humaniste, véritable genre littéraire à part
                             entière, dépassent largement l’objet purement architectural tel que nous
                             l’entendons aujourd’hui, en traitant essentiellement de questions
@@ -263,42 +254,50 @@
                             servir d’opérateur fondamental à l’aménagement du territoire. On
                             comprend aussi qu’il a pu être un enjeu de pouvoir tant pour les
                             autorités politiques que pour les professionnels. </p>
-                        <p>Les écrits d’architecture relèvent ainsi de la littérature technique. Ils
+                    <p>Les écrits d’architecture relèvent ainsi de la littérature technique. Ils
                             ne procurent pas uniquement de la simple lecture passive, mais
                             constituent de véritables instruments de travail utiles qui procurent à
                             l’architecte les outils pour concevoir et réaliser une œuvre (cf. les
                             commentaires des traités devant l’assemblée réunie des architectes de
                             l’Académie). Ils doivent être compris et reçus comme tels dans la mesure
                             où ils sont copiés, annotés, commentés et corrigés par les praticiens
-                            qui suivent (cf. les gloses du <hi rend="italic">De Architectura</hi> de
+                            qui suivent (cf. les gloses du <hi
+                            rend="italic"
+                        >De Architectura</hi> de
                             Vitruve). Cela est d’autant plus vrai des enseignements dont les
                             contenus sont transmis oralement, copiés sous la dictée par le
                             professeur à des élèves, puis recopiés par les absents et par ceux qui
                             pourraient en avoir besoin, à charge pour ceux-ci, à force de les
                             recopier, de les transformer en les nourrissant de leur propre savoir en
                             exercice.</p>
-                        <p rend="Appel">Si la littérature théorique de l’architecte développée sous
+                    <p rend="Appel"
+                            >Si la littérature théorique de l’architecte développée sous
                             forme de traités et de périodiques a beaucoup retenu l’attention des
-                            chercheurs ces dernières années<ref type="note"
-                                target="#editionResearchN0001"/>, si ont été amorcées un certain
+                            chercheurs ces dernières années<ref
+                            type="note" target="#editionResearchN0001"
+                            />, si ont été amorcées un certain
                             nombre de réflexions sur les savoirs pratiques de l’architecte<ref
-                                type="note" target="#editionResearchN0002"/>, il n’en est pas de
+                            type="note" target="#editionResearchN0002"
+                            />, il n’en est pas de
                             même de cette partie discursive que représente l’enseignement délivré
                             aux élèves. Nous savons peu de chose sur le savoir transmis aux
                             architectes dans le cadre de leur formation surtout à l’âge classique,
                             alors que depuis une cinquantaine d’années l’enseignement de
-                            l’architecture aux XIX<hi rend="superscript">e</hi> et XX<hi
-                                rend="superscript">e</hi> siècles est beaucoup mieux étudié. C’est
+                            l’architecture aux XIX<hi
+                            rend="superscript">e</hi> et XX<hi rend="superscript"
+                        >e</hi> siècles est beaucoup mieux étudié. C’est
                             pourquoi il nous a semblé important de nous arrêter sur les cours
                             d’Antoine Desgodets, cours inédits et qui ne cessent d’intriguer les
                             chercheurs sur leur contenu exact, leur compréhension et leur impact sur
                             la construction des savoirs. </p>
-                        <p>Trois raisons nous ont porté à choisir l’œuvre de Desgodets : <list>
-                                <item><label>1°</label> Desgodets devient professeur à l’Académie
+                    <p>Trois raisons nous ont porté à choisir l’œuvre de Desgodets : <list>
+                            <item><label>1°</label> Desgodets devient professeur à l’Académie
                                     d’Architecture en 1719, en pleine Régence du royaume, à un
                                     moment où l’on veut réformer les dogmes. Il est prêt à continuer
                                     à les affronter comme il l’avait déjà fait en publiant en 1683
-                                    ses fameux <hi rend="italic">Édifices antiques de Rome</hi> à la
+                                    ses fameux <hi
+                                    rend="italic"
+                                    >Édifices antiques de Rome</hi> à la
                                     demande de Colbert. Pour ce que nous connaissons du contenu de
                                     ses cours nous savons qu’il a développé des concepts nouveaux
                                     sur le plan théorique et surtout qu’il va introduire – ainsi que
@@ -310,10 +309,11 @@
                                     d’expertise. De plus, la part de cet enseignement que nous
                                     connaissons par des publications posthumes non totalement
                                     identifiées, connaîtra une fortune éditoriale significative dans
-                                    le monde du bâtiment jusqu’au début du XX<hi rend="superscript"
-                                        >e</hi> siècle. C’est dire déjà l’importance de l’œuvre à
+                                    le monde du bâtiment jusqu’au début du XX<hi
+                                    rend="superscript"
+                                >e</hi> siècle. C’est dire déjà l’importance de l’œuvre à
                                     découvrir.</item>
-                                <item><label>2°</label> Si la méthode du commentaire de textes et de
+                            <item><label>2°</label> Si la méthode du commentaire de textes et de
                                     figures pour la partie pratique et d’illustrations pour la
                                     partie théorique est pour le moins classique, il faut convenir
                                     que le choix des matériaux sur lesquels s’exerce son esprit
@@ -324,7 +324,9 @@
                                     structurer sa présentation en vue d’en transmettre l’essentiel
                                     et délivrer oralement son message aux élèves. Ce processus en
                                     trois temps de rationalisation des savoirs techniques, pratiqué
-                                    depuis le XVI<hi rend="superscript">e</hi> siècle, et que l’on
+                                    depuis le XVI<hi
+                                    rend="superscript"
+                                >e</hi> siècle, et que l’on
                                     présente comme une « réduction en art » se perçoit bien chez
                                     Desgodets. Pour avoir commencé à étudier le manuscrit
                                     préparatoire de son cours de droit, nous en avons trouvé la
@@ -332,7 +334,7 @@
                                     constitue probablement une des premières normalisations du
                                     savoir architectural, sous toutes ses différentes
                                     facettes.</item>
-                                <item><label>3°</label> L’œuvre de Desgodets intervient à un moment
+                            <item><label>3°</label> L’œuvre de Desgodets intervient à un moment
                                     clé de la constitution de la légitimité professionnelle de
                                     l’architecte. Il va former non seulement les futurs architectes
                                     du roi ou des gens de la Cour, mais également ceux qui se
@@ -351,8 +353,8 @@
                                     académique (voir la pluralité des rôles tenus par le
                                     contemporain Germain Boffrand qui est à la fois architecte,
                                     ingénieur et expert-bourgeois).</item>
-                            </list></p>
-                        <p>Pour toutes ces raisons, le cours d’Antoine Desgodets méritait d’être
+                        </list></p>
+                    <p>Pour toutes ces raisons, le cours d’Antoine Desgodets méritait d’être
                             reconstitué et livré à la communauté scientifique comme un texte
                             fondateur du « statut » de l’architecte moderne. Nous envisagions de
                             traiter chacun de la trentaine des manuscrits en les rassemblant selon
@@ -363,11 +365,11 @@
                             philosophe, philologue, historiens de l’architecture, ingénieur,
                             juriste) et de replacer exactement son œuvre dans l’histoire de chacun
                             des savoirs abordés afin d’en souligner ses originalités.</p>
-                        <p>Notre projet complète l’effort d’autres équipes qui se consacrent de leur
+                    <p>Notre projet complète l’effort d’autres équipes qui se consacrent de leur
                             côté essentiellement à la mise en ligne des ouvrages d’architecture
                             imprimés ou qui n’existent que sous forme manuscrite mais en un seul
                             exemplaire, sans aucune variante.</p>
-                    </div>
+
                     <div xml:id="editionResearchBodyFr01.02" type="part" n="2">
                         <head>Description du projet et résultats attendus</head>
                         <p>La création des institutions révèle souvent des ruptures dans l’histoire
@@ -377,19 +379,24 @@
                             son établissement. D’autant que si l’accès aux cours délivrés par les
                             professeurs de l’Académie d’architecture est libre à « tout homme de
                             quelque âge et condition qu’il soit, qui aura goût pour
-                                l’Architecture »<ref type="note" target="#editionResearchN0003"/>,
+                                l’Architecture »<ref
+                                type="note" target="#editionResearchN0003"
+                                />,
                             il n’est pas prévu la conservation du contenu de ces cours. Seules des
                             affiches attestent de leur existence à raison de quatre heures par
                             semaine sur deux jours. La prise de notes sous la dictée du professeur
                             ou la copie « par cayers » à partir d’un manuscrit autorisé nous permet
                             de mieux comprendre ce qui constitue le savoir architectural au début du
-                                XVIII<hi rend="superscript">e</hi> siècle, ou plus précisément ce
+                                XVIII<hi
+                                rend="superscript"
+                                >e</hi> siècle, ou plus précisément ce
                             que l’Académie royale et ses professeurs successifs ont jugé devoir
                             constituer comme savoir pour l’architecte. Celui qui fait de l’art de
                             bâtir sa profession doit être versé dans les mathématiques, posséder le
                             dessin, mais aussi entendre les métiers pratiques du bâtiment
                             (maçonnerie, taille de pierre, charpente, couverture, etc.)<ref
-                                type="note" target="#editionResearchN0004"/> L’Académie prévoit
+                                type="note" target="#editionResearchN0004"
+                            /> L’Académie prévoit
                             exactement pour moitié des cours de « géométrie pratique », pour moitié
                             des « leçons de différentes notions, enseignements, règles et pratiques
                             d’architecture » qui doivent représenter les principes de cet art ou les
@@ -397,12 +404,17 @@
                             énigmatique et programmatique pour vouloir découvrir concrètement ce
                             qu’elle entend et quelles sont les raisons d’une telle composition.</p>
                         <p>Notre objectif principal consistait à reconstituer, dans le cadre du
-                            savoir architectural, le cours d’Antoine Desgodets<ref type="note"
-                                target="#editionResearchN0005"/>, architecte du roi, professeur à
+                            savoir architectural, le cours d’Antoine Desgodets<ref
+                                type="note" target="#editionResearchN0005"
+                                />, architecte du roi, professeur à
                             l’Académie d’architecture de 1719 à 1728, pour lequel nous possédons à
                             travers les bibliothèques de nombreux pays une trentaine de manuscrits
-                            (il s’agit d’un premier repérage, <hi rend="italic">cf. infra</hi>, §
-                            sources manuscrites)<ref type="note" target="#editionResearchN0006"/>.
+                            (il s’agit d’un premier repérage, <hi
+                                rend="italic"
+                                >cf. infra</hi>, §
+                            sources manuscrites)<ref
+                                type="note" target="#editionResearchN0006"
+                            />.
                             L’un des avantages principaux de cette recherche était de réunir, en un
                             même lieu, ce corpus de manuscrits dispersés, par le biais de
                             microfilms, rassemblés autour de la figure de leur auteur et de leur
@@ -418,7 +430,8 @@
                         <p>
                             <list>
                                 <item><label>1°</label> Reconstituer au début du XVIII<hi
-                                        rend="superscript">e</hi> siècle ce qui compose, aux yeux de
+                                        rend="superscript"
+                                        >e</hi> siècle ce qui compose, aux yeux de
                                     l’Académie d’Architecture et de ses sœurs les autres Académies,
                                     les savoirs enseignés à l’architecte. Il s’agissait de
                                     comprendre les disciplines qui ensemble définissaient cette
@@ -430,7 +443,8 @@
                                     équipe pluridisciplinaire, de dégager par la comparaison
                                     informatique des manuscrits un corpus mère. Cette démarche
                                     minutieuse, encadrée de précautions philologiques éprouvées<ref
-                                        type="note" target="#editionResearchN0007"/>, devait
+                                        type="note" target="#editionResearchN0007"
+                                        />, devait
                                     permettre de retrouver le manuscrit autographe, s’il existe ou
                                     de reconstituer le plus approchant, s’il s’agit de prises de
                                     notes par des élèves assistant au cours de l’Académie ou s’il
@@ -443,7 +457,8 @@
                                     tradition vitruvienne de la science architecturale et de sa
                                     transformation. En quoi cette période d’institutionnalisation de
                                     l’architecture depuis le dernier quart du XVII<hi
-                                        rend="superscript">e</hi> siècle marque-t-elle une rupture
+                                        rend="superscript"
+                                    >e</hi> siècle marque-t-elle une rupture
                                     avec le passé vitruvien, en particulier dans la conception de
                                     l’architecture comme pratique de chantier et non plus seulement
                                     comme théorie du projet ?</item>
@@ -451,27 +466,40 @@
                                     notre travail devait faciliter la recherche des filiations (ou
                                     des sources) des différents textes tant en aval qu’en amont,
                                     sachant que les manuscrits ont été soit précédés par une
-                                    publication (<hi rend="italic">Les Édifices antiques de
+                                    publication (<hi
+                                        rend="italic"
+                                        >Les Édifices antiques de
                                         Rome</hi>), soit commentés par des publications posthumes
-                                        (<hi rend="italic">Loix </hi>et <hi rend="italic"
-                                    >Toisé</hi>). D’ailleurs, cette perspective devait nous
+                                        (<hi
+                                        rend="italic">Loix </hi>et <hi rend="italic"
+                                        >Toisé</hi>). D’ailleurs, cette perspective devait nous
                                     permettre de résoudre certaines imprécisions laissées par les
                                     continuateurs de Desgodets. Qui doit-on croire, Quatremère de
-                                        Quincy<ref type="note" target="#editionResearchN0008"/> ou
-                                        Morisot<ref type="note" target="#editionResearchN0009"/>
-                                    lorsqu’ils prétendent respectivement que le <hi rend="italic"
+                                        Quincy<ref
+                                        type="note" target="#editionResearchN0008"
+                                        /> ou
+                                        Morisot<ref
+                                        type="note" target="#editionResearchN0009"
+                                        />
+                                    lorsqu’ils prétendent respectivement que le <hi
+                                        rend="italic"
                                         >Traité du toisé</hi> de Desgodets a été publié par Ginet ou
                                     par Delespée ? De même que nous apprennent les textes
                                     préparatoires du cours que nous avons retrouvés pour les <hi
-                                        rend="italic">Loix</hi> ? La circulation des manuscrits de
+                                        rend="italic"
+                                        >Loix</hi> ? La circulation des manuscrits de
                                     Desgodets est riche en elle-même pour traduire leurs usages. A
                                     noter, par exemple, la confidence de P.-A. Pâris à A.-J.
                                     Guénepin à propos du complément que celui-ci a apporté aux <hi
-                                        rend="italic">Édifices </hi>et du don d’un cours de
+                                        rend="italic"
+                                        >Édifices </hi>et du don d’un cours de
                                     Desgodets par ledit Guénepin à son confrère londonien Donaldson
                                     ou la note manuscrite en tête des manuscrits des <hi
-                                        rend="italic">Loix</hi> qui pose une énigme sur leur
-                                    possession par un auteur d’une <hi rend="italic">Histoire de
+                                        rend="italic"
+                                        >Loix</hi> qui pose une énigme sur leur
+                                    possession par un auteur d’une <hi
+                                        rend="italic"
+                                        >Histoire de
                                         l’Académie</hi> avant d’intégrer les collections du Sénat.
                                     Le même travail de comparaison devait être opéré avec les
                                     planches de dessins ou de figures pour vérifier leur constance
@@ -486,17 +514,23 @@
                                     architectes un moyen de légitimer leur profession sans statut en
                                     grignotant le pouvoir des entrepreneurs maçons qui détenaient
                                     depuis le Moyen Âge le monopole de l’industrie du bâtiment, <hi
-                                        rend="italic">via</hi> en particulier l’exercice de
+                                        rend="italic"
+                                    >via</hi> en particulier l’exercice de
                                     l’expertise.</item>
                                 <item><label>3°</label> Cette collecte d’informations, aussi bien de
                                     textes que de sources, devait nous autoriser à reconsidérer le
                                     statut de la science architecturale au tournant des XVII<hi
                                         rend="superscript">e</hi> et XVIII<hi rend="superscript"
                                         >e</hi> siècles tant dans ses fondements théoriques
-                                    traditionnels (<hi rend="italic">ratiocinatio</hi>) que dans
-                                    ceux pratiques du chantier (<hi rend="italic">fabrica</hi>). De
-                                    ce point de vue, le <hi rend="italic">Toisé </hi>comme les <hi
-                                        rend="italic">Loix,</hi> devaient être analysés comme des
+                                    traditionnels (<hi
+                                        rend="italic"
+                                        >ratiocinatio</hi>) que dans
+                                    ceux pratiques du chantier (<hi
+                                        rend="italic"
+                                        >fabrica</hi>). De
+                                    ce point de vue, le <hi
+                                        rend="italic">Toisé </hi>comme les <hi rend="italic"
+                                        >Loix,</hi> devaient être analysés comme des
                                     techniques de construction au cours de l’élévation du bâtiment
                                     mais également comme des techniques finales au service de
                                     l’expertise et de sa pratique post-œuvre. Telle était notre
@@ -521,7 +555,9 @@
                         <p>Finalement, cette construction d’un savoir archétypal pour l’architecte
                             se devait d’être replacée dans le contexte particulier de la
                             normalisation des savoirs. Nous avons démontré qu’en cette fin du
-                                XVII<hi rend="superscript">e</hi> siècle, l’art de bâtir prend des
+                                XVII<hi
+                                rend="superscript"
+                                >e</hi> siècle, l’art de bâtir prend des
                             formes de plus en plus réglées et s’inscrit par divers procédés
                             juridiques dans le droit français : tantôt dans une multiplication de
                             règlements techniques issus du contentieux professionnel, qu’il s’agisse
@@ -532,9 +568,10 @@
                             juridique des règles techniques se retrouve pour l’essentiel dans
                             l’enseignement de Desgodets et que ce dernier participe à sa manière,
                             dans l’écriture et la dictée de ses cours d’architecture, de cette
-                            aventure de la « réduction en art » des techniques<ref type="note"
-                                target="#editionResearchN0010"/> qui se développe dès le XVI<hi
-                                rend="superscript">e</hi> siècle. Ainsi, sa participation
+                            aventure de la « réduction en art » des techniques<ref
+                                type="note" target="#editionResearchN0010"
+                                /> qui se développe dès le XVI<hi rend="superscript"
+                            >e</hi> siècle. Ainsi, sa participation
                             essentielle à la glose de la coutume de Paris nous permettrait de
                             réfléchir à la sédimentation du droit, bref à la construction d’une des
                             sources du droit les plus emblématiques.</p>
@@ -542,7 +579,9 @@
                         <list type="unordered">
                             <item>L’établissement de la matrice des cours d’Antoine Desgodets</item>
                             <item>L’édition numérique et critique desdits cours. Mise à la
-                                disposition en <hi rend="italic">open office</hi> de ces
+                                disposition en <hi
+                                    rend="italic"
+                                >open office</hi> de ces
                                 données.</item>
                             <item>Une réflexion sur la naissance des disciplines à travers les
                                 fluctuations de leurs savoirs.</item>
