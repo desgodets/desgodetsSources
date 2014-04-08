@@ -105,7 +105,9 @@
                <p>Les images numériques des manuscrits sont mises à disposition par les institutions partenaires mais restent leur propriété exclusive. Celles-ci en autorisent la reproduction et la réutilisation selon leurs propres règles en vigueur. Toute diffusion de ces images, sous quelque forme et sur quelque support que ce soit (papier, audiovisuel, ou numérique), pour quelque finalité que ce soit (pédagogique, scientifique ou commercial), doit faire l’objet d’une demande d’autorisation préalable auprès de l’institution concernée.</p>
             </availability>
             <availability status="restricted" xml:id="c2TextLicence">
-               <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr">Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
+               <licence
+                  target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
+                     >Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
                   <lb/>Cette licence est disponible en ligne : <ref
                      target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
                      >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</licence>
@@ -5760,7 +5762,7 @@
                            >e</hi></num>
                      <lb/>Description des <term type="gT"
                         ref="#egliseParoissiale"
-                              ><choice><orig>églizes</orig><expan>églises</expan></choice>
+                              ><choice><orig>églizes</orig><expan>églises</expan></choice> 
                         <lb/>paroissiales</term></head>
                   <div xml:id="c2BodyFr01.03.001" type="section" n="1">
                      <p xml:id="c2BodyFr01.03.001.p001">

@@ -174,8 +174,7 @@
                   <msItemStruct>
                      <author>
                         <persName xml:lang="fre" full="yes" ref="#desgodets"
-                           >Desgodets,
-                           Antoine (1653-1728)</persName>
+                           >Desgodets, Antoine (1653-1728)</persName>
                      </author>
                      <title type="supplied"
                         >Commentaire sur les titres de la coutume de
@@ -197,8 +196,8 @@
                   <objectDesc form="codex">
                      <supportDesc material="paper">
                         <support>
-                           <p>
-                              <objectType>codex</objectType>.</p>
+                           <objectType>codex</objectType>
+                           <material>papier à la cuve</material>
                         </support>
                         <extent>
                            <dimensions type="leaves">
@@ -224,10 +223,10 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote xml:id="s2Hand1" scope="major"
+                     <handNote xml:id="s1Hand1" scope="major"
                         >à l'encre
                         noire</handNote>
-                     <handNote xml:id="s2Hand2" scope="minor"
+                     <handNote xml:id="s1Hand2" scope="minor"
                         >ajouts à l'encre
                         noire peut-être d'une autre main</handNote>
                   </handDesc>
@@ -410,24 +409,31 @@
                <pb xml:id="s1Fol1v" n="a1v"/>
                <!-- verso de la page de garde -->
                <p>[Note de possession]</p>
-               <p>Ce précieux manuscrit vient directement de <persName ref="#desgodets">S<hi rend="superscript">r</hi> Desgodets</hi></persName> architecte du roy membre, de son
+               <p>Ce précieux manuscrit vient directement de <persName ref="#desgodets">S<hi
+                        rend="superscript"
+                     >r</hi> Desgodets</persName> architecte du roy membre, de son
                   académie, il l’avait rédigé et dressé d’après les savantes recherches
-                  et sur les notes de <persName ref="#ferriereClaudeDeLa">S<hi
-                     rend="superscript">r</hi> Claude de la Ferrière</persName>
+                  et sur les notes de <persName
+                     ref="#ferriereClaudeDeLa">S<hi rend="superscript"
+                     >r</hi> Claude de la Ferrière</persName>
                   <ref type="noteHistorical" target="#s1Nh0001"
                      /> célèbre docteur en droit des mains de <persName ref="#desgodets">S<hi
-                     rend="superscript">r</hi> Desgodets</persName>. Ce manuscrit passa
-                  dans celles de <persName ref="#goupy">S<hi
-                     rend="superscript">r</hi> Goupil</persName> architecte expert. Il y a plusieurs notes émargées qui sont de lui. À
+                        rend="superscript"
+                     >r</hi> Desgodets</persName>. Ce manuscrit passa
+                  dans celles de <persName
+                     ref="#goupy">S<hi rend="superscript"
+                     >r</hi> Goupil</persName> architecte expert. Il y a plusieurs notes émargées qui sont de lui. À
                   son décès ce même manuscrit passa entre les mains de S<hi
                      rend="superscript">r</hi>
-                  <persName ref="#desmaisonsPierre">Pierre Desmaisons</persName>, architecte
+                  <persName ref="#desmaisonsPierre"
+                     >Pierre Desmaisons</persName>, architecte
                   du roy et de son académie, mais avant il était architecte expert.
                   C’est [rature] de la bibliothèque de cet architecte que ce manuscrit
                   m’est parvenu. Cet ouvrage n’a jamais été imprimé ; mais dans des
                   questions difficiles quels que fois l’académie d’architecture en
-                  faisait la demande à <persName ref="#desmaisonsPierre">S<hi
-                     rend="superscript">r</hi> Desmaison</persName> pour le consulter ;
+                  faisait la demande à <persName
+                     ref="#desmaisonsPierre">S<hi rend="superscript"
+                     >r</hi> Desmaison</persName> pour le consulter ;
                   voir le 74<hi
                      rend="superscript"
                      >e</hi> chapitre de mon histoire de
