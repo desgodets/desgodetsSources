@@ -188,10 +188,11 @@
                 <docTitle>
                     <titlePart>Présentation du Cours des servitudes</titlePart>
                 </docTitle>
-                <docAuthor>
-                    <persName ref="#RC">Robert Carvais</persName>
+                <docAuthor>Éditeur : 
+                    <persName ref="#RC"
+                        >Robert Carvais</persName>
                 </docAuthor>
-                <docDate>14 avril 2013</docDate>
+                <docDate when="2014-03">mars 2014</docDate>
                 <docEdition>version bêta</docEdition>
             </titlePage>
         </front>
