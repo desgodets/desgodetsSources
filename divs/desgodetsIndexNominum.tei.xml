@@ -344,7 +344,8 @@
                         </person>
                         <person xml:id="barbierFrederic">
                             <persName full="yes">Barbier, Frédéric (1952-....)</persName>
-                            <idno type="autBnf">http://catalogue.bnf.fr/ark:/12148/cb118901611/PUBLIC</idno>
+                            <idno type="autBnf"
+                                >http://catalogue.bnf.fr/ark:/12148/cb118901611/PUBLIC</idno>
                         </person>
                         <person xml:id="kriegelBlandine">
                             <persName full="yes">Kriegel, Blandine (1943-....)</persName>
@@ -598,7 +599,8 @@
                         </person>
                         <person xml:id="garconAnneFrancoise">
                             <persName full="yes">Garçon, Anne-Françoise</persName>
-                            <idno type="autBnf">http://catalogue.bnf.fr/ark:/12148/cb13330331t/PUBLIC</idno>
+                            <idno type="autBnf"
+                                >http://catalogue.bnf.fr/ark:/12148/cb13330331t/PUBLIC</idno>
                             <idno type="ISNI">0000 0000 5960 1418</idno>
                         </person>
                         <person xml:id="ginetNicolas">
@@ -609,7 +611,8 @@
                         </person>
                         <person xml:id="grelonAndre">
                             <persName full="yes">Grelon, André (1945-....)</persName>
-                            <idno type="autBnf">http://catalogue.bnf.fr/ark:/12148/cb12052284c/PUBLIC</idno>
+                            <idno type="autBnf"
+                                >http://catalogue.bnf.fr/ark:/12148/cb12052284c/PUBLIC</idno>
                             <idno type="ISNI">0000 0000 2636 4436</idno>
                         </person>
                         <person xml:id="guenepinAuguste">
@@ -692,7 +695,8 @@
                         </person>
                         <person xml:id="juraticSabine">
                             <persName full="yes">Juratic, sabine</persName>
-                            <idno type="autBnf">http://catalogue.bnf.fr/ark:/12148/cb12175322d/PUBLIC</idno>
+                            <idno type="autBnf"
+                                >http://catalogue.bnf.fr/ark:/12148/cb12175322d/PUBLIC</idno>
                         </person>
                         <person xml:id="keplerJohannes">
                             <persName full="yes">Kepler, Johannes (1571-1630)</persName>
@@ -826,7 +830,8 @@
                         </person>
                         <person xml:id="mellerioAnnick">
                             <persName full="yes">Mellerio, Annick</persName>
-                            <idno type="autBnf">http://catalogue.bnf.fr/ark:/12148/cb15604646t/PUBLIC</idno>
+                            <idno type="autBnf"
+                                >http://catalogue.bnf.fr/ark:/12148/cb15604646t/PUBLIC</idno>
                         </person>
                         <person xml:id="mesangeMathias">
                             <persName full="yes">Mesange, Mathias</persName>

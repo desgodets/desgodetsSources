@@ -870,6 +870,40 @@
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb30990968w/PUBLIC</idno>
                         </biblStruct>
+                        <biblStruct xml:id="chaudon1789b">
+                            <analytic>
+                                <title level="a">Desgodets</title>
+                            </analytic>
+                            <monogr>
+                                <author>
+                                    <persName ref="#chaudonLouis-Mayeul">
+                                        <forename>Louis-Mayeul</forename>
+                                        <surname>Chaudon</surname>
+                                    </persName>
+                                    <persName ref="#grosleyPierre-Jean">
+                                        <forename>Pierre-Jean</forename>
+                                        <surname>Grosley</surname>
+                                    </persName>
+                                    <persName ref="#moysantFrançoi">
+                                        <forename>François</forename>
+                                        <surname>Moysant</surname>
+                                    </persName>
+                                </author>
+                                <title level="m"
+                                    >Nouveau dictionnaire historique ou Histoire abrégée de tous les hommes qui se sont fait un nom par des talens, des vertus, des forfaits, des erreurs, etc. … par une Société de gens de lettres</title>
+                                <edition>7e édition revue, corrigée et considérablement augmentée</edition>
+                                <imprint>
+                                    <date when="1789">1789</date>
+                                    <pubPlace>Caen</pubPlace>
+                                    <publisher>G. Leroy</publisher>
+                                    <biblScope type="vol">3</biblScope>
+                                    <biblScope type="pp">270</biblScope>
+                                </imprint>
+                                <extent>9 vol.</extent>
+                            </monogr>
+                            <idno type="catBnf"
+                                >http://catalogue.bnf.fr/ark:/12148/cb30990968w/PUBLIC</idno>
+                        </biblStruct>
                         <biblStruct xml:id="cordemoy1706">
                             <monogr>
                                 <author>
@@ -1317,7 +1351,7 @@
                                     <date when="1775-12-21"
                                         >jeudi 21 décembre 1775</date>
                                     <pubPlace>Paris</pubPlace>
-                                    <biblScope type="issue">n° 25</biblScope>
+                                    <biblScope type="issue">25</biblScope>
                                 </imprint>
                             </monogr>
                         </biblStruct>
@@ -1714,7 +1748,8 @@
                                     >Opus musivum, een bundel studies aangeboden aan Professor doctor M. D. Ozinga ter gelegenheid van zijn zestigste verjaardag op 10 november 1962</title>
                                 <imprint>
                                     <date>1964</date>
-                                    <publisher>Van Gorcum en C̊</publisher>
+                                    <!--<publisher>Van Gorcum en C̊</publisher>-->
+                                    <publisher>Van Gorcum en C</publisher>
                                     <pubPlace>Assen</pubPlace>
                                     <biblScope type="pp">285-297</biblScope>
                                 </imprint>
@@ -1847,11 +1882,6 @@
                         </biblStruct>
                         <biblStruct xml:id="moniteur1866">
                             <monogr>
-                                <author>
-                                    <persName ref="#de">
-                                        <surname/>
-                                    </persName>
-                                </author>
                                 <title level="j">Le Moniteur des architectes</title>
                                 <imprint>
                                     <date when="1866-04-01">1<hi rend="superscript"
@@ -1928,26 +1958,43 @@
                             <!-- TODO vérifier car pas trouvé d’édition à cette date à la BNF -->
                         </biblStruct>
                         <!-- lettre P -->
-                        <biblStruct xml:id="patault1989">
+                        <biblStruct xml:id="pannier1887">
                             <monogr>
                                 <author>
-                                    <persName ref="#pataultAnneMarie1989">
-                                        <forename>Anne-Marie</forename>
-                                        <surname>Patault</surname>
+                                    <persName ref="#pannier">
+                                        <forename/>
+                                        <surname>Pannier</surname>
                                     </persName>
                                 </author>
                                 <title level="m"
-                                    >Introduction historique au droit des biens</title>
+                                    >Recueil des usages locaux de l’arrondissement de Lisieux et des cantons voisins</title>
                                 <imprint>
-                                    <date when="1989">1989</date>
-                                    <pubPlace>Paris</pubPlace>
-                                    <publisher>PUF, droit fondamental</publisher>
+                                    <date when="1887">1887</date>
+                                    <pubPlace>Lisieux</pubPlace>
+                                    <publisher/>
                                 </imprint>
-                                <extent> 336 p. ; 22 cm</extent>
+                                <extent/>
                             </monogr>
-                            <idno type="isbn">2-13-042662-X</idno>
+                        </biblStruct>
+                        <biblStruct xml:id="pardessus1806">
+                            <monogr>
+                                <author>
+                                    <persName ref="#pardessusJeanMarie">
+                                        <forename>Jean-Marie</forename>
+                                        <surname>Pardessus</surname>
+                                    </persName>
+                                </author>
+                                <title level="m"
+                                    >Traité des servitudes suivant les principes du code civil…</title>
+                                <imprint>
+                                    <date when="1806">1806</date>
+                                    <pubPlace>Paris</pubPlace>
+                                    <publisher>Rondonneau</publisher>
+                                </imprint>
+                                <extent> In-8° , 508 p.</extent>
+                            </monogr>
                             <idno type="catBnf"
-                                >http://catalogue.bnf.fr/ark:/12148/cb350628647/PUBLIC</idno>
+                                >http://catalogue.bnf.fr/ark:/12148/cb310579539/PUBLIC</idno>
                         </biblStruct>
                         <biblStruct xml:id="potain1749">
                             <monogr>
@@ -2045,32 +2092,6 @@
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb313066275/PUBLIC</idno>
                         </biblStruct>
-                        <biblStruct xml:id="societeGensDeLettres">
-                            <analytic>
-                                <title level="a">Desgodets</title>
-                            </analytic>
-                            <monogr>
-                                <author>
-                                    <persName>
-                                        <forename>Louis-Mayeul</forename>
-                                        <surname>Chaudon</surname>
-                                    </persName>
-                                </author>
-                                <title level="m"
-                                    >Nouveau dictionnaire historique ou Histoire abrégée de tous les hommes qui se sont fait un nom par des talens, des vertus, des forfaits, des erreurs, etc. … par une Société de gens de lettres</title>
-                                <edition>7e édition revue, corrigée et considérablement augmentée</edition>
-                                <imprint>
-                                    <date when="1789">1789</date>
-                                    <pubPlace>Caen</pubPlace>
-                                    <publisher>G. Leroy</publisher>
-                                    <biblScope type="vol">3</biblScope>
-                                    <biblScope type="pp">270</biblScope>
-                                </imprint>
-                                <extent>9 vol.</extent>
-                            </monogr>
-                            <idno type="catBnf"
-                                >http://catalogue.bnf.fr/ark:/12148/cb30990968w/PUBLIC</idno>
-                        </biblStruct>
                         <!-- lettre T -->
                         <!-- lettre U -->
                         <!-- lettre V -->
@@ -2148,11 +2169,9 @@
                             <!-- TODO à reprendre-->
                             <analytic>
                                 <author>
-                                    <persName>
-                                        <persName ref="#armstrongChristopherDrew">
-                                           <forename>Christopher Drew</forename>
-                                           <surname>Armstrong</surname>
-                                        </persName>
+                                    <persName ref="#armstrongChristopherDrew">
+                                        <forename>Christopher Drew</forename>
+                                        <surname>Armstrong</surname>
                                     </persName>
                                 </author>
                                 <title level="a"
@@ -2212,7 +2231,7 @@
                             <monogr>
                                 <title level="m">L’édition des textes anciens : XVI<hi
                                         rend="superscript">e</hi>-XVIII<hi
-                                        rend="superscript">e</hi> siècle </title>
+                                        rend="superscript">e</hi> siècle</title>
                                 <respStmt>
                                     <resp>dir.</resp>
                                     <persName ref="#barbicheBernard">
@@ -2351,30 +2370,6 @@
                             <idno type="isbn">2-7076-1007-0</idno>
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb361994742/PUBLIC</idno>
-                        </biblStruct>
-                        <biblStruct xml:id="baudez2012">
-                            <monogr>
-                                <author>
-                                    <persName ref="#baudezBasile">
-                                        <forename>Basile</forename>
-                                        <surname>Baudez</surname>
-                                    </persName>
-                                </author>
-                                <title level="m"
-                                    >Architecture &amp; tradition académique : au temps des Lumières </title>
-                                <imprint>
-                                    <date when="2012"/>
-                                    <pubPlace>Rennes</pubPlace>
-                                    <publisher>Presses universitaires de Rennes</publisher>
-                                </imprint>
-                                <extent>390 p.-XX p. de pl.</extent>
-                            </monogr>
-                            <series>
-                                <title level="s">Art &amp; société</title>
-                            </series>
-                            <idno type="isbn13">978-2-7535-2122-3</idno>
-                            <idno type="catBnf"
-                                >http://catalogue.bnf.fr/ark:/12148/cb43530809p/PUBLIC</idno>
                         </biblStruct>
                         <biblStruct xml:id="baudez2013">
                             <monogr>
@@ -2528,6 +2523,12 @@
                         </biblStruct>
                         <biblStruct xml:id="carvais2007">
                             <analytic>
+                                <author>
+                                    <persName ref="#RC">
+                                        <forename>Robert</forename>
+                                        <surname>Carvais</surname>
+                                    </persName>
+                                </author>
                                 <title level="a"
                                     >Notices sur « Louis Savot », « Pierre Bullet » et « Antoine Desgodets »</title>
                             </analytic>
@@ -2550,7 +2551,7 @@
                                 <title level="m"
                                         >Dictionnaire historique des juristes français : XII<hi
                                         rend="italic">e</hi>-XX<hi rend="italic"
-                                    >e</hi> siècle </title>
+                                    >e</hi> siècle</title>
                                 <imprint>
                                     <date when="2007"/>
                                     <pubPlace>Paris</pubPlace>
@@ -2563,40 +2564,6 @@
                             <idno type="isbn13">978-2-13-056495-9</idno>
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb41144901d/PUBLIC</idno>
-                        </biblStruct>
-                        <biblStruct xml:id="carvais2007b">
-                            <monogr>
-                                <respStmt>
-                                    <resp>dir.</resp>
-                                    <persName ref="#RC">
-                                        <forename>Robert</forename>
-                                        <surname>Carvais</surname>
-                                    </persName>
-                                    <persName ref="#garricJeanPhilippe">
-                                        <forename>Jean-Philippe</forename>
-                                        <surname>Garric</surname>
-                                    </persName>
-                                    <persName ref="#negreValerie">
-                                        <forename>Valérie</forename>
-                                        <surname>Nègre</surname>
-                                    </persName>
-                                    <persName ref="#thomine-berradaAlice">
-                                        <forename>Alice</forename>
-                                        <surname>Thomine-Berrada</surname>
-                                    </persName>
-                                </respStmt>
-                                <title level="m"
-                                    >La Construction savante. Les avatars de la littérature technique</title>
-                                <imprint>
-                                    <date when="2007">2007</date>
-                                    <pubPlace>Paris</pubPlace>
-                                    <publisher>Picard, CDHTE, INHA</publisher>
-                                </imprint>
-                                <extent>1 vol. (444 p.) : ill. en noir et en coul., couv. ill. ; 24 cm </extent>
-                            </monogr>
-                            <idno type="catBnf"
-                                >http://catalogue.bnf.fr/ark:/12148/cb411977577/PUBLIC</idno>
-                            <idno type="isbn13">978-2-7084-0810-4</idno>
                         </biblStruct>
                         <biblStruct xml:id="carvais2008">
                             <analytic>
@@ -2635,16 +2602,16 @@
                                     </persName>
                                 </editor>
                                 <meeting>
-                                    <title>Les avatars de la littérature technique, formes imprimées des savoirs liés à la construction</title>
+                                    <!-- TOTO Revoir -->
+                                    <title>Actes du colloque Les avatars de la littérature technique, formes imprimées des savoirs liés à la construction</title>
                                     <date from="2005-03-03" to="2005-03-05"
-                                        >3 au 5 mars 2005</date>
-                                    <placeName>Paris</placeName>
+                                        >3 au 5 mars 2005</date>, <placeName>Paris</placeName>
                                 </meeting>
                                 <imprint>
                                     <date>2008</date>
                                     <publisher>Picard</publisher>
                                     <pubPlace>Paris</pubPlace>
-                                    <biblScope type="pp"/>
+                                    <biblScope type="pp">89-102</biblScope>
                                 </imprint>
                                 <extent>444 p.</extent>
                             </monogr>
@@ -2655,7 +2622,7 @@
                         <biblStruct xml:id="carvais2009">
                             <analytic>
                                 <title level="a"
-                                    >« Creating a Legal Field: Building Customs and Norms in Modern French Law »</title>
+                                    >Creating a Legal Field: Building Customs and Norms in Modern French Law</title>
                                 <author>
                                     <persName>
                                         <forename>Robert</forename>
@@ -2699,40 +2666,56 @@
                         </biblStruct>
                         <biblStruct xml:id="carvais2010">
                             <analytic>
-                                <respStmt>
-                                    <resp>dir.</resp>
+                                <author>
                                     <persName ref="#RC">
                                         <forename>Robert</forename>
                                         <surname>Carvais</surname>
                                     </persName>
-                                </respStmt>
+                                </author>
                                 <title level="a"
                                     >Un traité des servitudes chez les architectes</title>
                             </analytic>
                             <monogr>
                                 <title level="m"
-                                    >Journée d’études organisée par le projet « Desgodets » sélectionné par l’Agence nationale de la recherche (ANR) dans le cadre du programme « Corpus et outils de la recherche en sciences humaines et sociales » et l’Institut national d’histoire de l’art (INHA), 31 mars 2010 (à paraître).</title>
+                                    >Journée d’études organisée par le projet « Desgodets » sélectionné par l’Agence nationale de la recherche (ANR) dans le cadre du programme « Corpus et outils de la recherche en sciences humaines et sociales » et l’Institut national d’histoire de l’art (INHA), 31 mars 2010</title>
                                 <imprint>
                                     <date when="2010">2010</date>
-                                    <pubPlace>à paraître</pubPlace>
-                                    <publisher/>
+                                    <pubPlace>inédit</pubPlace>
                                 </imprint>
                                 <extent/>
                             </monogr>
                         </biblStruct>
                         <biblStruct xml:id="carvais2011">
                             <analytic>
-                                <respStmt>
-                                    <resp>dir.</resp>
+                                <author>
                                     <persName ref="#RC">
                                         <forename>Robert</forename>
                                         <surname>Carvais</surname>
                                     </persName>
-                                </respStmt>
+                                </author>
                                 <title level="a"
-                                    >Comment traduire les Loix des Bâtiments après l’avènement du Code civil ? </title>
+                                    >Comment traduire les Loix des Bâtiments après l’avènement du Code civil ?</title>
                             </analytic>
                             <monogr>
+                                <respStmt>
+                                    <resp>director</resp>
+                                    <persName ref="#RC">
+                                        <forename>Robert</forename>
+                                        <surname>Carvais</surname>
+                                    </persName>
+                                    <persName ref="#negreValerie">
+                                        <forename>Valérie</forename>
+                                        <surname>Nègre</surname>
+                                    </persName>
+                                    <persName ref="#JH">
+                                        <forename>Juliette</forename>
+                                        <surname>Hernu</surname>
+                                    </persName>
+                                    <persName>
+                                        <forename>Jean-Baptiste</forename>
+                                        <surname>Cluzel</surname>
+                                    </persName>
+                                </respStmt>
                                 <title level="m">Traduire l’architecture</title>
                                 <imprint>
                                     <date when="2015">2015</date>
@@ -2770,6 +2753,8 @@
                                     <date when="2012">2012</date>
                                     <pubPlace>Paris</pubPlace>
                                     <publisher>Picard</publisher>
+                                    <biblScope type="vol">I</biblScope>
+                                    <biblScope type="pp">475-487</biblScope>
                                 </imprint>
                                 <extent>3 vol. (XIV-690, VI-664, VI-728 p.) : ill., couv. ill. ; 24 cm</extent>
                             </monogr>
@@ -2832,7 +2817,7 @@
                                         <surname>Carvais</surname>
                                     </persName>
                                     <persName ref="#hamonEtienne">
-                                        <forename>Etienne</forename>
+                                        <forename>Étienne</forename>
                                         <surname>Hamon</surname>
                                     </persName>
                                 </author>
@@ -2873,6 +2858,13 @@
                                         <forename>Robert</forename>
                                         <surname>Carvais</surname>
                                     </persName>
+                                </author>
+                                <title level="a"
+                                    >La coutume de Paris, épitomé du droit français sous l’Ancien Régime ? L’exemple des servitudes</title>
+                            </analytic>
+                            <monogr>
+                                <respStmt>
+                                    <resp>director</resp>
                                     <persName ref="#belleguicThierry">
                                         <forename>Thierry</forename>
                                         <surname>Belleguic</surname>
@@ -2881,11 +2873,7 @@
                                         <forename>Laurent</forename>
                                         <surname>Turcot</surname>
                                     </persName>
-                                </author>
-                                <title level="a"
-                                    >La coutume de Paris, épitomé du droit français sous l’Ancien Régime ? L’exemple des servitudes</title>
-                            </analytic>
-                            <monogr>
+                                </respStmt>
                                 <title level="m">Les histoires de Paris (XVI<hi
                                         rend="superscript">e</hi>-XVIII<hi
                                         rend="superscript">e</hi> siècle)</title>
@@ -2893,6 +2881,7 @@
                                     <date when="2012">2012</date>
                                     <pubPlace>Paris</pubPlace>
                                     <publisher>Hermann</publisher>
+                                    <biblScope type="vol">I</biblScope>
                                     <biblScope type="pp">333-358</biblScope>
                                 </imprint>
                                 <extent>2 vol. (470, 563 p.) : ill. en noir et en coul., cartes, plans, couv. ill. en coul. ; 24 cm</extent>
@@ -2903,6 +2892,12 @@
                         </biblStruct>
                         <biblStruct xml:id="carvais2014a">
                             <analytic>
+                                <author>
+                                    <persName ref="#RC">
+                                        <forename>Robert</forename>
+                                        <surname>Carvais</surname>
+                                    </persName>
+                                </author>
                                 <title level="a">Savot, précusseur de Desgodets</title>
                             </analytic>
                             <monogr>
@@ -2940,8 +2935,6 @@
                                         <forename>Louis</forename>
                                         <surname>Cellauro</surname>
                                     </persName>
-                                </author>
-                                <author>
                                     <persName>
                                         <forename>Gibert</forename>
                                         <surname>Richaud</surname>
@@ -3123,10 +3116,8 @@
                         <biblStruct xml:id="credimi2003">
                             <monogr>
                                 <author>
-                                    <persName ref="#credimi">
-                                        <forename/>
-                                        <surname/>
-                                    </persName>
+                                    <orgName ref="#credimi"
+                                        >Centre de recherche et d'études de droit immobilier (CREDIMI)</orgName>
                                 </author>
                                 <title level="m">Dictionnaire des servitudes</title>
                                 <imprint>
@@ -3277,27 +3268,6 @@
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb36259931h/PUBLIC</idno>
                         </biblStruct>
-                        <biblStruct xml:id="picon1988">
-                            <monogr>
-                                <author>
-                                    <persName ref="#piconAntoine">
-                                        <forename>Antoine</forename>
-                                        <surname>Picon</surname>
-                                    </persName>
-                                </author>
-                                <title level="m"
-                                    >Architectes et ingénieurs au siècle des Lumières</title>
-                                <imprint>
-                                    <date when="1988">1988</date>
-                                    <pubPlace>Marseille</pubPlace>
-                                    <publisher>Parenthèses</publisher>
-                                </imprint>
-                                <extent>317 p. : ill., couv. ill. en coul. ; 30 cm</extent>
-                            </monogr>
-                            <idno type="isbn">2-86364-049-6</idno>
-                            <idno type="catBnf"
-                                >http://catalogue.bnf.fr/ark:/12148/cb34957768r/PUBLIC</idno>
-                        </biblStruct>
                         <!-- lettre F -->
                         <biblStruct xml:id="falcone2001">
                             <analytic>
@@ -3327,7 +3297,7 @@
                             <monogr>
                                 <author>
                                     <persName ref="#faureOlivier">
-                                        <forename>olivier</forename>
+                                        <forename>Olivier</forename>
                                         <surname>Faure</surname>
                                     </persName>
                                 </author>
@@ -3409,10 +3379,13 @@
                         <!-- lettre G -->
                         <biblStruct xml:id="gady2010">
                             <monogr>
-                                <editor ref="#gadyAlexandre">
-                                    <forename>Alexandre</forename>
-                                    <persName>Gady</persName>
-                                </editor>
+                                <respStmt>
+                                    <resp>director</resp>
+                                    <persName ref="#gadyAlexandre">
+                                        <forename>Alexandre</forename>
+                                        <surname>Gady</surname>
+                                    </persName>
+                                </respStmt>
                                 <title level="m"
                                     >Jules Hardouin-Mansart. 1646-1708</title>
                                 <imprint>
@@ -3582,6 +3555,36 @@
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb424971813/PUBLIC</idno>
                         </biblStruct>
+                        <biblStruct xml:id="garric2007">
+                            <monogr>
+                                <respStmt>
+                                    <resp>dir.</resp>
+                                    <persName ref="#garricJeanPhilippe">
+                                        <forename>Jean-Philippe</forename>
+                                        <surname>Garric</surname>
+                                    </persName>
+                                    <persName ref="#negreValerie">
+                                        <forename>Valérie</forename>
+                                        <surname>Nègre</surname>
+                                    </persName>
+                                    <persName ref="#thomine-berradaAlice">
+                                        <forename>Alice</forename>
+                                        <surname>Thomine-Berrada</surname>
+                                    </persName>
+                                </respStmt>
+                                <title level="m"
+                                    >La Construction savante. Les avatars de la littérature technique</title>
+                                <imprint>
+                                    <date when="2007">2007</date>
+                                    <pubPlace>Paris</pubPlace>
+                                    <publisher>Picard, CDHTE, INHA</publisher>
+                                </imprint>
+                                <extent>1 vol. (444 p.) : ill. en noir et en coul., couv. ill. ; 24 cm </extent>
+                            </monogr>
+                            <idno type="catBnf"
+                                >http://catalogue.bnf.fr/ark:/12148/cb411977577/PUBLIC</idno>
+                            <idno type="isbn13">978-2-7084-0810-4</idno>
+                        </biblStruct>
                         <biblStruct xml:id="germann1992">
                             <monogr>
                                 <author>
@@ -3664,7 +3667,7 @@
                                 <imprint>
                                     <date when="1996">1996</date>
                                     <pubPlace>New York</pubPlace>
-                                    <publisher/>
+                                    <publisher>Grove</publisher>
                                     <biblScope type="vol">8</biblScope>
                                     <biblScope type="pp">793-794</biblScope>
                                 </imprint>
@@ -3834,7 +3837,7 @@
                                         <surname>Sakarovitch</surname>
                                     </persName>
                                 </respStmt>
-                                <meeting>Actes du congrès international d’histoire de la construction. Paris, 2012.</meeting>
+                                <meeting>Actes du congrès international d’histoire de la construction, Paris, 2012</meeting>
                                 <title level="m"
                                     >Nuts &amp; bolts of construction history : culture, technology and society</title>
                                 <imprint>
@@ -3869,11 +3872,6 @@
                                         <forename>Robert</forename>
                                         <surname>Carvais</surname>
                                     </persName>
-                                    <persName>
-                                        <forename>Jean-Sébastien</forename>
-                                        <surname>Cluzel</surname>
-                                        <!-- TODO entrer dans l’indexNominum -->
-                                    </persName>
                                     <persName ref="JH">
                                         <forename>Juliette</forename>
                                         <surname>Hernu-Bélaud</surname>
@@ -3882,13 +3880,17 @@
                                         <forename>Valérie</forename>
                                         <surname>Nègre</surname>
                                     </persName>
+                                    <persName>
+                                        <forename>Jean-Sébastien</forename>
+                                        <surname>Cluzel</surname>
+                                        <!-- TODO entrer dans l’indexNominum -->
+                                    </persName>
                                 </editor>
                                 <imprint>
-                                    <date when="2013">2013 (à paraître)</date>
+                                    <date when="2014">2014 (à paraître)</date>
                                     <pubPlace>Paris</pubPlace>
                                     <publisher>Picard</publisher>
                                     <!-- TODO vérifier -->
-                                    <biblScope/>
                                 </imprint>
                             </monogr>
                             <!--<idno></idno>-->
@@ -4070,7 +4072,8 @@
                                     <date when="2009">2009</date>
                                     <pubPlace>Paris</pubPlace>
                                     <publisher>Flammarion</publisher>
-                                    <biblScope type="vol">164 2009/6</biblScope>
+                                    <biblScope type="vol">164</biblScope>
+                                    <biblScope type="issue">6</biblScope>
                                     <biblScope type="pp">80-82</biblScope>
                                 </imprint>
                             </monogr>
@@ -4095,7 +4098,8 @@
                                     <date when="2010">2010</date>
                                     <pubPlace>Paris</pubPlace>
                                     <publisher>Flammarion</publisher>
-                                    <biblScope type="vol">170 2010/4</biblScope>
+                                    <biblScope type="vol">170</biblScope>
+                                    <biblScope type="issue">4</biblScope>
                                     <biblScope type="pp">31-39</biblScope>
                                 </imprint>
                             </monogr>
@@ -4296,7 +4300,7 @@
                                     >Journée d’études organisée par le projet « Desgodets » sélectionné par l’Agence nationale de la recherche (ANR) dans le cadre du programme « Corpus et outils de la recherche en sciences humaines et sociales » et l’Institut national d’histoire de l’art (INHA), 31 mars 2010 </title>
                                 <imprint>
                                     <date when="2010">2010</date>
-                                    <!-- TODO compléter -->
+                                    <pubPlace>inédit</pubPlace>
                                 </imprint>
                             </monogr>
                         </biblStruct>
@@ -4319,7 +4323,7 @@
                             </analytic>
                             <monogr>
                                 <title level="m"
-                                    > The French academy : classicism and its antagonists</title>
+                                    >The French academy : classicism and its antagonists</title>
                                 <imprint>
                                     <date when="1990">June 1990</date>
                                     <biblScope type="pp">68-77</biblScope>
@@ -4348,7 +4352,7 @@
                                     >La Mesure : espaces, hommes et techniques, CNRS/Paris I-Sorbonne, Cahiers de métrologie</title>
                                 <imprint>
                                     <pubPlace>Caen / Paris</pubPlace>
-                                    <publisher> Institut d’histoire moderne et contemporaine</publisher>
+                                    <publisher>Institut d’histoire moderne et contemporaine</publisher>
                                     <date from="2006" to="2007">2006-2007</date>
                                     <biblScope type="issue">24-25</biblScope>
                                     <biblScope type="pp">69-83</biblScope>
@@ -4367,7 +4371,7 @@
                                     </persName>
                                 </author>
                                 <title level="a"
-                                    >Le relevé de la ligne en architecture et l’idée de classicisme grec </title>
+                                    >Le relevé de la ligne en architecture et l’idée de classicisme grec</title>
                             </analytic>
                             <monogr>
                                 <title level="j">Journal des Savants</title>
@@ -4386,7 +4390,7 @@
                                     </persName>
                                 </author>
                                 <title level="a"
-                                    >La mesure du temps dans les relevés de l’architecture antique </title>
+                                    >La mesure du temps dans les relevés de l’architecture antique</title>
                             </analytic>
                             <monogr>
                                 <title level="m"
@@ -4412,7 +4416,7 @@
                                     </persName>
                                 </author>
                                 <title level="a"
-                                    >Le paradoxe de l’exactitude et de la subjectivité dans les relevés d’architecture et les restitutions archéologiques </title>
+                                    >Le paradoxe de l’exactitude et de la subjectivité dans les relevés d’architecture et les restitutions archéologiques</title>
                             </analytic>
                             <monogr>
                                 <title level="j"
@@ -4504,44 +4508,6 @@
                         </biblStruct>
                         <!-- lettre O -->
                         <!-- lettre P -->
-                        <biblStruct xml:id="pannier1887">
-                            <monogr>
-                                <author>
-                                    <persName ref="#pannier">
-                                        <forename/>
-                                        <surname>Pannier</surname>
-                                    </persName>
-                                </author>
-                                <title level="m"
-                                    >Recueil des usages locaux de l’arrondissement de Lisieux et des cantons voisins</title>
-                                <imprint>
-                                    <date when="1887">1887</date>
-                                    <pubPlace>Lisieux</pubPlace>
-                                    <publisher/>
-                                </imprint>
-                                <extent/>
-                            </monogr>
-                        </biblStruct>
-                        <biblStruct xml:id="pardessus1806">
-                            <monogr>
-                                <author>
-                                    <persName ref="#pardessusJeanMarie">
-                                        <forename>Jean-Marie</forename>
-                                        <surname>Pardessus</surname>
-                                    </persName>
-                                </author>
-                                <title level="m"
-                                    >Traité des servitudes suivant les principes du code civil…</title>
-                                <imprint>
-                                    <date when="1806">1806</date>
-                                    <pubPlace>Paris</pubPlace>
-                                    <publisher>Rondonneau</publisher>
-                                </imprint>
-                                <extent> In-8° , 508 p.</extent>
-                            </monogr>
-                            <idno type="catBnf"
-                                >http://catalogue.bnf.fr/ark:/12148/cb310579539/PUBLIC</idno>
-                        </biblStruct>
                         <biblStruct xml:id="pasquali1992">
                             <analytic>
                                 <title level="a"
@@ -4591,6 +4557,27 @@
                                     <biblScope type="pp">159-166</biblScope>
                                 </imprint>
                             </monogr>
+                        </biblStruct>
+                        <biblStruct xml:id="patault1989">
+                            <monogr>
+                                <author>
+                                    <persName ref="#pataultAnneMarie1989">
+                                        <forename>Anne-Marie</forename>
+                                        <surname>Patault</surname>
+                                    </persName>
+                                </author>
+                                <title level="m"
+                                    >Introduction historique au droit des biens</title>
+                                <imprint>
+                                    <date when="1989">1989</date>
+                                    <pubPlace>Paris</pubPlace>
+                                    <publisher>PUF, droit fondamental</publisher>
+                                </imprint>
+                                <extent> 336 p. ; 22 cm</extent>
+                            </monogr>
+                            <idno type="isbn">2-13-042662-X</idno>
+                            <idno type="catBnf"
+                                >http://catalogue.bnf.fr/ark:/12148/cb350628647/PUBLIC</idno>
                         </biblStruct>
                         <biblStruct xml:id="pelpel1980">
                             <monogr>
@@ -4725,6 +4712,27 @@
                             <idno type="catBnf"
                                 >http://catalogue.bnf.fr/ark:/12148/cb36635044p/PUBLIC</idno>
                         </biblStruct>
+                        <biblStruct xml:id="picon1988">
+                            <monogr>
+                                <author>
+                                    <persName ref="#piconAntoine">
+                                        <forename>Antoine</forename>
+                                        <surname>Picon</surname>
+                                    </persName>
+                                </author>
+                                <title level="m"
+                                    >Architectes et ingénieurs au siècle des Lumières</title>
+                                <imprint>
+                                    <date when="1988">1988</date>
+                                    <pubPlace>Marseille</pubPlace>
+                                    <publisher>Parenthèses</publisher>
+                                </imprint>
+                                <extent>317 p. : ill., couv. ill. en coul. ; 30 cm</extent>
+                            </monogr>
+                            <idno type="isbn">2-86364-049-6</idno>
+                            <idno type="catBnf"
+                                >http://catalogue.bnf.fr/ark:/12148/cb34957768r/PUBLIC</idno>
+                        </biblStruct>
                         <biblStruct xml:id="pinon1990">
                             <analytic>
                                 <author>
@@ -4749,11 +4757,9 @@
                         <biblStruct xml:id="pinon1993">
                             <analytic>
                                 <author>
-                                    <persName>
-                                        <persName ref="#pinonPierre">
-                                           <forename>Pierre</forename>
-                                           <surname>Pinon</surname>
-                                        </persName>
+                                    <persName ref="#pinonPierre">
+                                        <forename>Pierre</forename>
+                                        <surname>Pinon</surname>
                                     </persName>
                                 </author>
                                 <title level="a"
@@ -4920,7 +4926,7 @@
                                 <title level="m"
                                     >Journée d’études organisée par le projet « Desgodets » sélectionné par l’Agence nationale de la recherche (ANR) dans le cadre du programme « Corpus et outils de la recherche en sciences humaines et sociales » et l’Institut national d’histoire de l’art (INHA), 31 mars 2010 </title>
                                 <imprint>
-                                    <date>indédit</date>
+                                    <date>inédit</date>
                                     <!-- TODO préciser -->
                                 </imprint>
                             </monogr>
@@ -5170,7 +5176,7 @@
                                 <title level="m"
                                     >Journée d’études organisée par le projet « Desgodets » sélectionné par l’Agence nationale de la recherche (ANR) dans le cadre du programme « Corpus et outils de la recherche en sciences humaines et sociales » et l’Institut national d’histoire de l’art (INHA), 31 mars 2010 </title>
                                 <imprint>
-                                    <date>indédit</date>
+                                    <date>inédit</date>
                                 </imprint>
                             </monogr>
                         </biblStruct>
@@ -5576,48 +5582,11 @@
                         <!-- lettre Y -->
                         <!-- lettre Z -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                         <biblStruct xml:id="tt2007">
                             <monogr>
                                 <author>
                                     <persName>
-                                        <forename/>
-                                        <surname/>
+                                        <orgName>Cité de l'architecture et du patrimoine</orgName>
                                         <!-- TODO Compléter -->
                                     </persName>
                                 </author>
