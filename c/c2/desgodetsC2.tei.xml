@@ -17,7 +17,7 @@
          <titleStmt>
             <title xml:lang="fre" type="main">Traité de la commodité</title>
             <title xml:lang="fre" type="sub"
-               >manuscrit C2 (anciennement B2)</title>
+               >manuscrit C2</title>
             <author>
                <persName ref="#desgodets">
                   <forename>Antoine</forename>
@@ -902,8 +902,8 @@
                      >églises</term> et <term type="gT" ref="#chapelle"
                      >chapelles</term>, les <term type="gT" ref="#basilique"
                      >basiliques</term> et autres lieux pour rendre la justice, les <term
-                     type="gT" ref="#hotelDeVille #hotelDeCommerce"
-                     >hôtels de villes et de commerce</term><!-- TODO voir si prend les deux -->, les <term
+                     type="gT" ref="#hotelDeVille"
+                        >hôtels de villes</term> et <term type="gT" ref="# #hotelDeCommerce">de commerce</term><!-- TODO la transformation ne permet pas l'encodage simultané des deux termes -->, les <term
                      type="gT" ref="#palais"
                      >palais</term> des princes et seigneurs, les <term
                      type="gT" ref="maisonParticuliere"
@@ -5762,7 +5762,7 @@
                            >e</hi></num>
                      <lb/>Description des <term type="gT"
                         ref="#egliseParoissiale"
-                              ><choice><orig>églizes</orig><expan>églises</expan></choice> 
+                              ><choice><orig>églizes</orig><expan>églises</expan></choice>
                         <lb/>paroissiales</term></head>
                   <div xml:id="c2BodyFr01.03.001" type="section" n="1">
                      <p xml:id="c2BodyFr01.03.001.p001">
