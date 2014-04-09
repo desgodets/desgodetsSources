@@ -15,7 +15,7 @@
             <titleStmt>
                 <title xml:lang="fre" type="main">Antoine Desgodets</title>
                 <title xml:lang="fre" type="sub">Les Édifices antiques</title>
-                <!-- mention de responsabilité principale (responsable scientifique de l'édition) -->
+                <!-- mention de responsabilité principale (responsable scientifique de l’édition) -->
                 <principal>
                     <persName ref="#RC">
                         <forename>Robert</forename>
@@ -23,18 +23,18 @@
                         <affiliation>
                             <orgName>Centre National de la Recherche Scientifique</orgName>
                             <orgName type="acronym">CNRS</orgName>
-                            <roleName>responsable d'ANR</roleName>
+                            <roleName>responsable d’ANR</roleName>
                         </affiliation>
                     </persName>
                 </principal>
-                <!-- organismes qui ont financé l'opération -->
+                <!-- organismes qui ont financé l’opération -->
                 <funder>
                     <orgName>Agence Nationale de Recherche</orgName>
                     <orgName type="acronym">ANR</orgName>
                     <date from="2008" to="2013">2008-2013</date>
                 </funder>
                 <funder>
-                    <orgName>Association Française d'Histoire de la Construction</orgName>
+                    <orgName>Association Française d’Histoire de la Construction</orgName>
                     <orgName type="acronym">AFHC</orgName>
                     <date when="2013">2013</date>
                 </funder>
@@ -67,9 +67,10 @@
                     </persName>
                 </respStmt>
             </titleStmt>
-            <!-- mention d'édition -->
+            <!-- mention d’édition -->
             <editionStmt>
-                <edition n="bêta">première édition électronique, <date when="2013">2013, version bêta</date>
+                <edition n="bêta">première édition électronique, <date when="2013"
+                        >2013, version bêta</date>
                 </edition>
             </editionStmt>
             <extent><!-- TODO : taille du fichier en octet --></extent>
@@ -80,7 +81,7 @@
                 <idno>variaEdifices</idno>
                 <!-- responsable de la publication -->
                 <publisher>
-                    <orgName>Centre de théorie et d'analyse du droit (UMR 7074)</orgName>
+                    <orgName>Centre de théorie et d’analyse du droit (UMR 7074)</orgName>
                     <orgName type="acronym">CTAD</orgName>
                     <address>
                         <addrLine>Université Paris Ouest-Nanterre La Défense</addrLine>
@@ -97,7 +98,8 @@
                     <p>Les images numériques des manuscrits sont mises à disposition par les institutions partenaires mais restent leur propriété exclusive. Celles-ci en autorisent la reproduction et la réutilisation selon leurs propres règles en vigueur. Toute diffusion de ces images, sous quelque forme et sur quelque support que ce soit (papier, audiovisuel, ou numérique), pour quelque finalité que ce soit (pédagogique, scientifique ou commercial), doit faire l’objet d’une demande d’autorisation préalable auprès de l’institution concernée.</p>
                 </availability>
                 <availability status="restricted" xml:id="variaEdificesTextLicence">
-                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr">Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
+                            >Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
                         <lb/>Cette licence est disponible en ligne : <ref
                             target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
                             >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</licence>
@@ -124,13 +126,13 @@
                     <p>Vous n’êtes pas dans l’obligation de respecter la licence pour les éléments ou matériel appartenant au domaine public ou dans le cas où l’utilisation que vous souhaitez faire est couverte par une exception.</p>
                 </availability>
             </publicationStmt>
-            <!-- ajout d'un élément pour traiter le corpus général et réduire la hiérarchie des titres -->
+            <!-- ajout d’un élément pour traiter le corpus général et réduire la hiérarchie des titres -->
             <seriesStmt>
                 <title xml:lang="fre" type="main">Les cours de Desgodets</title>
                 <title xml:lang="fre" type="sub">une édition électronique</title>
                 <idno type="URI">http://www.desgodets.net</idno>
             </seriesStmt>
-            <!-- ajout d'un élément pour DC.description -->
+            <!-- ajout d’un élément pour DC.description -->
             <!--<notesStmt>
                 <note xml:lang="fre" type="abstract">Texte de description pour DC.description</note>
                 <note xml:lang="eng" type="abstract">Texte de description en anglais pour DC.description</note>
@@ -145,7 +147,7 @@
         <encodingDesc>
             <!-- description du projet éditorial -->
             <projectDesc>
-                <p>L'édition des cours de Desgodets fait partie d'un programme de recherche sur la
+                <p>L’édition des cours de Desgodets fait partie d’un programme de recherche sur la
                     formalisation du savoir architectural au XVII<hi
                         rend="superscript">e</hi>
                     siècle.</p>
@@ -156,11 +158,11 @@
                     <p>On utilise...</p>
                 </stdVals>
                 <quotation>
-                    <p>Les citations dans le texte sont encodées soit au moyen d'un élément quote,
-                        soit au moyen d'un élément...</p>
+                    <p>Les citations dans le texte sont encodées soit au moyen d’un élément quote,
+                        soit au moyen d’un élément...</p>
                 </quotation>
             </editorialDecl>
-            <!-- déclaration concernant la méthode d'établissement du corpus (sélection) -->
+            <!-- déclaration concernant la méthode d’établissement du corpus (sélection) -->
             <refsDecl>
                 <p>Description du système de référence canonique. Plus tard on fournira peut-être
                     une expression régulière.</p>
@@ -241,7 +243,7 @@
         </front>
         <body xml:id="variaEdificesBody">
             <div xml:id="variaEdificesBodyFr" xml:lang="fre">
-                <div xml:id="variaEdificesBodyFr01" type="chapter" n="1">
+                <div xml:id="variaEdificesBodyFr01" type="part" n="1">
                     <head>Découvertes</head>
                     <p>Nous avons par exemple retrouvé à Londres l’exemplaire des <hi rend="italic"
                             >Édifices</hi> annoté de Legrand et
@@ -270,7 +272,7 @@
                         l’histoire à écrire sur la circulation des manuscrits et des
                         estampes.</p>
                 </div>
-                <div xml:id="variaEdificesBodyFr02" type="chapter" n="2">
+                <div xml:id="variaEdificesBodyFr02" type="part" n="2">
                     <head>La fortune des Édifices antiques de Rome (1682) dans l’Europe
                         du XVIII<hi
                             rend="superscript">e</hi> et du XIX<hi rend="superscript"
@@ -533,7 +535,7 @@
                         Poggioli en 1822, avec sa traduction augmentée et corrigée par
                         l’architecte néoclassique Giuseppe Valadier (1762-1839) : <hi
                             rend="italic"
-                            >Aggiunte et correzioni all' opera sugli
+                            >Aggiunte et correzioni all’ opera sugli
                             edifizi antichi di Roma</hi>, imprimée à Rome en 1843<ref
                             type="note" target="#variaEdificesN0013"/>. </p>
                 </div>
@@ -577,46 +579,18 @@
                         <graphic n="full" url="../../images/full/desgodetsEdifices0001.jpg"
                             mimeType="image/jpeg"/>
                     </figure>
-                    <figure xml:id="variaEdificesIll0003" type="illustration">
-                        <figDesc>
-                            <title>Dédicace</title>
-                            <desc>Antoine Desgodets, <hi rend="italic"
-                                    >Les
-                                    édifices antiques</hi>, p. 9</desc>
-                        </figDesc>
-                        <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0257.jpg"
-                            mimeType="image/jpeg"/>
-                        <graphic n="medium" url="../../images/medium/desgodetsEdifices0257.jpg"
-                            mimeType="image/jpeg"/>
-                        <graphic n="full" url="../../images/full/desgodetsEdifices0257.jpg"
-                            mimeType="image/jpeg"/>
-                    </figure>
-                    <figure xml:id="variaEdificesIll0004" type="illustration">
+                    <figure xml:id="variaEdificesIll0002" type="illustration">
                         <figDesc>
                             <title>Élévation antérieure du panthéon</title>
                             <desc>Antoine Desgodets, <hi rend="italic"
                                     >Les
                                     édifices antiques</hi>, p. 30</desc>
                         </figDesc>
-                        <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0001.jpg"
+                        <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0257.jpg"
                             mimeType="image/jpeg"/>
-                        <graphic n="medium" url="../../images/medium/desgodetsEdifices0001.jpg"
+                        <graphic n="medium" url="../../images/medium/desgodetsEdifices0257.jpg"
                             mimeType="image/jpeg"/>
-                        <graphic n="full" url="../../images/full/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg"/>
-                    </figure>
-                    <figure xml:id="variaEdificesIll0033" type="illustration">
-                        <figDesc>
-                            <title>Élévation latérale du panthéon</title>
-                            <desc>Antoine Desgodets, <hi rend="italic"
-                                    >Les
-                                    édifices antiques</hi>, p. 33</desc>
-                        </figDesc>
-                        <graphic n="thumb" url="../../images/thumbs/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg"/>
-                        <graphic n="medium" url="../../images/medium/desgodetsEdifices0001.jpg"
-                            mimeType="image/jpeg"/>
-                        <graphic n="full" url="../../images/full/desgodetsEdifices0001.jpg"
+                        <graphic n="full" url="../../images/full/desgodetsEdifices0257.jpg"
                             mimeType="image/jpeg"/>
                     </figure>
                 </div>

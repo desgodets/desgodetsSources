@@ -5,13 +5,15 @@
 <!-- RMQ : fichier inclus pour faciliter le travail d'édition -->
 <!-- RMQ : identifiants composés de l'identifiant dans le corpus, suivi de N, suivi d'un numéro d'ordre à quatre unités -->
 
-<div xml:id="variaAcademieBackFr01" xmlns="http://www.tei-c.org/ns/1.0"
-    xml:lang="fre" type="notes">
+<div xml:id="variaAcademieBackFr01" xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre"
+    type="notes">
     <head>Notes</head>
     <note xml:id="variaAcademieN0010">
         <p> Cette liste a été établie par
             Hélène Rousteau-Chambon dans le Mémoire inédit de son
-            HDR sur <hi rend="italic">l’Enseignement à l’Académie
+            HDR sur <hi
+                rend="italic"
+                >l’Enseignement à l’Académie
                 royale d’architecture. De Philippe de la Hire à
                 Louis-Adam Loriot</hi>, Paris Est, 2011, p.
             315-323.</p>
