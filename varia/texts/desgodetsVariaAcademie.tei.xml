@@ -204,7 +204,7 @@
                 <docTitle>
                     <titlePart>Desgodets et l’Académie</titlePart>
                 </docTitle>
-                <!--<docAuthor><persName ref="#EC">Emmanuel Chateau</persName></docAuthor>-->
+                <docAuthor><persName ref="#RC">Robert Carvais</persName> &amp; <persName ref="#HRC">Hélène Rousteau-Chambon</persName></docAuthor>
                 <docDate>14 avril 2013</docDate>
                 <docEdition>version bêta</docEdition>
             </titlePage>

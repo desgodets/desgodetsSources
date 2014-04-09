@@ -9,7 +9,7 @@
     xml:lang="fre" type="notes">
     <head>Notes</head>
     <!-- RMQ : notes de test -->
-    <note xml:id="meetings2010N0001">
+    <!--<note xml:id="meetings2010N0001">
         <p>« Or Caïn dit à son frère Abel : Sortons dehors. Et lorsqu’ils furent dans les champs, Caïn se jeta sur son frère Abel, et le tua. », <bibl copyOf="#BibleRondet" />, Chapitre 4, verset 8.</p>
     </note>
     <note xml:id="meetings2010N0002">
@@ -21,5 +21,5 @@
     </note>
     <note xml:id="meetings2010N0004">
         <p><bibl copyOf="#Fleury"/>, livre...</p>
-    </note>
+    </note>-->
 </div>

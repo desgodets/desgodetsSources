@@ -5610,13 +5610,13 @@
         </body>
         <back xml:id="biblioBack">
             <div xml:id="biblioBackFr" xml:lang="fre">
-                <div xml:id="biblioBackFr01" type="downloads">
+                <!--<div xml:id="biblioBackFr01" type="downloads">
                     <head>Téléchargements</head>
                     <p>
                         <ref type="file" target="../files/programme2010.pdf"
                             mimeType="application/pdf">Bibliographie</ref>
                     </p>
-                </div>
+                </div>-->
             </div>
         </back>
     </text>

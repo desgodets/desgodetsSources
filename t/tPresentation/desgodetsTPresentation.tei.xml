@@ -185,8 +185,7 @@
                 <docAuthor>Éditeurs : <persName ref="#RC"
                         >Robert Carvais</persName>, <persName ref="#JH"
                         >Juliette Hernu</persName>, <persName ref="#LT"
-                        >Linnéa Rollenhagen-Tilly</persName>, <persName ref="#JS"
-                        >Jöel Sakarovitch</persName>
+                        >Joël Sakarovitch</persName>
                 </docAuthor>
                 <docAuthor>Transcripteurs : <persName ref="#JB"
                         >Joëlle Barreau</persName>, <persName ref="#AB"
@@ -207,7 +206,7 @@
                             ref="#desgodets"
                             >Antoine Desgodets</persName> constitue le premier témoignage écrit de la transmission de ce savoir pratique dans le cadre d’un enseignement. Son organisation porte la marque de ce transfert vers l’écrit et vers une forme de théorisation, puisqu’elle ne reflète plus (comme le fait encore celle de l’<hi
                             rend="italic">Architecture pratique</hi> de <persName
-                            ref="#bulletPierre">Bullet</persName>
+                            ref="#bulletPierre">Bullet</persName> 
                         <date when="1691"
                             >en 1691</date>) l’ordre effectif du toisé, mais bien un ordre <hi
                             rend="italic"
@@ -493,7 +492,7 @@
                     <p>Ces critères nous amènent à exclure les versions T1, T2, T4, T5, T6, T8, T12 et T14.</p>
                     <p>Les manuscrits restant sont les T3, T9, T11 et T13. Le T13 étant vraiment tardif (<hi
                             rend="italic"
-                            >terminus post quem </hi>donné par le filigrane <date
+                            >terminus post quem</hi> donné par le filigrane <date
                             when="1767"
                         >en 1767</date>), nous avons choisi de l’exclure.</p>
                     <p>Enfin, le T3 ne présentant aucun élément de datation, nous avons retenu le T9.</p>
@@ -717,7 +716,7 @@
                                 rend="superscript">e</hi> décimale. </p>
                         <p>Mais si la méthode de calcul semble, dans le cas du plein cintre bien lourde, c’est qu’elle distingue de façon <hi
                                 rend="italic"
-                            >a priori </hi>surprenante « le demi-diamètre entier du cercle (des naissances) » de celui du « demi-diamètre à plomb qui est la hauteur », alors que ces deux grandeurs sont égales. Cette distinction n’est pas faite sans raison, et le principe en sera repris systématiquement dans la suite du traité, car le calcul se « généralise » ensuite aux cas des voûtes surbaissées ou surhaussées, quand précisément la hauteur de la voûte n’est plus égale à la moitié de sa largeur. </p>
+                            >a priori</hi> surprenante « le demi-diamètre entier du cercle (des naissances) » de celui du « demi-diamètre à plomb qui est la hauteur », alors que ces deux grandeurs sont égales. Cette distinction n’est pas faite sans raison, et le principe en sera repris systématiquement dans la suite du traité, car le calcul se « généralise » ensuite aux cas des voûtes surbaissées ou surhaussées, quand précisément la hauteur de la voûte n’est plus égale à la moitié de sa largeur. </p>
                         <p>Comme cela a été indiqué ci-dessus, la grande diversité des voûtes réalisables en stéréotomie l’amène à aborder des problèmes autrement plus délicat que la seule approximation du nombre π. De même que l’on peut avoir besoin de connaître la circonférence du cercle, de même dans le cas d’une voûte ovoïde, a-t-on besoin de connaître la longueur d’une ellipse<ref
                                 type="note" target="#tN0016"/>. <persName
                                 ref="#desgodets"

@@ -187,7 +187,7 @@
                     <titlePart>Méthodologie</titlePart>
                 </docTitle>
                 <docAuthor>
-                    <persName ref="#RC">Emmanuel Château</persName>
+                    <persName ref="#EC">Emmanuel Château</persName> &amp; <persName ref="#RC">Robert Carvais</persName>
                 </docAuthor>
                 <docDate when="2013-09">septembre 2013</docDate>
                 <docEdition>version bêta</docEdition>
