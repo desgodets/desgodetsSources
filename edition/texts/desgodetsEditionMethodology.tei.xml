@@ -189,7 +189,7 @@
                 <docAuthor>
                     <persName ref="#RC">Emmanuel Château</persName>
                 </docAuthor>
-                <docDate>septembre 2013</docDate>
+                <docDate when="2013-09">septembre 2013</docDate>
                 <docEdition>version bêta</docEdition>
             </titlePage>
             <div xml:id="editionMethodologyFrontFr" xml:lang="fre">
@@ -288,11 +288,45 @@
             <div xml:id="editionMethodologyBodyFr" xml:lang="fre">
                 <div xml:id="editionMethodologyBodyFr01" type="part" n="1">
                     <head>La définition du corpus</head>
-                    <p>à rédiger</p>
+                    <p>La mise au jour de documents d’archives inédits<ref type="note"
+                            target="#editionMethodologyN0003b"
+                        /> dont l’inventaire après décès de Desgodets à partir duquel l’imprimeur libraire Jean Mariette dresse la liste des portefeuilles d’estampes et traités d’architecture manuscrits qu’il prise et estime nous permet de dresser un état des cours manuscrits possédés par Desgodets à son décès et la valeur attribuée à chacun d’eux apporte une idée du poids que son travail représentait pour le regard averti du collectionneur renommé, expert féru d’arts en tout genre, chargé d’évaluer sa bibliothèque.</p>
+                    <quote>
+                        <p>Premièrement un portefeuille d’estampes cotté numéro premier prisé la somme de quarante livres, cy xl #</p>
+                        <p>Item un autre portefeuille d’estampes cotté numéro deux prisé la somme de cinquante livres, cy l #</p>
+                        <p>Item un autre fauteuil portefeuille d’estampes et mauvais desseins cotté numéro trois prisé la somme de quinze livres, cy xv #</p>
+                        <p>Item cent trente huit planches des Ediffices antiques numéro quatre estimés la somme de quatre cent livres, cy iiiic #</p>
+                        <p>Item le manuscrit du traité des cinq ordres d’architecture avec les brouillons cotté numéro cinq prisé la somme de deux cent livres, cy iic #</p>
+                        <p>Item le manuscrit du traité de l’ordre d’architecture francoise cotté numéro six prisé la somme de vingt cinq livres, cy xxv #</p>
+                        <p>Item le traité des domes des églises cotté numéro sept estimé la somme de quinze livres, cy xv #</p>
+                        <p>Item partie d’un traité de la commodité des bâtiments publics et particuliers cotté numéro huit prisé la somme de vingt livres, cy xx #</p>
+                        <p>Item le traité du toisé des bastimens cotté numéro neuf prisé la somme de trente livres, cy xxx #</p>
+                        <p>Item le traité des servitudes et rapports des jurés, cotté numéro dix prisé la somme de quarante livres, cy xl #</p>
+                        <ref type="note" target="#editionMethodologyN0003c"/>
+                    </quote>
+                    <p>Les estampes (en y joignant celles des Edifices antiques, pour lesquelles il existe un véritable marché) sont estimées à 505 livres. Les quatre thèmes des cours sont représentés ensuite :<list>
+                            <item>pour les ordres, 225 livres ;</item>
+                            <item>pour les commodités, 35 livres ;</item>
+                            <item>pour le toisé, 30 livres ;</item>
+                            <item>et pour les servitudes, 40 livres</item>
+                        </list>.</p>
+                    <p>Certaines de nos hypothèses de départ n’ont pu être confirmées. Parmi les éléments cités dans le projet, nous avions repéré un autre type de cours d’architecture à la Bibliothèque de l’Institut, attribué à Desgodets, et qui pourtant s’est révélé après analyse être l’œuvre de Courtonne<ref
+                            type="note" target="#editionMethodologyN0003d"
+                            />. De plus, d’après Hélène Rousteau-Chambon, Desgodets aurait enseigné dans sa dernière année la coupe des pierres et le dessin et la perspective, mais nous n’en avons conservé aucune trace<ref
+                            type="note" target="#editionMethodologyN0003e"
+                        />. Le toisé qui aurait été édité par son collègue de l’Académie Charles-François Delépée, n’a pas été retrouvé. Enfin un manuscrit repéré à l’École nationale des Ponts et Chaussées s’est révélé après consultation ne pas être un cours de Desgodets.</p>
+                    <p>Nous avons en revanche découvert un ensemble de quatre cours de Desgodets importés en Suède et conservés dans une bibliothèque privée qui nous ont beaucoup servi pour appréhender la diffusion et l’impact des cours en Europe<ref
+                            type="note" target="#editionMethodologyN0003f"
+                            />. Le toisé de Compiègne a finalement été retrouvé alors qu’il semblait avoir disparu sous les bombardements<ref
+                            type="note" target="#editionMethodologyN0003g"
+                            />. Mais il reste très probable que nous découvrions plus tard d’autres manuscrits, comme le manuscrit du <hi
+                            rend="italic"
+                            >Traité des ordres d’architecture et de toutes leurs parties, expliqué en l’Académie roiale d’architecture par Mr Desgodets architecte des batimens du Roi et professeur de ladite Académie</hi> par J. Mansart de Jouy (in-fol.) qui aurait appartenu à Giuseppe Bossi et qui aurait été vendu aux enchères en 1717 au libraire milanais J. P. Giegler qui en propose la vente dès février 1818.</p>
+                    <p>Au final, notre corpus comprend 26 manuscrits et 7 ouvrages imprimés, soit 33 documents. 5 manuscrits connaissent une édition critique, à laquelle nous avons rapporté les autres témoins manuscrits pour les variantes significatives. Ces autres manuscrits ont simplement fait l’objet d’une transcription diplomatique.</p>
                 </div>
                 <div xml:id="editionMethodologyBodyFr02" type="part" n="2">
                     <head>L'établissement du texte</head>
-                    <div type="chapter" n="3">
+                    <div xml:id="editionMethodologyBodyFr02.01" type="chapter" n="3">
                         <p>Comme le relevait déjà Jean Varloot en 1980, <q>l’édition de textes
                                 français moderne est un domaine qui est loin d’être l’objet de lois
                                 ou d’usages admis par tous</q><ref
@@ -328,7 +362,7 @@
                             l’édition des textes de l’époque moderne viendra clarifier la
                             situation.</p>
                     </div>
-                    <div type="chapter">
+                    <div xml:id="editionMethodologyBodyFr02.02" type="chapter">
                         <head>La transcription des manuscrits</head>
                         <p>S’agissant d’éditer des textes à partir de manuscrits dépourvus de
                             tradition imprimée, leur transcription constituait une étape cruciale du
@@ -396,7 +430,7 @@
                             revanche, elle aurait pu offrir un contexte de travail très efficace
                             pour le traitement des variantes des différents témoins. </p>
                     </div>
-                    <div type="chapter">
+                    <div xml:id="editionMethodologyBodyFr02.03" type="chapter">
                         <head>La collation et la comparaison des témoins</head>
                         <p>Une fois les manuscrits transcrits, une collation des témoins était
                             nécessaire afin de mieux les caractériser les uns par rapport aux
@@ -442,7 +476,7 @@
                             lecture. On renvoit le lecteur à la présentation de chacun des
                             manuscrits pour le détail de chaque cours.</p>
                     </div>
-                    <div type="chapter">
+                    <div xml:id="editionMethodologyBodyFr02.04" type="chapter">
                         <head>Le choix d’une méthode d’édition critique</head>
                         <p>En l’absence de manuscrits autographes identifiés (hormis O1) ou de
                             prototypes clairement déterminés parmi les témoins manuscrits conservés
@@ -504,7 +538,7 @@
                             responsabilité de l’éditeur dans le choix des aspects mis en avant par
                             une édition.</p>
                     </div>
-                    <div type="chapter">
+                    <div xml:id="editionMethodologyBodyFr02.05" type="chapter">
                         <head>Le choix du manuscrit maître</head>
                         <p>Ayant choisi l’approche conservatiste, il restait à déterminer les
                             critères de choix du manuscrit maître. À cet égard <q>chaque texte, en
@@ -577,7 +611,7 @@
                             continuateurs, <persName>Martin Goupy</persName>, sous le titre de
                                 <title>Loix des bâtiments</title>.</p>
                     </div>
-                    <div type="chapter">
+                    <div xml:id="editionMethodologyBodyFr02.06" type="chapter">
                         <head>La prise en compte des variantes</head>
                         <p>Le texte du manuscrit maître de chaque manuscrit devait disposer d’un
                             apparat critique informant sur les variantes des différents témoins.
