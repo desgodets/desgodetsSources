@@ -69,7 +69,7 @@
             <!-- mention d'édition -->
             <editionStmt>
                 <edition n="1">première édition électronique, <date when="2013"
-                    >2013</date></edition>
+                        >2013</date></edition>
             </editionStmt>
             <extent><!-- TODO : taille du fichier en octet --></extent>
             <!-- information sur la publication électronique -->
@@ -112,7 +112,7 @@
                         >Pas d’Utilisation Commerciale</hi> — Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant. 
                         <lb/>Le Centre de théorie et d’analyse du droit souhaite principalement encourager l’utilisation et l’amélioration de ses ressources électroniques dans l’intérêt de l’enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d’analyse du droit.</p>
                     <p><hi rend="italic"
-                        >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
+                            >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
                         <lb/>Vous n’êtes pas obligé de signaler votre travail auprès du Centre de théorie et d’analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
                             type="external" target="mailto:contact@desgodets.net"
                             >contact@desgodets.net</ref>.</p>
@@ -173,7 +173,8 @@
         <profileDesc>
             <creation when="2013">2013</creation>
             <langUsage>
-                <language ident="fre" usage="100">Français (langue principale du corpus)</language>
+                <language ident="fre" usage="100"
+                    >Français (langue principale du corpus)</language>
                 <!-- TODO : évaluer le pourcentage des langues dans le document -->
             </langUsage>
             <textClass>
@@ -183,13 +184,15 @@
                     <term>France</term>
                     <term>Architecture –– Philosophie</term>
                 </keywords>
-                <keywords xml:lang="eng" scheme="http://id.loc.gov/authorities/about.html#lcsh">
+                <keywords xml:lang="eng"
+                    scheme="http://id.loc.gov/authorities/about.html#lcsh">
                     <term>Architecture, Modern</term>
                     <term>17th-18th centuries</term>
                     <term>France</term>
                     <term>Architecture -- Philosophy</term>
                 </keywords>
-                <classCode scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
+                <classCode
+                    scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
                     <term>Text</term>
                 </classCode>
             </textClass>
@@ -246,7 +249,7 @@
                         <head>La fortune des <hi rend="italic"
                                 >Édifices antiques de Rome</hi> (1682) dans l’Europe des XVIII<hi
                                 rend="superscript">e</hi> et XIX<hi rend="superscript"
-                            >e</hi> siècles</head>
+                                >e</hi> siècles</head>
                         <p>11h45 - <hi rend="bold"
                             >Olga Medvedkova</hi> (CNRS, Centre André Chastel)</p>
                         <p>Il s'agit pour moi de retracer l'histoire des différentes rééditions de Desgodets et de s'interroger sur les enjeux des protagonistes de ces entreprises éditoriales à Paris, à Londres, à Rome. Je voudrais, tout d’abord, comparer les propos de l’architecte londonien George Marshall dans <hi
@@ -309,7 +312,7 @@
                     <head>Téléchargements</head>
                     <!--<p><ref type="file" target="../../files/programme2010.pdf">programme</ref></p>-->
                     <p>
-                        <ref type="file" target="../..files/programme2010.pdf"
+                        <ref type="file" target="../../files/programme2010.pdf"
                             mimeType="application/pdf">Programme</ref>
                     </p>
                 </div>

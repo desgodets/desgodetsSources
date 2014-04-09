@@ -16,7 +16,8 @@
             <!-- mentions de titre et de responsabilité -->
             <titleStmt>
                 <title xml:lang="fre" type="main">Colloques</title>
-                <title xml:lang="fre" type="sub">Appel à communication du colloque de 2014</title>
+                <title xml:lang="fre" type="sub"
+                    >Appel à communication du colloque de 2014</title>
                 <!-- mention de responsabilité principale (responsable scientifique de l'édition) -->
                 <principal>
                     <persName ref="#RC">
@@ -68,7 +69,7 @@
             <!-- mention d'édition -->
             <editionStmt>
                 <edition n="1">première édition électronique, <date when="2013"
-                    >2013</date></edition>
+                        >2013</date></edition>
             </editionStmt>
             <extent><!-- TODO : taille du fichier en octet --></extent>
             <!-- information sur la publication électronique -->
@@ -111,7 +112,7 @@
                         >Pas d’Utilisation Commerciale</hi> — Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant. 
                         <lb/>Le Centre de théorie et d’analyse du droit souhaite principalement encourager l’utilisation et l’amélioration de ses ressources électroniques dans l’intérêt de l’enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d’analyse du droit.</p>
                     <p><hi rend="italic"
-                        >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
+                            >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
                         <lb/>Vous n’êtes pas obligé de signaler votre travail auprès du Centre de théorie et d’analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
                             type="external" target="mailto:contact@desgodets.net"
                             >contact@desgodets.net</ref>.</p>
@@ -172,7 +173,8 @@
         <profileDesc>
             <creation when="2013">2013</creation>
             <langUsage>
-                <language ident="fre" usage="100">Français (langue principale du corpus)</language>
+                <language ident="fre" usage="100"
+                    >Français (langue principale du corpus)</language>
                 <!-- TODO : évaluer le pourcentage des langues dans le document -->
             </langUsage>
             <textClass>
@@ -182,13 +184,15 @@
                     <term>France</term>
                     <term>Architecture –– Philosophie</term>
                 </keywords>
-                <keywords xml:lang="eng" scheme="http://id.loc.gov/authorities/about.html#lcsh">
+                <keywords xml:lang="eng"
+                    scheme="http://id.loc.gov/authorities/about.html#lcsh">
                     <term>Architecture, Modern</term>
                     <term>17th-18th centuries</term>
                     <term>France</term>
                     <term>Architecture -- Philosophy</term>
                 </keywords>
-                <classCode scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
+                <classCode
+                    scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
                     <term>Text</term>
                 </classCode>
             </textClass>
@@ -202,17 +206,19 @@
         <front xml:id="meetings2014Front">
             <titlePage xml:id="meetings2014Front00">
                 <docTitle>
-                    <titlePart type="main">Les nouveaux savoirs de l'architecte moderne</titlePart>
-                    <titlePart type="sub">Antoine Desgodets, entre théorie et pratique</titlePart>
+                    <titlePart type="main"
+                        >Les nouveaux savoirs de l'architecte moderne</titlePart>
+                    <titlePart type="sub"
+                        >Antoine Desgodets, entre théorie et pratique</titlePart>
                 </docTitle>
                 <argument>
                     <p>Appel à communication du colloque international de 2014</p>
                 </argument>
-                <docAuthor>
+                <!--<docAuthor>
                     <persName ref="#RC">Robert Carvais</persName>
-                </docAuthor>
+                </docAuthor>-->
                 <docDate>30 mars 2014</docDate>
-                <docEdition>version bêta</docEdition>
+                <!-- <docEdition>version bêta</docEdition> -->
             </titlePage>
             <div xml:id="meetings2014FrontFr" xml:lang="fre">
                 <div xml:id="meetings2014FrontFr01" type="abstract">
@@ -236,7 +242,8 @@
             <div xml:id="meetings2014BodyFr" xml:lang="fre">
                 <div xml:id="meetings2014BodyFr01" type="part" n="1">
                     <head><label>I.</label> Antoine Desgodets, cet inconnu : vers une biographie</head>
-                    <p>Antoine Desgodets, que nous connaissons surtout par Les <hi rend="italic"
+                    <p>Antoine Desgodets, que nous connaissons surtout par Les <hi
+                            rend="italic"
                             >Édifices antiques de Rome</hi>, son œuvre savante majeure émanant d’une commande royale, mais aussi par <hi
                             rend="italic"
                         >Les Loix des bâtiments</hi>, ouvrage juridique posthume inaugurant une nouvelle discipline, reste encore aujourd’hui peu étudié. Si nous lui découvrons un père ébéniste à Paris, que savons-nous de la famille dont il était issu et de celle qu’il fonda ? De quelles sources disposons-nous pour écrire la biographie de cet architecte ? De nouvelles archives notariales parisiennes mises au jour méritent une étude approfondie.</p>
@@ -270,8 +277,8 @@
                         </list>
                     </p>
                     <p>La proposition doit nous parvenir par mail (<ref type="external"
-                            target="mailto:rcarvais@noos.fr">rcarvais[@]noos.fr</ref>) <hi
-                            rend="bold"
+                            target="mailto:rcarvais@noos.fr"
+                            >rcarvais[@]noos.fr</ref>) <hi rend="bold"
                             >au plus tard le 15 juin 2014</hi>. Elle sera évaluée par deux membres du comité scientifique. Les résultats des délibérations du comité scientifique seront portés à votre connaissance <hi
                             rend="bold">avant le 30 juin 2014</hi>.</p>
                     <p>Le colloque devrait se dérouler à l’Ecole nationale supérieure d’architecture de Paris-Malaquais et à l’Institut national d’histoire de l’art sur deux jours les <hi
@@ -281,30 +288,39 @@
                     <head>Comité scientifique</head>
                     <list>
                         <item>Laurent Baridon, <hi rend="italic"
-                            >Université Lumière Lyon 2</hi></item>
-                        <item>Basile Baudez, <hi rend="italic">Université Paris-Sorbonne</hi></item>
+                                >Université Lumière Lyon 2</hi></item>
+                        <item>Basile Baudez, <hi rend="italic"
+                                >Université Paris-Sorbonne</hi></item>
                         <item>Robert Carvais, <hi rend="italic"
-                            >CNRS, ENSA Paris-Malaquais</hi></item>
+                                >CNRS, ENSA Paris-Malaquais</hi></item>
                         <item>Pierre Caye, <hi rend="italic">CNRS</hi></item>
-                        <item>Pascal Dubourg Glatigny, <hi rend="italic">CNRS</hi></item>
+                        <item>Pascal Dubourg Glatigny, <hi rend="italic"
+                            >CNRS</hi></item>
                         <item>Guillaume Fonkenell, <hi rend="italic">Louvre</hi></item>
                         <item>Alexandre Gady, <hi rend="italic"
-                            >Université Paris-Sorbonne</hi></item>
+                                >Université Paris-Sorbonne</hi></item>
                         <item>Jean-Phillipe Garric, <hi rend="italic"
                                 >Université Panthéon-Sorbonne, ENSA Belleville</hi></item>
                         <item>Jean-Louis Halpérin, <hi rend="italic">ENS</hi></item>
                         <item>Olga Medvedkova, <hi rend="italic">CNRS</hi></item>
-                        <item>Robin Middleton, <hi rend="italic">Columbia University</hi></item>
-                        <item>Claude Mignot, <hi rend="italic">Université Paris-Sorbonne</hi></item>
-                        <item>Valérie Nègre, <hi rend="italic">ENSA La Villette</hi></item>
+                        <item>Robin Middleton, <hi rend="italic"
+                                >Columbia University</hi></item>
+                        <item>Claude Mignot, <hi rend="italic"
+                                >Université Paris-Sorbonne</hi></item>
+                        <item>Valérie Nègre, <hi rend="italic"
+                            >ENSA La Villette</hi></item>
                         <item>Werner Oeschlin, <hi rend="italic"
                                 >Federal Institute of Technology, Zurich</hi></item>
-                        <item>Edoardo Piccoli, <hi rend="italic">Politecnico, Milan</hi></item>
-                        <item>Pierre Pinon, <hi rend="italic">ENSA Paris-Belleville</hi></item>
+                        <item>Edoardo Piccoli, <hi rend="italic"
+                                >Politecnico, Milan</hi></item>
+                        <item>Pierre Pinon, <hi rend="italic"
+                                >ENSA Paris-Belleville</hi></item>
                         <item>Hélène Rousteau-Chambon, <hi rend="italic"
-                            >Université de Nantes</hi></item>
-                        <item>Joël Sakarovitch, <hi rend="italic">ENSA Paris-Malaquais</hi></item>
-                        <item>Dirk van de Vijver, <hi rend="italic">Université d’Utrecht</hi></item>
+                                >Université de Nantes</hi></item>
+                        <item>Joël Sakarovitch, <hi rend="italic"
+                                >ENSA Paris-Malaquais</hi></item>
+                        <item>Dirk van de Vijver, <hi rend="italic"
+                                >Université d’Utrecht</hi></item>
                         <item>Thierry Verdier, <hi rend="italic"
                                 >Université Paul-Valéry, Montpellier III</hi></item>
                     </list>

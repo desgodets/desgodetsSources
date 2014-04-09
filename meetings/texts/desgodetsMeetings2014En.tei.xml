@@ -68,14 +68,14 @@
             <!-- mention d'édition -->
             <editionStmt>
                 <edition n="1">première édition électronique, <date when="2013"
-                    >2013</date></edition>
+                        >2013</date></edition>
             </editionStmt>
             <extent><!-- TODO : taille du fichier en octet --></extent>
             <!-- information sur la publication électronique -->
             <publicationStmt>
                 <date when="2013">2013</date>
                 <!-- voir si on attribue un DOI ou un identifiant ARK aux fichiers édités -->
-                <idno>meetings2014</idno>
+                <idno>meetings2014En</idno>
                 <!-- responsable de la publication -->
                 <publisher>
                     <orgName>Centre de théorie et d'analyse du droit (UMR 7074)</orgName>
@@ -111,7 +111,7 @@
                         >Pas d’Utilisation Commerciale</hi> — Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant. 
                         <lb/>Le Centre de théorie et d’analyse du droit souhaite principalement encourager l’utilisation et l’amélioration de ses ressources électroniques dans l’intérêt de l’enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d’analyse du droit.</p>
                     <p><hi rend="italic"
-                        >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
+                            >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
                         <lb/>Vous n’êtes pas obligé de signaler votre travail auprès du Centre de théorie et d’analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
                             type="external" target="mailto:contact@desgodets.net"
                             >contact@desgodets.net</ref>.</p>
@@ -172,7 +172,8 @@
         <profileDesc>
             <creation when="2013">2013</creation>
             <langUsage>
-                <language ident="fre" usage="100">Français (langue principale du corpus)</language>
+                <language ident="fre" usage="100"
+                    >Français (langue principale du corpus)</language>
                 <!-- TODO : évaluer le pourcentage des langues dans le document -->
             </langUsage>
             <textClass>
@@ -182,13 +183,15 @@
                     <term>France</term>
                     <term>Architecture –– Philosophie</term>
                 </keywords>
-                <keywords xml:lang="eng" scheme="http://id.loc.gov/authorities/about.html#lcsh">
+                <keywords xml:lang="eng"
+                    scheme="http://id.loc.gov/authorities/about.html#lcsh">
                     <term>Architecture, Modern</term>
                     <term>17th-18th centuries</term>
                     <term>France</term>
                     <term>Architecture -- Philosophy</term>
                 </keywords>
-                <classCode scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
+                <classCode
+                    scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
                     <term>Text</term>
                 </classCode>
             </textClass>
@@ -202,18 +205,19 @@
         <front xml:id="meetings2014EnFront">
             <titlePage xml:id="meetings2014EnFront00" xml:lang="eng">
                 <docTitle>
-                    <titlePart type="main">The Modern Architect's New Knowledge</titlePart>
+                    <titlePart type="main"
+                        >The Modern Architect's New Knowledge</titlePart>
                     <titlePart type="sub"
                         >Antoine Desgodets, Combining Theory and Practice</titlePart>
                 </docTitle>
                 <argument>
                     <p>International Conference – Call for Abstracts</p>
                 </argument>
-                <docAuthor>
+                <!--<docAuthor>
                     <persName ref="#RC">Robert Carvais</persName>
-                </docAuthor>
+                </docAuthor>-->
                 <docDate>30 mars 2014</docDate>
-                <docEdition>version bêta</docEdition>
+                <!--<docEdition>version bêta</docEdition>-->
             </titlePage>
             <div xml:id="meetings2014EnFrontEn" xml:lang="eng">
                 <div xml:id="meetings2014EnFrontEn01" type="abstract">
@@ -225,7 +229,8 @@
             <div xml:id="meetings2014EnBodyEn" xml:lang="fre">
                 <div xml:id="meetings2014EnBodyEn01" type="part" n="1">
                     <head><label>I.</label> Tentative Biography of a Stranger Called Desgodets</head>
-                    <p>Antoine Desgodets is known to us mostly through <hi rend="italic"
+                    <p>Antoine Desgodets is known to us mostly through <hi
+                            rend="italic"
                             >Les Édifices Antiques de Rome</hi>, his major academic work commissioned by the King, but also thanks to <hi
                             rend="italic"
                         >Les Loix des Bâtiments</hi>, a posthumous legal work introducing a new discipline. But precious little do we know of the man himself. Beyond the fact that his father was a cabinetmaker, what do we know of the family he was born into or the one he founded? What resources could we rely on to write his biography? Newly discovered archives from a Parisian solicitor's office should definitely be delved into.</p>
@@ -253,42 +258,52 @@
                             <item>six key words;</item>
                             <item>a short curriculum vitae (no more than one page) indicating contact information, status, laboratory affiliation if relevant, as well as a list of most important or most recent publications.</item>
                         </list></p>
-                    <p>Prospective speakers should submit proposals by e-mail (<ref type="external"
-                            target="mailto:rcarvais@noos.fr"
+                    <p>Prospective speakers should submit proposals by e-mail (<ref
+                            type="external" target="mailto:rcarvais@noos.fr"
                             >rcarvais[@]noos.fr</ref>) no later than <hi rend="bold"
                             >15 June 2014</hi>. Two members of the Scientific Committee will evaluate each proposal. The results of these deliberations will be communicated before <hi
                             rend="bold">30 June 2014</hi>.</p>
                     <p>The Conference should take place in Paris (ENSA Paris-Malaquais and INHA) during two days, on <hi
-                            rend="bold">Monday 24 and Tuesday 25 November 2014</hi>.</p>
+                            rend="bold"
+                        >Monday 24 and Tuesday 25 November 2014</hi>.</p>
                 </div>
                 <div xml:id="meetings2014EnBodyEn05" type="part" n="5">
                     <head>Scientific Comittee</head>
                     <list>
                         <item>Laurent Baridon, <hi rend="italic"
-                            >Université Lumière Lyon 2</hi></item>
-                        <item>Basile Baudez, <hi rend="italic">Université Paris-Sorbonne</hi></item>
+                                >Université Lumière Lyon 2</hi></item>
+                        <item>Basile Baudez, <hi rend="italic"
+                                >Université Paris-Sorbonne</hi></item>
                         <item>Robert Carvais, <hi rend="italic"
-                            >CNRS, ENSA Paris-Malaquais</hi></item>
+                                >CNRS, ENSA Paris-Malaquais</hi></item>
                         <item>Pierre Caye, <hi rend="italic">CNRS</hi></item>
-                        <item>Pascal Dubourg Glatigny, <hi rend="italic">CNRS</hi></item>
+                        <item>Pascal Dubourg Glatigny, <hi rend="italic"
+                            >CNRS</hi></item>
                         <item>Guillaume Fonkenell, <hi rend="italic">Louvre</hi></item>
                         <item>Alexandre Gady, <hi rend="italic"
-                            >Université Paris-Sorbonne</hi></item>
+                                >Université Paris-Sorbonne</hi></item>
                         <item>Jean-Phillipe Garric, <hi rend="italic"
                                 >Université Panthéon-Sorbonne, ENSA Belleville</hi></item>
                         <item>Jean-Louis Halpérin, <hi rend="italic">ENS</hi></item>
                         <item>Olga Medvedkova, <hi rend="italic">CNRS</hi></item>
-                        <item>Robin Middleton, <hi rend="italic">Columbia University</hi></item>
-                        <item>Claude Mignot, <hi rend="italic">Université Paris-Sorbonne</hi></item>
-                        <item>Valérie Nègre, <hi rend="italic">ENSA La Villette</hi></item>
+                        <item>Robin Middleton, <hi rend="italic"
+                                >Columbia University</hi></item>
+                        <item>Claude Mignot, <hi rend="italic"
+                                >Université Paris-Sorbonne</hi></item>
+                        <item>Valérie Nègre, <hi rend="italic"
+                            >ENSA La Villette</hi></item>
                         <item>Werner Oeschlin, <hi rend="italic"
                                 >Federal Institute of Technology, Zurich</hi></item>
-                        <item>Edoardo Piccoli, <hi rend="italic">Politecnico, Milan</hi></item>
-                        <item>Pierre Pinon, <hi rend="italic">ENSA Paris-Belleville</hi></item>
+                        <item>Edoardo Piccoli, <hi rend="italic"
+                                >Politecnico, Milan</hi></item>
+                        <item>Pierre Pinon, <hi rend="italic"
+                                >ENSA Paris-Belleville</hi></item>
                         <item>Hélène Rousteau-Chambon, <hi rend="italic"
-                            >Université de Nantes</hi></item>
-                        <item>Joël Sakarovitch, <hi rend="italic">ENSA Paris-Malaquais</hi></item>
-                        <item>Dirk van de Vijver, <hi rend="italic">Université d’Utrecht</hi></item>
+                                >Université de Nantes</hi></item>
+                        <item>Joël Sakarovitch, <hi rend="italic"
+                                >ENSA Paris-Malaquais</hi></item>
+                        <item>Dirk van de Vijver, <hi rend="italic"
+                                >Université d’Utrecht</hi></item>
                         <item>Thierry Verdier, <hi rend="italic"
                                 >Université Paul-Valéry, Montpellier III</hi></item>
                     </list>
