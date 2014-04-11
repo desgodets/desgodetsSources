@@ -16,8 +16,7 @@
          <!-- mentions de titre et de responsabilité -->
          <titleStmt>
             <title xml:lang="fre" type="main">Traité de la commodité</title>
-            <title xml:lang="fre" type="sub"
-               >manuscrit C2</title>
+            <title xml:lang="fre" type="sub">manuscrit C2</title>
             <author>
                <persName ref="#desgodets">
                   <forename>Antoine</forename>
@@ -170,7 +169,6 @@
                            <forename>Antoine</forename>
                            <surname>Desgodets</surname>
                         </persName>
-                        <!-- TODO modifier la XSLT pour prendre en compte la forme normalisée du nom utilisée par les systèmes bibliographiques -->
                      </author>
                      <respStmt>
                         <resp key="com">collationneur</resp>
@@ -198,7 +196,7 @@
                   <objectDesc form="codex">
                      <supportDesc material="paper">
                         <support>
-                           <p><objectType>codex</objectType>, <material>Papier</material> avec filigranes, <watermark>raisins</watermark> similaire à <ref>[référence]</ref>, <date>1570-1758</date>.</p>
+                           <p><objectType>codex</objectType>, <material>papier à la cuve</material> avec filigranes, <watermark>raisins</watermark> similaire à <ref>[référence]</ref>, <date>1570-1758</date>.</p>
                         </support>
                         <extent>
                            <dimensions type="leaves">
@@ -903,7 +901,9 @@
                      >chapelles</term>, les <term type="gT" ref="#basilique"
                      >basiliques</term> et autres lieux pour rendre la justice, les <term
                      type="gT" ref="#hotelDeVille"
-                        >hôtels de villes</term> et <term type="gT" ref="# #hotelDeCommerce">de commerce</term><!-- TODO la transformation ne permet pas l'encodage simultané des deux termes -->, les <term
+                     >hôtels de villes</term> et <term type="gT"
+                     ref="# #hotelDeCommerce"
+                     >de commerce</term><!-- TODO la transformation ne permet pas l'encodage simultané des deux termes -->, les <term
                      type="gT" ref="#palais"
                      >palais</term> des princes et seigneurs, les <term
                      type="gT" ref="maisonParticuliere"

@@ -165,22 +165,23 @@
                   <msItemStruct>
                      <author>
                         <persName xml:lang="fre" full="yes" ref="#desgodets"
-                           >Desgodets, Antoine
-                           (1653-1728)</persName>
+                           >Desgodets, Antoine (1653-1728)</persName>
                         <persName>
                            <forename>Antoine</forename>
                            <surname>Desgodets</surname>
                         </persName>
-                        <!-- TODO modifier la XSLT pour prendre en compte la forme normalisée du nom utilisée par les systèmes bibliographiques -->
                      </author>
                      <respStmt>
-                        <persName ref="#pinardJean">
+                        <resp key="com">collationneur</resp>
+                        <persName xml:lang="fre" full="yes" ref="#pinardJean">
                            <forename>Jean</forename>
                            <surname>Pinard</surname>
                         </persName>
-                        <resp key="coll"/>
                      </respStmt>
-                     <title>Traité de la Commodité de l’architecture concernant
+                     <title type="supplied"
+                        >Traité de la Commodité de l’architecture concernant la distribution et les proportions des édifices</title>
+                     <title type="full"
+                        >Traité de la Commodité de l’architecture concernant
                         la distribution et les proportions des édifices divisé
                         en trois sections, la première contient les églises et
                         autres lieux pieux, la seconde section contient les
@@ -207,18 +208,18 @@
                   <objectDesc form="codex">
                      <supportDesc material="paper">
                         <support>
-                           <p>papier</p>
-                           <!-- TODO NEW -->
-                           <dimensions>
-                              <height quantity="999" unit="cm"/>
-                              <width quantity="999" unit="cm"/>
-                              <depth quantity="999" unit="cm"/>
-                           </dimensions>
+                           <p><objectType>codex</objectType>, <material>papier à la cuve</material>.</p>
                         </support>
-                        <!-- indiquer les dimensions -->
                         <extent>
-                           <num>144 folios (ou 285 pages), dont 42+3
-                              planches</num>
+                           <dimensions type="leaves">
+                              <dim quantity="285" unit="leaves"
+                                 >144 folios (ou 285 pages), dont 42+3
+                                 planches</dim>
+                              <height quantity="999" unit="mm"/>
+                              <width quantity="999" unit="mm"/>
+                              <depth quantity="999" unit="mm"/>
+                           </dimensions>
+                           <!-- indiquer les dimensions -->
                         </extent>
                         <foliation>
                            <p>folioté à l’encre en haut, au centre des pages,
