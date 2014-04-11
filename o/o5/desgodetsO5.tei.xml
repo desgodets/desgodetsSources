@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <?xml-model href="../../schema/desgodetsSchemaTEI.rnc" type="application/relax-ng-compact-syntax" schematypens="http://relaxng.org/ns/structure/1.0"?>
 
 <!-- 
@@ -172,7 +173,7 @@
                <msContents>
                   <msItemStruct>
                      <author>
-                        <persName xml:lang="fre" full="yes"
+                        <persName xml:lang="fre" full="yes" ref="#desgodets"
                            >Desgodets, Antoine
                            (1653-1728)</persName>
                      </author>
@@ -12281,7 +12282,7 @@
                               >cavet</term> avec
                         son <sic><term
                               type="gT" ref="#filet"
-                           >filet</term></sic><!-- TODO vérifier l'affichage -->, l’<term
+                           >filet</term></sic>, l’<term
                            type="gT" ref="#ove">ove</term> 2, le <term type="gT"
                            ref="#larmier">larmier</term> avec le petit <term
                            type="gT" ref="#talon"
@@ -13483,7 +13484,7 @@
                            type="gT" ref="#bande"
                            >bande</term> en a
                         5 et l’<term
-                           type="gT" ref="#astragale">astragale</term>
+                           type="gT" ref="#astragale">astragale</term> 
                         <add>1</add><!-- TODO véfifier si même main -->. La première <term
                            type="gT" ref="#bande">bande</term> de l’<term
                            type="gT" ref="#architrave"
@@ -14940,7 +14941,7 @@
                            <reg>modillons</reg>
                         </choice>
                      </term> à <sic>leur <term type="gT" ref="#corniche"
-                           >corniches</term></sic><!-- TODO vérifier l'affichage -->.</p>
+                           >corniches</term></sic>.</p>
                   <p xml:id="o5BodyFr01.06.p005"
                         >Les caractères essentiels de l’<term type="gT"
                         ref="#ordreCorinthien">ordre corinthien</term>
@@ -31709,7 +31710,7 @@
                            <orig>soubassemens</orig>
                            <reg>soubassements</reg>
                         </choice>
-                     </term>du <term type="gT" ref="#dome">dôme</term>. Le <term
+                     </term> du <term type="gT" ref="#dome">dôme</term>. Le <term
                         type="gT" ref="#pilastre">pilastre</term> 50<ref
                         type="noteCritical" target="#o5Nc0769"
                         /> qui est derrière est
