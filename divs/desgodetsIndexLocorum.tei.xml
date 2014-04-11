@@ -72,7 +72,7 @@
             <!-- mention d'édition -->
             <editionStmt>
                 <edition n="1">première édition électronique, <date from="2013" to="2013"
-                    >2008-2013</date></edition>
+                        >2008-2013</date></edition>
             </editionStmt>
             <extent><!-- TODO : taille du fichier en octet --></extent>
             <!-- information sur la publication électronique -->
@@ -113,8 +113,8 @@
                         Commons : « Paternité - Pas d'Utilisation Commerciale - Pas de
                         Modification ; 3.0 France ». <lb/>Cette licence est
                         disponible en ligne : <ref
-                        target="http://creativecommons.org/licences/by-nc-sa/3.0/fr"
-                        >http://creativecommons.org/licenses/by-nc/3.0/fr/</ref> ou
+                            target="http://creativecommons.org/licences/by-nc-sa/3.0/fr"
+                            >http://creativecommons.org/licenses/by-nc/3.0/fr/</ref> ou
                         par courrier postal à Creative Commons, 171 Second Street,
                         Suite 300, San Francisco, California 94105, USA.</p>
                     <p>Pas d'Utilisation Commerciale : Le Centre de théorie et
@@ -172,7 +172,7 @@
                 <p>L'édition des cours de Desgodets fait partie d'un programme
                     de recherche sur la formalisation du savoir architectural au
                         XVII<hi
-                    rend="superscript">e</hi> siècle.</p>
+                        rend="superscript">e</hi> siècle.</p>
             </projectDesc>
             <!-- déclaration des principes éditoriaux -->
             <editorialDecl>
@@ -432,7 +432,7 @@
                     </place>
                     <place xml:id="londres">
                         <placeName full="yes">Londres (<placeName ref="#royaumeUni"
-                            >Royaume-Uni</placeName>)</placeName>
+                                >Royaume-Uni</placeName>)</placeName>
                         <idno type="autBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb15282157k/PUBLIC</idno>
                     </place>
@@ -450,7 +450,7 @@
                     </place>
                     <place xml:id="newYork">
                         <placeName full="yes">New York (New York, <placeName ref="#etatsUnis"
-                            >États-Unis</placeName>)</placeName>
+                                >États-Unis</placeName>)</placeName>
                         <idno type="autBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb15294963d/PUBLIC</idno>
                     </place>
@@ -515,7 +515,7 @@
                     </place>
                     <place xml:id="philadelphie">
                         <placeName full="yes">Philadelphie (Pennsylvanie, <placeName
-                            ref="#etatsUnis">États-Unis</placeName>)</placeName>
+                                ref="#etatsUnis">États-Unis</placeName>)</placeName>
                         <idno type="autBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb15238447h/PUBLIC</idno>
                     </place>
@@ -1397,6 +1397,27 @@
                         <placeName full="yes">Cros (Puy-de-Dôme, France)</placeName>
                         <idno type="authBnf"
                             >http://catalogue.bnf.fr/ark:/12148/cb152694790/PUBLIC</idno>
+                    </place>
+                    <place xml:id="marminiacLotFrance">
+                        <placeName full="yes">Marminiac (Lot, France)</placeName>
+                        <idno type="autBnf"
+                            >http://catalogue.bnf.fr/ark:/12148/cb152609258/PUBLIC</idno>
+                    </place>
+                    <place xml:id="fleurbaixPasDeCalaisFrance" >
+                        <placeName full="yes">Fleurbaix (Pas-de-Calais, France)</placeName>
+                        <idno type="autBnf">http://catalogue.bnf.fr/ark:/12148/cb15268780s/PUBLIC</idno>
+                    </place>
+                    <place xml:id="yzeuresSurCreuseIndreEtLoireFrance">
+                        <placeName full="yes">Yzeures-sur-Creuse (Indre-et-Loire, France)</placeName>
+                        <idno type="autBnf">http://catalogue.bnf.fr/ark:/12148/cb152578302/PUBLIC</idno>
+                    </place>
+                    <place xml:id="clionIndreFrance">
+                        <placeName full="yes">Clion (Indre, France)</placeName>
+                        <idno type="autBnf">http://catalogue.bnf.fr/ark:/12148/cb15257359d/PUBLIC</idno>
+                    </place>
+                    <place xml:id="mazièresDeTouraineIndreEtLoireFrance">
+                        <placeName full="yes">Mazières-de-Touraine (Indre-et-Loire, France)</placeName>
+                        <idno type="autBnf">http://catalogue.bnf.fr/ark:/12148/cb152577016/PUBLIC</idno>
                     </place>
                 </listPlace>
             </div>
