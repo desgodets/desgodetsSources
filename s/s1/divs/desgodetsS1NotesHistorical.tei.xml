@@ -11,8 +11,12 @@
 <div xmlns="http://www.tei-c.org/ns/1.0" type="notesHistorical" xml:id="s1BackFr01" xml:lang="fre">
     <head>Notes de commentaire historique</head>
     <note xml:id="s1Nh0001">
-        <p> Il faut espérer que l’auteur ne confonde pas le juriste <persName ref="#ferriereClaudeDeLa">Claude de Ferrière</persName>
-            (1639-1715) avec son fils <persName ref="#ferriereClaudeJosephDe">Claude-Joseph
+        <p> Il faut espérer que l’auteur ne confonde pas le juriste <persName
+                ref="#ferriereClaudeDeLa"
+                >Claude de Ferrière</persName>
+            (1639-1715) avec son fils <persName
+                ref="#ferriereClaudeJosephDe"
+            >Claude-Joseph
                 de Ferrière</persName> qui a en particulier continué les
                 œuvres de son père, en particulier le Corps et compilation de tous les
                 commentateurs sur la coutume de Paris, réédité, corrigé et augmenté en
@@ -396,16 +400,7 @@
             qui dépendait donc de la châtellenie de Lille, mais qui au spirituel
             dépendait de la paroisse de Fleurbaix (Artois). Elle forma une commune
             jusqu’en 1790 où elle fut réunit, à la demande des habitants et à l’avis du
-            district à la commune de <hi
-                rend="Desgodets_IndexLocorum"
-                >[Fleurbaix ;
-                Fleurbaix (Pas-de-Calais, France) ; </hi>
-            <ref target="http://catalogue.bnf.fr/ark:/12148/cb15278634j/PUBLIC">
-                <hi rend="Desgodets_IndexLocorum"
-                    >http://catalogue.bnf.fr/ark:/12148/cb15268780s/PUBLIC</hi>
-            </ref>
-            <hi rend="Desgodets_IndexLocorum">].</hi>
-            <hi rend="color(333333)"> </hi>
+            district à la commune de <placeName ref="#fleurbaixPasDeCalaisFrance">Fleurbaix</placeName>.
         </p>
     </note>
     <note xml:id="s1Nh0019">
@@ -489,8 +484,7 @@
             <ref target="http://catalogue.bnf.fr/ark:/12148/cb15269728x/PUBLIC">
                 <hi rend="italic">Haute-Auvergne</hi>
             </ref>. Le département de l'Allier correspond approximativement au
-                Bourbonnais.<hi
-                rend="cite_crochet1"> ] </hi>
+                Bourbonnais.] 
         </p>
     </note>
     <note xml:id="s1Nh0022">
@@ -1845,12 +1839,13 @@
     </note>
     <note xml:id="s1Nh0218">
         <p> En <ref>agriculture</ref> et <ref>jardinage</ref>, le
-                <hi rend="italic">paillis</hi> (ou <hi
-                rend="italic">mulch</hi>) est
+                <hi rend="italic"
+                >paillis</hi> (ou <hi rend="italic"
+                >mulch</hi>) est
             une couche de <ref>matériau</ref> protecteur posée sur le <ref>sol</ref>, principalement dans le but de modifier les effets
             du <ref>climat</ref> local. Si, à l'origine, le terme dérive
             évidemment de <ref>paille</ref>, de nombreux autres matériaux
-                <ref >naturels</ref> ou <ref >synthétiques</ref> sont
+                <ref>naturels</ref> ou <ref>synthétiques</ref> sont
             utilisés à cet effet. L'opération qui consiste à mettre en place ce
             matériau est le <hi
                 rend="italic">paillage</hi>.</p>
@@ -2718,20 +2713,13 @@
     <note xml:id="s1Nh0398">
         <p> Dans les premiers jours de 1558, le <ref>duc de Guise</ref>,
             lieutenant général du royaume, rappelé d'urgence dans le Nord de la France
-            par <ref
-                >Henri II</ref> pour faire face à l’invasion espagnole
-            depuis les Pays-Bas, s'empare du port de <ref
-                
-                >Calais</ref>. Après
+            par <ref>Henri II</ref> pour faire face à l’invasion espagnole
+            depuis les Pays-Bas, s'empare du port de <ref>Calais</ref>. Après
             211 ans d'occupation anglaise, (du 4 août 1347 au 8 janvier 1558), cette
-            ville importante revient définitivement à la <ref
-                >couronne de
-                France</ref>. <ref
-                >Lord Wentworth</ref>, gouverneur de la
-            ville et les habitants anglais de Calais et de <ref
-                >Guînes</ref>
-            furent alors renvoyés en <ref 
-                >Angleterre</ref> et le <ref >Calaisis</ref> fut renommé « <hi
+            ville importante revient définitivement à la <ref>couronne de
+                France</ref>. <ref>Lord Wentworth</ref>, gouverneur de la
+            ville et les habitants anglais de Calais et de <ref>Guînes</ref>
+            furent alors renvoyés en <ref>Angleterre</ref> et le <ref>Calaisis</ref> fut renommé « <hi
                 rend="italic"
             >Pays
                 Reconquis</hi> » pour commémorer le rétablissement de la domination
@@ -3120,23 +3108,19 @@
                 cit</hi>., t. 4, p. 695.</p>
     </note>
     <note xml:id="s1Nh0472">
-        <p> Hameau de <hi rend="Desgodets_IndexLocorum"
-                >[Yzeures-sur-Creuse ;
-                Yzeures-sur-Creuse (Indre-et-Loire, France) ;
-                http://catalogue.bnf.fr/ark:/12148/cb152578302/PUBLIC].</hi>
+        <p> Hameau de <placeName ref="#yzeuresSurCreuseIndreEtLoireFrance">Yzeures-sur-Creuse</placeName>.
         </p>
     </note>
     <note xml:id="s1Nh0473">
-        <p> Il s’agit sans doute de l'abbaye de Marmoutier qui fut une <ref >
+        <p> Il s’agit sans doute de l'abbaye de Marmoutier qui fut une <ref>
                 <hi rend="italic">abbaye</hi>
             </ref>
             <ref>
                 <hi rend="italic">bénédictine</hi>
             </ref> importante, dont les dépendances s'étendaient dans une bonne partie
-            de la France médiévale. Elle était située au nord de la <ref
-                >
+            de la France médiévale. Elle était située au nord de la <ref>
                 <hi rend="italic">Loire</hi>
-            </ref>, face à la vieille ville de <ref >
+            </ref>, face à la vieille ville de <ref>
                 <hi rend="italic">Tours</hi>
             </ref>. Elle correspond à un terrain de plusieurs hectares, sur lesquels
             subsistent les vestiges de l'ancienne église abbatiale monumentale. Elle
@@ -3158,38 +3142,26 @@
     </note>
     <note xml:id="s1Nh0476">
         <p> L'abbaye de Saint-Cyran-en-Brenne, aussi dénommée depuis 1975 abbaye de
-            Saint-Michel-en-Brenne, est une <ref
-                >
+            Saint-Michel-en-Brenne, est une <ref>
                 <hi rend="italic">abbaye</hi>
-            </ref> située dans la commune de <ref >
+            </ref> située dans la commune de <ref>
                 <hi rend="italic">Saint-Michel-en-Brenne</hi>
-            </ref> dans le <ref >
+            </ref> dans le <ref>
                 <hi rend="italic">département de l'Indre</hi>
-            </ref>, anciennement province du <ref >
+            </ref>, anciennement province du <ref>
                 <hi rend="italic">Berry</hi>
             </ref>.</p>
     </note>
     <note xml:id="s1Nh0477">
-        <p> La châteua de L’Isle Savary est situé sur la commune de <hi
-                rend="Desgodets_IndexLocorum"
-                >[Clion ; Clion (Indre, France) ;
-                http://catalogue.bnf.fr/ark:/12148/cb15257359d/PUBLIC].</hi>
+        <p>Le château de l’Isle Savary est situé sur la commune de <placeName ref="#clionIndreFrance">Clion</placeName>
         </p>
     </note>
     <note xml:id="s1Nh0478">
         <p> Non localisé.</p>
     </note>
     <note xml:id="s1Nh0479">
-        <p> Peut-être sur la commune de <hi rend="Desgodets_IndexLocorum"
-                >[Mazières de
-                Touraine ; Mazières-de-Touraine (Indre-et-Loire, France) ; </hi>
-            <ref >
-                <hi rend="Desgodets_IndexLocorum"
-                    >http://catalogue.bnf.fr/ark:/12148/cb152577016/PUBLIC</hi>
-            </ref>
-            <hi rend="Desgodets_IndexLocorum">]</hi>
-            <hi rend="color(333333)">.</hi>
-        </p>
+        <p> Peut-être sur la commune de <placeName ref="#mazièresDeTouraineIndreEtLoireFrance">Mazières de
+                Touraine</placeName>.</p>
     </note>
     <note xml:id="s1Nh0480">
         <p> Bourdot de Richebourg (<hi rend="italic"
@@ -3737,8 +3709,8 @@
                 &amp;c.</hi> 1613. Julien Brodeau ».</p>
     </note>
     <note xml:id="s1Nh0576">
-        <p>Bourdot de Richebourg (<hi rend="italic"
-                >ibid</hi>.) précise en note (b) : « <hi rend="italic"
+        <p>Bourdot de Richebourg (<hi rend="italic">ibid</hi>.) précise en note (b) : « <hi
+                rend="italic"
                 >Masuer. tit. 22.
                 de praescript. Num. 1 in patria Alverniae consuetudinaria est una soila
                 praescript 30. annorum. </hi>Et ce qui est tiré de la Novelle de <hi
@@ -3888,15 +3860,7 @@
         <p> Il s’agit de l’article 3.</p>
     </note>
     <note xml:id="s1Nh0600">
-        <p> Dans la coutume il est écrit « <hi rend="Desgodets_IndexLocorum"
-                >[Marminhac ; Marminiac (Lot, France) ;  </hi>
-            <ref >
-                <hi rend="Desgodets_IndexLocorum"
-                    >http://catalogue.bnf.fr/ark:/12148/cb152609258/PUBLIC</hi>
-            </ref>
-            <hi rend="Desgodets_IndexLocorum">]</hi>
-            <hi rend="color(333333)"
-            > </hi>». S’il s’agit de cette commune, Il est
+        <p> Dans la coutume il est écrit « <placeName ref="#marminiacLotFrance">Marminhac</placeName> ». S’il s’agit de cette commune, Il est
             étrange qu’elle se situe si loin de la paroisse de Cros (Puy-de-Dôme).</p>
     </note>
     <note xml:id="s1Nh0601">
