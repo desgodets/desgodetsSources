@@ -252,6 +252,7 @@
                      <item><persName>Dirk Van de Vijver</persName>, Associate
                         Professor, Utrecht University (Netherlands).</item>
                   </list>
+                  <p>(Les fonctions sont indiquées à l'époque du projet)</p>
                </div>
                <div xml:id="mentionsBodyFr01.03" type="chapter">
                   <head>Édition des textes</head>
@@ -346,61 +347,31 @@
                      quelque finalité que ce soit (pédagogique, scientifique ou
                      commercial), doit faire l’objet d’une demande d’autorisation
                      préalable auprès de l’institution concernée.</p>
-                  <p>Le Centre de théorie et analyse du droit (UMR 7074) met à
-                     disposition cette ressource électronique structurée, protégée
-                     par le code de la propriété intellectuelle sur le droit
-                     d'auteur (L111-1) et sur les bases de données (L341-1), selon
-                     les termes de la licence Creative Commons : « Paternité – Pas
-                     d'Utilisation Commerciale - Pas de Modification ; 3.0
-                     France ».</p>
-                  <p>Cette licence est disponible en ligne : <ref type="external"
-                        target="http://creativecommons.org/licences/by-nc-sa/3.0/fr"
-                        >http://creativecommons.org/licenses/by-nc/3.0/fr/</ref>
-                     ou par courrier postal à Creative Commons, 171 Second Street,
-                     Suite 300, San Francisco, California 94105, USA.</p>
-                  <list type="unordered">
-                     <item>
-                        <hi rend="bold"
-                        >Pas d'Utilisation Commerciale</hi> : Le
-                        Centre de théorie et analyse du droit souhaite
-                        encourager l'utilisation et l'amélioration de ses
-                        ressources électroniques, pour les intérêts de
-                        l'enseignement et de la recherche. Toute autorisation
-                        au-delà du champ de cette licence doit être obtenue auprès
-                        du Centre de théorie et analyse du droit.</item>
-                     <item>
-                        <hi rend="bold"
-                           >Paternité</hi> : Le Centre de théorie et
-                        analyse du droit demande à ce que toute publication
-                        dérivée de ses ressources électroniques comporte : <list
-                           type="unordered">
-                           <item>1. le nom du Centre de théorie et analyse du
-                              droit et, pour les publications électroniques, son
-                              logo.</item>
-                           <item>2. l'URI permettant d'accéder à la page citée sur
-                              notre site, ou à la page d'accueil de la
-                              ressource.</item>
-                           <item>3. la date du fichier source utilisé.</item>
-                        </list>
-                     </item>
-                  </list>
-                  <p>Vous êtes libres de remixer, arranger et adapter cette œuvre
-                     à des fins non commerciales, tant que vous nous créditez et
-                     que les nouvelles œuvres sont diffusées selon les mêmes
-                     conditions. Cependant, afin de mieux servir la communauté
-                     scientifique, le Centre de théorie et analyse du droit
-                     s'engage à conserver et à toujours offrir publiquement la
-                     version la plus à jour de ses ressources électroniques par
-                     une URI pérenne. Il s'engage en conséquence à les corriger et
-                     à les améliorer, à intégrer les contributions qui lui sont
-                     soumises (après validation par un comité scientifique), et à
-                     référencer l'origine de ces contributions. Toute modification
-                     de la ressource qui ne serait pas reversée à la version de
-                     référence sous l'autorité éditoriale du Centre de théorie et
-                     analyse risquerait en conséquence d'être perdue ; afin de
-                     ne pas disperser les contributions et de permettre les
-                     meilleures conditions possibles de collaboration
-                     scientifique, nous vous invitons à nous en faire part.</p>
+                  <p>Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
+                     <lb/>Cette licence est disponible en ligne : <ref
+                        target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
+                        >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</p>
+                  <p>Attribution : Vous devez créditer l’œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées. Vous devez indiquer ces informations par tous les moyens possibles mais vous ne pouvez pas suggérer que le Centre de théorie et d’analyse du droit vous soutient ou soutient la façon dont vous avez utilisé son œuvre. 
+                     <lb/>Le Centre de théorie et d’analyse du droit demande à ce que toute publication dérivée de ses ressources électroniques comporte : 
+                     <lb/>1. le nom du Centre de théorie
+                     et d’analyse du droit et, pour les publications électroniques,
+                     son logo ainsi que la mention des auteurs de l’édition. 
+                     <lb/>2. l’URI permettant d’accéder à la page citée
+                     sur notre site, ou à la page d’accueil de la ressource
+                     <lb/>3. la date et la version du fichier source utilisé.</p>
+                  <p><hi rend="italic"
+                     >Pas d’Utilisation Commerciale</hi> — Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant. 
+                     <lb/>Le Centre de théorie et d’analyse du droit souhaite principalement encourager l’utilisation et l’amélioration de ses ressources électroniques dans l’intérêt de l’enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d’analyse du droit.</p>
+                  <p><hi rend="italic"
+                     >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
+                     <lb/>Vous n’êtes pas obligé de signaler votre travail auprès du Centre de théorie et d’analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
+                        type="external" target="mailto:contact@desgodets.net"
+                        >contact@desgodets.net</ref>.</p>
+                  <p><hi rend="italic"
+                     >Pas de restrictions additionnelles</hi> – Vous n’êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l’œuvre dans les conditions décrites par la licence.</p>
+                  <p>Le Centre de théorie et d’analyse du droit s’engage à conserver et à toujours offrir publiquement la version la plus à jour de ses ressources électroniques par l’intermédiaire d’une URI pérenne. 
+                     <lb/>Dans l’intérêt de la communauté scientifique, afin de ne pas disperser les contributions et de permettre les meilleures conditions de collaboration scientifique, le Centre de théorie et d’analyse du droit se propose de recueillir et d’intégrer les corrections et contributions qui lui seront soumises (après validation par un comité scientifique), et à référencer leur origine.</p>
+                  <p>Vous n’êtes pas dans l’obligation de respecter la licence pour les éléments ou matériel appartenant au domaine public ou dans le cas où l’utilisation que vous souhaitez faire est couverte par une exception.</p>
                </div>
             </div>
             <div xml:id="mentionsBodyFr03" type="part">
