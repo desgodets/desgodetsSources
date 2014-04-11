@@ -915,10 +915,8 @@
                   </choice> antiques en France et en Italie, desquels j’ay fait un <hi
                      rend="Desgodets_Citation_1">
                      <choice>
-                        <orig>
-                           <sic>receuil</sic>
-                        </orig>
-                        <reg>recueil</reg>
+                        <sic>receuil</sic>
+                        <corr>recueil</corr>
                      </choice>
                      <!-- TODO voir si cela passe, et si peut améliorer --> des plus
                      beaux ouvrages<ref
@@ -2073,7 +2071,7 @@
                                  <orig>colomnes</orig>
                                  <reg>colonnes</reg>
                               </choice>
-                           </term>
+                           </term> 
                            <sic>ce</sic> font plus menues par le haut que par le bas,
                            ce que l’on nomme <term
                               type="gT" ref="#diminution"
@@ -2359,7 +2357,7 @@
                         distances sur les parallèles en remontant au-dessus de celle du
                         milieu, à compter toujours de la ligne de <sic>dimention</sic><ref
                            type="noteCritical" target="#o5Nc0032"
-                        />
+                        /> 
                         CE, observant de faire les distances égales sur les parallèles
                         également éloignées de celle du milieu. Tous les points ainsy
                         trouvés seront sur un même arc-de-cercle. On pouroit, de même,
@@ -4020,8 +4018,8 @@
                            </choice>
                         </term>a un module de <term type="gT" ref="#hauteur"
                            >hauteur</term>, compris le <term type="gT"
-                           ref="#filet">filet</term>
-                        <sic>où</sic>
+                           ref="#filet">filet</term> 
+                        <sic>où</sic> 
                         <term type="gT" ref="#listeau"
                            >listeau</term> du bas du <term type="gT" ref="#fut"
                            >fût</term>, ce qui est pratiqué en cet ordre seulement. <pb
@@ -4215,7 +4213,7 @@
                         <choice>
                            <orig>Dessein</orig>
                            <reg>dessin</reg>
-                        </choice>
+                        </choice> 
                         <sic>deuxisne</sic> de l’<term type="gT"
                            ref="#ordreToscan">ordre toscan</term>
                         <lb/>
@@ -4867,7 +4865,7 @@
                      <p xml:id="o5BodyFr01.03.003.p006">La hauteur de l’<term
                            type="gT" ref="#imposte">imposte</term> et de l’<term
                            type="gT" ref="#archivolte">archivolte</term>
-                        <ref type="noteCritical" target="#o5Nc0085"/>
+                        <ref type="noteCritical" target="#o5Nc0085"/> 
                         <sic>sont</sic> 
                         la même qu’aux <term
                            type="gT" ref="#arc">arcs</term>
@@ -8022,7 +8020,7 @@
                            target="#o5Nc0194"/> l’<term type="gT" ref="#ove"
                            >ove</term>
                         et le <term
-                           type="gT" ref="#filet">filet</term>
+                           type="gT" ref="#filet">filet</term> 
                         <sic>un</sic>-dessous la moitié de la hauteur de l’<term
                            type="gT" ref="#astragale"
                            >astragale</term>, le diamètre de la
@@ -9527,7 +9525,7 @@
                      exemples dans l’antique. Outre le <placeName
                         ref="#romeTempioDiPortuno"
                         >temple de la Fortune virile à
-                        Rome</placeName> qui fournit à tous les deux, <sic><orig>un</orig><reg>au</reg></sic>
+                        Rome</placeName> qui fournit à tous les deux, <choice><sic>un</sic><corr>au</corr></choice>
                      <placeName ref="#romeTheatreDeMarcellus"
                         >théâtre de
                         Marcellus</placeName> et au <placeName
@@ -9537,7 +9535,7 @@
                         type="gT" ref="#ionique">ionique</term> ont des <term
                         type="gT" ref="#volute"
                         >volutes</term> par le devant et des roullotes
-                     par les côtés. Et, <sic>un</sic>
+                     par les côtés. Et, <sic>un</sic> 
                      <term type="gT" ref="#portique"
                         >portique</term> du <placeName
                         ref="#romeTiempoDiSaturno"
@@ -12281,8 +12279,7 @@
                         </term> 3, le <term type="gT" ref="#cavet"
                               >cavet</term> avec
                         son <sic><term
-                              type="gT" ref="#filet"
-                           >filet</term></sic>, l’<term
+                              type="gT" ref="#filet">filet</term></sic>, l’<term
                            type="gT" ref="#ove">ove</term> 2, le <term type="gT"
                            ref="#larmier">larmier</term> avec le petit <term
                            type="gT" ref="#talon"
@@ -12511,7 +12508,7 @@
                         doit être toujours la même, soit qu’il y ait des <term
                            type="gT" ref="#ornement"
                                  ><choice><orig>ornemens</orig><reg>ornements</reg></choice></term>, ou qu’il n’y en ait pas. Le bon goût et
-                        l’élégance des ordres d’architecture ne <sic>concistent</sic>
+                        l’élégance des ordres d’architecture ne <sic>concistent</sic> 
                         pas dans la quantité des <term
                            type="gT" ref="#ornement">
                            <choice>
@@ -13484,7 +13481,7 @@
                            type="gT" ref="#bande"
                            >bande</term> en a
                         5 et l’<term
-                           type="gT" ref="#astragale">astragale</term> 
+                           type="gT" ref="#astragale">astragale</term>
                         <add>1</add><!-- TODO véfifier si même main -->. La première <term
                            type="gT" ref="#bande">bande</term> de l’<term
                            type="gT" ref="#architrave"
@@ -13593,7 +13590,7 @@
                            >larmier</term> en a 7 parties
                         et le <term
                            type="gT" ref="#talon"
-                           >talon</term> 2. À la hauteur
+                           >talon</term> 2. À la hauteur 
                         <sic>destinée</sic> par le <term
                            type="gT" ref="#cavet">cavet</term>, le <term
                            type="gT" ref="#filet"
@@ -14285,7 +14282,7 @@
                            <term
                            type="gT" ref="#corneDuTailloir"
                            >corne du
-                           tailloir</term> ; c’est-à-dire de ⅙ de module <sic>à</sic>
+                           tailloir</term> ; c’est-à-dire de ⅙ de module <sic>à</sic> 
                         toutes les quatre <term
                            type="gT" ref="#face"
                            >faces</term> du
@@ -14838,7 +14835,7 @@
                         </choice>
                      </term> du <placeName ref="#romeTempioDeiCastori"
                         >temple de
-                        Jupiter Stator</placeName>
+                        Jupiter Stator</placeName> 
                      <sic>en</sic> Campo <choice>
                         <orig>Vachino</orig>
                         <reg>Vaccino</reg>
@@ -14944,7 +14941,7 @@
                            >corniches</term></sic>.</p>
                   <p xml:id="o5BodyFr01.06.p005"
                         >Les caractères essentiels de l’<term type="gT"
-                        ref="#ordreCorinthien">ordre corinthien</term>
+                        ref="#ordreCorinthien">ordre corinthien</term> 
                      <sic>est</sic> dans son <term type="gT" ref="#chapiteau"
                         >chapiteau</term>, dans la <term type="gT" ref="#base">
                         <choice>
@@ -15129,7 +15126,7 @@
                            ref="#frise"
                            >frise</term> est droite et aplomb de la première <term
                            type="gT" ref="#bande">bande</term> de l’<term
-                           type="gT" ref="#architrave">architrave</term>
+                           type="gT" ref="#architrave">architrave</term> 
                         <sic>est</sic> du <term type="gT" ref="#vif"
                            >vif</term> du haut de la <term type="gT"
                            ref="#colonne">
@@ -15619,7 +15616,7 @@
                         de 3/4 de leur diamètre par le bas, qui font un module 1/2,
                         pour les raisons raportées <pb
                            xml:id="o5P136" n="p136"/>
-                        <fw type="pageNum"> 136</fw>
+                        <fw type="pageNum"> 136</fw> 
                         <sic>aux</sic> 3<hi rend="superscript"
                            >e</hi> chapitre sur le
                         second <term
@@ -15907,7 +15904,7 @@
                         <ref type="noteCritical" target="#o5Nc0375"
                            /> et la largeur de
                            l’<term
-                           type="gT" ref="#archivolte">archivolte</term>
+                           type="gT" ref="#archivolte">archivolte</term> 
                         <sic>sera</sic><ref type="noteCritical"
                            target="#o5Nc0376"
                            /> d’un
@@ -16793,7 +16790,7 @@
                            >feuilles</term>
                         inférieures. La hauteur de ces premières <term
                            type="gT" ref="#feuille"
-                           >feuilles</term> étant <sic>divisées</sic>
+                           >feuilles</term> étant <sic>divisées</sic> 
                         en 10 parties, l’on en prendra 9 pour la hauteur des secondes
                            <term
                            type="gT" ref="#feuille">feuilles</term>, la 10<hi
@@ -17526,7 +17523,7 @@
                            type="gT" ref="#feuille"
                            >feuilles</term>
                         chacun, dont les inférieures ont 3<ref
-                           type="noteCritical" target="#o5Nc0416"/>
+                           type="noteCritical" target="#o5Nc0416"/> 
                         <sic>module</sic> de hauteur et la
                         seconde 3/5<ref
                            type="noteCritical" target="#o5Nc0417"
@@ -17537,7 +17534,7 @@
                         sont 8 <term
                            type="gT" ref="#tigette"
                               >tigettes</term>
-                        cannelées et couronnées chacune d’une <sic><orig>canture</orig><reg>ceinture</reg></sic><ref
+                        cannelées et couronnées chacune d’une <choice><sic>canture</sic><corr>ceinture</corr></choice><ref
                            type="noteCritical" target="#o5Nc0418"
                            /> composée d’un <term type="gT" ref="#talon"
                            >talon</term>, une <term type="gT" ref="#astragale"
@@ -18143,8 +18140,8 @@
                            chapiteaux de pilastres</term> à peu près d’égale largeur
                            <pb
                            xml:id="o5P158" n="p158"/>
-                        <fw type="pageNum"> 158</fw>
-                        <sic><orig>celle</orig><reg>à celle</reg></sic> du <term
+                        <fw type="pageNum"> 158</fw> 
+                        <choice><sic>celle</sic><corr>à celle</corr></choice> du <term
                            type="gT" ref="#chapiteauDeColonne">chapiteau des <choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
@@ -18171,7 +18168,7 @@
                            >volutes</term> du milieu se joignent comme à
                         ceux des <placeName
                            ref="#romeTermeDiDiocleziano"
-                              >termes de
+                              >termes de 
                               <sic>Dioclétan</sic>
                         </placeName>, elles paroissent écrasées ; et que, si elles ne
                         se joignent pas, il reste une espace entre deux, ce qui a
@@ -18246,7 +18243,7 @@
                               <reg>colonnes</reg>
                            </choice>
                         </term> et la largeur des <term type="gT" ref="#feuille"
-                           >feuilles</term>
+                           >feuilles</term> 
                         <sic>si</sic> trouve proportionnée avec la
                         largeur des <term
                            type="gT" ref="#chapiteau"
@@ -18719,7 +18716,7 @@
                      différence entre l’<term
                         type="gT" ref="#ordreComposite"
                            >ordre
-                        <sic>composit</sic> »]</term>
+                        <sic>composit</sic></term>
                      <ref type="noteCritical" target="#o5Nc0443"
                         /> est fait de l’<term type="gT" ref="#ordreCorinthien"
                         >ordre corinthien</term> et
@@ -24248,7 +24245,7 @@
                            <reg>colonne</reg>
                         </choice>
                      </term>
-                     <ref type="noteCritical" target="#o5Nc0630"/>
+                     <ref type="noteCritical" target="#o5Nc0630"/> 
                      <term type="gT" ref="#colonneCorinthienne"
                            ><sic>corinthiene</sic></term> ou <term type="gT"
                         ref="#colonneComposee">composée</term>
@@ -26272,7 +26269,7 @@
                         >saillie</term>, les retours de
                      leurs <term
                         type="gT" ref="#chapiteau"
-                        >chapiteaux</term> sont
+                        >chapiteaux</term> sont 
                      <sic>suffisament</sic> exprimées. Il y a de certains cas où la
                         <term
                         type="gT" ref="#saillie">saillie</term> des <term
@@ -26466,8 +26463,8 @@
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
                            </choice>
-                        </term>, cottées <sic><orig>I<hi rend="superscript"
-                                 >er</hi></orig><reg>1</reg></sic>, terminée par les
+                        </term>, cottées <choice><sic>I<hi rend="superscript"
+                                 >er</hi></sic><corr>1</corr></choice>, terminée par les
                            <term
                            type="gT" ref="#pilastre"
                            >pilastres</term>, cottées
@@ -26720,7 +26717,7 @@
                      <p xml:id="o5BodyFr02.03.001.p005">Le 4<hi
                            rend="superscript"
                            >e</hi> plan, cotté D, forme un <term type="gT"
-                           ref="#pavillon">pavillon</term>
+                           ref="#pavillon">pavillon</term> 
                         <sic>saillants</sic> hors
                         la <term
                            type="gT" ref="#face"
@@ -26952,7 +26949,7 @@
                         </term> de la <term type="gT" ref="#diminution"
                            >diminution</term>, depuis ce <term type="gT"
                            ref="#renflement"
-                           >renflement</term> jusqu’en haut. Cette
+                           >renflement</term> jusqu’en haut. Cette 
                         <sic>diformité</sic> a fait prendre aux autres le party de
                         faire les <term
                            type="gT" ref="#pilastre"
@@ -27076,7 +27073,7 @@
                            >ressaut</term> sur
                         les <term
                            type="gT" ref="#pilastre"
-                           >pilastres</term> et passer
+                           >pilastres</term> et passer 
                         <sic>ensuitte</sic> en droite ligne sur les autres <term
                            type="gT" ref="#pilastre"
                            >pilastres</term> 5 des flancs ;
@@ -28439,7 +28436,7 @@
                                  <orig>entrecolonnemens</orig>
                                  <reg>entrecolonnements</reg>
                               </choice>
-                           </term>
+                           </term> 
                            <sic>proche</sic> les <term type="gT" ref="#colonne">
                               <choice>
                                  <orig>colomnes</orig>
@@ -28794,9 +28791,9 @@
                               </choice>
                            </term> 28, dans l’<term type="gT" ref="#angle"
                               >angle
-                           </term><sic><orig>restant</orig><reg><term
-                                    type="gT" ref="#rentrant"
-                                 >rentrant</term></reg></sic><ref
+                           </term> <term
+                           type="gT" ref="#rentrant"
+                           ><choice><sic>restant</sic><corr>rentrant</corr></choice></term><ref
                               type="noteCritical" target="#o5Nc0718"
                               /> du flanc du
                               <term
@@ -29226,7 +29223,7 @@
                               <term
                               type="gT" ref="#corpsDeLEdifice"
                               >corps de
-                              l’édifice</term>
+                              l’édifice</term> 
                            <sic>sont</sic>
                            <pb xml:id="o5P241" n="p241"/>
                            <fw type="pageNum">241</fw>
@@ -29655,7 +29652,7 @@
                                  <orig>colomnes</orig>
                                  <reg>colonnes</reg>
                               </choice>
-                           </term>
+                           </term> 
                            <sic>couplés</sic> aux <term type="gT"
                               ref="#encoignure"
                               >encoignures</term> du plan cotté O,
@@ -29871,7 +29868,7 @@
                                  <reg>colonnes</reg>
                               </choice>
                            </term> 64, 68, de la <term type="gT" ref="#face"
-                              >face</term>, et sur <sic>la</sic>
+                              >face</term>, et sur <sic>la</sic> 
                            <term type="gT" ref="#colonne">
                               <choice>
                                  <orig>colomne</orig>
@@ -31710,9 +31707,10 @@
                            <orig>soubassemens</orig>
                            <reg>soubassements</reg>
                         </choice>
-                     </term> du <term type="gT" ref="#dome">dôme</term>. Le <term
-                        type="gT" ref="#pilastre">pilastre</term> 50<ref
-                        type="noteCritical" target="#o5Nc0769"
+                     </term> du <term type="gT" ref="#dome"
+                        >dôme</term>. Le <term type="gT" ref="#pilastre"
+                        >pilastre</term> 50<ref type="noteCritical"
+                        target="#o5Nc0769"
                         /> qui est derrière est
                         d’<hi
                         rend="Desgodets_Glossaire"
@@ -35988,7 +35986,7 @@
                            <reg>colonnes</reg>
                         </choice>
                      </term> du 2<hi rend="superscript"
-                        >e</hi> ordre. <sic>Est</sic>
+                        >e</hi> ordre. <sic>Est</sic> 
                      le 3<hi
                         rend="superscript">e</hi> ordre du <term type="gT"
                         ref="#pavillon">pavillon</term> est <term type="gT"
@@ -38689,7 +38687,7 @@
                            <orig>quarré</orig>
                            <reg>carré</reg>
                         </choice>
-                     </term> par le bas ; <sic>sont</sic>
+                     </term> par le bas ; <sic>sont</sic> 
                      <term type="gT" ref="#balustre"
                         >balustres</term> est plus gros et a peu de
                         <term
@@ -38733,7 +38731,7 @@
                         <choice>
                            <orig>platte-bande</orig>
                            <reg>plate-bande</reg>
-                        </choice> </term>; <sic>sont</sic>
+                        </choice> </term>; <sic>sont</sic> 
                      <term type="gT" ref="#balustre"
                      >balustres</term> est plus mince et plus
                      délicat que les autres.</p>
@@ -39224,7 +39222,7 @@
                         >gorgerin</term> en a 1 et l’autre est pour les
                         <term
                         type="gT" ref="#moulure"
-                        >moulures</term>, laquelle se
+                        >moulures</term>, laquelle se 
                      <sic>partage</sic> en 5 : les deux <term
                         type="gT" ref="#filet"
                         >filets</term> en ont chacun 1 et la <term type="gT"
@@ -40057,7 +40055,7 @@
                         type="gT" ref="#lisse"
                         >lisse</term> et <sic>unie</sic>, parce que le <term
                         type="gT" ref="#etageDeSoubassement"
-                        >soubassement</term> doit être plus simple et moins orné que
+                        >soubassement</term> doit être plus simple et moins orné que 
                      <sic>le</sic>
                      <term type="gT" ref="#piedestal"
                         >piédestaux</term>
@@ -40409,7 +40407,7 @@
                      <p xml:id="o5BodyFr02.14.001.p006"
                            >Plusieurs font consister le bon
                         goût d’architecture dans leur génie de la fécondité de leur
-                        imagination, ne croyant pas qu’il y ait <sic>des</sic>
+                        imagination, ne croyant pas qu’il y ait <sic>des</sic> 
                         architectures des règles presque positive. Mais la variation
                         des différentes manières, qui font succéder <pb
                            xml:id="o5P327" n="p327"/>
@@ -40439,7 +40437,7 @@
                         observé.</p>
                      <p xml:id="o5BodyFr02.14.001.p007"
                               >Les décorations qui se font à
-                        la hatte, avec des cartons, pour les <sic><orig>triompes</orig><reg>triomphes</reg></sic>, les réjouissances publiques, les pompes funèbres et
+                        la hatte, avec des cartons, pour les <choice><sic>triompes</sic><corr>triomphes</corr></choice>, les réjouissances publiques, les pompes funèbres et
                         autres circonstances de cette nature ne demandent pour plaire
                         que des inventions nouvelles qui ayent du raport à leur sujets,
                         et que l’obtique y soit à peu près observé. Leur peu de durée
@@ -41433,7 +41431,7 @@
                         les <persName>Perses</persName>, et des <term
                            type="gT" ref="#statue"
                                  >statues</term> de Persans que les
-                        <persName><sic><orig>Lacédoniens</orig><reg>Lacédémoniens</reg></sic></persName>
+                        <persName><choice><sic>Lacédoniens</sic><corr>Lacédémoniens</corr></choice></persName>
                         firent servir à porter la <term
                            type="gT" ref="#voute">voûte</term> d’une <term
                            type="gT" ref="#galerie">
