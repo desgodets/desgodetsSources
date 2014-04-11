@@ -123,7 +123,8 @@
                     <p>Les images numériques des manuscrits sont mises à disposition par les institutions partenaires mais restent leur propriété exclusive. Celles-ci en autorisent la reproduction et la réutilisation selon leurs propres règles en vigueur. Toute diffusion de ces images, sous quelque forme et sur quelque support que ce soit (papier, audiovisuel, ou numérique), pour quelque finalité que ce soit (pédagogique, scientifique ou commercial), doit faire l’objet d’une demande d’autorisation préalable auprès de l’institution concernée.</p>
                 </availability>
                 <availability status="restricted" xml:id="t9TextLicence">
-                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr">Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
+                            >Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
                         <lb/>Cette licence est disponible en ligne : <ref
                             target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
                             >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</licence>
@@ -1122,11 +1123,11 @@
                                 >saillies</term> d’architecture, les espaces entre les <term
                                 type="gT" ref="#modillon">modillons</term>
                             <pb xml:id="t9P9" n="p9"/>
-                            <fw type="pageNum">9</fw> et les <sic><term type="gT" ref="#mutule"><choice>
-                                        <orig>musules</orig>
-                                        <reg>mutules</reg>
-                                    </choice></term></sic>
-                            <!-- TODO vérifier que bien un sic -->, ensorte que l’on ne compte dans
+                            <fw type="pageNum">9</fw> et les <term type="gT" ref="#mutule"><choice>
+                                        <sic>musules</sic>
+                                        <corr>mutules</corr>
+                                    </choice></term>
+                            <!-- TODO vérifier affichage et qu'un sic-->, ensorte que l’on ne compte dans
                             le <term
                                 type="gT" ref="#toise">toisé</term>
                             <term type="gT" ref="#precisement"
@@ -1750,7 +1751,7 @@
                                 ref="#hauteur">hauteur</term> des <term type="gT" ref="#voute"
                                 >voûtes</term> et des reins de la même
                             qualité que le bas parce que leur partie du haut n’a point de <term
-                                type="gT" ref="#parement">parement</term>
+                                type="gT" ref="#parement">parement</term> 
                             <sic>ets</sic> n’est pas construite avec les même <term type="gT"
                                 ref="#materiau"
                                 >matériaux</term>, et si
@@ -2862,7 +2863,7 @@
                                     <orig>ceintre</orig>
                                     <reg>cintre</reg>
                                 </choice></term> de la <term type="gT" ref="#voute"
-                                >voûte</term> étoit
+                                >voûte</term> étoit 
                                 <sic>oval</sic> surmonté ou surbaissé, pour en avoir géométriquement
                             la <term
                                 type="gT" ref="#circonference"
@@ -2906,7 +2907,7 @@
                                 type="gT" ref="#cintre"><choice>
                                     <orig>ceintre</orig>
                                     <reg>cintre</reg>
-                                </choice></term>
+                                </choice></term> 
                             <sic>oval</sic>.</p>
                         <p xml:id="t9BodyFr01.06.p009">8. Exemple d’une <term type="gT"
                                 ref="#vouteSurmontee" ana="#ivouteSurmontee"
@@ -5188,7 +5189,7 @@
                         <p xml:id="t9BodyFr01.10.p001">1. Le <term type="gT" ref="#toise"
                                 >toisé</term> des <term type="gT" ref="#vouteSpherique"
                                 ana="#ivouteSpherique"
-                                >voûtes sphériques</term> a beaucoup de
+                                >voûtes sphériques</term> a beaucoup de 
                                 <sic>rapart</sic> avec le <term
                                 type="gT" ref="#toise"
                                 >toisé</term>
@@ -5876,8 +5877,8 @@
                                 type="gT" ref="#vouteSpheroide" ana="#ivouteSpheroide"
                                 >voûte sphéroïdale</term>.</p>
                         <p xml:id="t9BodyFr01.11.p005">5. Exemple le grand <term type="gT"
-                                ref="#diametre">diamettre</term>
-                            <sic>oval</sic>
+                                ref="#diametre">diamettre</term> 
+                            <sic>oval</sic> 
                             de la <term type="gT"
                                 ref="#vouteSpheroide" ana="#ivouteSpheroide"
                                 >voûte
@@ -7864,11 +7865,11 @@
                                 xml:id="t9P71" n="p71"/>
                             <fw type="pageNum"
                                     >71 [« 1 » coupé]</fw> de tous les voussoirs qui les
-                            <sic><term
+                            <term
                                     type="gT" ref="#composer"><choice>
-                                        <orig>composents</orig>
-                                        <reg>composent</reg>
-                                    </choice></term></sic> tendent chacun à un même <term type="gT"
+                                        <sic>composents</sic>
+                                        <corr>composent</corr>
+                                    </choice></term> tendent chacun à un même <term type="gT"
                                 ref="#centre">centre</term>.</p>
                         <p xml:id="t9BodyFr01.14.p002"
                                 >2. Les trompes sont de différentes sortes,
@@ -15171,10 +15172,8 @@
                             <fw type="pageNum">129 [coupé]</fw>
                             <term rend="gT" ref="#raccord">
                                 <choice>
-                                    <orig>
-                                        <sic>raccor</sic>
-                                    </orig>
-                                    <reg>raccord</reg>
+                                    <sic>raccor</sic>
+                                    <corr>raccord</corr>
                                 </choice>
                             </term> de <term type="gT" ref="#mur">murs</term> au pourtour des <term
                                 type="gT" ref="#chambranle">chambranles</term> des <term type="gT"
@@ -16025,10 +16024,9 @@
                             addossés, les chevestres 7, 10 sont à 6 pouces de distance du <term
                                 type="gT" ref="#mur">mur</term> de
                             <term
-                                type="gT" ref="#refend">refend</term> vis à vis l’âtre renfoncée, et les tuyaux qui y sont <sic>
-                                <orig>encâtrés</orig>
-                                <reg>encastrés</reg>
-                            </sic>
+                                type="gT" ref="#refend">refend</term> vis à vis l’âtre renfoncée, et les tuyaux qui y sont <choice><sic>encâtrés</sic>
+                                <corr>encastrés</corr></choice>
+                            
                             <!-- TODO vérifier affichage --> et les linçoirs 11, 12 sont joignants
                             les <term
                                 type="gT" ref="#mur">murs</term>, l’on suppose que la <term
@@ -16639,10 +16637,8 @@
                                 >escaliers</term> en vis sur un noiau, pour la mesure commune des
                             <term
                                 type="gT" ref="#marche">marches</term> de chaque <term type="gT"
-                                ref="#etage">étage</term> ; aux <sic>
-                                <orig>écaliers</orig>
-                                <reg>escaliers</reg>
-                            </sic>
+                                ref="#etage">étage</term> ; aux <choice><sic>écaliers</sic>
+                                <corr>escaliers</corr></choice>
                             <!-- TODO vérifier l'affichage --> où les <term type="gT" ref="#marche"
                                 >marches</term> sont en <term type="gT" ref="#rampe" ana="#irampe"
                                 >rampe</term> droite avec des
@@ -16760,12 +16756,11 @@
                                 <expan>article</expan>
                             </choice> 3 du chapitre 5.</p>
                         <p xml:id="t9BodyFr02.06.p002">2. Aux <term type="gT" ref="#poicon">
-                                <sic>
-                                    <orig>poinçoins</orig>
-                                    <reg>
-                                        <term type="gT" ref="#poincon">poinçons</term></reg>
-                                </sic>
-                            </term>--&gt;<!-- TODO vérfier l'affichage -->, antraits et autres bois
+                                <choice>
+                                    <sic>poinçoins</sic>
+                                    <reg>poinçons</reg>
+                                </choice>
+                            </term> <!-- TODO vérfier l'affichage -->, antraits et autres bois
                             de <term
                                 type="gT" ref="#charpente" ana="#icharpente"
                                 >charpente
@@ -17268,8 +17263,7 @@
                                 type="gT" ref="#ardoise" ana="#iardoise"
                                 >ardoises</term> dont 4 viennent d’<placeName ref="#angers"
                                 >Angers</placeName>, qui sont, la grosse noire qui est
-                            la plus épaisse, elle <sic/>
-                            <!-- TODO voir le rendu --> 12 à 13 pouces de long, 7 à 8 pouces de
+                            la plus épaisse, elle <sic/>  12 à 13 pouces de long, 7 à 8 pouces de
                             large, la quarré forte qui a 11 à 12 pouces de long, 7 à 8 pouces de
                             large. C’est de cette sorte d’<term
                                 type="gT" ref="#ardoise" ana="#iardoise"
@@ -18450,8 +18444,8 @@
                                 type="gT" ref="#longueur">longueur</term> du <term type="gT"
                                 ref="#faite">faîte</term>.</p>
                         <p xml:id="t9BodyFr03.04.p022">21. Lorsque les noues sont faites avec <term
-                                type="gT" ref="#ardoise" ana="#iardoise">ardoises</term>
-                            <sic><orig>étroite</orig><reg>étroites</reg></sic> sans plomb l’on <term
+                                type="gT" ref="#ardoise" ana="#iardoise">ardoises</term> 
+                            <choice><sic>étroite</sic><corr>étroites</corr></choice> sans plomb l’on <term
                                 type="gT" ref="#toiser">toise</term> la <term type="gT"
                                 ref="#couverture"
                                 >couverture</term>
