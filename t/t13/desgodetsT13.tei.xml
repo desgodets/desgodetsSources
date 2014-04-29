@@ -4,7 +4,7 @@
                            schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!-- 
    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
-    Fichier du manuscrit T2 sur le Toisé 
+    Fichier du manuscrit T13 sur le Toisé 
    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
 -->
 <!-- TODO : supprimer les exemples d’encodage mis en commentaire dans le header -->
@@ -15,7 +15,7 @@
             <!-- mentions de titre et de responsabilité -->
             <titleStmt>
                 <title xml:lang="fre" type="main">Traité du toisé</title>
-                <title xml:lang="fre" type="sub">Manuscrit T2</title>
+                <title xml:lang="fre" type="sub">Manuscrit T13</title>
                 <author>
                     <persName>
                         <forename>Antoine</forename>
@@ -80,7 +80,7 @@
             <publicationStmt>
                 <date when="2013">2013</date>
                 <!-- voir si on attribue un DOI ou un identifiant ARK aux fichiers édités -->
-                <idno n="criticalEdition" type="URI">t2</idno>
+                <idno n="criticalEdition" type="URI">t13</idno>
                 <!-- responsable de la publication -->
                 <publisher>
                     <orgName>Centre de théorie et d’analyse du droit (UMR 7074)</orgName>
@@ -96,7 +96,7 @@
                   <addrLine>contact@desgodets.fr</addrLine>
                </address>
                 </publisher>
-                <availability status="restricted" xml:id="t2ImagesLicence">
+                <availability status="restricted" xml:id="t13ImagesLicence">
                     <p>Les images numériques des manuscrits sont mises à disposition par les
                         institutions partenaires mais restent leur propriété exclusive. Celles-ci en
                         autorisent la reproduction et la réutilisation selon leurs propres règles en
@@ -106,7 +106,7 @@
                         l’objet d’une demande d’autorisation préalable auprès de l’institution
                         concernée.</p>
                 </availability>
-                <availability status="restricted" xml:id="t2TextLicence">
+                <availability status="restricted" xml:id="t13TextLicence">
                     <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr">Le
                         Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette
                         ressource électronique structurée, protégée par le code de la propriété
@@ -174,16 +174,19 @@
             </notesStmt>
             <!-- description de la source -->
             <sourceDesc>
-                <msDesc xml:id="t2" xml:lang="fre">
+                <msDesc xml:id="t13" xml:lang="fre">
                     <!-- identification du manuscrit -->
-                    <msIdentifier xml:id="t2msIdentifier">
-                        <country>États-Unis</country>
-                        <settlement>New-York</settlement>
-                        <institution>Columbia University Library</institution>
-                        <repository>Avery Classics</repository>
-                        <idno>AA3101 D451 F</idno>
+                    <msIdentifier xml:id="t13msIdentifier">
+                        <country>France</country>
+                        <settlement>Londres</settlement>
+                        <institution>RIBA, Victoria &amp; Albert</institution>
+                        <repository>RIBA Study room</repository>
+                        <idno>DeA/3</idno>
                         <altIdentifier>
-                            <idno>52130 E</idno>
+                            <idno>DeA/1/2</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <idno>MS.72.08 : 34 (44)</idno>
                         </altIdentifier>
                     </msIdentifier>
                     <!-- contenu du manuscrit-->
@@ -193,31 +196,16 @@
                                 <persName xml:lang="fre" full="yes">Desgodets, Antoine
                                     (1653-1728)</persName>
                             </author>
-                            <title type="supplied">Traité du toisé des bâtimens aux us et coutumes
+                            <title type="supplied">Traité du toisé des batimens aux us et coutumes
                                 de Paris</title>
-                            <title type="full">Toisé des bâtimens aux-us et coutumes de Paris,
-                                enseigné dans l’Accadémie royale d’architecture, divisé en 4
-                                sections, la première concerne le toisé de la maçonnerie, la
-                                deuxième la charpenterie, la troisième, les couvertures, la
-                                quatrième la plomberie, carrelage, menuiserie, serrurerie, vitrerie,
-                                pavé de grès, marbrerie, sculpture, dorure et peinture d’impression
-                                par M. Desgodets, professeur à l’Accadémie royale d’architecture en
-                                1724</title>
-                            <note>Page de couverture (au recto, plusieurs inscriptions en français
-                                MX, manuscrit et planches, CXXVD/ 1000 C27 MAS (67)), Page blanche
-                                (plusieurs inscriptions de la bibliothèque d’Avery : Avery Sp /
-                                Avery AA 3101 D451 / 52130 E / Ecrit dans le sens de la hauteur sur
-                                le côté près de la reliure : 52130 E June 22, 1971 GT), Page de
-                                titre (Sceau à sec de Le Bègue architecte, 1866 rajouté au crayon
-                                Note au crayon : « Au dictionnaire de Chaudon et F. A. Delandine, il
-                                est dit que cet ouvrage (le traité du toisé) a été publié in-8°
-                                depuis la mort de Desgodets arrivé en 1728. C’est une erreur
-                                (renvoi : Il est inconnu partout même à la bibliothèque impériale)
-                                signé Le Bègue. », 403 pages numérotées, 17 pages de tables des
-                                matières non complétées, 23 planches hors-texte numérotés et pliées
-                                avec figures une page blanche vierge et une page de couverture (pl.
-                                1 à 10 : fig. 1 à 32 ; pl. 11 à 18 : fig. 1 à 79 + 3 fig. non
-                                numérotées ; pl. 18 à 22 : fig. 1 à 10 et pl. 23 : fig. 30-31) </note>
+                            <title type="full">Traité du toisé des batimens aux us et coutumes de
+                                Paris, expliqué en l’Académie royale d’Architecture par Monsr
+                                Desgodets Architecte des Batimens du Roy, et Professeur de ladte
+                                Accadémie</title>
+                            <note>
+                                <p>Ce manuscrit se rapproche de celui de la BnF (T11). Il contient
+                                    une table des matières.</p>
+                            </note>
                             <textLang mainLang="fre">texte en français</textLang>
                         </msItemStruct>
                     </msContents>
@@ -227,45 +215,57 @@
                             <supportDesc material="paper">
                                 <support>
                                     <p>
-                                        <objectType>codex</objectType>, <material>papier à la
-                                            cuve</material>.</p>
+                                        <objectType>Codex</objectType>, <material>papier à la
+                                            cuve</material>, avec filigranes (filigranes repérés et
+                                        datés de 1767 par la notice descriptive de la bibliothèque).
+                                        Relevés par nos soins : Texte et illustrations, marque de
+                                        sorte : Cercle couronné avec inscription circulaire : « PRO
+                                        PATRIA EJUSQUE LIBERTATE » et sous le lion couronné tenant à
+                                        main gauche une gerbe de blé et à main droite une pique avec
+                                        au sommet un chapeau, la patte gauche posée sur un piédestal
+                                        est inscrit « NRYHEYT » ; marques du papetier : « D &amp; C
+                                        BLAUW ». </p>
                                 </support>
                                 <extent>
                                     <dimensions type="leaves">
-                                        <dim quantity="443" unit="leaves">403 pages numérotées, 17
-                                            pages de tables des matières non complétées, 23 planches
-                                            hors-texte numérotés et pliées avec figures une page
-                                            blanche vierge et une page de couverture</dim>
-                                        <height quantity="343" unit="mm"/>
-                                        <width quantity="227" unit="mm"/>
-                                        <depth quantity="41" unit="mm"/>
+                                        <dim quantity="287" unit="leaves">287 pages + [3 p.], ill.
+                                            avec 18 pl. Les pages 2, 9, 221, 241 sont vierges. </dim>
+                                        <height quantity="200" unit="mm"/>
+                                        <width quantity="150" unit="mm"/>
+                                        <depth quantity="25" unit="mm"/>
                                     </dimensions>
+                                    <!-- dimensions est répétable -->
                                 </extent>
                                 <!-- TODO -->
-                                <foliation>paginé à l’encre noire en haut, au milieu</foliation>
-                                <condition>bon</condition>
+                                <foliation>Paginé à l’encre noire en haut, dans la marge extérieure,
+                                    deux pages numérotées 143, les deux pages après la page 276 ne
+                                    sont pas numérotées.</foliation>
                             </supportDesc>
                             <layoutDesc>
-                                <layout columns="1" ruledLines="23">texte sur une colonne dans un
-                                    cadre de 133 mm x 250 mm, 23 lignes d’écriture</layout>
+                                <layout columns="1" ruledLines="23">Texte sur une colonne calibré
+                                    dans un cadre tracé à l’encre, 23 lignes réglées, les articles
+                                    numérotés dans la marge. Chaque chapitre est subdivisé en
+                                    articles ou paragraphes numérotés.</layout>
                                 <!-- layout est répétable et peut contenir une localisation avec locus -->
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote xml:id="t2Hand1" scope="major">à l’encre noire d’une écriture
-                                régulière</handNote>
+                            <handNote xml:id="t13Hand1" scope="major">à l’encre noire, d’une
+                                écriture régulière</handNote>
                             <!-- handNote est répétable et peut contenir une localisation avec locus -->
                         </handDesc>
                         <decoDesc>
-                            <decoNote>23 planches hors-texte numérotées selon le détail suivant :
-                                pl. 1 à 10, fig. 1 à 32 ; pl. 11 à 18, fig. 1 à 79 + 3 fig. non
-                                numérotées ; pl. 18 à 22, fig. 1 à 10 et pl. 23, fig. 30-31 </decoNote>
+                            <decoNote>18 planches hors textes tracées au crayon puis encrées à la
+                                plume ; elles sont toutes repliées deux fois afin d’en permettre la
+                                lecture au regard du texte qui y renvoie. Les figures sont toutes
+                                numérotés (33 jusqu’à la planche 10, 80 de 11 à 17, 8 sur la
+                                dernière planche).</decoNote>
                             <!-- decoNote est répétable et peut contenir une localisation avec locus -->
                         </decoDesc>
                         <bindingDesc>
                             <binding>
-                                <p>relié en <material>cuir</material>, pleine peau.</p>
-                                <!--<condition></condition>
+                                <p>Relié en <material>cuir</material>.</p>
+                                <!--<condition>excellent</condition>
                                 <decoNote></decoNote>-->
                             </binding>
                         </bindingDesc>
@@ -275,25 +275,16 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <p>Copie du <date from="1700" to="1789">XVIII<hi rend="superscript"
-                                        >e</hi> siècle</date></p>
+                            <p>Copie du <date from="1719" to="1789">XVIII<hi rend="superscript"
+                                        >e</hi> siècle</date>.</p>
                         </origin>
-                        <provenance>
-                            <p>Manuscrit qui aurait appartenu en 1866 à un Le Bègue, architecte,
-                                sans doute <persName ref="#leBegueAlfred">Alfred Le Bègue
-                                    (1808-1881)</persName> qui se plaint, se référant au
-                                Dictionnaire de Chaudon et F.A. Delandine (1804, 8<hi
-                                    rend="superscript">e</hi> éd.), que le toisé, présenté comme
-                                édité, ne l’ait jamais été. « C’est une erreur. Il est inconnu
-                                partout même à la bibliothèque impériale ».</p>
-                        </provenance>
                         <acquisition>
-                            <p>Entré, semble-t-il, à Avery le <date when="1971-06-22">22 juin
-                                    1971</date> (le manuscrit porte la mention suivante, écrite dans
-                                le sens de la hauteur sur le côté près de la reliure : « 52130 E
-                                June 22, 1971 GT »).</p>
+                            <p>Ex-libris du RIBA-1834, « purchased in November 1959 ».</p>
                         </acquisition>
                     </history>
+                    <additional>
+                        <surrogates>microfilm</surrogates>
+                    </additional>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -376,14 +367,14 @@
             <change when="2014-03-30" who="#EC">version bêta</change>
         </revisionDesc>
     </teiHeader>
-    <!--<facsimile xml:id="t2Facs" corresp="#t2ImagesLicence">
-        <surface xml:id="t2Facs0048">
-            <graphic n="full" mimeType="image/jpg" url="facs/full/t2Facs0048.jpg"/>
-            <graphic n="medium" mimeType="image/jpg" url="facs/medium/t2Facs0048.jpg"/>
-            <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/t2Facs0048.jpg"/>
+    <!--<facsimile xml:id="t13Facs" corresp="#t13ImagesLicence">
+        <surface xml:id="t13Facs0048">
+            <graphic n="full" mimeType="image/jpg" url="facs/full/t13Facs0048.jpg"/>
+            <graphic n="medium" mimeType="image/jpg" url="facs/medium/t13Facs0048.jpg"/>
+            <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/t13Facs0048.jpg"/>
         </surface>
     </facsimile>-->
-    <text corresp="#t2TextLicence">
+    <text>
         <front>
             <div xml:lang="fre" type="transcription"/>
             <gap reason="sampling"/>
@@ -398,8 +389,8 @@
             <div xml:lang="fre" type="transcription"/>
             <div xml:lang="fre">
                 <!-- Inclusion du fichier des figures -->
-                <xi:include href="divs/desgodetsT2Figures.tei.xml" parse="xml">
-                    <xi:fallback>Fichier des figures de T2 non trouvé</xi:fallback>
+                <xi:include href="divs/desgodetsT13Figures.tei.xml" parse="xml">
+                    <xi:fallback>Fichier des figures de O6 non trouvé</xi:fallback>
                 </xi:include>
             </div>
         </back>

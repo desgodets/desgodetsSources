@@ -4,7 +4,7 @@
                            schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!-- 
    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
-    Fichier du manuscrit T2 sur le Toisé 
+    Fichier du manuscrit T5 sur le Toisé 
    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
 -->
 <!-- TODO : supprimer les exemples d’encodage mis en commentaire dans le header -->
@@ -15,7 +15,7 @@
             <!-- mentions de titre et de responsabilité -->
             <titleStmt>
                 <title xml:lang="fre" type="main">Traité du toisé</title>
-                <title xml:lang="fre" type="sub">Manuscrit T2</title>
+                <title xml:lang="fre" type="sub">Manuscrit T5</title>
                 <author>
                     <persName>
                         <forename>Antoine</forename>
@@ -80,7 +80,7 @@
             <publicationStmt>
                 <date when="2013">2013</date>
                 <!-- voir si on attribue un DOI ou un identifiant ARK aux fichiers édités -->
-                <idno n="criticalEdition" type="URI">t2</idno>
+                <idno n="criticalEdition" type="URI">t5</idno>
                 <!-- responsable de la publication -->
                 <publisher>
                     <orgName>Centre de théorie et d’analyse du droit (UMR 7074)</orgName>
@@ -96,7 +96,7 @@
                   <addrLine>contact@desgodets.fr</addrLine>
                </address>
                 </publisher>
-                <availability status="restricted" xml:id="t2ImagesLicence">
+                <availability status="restricted" xml:id="t5ImagesLicence">
                     <p>Les images numériques des manuscrits sont mises à disposition par les
                         institutions partenaires mais restent leur propriété exclusive. Celles-ci en
                         autorisent la reproduction et la réutilisation selon leurs propres règles en
@@ -106,7 +106,7 @@
                         l’objet d’une demande d’autorisation préalable auprès de l’institution
                         concernée.</p>
                 </availability>
-                <availability status="restricted" xml:id="t2TextLicence">
+                <availability status="restricted" xml:id="t5TextLicence">
                     <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr">Le
                         Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette
                         ressource électronique structurée, protégée par le code de la propriété
@@ -174,17 +174,11 @@
             </notesStmt>
             <!-- description de la source -->
             <sourceDesc>
-                <msDesc xml:id="t2" xml:lang="fre">
+                <msDesc xml:id="t5" xml:lang="fre">
                     <!-- identification du manuscrit -->
-                    <msIdentifier xml:id="t2msIdentifier">
-                        <country>États-Unis</country>
-                        <settlement>New-York</settlement>
-                        <institution>Columbia University Library</institution>
-                        <repository>Avery Classics</repository>
-                        <idno>AA3101 D451 F</idno>
-                        <altIdentifier>
-                            <idno>52130 E</idno>
-                        </altIdentifier>
+                    <msIdentifier xml:id="t5msIdentifier">
+                        <country>Suède</country>
+                        <institution>Collection privée</institution>
                     </msIdentifier>
                     <!-- contenu du manuscrit-->
                     <msContents>
@@ -193,31 +187,16 @@
                                 <persName xml:lang="fre" full="yes">Desgodets, Antoine
                                     (1653-1728)</persName>
                             </author>
-                            <title type="supplied">Traité du toisé des bâtimens aux us et coutumes
-                                de Paris</title>
-                            <title type="full">Toisé des bâtimens aux-us et coutumes de Paris,
-                                enseigné dans l’Accadémie royale d’architecture, divisé en 4
-                                sections, la première concerne le toisé de la maçonnerie, la
-                                deuxième la charpenterie, la troisième, les couvertures, la
-                                quatrième la plomberie, carrelage, menuiserie, serrurerie, vitrerie,
-                                pavé de grès, marbrerie, sculpture, dorure et peinture d’impression
-                                par M. Desgodets, professeur à l’Accadémie royale d’architecture en
-                                1724</title>
-                            <note>Page de couverture (au recto, plusieurs inscriptions en français
-                                MX, manuscrit et planches, CXXVD/ 1000 C27 MAS (67)), Page blanche
-                                (plusieurs inscriptions de la bibliothèque d’Avery : Avery Sp /
-                                Avery AA 3101 D451 / 52130 E / Ecrit dans le sens de la hauteur sur
-                                le côté près de la reliure : 52130 E June 22, 1971 GT), Page de
-                                titre (Sceau à sec de Le Bègue architecte, 1866 rajouté au crayon
-                                Note au crayon : « Au dictionnaire de Chaudon et F. A. Delandine, il
-                                est dit que cet ouvrage (le traité du toisé) a été publié in-8°
-                                depuis la mort de Desgodets arrivé en 1728. C’est une erreur
-                                (renvoi : Il est inconnu partout même à la bibliothèque impériale)
-                                signé Le Bègue. », 403 pages numérotées, 17 pages de tables des
-                                matières non complétées, 23 planches hors-texte numérotés et pliées
-                                avec figures une page blanche vierge et une page de couverture (pl.
-                                1 à 10 : fig. 1 à 32 ; pl. 11 à 18 : fig. 1 à 79 + 3 fig. non
-                                numérotées ; pl. 18 à 22 : fig. 1 à 10 et pl. 23 : fig. 30-31) </note>
+                            <title type="supplied">Traité du toisé des batimens</title>
+                            <title type="full">Traité du toisé des batimens commencé à dicter en
+                                l’académie d’architecture le 17 Novembre 1725. Par Mr Desgodest
+                                architecte des bâtiments du roy et professeur royal </title>
+                            <note>
+                                <p>Les annotations et quelques exemples ajoutés sont en fait
+                                    intégrés dans les autres versions. Quelques erreurs de
+                                    pagination. La version « semble » incomplète.</p>
+                                <p>Sur la tranche, le nom de « Desgodets » est écrit sans « t ».</p>
+                            </note>
                             <textLang mainLang="fre">texte en français</textLang>
                         </msItemStruct>
                     </msContents>
@@ -232,39 +211,42 @@
                                 </support>
                                 <extent>
                                     <dimensions type="leaves">
-                                        <dim quantity="443" unit="leaves">403 pages numérotées, 17
-                                            pages de tables des matières non complétées, 23 planches
-                                            hors-texte numérotés et pliées avec figures une page
-                                            blanche vierge et une page de couverture</dim>
-                                        <height quantity="343" unit="mm"/>
-                                        <width quantity="227" unit="mm"/>
-                                        <depth quantity="41" unit="mm"/>
+                                        <dim quantity="694" unit="leaves">568 pages (dont 5 feuilles
+                                            numérotées seulement au verso), [4 p.] + 24 feuillets
+                                            illustrés au recto + 12 feuillets vierges + 19 feuillets
+                                            illustrés au recto + 3 feuillets vierges + 6 feuillets
+                                            pour la tables des matières</dim>
+                                        <height quantity="190" unit="mm"/>
+                                        <width quantity="140" unit="mm"/>
+                                        <!--<depth quantity="" unit="mm"/>-->
                                     </dimensions>
+                                    <!-- dimensions est répétable -->
                                 </extent>
                                 <!-- TODO -->
-                                <foliation>paginé à l’encre noire en haut, au milieu</foliation>
+                                <foliation>paginé à l’encre noire en haut, dans la marge
+                                    extérieure</foliation>
                                 <condition>bon</condition>
                             </supportDesc>
                             <layoutDesc>
-                                <layout columns="1" ruledLines="23">texte sur une colonne dans un
-                                    cadre de 133 mm x 250 mm, 23 lignes d’écriture</layout>
+                                <layout columns="1" ruledLines="18">texte sur une colonne, environ
+                                    18 lignes par pages, les titres et incipits écrits en
+                                    gros</layout>
                                 <!-- layout est répétable et peut contenir une localisation avec locus -->
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote xml:id="t2Hand1" scope="major">à l’encre noire d’une écriture
-                                régulière</handNote>
+                            <handNote xml:id="t5Hand1" scope="major">à l’encre noire</handNote>
                             <!-- handNote est répétable et peut contenir une localisation avec locus -->
                         </handDesc>
                         <decoDesc>
-                            <decoNote>23 planches hors-texte numérotées selon le détail suivant :
-                                pl. 1 à 10, fig. 1 à 32 ; pl. 11 à 18, fig. 1 à 79 + 3 fig. non
-                                numérotées ; pl. 18 à 22, fig. 1 à 10 et pl. 23, fig. 30-31 </decoNote>
+                            <decoNote>24 feuillets illustrés au recto + 19 feuillets illustrés au
+                                recto</decoNote>
                             <!-- decoNote est répétable et peut contenir une localisation avec locus -->
                         </decoDesc>
                         <bindingDesc>
                             <binding>
-                                <p>relié en <material>cuir</material>, pleine peau.</p>
+                                <p>Relié en <material>cuir</material>, tranche ornée de dorures au
+                                    fer.</p>
                                 <!--<condition></condition>
                                 <decoNote></decoNote>-->
                             </binding>
@@ -275,25 +257,28 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <p>Copie du <date from="1700" to="1789">XVIII<hi rend="superscript"
-                                        >e</hi> siècle</date></p>
+                            <p>Version incomplète, sans doute à deux mains. Copie dont la dictée
+                                aurait été commencée le <date when="1725-11-25">25 novembre
+                                    1725</date> et achevée en <date when="1725-12">décembre
+                                    1725</date> d’après la mention au crayon sur la dernière page de
+                                texte (p. 568) : « fin en Décembre 1725 », ce qui porterait à croire
+                                que l’exemplaire est contemporain de Desgodets. L’exemplaire est
+                                annoté par Cronstedt.</p>
                         </origin>
                         <provenance>
-                            <p>Manuscrit qui aurait appartenu en 1866 à un Le Bègue, architecte,
-                                sans doute <persName ref="#leBegueAlfred">Alfred Le Bègue
-                                    (1808-1881)</persName> qui se plaint, se référant au
-                                Dictionnaire de Chaudon et F.A. Delandine (1804, 8<hi
-                                    rend="superscript">e</hi> éd.), que le toisé, présenté comme
-                                édité, ne l’ait jamais été. « C’est une erreur. Il est inconnu
-                                partout même à la bibliothèque impériale ».</p>
+                            <p>Copie acquise ou commandée par C.J. Cronstedt à Paris entre 1732 et
+                                1735</p>
                         </provenance>
-                        <acquisition>
-                            <p>Entré, semble-t-il, à Avery le <date when="1971-06-22">22 juin
-                                    1971</date> (le manuscrit porte la mention suivante, écrite dans
-                                le sens de la hauteur sur le côté près de la reliure : « 52130 E
-                                June 22, 1971 GT »).</p>
-                        </acquisition>
+                        <!--<acquisition>
+                            <p>.</p>
+                        </acquisition>-->
                     </history>
+                    <additional>
+                        <!-- références bibliographiques sur l’exemplaire -->
+                        <listBibl>
+                            <bibl corresp="#rollenhagenTilly2011"/>
+                        </listBibl>
+                    </additional>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -376,14 +361,14 @@
             <change when="2014-03-30" who="#EC">version bêta</change>
         </revisionDesc>
     </teiHeader>
-    <!--<facsimile xml:id="t2Facs" corresp="#t2ImagesLicence">
-        <surface xml:id="t2Facs0048">
-            <graphic n="full" mimeType="image/jpg" url="facs/full/t2Facs0048.jpg"/>
-            <graphic n="medium" mimeType="image/jpg" url="facs/medium/t2Facs0048.jpg"/>
-            <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/t2Facs0048.jpg"/>
+    <!--<facsimile xml:id="t5Facs" corresp="#t5ImagesLicence">
+        <surface xml:id="t5Facs0048">
+            <graphic n="full" mimeType="image/jpg" url="facs/full/t5Facs0048.jpg"/>
+            <graphic n="medium" mimeType="image/jpg" url="facs/medium/t5Facs0048.jpg"/>
+            <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/t5Facs0048.jpg"/>
         </surface>
     </facsimile>-->
-    <text corresp="#t2TextLicence">
+    <text>
         <front>
             <div xml:lang="fre" type="transcription"/>
             <gap reason="sampling"/>
@@ -398,8 +383,8 @@
             <div xml:lang="fre" type="transcription"/>
             <div xml:lang="fre">
                 <!-- Inclusion du fichier des figures -->
-                <xi:include href="divs/desgodetsT2Figures.tei.xml" parse="xml">
-                    <xi:fallback>Fichier des figures de T2 non trouvé</xi:fallback>
+                <xi:include href="divs/desgodetsT5Figures.tei.xml" parse="xml">
+                    <xi:fallback>Fichier des figures de O6 non trouvé</xi:fallback>
                 </xi:include>
             </div>
         </back>

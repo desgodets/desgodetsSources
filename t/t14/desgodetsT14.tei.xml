@@ -4,7 +4,7 @@
                            schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!-- 
    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
-    Fichier du manuscrit T2 sur le Toisé 
+    Fichier du manuscrit T14 sur le Toisé 
    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
 -->
 <!-- TODO : supprimer les exemples d’encodage mis en commentaire dans le header -->
@@ -15,7 +15,7 @@
             <!-- mentions de titre et de responsabilité -->
             <titleStmt>
                 <title xml:lang="fre" type="main">Traité du toisé</title>
-                <title xml:lang="fre" type="sub">Manuscrit T2</title>
+                <title xml:lang="fre" type="sub">Manuscrit T14</title>
                 <author>
                     <persName>
                         <forename>Antoine</forename>
@@ -80,7 +80,7 @@
             <publicationStmt>
                 <date when="2013">2013</date>
                 <!-- voir si on attribue un DOI ou un identifiant ARK aux fichiers édités -->
-                <idno n="criticalEdition" type="URI">t2</idno>
+                <idno n="criticalEdition" type="URI">t14</idno>
                 <!-- responsable de la publication -->
                 <publisher>
                     <orgName>Centre de théorie et d’analyse du droit (UMR 7074)</orgName>
@@ -96,7 +96,7 @@
                   <addrLine>contact@desgodets.fr</addrLine>
                </address>
                 </publisher>
-                <availability status="restricted" xml:id="t2ImagesLicence">
+                <availability status="restricted" xml:id="t14ImagesLicence">
                     <p>Les images numériques des manuscrits sont mises à disposition par les
                         institutions partenaires mais restent leur propriété exclusive. Celles-ci en
                         autorisent la reproduction et la réutilisation selon leurs propres règles en
@@ -106,7 +106,7 @@
                         l’objet d’une demande d’autorisation préalable auprès de l’institution
                         concernée.</p>
                 </availability>
-                <availability status="restricted" xml:id="t2TextLicence">
+                <availability status="restricted" xml:id="t14TextLicence">
                     <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr">Le
                         Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette
                         ressource électronique structurée, protégée par le code de la propriété
@@ -174,17 +174,13 @@
             </notesStmt>
             <!-- description de la source -->
             <sourceDesc>
-                <msDesc xml:id="t2" xml:lang="fre">
+                <msDesc xml:id="t14" xml:lang="fre">
                     <!-- identification du manuscrit -->
-                    <msIdentifier xml:id="t2msIdentifier">
-                        <country>États-Unis</country>
-                        <settlement>New-York</settlement>
-                        <institution>Columbia University Library</institution>
-                        <repository>Avery Classics</repository>
-                        <idno>AA3101 D451 F</idno>
-                        <altIdentifier>
-                            <idno>52130 E</idno>
-                        </altIdentifier>
+                    <msIdentifier xml:id="t14msIdentifier">
+                        <country>France</country>
+                        <settlement>Nantes</settlement>
+                        <institution>Bibliothèque municipale</institution>
+                        <idno>Ms 258</idno>
                     </msIdentifier>
                     <!-- contenu du manuscrit-->
                     <msContents>
@@ -193,31 +189,19 @@
                                 <persName xml:lang="fre" full="yes">Desgodets, Antoine
                                     (1653-1728)</persName>
                             </author>
-                            <title type="supplied">Traité du toisé des bâtimens aux us et coutumes
+                            <title type="supplied">Traité du toisé des batimens aux us et coutumes
                                 de Paris</title>
-                            <title type="full">Toisé des bâtimens aux-us et coutumes de Paris,
-                                enseigné dans l’Accadémie royale d’architecture, divisé en 4
-                                sections, la première concerne le toisé de la maçonnerie, la
-                                deuxième la charpenterie, la troisième, les couvertures, la
-                                quatrième la plomberie, carrelage, menuiserie, serrurerie, vitrerie,
-                                pavé de grès, marbrerie, sculpture, dorure et peinture d’impression
-                                par M. Desgodets, professeur à l’Accadémie royale d’architecture en
-                                1724</title>
-                            <note>Page de couverture (au recto, plusieurs inscriptions en français
-                                MX, manuscrit et planches, CXXVD/ 1000 C27 MAS (67)), Page blanche
-                                (plusieurs inscriptions de la bibliothèque d’Avery : Avery Sp /
-                                Avery AA 3101 D451 / 52130 E / Ecrit dans le sens de la hauteur sur
-                                le côté près de la reliure : 52130 E June 22, 1971 GT), Page de
-                                titre (Sceau à sec de Le Bègue architecte, 1866 rajouté au crayon
-                                Note au crayon : « Au dictionnaire de Chaudon et F. A. Delandine, il
-                                est dit que cet ouvrage (le traité du toisé) a été publié in-8°
-                                depuis la mort de Desgodets arrivé en 1728. C’est une erreur
-                                (renvoi : Il est inconnu partout même à la bibliothèque impériale)
-                                signé Le Bègue. », 403 pages numérotées, 17 pages de tables des
-                                matières non complétées, 23 planches hors-texte numérotés et pliées
-                                avec figures une page blanche vierge et une page de couverture (pl.
-                                1 à 10 : fig. 1 à 32 ; pl. 11 à 18 : fig. 1 à 79 + 3 fig. non
-                                numérotées ; pl. 18 à 22 : fig. 1 à 10 et pl. 23 : fig. 30-31) </note>
+                            <title type="full">Traité du toisé des bâtimens, aux us et coutumes de
+                                Paris, expliqué en l’Académie d’Architecture par Monsieur Desgodets,
+                                architecte des bâtimens du Roy et professeur de ladite
+                                Académie</title>
+                            <note>
+                                <p>A la suite du cours sont rajoutés des « Réflexions sur la poussée
+                                    des terres avec dessins ». Filigrane fin 1754. Table des
+                                    matières incluant ces réflexions.</p>
+                                <p>Le texte semble plus que complet par rapport au manuscrit
+                                    d’Avery.</p>
+                            </note>
                             <textLang mainLang="fre">texte en français</textLang>
                         </msItemStruct>
                     </msContents>
@@ -227,45 +211,54 @@
                             <supportDesc material="paper">
                                 <support>
                                     <p>
-                                        <objectType>codex</objectType>, <material>papier à la
-                                            cuve</material>.</p>
+                                        <objectType>Codex</objectType>, <material>papier à la
+                                            cuve</material>, avec filigrane dans la reliure ; texte
+                                        et illustrations : marque de sorte Écusson en forme de Fleur
+                                        de Lys à trois pattes et grappes de raisin ; Marque de
+                                        papetier : « A [cœur] BOULNER » surmontée de grappes de
+                                        raisins ; Marque de papetier (p. 142-143) « V [Cœur]BEAL
+                                        MOYEN, BRETAGNE, Fin 1754 », surmonté s’une fleur de lys.
+                                        Identifié par Gaudriault pl. 124 en 1766. </p>
                                 </support>
                                 <extent>
                                     <dimensions type="leaves">
-                                        <dim quantity="443" unit="leaves">403 pages numérotées, 17
-                                            pages de tables des matières non complétées, 23 planches
-                                            hors-texte numérotés et pliées avec figures une page
-                                            blanche vierge et une page de couverture</dim>
-                                        <height quantity="343" unit="mm"/>
+                                        <dim quantity="333" unit="leaves">[4 p.] (titre) + 333 p. +
+                                            [28 feuillets blancs] + 7 p. (table des matières) + [4
+                                            feuillets blancs], 19 pl. hors-texte + 3 dessins dans le
+                                            texte.</dim>
+                                        <height quantity="288" unit="mm"/>
                                         <width quantity="227" unit="mm"/>
-                                        <depth quantity="41" unit="mm"/>
+                                        <depth quantity="35" unit="mm"/>
                                     </dimensions>
+                                    <!-- dimensions est répétable -->
                                 </extent>
                                 <!-- TODO -->
-                                <foliation>paginé à l’encre noire en haut, au milieu</foliation>
-                                <condition>bon</condition>
+                                <foliation>Paginé à l’encre noire en haut, dans la marge
+                                    extérieure.</foliation>
                             </supportDesc>
                             <layoutDesc>
-                                <layout columns="1" ruledLines="23">texte sur une colonne dans un
-                                    cadre de 133 mm x 250 mm, 23 lignes d’écriture</layout>
+                                <layout columns="1" ruledLines="26">Texte sur une colonne calibré
+                                    dans un cadre tracé au crayon noir, 26 lignes réglées, les
+                                    articles numérotés au centre de la ligne, les renvois aux
+                                    figures dans la marge : 33 jusqu’à la pl. 11, 80 de la pl. 12 à
+                                    17 et 7 de la pl. 18 et 19. Chaque chapitre est divisé en §
+                                    numéroté.</layout>
                                 <!-- layout est répétable et peut contenir une localisation avec locus -->
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote xml:id="t2Hand1" scope="major">à l’encre noire d’une écriture
-                                régulière</handNote>
+                            <handNote xml:id="t14Hand1" scope="major">à l’encre noire, d’une
+                                écriture régulière</handNote>
                             <!-- handNote est répétable et peut contenir une localisation avec locus -->
                         </handDesc>
                         <decoDesc>
-                            <decoNote>23 planches hors-texte numérotées selon le détail suivant :
-                                pl. 1 à 10, fig. 1 à 32 ; pl. 11 à 18, fig. 1 à 79 + 3 fig. non
-                                numérotées ; pl. 18 à 22, fig. 1 à 10 et pl. 23, fig. 30-31 </decoNote>
+                            <decoNote>19 planches hors-texte + 3 dessins dans le texte.</decoNote>
                             <!-- decoNote est répétable et peut contenir une localisation avec locus -->
                         </decoDesc>
                         <bindingDesc>
                             <binding>
-                                <p>relié en <material>cuir</material>, pleine peau.</p>
-                                <!--<condition></condition>
+                                <p>Relié en <material>veau</material>.</p>
+                                <!--<condition>excellent</condition>
                                 <decoNote></decoNote>-->
                             </binding>
                         </bindingDesc>
@@ -275,25 +268,18 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <p>Copie du <date from="1700" to="1789">XVIII<hi rend="superscript"
-                                        >e</hi> siècle</date></p>
+                            <p>Copie du <date from="1719" to="1789">XVIII<hi rend="superscript"
+                                        >e</hi> siècle</date> sans rature apparente.</p>
                         </origin>
                         <provenance>
-                            <p>Manuscrit qui aurait appartenu en 1866 à un Le Bègue, architecte,
-                                sans doute <persName ref="#leBegueAlfred">Alfred Le Bègue
-                                    (1808-1881)</persName> qui se plaint, se référant au
-                                Dictionnaire de Chaudon et F.A. Delandine (1804, 8<hi
-                                    rend="superscript">e</hi> éd.), que le toisé, présenté comme
-                                édité, ne l’ait jamais été. « C’est une erreur. Il est inconnu
-                                partout même à la bibliothèque impériale ».</p>
+                            <p>« Ex Musaeo J. Le Boyer, Professoris » en 2<hi rend="superscript">e</hi> de couverture. Il
+                                s’agit de Jean-François Le Boyer, professeur de physique et de
+                                mathématiques au collège royal de Nantes (1768-1835).</p>
                         </provenance>
-                        <acquisition>
-                            <p>Entré, semble-t-il, à Avery le <date when="1971-06-22">22 juin
-                                    1971</date> (le manuscrit porte la mention suivante, écrite dans
-                                le sens de la hauteur sur le côté près de la reliure : « 52130 E
-                                June 22, 1971 GT »).</p>
-                        </acquisition>
                     </history>
+                    <additional>
+                        <surrogates>microfilm</surrogates>
+                    </additional>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
@@ -376,14 +362,14 @@
             <change when="2014-03-30" who="#EC">version bêta</change>
         </revisionDesc>
     </teiHeader>
-    <!--<facsimile xml:id="t2Facs" corresp="#t2ImagesLicence">
-        <surface xml:id="t2Facs0048">
-            <graphic n="full" mimeType="image/jpg" url="facs/full/t2Facs0048.jpg"/>
-            <graphic n="medium" mimeType="image/jpg" url="facs/medium/t2Facs0048.jpg"/>
-            <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/t2Facs0048.jpg"/>
+    <!--<facsimile xml:id="t14Facs" corresp="#t14ImagesLicence">
+        <surface xml:id="t14Facs0048">
+            <graphic n="full" mimeType="image/jpg" url="facs/full/t14Facs0048.jpg"/>
+            <graphic n="medium" mimeType="image/jpg" url="facs/medium/t14Facs0048.jpg"/>
+            <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/t14Facs0048.jpg"/>
         </surface>
     </facsimile>-->
-    <text corresp="#t2TextLicence">
+    <text>
         <front>
             <div xml:lang="fre" type="transcription"/>
             <gap reason="sampling"/>
@@ -398,8 +384,8 @@
             <div xml:lang="fre" type="transcription"/>
             <div xml:lang="fre">
                 <!-- Inclusion du fichier des figures -->
-                <xi:include href="divs/desgodetsT2Figures.tei.xml" parse="xml">
-                    <xi:fallback>Fichier des figures de T2 non trouvé</xi:fallback>
+                <xi:include href="divs/desgodetsT14Figures.tei.xml" parse="xml">
+                    <xi:fallback>Fichier des figures de O6 non trouvé</xi:fallback>
                 </xi:include>
             </div>
         </back>

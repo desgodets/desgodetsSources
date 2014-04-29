@@ -7,9 +7,9 @@
     Fichier du manuscrit T3 sur le Toisé 
    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
 -->
-<!-- TODO : supprimer les exemples d'encodage mis en commentaire dans le header -->
+<!-- TODO : supprimer les exemples d’encodage mis en commentaire dans le header -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <!-- début de l'en-tête TEI -->
+    <!-- début de l’en-tête TEI -->
     <teiHeader>
         <fileDesc>
             <!-- mentions de titre et de responsabilité -->
@@ -22,7 +22,7 @@
                         <surname>Desgodets</surname>
                     </persName>
                 </author>
-                <!-- mention de responsabilité principale (responsable scientifique de l'édition) -->
+                <!-- mention de responsabilité principale (responsable scientifique de l’édition) -->
                 <principal>
                     <persName ref="#RC">
                         <forename>Robert</forename>
@@ -34,7 +34,7 @@
                         </affiliation>
                     </persName>
                 </principal>
-                <!-- organismes qui ont financé l'opération -->
+                <!-- organismes qui ont financé l’opération -->
                 <funder>
                     <orgName>Agence Nationale de Recherche</orgName>
                     <orgName type="acronym">ANR</orgName>
@@ -70,7 +70,7 @@
                     </persName>
                 </respStmt>
             </titleStmt>
-            <!-- mention d'édition -->
+            <!-- mention d’édition -->
             <editionStmt>
                 <edition n="bêta">première édition électronique, <date from="2013" to="2013"
                         >2008-2013</date>, version bêta</edition>
@@ -166,7 +166,7 @@
                 <title xml:lang="fre" type="sub">une édition électronique</title>
                 <idno type="URI">http://www.desgodets.net</idno>
             </seriesStmt>
-            <!-- ajout d'un élément pour DC.description -->
+            <!-- ajout d’un élément pour DC.description -->
             <notesStmt>
                 <note xml:lang="fre" type="abstract">Texte de description pour DC.description</note>
                 <note xml:lang="eng" type="abstract">Texte de description en anglais pour
@@ -242,7 +242,7 @@
                                     </dimensions>
                                 </extent>
                                 <!-- TODO -->
-                                <foliation>paginé à l'encre noire en haut, au milieu</foliation>
+                                <foliation>paginé à l’encre noire en haut, au milieu</foliation>
                                 <condition>bon</condition>
                             </supportDesc>
                             <layoutDesc>
@@ -273,7 +273,7 @@
                             </binding>
                         </bindingDesc>
                         <!--
-                  <accMat>[description du matériel d'accompagnement, s'il y en a]</accMat>
+                  <accMat>[description du matériel d’accompagnement, s’il y en a]</accMat>
                   -->
                     </physDesc>
                     <history>
@@ -289,10 +289,9 @@
                                 élève de <persName>Soufflot</persName>.</p>
                         </provenance>
                         <acquisition>
-                            <p>Ex-libris de Avery (déchiré) : in memory of Henry Ogden Avery born
-                                31 … 1852 … MDCCCXC. La date du 29 janvier 1924 est tamponnée en
-                                rouge sur la dernière page qui appartient à la reliure (côté
-                                blanc).</p>
+                            <p>Ex-libris de Avery (déchiré) : in memory of Henry Ogden Avery born 31
+                                … 1852 … MDCCCXC. La date du 29 janvier 1924 est tamponnée en rouge
+                                sur la dernière page qui appartient à la reliure (côté blanc).</p>
                         </acquisition>
                     </history>
                 </msDesc>
@@ -336,7 +335,7 @@
                         conséquence.</p>
                 </quotation>
             </editorialDecl>
-            <!-- déclaration concernant la méthode d'établissement du corpus (sélection) -->
+            <!-- déclaration concernant la méthode d’établissement du corpus (sélection) -->
             <refsDecl>
                 <p>Description du système de référence canonique. Plus tard on fournira peut-être
                     une expression régulière.</p>
