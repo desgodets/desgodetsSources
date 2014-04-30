@@ -375,25 +375,23 @@
       <front>
          <div xml:lang="fre">
             <div>
-               <p>
-                  <pb xml:id="s2P1" n="p1"/>
-                  <fw type="pageNum">1</fw> [en haut à droite : 327, 8964 ; au milieu de la page au
-                  crayon bleu : 1041 ; au crayon (95)]</p>
-               <p>
-                  <pb xml:id="s2P2" n="p2"/>
-                  <fw type="pageNum">2</fw> [Note de possession] Ce manuscrit me vient de [S<hi
-                     rend="superscript">r</hi>] Pierre <unclear>Desmaisons</unclear> architecte du
-                  roy lequel l’avoit reçu en don directement de son ami desgodet en 1727.</p>
+               <pb xml:id="s2P1" n="p1"/>
+               <fw type="pageNum">1</fw>
+               <p>[en haut à droite : 327, 8964 ; au milieu de la page au crayon bleu : 1041 ; au
+                  crayon (95)]</p>
+               <pb xml:id="s2P2" n="p2"/>
+               <fw type="pageNum">2</fw>
+               <p>[Note de possession] Ce manuscrit me vient de <abbr>S<hi rend="superscript"
+                     >r</hi></abbr> Pierre <unclear>Desmaisons</unclear> architecte du roy lequel
+                  l’avoit reçu en don directement de son ami desgodet en 1727.</p>
                <p>Je l’ai reçu en 1793.</p>
                <p>Cette copie avait été ordonnée par l’académie d’architecture attendu que ce
                   recueille contient toutes les <sic>conférance</sic> de cette académie, et que la
                   compagnie avait arrêté qu’il en serait donné un exemplaire à chaque
                      <sic>accadémicien</sic> de ce <gap quantity="1" unit="words"/> là. Voir mon
                   histoire de l’académie chapitre 7<hi rend="superscript">e</hi>.</p>
-               <p>
-                  <pb xml:id="s2P3" n="p3"/>
-                  <fw type="pageNum">3</fw>
-               </p>
+               <pb xml:id="s2P3" n="p3"/>
+               <fw type="pageNum">3</fw>
             </div>
          </div>
       </front>
@@ -418,9 +416,7 @@
                         parties doivent convenir en jugement des Jurez ou experts et gens à ce
                         connoissans qui font le serment par devant le juge, et doit être le raport
                         aporté en justice pour en plaidant ou jugeant le procès, y avoir tel égard
-                        que de raison ;</p>
-                     <p>
-                        <pb xml:id="s2P4" n="p4"/>
+                        que de raison ; <pb xml:id="s2P4" n="p4"/>
                         <fw type="pageNum">4</fw> sans qu’on puisse demander amandement : peut
                         néantmoins <unclear>ordonner</unclear> le Juge auxd. Jurez, autres ou plus
                         ample visitation être faite, s’il y <unclear>échoit</unclear>, ou les
@@ -592,12 +588,10 @@
                         et quantité d’autres choses que l’oeil fait plutôt concevoir en un moment
                         que la lecture du raport ne pouroit faire, et aussy pour que les Experts
                         soient plus attentifs et fassent <unclear>mieux</unclear> leur devoir.</p>
-                     <p>
-                        <pb xml:id="s2P13" n="p13"/>
-                        <fw type="pageNum">13</fw>
-                     </p>
                   </div>
                </div>
+               <pb xml:id="s2P13" n="p13"/>
+               <fw type="pageNum">13</fw>
                <div type="chapter">
                   <head>[art. 185]</head>
                   <div>
@@ -725,12 +719,10 @@
                         grosse, et cette partie a son recours sur l’autre, et si les dépens sont
                         compensez la partie qui est condamnée aux dépens est tenue de paier et
                         rembourser entièrement tous les frais du Raport.</p>
-                     <p>
-                        <pb xml:id="s2P19" n="p19"/>
-                        <fw type="pageNum">19</fw>
-                     </p>
                   </div>
                </div>
+               <pb xml:id="s2P19" n="p19"/>
+               <fw type="pageNum">19</fw>
                <div type="chapter">
                   <head rend="alignCenter">[art. 186] <lb/>Art. 186 <lb/>de la coutume de Paris
                      <lb/>titre I<hi rend="superscript">d.</hi>
@@ -1002,9 +994,9 @@
                         Communautez Religieuses, des Églises, des Hôpitaux Royaux, des Collèges, il
                         faut 40 ans de non jouissance quoique présent au lieu de 30 ans marqué par
                         les autres. </p>
-                     <p>
-                        <pb xml:id="s2P34" n="p34"/>
-                        <fw type="pageNum">34</fw> Si un de plusieurs héritiers ou copropriét<hi
+                     <pb xml:id="s2P34" n="p34"/>
+                     <fw type="pageNum">34</fw>
+                     <p>Si un de plusieurs héritiers ou copropriét<hi
                            rend="superscript">re</hi> jouit seul de la servitude, cette jouiss<hi
                            rend="superscript">ce</hi> conserve le droit pour le tout, et empêche que
                         la liberté ne puisse être réacquise contre ceux qui n’en ont pas jouy.
@@ -1542,12 +1534,10 @@
                         seigneurie arrachée, otée, remuée, ou changée de place n’est point
                         pécunière, mais elle est puny selon la qualité, conditions et méchanceté du
                         fait et de ceux qui ont commis la faute selon le droit civil.</p>
-                     <p>
-                        <pb xml:id="s2P62" n="p62"/>
-                        <fw type="pageNum">62</fw>
-                     </p>
                   </div>
                </div>
+               <pb xml:id="s2P62" n="p62"/>
+               <fw type="pageNum">62</fw>
                <div type="chapter">
                   <head>[art. 188]</head>
                   <div>
@@ -1682,12 +1672,10 @@
                         coutume.</p>
                   </div>
                </div>
+               <pb xml:id="s2P69" n="p69"/>
+               <fw type="pageNum">69</fw>
                <div type="chapter">
                   <head>[art. 189]</head>
-                  <p>
-                     <pb xml:id="s2P69" n="p69"/>
-                     <fw type="pageNum">69</fw>
-                  </p>
                   <div>
                      <head rend="alignCenter">Art. 189 <lb/>De la Coutume de Paris <lb/>Contremurs
                         pour cheminées <lb/>À astres</head>
@@ -2063,9 +2051,9 @@
                         même des contremurs et dosserets des voûtes des caves et des logements
                         lesquels il est à propos de lier et incorporer avec les murs mitoiens
                         lesquels sont construit en même temps.</p>
-                     <p>
-                        <pb xml:id="s2P89" n="p89"/>
-                        <fw type="pageNum">89</fw> Il n’est pas nécessaire de faire des contremurs
+                     <pb xml:id="s2P89" n="p89"/>
+                     <fw type="pageNum">89</fw>
+                     <p>Il n’est pas nécessaire de faire des contremurs
                         au devant des murs qui ne servent que de pignons ou d’aboutissants aux
                         voûtes en berceau et aux lunettes des voûtes d’areste, qui sont au dessus du
                         rez de chaussée, ou dans les caves lorsqu’il y a des caves des deux côtés du
@@ -2140,9 +2128,9 @@
                         et il doit être élevé aussy haut que le dessus des terres et avoir son
                         épaisseur proportionnée à la hauteur des terres raportées au dessus du
                         niveau du terrain de l’autre côté.</p>
-                     <p>
-                        <pb xml:id="s2P93" n="p93"/>
-                        <fw type="pageNum">93</fw> Cet art. 192 ne s’explique pas assez en
+                     <pb xml:id="s2P93" n="p93"/>
+                     <fw type="pageNum">93</fw>
+                     <p>Cet art. 192 ne s’explique pas assez en
                         prescrivant indifféramment en pied pour l’épaisseur du contremur, car il y a
                         des cas où une moindre épaisseur suffiroit, et d’autres où il doit être plus
                         épais par exemple si les terres rapportées n’étoient élevées que d’un pied
@@ -2202,9 +2190,9 @@
                         souterrain et de faire en entier et de son côté un contremur suffisant pour
                         rendre le terrain de son voisin aussi solide <add>avant</add> qu’il ait fait
                         rabaisser son rez-de-chaussée.</p>
-                     <p>
-                        <pb xml:id="s2P97" n="p97"/>
-                        <fw type="pageNum">97</fw> Dans le même cas que cy dessus où deux héritages
+                     <pb xml:id="s2P97" n="p97"/>
+                     <fw type="pageNum">97</fw>
+                     <p>Dans le même cas que cy dessus où deux héritages
                         sont sur le penchant d’une montagne, si le propriétaire de l’héritage le
                         plus haut avoit fait raporter des terres contre le mur mitoien pour rendre
                         son rez de chaussée de niveau et que l’autre eut fait creuser au long du
@@ -2323,13 +2311,10 @@
                         avoir privés en la ville et <lb/>Fauxbourgs de Paris</head>
                      <p>Tous les propriétaires des maisons scizes en la ville et fauxbourgs de Paris
                         sont tenus avoir latrines et privés suffisant en leurs maisons.</p>
-                     <p>T.S.V.P.</p>
-                     <!-- en bas de la page à droite, de la même plume : -->
-                     <p>
-                        <pb xml:id="s2P104" n="p104"/>
-                        <fw type="pageNum">104</fw>
-                     </p>
+                     <trailer>T.S.V.P.</trailer><!-- en bas de la page à droite, de la même plume : -->
                   </div>
+                  <pb xml:id="s2P104" n="p104"/>
+                  <fw type="pageNum">104</fw>
                   <div>
                      <head rend="alignCenter">Observations <lb/>Sur cet art. 193 de la
                         coutume</head>
@@ -2379,12 +2364,10 @@
                         nécessaires pour y remédier, la veut abandoner doit en faire vuider toutes
                         les matières fécales dans le fond avant que de faire recombler ou d’en
                         changer l’usage.</p>
-                     <p>
-                        <pb xml:id="s2P107" n="p107"/>
-                        <fw type="pageNum">107</fw>
-                     </p>
                   </div>
                </div>
+               <pb xml:id="s2P107" n="p107"/>
+               <fw type="pageNum">107</fw>
                <div type="chapter">
                   <head>[art. 194]</head>
                   <div>
@@ -2554,9 +2537,9 @@
                         hauteur de clôture demande que l’on y ait égard dans l’estimation du mur
                         pour en régler la valeur, le voisin à qui le mur appartient n’étant pas tenu
                         dans ce cas de païer les charges de clôture.</p>
-                     <p>
-                        <pb xml:id="s2P117" n="p117"/>
-                        <fw type="pageNum">117</fw> Celui qui adosse des tuieaux de cheminée contre
+                     <pb xml:id="s2P117" n="p117"/>
+                     <fw type="pageNum">117</fw>
+                     <p>Celui qui adosse des tuieaux de cheminée contre
                         un mur <add>non</add> mitoyen doit rembourser à son voisin propriétaire du
                         mur la moitié de sa valeur, dans la largeur occupée par lesd. tuiaux et
                         outre ce un pied d’aile au delà de chaque côté sur toute la hauteur.</p>
@@ -2604,10 +2587,8 @@
                         sa valeur à celui qui l’a fait bâtir, il le peut obliger de contribuer pour
                         la part dont il sera tenu à le reprendre par sous œuvre jusques sur le fond
                         solide.</p>
-                     <p>
                         <pb xml:id="s2P120" n="p120"/>
                         <fw type="pageNum">120</fw>
-                     </p>
                      <p>Sy deux voisins avoient ensemble fondé un mur mitoien et qu’ils ne l’eussent
                         pas fondé sur un bon fond solide, et que par la suitte l’un deux vint à
                         craindre qu’il s’en arrivat accident il pouroit obliger l’autre voisin de
@@ -2675,9 +2656,9 @@
                         c’étoit tout de pierre de taille, il ne seroit tenu que de rembourser la
                         moitié sur le prix d’un bon mur de moeslons, si un mur de moeslons lui
                         suffisoit.</p>
-                     <p>
-                        <pb xml:id="s2P124" n="p124"/>
-                        <fw type="pageNum">124</fw> Lorsque l’on fait bâtir en retour une face d’un
+                     <pb xml:id="s2P124" n="p124"/>
+                     <fw type="pageNum">124</fw>
+                     <p>Lorsque l’on fait bâtir en retour une face d’un
                         bâtiment contre un mur non mitoyen, si cette face de bâtiment est un pan de
                         bois dont les sablières soient serées dans led. mur ; il faut rembourser un
                         pied <unclear>d’ais</unclear> le au delà au devant de lad. face, il faut de
@@ -2890,9 +2871,9 @@
                         édifice bas pendant plusieurs années venoit après à se hausser, il ne
                         devroit aucun autre remboursement que la moitié de la valeur du mur où il
                         s’hébergeroit de nouveau.</p>
-                     <p>
-                        <pb xml:id="s2P136" n="p136"/>
-                        <fw type="pageNum">136</fw> Dans tous les différens cas cy dessus celui qui
+                     <pb xml:id="s2P136" n="p136"/>
+                     <fw type="pageNum">136</fw>
+                     <p>Dans tous les différens cas cy dessus celui qui
                         fait reconstruire à ses dépens le mur mitoien d’entre lui et son voisin
                         depuis le bas de la fondation et qui élève plus haut que l’édifice de son
                         voisin, ne luy doit point payer de charge de sa plus haute élévation,
@@ -2910,9 +2891,9 @@
                         est cause qu’il <unclear>duve</unclear> mois qu’il auroit fait, ainsy il est
                         juste que celui qui fait le rehaussement indemnisé son voisin du dommage
                         qu’il lui peut causer.</p>
-                     <p>
-                        <pb xml:id="s2P137" n="p137"/>
-                        <fw type="pageNum">137</fw> Il faut dire aussy par la même raison que
+                     <pb xml:id="s2P137" n="p137"/>
+                     <fw type="pageNum">137</fw>
+                     <p>Il faut dire aussy par la même raison que
                         l’autre voisin qui se veut servir du rehaussement fait par son voisin au
                         dessus du mur mitoien lui en doit faire le remboursement de la moitié de la
                         valeur de ce qu’il en occupera, et il doit ainsy lui rembourser les charges
@@ -3188,9 +3169,9 @@
                         portion du mur mitoien, il rabateroit sur le montant du prix des charges
                         qu’il auroit à païer à son voisin la moitié de ce qui lui auroit coûté pour
                         la portion mitoienne qu’il auroit refaite.</p>
-                     <p>
-                        <pb xml:id="s2P152" n="p152"/>
-                        <fw type="pageNum">152</fw> Sy celui qui a élevé au dessus du mur mitoyen en
+                     <pb xml:id="s2P152" n="p152"/>
+                     <fw type="pageNum">152</fw>
+                     <p>Sy celui qui a élevé au dessus du mur mitoyen en
                         avoit paié les charges et qu’ensuite il élevat encore plus haut, il ne
                         paieroit la seconde fois que les charges de ce qui hausseroit au dessus de
                         ce qu’il auroit paié la première fois.</p>
@@ -3226,9 +3207,9 @@
                         l’estimation qui en sera faite à proportion du tems qu’il les aura reçues,
                         et s’il arrive qu’il les ait reçues plus<hi rend="superscript">rs</hi> fois,
                         il n’est tenu de les rendre qu’une seule.</p>
-                     <p>
-                        <pb xml:id="s2P154" n="p154"/>
-                        <fw type="pageNum">154</fw> C’est un mauvais usage lequel est fort
+                     <pb xml:id="s2P154" n="p154"/>
+                     <fw type="pageNum">154</fw>
+                     <p>C’est un mauvais usage lequel est fort
                         desaprouvé des architectes expérimentés <note place="comment">De nouveau la
                            figure de l’architecte.</note>de mettre des pans de bois sur des murs
                         mitoiens par raport aux accidents qui en peuvent arriver et ceux qui les
@@ -3302,9 +3283,9 @@
                         voisin de bâtir et édifier en lad. place de se servir du mur fait par son
                         voisin en lui payant la moitié de la valeur de ce mur au droit de ce qui
                         seroit ocupé par son édifice.</p>
-                     <p>
-                        <pb xml:id="s2P158" n="p158"/>
-                        <fw type="pageNum">158</fw> Le mur peut apartenir en entier depuis le bas de
+                     <pb xml:id="s2P158" n="p158"/>
+                     <fw type="pageNum">158</fw>
+                     <p>Le mur peut apartenir en entier depuis le bas de
                         la fondation à celui des voisins qui a bâti le P<hi rend="superscript"
                            >er</hi> en différentes manières 1° s’il n’y avoit point eû de mur de
                         clôture auparavant ou que s’il y en avoit un, il étoit mauvais et caduc ou
@@ -3337,9 +3318,9 @@
                         de la valeur du mur, on doit avoir égard aux bénéfices des materaux de
                         l’ancien mur de clôture dont celui qui a bâti le premier s’est pû servir
                         dans la construct du nouveau mur.</p>
-                     <p>
-                        <pb xml:id="s2P160" n="p160"/>
-                        <fw type="pageNum">160</fw> Sy l’ancien mur de clôture mitoien s’étoit
+                     <pb xml:id="s2P160" n="p160"/>
+                     <fw type="pageNum">160</fw>
+                     <p>Sy l’ancien mur de clôture mitoien s’étoit
                         trouvé bon et solidement fondé et que celui aui a bâti le 1<hi
                            rend="superscript">er</hi> s’est pû servir pour édifier au dessus,
                         l’autre voisin qui veut ensuite y adosser un édiffice de son côté, n’est
@@ -3391,9 +3372,9 @@
                         doit rembourser la moitié à celui à qui il apartient dans toute la largeur
                         et la hauteur de ce qu’il en occupera à prendre du dessus de la reprise de
                         la fondation à la construction de laquelle il aura contribué.</p>
-                     <p>
-                        <pb xml:id="s2P163" n="p163"/>
-                        <fw type="pageNum">163</fw> Mais si le mur étoit mitoien en la hauteur de
+                     <pb xml:id="s2P163" n="p163"/>
+                     <fw type="pageNum">163</fw>
+                     <p>Mais si le mur étoit mitoien en la hauteur de
                         clôture et que le premier voisin qui a bâty, ait élevé contre et sur la
                         hauteur mitoienne ont négligé d’en faire creuser et reprendre la fondation
                         jusques sur le fond solide, le second voisin qui oblige l’autre a en
@@ -3498,9 +3479,9 @@
                         l’épaisseur du mur, le voisin qui veut adosser un édifice contre ce mur peut
                         contraindre celui à qui le mur apartient à le démolir et l’obliger à
                         contribuer à sa reconstruction.</p>
-                     <p>
-                        <pb xml:id="s2P169" n="p169"/>
-                        <fw type="pageNum">169</fw> Si le mur mitoien apartient à l’un des voisins
+                     <pb xml:id="s2P169" n="p169"/>
+                     <fw type="pageNum">169</fw>
+                     <p>Si le mur mitoien apartient à l’un des voisins
                         contre lequel mur l’autre qui ni a aucune part veut édifier et que ce mur se
                         trouve mauvais et corrompu par le bas jusqu’à une partie de la hauteur et
                         qu’au dessus de cette hauteur le mur soit bon et aplomb de son alignement du
@@ -3676,9 +3657,9 @@
                         reconstruire à neuf et que celui qui n’auroit pas d’édifice adossé contre,
                         refusat de contribuer à la reconstruction et que l’autre voisin le fit
                         reconstruire à ses dépens seuls y pouroit faire des vues de coutume.</p>
-                     <p>
-                        <pb xml:id="s2P179" n="p179"/>
-                        <fw type="pageNum">179</fw> Lorsqu’un mur est commun et mitoien entre deux
+                     <pb xml:id="s2P179" n="p179"/>
+                     <fw type="pageNum">179</fw>
+                     <p>Lorsqu’un mur est commun et mitoien entre deux
                         voisins jusqu’à une certaine hauteur et suffisamment bon pour des voisins,
                         si l’autre veut adosser un édifice plus élevé ou de plus grande charge, et
                         ne trouvant pas le mur mitoien assé épais pour soutenir son édifice il le
@@ -3694,9 +3675,9 @@
                         février 1635 entre M. D’aquin et M. <unclear>Mergeray</unclear> au sujet
                         d’un mur mitoien qui séparoit les jardins de leurs maisons scizes rue S<hi
                            rend="superscript">t</hi> Honoré.</p>
-                     <p>
-                        <pb xml:id="s2P180" n="p180"/>
-                        <fw type="pageNum">180</fw> M. D’aquin ayant fait abattre ce mur mitoien et
+                     <pb xml:id="s2P180" n="p180"/>
+                     <fw type="pageNum">180</fw>
+                     <p>M. D’aquin ayant fait abattre ce mur mitoien et
                         l’aiant fait reconstruire plus épais et pris la plus forte épaisseur de son
                         côté sur son terrain pour bâtir une grande maison, il éleva ce mur de
                         plusieurs étages laissa des fenêtres et des trous dans ce mur ainsi élevé
@@ -3967,9 +3948,9 @@
                         quoy il n’avoit pas contribué pour les faire boucher, il fut débouté de sa
                         demande et il fut ordonné que les vues demeureroient en l’état qu’elles
                         étoient jusqu’à ce qu’il bâtisse contre led. mur.</p>
-                     <p>
-                        <pb xml:id="s2P195" n="p195"/>
-                        <fw type="pageNum">195</fw> Par arrêt du 6 7<hi rend="superscript">bre</hi>
+                     <pb xml:id="s2P195" n="p195"/>
+                     <fw type="pageNum">195</fw>
+                     <p>Par arrêt du 6 7<hi rend="superscript">bre</hi>
                         1625 donné entre les religieuses de S<hi rend="superscript">te</hi> Marie
                         près la porte S<hi rend="superscript">t</hi>Antoine et le propriétaire d’une
                         maison scize rue de la Cerizaie, il a été ordonné qu’une lucarne de cette
@@ -4206,9 +4187,9 @@
                         c’est à dire que le mur où est la vue est paralelle au mur mitoien qui
                         sépare les héritages et baie du côté, est quand la vue est placée en un mur
                         qui est de côté en retour d’équière au mur mitoien.</p>
-                     <p>
-                        <pb xml:id="s2P208" n="p208"/>
-                        <fw type="pageNum">208</fw> La distance de 6 pieds prescrite par cet art.
+                     <pb xml:id="s2P208" n="p208"/>
+                     <fw type="pageNum">208</fw>
+                     <p>La distance de 6 pieds prescrite par cet art.
                         202 de la coutume entre les vues droites et l’héritage voisin, se doit
                         prendre de la face du déhors du mur ou pan de bois où est la vue, jusqu’à la
                         ligne qui sépare l’héritage de celui qui a la vue d’avec l’héritage de son
@@ -4467,12 +4448,10 @@
                         titre de la continuation de leur jouissance mais lorsque l’on rebâtira les
                         maisons les murs et autres édifices où elles sont faittes, toutes ces sortes
                         de servitudes sont annullées s’il ni a point d’autre titre.</p>
-                     <p>
-                        <pb xml:id="s2P223" n="p223"/>
-                        <fw type="pageNum">223</fw>
-                     </p>
                   </div>
                </div>
+               <pb xml:id="s2P223" n="p223"/>
+               <fw type="pageNum">223</fw>
                <div type="chapter">
                   <head>[art. 203]</head>
                   <div>
@@ -4788,11 +4767,9 @@
                         penchant et corrompu entre lui et son d. voisin et d’en païer sa part cahcun
                         selon son héberge pour telles part et portions que les parties ont ou
                         peuvent avoir aud. mur et édifice mitoien.</p>
-                     <p>
-                        <pb xml:id="s2P242" n="p242"/>
-                        <fw type="pageNum">242</fw>
-                     </p>
                   </div>
+                  <pb xml:id="s2P242" n="p242"/>
+                  <fw type="pageNum">242</fw>
                   <div>
                      <head rend="alignCenter">Explication <lb/>sur cet art. 205 de la coutume</head>
                      <p>Par cet art. l’un des voisins peut faire contraindre par justice, son voisin
@@ -5472,9 +5449,9 @@
                         mur mitoien l’autre voisin venoit à bâtir ensuite pour obliger le premier à
                         faire couper dans la portée de ces poutres et aurtes pièces de bois, ce qui
                         excédera le point du milieu de l’épaisseur du mur.</p>
-                     <p>
-                        <pb xml:id="s2P281" n="p281"/>
-                        <fw type="pageNum">281</fw> Suivant l’usage qui se pratique et qui est
+                     <pb xml:id="s2P281" n="p281"/>
+                     <fw type="pageNum">281</fw>
+                     <p>Suivant l’usage qui se pratique et qui est
                         réduit en coutume, on ne doit faire porter dans les murs mitoiens que les
                         poutres, solives d’enchevestrure des planchers et les autres solives se
                         doivent poser sur des sablières mises par le dessous au long desd. murs
@@ -5562,11 +5539,9 @@
                         faisant séparation de leurs maisons, cours et jardins ès d. villes et
                         fauxbourgs jusqu’à la hauteur de 10 pieds de haut de rez de chaussée compris
                         le chaperon.</p>
-                     <p>
-                        <pb xml:id="s2P286" n="p286"/>
-                        <fw type="pageNum">286</fw>
-                     </p>
                   </div>
+                  <pb xml:id="s2P286" n="p286"/>
+                  <fw type="pageNum">286</fw>
                   <div>
                      <head rend="alignCenter">Explication <lb/>sur cet art. 209 de la coutume</head>
                      <p>Il est à remarquer que cet art. de la coutume regarde les fauxbourgs de
@@ -5691,9 +5666,9 @@
                         murs de clôture et au fond de terre pour le rasseoir parceque ces marest
                         sont scitués beaucoup plus au dedans des limites de l’enceinte des faubourgs
                         de Paris.</p>
-                     <p>
-                        <pb xml:id="s2P293" n="p293"/>
-                        <fw type="pageNum">293</fw> Cependant les propriétaires des héritages champ
+                     <pb xml:id="s2P293" n="p293"/>
+                     <fw type="pageNum">293</fw>
+                     <p>Cependant les propriétaires des héritages champ
                         ou marêts scitués sur le bord en dedans de l’extrémité des milites de
                         l’enceinte des fauxbourgs qui veulent faire clore leurs héritages dans un
                         canton où il ni a encore aucune clôture ; ne peuvent pas contraindre leurs
@@ -5950,9 +5925,9 @@
                         premier mur mitoien, ce qui leur épargneroit à tous deux la dépense de faire
                         2 murs, mais cela ne se pouroit faire que degré à gré et non pas
                         contrainte.</p>
-                     <p>
-                        <pb xml:id="s2P307" n="p307"/>
-                        <fw type="pageNum">307</fw> Par l’acte de notoriété raporté dans la 9<hi
+                     <pb xml:id="s2P307" n="p307"/>
+                     <fw type="pageNum">307</fw>
+                     <p>Par l’acte de notoriété raporté dans la 9<hi
                            rend="superscript">e</hi> close cy dessus la largeur du tout de l’échelle
                         étant fixé à 3 p. et s’ensuit que celui qui voudroit construire un édifice
                         sur son héritage dont le tout auroit son égout par le côté de l’héritage de
@@ -10858,11 +10833,11 @@
                               cert="low">livres</unclear> en échange pour un autre de la valeur de
                            9 000 <unclear cert="low">livres</unclear> avec une somme de 11 000
                               <unclear cert="low">livres</unclear> se soulte, l’héritage propre de
-                           20 000 <unclear cert="low">livres</unclear> chet en retrait en donnant par le retrayant
-                           la somme de 11 000 <unclear cert="low">livres</unclear> et la valeur en denier de
-                           l’héritage de 9 000 <unclear cert="low">livres</unclear> suivant l’estimation qui en
-                           sera faite par des experts après quoy il sera encore tenu de frais et
-                           loyaux cousts.</p>
+                           20 000 <unclear cert="low">livres</unclear> chet en retrait en donnant
+                           par le retrayant la somme de 11 000 <unclear cert="low">livres</unclear>
+                           et la valeur en denier de l’héritage de 9 000 <unclear cert="low"
+                              >livres</unclear> suivant l’estimation qui en sera faite par des
+                           experts après quoy il sera encore tenu de frais et loyaux cousts.</p>
                         <p>Au second cas si un héritage propre avoit été échangé contre un autre,
                            dont la valeur excédat plus de la moitié de l’héritage propre pour soulte
                            de l’échange, de cette manière l’héritage propre échangé ne chet point en
@@ -11295,15 +11270,15 @@
                            du demi denier <lb/>après le décès de l’un des conjoints</head>
                         <p>Quand aucun héritage propre est acquis durant et constant le mariage des
                            deux conjoints dont l’un d’iceux est parent lignager du vendeur du côté
-                           dont led. héritage apartenoit, tel héritage ainsy vendu <unclear>ne gît</unclear> en
-                           retrait durant et constant led. mariage, mais après le trépas de l’un des
-                           conjoints, la moitié dud. héritage gît en retrait à l’encontre de celuy
-                           qui n’est lignager, ou de ses <unclear>hars</unclear> s’ils ne sont lignagers dud. Vendeur
-                           du côté et ligne dont led. héritage apartient à Iceluy vendeur dans l’an
-                           et jour du trépas du 1<hi rend="superscript">er</hi> mourant desd.
-                           conjoints suposé qu’il y eut saisie ou inféodation prise durant iceluy
-                           mariage et rendant et payant par le retrayant la moitié du sort principal
-                           frais et loyaux coûts.</p>
+                           dont led. héritage apartenoit, tel héritage ainsy vendu <unclear>ne
+                              gît</unclear> en retrait durant et constant led. mariage, mais après
+                           le trépas de l’un des conjoints, la moitié dud. héritage gît en retrait à
+                           l’encontre de celuy qui n’est lignager, ou de ses <unclear>hars</unclear>
+                           s’ils ne sont lignagers dud. Vendeur du côté et ligne dont led. héritage
+                           apartient à Iceluy vendeur dans l’an et jour du trépas du 1<hi
+                              rend="superscript">er</hi> mourant desd. conjoints suposé qu’il y eut
+                           saisie ou inféodation prise durant iceluy mariage et rendant et payant
+                           par le retrayant la moitié du sort principal frais et loyaux coûts.</p>
                      </div>
                      <div>
                         <head rend="alignCenter">Explication <lb/>sur cet art. 155 de la
@@ -11403,9 +11378,10 @@
                            et ligne de l’un d’eux, il se fait partage entre le survivant et les
                            héritiers du deffunt, lorsqu’il n’y a point d’enfans, si l’héritage sort
                            hors la Ligne, il y a lieu au retrait au profit des parens lignagers du
-                           côté de <unclear>l’estre</unclear> et ligne d’où procède l’héritage, même après l’an et
-                           jour pourvu que celuy qui veut retraire ait intenté son action et par
-                           icelle protesté dans l’an du décès <pb xml:id="s2P602" n="p602"/>
+                           côté de <unclear>l’estre</unclear> et ligne d’où procède l’héritage, même
+                           après l’an et jour pourvu que celuy qui veut retraire ait intenté son
+                           action et par icelle protesté dans l’an du décès <pb xml:id="s2P602"
+                              n="p602"/>
                            <fw type="pageNum">602</fw> de celui des deux conjoints qu’il étoit
                            parent et qu’il poursuivra l’action en retrait au cas que par le partage,
                            l’héritage échoye au survivant non lignager.</p>
@@ -11471,12 +11447,12 @@
                            incapables de succéder.</p>
                         <p>Il faut excepter les enfants légitimés <pb xml:id="s2P606" n="p606"/>
                            <fw type="pageNum">606</fw> par un subséquent mariage lesquels ont le
-                           droit de succéder et le pouvoir d’esser du retrait étant <unclear>adjustan</unclear> des
-                           enfans nés en loyal mariage, le vice et le deffaut de leur conception est
-                           effacé par le mariage subséquent de leur père et mère et la Légitimation
-                           faite par ce moyen communique aux enfants nés avant le mariage, tous les
-                           droits du sang et les rend capables de tous effets civils et
-                           coutumiers.</p>
+                           droit de succéder et le pouvoir d’esser du retrait étant
+                              <unclear>adjustan</unclear> des enfans nés en loyal mariage, le vice
+                           et le deffaut de leur conception est effacé par le mariage subséquent de
+                           leur père et mère et la Légitimation faite par ce moyen communique aux
+                           enfants nés avant le mariage, tous les droits du sang et les rend
+                           capables de tous effets civils et coutumiers.</p>
                         <p>Tous ceux qui sont morts civilement sont aussy incapables de retrait
                            comme sont les condamnés à mort par deffaut et coutumace les Bannis à
                            perpétuité du Royaume et les condamnés aux galères perpétuelles parce que
@@ -11485,9 +11461,9 @@
                         <p>Les Religieux profès ne sont point reçu au retrait parce qu’ils ont
                            renoncé aux biens temporels et se sont volontairement rendus hors d’état
                            de succéder. <pb xml:id="s2P607" n="p607"/>
-                           <fw type="pageNum">607</fw> les étrangers ou <unclear>aubains</unclear> non naturalisés ne
-                           peuvent point aussy user de retrait comme ayant l’incapacité de succéder
-                           en France.</p>
+                           <fw type="pageNum">607</fw> les étrangers ou <unclear>aubains</unclear>
+                           non naturalisés ne peuvent point aussy user de retrait comme ayant
+                           l’incapacité de succéder en France.</p>
                      </div>
                   </div>
                   <div>
@@ -11497,9 +11473,10 @@
                            Retrait Lignager <lb/>évince le féodal</head>
                         <p>Le fief venant de propre vendu par le Vassal et retenu par puissance de
                            fief par le Seigneur féodal peut être retrait par l’un des parents et
-                           Lignager du Vendeur de l’<unclear>Estre</unclear> et Ligne dont il est procédé dans l’an
-                           et jour que led. fief a été retenu par puissance de fief et lad. retenue
-                           publiée en jugement au plus prochain siège Royal.</p>
+                           Lignager du Vendeur de l’<unclear>Estre</unclear> et Ligne dont il est
+                           procédé dans l’an et jour que led. fief a été retenu par puissance de
+                           fief et lad. retenue publiée en jugement au plus prochain siège
+                           Royal.</p>
                      </div>
                      <div>
                         <head rend="alignCenter">Explication <lb/>sur l’art. 159 de la
