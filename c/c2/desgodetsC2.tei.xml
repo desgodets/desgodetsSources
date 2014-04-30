@@ -266,7 +266,7 @@
                                  la cuve</material> avec filigranes,
                                  <watermark>raisins</watermark> similaire à
                                  <ref>[référence]</ref>,
-                              <date>1570-1758</date>.</p>
+                              <date>1570-1758</date></p>
                         </support>
                         <extent>
                            <dimensions type="leaves">
@@ -274,7 +274,7 @@
                                  42 planches</dim>
                               <height quantity="410" unit="mm"/>
                               <width quantity="250" unit="mm"/>
-                              <depth quantity="4" unit="mm"/>
+                              <depth quantity="40" unit="mm"/>
                            </dimensions>
                            <!-- dimensions est répétable -->
                         </extent>
@@ -321,9 +321,9 @@
                         numérotation des planches semble indiquer qu’il a pu
                         être copié d’après un même original.</p>
                   </origin>
-                  <provenance>
+                  <!--<provenance>
                      <p>[Si nous avions eu des informations sur la
-                        provenance].</p>
+                        provenance].</p>-->
                   </provenance>
                   <acquisition>
                      <p>Entré par le biais d’une acquisition du cabinet des
