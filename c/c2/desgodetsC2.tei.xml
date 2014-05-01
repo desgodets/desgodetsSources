@@ -323,8 +323,8 @@
                   </origin>
                   <!--<provenance>
                      <p>[Si nous avions eu des informations sur la
-                        provenance].</p>-->
-                  </provenance>
+                        provenance].</p>
+                  </provenance>-->
                   <acquisition>
                      <p>Entré par le biais d’une acquisition du cabinet des
                         Estampes de la bibliothèque du roi circa 1785.</p>
@@ -1559,18 +1559,19 @@
                         d’ordre corinthien, on monte trois marches pour entrer
                         au <term type="gT" ref="#portique">portique</term>,
                         lequel est de plein pied à l’<term type="gT"
-                           ref="#eglise"
-                                 ><choice><orig>églize</orig><reg>église</reg></choice></term>,
-                        la porte du milieu qui entre du <term type="gT"
-                           ref="#portique">portique</term> à la <term type="gT"
-                           ref="#nef">nef</term> a neuf pieds huit pouces de
-                        large, sur seize pieds huit pouces de haut, et les
-                        portes des cotés n’ont chacune que six pieds trois
-                        pouces de large, haute à proportion, leurs chambranles
-                        et couronnemens sont de marbre blanc. Les colonnes du
-                        dedans de l’<term type="gT" ref="#eglise">église</term>
-                        qui soutiennent les murs des cotés <pb xml:id="c2F11r"
-                           n="p19"/>
+                           ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <reg>église</reg>
+                           </choice></term>, la porte du milieu qui entre du
+                           <term type="gT" ref="#portique">portique</term> à la
+                           <term type="gT" ref="#nef">nef</term> a neuf pieds
+                        huit pouces de large, sur seize pieds huit pouces de
+                        haut, et les portes des cotés n’ont chacune que six
+                        pieds trois pouces de large, haute à proportion, leurs
+                        chambranles et couronnemens sont de marbre blanc. Les
+                        colonnes du dedans de l’<term type="gT" ref="#eglise"
+                           >église</term> qui soutiennent les murs des cotés <pb
+                           xml:id="c2F11r" n="p19"/>
                         <pb xml:id="c2F11v" n="p20"/>
                         <figure type="plate" copyOf="#c2Pl0003"/>
                         <pb xml:id="c2F12r" n="p21"/> de la <term type="gT"
@@ -1911,10 +1912,11 @@
                      <p xml:id="c2BodyFr01.01.006.p004">
                         <hi rend="bigger">Le portique</hi> qui a quatre vingt un
                         pieds sept pouces de longeur dans œuvre, occupe toute la
-                        face de l’<term type="gT" ref="#eglise"
-                                 ><choice><orig>églize</orig><reg>église</reg></choice></term> ;
-                        sa largeur est de 23 pieds ½ entre les <term type="gT"
-                           ref="#colonne"><choice>
+                        face de l’<term type="gT" ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <reg>église</reg>
+                           </choice></term> ; sa largeur est de 23 pieds ½ entre
+                        les <term type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
                            </choice></term> et le mur du pignon de l’église. Sa
@@ -2045,10 +2047,12 @@
                               <reg>colonnes</reg>
                            </choice></term> des côtés de la <term type="gT"
                            ref="#nef">nef</term>, posent sur le pavé de l’<term
-                           type="gT" ref="#eglise"
-                                 ><choice><orig>églize</orig><reg>église</reg></choice></term>,
-                        mais il y a un <term type="gT" ref="#socle">socle</term>
-                        sous les bazes des <term type="gT" ref="#colonne"><choice>
+                           type="gT" ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <reg>église</reg>
+                           </choice></term>, mais il y a un <term type="gT"
+                           ref="#socle">socle</term> sous les bazes des <term
+                           type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
                            </choice></term>, qui soutient l’<term type="gT"
@@ -2480,17 +2484,18 @@
                         ouverture par le haut de leur <term type="gT"
                            ref="#voute">voûte</term> qui rendoit sous l’autel,
                         ainsy que le caveau B <ref type="figure"
-                           target="#c2Fig0008.02">à la <choice><abbr>2<hi
-                                    rend="superscript"
-                                 >e</hi></abbr><expan>deuxième</expan></choice>
-                           figure</ref> on y descendoit par devant ou par
-                        derrière l’autel, par des dégrés C <ref type="plate"
-                           target="#c2Pl0008">à la <choice><abbr>1<hi
-                                    rend="superscript"
-                                 >ère</hi></abbr><expan>première</expan></choice>
-                           et <choice><abbr>2<hi rend="superscript"
-                                 >e</hi></abbr><expan>deuxième</expan></choice>
-                           figure du huitième dessein</ref>.</p>
+                           target="#c2Fig0008.02">à la <choice>
+                              <abbr>2<hi rend="superscript">e</hi></abbr>
+                              <expan>deuxième</expan>
+                           </choice> figure</ref> on y descendoit par devant ou
+                        par derrière l’autel, par des dégrés C <ref type="plate"
+                           target="#c2Pl0008">à la <choice>
+                              <abbr>1<hi rend="superscript">ère</hi></abbr>
+                              <expan>première</expan>
+                           </choice> et <choice>
+                              <abbr>2<hi rend="superscript">e</hi></abbr>
+                              <expan>deuxième</expan>
+                           </choice> figure du huitième dessein</ref>.</p>
                      <p xml:id="c2BodyFr01.01.008.p018">
                         <hi rend="bigger">L’autel</hi> étoit couvert de napes
                         pendant la messe, et les anciens observoient avec
@@ -2523,19 +2528,21 @@
                            target="#c2Fig0008.04">en la quatrième figure</ref>,
                         hors lequel tems, ce rideau étoit rangé d’un coté comme
                         F <ref type="plate" target="#c2Fig0008.02 #c2Fig0008.03"
-                           >à la
-                              <choice><abbr>2</abbr><expan>deuxième</expan></choice>
-                           et <choice><abbr>3<hi rend="superscript"
-                                 >e</hi></abbr><expan>troisième</expan></choice>
-                           figure</ref>. Depuis le prêtre portoit luy même un
-                        crucifix entre ses mains lorsqu’il alloit à l’autel, et
-                        le raportoit après la messe. Enfin le sacristain ou
-                        autre ministre inférieur, étoit chargé de mettre un
-                        crucifix sur l’autel à la grande messe, et ensuitte le
-                        retirer et le reporter à la sacristie. Aujourd’huy
-                        presque par toutes les <term type="gT" ref="#eglise"
-                           >églises</term>, le crucifix reste toujours sur
-                        l’autel, comme G <ref type="figure"
+                           >à la <choice>
+                              <abbr>2</abbr>
+                              <expan>deuxième</expan>
+                           </choice> et <choice>
+                              <abbr>3<hi rend="superscript">e</hi></abbr>
+                              <expan>troisième</expan>
+                           </choice> figure</ref>. Depuis le prêtre portoit luy
+                        même un crucifix entre ses mains lorsqu’il alloit à
+                        l’autel, et le raportoit après la messe. Enfin le
+                        sacristain ou autre ministre inférieur, étoit chargé de
+                        mettre un crucifix sur l’autel à la grande messe, et
+                        ensuitte le retirer et le reporter à la sacristie.
+                        Aujourd’huy presque par toutes les <term type="gT"
+                           ref="#eglise">églises</term>, le crucifix reste
+                        toujours sur l’autel, comme G <ref type="figure"
                            target="#c2Fig0008.06 #c2Fig0008.07">aux figures 6 et
                            7</ref> il est même devenu un accompagnement et un
                         ornement nécessaire à l’autel<ref type="noteHistorical"
@@ -2544,17 +2551,19 @@
                         <hi rend="bigger">Comme</hi> le sacrifice de la messe se
                         faisoit au tems des apôtres, le soir à l’heure du soupé,
                         ainsy qu’il paroit par le onzième chapitre de la
-                        première Épitre de
-                                 <persName><choice><abbr>St</abbr><expan>saint</expan></choice>
-                           Paul</persName> aux Corinthiens de même lorsque les
-                        chrétiens s’assembloient, dans les catacombes pour
-                        célébrer l’office divin, ils avoient besoin d’être
-                        éclairés par des lampes ou autres luminaires. La coutume
-                        s’en introduite de mettre des cièrges alumées aux
-                        environs de l’autel pendant la Messe, et depuis que l’on
-                        a exposé un crucifix sur l’autel, ont y a aussy mis des
-                        chandelliers avec des cierges posés sur le marche pied
-                        au derrière de l’autel, comme H <ref type="figure"
+                        première Épitre de <persName><choice>
+                              <abbr>St</abbr>
+                              <expan>saint</expan>
+                           </choice> Paul</persName> aux Corinthiens de même
+                        lorsque les chrétiens s’assembloient, dans les
+                        catacombes pour célébrer l’office divin, ils avoient
+                        besoin d’être éclairés par des lampes ou autres
+                        luminaires. La coutume s’en introduite de mettre des
+                        cièrges alumées aux environs de l’autel pendant la
+                        Messe, et depuis que l’on a exposé un crucifix sur
+                        l’autel, ont y a aussy mis des chandelliers avec des
+                        cierges posés sur le marche pied au derrière de l’autel,
+                        comme H <ref type="figure"
                            target="#c2Fig0008.01 #c2Fig0008.02 #c2Fig0008.04 #c2Fig0008.05 #c2Fig0008.06 #c2Fig0008.07"
                            >aux figures 1, 2, 4, 5, 6, et 7</ref>. pour marque
                         d’honneur et de vénération, ainsy que Dieu avoit ordonné
@@ -2585,17 +2594,17 @@
                         treillages entrelassées en façon de
                         <sic>filagrame</sic>. Et même hors le tems de la messe
                         il y avoit audevant de ces grilles, des <term type="gT"
-                           ref="#voile">voils</term> ou rideaux d’étoffe
-                                 <choice><abbr>1<hi rend="superscript"
-                              >er</hi></abbr><expan>premièrement</expan></choice>
-                        pour empêcher la poussière d’y entrer et conserver la
-                        propreté des chazes, comme <ref type="figure"
-                           target="#c2Fig0008.03">en la <choice><abbr>3<hi
-                                    rend="superscript"
-                                 >e</hi></abbr><expan>troisième</expan></choice>
-                           figure</ref>, les <term type="gT" ref="#voile"
-                           >voils</term> ont depuis introduits les parements que
-                        l’on met au devant des autels.</p>
+                           ref="#voile">voils</term> ou rideaux d’étoffe <choice>
+                           <abbr>1<hi rend="superscript">er</hi></abbr>
+                           <expan>premièrement</expan>
+                        </choice> pour empêcher la poussière d’y entrer et
+                        conserver la propreté des chazes, comme <ref
+                           type="figure" target="#c2Fig0008.03">en la <choice>
+                              <abbr>3<hi rend="superscript">e</hi></abbr>
+                              <expan>troisième</expan>
+                           </choice> figure</ref>, les <term type="gT"
+                           ref="#voile">voils</term> ont depuis introduits les
+                        parements que l’on met au devant des autels.</p>
                      <!-- NOT S’agit-il d’une sous-division du texte ? -->
                      <p xml:id="c2BodyFr01.01.008.p022">
                         <hi rend="bigger">Anciennement</hi> on reservoit la
@@ -2616,20 +2625,26 @@
                         en avoit en manières de tour d’ivoire d’argent ou d’or
                         L, <ref type="figure"
                            target="#c2Fig0008.02 #c2Fig0008.03 #c2Fig0008.04"
-                           >comme
-                              <choice><abbr>2</abbr><expan>deuxième</expan></choice>,
-                                 <choice><abbr>3</abbr><expan>troisième</expan></choice>
-                           et <choice><abbr>4<hi rend="superscript"
-                                 >e</hi></abbr><expan>quatrième</expan></choice>
-                           figures</ref>. d’autres qui étoient la forme la plus
-                        ordinaire, représentoient une colombe M <ref
-                           type="figure" target="#c2Fig0008.06 #c2Fig0008.07"
-                           >aux
-                              <choice><abbr>6</abbr><expan>sixième</expan></choice>
-                           et <choice><abbr>7<hi rend="superscript"
-                                 >e</hi></abbr><expan>septième</expan></choice>
-                           figures</ref>, dont le corps s’ouvroit pour y
-                        enfermer le ciboire où étoit l’eucharistie. Ces petits
+                           >comme <choice>
+                              <abbr>2</abbr>
+                              <expan>deuxième</expan>
+                           </choice>, <choice>
+                              <abbr>3</abbr>
+                              <expan>troisième</expan>
+                           </choice> et <choice>
+                              <abbr>4<hi rend="superscript">e</hi></abbr>
+                              <expan>quatrième</expan>
+                           </choice> figures</ref>. d’autres qui étoient la
+                        forme la plus ordinaire, représentoient une colombe M
+                           <ref type="figure"
+                           target="#c2Fig0008.06 #c2Fig0008.07">aux <choice>
+                              <abbr>6</abbr>
+                              <expan>sixième</expan>
+                           </choice> et <choice>
+                              <abbr>7<hi rend="superscript">e</hi></abbr>
+                              <expan>septième</expan>
+                           </choice> figures</ref>, dont le corps s’ouvroit pour
+                        y enfermer le ciboire où étoit l’eucharistie. Ces petits
                         tabernacles, étoient suspendus avec des chaines de
                         metail, ou des cordons de soye, qui passoient au long du
                         dedans d’une crosse N, creuse faîte de metail ou de bois
@@ -2662,25 +2677,31 @@
                            de l’atran</placeName>, de <placeName>St Pierre au
                            Vatican</placeName>, de <placeName>St
                            Paul</placeName><ref type="noteHistorical"
-                           target="#c2Nh0120"/>, de
-                                 <placeName><choice><abbr>Ste</abbr><expan>Sainte</expan></choice>
-                           Marie Majeure</placeName>, de
-                                 <placeName><choice><abbr>S.</abbr><expan>Saint</expan></choice>
-                           Laurent</placeName><ref type="noteHistorical"
-                           target="#c2Nh0121"/>, de
-                                 <placeName><choice><abbr>Ste</abbr><expan>Sainte</expan></choice>
-                           Cecille au delà du Tibre</placeName><ref
-                           type="noteHistorical" target="#c2Nh0122"/>, de
-                                 <placeName><choice><abbr>Ste</abbr><expan>Sainte</expan></choice>
-                           Sabine</placeName>, de <placeName>St
+                           target="#c2Nh0120"/>, de <placeName><choice>
+                              <abbr>Ste</abbr>
+                              <expan>Sainte</expan>
+                           </choice> Marie Majeure</placeName>, de <placeName><choice>
+                              <abbr>S.</abbr>
+                              <expan>Saint</expan>
+                           </choice> Laurent</placeName><ref
+                           type="noteHistorical" target="#c2Nh0121"/>, de <placeName><choice>
+                              <abbr>Ste</abbr>
+                              <expan>Sainte</expan>
+                           </choice> Cecille au delà du Tibre</placeName><ref
+                           type="noteHistorical" target="#c2Nh0122"/>, de <placeName><choice>
+                              <abbr>Ste</abbr>
+                              <expan>Sainte</expan>
+                           </choice> Sabine</placeName>, de <placeName>St
                            Alexis</placeName>, de <placeName>St
                            Pancrace</placeName><ref type="noteHistorical"
-                           target="#c2Nh0123"/>, de
-                                 <placeName><choice><abbr>St</abbr><expan>Saint</expan></choice>
-                           Eustache</placeName><ref type="noteHistorical"
-                           target="#c2Nh0124"/>, de
-                                 <placeName><choice><abbr>St</abbr><expan>Saint</expan></choice>
-                           Nercé</placeName>, de <placeName>St
+                           target="#c2Nh0123"/>, de <placeName><choice>
+                              <abbr>St</abbr>
+                              <expan>Saint</expan>
+                           </choice> Eustache</placeName><ref
+                           type="noteHistorical" target="#c2Nh0124"/>, de <placeName><choice>
+                              <abbr>St</abbr>
+                              <expan>Saint</expan>
+                           </choice> Nercé</placeName>, de <placeName>St
                            achille</placeName><ref type="noteHistorical"
                            target="#c2Nh0125"/> et les autres. Les anciens
                         apelloient ces sortes de dais un ciboire, parce que les
@@ -2882,30 +2903,31 @@
                         sont chargés de les avertir des tems où ils doivent
                         sonner. Lorsque les clochers sont de charpente, faits en
                         manière d’éguille, on les a souvent mis vers le milieu
-                        du dessus de l’<term type="gT" ref="#eglise"
-                                 ><choice><orig>églize</orig><reg>église</reg></choice></term>,
-                        répondant vis-à-vis le dehors de la porte du <term
-                           type="gT" ref="#chœur">cœur</term> pour faire un
-                        ornement au dessus du comble de l’<term type="gT"
-                           ref="#eglise">église</term> et y tenir lieu de <term
-                           type="gT" ref="#dome">dôme</term>. Mais ils y sont
-                        très mal placés, tant pour l’incommoditée du peuple qui
-                        est dans l’<term type="gT" ref="#eglise">église</term>
-                        que les sonneurs embarrassent, que la solidité de leur
-                        construction. Cela a pû s’introduire par les <term
-                           type="gT" ref="#eglise">églises</term> des villages
-                        où il y a peu d’ecclésiastiques, et le plus souvent que
-                        le curé seul, qui est presque toujours obligé de sonner
-                        luy même pour avertir ses paroissiens de l’heure de la
-                        messe, et de vespres. Mais supposé que l’on veuille
-                        faire un clocher en éguille au dessus du milieu de
-                           l’<term type="gT" ref="#eglise">église</term>, on n’y
-                        doit mettre qu’une ou deux clochettes, et faire des
-                        tours vers le portail de l’<term type="gT" ref="#eglise"
-                           >église</term> pour y mettre les grosses cloches, et
-                        disposer ces tours en sorte qu’elles conviennent à la
-                        décoration de l’édifice de l’<term type="gT"
-                           ref="#eglise">église</term>.</p>
+                        du dessus de l’<term type="gT" ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <reg>église</reg>
+                           </choice></term>, répondant vis-à-vis le dehors de la
+                        porte du <term type="gT" ref="#chœur">cœur</term> pour
+                        faire un ornement au dessus du comble de l’<term
+                           type="gT" ref="#eglise">église</term> et y tenir lieu
+                        de <term type="gT" ref="#dome">dôme</term>. Mais ils y
+                        sont très mal placés, tant pour l’incommoditée du peuple
+                        qui est dans l’<term type="gT" ref="#eglise"
+                           >église</term> que les sonneurs embarrassent, que la
+                        solidité de leur construction. Cela a pû s’introduire
+                        par les <term type="gT" ref="#eglise">églises</term> des
+                        villages où il y a peu d’ecclésiastiques, et le plus
+                        souvent que le curé seul, qui est presque toujours
+                        obligé de sonner luy même pour avertir ses paroissiens
+                        de l’heure de la messe, et de vespres. Mais supposé que
+                        l’on veuille faire un clocher en éguille au dessus du
+                        milieu de l’<term type="gT" ref="#eglise">église</term>,
+                        on n’y doit mettre qu’une ou deux clochettes, et faire
+                        des tours vers le portail de l’<term type="gT"
+                           ref="#eglise">église</term> pour y mettre les grosses
+                        cloches, et disposer ces tours en sorte qu’elles
+                        conviennent à la décoration de l’édifice de l’<term
+                           type="gT" ref="#eglise">église</term>.</p>
                   </div>
                </div>
                <!-- Ière partie, Chapitre II -->
@@ -2913,9 +2935,11 @@
                   <head rend="alignCenter"><num>Chapitre 2<hi rend="superscript"
                            >e</hi></num>
                      <lb/>Description des <term type="gT"
-                        ref="#egliseCathedrale">églizes
-                              <lb/><choice><orig>cathédralles</orig><expan>cathédrales</expan></choice></term><ref
-                        type="noteHistorical" target="#c2Nh0137"/></head>
+                        ref="#egliseCathedrale">églizes <lb/><choice>
+                           <orig>cathédralles</orig>
+                           <expan>cathédrales</expan>
+                        </choice></term><ref type="noteHistorical"
+                        target="#c2Nh0137"/></head>
                   <div xml:id="c2BodyFr01.02.001" type="section" n="1">
                      <p xml:id="c2BodyFr01.02.001.p001">
                         <hi rend="bigger bold">La religion chrétienne étant</hi>
@@ -3194,27 +3218,28 @@
                            <term type="gT" ref="#chœur">chœur</term>, il y
                         auroit deux inconveniens. Le premier est que la closture
                         des stales chacheroit l’autel au peuple, qui seroit dans
-                        la partie inférieur de l’<term type="gT" ref="#eglise"
-                                 ><choice><orig>églize</orig><reg>église</reg></choice></term>,
-                        et l’empêcheroit de voir, et entendre le célébrant et de
-                        le suivre aux différents tems de la célébration, et des
-                        cérémonies du sacrifice de la messe. Le second est que
-                        le peuple ne pouvant entendre le chant des chantres du
-                           <term type="gT" ref="#chœur">chœur</term>, que par
-                        reflexions indirecte et dérangée par les différentes
-                        hauteurs des <term type="gT" ref="#voute">voûtes</term>
-                        du <term type="gT" ref="#chœur">chœur</term>, et des
-                        latéreaux qui forment diférens sons, le chant du peuple
-                        seroits discorant et de diferens tems avec celuy des
-                        chantres, ce qui causeroit une cacafonie indécente, qui
-                        n’arrive que trop fréquemment les jours des grandes
-                        festes en de pareilles <term type="gT" ref="#eglise"
-                           >églises</term>, où le maître autels sont placés
-                        entre les chantres et le peuples ayant tous le visage
-                        tourné vers l’autel. Leurs voix se réunissent au travers
-                        des grilles à jour, qui environnent le sanctuaire, fait
-                        que le peuple suit plus aisément le chant des
-                        chantres.</p>
+                        la partie inférieur de l’<term type="gT" ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <reg>église</reg>
+                           </choice></term>, et l’empêcheroit de voir, et
+                        entendre le célébrant et de le suivre aux différents
+                        tems de la célébration, et des cérémonies du sacrifice
+                        de la messe. Le second est que le peuple ne pouvant
+                        entendre le chant des chantres du <term type="gT"
+                           ref="#chœur">chœur</term>, que par reflexions
+                        indirecte et dérangée par les différentes hauteurs des
+                           <term type="gT" ref="#voute">voûtes</term> du <term
+                           type="gT" ref="#chœur">chœur</term>, et des latéreaux
+                        qui forment diférens sons, le chant du peuple seroits
+                        discorant et de diferens tems avec celuy des chantres,
+                        ce qui causeroit une cacafonie indécente, qui n’arrive
+                        que trop fréquemment les jours des grandes festes en de
+                        pareilles <term type="gT" ref="#eglise">églises</term>,
+                        où le maître autels sont placés entre les chantres et le
+                        peuples ayant tous le visage tourné vers l’autel. Leurs
+                        voix se réunissent au travers des grilles à jour, qui
+                        environnent le sanctuaire, fait que le peuple suit plus
+                        aisément le chant des chantres.</p>
                      <p xml:id="c2BodyFr01.02.001.p016">
                         <hi rend="bigger">Cette</hi> situation du maître autel,
                         à l’entrée du <term type="gT" ref="#chœur">chœur</term>
@@ -5240,11 +5265,13 @@
                      <p xml:id="c2BodyFr01.02.006.p010">
                         <hi rend="bigger">Le</hi> haut de la couverture de la
                         grande chapelle carré du <term type="gT" ref="#chevet"
-                           >chevet</term> de l’<term type="gT" ref="#eglise"
-                                 ><choice><orig>églize</orig><reg>église</reg></choice></term>,
-                        ne monte qu’à la hauteur du dessus de la <term type="gT"
-                           ref="#balustrade">balustrade</term> du grand ordre
-                        des murs <pb xml:id="c2F49r" n="p95"/>
+                           >chevet</term> de l’<term type="gT" ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <reg>église</reg>
+                           </choice></term>, ne monte qu’à la hauteur du dessus
+                        de la <term type="gT" ref="#balustrade"
+                           >balustrade</term> du grand ordre des murs <pb
+                           xml:id="c2F49r" n="p95"/>
                         <pb xml:id="c2F49v" n="p96"/>
                         <figure type="plate" copyOf="#c2Pl0016"/>
                         <pb xml:id="c2F50r" n="p97"/> de face. En sorte qu’il
@@ -5707,14 +5734,15 @@
                         de niveau 20.22 du dessus de la gorge de la naissance de
                         la petite <term type="gT" ref="#coupole">coupole</term>,
                         est coupé par l’axe de la lanterne des centres 25.26, et
-                        de l’interval depuis
-                              <choice><abbr>lesd.</abbr><expan>lesdits</expan></choice>
-                        centres jusqu’à l’aplomb du nud du dedans du mur oposé
-                        du corps de la lanterne, on tracera les arcs de cercle
-                        23.28 ; 24.29 et du centre 27 ; on tracera l’arc de
-                        cercle du haut 28. 29. Ces trois arcs formeront ensemble
-                        le trait du profil de la calotte du dedans, ce qui
-                        rendra aussy la <term type="gT" ref="#voute"
+                        de l’interval depuis <choice>
+                           <abbr>lesd.</abbr>
+                           <expan>lesdits</expan>
+                        </choice> centres jusqu’à l’aplomb du nud du dedans du
+                        mur oposé du corps de la lanterne, on tracera les arcs
+                        de cercle 23.28 ; 24.29 et du centre 27 ; on tracera
+                        l’arc de cercle du haut 28. 29. Ces trois arcs formeront
+                        ensemble le trait du profil de la calotte du dedans, ce
+                        qui rendra aussy la <term type="gT" ref="#voute"
                            >voûte</term> de la petite <term type="gT"
                            ref="#coupole">coupole</term> de la lanterne moins
                         épaisse par le haut que par le bas.</p>
@@ -6961,8 +6989,10 @@
                   <head rend="alignCenter"><num>Chapitre 3<hi rend="superscript"
                            >e</hi></num>
                      <lb/>Description des <term type="gT"
-                        ref="#egliseParoissiale"
-                              ><choice><orig>églizes</orig><expan>églises</expan></choice>
+                        ref="#egliseParoissiale"><choice>
+                           <orig>églizes</orig>
+                           <expan>églises</expan>
+                        </choice>
                         <lb/>paroissiales</term></head>
                   <div xml:id="c2BodyFr01.03.001" type="section" n="1">
                      <p xml:id="c2BodyFr01.03.001.p001">
@@ -6987,7 +7017,8 @@
                            <sic>distribués</sic> ensorte que tous ces pieux
                         exercices de la religion chrétienne <sic>si</sic>
                         puissent faire <choice>
-                           <abbr>commodémt</abbr><expan>commodément</expan>
+                           <abbr>commodémt</abbr>
+                           <expan>commodément</expan>
                         </choice>, décement sans confusion<ref
                            type="noteHistorical" target="#c2Nh0308"/>. Chaque
                         chose ayant sa place particulière, composant ensemble
@@ -7049,13 +7080,14 @@
                         portes V Aux deux bouts de Ce <term type="gT"
                            ref="#vestibule">vestibule</term>, on entre
                         directement dans les galleries l’aterales GI, on entre
-                        aussy dans l’<term type="gT" ref="#eglise"
-                                 ><choice><orig>églize</orig><reg>église</reg></choice></term>
-                        par les deux grandes portes X, aux Bouts des <term
-                           type="gT" ref="#croisillon">croisillons</term> EF et
-                        par les deux autres portes Y, aux deux bouts de la
-                        gallerie traversalle LM<ref type="noteHistorical"
-                           target="#c2Nh0312"/>.</p>
+                        aussy dans l’<term type="gT" ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <reg>église</reg>
+                           </choice></term> par les deux grandes portes X, aux
+                        Bouts des <term type="gT" ref="#croisillon"
+                           >croisillons</term> EF et par les deux autres portes
+                        Y, aux deux bouts de la gallerie traversalle LM<ref
+                           type="noteHistorical" target="#c2Nh0312"/>.</p>
                      <p xml:id="c2BodyFr01.03.001.p005">
                         <hi rend="bigger">La</hi>
                         <term type="gT" ref="#nef">nef</term> et le <term
@@ -7706,9 +7738,10 @@
                         sont chacun d’un demi Diamètre.</p>
                      <p xml:id="c2BodyFr01.03.001.p044">
                         <hi rend="bigger">La</hi> largeur des deux petits avant
-                        corps est chacun de 6
-                              <choice><abbr>diam.</abbr><expan>diamètres</expan></choice>
-                        1/3 ainsy leur entrepilastre sont égaux à
+                        corps est chacun de 6 <choice>
+                           <abbr>diam.</abbr>
+                           <expan>diamètres</expan>
+                        </choice> 1/3 ainsy leur entrepilastre sont égaux à
                         l’entrepilastre du milieu du grand avant corps. Ils ont
                         chacun 4 diamètres 1/3 de largeur. Les <term type="gT"
                            ref="#arcade">arcades</term> de ces avant corps sont
@@ -7805,11 +7838,12 @@
                            l’<term type="gT" ref="#eglise">église</term>, sont
                         de même grandeur et semblables entr’eux. Ils ont dans la
                         proportion des fenestres ceintrées ionique expliquées
-                           <ref>au 8<hi rend="superscript">e</hi> chapitre de la
-                                    <choice><abbr>2<hi rend="superscript"
-                                 >e</hi></abbr><expan>deuxième</expan></choice>
-                           partie du traité des ordres d’architecture</ref><ref
-                           type="noteHistorical" target="#c2Nh0352"/>.</p>
+                           <ref>au 8<hi rend="superscript">e</hi> chapitre de la <choice>
+                              <abbr>2<hi rend="superscript">e</hi></abbr>
+                              <expan>deuxième</expan>
+                           </choice> partie du traité des ordres
+                           d’architecture</ref><ref type="noteHistorical"
+                           target="#c2Nh0352"/>.</p>
                      <pb xml:id="c2F73r" n="p143"/>
                      <pb xml:id="c2F73v" n="p144"/>
                      <figure type="plate" copyOf="#c2Pl0022"/>
@@ -8014,8 +8048,10 @@
                         raisons expliquées <pb xml:id="c2F75v" n="p148"/>
                         <ref>au quatrième dessein du 4<hi rend="superscript"
                               >e</hi>
-                           <choice><abbr>chap.</abbr><expan>chapitre</expan></choice>
-                           de la seconde partie du Traité des ordres
+                           <choice>
+                              <abbr>chap.</abbr>
+                              <expan>chapitre</expan>
+                           </choice> de la seconde partie du Traité des ordres
                            d’architecture</ref>. Pour en tracer le plan du
                         contour ayant placé les <term type="gT" ref="#pilastre"
                            >pilastres</term> 2.3. en avant corps de l’entrée de
@@ -8172,10 +8208,11 @@
                         proportions des <term type="gT" ref="#arcade"
                            >arcades</term> des différens ordres d’architecture
                         dont elles sont décorées, ainsy qu’il a été expliqué
-                           <ref>au <choice><abbr>3<hi rend="superscript"
-                                 >e</hi></abbr><expan>troisième</expan></choice>
-                           dessein du chapitre précédant</ref> qui Traite des
-                           <term type="gT" ref="#eglise">églises</term>
+                           <ref>au <choice>
+                              <abbr>3<hi rend="superscript">e</hi></abbr>
+                              <expan>troisième</expan>
+                           </choice> dessein du chapitre précédant</ref> qui
+                        Traite des <term type="gT" ref="#eglise">églises</term>
                         Cathédrales.</p>
                      <p xml:id="c2BodyFr01.03.003.p008">
                         <hi rend="bigger">Lorsqu’il</hi> y a des avant corps aux
@@ -8222,13 +8259,14 @@
                            ref="#croisillon">croisillons</term>. </p>
                      <pb xml:id="c2F78r" n="p153"/>
                      <p xml:id="c2BodyFr01.03.003.p010">
-                        <ref><hi rend="bigger">Par</hi> la seconde figure du
-                                    <choice><abbr>3<hi rend="superscript"
-                                 >e</hi></abbr><expan>troisième</expan></choice>
-                           Dessein des <term type="gT" ref="#egliseParoissiale"
-                              >églises paroissiales</term></ref> qui est la
-                        coupe du profil du travers de l’<term type="gT"
-                           ref="#eglise">église</term> sur la ligne NO<ref
+                        <ref><hi rend="bigger">Par</hi> la seconde figure du <choice>
+                              <abbr>3<hi rend="superscript">e</hi></abbr>
+                              <expan>troisième</expan>
+                           </choice> Dessein des <term type="gT"
+                              ref="#egliseParoissiale">églises
+                              paroissiales</term></ref> qui est la coupe du
+                        profil du travers de l’<term type="gT" ref="#eglise"
+                           >église</term> sur la ligne NO<ref
                            type="noteHistorical" target="#c2Nh0369"/>, au droit
                         du milieu des <term type="gT" ref="#arcade"
                            >arcades</term> du <term type="gT" ref="#chœur"
@@ -8360,9 +8398,11 @@
                         soutiennent la butée des <term type="gT"
                            ref="#arcDoubleau">arcs doubleaux</term> des grandes
                            <term type="gT" ref="#voute">voûtes</term> et les
-                        autres parties de cette <term type="gT" ref="#eglise"
-                                 ><choice><orig>églize</orig><reg>église</reg></choice></term>
-                        qui se rencontrent à la hauteur des terrasses.</p>
+                        autres parties de cette <term type="gT" ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <reg>église</reg>
+                           </choice></term> qui se rencontrent à la hauteur des
+                        terrasses.</p>
                      <p xml:id="c2BodyFr01.03.004.p002">
                         <hi rend="bigger">Les</hi> lignes ponctuées marquent le
                         plan des dalles de pierre qui couvre les <term type="gT"
@@ -8377,19 +8417,22 @@
                            ref="#balustrade">balustrade</term>, qui couronne le
                         dessus de l’<term type="gT" ref="#entablement"
                            >entablement</term> du grand ordre ionique, du dehors
-                        de l’<term type="gT" ref="#eglise"
-                                 ><choice><orig>églize</orig><reg>église</reg></choice></term>.
-                        Les eaux sortent de ses <term type="gT"
-                           ref="#gargouille">gargouilles</term> par des godets
-                        et petits canneaux ou tuyaux au travers du socle de la
-                           <term type="gT" ref="#balustrade">balustrade</term>,
-                        et de la cimaise de la <term type="gT" ref="#corniche"
-                           >corniche</term> de l’<term type="gT"
-                           ref="#entablement">entablement</term> au droit de
-                        chacun des <term type="gT" ref="#pilastre"
+                        de l’<term type="gT" ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <reg>église</reg>
+                           </choice></term>. Les eaux sortent de ses <term
+                           type="gT" ref="#gargouille">gargouilles</term> par
+                        des godets et petits canneaux ou tuyaux au travers du
+                        socle de la <term type="gT" ref="#balustrade"
+                           >balustrade</term>, et de la cimaise de la <term
+                           type="gT" ref="#corniche">corniche</term> de l’<term
+                           type="gT" ref="#entablement">entablement</term> au
+                        droit de chacun des <term type="gT" ref="#pilastre"
                            >pilastres</term> du pourtour des faces extérieures
-                        de l’<term type="gT" ref="#eglise"
-                                 ><choice><orig>églize</orig><reg>église</reg></choice></term>.</p>
+                        de l’<term type="gT" ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <reg>église</reg>
+                           </choice></term>.</p>
                      <pb xml:id="c2F79r" n="p155"/>
                      <figure type="plate" copyOf="#c2Pl0024"/>
                      <pb xml:id="c2F79v" n="p156"/>
@@ -8402,28 +8445,30 @@
                         raccordent d’un même niveau avec les dalles en retour au
                         pourtour du dehors de l’<term type="gT" ref="#abside"
                            >abside</term> du <term type="gT" ref="#chevet"
-                           >chevet</term> du <term type="gT" ref="#chœur"
-                                 ><choice><orig>cœur</orig><reg>chœur</reg></choice></term>.
-                        Mais la distance entre les murs de l’atique des Côtés de
-                        la <term type="gT" ref="#nef">nef</term> et du <term
-                           type="gT" ref="#chœur">chœur</term> et la <term
-                           type="gT" ref="#balustrade">balustrade</term> au
-                        dessus des murs de face des flancs de l’<term type="gT"
-                           ref="#eglise"
-                                 ><choice><orig>églize</orig><reg>église</reg></choice></term>,
-                        étant plus Grande que la distance entre le mur du même
-                        attique au derrière de l’<term type="gT" ref="#abside"
-                           >abside</term> du <term type="gT" ref="#chevet"
-                           >chevet</term> du <term type="gT" ref="#chœur"
-                           >chœur</term> et les gargouilles ou cannneaux
-                        11.12.13. par où les eaux de cette partie de terrasse
-                        s’écoulent, fait que les dalles des côtés sont plus
-                        larges que celles du <term type="gT" ref="#chevet"
-                           >chevet</term>, quoy qu’au <term type="gT"
-                           ref="#chevet">chevet</term> du <term type="gT"
-                           ref="#chœur">chœur</term> il y ait trois rangs de
-                        dalles retranchées par le haut, en sorte qu’à cet
-                        endroit les apuis des vitreaux sont plus élevés au
+                           >chevet</term> du <term type="gT" ref="#chœur"><choice>
+                              <orig>cœur</orig>
+                              <reg>chœur</reg>
+                           </choice></term>. Mais la distance entre les murs de
+                        l’atique des Côtés de la <term type="gT" ref="#nef"
+                           >nef</term> et du <term type="gT" ref="#chœur"
+                           >chœur</term> et la <term type="gT" ref="#balustrade"
+                           >balustrade</term> au dessus des murs de face des
+                        flancs de l’<term type="gT" ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <reg>église</reg>
+                           </choice></term>, étant plus Grande que la distance
+                        entre le mur du même attique au derrière de l’<term
+                           type="gT" ref="#abside">abside</term> du <term
+                           type="gT" ref="#chevet">chevet</term> du <term
+                           type="gT" ref="#chœur">chœur</term> et les
+                        gargouilles ou cannneaux 11.12.13. par où les eaux de
+                        cette partie de terrasse s’écoulent, fait que les dalles
+                        des côtés sont plus larges que celles du <term type="gT"
+                           ref="#chevet">chevet</term>, quoy qu’au <term
+                           type="gT" ref="#chevet">chevet</term> du <term
+                           type="gT" ref="#chœur">chœur</term> il y ait trois
+                        rangs de dalles retranchées par le haut, en sorte qu’à
+                        cet endroit les apuis des vitreaux sont plus élevés au
                         dessus des dernières dalles du haut des terrasses, que
                         les apuis des vitreaux de la <term type="gT" ref="#nef"
                            >nef</term> et du <term type="gT" ref="#chœur"
@@ -8712,18 +8757,19 @@
                         même grandeur en plattebande carrée par le haut, au
                         dessous de l’<term type="gT" ref="#imposte"
                            >imposte</term> des <term type="gT" ref="#arcade"
-                           >arcades</term>. Leur hauteur est un
-                                 <choice><abbr>12<hi rend="superscript"
-                              >e</hi></abbr><expan>douzième</expan></choice>
-                        plus que le double de leur largeur suivant la proportion
-                        des portes en plattebande de l’ordre ionique. Celles des
-                           <term type="gT" ref="#croisillon">croisillons</term>,
-                        et de la gallerie traversale sont renfermées dans des
-                           <term type="gT" ref="#arcadeFeinte">arcades
-                           feintes</term>, de la grandeur des autres par le
-                        dedans de l’<term type="gT" ref="#eglise">église</term>,
-                        et par le dehors. Ouvertes dans leurs ceintres au dessus
-                        de l’<term type="gT" ref="#imposte">imposte</term>, pour
+                           >arcades</term>. Leur hauteur est un <choice>
+                           <abbr>12<hi rend="superscript">e</hi></abbr>
+                           <expan>douzième</expan>
+                        </choice> plus que le double de leur largeur suivant la
+                        proportion des portes en plattebande de l’ordre ionique.
+                        Celles des <term type="gT" ref="#croisillon"
+                           >croisillons</term>, et de la gallerie traversale
+                        sont renfermées dans des <term type="gT"
+                           ref="#arcadeFeinte">arcades feintes</term>, de la
+                        grandeur des autres par le dedans de l’<term type="gT"
+                           ref="#eglise">église</term>, et par le dehors.
+                        Ouvertes dans leurs ceintres au dessus de l’<term
+                           type="gT" ref="#imposte">imposte</term>, pour
                         éclairer les <term type="gT" ref="#croisillon"
                            >croisillons</term> et la gallerie traversale. Mais
                         la porte de l’entrée de la <term type="gT" ref="#nef"
@@ -8781,12 +8827,14 @@
                            xml:id="c2F83v" n="p164"/> des saints, on pourroit
                         mettre dans le coffre du maître autel, au derrière du
                         grillage, la chase du corps du saint titulaire de
-                           l’<term type="gT" ref="#eglise"
-                                 ><choice><orig>églize</orig><reg>église</reg></choice></term>,
-                        ou de quelques autres saints, au défaut de celuy du
-                        patron, comme il se pratique en plusieurs <term
-                           type="gT" ref="#eglise">églises</term><ref
-                           type="noteHistorical" target="#c2Nh0379"/>.</p>
+                           l’<term type="gT" ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <reg>église</reg>
+                           </choice></term>, ou de quelques autres saints, au
+                        défaut de celuy du patron, comme il se pratique en
+                        plusieurs <term type="gT" ref="#eglise"
+                           >églises</term><ref type="noteHistorical"
+                           target="#c2Nh0379"/>.</p>
                      <p xml:id="c2BodyFr01.03.005.p009">
                         <hi rend="bigger">Le</hi> gradin pour poser la croix et
                         les chandelliers, est un peu distant au derrière du
@@ -8853,8 +8901,10 @@
                            doubleaux</term> des <term type="gT" ref="#voute"
                            >voûtes</term>, mais au dessus des quatre <term
                            type="gT" ref="#arcDoubleau">arcs doubleaux</term> de
-                        la croisée de l’<term type="gT" ref="#eglise"
-                                 ><choice><orig>églize</orig><reg>église</reg></choice></term>
+                        la croisée de l’<term type="gT" ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <reg>église</reg>
+                           </choice></term>
                         <pb xml:id="c2F84r" n="p165"/> au lieu de fermes sont
                         élevés quatre murs de refends suivant la pente
                         extérieure des quatre combles, pour porter la charpente
@@ -8868,13 +8918,14 @@
                         paroit au dessus du comble, les quatre faces des tours
                         au dessus des terrasses qui couvrent les <term type="gT"
                            ref="#basCotes">bas côtés</term> de l’<term type="gT"
-                           ref="#eglise"
-                                 ><choice><orig>églize</orig><expan>église</expan></choice></term>,
-                        sont égales entre elles, ce qui sera expliqué <ref>à la
-                           seconde figure du <choice><abbr>6<hi
-                                    rend="superscript"
-                                 >e</hi></abbr><expan>sixième</expan></choice>
-                           dessein cy après</ref>.</p>
+                           ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <expan>église</expan>
+                           </choice></term>, sont égales entre elles, ce qui
+                        sera expliqué <ref>à la seconde figure du <choice>
+                              <abbr>6<hi rend="superscript">e</hi></abbr>
+                              <expan>sixième</expan>
+                           </choice> dessein cy après</ref>.</p>
                      <p xml:id="c2BodyFr01.03.005.p014">
                         <hi rend="bigger">Le</hi> plan de la chapelle de la
                         communion N, est circulaire<ref type="noteHistorical"
@@ -9129,10 +9180,10 @@
                   </div>
                   <div xml:id="c2BodyFr01.03.006" type="section" n="6">
                      <p xml:id="c2BodyFr01.03.006.p001">
-                        <ref><hi rend="bigger bold">La première figure du
-                                       <choice><abbr>6<hi rend="superscript"
-                                       >e</hi></abbr><expan>sixième</expan></choice>
-                              dessein</hi> des <term type="gT"
+                        <ref><hi rend="bigger bold">La première figure du <choice>
+                                 <abbr>6<hi rend="superscript">e</hi></abbr>
+                                 <expan>sixième</expan>
+                              </choice> dessein</hi> des <term type="gT"
                               ref="#egliseParoissiale">églises
                               paroissiales</term></ref>, est la coupe ou profil
                         sur le travers de l’<term type="gT" ref="#eglise"
@@ -9245,10 +9296,10 @@
                            enterrara<ref type="noteHistorical"
                            target="#c2Nh0393"/>.</p>
                      <p xml:id="c2BodyFr01.03.006.p007">
-                        <ref><hi rend="bigger">La</hi> seconde figure du
-                                    <choice><abbr>6<hi rend="superscript"
-                                 >e</hi></abbr><expan>sixième</expan></choice>
-                           dessein</ref>, est la face du portail de la
+                        <ref><hi rend="bigger">La</hi> seconde figure du <choice>
+                              <abbr>6<hi rend="superscript">e</hi></abbr>
+                              <expan>sixième</expan>
+                           </choice> dessein</ref>, est la face du portail de la
                         principalle entrée de l’<term type="gT" ref="#eglise"
                            >église</term><ref type="noteHistorical"
                            target="#c2Nh0394"/>, lequel est composé d’un grand
@@ -9307,12 +9358,13 @@
                         la face du <term type="gT" ref="#portique"
                            >portique</term>, et les seconds 55.56 ; se recullent
                         en tour creuses pour former les Encoignures des faces
-                        extérieurs des flancs de l’<term type="gT" ref="#eglise"
-                                 ><choice><orig>églize</orig><expan>église</expan></choice></term>.
-                        Les autres arrières corps 59.60 ; qui paroissent
-                        ensuitte aux extrémités de la face du portail, sont les
-                        côtés des petits avant corps des flancs qui soutiennent
-                        les tours.</p>
+                        extérieurs des flancs de l’<term type="gT" ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <expan>église</expan>
+                           </choice></term>. Les autres arrières corps 59.60 ;
+                        qui paroissent ensuitte aux extrémités de la face du
+                        portail, sont les côtés des petits avant corps des
+                        flancs qui soutiennent les tours.</p>
                      <p xml:id="c2BodyFr01.03.006.p011">
                         <hi rend="bigger">Le</hi> mur du fond du <term type="gT"
                            ref="#vestibule">vestibule</term>, qui est à
@@ -9465,22 +9517,23 @@
                         été dit au commencement de ce chapitre que le diamètre
                         des <term type="gT" ref="#pilastre">pilastres</term> de
                         l’ordre corinthien du dedans de l’<term type="gT"
-                           ref="#eglise"
-                                 ><choice><orig>églize</orig><reg>église</reg></choice></term>
-                        soit de quatre pieds. Ce qui fait 4 pieds 9 pouces 7
-                        Lignes 3/5 pour le diamètre des <term type="gT"
-                           ref="#colonne"><choice>
+                           ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <reg>église</reg>
+                           </choice></term> soit de quatre pieds. Ce qui fait 4
+                        pieds 9 pouces 7 Lignes 3/5 pour le diamètre des <term
+                           type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
                            </choice></term> et <term type="gT" ref="#pilastre"
                            >pilastres</term> de l’ordre ionique extérieur. parce
                         que si ce diamètre de l’ordre extérieur étoit plus grand
                         ou plus petit, cela changeroit la proportion de la
-                        hauteur des statues, ainsy qu’il est expliqué <ref>au
-                                    <choice><abbr>10<hi rend="superscript"
-                                    >e</hi></abbr><expan>dixième</expan></choice>
-                           chapitre de la deuxième partie du Traité des ordres
-                           d’architecture</ref>,</p>
+                        hauteur des statues, ainsy qu’il est expliqué <ref>au <choice>
+                              <abbr>10<hi rend="superscript">e</hi></abbr>
+                              <expan>dixième</expan>
+                           </choice> chapitre de la deuxième partie du Traité
+                           des ordres d’architecture</ref>,</p>
                      <p xml:id="c2BodyFr01.03.006.p019">
                         <ref><hi rend="bigger">La</hi> troisième figure du
                            sixième dessein</ref>, est l’élévation du <term
@@ -9600,20 +9653,22 @@
                      <p xml:id="c2BodyFr01.03.007.p001">
                         <hi rend="bigger bold">Le maître autel étant le
                            principal objet</hi> dans toutes Les <term type="gT"
-                           ref="#eglise"
-                                 ><choice><orig>églizes</orig><reg>églises</reg></choice></term>,
-                        engage a en faire des desseins particuliers de grandeur
-                        convenable, pour y marquer toutes les parties, dans
-                        leurs proportions<ref type="noteHistorical"
-                           target="#c2Nh0402"/>. Il a été cy devant expliqué les
-                        raisons, qui obligent de placer les maistre autels des
-                           <term type="gT" ref="#egliseCathedrale">églises
-                           cathédrales</term> au devant de l’entrée du <term
-                           type="gT" ref="#chœur">chœur</term> dans la croisée
-                        ou <term type="gT" ref="#dome">dôme</term> de l’<term
-                           type="gT" ref="#eglise">église</term>. Et au premier
-                        dessein de ce chapitre, pourquoy le maître autel aux
-                           <term type="gT" ref="#egliseParoissiale">églises
+                           ref="#eglise"><choice>
+                              <orig>églizes</orig>
+                              <reg>églises</reg>
+                           </choice></term>, engage a en faire des desseins
+                        particuliers de grandeur convenable, pour y marquer
+                        toutes les parties, dans leurs proportions<ref
+                           type="noteHistorical" target="#c2Nh0402"/>. Il a été
+                        cy devant expliqué les raisons, qui obligent de placer
+                        les maistre autels des <term type="gT"
+                           ref="#egliseCathedrale">églises cathédrales</term> au
+                        devant de l’entrée du <term type="gT" ref="#chœur"
+                           >chœur</term> dans la croisée ou <term type="gT"
+                           ref="#dome">dôme</term> de l’<term type="gT"
+                           ref="#eglise">église</term>. Et au premier dessein de
+                        ce chapitre, pourquoy le maître autel aux <term
+                           type="gT" ref="#egliseParoissiale">églises
                            paroissiales</term>, doit être placé au <term
                            type="gT" ref="#chevet">chevet</term> du <term
                            type="gT" ref="#chœur">chœur</term>, dans l’une et
@@ -9662,11 +9717,12 @@
                         par le devant et il forme la hauteur d’une marche. Il
                         est entouré de deux autres marches, qui tournent aux
                         côtés et par le derrière de l’autel suivant les raisons
-                        expliquées <ref>au <choice><abbr>10<hi
-                                    rend="superscript"
-                                 >e</hi></abbr><expan>dixième</expan></choice>
-                           dessein des <term type="gT" ref="#egliseCathedrale"
-                              >églises cathédrales</term></ref>. </p>
+                        expliquées <ref>au <choice>
+                              <abbr>10<hi rend="superscript">e</hi></abbr>
+                              <expan>dixième</expan>
+                           </choice> dessein des <term type="gT"
+                              ref="#egliseCathedrale">églises
+                           cathédrales</term></ref>. </p>
                      <p xml:id="c2BodyFr01.03.007.p004">
                         <hi rend="bigger">Le</hi> sanctuaire qui est clos dans
                         le pourtour de l’<term type="gT" ref="#abside"
@@ -9764,18 +9820,20 @@
                            ref="#socle">socle</term> de l’ordre coritnthien,
                         afin de convenir à la hauteur des cinq marches du
                         perron, qui monte au sanctuaire. Lesquelles ne doivent
-                        avoir chacun que 6
-                              <choice><abbr>po.</abbr><expan>pouces</expan></choice>
-                        de hauteur, on pourroit leur donner quelquechose de
-                        moins haut, mais en ce cas on seroit obligé de donner
-                        plus de largeur à leur giron. Ce qui occuperoit trop de
-                        place dans le chœur ; il est sous entendu que
-                        l’ouverture du passage du haut du perron et du bas de la
-                           <term type="gT" ref="#balustrade">balustrade</term>,
-                        doit être fermé par une porte à deux venteaux de Bronze
-                        de fer ou de bois d’ornemens ajour, de la hauteur de la
-                           <term type="gT" ref="#balustrade">balustrade</term>,
-                        laquelle s’ouvre en dedans.</p>
+                        avoir chacun que 6 <choice>
+                           <abbr>po.</abbr>
+                           <expan>pouces</expan>
+                        </choice> de hauteur, on pourroit leur donner
+                        quelquechose de moins haut, mais en ce cas on seroit
+                        obligé de donner plus de largeur à leur giron. Ce qui
+                        occuperoit trop de place dans le chœur ; il est sous
+                        entendu que l’ouverture du passage du haut du perron et
+                        du bas de la <term type="gT" ref="#balustrade"
+                           >balustrade</term>, doit être fermé par une porte à
+                        deux venteaux de Bronze de fer ou de bois d’ornemens
+                        ajour, de la hauteur de la <term type="gT"
+                           ref="#balustrade">balustrade</term>, laquelle s’ouvre
+                        en dedans.</p>
                      <p xml:id="c2BodyFr01.03.008.p003">
                         <hi rend="bigger">Le</hi> bas des bouts de l’autel, se
                         trouve un peu caché par la <term type="gT"
@@ -9914,11 +9972,12 @@
                         sont presque tous prestres, dont l’employ est de
                         s’apliquer à la prière et chanter en commun Les louanges
                         de Dieu en différentes heures réglées de la journée et
-                        de la nuit, tous les jours de l’année et à célébrer le
-                              <choice><abbr>st</abbr><expan>saint</expan></choice>
-                        sacrifice de la messe, la seconde classe, sont les
-                        frères, occupés aux travaux des différens besoins de la
-                        communauté du monastère<ref type="noteHistorical"
+                        de la nuit, tous les jours de l’année et à célébrer le <choice>
+                           <abbr>st</abbr>
+                           <expan>saint</expan>
+                        </choice> sacrifice de la messe, la seconde classe, sont
+                        les frères, occupés aux travaux des différens besoins de
+                        la communauté du monastère<ref type="noteHistorical"
                            target="#c2Nh0411"/>.</p>
                      <p xml:id="c2BodyFr01.04.001.p002">
                         <hi rend="bigger">Les</hi>
@@ -10002,22 +10061,24 @@
                            type="gT" ref="#arcade">arcades</term> dans les
                         espaces entre les <term type="gT" ref="#pilastre"
                            >pilastres</term> de grand ordre ionique, de
-                        l’intérieur de l’<term type="gT" ref="#eglise"
-                                 ><choice><orig>églize</orig><reg>église</reg></choice></term>.
-                        Ces chapelles latérales, sont aussy ouvertes l’une dans
-                        l’autre, par de pareilles <term type="gT" ref="#arcade"
-                           >arcades</term> percées Jusqu’aux <term type="gT"
-                           ref="#croisillon">croisillons</term> de la <term
-                           type="gT" ref="#nef">nef</term>, deux autres
-                        chapelles N.O sont au dela des <term type="gT"
-                           ref="#croisillon">croisillons</term> aux deux côtés
-                        des flancs de l’entrée du <term type="gT" ref="#chœur"
-                           >chœur</term>. La chapelle O percée aussy par une
-                        pareille <term type="gT" ref="#arcade">arcade</term>
-                        dans une autre grande chapelle P en forme de gallerie au
-                        long de l’un des côtés du <term type="gT" ref="#chœur"
-                           >chœur</term>, auquel cette dernière chapelle
-                        communique par une porte qui est vers son entrée. </p>
+                        l’intérieur de l’<term type="gT" ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <reg>église</reg>
+                           </choice></term>. Ces chapelles latérales, sont aussy
+                        ouvertes l’une dans l’autre, par de pareilles <term
+                           type="gT" ref="#arcade">arcades</term> percées
+                        Jusqu’aux <term type="gT" ref="#croisillon"
+                           >croisillons</term> de la <term type="gT" ref="#nef"
+                           >nef</term>, deux autres chapelles N.O sont au dela
+                        des <term type="gT" ref="#croisillon">croisillons</term>
+                        aux deux côtés des flancs de l’entrée du <term type="gT"
+                           ref="#chœur">chœur</term>. La chapelle O percée aussy
+                        par une pareille <term type="gT" ref="#arcade"
+                           >arcade</term> dans une autre grande chapelle P en
+                        forme de gallerie au long de l’un des côtés du <term
+                           type="gT" ref="#chœur">chœur</term>, auquel cette
+                        dernière chapelle communique par une porte qui est vers
+                        son entrée. </p>
                      <p xml:id="c2BodyFr01.04.001.p007">
                         <hi rend="bigger">Toutes</hi> ces <term type="gT"
                            ref="#arcade">arcades</term> sont closes par le
@@ -10742,14 +10803,15 @@
                            <term type="gT" ref="#corniche">corniche</term>, pour
                         être le centre de l’extradosse de la <term type="gT"
                            ref="#voute">voûte</term> de la grande calotte dont
-                        le demy
-                           <choice><abbr>diam</abbr><expan>diamètre</expan></choice>
-                        ou rayon sera depuis le centre jusqu’à l’aplomb du
-                        dehors des grands <term type="gT" ref="#arcDoubleau"
-                           >arcs doubleaux</term> de la croisée. La partie du
-                        bas de l’extradosse, sera en façon de <term type="gT"
-                           ref="#socle">socle</term> aplomb jusqu’au quart de la
-                        hauteur IL.</p>
+                        le demy <choice>
+                           <abbr>diam</abbr>
+                           <expan>diamètre</expan>
+                        </choice> ou rayon sera depuis le centre jusqu’à
+                        l’aplomb du dehors des grands <term type="gT"
+                           ref="#arcDoubleau">arcs doubleaux</term> de la
+                        croisée. La partie du bas de l’extradosse, sera en façon
+                        de <term type="gT" ref="#socle">socle</term> aplomb
+                        jusqu’au quart de la hauteur IL.</p>
                      <p xml:id="c2BodyFr01.04.002.p008">
                         <hi rend="bigger">Le</hi> diamètre intérieur de la
                         lanterne au devant de la face des <term type="gT"
@@ -10761,9 +10823,10 @@
                         chacque côtés la sixième partie du diamètre intérieur.
                         Ainsy le diamètre extérieur est les trois quarts du
                         diamètre extérieur, c’est-à-dire qu’ayant divisé le
-                        diamètre intérieur en 6 parties, le
-                              <choice><abbr>diam</abbr><expan>diamètre</expan></choice>
-                        extérieur en a 8.</p>
+                        diamètre intérieur en 6 parties, le <choice>
+                           <abbr>diam</abbr>
+                           <expan>diamètre</expan>
+                        </choice> extérieur en a 8.</p>
                      <p xml:id="c2BodyFr01.04.002.p009">
                         <hi rend="bigger">La</hi> hauteur MQ du soubassement
                         intérieur de la lanterne est égale à son demy diamètre
@@ -10814,11 +10877,12 @@
                         lanterne, c’est-à-dire que le diamètre du haut soit un
                         peu moins grand que celuy du bas, ainsy qu’il se peut
                         connoitre par les mesures cottés, lesquelles mesures
-                        sont suivant le
-                              <choice><abbr>mod.</abbr><expan>module</expan></choice>
-                        des <term type="gT" ref="#pilastreIonique">pilastres
-                           ioniques</term> du grand ordre du dedans de l’<term
-                           type="gT" ref="#eglise">église</term>.</p>
+                        sont suivant le <choice>
+                           <abbr>mod.</abbr>
+                           <expan>module</expan>
+                        </choice> des <term type="gT" ref="#pilastreIonique"
+                           >pilastres ioniques</term> du grand ordre du dedans
+                        de l’<term type="gT" ref="#eglise">église</term>.</p>
                      <p xml:id="c2BodyFr01.04.002.p012">
                         <hi rend="bigger">Le</hi> diamètre du pleinte du
                         piédouche de la croix a la sixième partie du diamètre du
@@ -10831,12 +10895,12 @@
                            >saillies des pilastres</term>, entablemens, calotte,
                            <term type="gT" ref="#coupole">coupole</term>, tant
                         intérieurs qu’extérieurs de la lanterne et de la croix
-                        au dessus, sont comme il a été expliqué <ref>au
-                                    <choice><abbr>2<hi rend="superscript"
-                                 >e</hi></abbr><expan>deuxième</expan></choice>
-                           chapitre de ce Traité</ref> pour la lanterne des
-                           <term type="gT" ref="#egliseCathedrale">églises
-                           cathédrales</term><ref type="noteHistorical"
+                        au dessus, sont comme il a été expliqué <ref>au <choice>
+                              <abbr>2<hi rend="superscript">e</hi></abbr>
+                              <expan>deuxième</expan>
+                           </choice> chapitre de ce Traité</ref> pour la
+                        lanterne des <term type="gT" ref="#egliseCathedrale"
+                           >églises cathédrales</term><ref type="noteHistorical"
                            target="#c2Nh0440"/>.</p>
                      <p xml:id="c2BodyFr01.04.002.p014">
                         <hi rend="bigger">Le</hi> dessus de l’<term type="gT"
@@ -11353,9 +11417,11 @@
                            >église</term> au droit des chapelles latérales de la
                            <term type="gT" ref="#nef">nef</term> et la seconde
                         figure est le portail de l’entrée de l’<term type="gT"
-                           ref="#eglise"
-                                 ><choice><orig>églize</orig><expan>église</expan></choice></term><ref
-                           type="noteHistorical" target="#c2Nh0452"/>.</p>
+                           ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <expan>église</expan>
+                           </choice></term><ref type="noteHistorical"
+                           target="#c2Nh0452"/>.</p>
                      <p xml:id="c2BodyFr01.04.004.p002">
                         <hi rend="bigger">Par</hi> la première figure, l’on voit
                         le profil des chapelles latérales HM, dont les voûtes
@@ -11574,12 +11640,12 @@
                      <p xml:id="c2BodyFr01.04.004.p010">
                         <hi rend="bigger">Le</hi> portail de la face de l’entrée
                         de l’<term type="gT" ref="#eglise">église</term>,
-                        représenté <ref type="figure" target="#">à la
-                                    <choice><abbr>2<hi rend="superscript"
-                                 >e</hi></abbr><expan>deuxième</expan></choice>
-                           figure</ref>, est composé d’un <term type="gT"
-                           ref="#portique">portique</term> de quatre <term
-                           type="gT" ref="#colonne"><choice>
+                        représenté <ref type="figure" target="#">à la <choice>
+                              <abbr>2<hi rend="superscript">e</hi></abbr>
+                              <expan>deuxième</expan>
+                           </choice> figure</ref>, est composé d’un <term
+                           type="gT" ref="#portique">portique</term> de quatre
+                           <term type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
                            </choice></term> isolées, dont les espaces du milieu
@@ -11589,24 +11655,25 @@
                         couronné d’un grand fronton. Il est placé dans le milieu
                         d’une demye lune, ainsy qu’il a été expliqué au premier
                         dessein sur le plan. La porte de l’entrée de l’<term
-                           type="gT" ref="#eglise"
-                                 ><choice><orig>églize</orig><reg>église</reg></choice></term>
-                        au milieu du <term type="gT" ref="#portique"
-                           >portique</term> est en plattebande carré par le haut
-                        entouré d’un chambranle au dessous de l’<term type="gT"
-                           ref="#imposte">imposte</term>, dans une grande <term
-                           type="gT" ref="#arcadeFeinte">arcade feinte</term>
-                        qui est ouverte en vitrait dans son ceintre, pour
-                        éclairer la tribune qui est au dessus du porche du
-                        dedans de la <term type="gT" ref="#nef">nef</term>, dans
-                        les deux espaces des extrémités du <term type="gT"
-                           ref="#portique">portique</term>, sont deux niches au
-                        dessus de l’<term type="gT" ref="#imposte"
-                           >imposte</term> avec des statues d’image de saints de
-                        rondes bosses et des bas reliefs en bordure ovale au
-                        dessus de l’<term type="gT" ref="#imposte"
-                           >imposte</term><ref type="noteHistorical"
-                           target="#c2Nh0457"/>.</p>
+                           type="gT" ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <reg>église</reg>
+                           </choice></term> au milieu du <term type="gT"
+                           ref="#portique">portique</term> est en plattebande
+                        carré par le haut entouré d’un chambranle au dessous de
+                           l’<term type="gT" ref="#imposte">imposte</term>, dans
+                        une grande <term type="gT" ref="#arcadeFeinte">arcade
+                           feinte</term> qui est ouverte en vitrait dans son
+                        ceintre, pour éclairer la tribune qui est au dessus du
+                        porche du dedans de la <term type="gT" ref="#nef"
+                           >nef</term>, dans les deux espaces des extrémités du
+                           <term type="gT" ref="#portique">portique</term>, sont
+                        deux niches au dessus de l’<term type="gT"
+                           ref="#imposte">imposte</term> avec des statues
+                        d’image de saints de rondes bosses et des bas reliefs en
+                        bordure ovale au dessus de l’<term type="gT"
+                           ref="#imposte">imposte</term><ref
+                           type="noteHistorical" target="#c2Nh0457"/>.</p>
                      <p xml:id="c2BodyFr01.04.004.p011">Les deux côtés de la
                         demie lune sont décorés de <term type="gT"
                            ref="#pilastre">pilastres</term> et d’<term type="gT"
@@ -11639,9 +11706,10 @@
                         elle suit le pourtour de la saillie de l’avant corps du
                            <term type="gT" ref="#portique">portique</term>, et
                         se termine dans la <term type="gT"
-                           ref="#cornicheRampante">corniche
-                                 <choice><orig>rempante</orig><reg>rampante</reg></choice></term>
-                        du fronton.</p>
+                           ref="#cornicheRampante">corniche <choice>
+                              <orig>rempante</orig>
+                              <reg>rampante</reg>
+                           </choice></term> du fronton.</p>
                      <p xml:id="c2BodyFr01.04.004.p013">
                         <hi rend="bigger">Sur</hi> la pointe du fronton et sur
                         les <term type="gT" ref="#pilastre">pilastres</term> ou
@@ -11764,10 +11832,12 @@
                            ref="#cornicheDEntablement">corniche
                            d’entablement</term> extérieure des chapelles
                         latérales des <term type="gT" ref="#basCotes">bas
-                           côtés</term> de l’<term type="gT" ref="#eglise"
-                                 ><choice><orig>églize</orig><expan>église</expan></choice></term>,
-                        ainsy qu’il a été expliqué cy dessus <ref type="figure"
-                           >à la permière figure</ref>.</p>
+                           côtés</term> de l’<term type="gT" ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <expan>église</expan>
+                           </choice></term>, ainsy qu’il a été expliqué cy
+                        dessus <ref type="figure">à la permière
+                        figure</ref>.</p>
                      <p xml:id="c2BodyFr01.04.004.p019">
                         <hi rend="bigger">Au</hi> dessus de l’<term type="gT"
                            ref="#entablement">entablement</term> du <term
@@ -11795,9 +11865,10 @@
                   <head rend="alignCenter"><num>Chapitre 5<hi rend="superscript"
                            >e</hi></num>
                      <lb/>Description des <term type="gT"
-                        ref="#egliseConventuelle"
-                              ><choice><orig>églizes</orig><reg>églises</reg></choice>
-                        conventuelles</term><ref type="noteHistorical"
+                        ref="#egliseConventuelle"><choice>
+                           <orig>églizes</orig>
+                           <reg>églises</reg>
+                        </choice> conventuelles</term><ref type="noteHistorical"
                         target="#c2Nh0461"/></head>
                   <div xml:id="c2BodyFr01.05.001" type="section" n="1">
                      <p xml:id="c2BodyFr01.05.001.p001">
@@ -11843,11 +11914,12 @@
                      <p xml:id="c2BodyFr01.05.001.p004">
                         <ref><hi rend="bigger">Le</hi> premier dessein de ce
                            chapitre</ref> est le plan d’une <term type="gT"
-                           ref="#egliseConventuelle"
-                                 ><choice><orig>églize</orig><reg>église</reg></choice>
-                           conventuelle</term> dont la partie extérieure qui est
-                        à proprement parler l’<term type="gT" ref="#eglise"
-                           >église</term><ref type="noteHistorical"
+                           ref="#egliseConventuelle"><choice>
+                              <orig>églize</orig>
+                              <reg>église</reg>
+                           </choice> conventuelle</term> dont la partie
+                        extérieure qui est à proprement parler l’<term type="gT"
+                           ref="#eglise">église</term><ref type="noteHistorical"
                            target="#c2Nh0463"/>, est contenue dans un carré
                         parfait A.B.C.D. distribué en une grande <term type="gT"
                            ref="#nef">nef</term> octogonale E et en quatre
@@ -11993,12 +12065,14 @@
                         angulaires on entre à quatre <term type="gT"
                            ref="#escalier">escaliers</term> placés au derrière
                         des autels dans le masif des angles du carré de l’<term
-                           type="gT" ref="#eglise"
-                                 ><choice><orig>églize</orig><reg>église</reg></choice></term>.
-                        Ces <term type="gT" ref="#escalier">escaliers</term>
-                        servent à monter aux tribunes, aux combles sur les <term
-                           type="gT" ref="#voute">voûtes</term> et aux <term
-                           type="gT" ref="#dome">dôme</term>.</p>
+                           type="gT" ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <reg>église</reg>
+                           </choice></term>. Ces <term type="gT" ref="#escalier"
+                           >escaliers</term> servent à monter aux tribunes, aux
+                        combles sur les <term type="gT" ref="#voute"
+                           >voûtes</term> et aux <term type="gT" ref="#dome"
+                           >dôme</term>.</p>
                      <p xml:id="c2BodyFr01.05.001.p012">
                         <hi rend="bigger">De</hi> la grille du <term type="gT"
                            ref="#chœur">chœur</term><ref type="noteHistorical"
@@ -12384,14 +12458,16 @@
                            >église</term>, et les huit vitreaux du <term
                            type="gT" ref="#dome">dôme</term><ref
                            type="noteHistorical" target="#c2Nh0472"/>. Le dedans
-                        de l’<term type="gT" ref="#eglise"
-                                 ><choice><orig>églize</orig><reg>église</reg></choice></term>
-                        est éclairé par quinze autres grands vitreaux dans les
-                           <term type="gT" ref="#voute">voûtes</term> au dessus
-                        de la <term type="gT" ref="#corniche">corniche</term> du
-                        soubassement, sçavoir quatre dans les petits pans de la
-                           <term type="gT" ref="#nef">nef</term>, deux aux deux
-                        côtés de chacque <term type="gT" ref="#croisillon"
+                        de l’<term type="gT" ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <reg>église</reg>
+                           </choice></term> est éclairé par quinze autres grands
+                        vitreaux dans les <term type="gT" ref="#voute"
+                           >voûtes</term> au dessus de la <term type="gT"
+                           ref="#corniche">corniche</term> du soubassement,
+                        sçavoir quatre dans les petits pans de la <term
+                           type="gT" ref="#nef">nef</term>, deux aux deux côtés
+                        de chacque <term type="gT" ref="#croisillon"
                            >croisillon</term> aplomb et de même largeur que les
                            <term type="gT" ref="#arcade">arcades</term> des
                         chapelles angulaires et un au milieu de chacque face des
@@ -12947,11 +13023,12 @@
                            premier dessein sur le plan</ref>. Les murs ensuite
                         qui forment de chacque côtés un second arrière corps
                         jusqu’aux angles de la face du grand carrée extérieur de
-                           l’<term type="gT" ref="#eglise"
-                                 ><choice><orig>églize</orig><reg>église</reg></choice></term>
-                        sont tous lisses, au bas desquels le <term type="gT"
-                           ref="#socle">socle</term> des <term type="gT"
-                           ref="#colonne"><choice>
+                           l’<term type="gT" ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <reg>église</reg>
+                           </choice></term> sont tous lisses, au bas desquels le
+                           <term type="gT" ref="#socle">socle</term> des <term
+                           type="gT" ref="#colonne"><choice>
                               <orig>colomnes</orig>
                               <reg>colonnes</reg>
                            </choice></term> et <term type="gT" ref="#pilastre"
@@ -12960,16 +13037,18 @@
                         hauteur des marches du grand perron du <term type="gT"
                            ref="#portique">portique</term>. Le haut des premiers
                         avant corps et des murs de faces de l’<term type="gT"
-                           ref="#eglise"
-                                 ><choice><orig>églize</orig><reg>église</reg></choice></term>
-                        aux côtés sont couronnés par l’<term type="gT"
-                           ref="#entablement">entablement</term> de l’<term
-                           type="gT" ref="#ordreIonique">ordre ionique</term> du
-                           <term type="gT" ref="#portique">portique</term>, et
-                        terminée par une <term type="gT" ref="#balustrade"
-                           >balustrade</term> qui tourne au dehors des <term
-                           type="gT" ref="#terrasse">terrasses</term> qui
-                        couvrent les chapelles angulaires.</p>
+                           ref="#eglise"><choice>
+                              <orig>églize</orig>
+                              <reg>église</reg>
+                           </choice></term> aux côtés sont couronnés par l’<term
+                           type="gT" ref="#entablement">entablement</term> de
+                           l’<term type="gT" ref="#ordreIonique">ordre
+                           ionique</term> du <term type="gT" ref="#portique"
+                           >portique</term>, et terminée par une <term type="gT"
+                           ref="#balustrade">balustrade</term> qui tourne au
+                        dehors des <term type="gT" ref="#terrasse"
+                           >terrasses</term> qui couvrent les chapelles
+                        angulaires.</p>
                      <p xml:id="c2BodyFr01.05.004.p002">
                         <hi rend="bigger">Une</hi>
                         <term type="gT" ref="#imposte">imposte</term> a la
@@ -13117,14 +13196,15 @@
                            <term type="gT" ref="#pilastreAttique"
                            >pilastre</term>
                         <term type="gT" ref="#ordreAttique">attique</term> avec
-                        sa <term type="gT" ref="#base"
-                                 ><choice><orig>baze</orig><reg>base</reg></choice></term>,
-                        neuf modules. La hauteur de la couverture entre le
-                        dessus de l’<term type="gT" ref="#entablement"
-                           >entablement</term> de l’<term type="gT"
-                           ref="#etageAttique">attique</term> et le dessous du
-                           <term type="gT" ref="#socle">socle</term> du <term
-                           type="gT" ref="#dome">dôme</term> est de neuf
+                        sa <term type="gT" ref="#base"><choice>
+                              <orig>baze</orig>
+                              <reg>base</reg>
+                           </choice></term>, neuf modules. La hauteur de la
+                        couverture entre le dessus de l’<term type="gT"
+                           ref="#entablement">entablement</term> de l’<term
+                           type="gT" ref="#etageAttique">attique</term> et le
+                        dessous du <term type="gT" ref="#socle">socle</term> du
+                           <term type="gT" ref="#dome">dôme</term> est de neuf
                         modules. Cette hauteur se divise en trois, la portion
                         convexe du haut en a deux qui font six modules et la
                         partie du bas se redivise en cinq. Le <term type="gT"
@@ -13655,10 +13735,12 @@
                            type="noteHistorical" target="#c2Nh0511"/>.</p>
                      <p xml:id="c2BodyFr02.01.001.p022">
                         <hi rend="bigger">Pour</hi> ce qui concerne les
-                        proportions de tout cet <term type="gT" ref="#edifice"
-                                 ><choice><orig>édiffice</orig><reg>édifice</reg></choice></term><ref
-                           type="noteHistorical" target="#c2Nh0512"/>, les <pb
-                           xml:id="c2F129r" n="p254"/>
+                        proportions de tout cet <term type="gT" ref="#edifice"><choice>
+                              <orig>édiffice</orig>
+                              <reg>édifice</reg>
+                           </choice></term><ref type="noteHistorical"
+                           target="#c2Nh0512"/>, les <pb xml:id="c2F129r"
+                           n="p254"/>
                         <ref type="plate" target="#c2Pl0037"/>
                         <pb xml:id="c2F129v" n="p257"/>
                         <pb xml:id="c2F130r" n="p256"/> salles des malades
@@ -14040,14 +14122,16 @@
                            <term type="gT" ref="#pilastre">pilastres</term> et
                         deux demy <term type="gT" ref="#pilastre"
                            >pilastres</term> qui portent un petit <term
-                           type="gT" ref="#entablementMutilé">entablement
-                                 <choice><orig>mutillé</orig><reg>mutilé</reg></choice></term>
-                        qui sert de <term type="gT" ref="#cordon">cordon</term>
-                        ou <term type="gT" ref="#ceinture">ceinture</term> sous
-                        les <term type="gT" ref="#balcon">balcons</term> des
-                        huit <term type="gT" ref="#tribune">tribunes</term> du
-                           <term type="gT" ref="#premierEtage">premier
-                           étage</term>.</p>
+                           type="gT" ref="#entablementMutilé">entablement <choice>
+                              <orig>mutillé</orig>
+                              <reg>mutilé</reg>
+                           </choice></term> qui sert de <term type="gT"
+                           ref="#cordon">cordon</term> ou <term type="gT"
+                           ref="#ceinture">ceinture</term> sous les <term
+                           type="gT" ref="#balcon">balcons</term> des huit <term
+                           type="gT" ref="#tribune">tribunes</term> du <term
+                           type="gT" ref="#premierEtage">premier
+                        étage</term>.</p>
                      <p xml:id="c2BodyFr02.01.003.p007">
                         <hi rend="bigger">De</hi> la <term type="gT" ref="#nef"
                            >nef</term> l’on entre par un passage biais dans la

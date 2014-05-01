@@ -235,7 +235,10 @@
                            </dimensions>
                            <!-- indiquer les dimensions -->
                         </extent>
-                        <foliation><p>folioté à l’encre en haut, au centre des pages, pagination inscrite au crayon</p></foliation>
+                        <foliation>
+                           <p>folioté à l’encre en haut, au centre des pages, pagination inscrite au
+                              crayon</p>
+                        </foliation>
                      </supportDesc>
                      <layoutDesc>
                         <layout columns="1"/>
