@@ -6139,13 +6139,9 @@
                             </hi>
                         </p>
                     </div>
-                    <div>
-                        <head> Chapitre III.<lb/> De la menuiserie.</head>
-                        <p>
-                            <hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2013-05-01T00:26:00Z"/>Centré.</note>
-                            </hi>1°. Il y a deux sortes de toisé pour la menuiserie, l’un à toise
+                    <div type="chapter">
+                        <head rend="alignCenter">Chapitre III. <lb/>De la menuiserie</head>
+                        <p>1°. Il y a deux sortes de toisé pour la menuiserie, l’un à toise
                             superficielle, et l’autre à toise courante. Dans l’une et l’autre
                             manière de toiser, la menuiserie doit être en place, les menuisiers
                             fournissent le clou pour l’attacher, mais ils ne fournissent pas les
