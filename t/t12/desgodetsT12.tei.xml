@@ -399,7 +399,7 @@
             <div xml:lang="fre">
                 <!-- Inclusion du fichier des figures -->
                 <xi:include href="divs/desgodetsT12Figures.tei.xml" parse="xml">
-                    <xi:fallback>Fichier des figures de O6 non trouvé</xi:fallback>
+                    <xi:fallback>Fichier des figures de T12 non trouvé</xi:fallback>
                 </xi:include>
             </div>
         </back>
