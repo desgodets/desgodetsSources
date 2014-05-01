@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="../../schema/desgodetsSchemaTEI.rnc" 
+<?xml-model href="../../schema/desgodetsSchemaTEI.rnc" 
             type="application/relax-ng-compact-syntax" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?> -->
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!-- 
    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
    Fichier du manuscrit S1 des Servitudes de Desgodets 
@@ -13792,7 +13792,7 @@
                      grâce du retrait dure plus longuement, doivent estre payées les utiles et
                      nécessaires réparations.</p>
                   <p>[en marge : Bordeaux et Païs de Guyenne] <hi rend="bigger">Bordeaux</hi>, et Païs
-                     [mot mis en exergue] de <hi rend="bigger" rend="bigger">Guyenne</hi>, chap. 2, art. 36 ; Item
+                     [mot mis en exergue] de <hi rend="bigger">Guyenne</hi>, chap. 2, art. 36 ; Item
                      en Retrait soit conventionnel ou coutumier dont la grâce n’y seroit qu’à un an,
                      celuy qui a fait led. Retrait est tenu payer les réparations nécessaires
                      seulement, si aucunes y ont êtez faites, et n’est tenu de payer les utiles
