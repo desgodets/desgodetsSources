@@ -8,6 +8,9 @@
    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
 --> 
 <!-- TODO : supprimer les exemples d’encodage mis en commentaire -->
+<!-- TODO : relire tous les passages balisés avec unclear (XPath : "//unclear") -->
+<!-- TODO : encoder les passages en langue avec foreign et un attribut de langue (" <foreign xml:lang="lat">...</foreign> " pour le latin) -->
+<!-- TODO : encoder les rubriques et les notes -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
    <teiHeader>
       <fileDesc>
