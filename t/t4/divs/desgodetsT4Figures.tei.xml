@@ -49,9 +49,9 @@
 
 <div xmlns="http://www.tei-c.org/ns/1.0" type="figures" xml:id="t4BackFr01">
    <figure xml:id="t4Fig0001" type="figure" facs="#t4Facs">
-      <head/>
+      <head>Exemple</head>
       <figDesc>
-         <locus from="#t4"/>
+         <locus from="#t437" to="#t437">p. 37</locus>
          <label>
             <num n="1">1</num>
          </label>
@@ -64,7 +64,7 @@
    <figure xml:id="t4Fig0002" type="figure" facs="#t4Facs">
       <head/>
       <figDesc>
-         <locus from="#t4"/>
+         <locus from="#t439" to="#t439">p. 39</locus>
          <label>
             <num n="2">2</num>
          </label>
@@ -75,9 +75,9 @@
       <note/>
    </figure>
    <figure xml:id="t4Fig0003" type="figure" facs="#t4Facs">
-      <head/>
+      <head>Exemple</head>
       <figDesc>
-         <locus from="#t4"/>
+         <locus from="#t4p43" to="#t43p43"/>
          <label>
             <num n="3">3</num>
          </label>

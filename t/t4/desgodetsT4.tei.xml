@@ -549,12 +549,7 @@
                     <div type="chapter">
                         <head rend="alignCenter">Chapitre II. De la maçonnerie <lb/>à toise
                             superficielle.</head>
-                        <p>
-                            <hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>titre à peu près
-                                    centré</note>
-                            </hi>1°. L’usage le plus commun aux édifices particuliers est de toiser
+                        <p>1°. L’usage le plus commun aux édifices particuliers est de toiser
                             generallement tous les ouvrages de maçonnerie, tant en fondation qu’en
                             élévation à toise superficielle de 6 pieds de long sur 6 pieds de large,
                             qui produisent 36 pieds quarrés et chaque quarré 144 pouces quarrés.
@@ -611,7 +606,7 @@
                             à l’autre et les deux autres murs par le dedans d’une angle à l’autre et
                             ces deux différentes manières de mesurer donnent le pourtour du
                             pavillon.</p>
-                        <p> (p. 9)</p>
+                        <p>[p. 9]</p>
                         <p>8.<note>le numéro 7 est absent</note> Pour avoir précisément le pourtour
                             des murs des édifices en poligone et des murs circulaires ou ovales, il
                             les faut mesurer par le dehors et par le dedans, additionner ces deux
@@ -744,31 +739,21 @@
                             cube</head>
                         <p>1° La toise cube contient six pieds de long sur six pieds de large et six
                             pieds de haut, le tout mesuré quarrément, ce qui produit 216. pieds
-                            cubes pour une toise, et chaque pied contient 1728 pouces cubes.<hi
-                                rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>ajout en fin de texte, au
-                                    crayon et entre parenthèses « 26», et répété en marge sans
-                                    parenthèse.</note>
-                            </hi>
+                            cubes pour une toise, et chaque pied contient 1728 pouces cubes. <add
+                                hand="#t4Hand2">(26)</add>
                         </p>
                         <p> 2. Les grands édifices publics, comme sont les églises, les ponts, les
                             murs de quay, les murs de terrasse, les fortifications et autres
                             ouvrages où il y a de gros massifs de maçonnerie, se toisent pour
                             l’ordinaire en cube, dont les devis expliquent la manière de les toiser
                             et réduire, laquelle est de différente sorte.</p>
-                        <p> 3. Il est quelques fois marqué dans le devis que tout<hi
-                                rend="strikethrough">es</hi>
-                            <hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>mot corrigé : rayé « es »
-                                </note>
-                            </hi>
-                            <hi rend="strikethrough"> </hi>les ouvrages de l’édifice de quelque
-                            nature qu’ils soient avec les saillies d’architecture, seront réduits au
-                            cube, compris leurs paremens qui ne seront point comptez alors …… On
-                            mesure en détail toutes les différentes longueurs, hauteurs, profondeurs
-                            et épaisseurs des murs, pilliers, massifs, voûtes, reins, </p>
+                        <p> 3. Il est quelques fois marqué dans le devis que tout<del
+                                hand="#t4Hand1" rend="strikethrough">es</del> les ouvrages de
+                            l’édifice de quelque nature qu’ils soient avec les saillies
+                            d’architecture, seront réduits au cube, compris leurs paremens qui ne
+                            seront point comptez alors …… On mesure en détail toutes les différentes
+                            longueurs, hauteurs, profondeurs et épaisseurs des murs, pilliers,
+                            massifs, voûtes, reins, </p>
                         <p> [p. 16]</p>
                         <p> arbouttans, et autres ouvrages jusqu’aux saillies, hauteurs et grosseurs
                             des membres d’architecture et les bossages des ornemens, et l’on déduit
@@ -802,11 +787,7 @@
                             saillies d’architecture toisées aux us et coutumes de Paris, le tout
                             suivant les differens prix convenus au devis et marché pour façon
                             seulement, les matières qui les forment étant comptées dans le cube du
-                            solide des ouvrages.<hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>ajout au crayon et entre
-                                    parenthèses « 27»</note>
-                            </hi>
+                            solide des ouvrages. <add hand="#t4Hand2">(27)</add>
                         </p>
                         <p> 6. Aux édifices particuliers on toise quelques fois en cube les murs des
                             caves en fondation au dessous du rez de chaussée la meilleure manière
@@ -828,138 +809,84 @@
                             cube de <hi rend="underline">12 </hi>est <hi rend="underline">1728</hi>
                             pouces. De sorte que le pied cube contient en soi <hi rend="underline"
                                 >1728</hi> pouces en tout sens. Or pour sçavoir combien un corps
-                            solide contient de<hi rend="strikethrough"> pieds</hi> toises <hi
-                                rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>le mot pied rayé remplacé par
-                                    toise au-dessus</note>
-                            </hi>cubes, <hi rend="strikethrough">je reduis ce solide en pouces</hi>
-                            <hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>phrase rayée</note>
-                            </hi>. 1° je multiplie sa longueur, qui est la première dimension, par
-                            la largeur, seconde dimension. 2° je multiplie ce premier produit par sa
-                            profondeur, qui est la troisième dimension ; ce dernier produit donne
-                            des pieds cubes. Or comme la toise cube contient 216. pieds cubes je
-                            divise ce dernier produit de la multiplication de la troisième dimension
-                            par 216 pour avoir au quotient le nombre de toises cubes que contient le
-                            solide proposé.<hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>environ sept lignes ½ rayées
-                                    (quelques mots lisibles) et remplacées par ce texte</note>
-                            </hi>
+                            solide contient de <subst hand="#t4Hand1">
+                                <del rend="strikethrough">pieds</del>
+                                <add place="above">toises</add>
+                            </subst> cubes. <del hand="#t4Hand1" rend="strikethrough">Je reduis ce
+                                solide en pouces.</del> 1° Je multiplie sa longueur, qui est la
+                            première dimension, par la largeur, seconde dimension. 2° je multiplie
+                            ce premier produit par sa profondeur, qui est la troisième dimension ;
+                                <subst hand="#t4Hand1">
+                                <del rend="strikethrough"><gap reason="illegible" extent="7"
+                                        unit="lines"/></del>
+                                <add place="above">ce dernier produit donne des pieds cubes. Or
+                                    comme la toise cube contient 216. pieds cubes je divise ce
+                                    dernier produit de la multiplication de la troisième dimension
+                                    par 216 pour avoir au quotient le nombre de toises cubes que
+                                    contient le solide proposé</add>
+                            </subst>.</p>
+                        <head rend="alignCenter">Exemple</head>
+                        <p>15 pieds 6 <subst hand="#t4Hand1">
+                                <del>pouces</del>
+                                <add>pieds</add>
+                            </subst> 8 <subst hand="#t4Hand1">
+                                <del>pouces</del>
+                                <add>pieds</add>
+                            </subst></p>
+                        <p>90. produit de 6 <subst hand="#t4Hand1">
+                                <del>pouces</del>
+                                <add>pieds</add>
+                            </subst></p>
+                        <p>720 produit de 8 <subst hand="#t4Hand1">
+                                <del>pouces</del>
+                                <add>pieds</add>
+                            </subst></p>
+                        <p>
+                            <del hand="#t4Hand1" rend="strikethrough">
+                                <gap extent="1" unit="lines" reason="illegible"/>
+                            </del>
                         </p>
-                        <p>Exemple.<hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>mot centré</note>
-                            </hi>
-                        </p>
-                        <p>15 pieds 6 pieds 8 pieds<hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>le mot « pouces « corrigé par
-                                    « pieds » </note>
-                            </hi>
-                            <hi rend="bold">.</hi>
-                        </p>
-                        <p>90. produit de 6 <hi rend="strikethrough">pouces</hi> pieds<hi
-                                rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>« pouces » rayé et « pieds
-                                    mis à la suite (idem pour à la ligne suivante).</note>
-                            </hi>
-                        </p>
-                        <p>720 produit de 8 <hi rend="strikethrough">pouces</hi> pieds</p>
-                        <p>( …)<hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>Phrase rayée</note>
-                            </hi>
-                        </p>
-                        <p>produit <hi rend="underline">810.</hi> divisé par </p>
-                        <p> 0000 <hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>Accolade </note>
-                            </hi>
-                            <hi rend="underline">216</hi>
-                            <hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>accolade</note>
-                            </hi> 3. toises<hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>« pieds » corrigé par
-                                    « toises »</note>
-                            </hi> cubes. 162/ 216</p>
+                        <p>produit <hi rend="underline">810</hi> divisé par</p>
+                        <p>[accolade]<!-- TODO accolade --><hi rend="underline">216</hi>
+                            [accolade]<!-- TODO accolade  --> 3. <subst hand="#t4Hand1">
+                                <del>pieds</del>
+                                <add>toises</add>
+                            </subst> cubes. 162/216</p>
                         <p>[p. 19]</p>
-                        <p>
-                            <hi rend="strikethrough">Pour abréger cette longue opération, j’ai
-                                remarqué qu’en ne multipliant la longueur du solide que par ses deux
-                                autres dimensions l’une après l’autre, et ne divisant le produit que
-                                par </hi>
-                            <hi rend="strikethrough underline">144</hi>
-                            <hi rend="strikethrough">. quarré de </hi>
-                            <hi rend="strikethrough underline">12</hi>
-                            <hi rend="strikethrough">. on trouve au quotient le même produit
-                                qu’auparavant. Exemple.</hi>
-                        </p>
-                        <p>
-                            <hi rend="strikethrough underline">15</hi>
-                            <hi rend="strikethrough">. pieds. </hi>
-                            <hi rend="strikethrough underline">6</hi>
-                            <hi rend="strikethrough"> pouces. </hi>
-                            <hi rend="strikethrough underline">8 </hi>
-                            <hi rend="strikethrough">pouces</hi>
-                        </p>
-                        <p>
-                            <hi rend="strikethrough underline">90</hi>
-                            <hi rend="strikethrough">. produit de </hi>
-                            <hi rend="strikethrough underline">6</hi>
-                            <hi rend="strikethrough"> pouces</hi>
-                        </p>
-                        <p>
-                            <hi rend="strikethrough underline">720</hi>
-                            <hi rend="strikethrough">. produit de </hi>
-                            <hi rend="strikethrough underline">8.</hi>
-                            <hi rend="strikethrough"> pouces. divisé par </hi>
-                            <hi rend="strikethrough underline">144</hi>
-                        </p>
-                        <p>
-                            <hi rend="strikethrough">000 5. Pieds cubes.</hi>
-                        </p>
-                        <p>
-                            <hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>paragraphe supprimé , non
-                                    rayé mais une croix dessus.</note>
-                            </hi>
-                        </p>
+                        <delSpan hand="#t4Hand1" rend="strikethrough">
+                            <p>Pour abréger cette longue opération, j’ai remarqué qu’en ne
+                                multipliant la longueur du solide que par ses deux autres dimensions
+                                l’une après l’autre, et ne divisant le produit que par <hi
+                                    rend="underline">144</hi>. quarré de <hi rend="underline"
+                                    >12</hi>. on trouve au quotient le même produit
+                                qu’auparavant.</p>
+                            <head>Exemple</head>
+                            <p><hi rend="underline">15</hi>. pieds. <hi rend="underline">6</hi>
+                                pouces. <hi rend="underline">8</hi> pouces</p>
+                            <p><hi rend="underline">90</hi>. produit de <hi rend="underline">6</hi>
+                                pouces</p>
+                            <p><hi rend="underline">720</hi>. produit de <hi rend="underline"
+                                    >8.</hi> pouces. divisé par <hi rend="underline">144</hi></p>
+                            <p>000 [accolade]<!-- TODO accolade --> 5. Pieds cubes.</p>
+                        </delSpan>
                         <p>8. Dans toutes les différentes manières de réduire les ouvrages de
                             maçonnerie en cube, la fouille et excavation des terres pour
                             l’emplacement des ouvrages qui sont en fondation, doivent être comprises
-                            dans le prix de l’ouvrage.<hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>ajout au crayon et entre
-                                    parenthèses « 28»</note>
-                            </hi>
+                            dans le prix de l’ouvrage. <add hand="#t4Hand2">(28)</add>
                         </p>
                         <p>9. Lorsque c’est à l’entrepreneur de la maçonnerie de faire faire les
                             fouilles et excavations des terres, on ne lui doit toiser de la fouille
                             que ce qui est vuide dans les caves et autres lieux souterrains, et on
                             ne leur passe point en compte pour la fouille rien de ce qui est occupé
                             par la maçonnerie des murs, des massifs, des voutes, des reins, des arcs
-                            et autres ouvrages comptez en maçonnerie.<hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>ajout au crayon et entre
-                                    parenthèses « 29 »</note>
-                            </hi>
+                            et autres ouvrages comptez en maçonnerie. <add hand="#t4Hand2"
+                                >(29)</add>
                         </p>
-                        <p> [p. 20]<hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>page blanche</note>
-                            </hi>
-                        </p>
+                        <p> [p. 20] <space extent="1" unit="pages"/></p>
                         <p> [p. 21]</p>
                     </div>
                     <div type="chapter">
-                        <head rend="alignCenter"> Chapitre IV. Du toisé des <lb/>bayes</head>
+                        <head rend="alignCenter">Chapitre IV. Du toisé des <lb/>bayes</head>
                         <p>1° Lorsqu’il y a des bayes de portes ou de fenêtres dans les murs, qui se
                             réduisent à toise superficielle, tant en fondation dans les caves, qu’en
                             élévation, si la largeur de ces bayes n’excède point l’épaisseur des
@@ -999,14 +926,8 @@
                         <p> 4. Dans le cas précédent si l’arc des planchers passoit au lieu de
                             feuilles aux bayes des portes et que le dessus des appuis des fenêtres
                             fut seulement enduit de plâtre , </p>
-                        <p>l’on<hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>mot rappelant le premier mot
-                                    de la page suivante.</note>
-                            </hi>
-                        </p>
-                        <p>
-                            <hi rend="bold"> </hi>[p. 23] </p>
+                        <trailer>l’on</trailer>
+                        <p>[p. 23] </p>
                         <p> l’on deduiroit toujours de même le vuide des bayes, mais l’on compteroit
                             les arcs et enduits suivant leur qualité, parce que les arcs et enduits
                             ne seroient pas suffisants pour faire compter les bayes pleines ; c’est
@@ -1062,19 +983,15 @@
                             pierre de taille ; l’on compte, on l’on rabbat le vuide des bayes, comme
                             aux murs neufs, et l’on estime ces murs en percement, suivant un prix
                             proportionné à la depence.</p>
-                        <p>11. Les lucarnes de pierre de taille ou de maçonnerie <hi
-                                rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>Mot rayé, apparement
-                                    « se ».</note>
-                            </hi>se toisent sur leurs largeurs de dehors en dehors en y ajoutant un
-                            retour de leurs épaisseurs pour deux demies faces des bouts sur toute la
-                            hauteur, depuis le dessus des murs qui les portent, jusqu’au haut de la
-                            pointe de leurs frontons, et l’on compte ou l’on rabbat le vuide des
-                            bayes suivant les différents cas expliquez dans l’article des bayes des
-                            portes et fenêtres ; les saillies d’architecture qui sont aux lucarnes
-                            se toisent à part à moins qu’il ne soit autrement expliqué par un
-                            marché.</p>
+                        <p>11. Les lucarnes de pierre de taille ou de maçonnerie <del
+                                hand="#t4Hand1" rend="strikethrough">se</del> se toisent sur leurs
+                            largeurs de dehors en dehors en y ajoutant un retour de leurs épaisseurs
+                            pour deux demies faces des bouts sur toute la hauteur, depuis le dessus
+                            des murs qui les portent, jusqu’au haut de la pointe de leurs frontons,
+                            et l’on compte ou l’on rabbat le vuide des bayes suivant les différents
+                            cas expliquez dans l’article des bayes des portes et fenêtres ; les
+                            saillies d’architecture qui sont aux lucarnes se toisent à part à moins
+                            qu’il ne soit autrement expliqué par un marché.</p>
                         <p>12. Aux murs en fondation, ou en élévation, lorsqu’il y a des soupiraux,
                             l’on compte le mur plein sans rien augmenter pour les paremens du dedans
                             des soupiraux à la réserve des assises de pierre de taille qui font
@@ -1114,11 +1031,7 @@
                             par le millieu de l’épaisseur du mur.</p>
                         <p> 5. Pour avoir le pourtour du mur d’un puid ou d’une tour ronde, si elle
                             est circulaire, l’on prend son diamettre dans œuvre, auquel l’on ajoute
-                            une épaisseur de mur<hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>Tâche sur ces mots, sans
-                                    gêner la lecture.</note>
-                            </hi>,</p>
+                            une épaisseur de mur,</p>
                         <p> [p. 28]</p>
                         <p> et on le multiplie par 3 et <hi rend="superscript">1</hi>/<hi
                                 rend="subscript">7.</hi> mais si le puid est ovalle, on ajoûte le
@@ -1211,32 +1124,22 @@
                             diamettre de niveau, y ajoûter la 7<hi rend="superscript">e</hi> partie
                             de la hauteur du demi diamettre à plomb, ce qui fait ensemble la
                             circonférence ou pourtour de la voûte.</p>
-                        <p> Exemple.<hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>centré</note>
-                            </hi>
-                        </p>
+                        <head rend="alignCenter"> Exemple</head>
                         <p> Le diamettre de niveau étant 14 pieds, la hauteur, ou demi diamettre à
                             plomb étant 7 pieds, la 7<hi rend="superscript">e</hi> partie du demi
                             diamettre étant 1 pied, font ensemble 22 pieds pour la circonférence, ou
                             pourtour de la voûte en plein ceintre.</p>
-                        <p> 6. Si le ceintre de la voûte étoit ovale, surmonté<hi rend="bold">,
-                            </hi> et<hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>mot apparemment rayé</note>
-                            </hi> ou surbaissé ; pour en avoir géométriquement la circonférence ou
-                            pourtour, il faut prendre la moitié de la longueur</p>
+                        <p> 6. Si le ceintre de la voûte étoit ovale, surmonté, <subst
+                                hand="#t4Hand1"><del>et</del><add>ou</add></subst> surbaissé ; pour
+                            en avoir géométriquement la circonférence ou pourtour, il faut prendre
+                            la moitié de la longueur</p>
                         <p> [p. 33]</p>
                         <p> du diamettre de niveau d’une naissance à l’autre opposée, et la moitié
                             du demi diamettre d’aplomb, trouver un demi diamettre proportionnel
                             entre le demi diamettre de niveau et celui d’aplomb, multiplier ce demi
                             diamettre proportionnel par 3 et ¼ le produit sera la circonférence, ou
                             pourtour du ceintre ovale.</p>
-                        <p>Exemple d’une voûte surmontée.<hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>À peu près centré.</note>
-                            </hi>
-                        </p>
+                        <head rend="alignCenter">Exemple d’une voûte surmontée</head>
                         <p>Le diamettre de niveau étant 14 pieds ; et la hauteur ou montée de la
                             voûte étant 9 pieds, le demi diamettre moïene proportionnelle entre 7
                             pieds et le demi diamettre de la largeur et la hauteur de 9 pieds, sera
@@ -1244,11 +1147,7 @@
                             partie est 1 pied, 1 pouce, 7 lignes ½ laquelle étant ajoutée à 3 fois
                             le demi diamettre proportionnel, font ensemble 24 pieds 11 pouces 4
                             lignes ½ pour le pourtour ou la circonférence de la voute.</p>
-                        <p>Exemple d’une voûte surbaissée.<hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>À peu près centré.</note>
-                            </hi>
-                        </p>
+                        <head rend="alignCenter">Exemple d’une voûte surbaissée</head>
                         <p>Sur 5 pieds de hauteur et 14 pieds de largeur, le demi diamettre moïenne
                             proportionnelle dans la hauteur de 5 pieds, et 7 pieds moitié de la
                             largeur, est de 5 pieds 11 pouces, dont la 7 partie est 10 pouces, 1
@@ -1266,77 +1165,51 @@
                             moitié de leurs somme sera le demi diamettre, moïenne arithmétique entre
                             les deux, y ajoutant la 7<hi rend="superscript">e</hi> partie de ce
                             diamettre moïen, le tout ensemble sera la circonférence de la voute.</p>
-                        <p> Exemple pour une voute surmontée.<hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>plus ou moins centré</note>
-                            </hi>
-                        </p>
+                        <head rend="alignCenter"> Exemple pour une voute surmontée</head>
                         <p> Le demi diamettre de la longueur étant 7 pieds, et la hauteur 9 pieds,
                             lesquels étant joints avec le demi diamettre, moïenne arithmétique, qui
                             est de 8 pieds dont la 7<hi rend="superscript">e</hi> partie est 1 pied,
-                            1 pouces, 8 lignes ½ pour la circonférence de la voûte, sçavoir 25 pieds
-                            1 pouce 8 lignes ½ <hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>pieds, pouces et lignes
-                                    abrégés</note>
-                            </hi>ce qui est 2 pouces, 4 lignes de plus que sa juste mesure
-                            géométrique, différence peu considérable en comparaison de la facilité
-                            de l’opération cy rapportée.</p>
-                        <p> Exemple<hi rend="annotation_reference">
-                                <note place="comment" resp="Joëlle_Barreau">
-                                    <date when="2012-12-11T08:51:00Z"/>mot abrégé / titre à peu près
-                                    centré</note>
-                            </hi> pour une voute surbaissée</p>
-                        <p>
-                            <hi rend="bold"> </hi>À 5 pieds de hauteur sur le même demi diamettre de
-                            7 pieds moitié de la largeur, le demi diamettre moïenne arithmétique
-                            sera de 6 pieds dont la 7<hi rend="superscript">e</hi> partie est 10
-                            pouces, 3 lignes ½ le tout faisant 18 pieds, 10 pouces 3 lignes ½ pour
-                            la circonférence de la voute, qui ne diffère de la géométrique que d’une
-                            ligne <hi rend="superscript">5</hi>/<hi rend="subscript">6.</hi>
-                        </p>
+                            1 pouces, 8 lignes ½ pour la circonférence de la voûte, sçavoir 25
+                                    <choice><abbr>pi.s</abbr><expan>pieds</expan></choice> 1
+                                    <choice><abbr>po</abbr><expan>pouce</expan></choice> 8
+                                    <choice><abbr>l.</abbr><expan>lignes</expan></choice> ½. Ce qui
+                            est 2 pouces, 4 lignes de plus que sa juste mesure géométrique,
+                            différence peu considérable en comparaison de la facilité de l’opération
+                            cy rapportée.</p>
+                        <head rend="alignCenter"
+                                ><choice><abbr>Exēmple</abbr><expan>Exemple</expan></choice> pour
+                            une voute surbaissée</head>
+                        <p>À 5 pieds de hauteur sur le même demi diamettre de 7 pieds moitié de la
+                            largeur, le demi diamettre moïenne arithmétique sera de 6 pieds dont la
+                                7<hi rend="superscript">e</hi> partie est 10 pouces, 3 lignes ½ le
+                            tout faisant 18 pieds, 10 pouces 3 lignes ½ pour la circonférence de la
+                            voute, qui ne diffère de la géométrique que d’une ligne 5/6. </p>
                         <p> [p. 35]</p>
-                        <p>§. I.</p>
                         <div>
-                            <head>Des voûtes en berceau.</head>
-                            <p>
-                                <hi rend="annotation_reference">
-                                    <note place="comment" resp="Joëlle_Barreau">
-                                        <date when="2012-12-11T08:51:00Z"/>centré</note>
-                                </hi>1° De toutes les espèces de voûtes, celles qui sont en berceau
-                                sont les plus faciles à toiser. Aïant trouvé le pourtour ou
-                                circonférence de leurs douelles intérieures par les règles
-                                expliquées cy dessus, il faut multiplier le pourtour par leurs
-                                longueurs entre les deux murs qui leur servent de pignon, le produit
-                                sera la quantité de toises superficielles que contient la voute.</p>
-                            <p> Exemple d’une voute en berceau en plein ceintre<hi
-                                    rend="annotation_reference">
-                                    <note place="comment" resp="Joëlle_Barreau">
-                                        <date when="2012-12-11T08:51:00Z"/>Centré</note>
-                                </hi>.</p>
+                            <head rend="alignCenter">§. I. <lb/>Des voûtes en berceau</head>
+                            <p>1° De toutes les espèces de voûtes, celles qui sont en berceau sont
+                                les plus faciles à toiser. Aïant trouvé le pourtour ou circonférence
+                                de leurs douelles intérieures par les règles expliquées cy dessus,
+                                il faut multiplier le pourtour par leurs longueurs entre les deux
+                                murs qui leur servent de pignon, le produit sera la quantité de
+                                toises superficielles que contient la voute.</p>
+                            <head rend="alignCenter">Exemple d’une voute en berceau en plein
+                                ceintre</head>
                             <p> De 7 pieds de hauteur sur un plan quarré de 14 pieds de diamettre,
                                 ou côté du quarré ; aïant multiplié la circonférence de 22 pieds par
                                 la longueur de 14 pieds, le produit qui est 308 pieds, sera la
                                 superficie de la voute.</p>
-                            <p> Autre exemple <hi rend="annotation_reference">
-                                    <note place="comment" resp="Joëlle_Barreau">
-                                        <date when="2012-12-11T08:51:00Z"/>Légèrement en retrait par
-                                        rapport à l’alignement du texte.</note>
-                                </hi>d’une voute en berceau dont le ceintre est ovale surmonté de 9
-                                pieds de hauteur sur la même quarré de 14 pieds de diamettre, la
+                            <head>Autre exemple</head>
+                            <p>d’une voute en berceau dont le ceintre est ovale surmonté de 9 pieds
+                                de hauteur sur la même quarré de 14 pieds de diamettre, la
                                 circonférence géométrique est de 24 pieds, 11 pouces, 4 lignes ½ la
                                 quelle étant multipliée par la longueur 14 pieds, le produit sera de
                                 349 pieds, 3 pouces, 3 lignes pour la superficie de la voûte
                                 surmontée.</p>
-                            <p> Autre exemple<hi rend="annotation_reference">
-                                    <note place="comment" resp="Joëlle_Barreau">
-                                        <date when="2012-12-11T08:51:00Z"/>Légèrement en retrait par
-                                        rapport à l’alignement du texte.</note>
-                                </hi>. Si la voûte en berceau étoit ovalle surbaissée de 5 pieds de
-                                hauteur sur le même plan quarré, la circonférence géométrique qui
-                                est de 8.</p>
-                            <p> [p. 36]</p>
-                            <p> pieds, 7 pouces, 1 ligne <hi rend="superscript">6</hi>/<hi
+                            <head>Autre exemple</head>
+                            <p>Si la voûte en berceau étoit ovalle surbaissée de 5 pieds de hauteur
+                                sur le même plan quarré, la circonférence géométrique qui est de 8
+                                [p. 36] pieds, 7 pouces, 1 ligne <hi rend="superscript">6</hi>/<hi
                                     rend="subscript">3</hi> étant multipliée par 14 pieds,
                                 produiroit 260 pieds, 3 pouces, 11 lignes <hi rend="superscript"
                                     >1</hi>/<hi rend="subscript">3</hi> pour la superficie de la
@@ -1345,11 +1218,7 @@
                                 dire plus long d’un sens que de l’autre à angle droit, il faut
                                 toujours multiplier le pourtour de la voute par le côté du
                                 rectangle.</p>
-                            <p> Exemple.<hi rend="annotation_reference">
-                                    <note place="comment" resp="Joëlle_Barreau">
-                                        <date when="2012-12-11T08:51:00Z"/>centré</note>
-                                </hi>
-                            </p>
+                            <head rend="alignCenter">Exemple</head>
                             <p> La longueur du rectangle étant 18 pieds, le petit côté 14 pieds
                                 servant de diamettre à la voûte laquelle étant en plein ceintre
                                 auroit 7 pieds de hauteur et 22 pieds de circonférence, qui
@@ -1377,21 +1246,14 @@
                                 la mesure de la circonférence, ou pourtour du ceintre de la voûte à
                                 angle droit sur les côtés d’une naissance à l’autre, et la
                                 multiplier par la longueur de l’un des cotés. </p>
-                            <p>Exemple. </p>
-                            <p>[début de figure 1]</p>
-                            <p>
-                                <hi rend="annotation_reference">
-                                    <note place="comment" resp="Joëlle_Barreau">
-                                        <date when="2012-12-11T08:51:00Z"/>« exemple » et « fig »
-                                        placés en vis-à-vis et à la droite de l’explication qui
-                                        suit.</note>
-                                </hi>Cette figure est le plan d’un parallélogramme obliangle a, b,
+                            <figure type="figure" copyOf="t4Fig0001"/>
+                            <p>Cette figure est le plan d’un parallélogramme obliangle a, b,
                                 c, d voutée en berceau ; chacun des côtés a, d. B, C aïant 18 pieds
                                 de long et les deux autres côtés a, b. c, d chacun de 15 pieds,
                                 servant de pignon à la voute, il faut mener le diamettre f, e à
                                 angle droit, c’est à dire, d’equaire aux côtés des naissances de la
                                 voute a, b, c, d lequel diamettre l’on suppose être de 14 pieds et
-                                la circonférence de la voûte [fin de figure 1][p. 38] </p>
+                                la circonférence de la voûte <!-- [fin de figure 1] --> [p. 38] </p>
                             <p>en plein ceintre sur ce diamettre contenant 22 pieds de pourtour
                                 lequel étant multiplié par 18 pieds longueur des côtés a, d. b, c
                                 produisant 396 pieds pour le toisé de la superficie de la voûte.</p>
@@ -1416,14 +1278,14 @@
                                 i, l en sont les pignons ; ayant divisé chacun des pignons en deux
                                 aux points p et q il faut </p>
                             <p> [p. 39]</p>
-                            <p> [début de figure 2]</p>
+                            <figure type="figure" copyOf="t4Fig0002"/>
                             <p> aussi diviser en deux au point O mener la ligne m, n d’equaire à la
                                 ligne P. Q la ligne m, n étant terminée par les deux côtés des
                                 naissances de la voûte, en sera le diamettre que l’on suppose être
                                 de 14 pieds, et la circonférence de la voûte en plein ceintre. Par
                                 ce diamettre multipliant 22 pieds circonférence de la voûte par la
                                 ligne P. Q qui est supposée être de 17 pieds ½ le produit 385 pieds
-                                sera le toisé de la superficie de la voûte. [fin de figure 2]</p>
+                                sera le toisé de la superficie de la voûte.<!--[fin de figure 2]--></p>
                             <p>7. Le remplissage des reins en maçonnerie des voûtes en berceau étant
                                 fait de niveau jusqu’au couronnement du dessus de leurs extradosses,
                                 ne se compte point aux voûtes qui n’ont que 6 pieds jusqu’à 6 pieds
@@ -1446,21 +1308,17 @@
                                 superficie et hauteur de ce quis (sic), en manque, que l’on réduit à
                                 l’épaisseur ordinaire des voutes et on le rabbat de la quantité que
                                 l’usage accorde pour le remplissage des reins des voutes.</p>
-                            <p>9. De quelque qualité <hi rend="annotation_reference">
-                                    <note place="comment" resp="Joëlle_Barreau">
-                                        <date when="2012-12-11T08:51:00Z"/>Mot corrigé </note>
-                                </hi>de matereaux que soient les voûtes, en pierre de taille, en
+                            <p>9. De quelque qualité de matereaux que soient les voûtes, en pierre de taille, en
                                 briques, ou en moilons piqués apparens, ou moilons bourus crépis par
                                 le dessous de leurs douelles, la maçonnerie de leurs reins ne se
                                 compte que sur le prix des moindres voutes, c’est à dire, de celles
                                 qui sont en moilons bourus, ourdées et crépies en plâtre ; ce qui
                                 est une règle generalle pour toutes les espèces de voutes.</p>
                             <p> [p. 41]</p>
-                            <p> §. 2.</p>
                         </div>
                     </div>
                     <div type="chapter">
-                        <head rend="alignCenter">[Chapitre 7] <lb/>Du toisé des voûtes
+                        <head rend="alignCenter">[Chapitre 7] <lb/>§. 2. <lb/>Du toisé des voûtes
                             d’arrête</head>
                         <p>1° Les voûtes d’arrête en plein ceintre sur un plan quarré se toisent
                             géométriquement en multipliant la moitié de la circonférence de leurs
@@ -1483,7 +1341,7 @@
                             reste 8 pieds, dont le double 16 pieds multiplié par le diamettre 14
                             pieds, produira 224 pieds pour la superficie de la voûte d’arrête.</p>
                         <div>
-                            <head>[Règles généralles et pratiquées pour le toisé de toutes sortes de
+                            <head rend="alignCenter">[Règles généralles et pratiquées pour le toisé de toutes sortes de
                                 voûtes d’arreste]</head>
                             <p> [p. 42]</p>
                             <p>3. Règles generalles et pratiques pour toiser toutes sortes de voûtes
@@ -1511,10 +1369,8 @@
                                 de 24 pieds, 11 pouces, 4 lignes ½ de laquelle aïant ôté le
                                 diamettre 14 pieds, il reste 10 pieds </p>
                             <p> [p. 43]</p>
-                            <p> 11 pouces, 4 lignes ½ dont le quart est 2 pieds, 8 pouces, 10 lignes
-                                    <hi rend="superscript">1</hi>/<hi rend="subscript">8</hi> étant
-                                adjouté au diamettre 14 pieds font 16 pieds, 8 pouces 10 lignes <hi
-                                    rend="superscript">1</hi>/<hi rend="subscript">8</hi> lesquels
+                            <p> 11 pouces, 4 lignes ½ dont le quart est 2 pieds, 8 pouces, 10 lignes ⅛ étant
+                                adjouté au diamettre 14 pieds font 16 pieds, 8 pouces 10 lignes <hi rend="superscript">1</hi>/<hi rend="subscript">8</hi> lesquels
                                 étant multipliez par 14 côté du quarré produisent 234 pieds, 3
                                 pouces, 9 lignes ¾ pour la superficie de cette voute.</p>
                             <p>5. Si la voûte d’arrête sur le même plan quarré étoit surbaissée à 5
@@ -1585,8 +1441,7 @@
                                 long, les quels étant multipliez par leur circonférence de 22 pieds,
                                 produiront 528 pieds, ce qui fait pour toute la superficie de cette
                                 voûte 1424 pieds.</p>
-                            <p>
-                                <hi rend="bold"> </hi>[début de figure 3] [fin de figure 3]</p>
+                            <figure type="figure" copyOf="t4Fig0003"/>
                             <p> [p. 46]</p>
                             <p>9. Lorsqu’aux voutes en berceau il y a des lunettes de la même
                                 hauteur de la voûte, l’on doit toiser l’endroit des lunettes comme
@@ -1758,6 +1613,7 @@
                                 la superficie d’une voûte en berceau de même hauteur et sur le même
                                 plan.</p>
                             <p>[p. 53]</p>
+                            <figure copyOf="t4Fig0004" type="figure"></figure>
                             <p>Exemple.<hi rend="annotation_reference">
                                     <note place="comment" resp="Joëlle_Barreau">
                                         <date when="2012-12-11T08:51:00Z"/>centré</note>
@@ -1790,7 +1646,7 @@
                                 superficie étant jointe avec celle de la voute d’arrête, font
                                 ensemble 698 pieds, 6 pouces, 6 lignes, de même que le double de la
                                 voûte en berceau.</p>
-                            <p>[ p. 54]</p>
+                            <p>[p. 54]</p>
                             <p>Autre exemple<hi rend="annotation_reference">
                                     <note place="comment" resp="Joëlle_Barreau">
                                         <date when="2012-12-11T08:51:00Z"/>centré</note>
