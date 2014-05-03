@@ -46,12 +46,13 @@
          <note><!-\- Peut servir pour enregistrer un commentaire au besoin -\-></note>
       </figure>
    </figure>-->
-
+<!-- TODO préciser la localisation des figures avec des expressions XPath -->
+<!-- TOOD fournir des légendes plus explicites -->
 <div xmlns="http://www.tei-c.org/ns/1.0" type="figures" xml:id="t4BackFr01">
    <figure xml:id="t4Fig0001" type="figure" facs="#t4Facs">
       <head>Exemple</head>
       <figDesc>
-         <locus from="#t437" to="#t437">p. 37</locus>
+         <locus from="#t4P37" to="#t4P37">p. 37</locus>
          <label>
             <num n="1">1</num>
          </label>
@@ -64,7 +65,7 @@
    <figure xml:id="t4Fig0002" type="figure" facs="#t4Facs">
       <head/>
       <figDesc>
-         <locus from="#t439" to="#t439">p. 39</locus>
+         <locus from="#t4P39" to="#t4P39">p. 39</locus>
          <label>
             <num n="2">2</num>
          </label>
@@ -77,7 +78,7 @@
    <figure xml:id="t4Fig0003" type="figure" facs="#t4Facs">
       <head>Exemple</head>
       <figDesc>
-         <locus from="#t4p43" to="#t43p43"/>
+         <locus from="#t4P43" to="#t43P43">p. 43</locus>
          <label>
             <num n="3">3</num>
          </label>
@@ -90,7 +91,7 @@
    <figure xml:id="t4Fig0004" type="figure" facs="#t4Facs">
       <head/>
       <figDesc>
-         <locus from="#t4"/>
+         <locus from="#t4P57" to="#t4P57">p. 57</locus>
          <label>
             <num n="4">4</num>
          </label>
@@ -103,7 +104,7 @@
    <figure xml:id="t4Fig0005" type="figure" facs="#t4Facs">
       <head/>
       <figDesc>
-         <locus from="#t4"/>
+         <locus from="#t4P58" to="#t4P58">p. 58</locus>
          <label>
             <num n="5">5</num>
          </label>
@@ -116,7 +117,7 @@
    <figure xml:id="t4Fig0006" type="figure" facs="#t4Facs">
       <head/>
       <figDesc>
-         <locus from="#t4"/>
+         <locus from="#t4P62" to="#t4P62">p. 62</locus>
          <label>
             <num n="6">6</num>
          </label>
@@ -129,7 +130,7 @@
    <figure xml:id="t4Fig0007" type="figure" facs="#t4Facs">
       <head/>
       <figDesc>
-         <locus from="#t4"/>
+         <locus from="#t4P63" to="#t4P63">p. 63</locus>
          <label>
             <num n="7">7</num>
          </label>
