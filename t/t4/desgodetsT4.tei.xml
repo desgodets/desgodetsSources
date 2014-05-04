@@ -537,27 +537,38 @@
                     <div type="chapter">
                         <head rend="alignCenter">Chapitre 1<hi rend="superscript">er</hi>. De la
                             maçonnerie <lb/>à toise courante</head>
-                        <p>1°. <hi rend="bigger">La</hi> toise courante a six pieds de long ; chaque
-                            pied est de douze pouces ; et chaque pouce a douze lignes, suivant
-                            l’étalon placé au Chatelet de Paris.</p>
-                        <p>2°. <hi rend="bigger">Les</hi> ouvrages de maçonnerie d’une longue suitte
-                            uniforme, comme les murs de clôture d’un grand <pb xml:id="t4P6" n="p6"/>
-                            <fw type="pageNum">6</fw> parc ou enclos, de même construction, d’une
-                            même hauteur au dessus du rez de chaussée et même profondeur en
-                            fondation, les caves ou aqueducs, <add hand="#t4Hand2">les</add>
-                            balustrade au pourtour d’un édifice, ou d’une terrasse et autres sortes
-                            d’ouvrages continuez d’une même façon et qualité sur une grande
-                            longueur, desquels aïant fait le détail, on appelle la valleur d’une
-                            toise de longueur ; sur la hauteur, profondeur ou épaisseur soit par un
-                            devis et marché, ou par estimation, il suffit d’en toiser la longueur
-                            pour connoitre la quantité et régler la valleur du total.</p>
-                        <p>3°. <hi rend="bigger">Cette</hi> manière de toiser à toise courante est
-                            connue de tout le monde, et n’a pas besoin d’explication, il suffit
-                            seulement d’être exact à marquer justement la longueur de chaque toise
-                            et en compter la quantité… <add hand="#t4Hand2">(9)</add> soit un mur de
-                            50 pieds de longueur, sur 2 pieds de fondation et 10 pieds d’élévation
-                            et d’un pied d’épaisseur, je dis que ce mur contient 100 toises de
-                            maçonnerie.</p>
+                        <div type="number" n="1">
+                            <label>1°.</label>
+                            <p><hi rend="bigger">La</hi> toise courante a six pieds de long ; chaque
+                                pied est de douze pouces ; et chaque pouce a douze lignes, suivant
+                                l’étalon placé au Chatelet de Paris.</p>
+                        </div>
+                        <div type="number" n="2">
+                            <label>2°.</label>
+                            <p><hi rend="bigger">Les</hi> ouvrages de maçonnerie d’une longue suitte
+                                uniforme, comme les murs de clôture d’un grand <pb xml:id="t4P6"
+                                    n="p6"/>
+                                <fw type="pageNum">6</fw> parc ou enclos, de même construction,
+                                d’une même hauteur au dessus du rez de chaussée et même profondeur
+                                en fondation, les caves ou aqueducs, <add hand="#t4Hand2">les</add>
+                                balustrade au pourtour d’un édifice, ou d’une terrasse et autres
+                                sortes d’ouvrages continuez d’une même façon et qualité sur une
+                                grande longueur, desquels aïant fait le détail, on appelle la
+                                valleur d’une toise de longueur ; sur la hauteur, profondeur ou
+                                épaisseur soit par un devis et marché, ou par estimation, il suffit
+                                d’en toiser la longueur pour connoitre la quantité et régler la
+                                valleur du total.</p>
+                        </div>
+                        <div type="number" n="3">
+                            <label>3°.</label>
+                            <p><hi rend="bigger">Cette</hi> manière de toiser à toise courante est
+                                connue de tout le monde, et n’a pas besoin d’explication, il suffit
+                                seulement d’être exact à marquer justement la longueur de chaque
+                                toise et en compter la quantité… <add hand="#t4Hand2">(9)</add> soit
+                                un mur de 50 pieds de longueur, sur 2 pieds de fondation et 10 pieds
+                                d’élévation et d’un pied d’épaisseur, je dis que ce mur contient 100
+                                toises de maçonnerie.</p>
+                        </div>
                         <space extent="6" unit="lines"/>
                     </div>
                     <pb xml:id="t4P7" n="p7"/>
@@ -565,200 +576,275 @@
                     <div type="chapter">
                         <head rend="alignCenter">Chapitre II. De la maçonnerie <lb/>à toise
                             superficielle.</head>
-                        <p>1°. <hi rend="bigger">L’usage</hi> le plus commun aux édifices
-                            particuliers est de toiser generallement tous les ouvrages de
-                            maçonnerie, tant en fondation qu’en élévation à toise superficielle de 6
-                            pieds de long sur 6 pieds de large, qui produisent 36 pieds quarrés et
-                            chaque quarré 144 pouces quarrés. <add hand="#t4Hand2">(10)</add>
-                        </p>
-                        <p>2°. <hi rend="bigger">Par</hi> cette manière de toiser l’on distingue
-                            chaque espèce d’ouvrages, toisant séparément ce qui est en pierre de
-                            taille dure ou tendre, en moilon piqué ou bourus, en mortier ou en
-                            plâtre, enduits ou apparents, et encore suivant les différentes
-                            épaisseurs de chacun en particulier par rapport à leurs différentes
-                            valleurs. <add hand="#t4Hand2">11</add>
-                        </p>
-                        <p>3°. <hi rend="bigger">Ainsi</hi> aux murs de moilon où il y a des pieds
-                            droits, chaines, jambes sous poutre et autres parties en pierre de
-                            taille, l’on toise les murs dans toute la longueur et hauteur ; mais
-                            l’on toise à part les portions qui sont en pierre de taille, que l’on
-                            compte à leurs valleurs, et dont on rabat la quantité sur la totalité
-                            des toises de <pb xml:id="t4P8" n="p8"/>
-                            <fw type="pageNum">8</fw> tout le mur, et le restant se compte en mur de
-                            moilon, à toutes les quelles sortes de murs leurs paremens y sont
-                            compris. <add hand="#t4Hand2">12</add>
-                        </p>
-                        <p>4°. <hi rend="bigger">Quelquesfois</hi> les massifs de maçonnerie en
-                            fondation sous <subst hand="#t4Hand2">
-                                <del rend="strikethrough">l’éperon</del>
-                                <add place="above">les <unclear cert="low">jurons</unclear>
-                                </add>
-                                <!-- TODO voir rendu incertitude dans unclear -->
-                            </subst>. ou autrement, sont réduits à mur de 18 pouces d’épaisseur,
-                            comptant une toise cube pour <subst hand="#t4Hand2">
-                                <del rend="strikethrough">une</del>
-                                <add place="above">4</add>
-                            </subst> toise de mur ; quoiqu’il soit <add hand="#t4Hand2"
-                                place="above">plus</add> naturel de toiser les massifs en cube, <add
-                                hand="#t4Hand2" place="above">parce que</add>
-                            <subst hand="#t4Hand2">
-                                <del rend="strikethrough">ces</del>
-                                <add place="above">les</add>
-                            </subst> prétendus murs de 18 pouces d’épaisseur, <subst hand="#t4Hand2">
-                                <del>n’aiant</del>
-                                <add place="above">n’ont</add>
-                            </subst> point de parement <add hand="#t4Hand2" place="above"
-                                >(13)</add><del hand="#t4Hand2" rend="strikethrough">, on ne compte
-                                sur une toise de longueur qu’une toise cube et non une toise et
-                                demie</del>.</p>
-                        <p>5°. <hi rend="bigger">On</hi> toise tous les murs et autres ouvrages de
-                            maçonnerie qui se réduisent à toise superficielle, sur leurs hauteur<del
-                                hand="#t4Hand2" rend="strikethrough">s</del>, longueur<del
-                                hand="#t4Hand2" rend="strikethrough">s</del> et largeur ou pourtour
-                            pris par le milieu de leurs épaisseurs aux murs de clôture on prend la
-                            hauteur du dessous de la bordure et on ajoute deux pieds pour le
-                            chaperon.</p>
-                        <p>6°. <hi rend="bigger">Aux</hi> murs qui font retour d’angle, si les
-                            angles sont droits ou à l’equaire, lors qu’on les toise par le dehors
-                            l’on rabbat l’épaisseur du mur à chaque retour d’angle ; au contraire si
-                            on les toise par le dedans, on augmente une épaisseur du mur à chaque
-                            angle ; en sorte qu’à un pavillon l’on toise les deux murs opposés par
-                            le dehors d’une arreste à l’autre et les deux autres murs par le dedans
-                            d’une angle à l’autre et ces deux différentes manières de mesurer
-                            donnent le pourtour du pavillon.</p>
+                        <div type="number" n="1">
+                            <label>1°.</label>
+                            <p><hi rend="bigger">L’usage</hi> le plus commun aux édifices
+                                particuliers est de toiser generallement tous les ouvrages de
+                                maçonnerie, tant en fondation qu’en élévation à toise superficielle
+                                de 6 pieds de long sur 6 pieds de large, qui produisent 36 pieds
+                                quarrés et chaque quarré 144 pouces quarrés. <add hand="#t4Hand2"
+                                    >(10)</add>
+                            </p>
+                        </div>
+                        <div type="number" n="2">
+                            <label>2°.</label>
+                            <p><hi rend="bigger">Par</hi> cette manière de toiser l’on distingue
+                                chaque espèce d’ouvrages, toisant séparément ce qui est en pierre de
+                                taille dure ou tendre, en moilon piqué ou bourus, en mortier ou en
+                                plâtre, enduits ou apparents, et encore suivant les différentes
+                                épaisseurs de chacun en particulier par rapport à leurs différentes
+                                valleurs. <add hand="#t4Hand2">11</add>
+                            </p>
+                        </div>
+                        <div type="number" n="3">
+                            <label>3°.</label>
+                            <p><hi rend="bigger">Ainsi</hi> aux murs de moilon où il y a des pieds
+                                droits, chaines, jambes sous poutre et autres parties en pierre de
+                                taille, l’on toise les murs dans toute la longueur et hauteur ; mais
+                                l’on toise à part les portions qui sont en pierre de taille, que
+                                l’on compte à leurs valleurs, et dont on rabat la quantité sur la
+                                totalité des toises de <pb xml:id="t4P8" n="p8"/>
+                                <fw type="pageNum">8</fw> tout le mur, et le restant se compte en
+                                mur de moilon, à toutes les quelles sortes de murs leurs paremens y
+                                sont compris. <add hand="#t4Hand2">12</add>
+                            </p>
+                        </div>
+                        <div type="number" n="4">
+                            <label>4°.</label>
+                            <p><hi rend="bigger">Quelquesfois</hi> les massifs de maçonnerie en
+                                fondation sous <subst hand="#t4Hand2">
+                                    <del rend="strikethrough">l’éperon</del>
+                                    <add place="above">les <unclear cert="low">jurons</unclear>
+                                    </add>
+                                    <!-- TODO voir rendu incertitude dans unclear -->
+                                </subst>. ou autrement, sont réduits à mur de 18 pouces d’épaisseur,
+                                comptant une toise cube pour <subst hand="#t4Hand2">
+                                    <del rend="strikethrough">une</del>
+                                    <add place="above">4</add>
+                                </subst> toise de mur ; quoiqu’il soit <add hand="#t4Hand2"
+                                    place="above">plus</add> naturel de toiser les massifs en cube,
+                                    <add hand="#t4Hand2" place="above">parce que</add>
+                                <subst hand="#t4Hand2">
+                                    <del rend="strikethrough">ces</del>
+                                    <add place="above">les</add>
+                                </subst> prétendus murs de 18 pouces d’épaisseur, <subst
+                                    hand="#t4Hand2">
+                                    <del>n’aiant</del>
+                                    <add place="above">n’ont</add>
+                                </subst> point de parement <add hand="#t4Hand2" place="above"
+                                    >(13)</add><del hand="#t4Hand2" rend="strikethrough">, on ne
+                                    compte sur une toise de longueur qu’une toise cube et non une
+                                    toise et demie</del>.</p>
+                        </div>
+                        <div type="number" n="5">
+                            <label>5°.</label>
+                            <p><hi rend="bigger">On</hi> toise tous les murs et autres ouvrages de
+                                maçonnerie qui se réduisent à toise superficielle, sur leurs
+                                    hauteur<del hand="#t4Hand2" rend="strikethrough">s</del>,
+                                    longueur<del hand="#t4Hand2" rend="strikethrough">s</del> et
+                                largeur ou pourtour pris par le milieu de leurs épaisseurs aux murs
+                                de clôture on prend la hauteur du dessous de la bordure et on ajoute
+                                deux pieds pour le chaperon.</p>
+                        </div>
+                        <div type="number" n="6">
+                            <label>6°.</label>
+                            <p><hi rend="bigger">Aux</hi> murs qui font retour d’angle, si les
+                                angles sont droits ou à l’equaire, lors qu’on les toise par le
+                                dehors l’on rabbat l’épaisseur du mur à chaque retour d’angle ; au
+                                contraire si on les toise par le dedans, on augmente une épaisseur
+                                du mur à chaque angle ; en sorte qu’à un pavillon l’on toise les
+                                deux murs opposés par le dehors d’une arreste à l’autre et les deux
+                                autres murs par le dedans d’une angle à l’autre et ces deux
+                                différentes manières de mesurer donnent le pourtour du pavillon.</p>
+                        </div>
                         <pb xml:id="t4P9" n="p9"/>
                         <fw type="pageNum">9</fw>
-                        <p>8.<note>le numéro 7 est absent</note>
-                            <hi rend="bigger">Pour</hi> avoir précisément le pourtour des murs des
-                            édifices en poligone et des murs circulaires ou ovales, il les faut
-                            mesurer par le dehors et par le dedans, additionner ces deux pourtours
-                            et en prendre la moitié, ce qui fera le pourtour des murs pris par le
-                            milieu de leur épaisseur.</p>
-                        <p>9. <hi rend="bigger">Ainsi</hi> lorsque deux murs rectilignes forment un
-                            retour d’equaire, on mesure la longueur de l’un par le dehors et la
-                            longueur de l’autre par le dedans, c’est à dire, que l’on rabbat
-                            l’épaisseur du premier mur pour prendre la longueur du second, et le
-                            parement qui est à la tête du premier sert à remplacer la partie de son
-                            parement intérieur, qui manque à l’endroit de la jonction du second mur.
-                                <add hand="#t4Hand2" place="above">(14)</add>
-                        </p>
-                        <p>10. <hi rend="bigger">Il</hi> n’est pas de même à un mur qui seroit
-                            terminé en forme de tête par le bout et qui auroit ses parement
-                            intérieur et extérieurs continués de chaque côté jusqu’aux arestes de sa
-                            tête ; en ce cas l’on toise le mur dans toute sa longueur et l’on ajoute
-                            à la longueur, la moitié de l’épaisseur de sa tête, ce que l’on nomme
-                            demie face. <add hand="#t4Hand2" place="above">(15)</add>
-                        </p>
-                        <p>11. <hi rend="bigger">Les</hi> éperons ou pilliers buttans, et les
-                            dosserets saillants hors les paremens des murs, soit pour porter des
-                            voutes en lunettes, des poutres ou autrement se <add hand="#t4Hand2"
-                                place="above">toisent</add> par la longueur de leurs saillies hors
-                            le parement du mur contre lequel ils sont adossez et on y augmente la
-                            demie face, <pb xml:id="t4P10" n="p10"/>
-                            <fw type="pageNum">10</fw> c’est à dire, la moitié de la largeur de
-                            leurs faces, ce que l’on doit entendre lorsque ces dosserets n’ont en la
-                            largeur de leurs faces que l’épaisseur des murs proportionnée à la
-                            charge qu’ils soutiennent, mais s’ils ont plus de largeur, ils sont
-                            réputés avant corps expliquez cy après.</p>
-                        <p>12° <hi rend="bigger">Les</hi> murs contre lesquels les éperons, pilliers
-                            buttants et dosserets sont adossez, se toisent tout droit pour ce qu’ils
-                            sont au derrière des éperons, pilliers buttants et dosserets. <add
-                                hand="#t4Hand2" place="above">(16)</add>
-                        </p>
-                        <p>13. <hi rend="bigger">Les</hi> pilliers quarrés ou rectangles isolé se
-                                toise<add hand="#t4Hand2" place="above">nt</add> à mur selon leur
-                            qualité, en mesurant deux de leurs faces qui forment un de leurs angles
-                            droits pour faire ensemble la longueur du mur ; et si leurs faces sont
-                            plus longues d’un sens que de l’autre ; l’on compte pour l’épaisseur de
-                            ce mur la moins large de leurs faces. <add hand="#t4Hand2" place="above"
-                                >(17)</add>
-                        </p>
-                        <p>14. <hi rend="bigger">Lorsqu’il</hi> y a des <sic>avantscorps</sic> aux
-                            murs de face , ou aux autres murs, si ces avant corps ont une largeur
-                            considérable, l’on doit toiser séparément les murs aux côtes de l’avant
-                            corps jusqu’aux angles de la saillie pour ce qu’ils sont, et toiser
-                            l’avant corps dans sa longueur ou largeur d’une arreste à l’autre pour
-                            le compter à part en mur de l’épaisseur qu’ils contiennent entre leurs
-                            parements intérieurs et le parement de la face de l’avant corps ; l’on
-                            ne compte rien pour les <pb xml:id="t4P11" n="p11"/>
-                            <fw type="pageNum">11</fw> retours de la saillie de l’avant corps, parce
-                            que pour l’ordinaire il y a des murs en retours au derrière dans
-                            l’épaisseur des quels murs le parement intérieur du mur de l’avant corps
-                            ne règne pas.</p>
-                        <p>15. <hi rend="bigger">Si</hi> les avant corps ont peu de largeur en leurs
-                            faces, tels que seroient des pilastres, on les compte pour saillie
-                            d’architecture, dont la manière de les toiser sera expliquée cy après au
-                            chapitre des saillies d’architecture. <add hand="#t4Hand2" place="above"
-                                >(18)</add>
-                        </p>
-                        <p>16. <hi rend="bigger">À</hi> quelques murs que ce soit, l’on toise leurs
-                            hauteurs depuis l’arreste du lit de dessous de leur première assise du
-                            bas, jusqu’à l’arreste du lit de dessus de leur dernière assise du haut,
-                            et l’on ne compte point la demie face de dessus, quand même le dessus
-                            feroit parement, tant a pierre de taille, qu’en moilon, ou enduits de
-                            plâtre. <add hand="#t4Hand2" place="above">(19)</add>
-                        </p>
-                        <p>17. <hi rend="bigger">Aux</hi> murs en élévation au dessus du rez de
-                            chaussée, l’on compte leurs épaisseurs au nud de dessus des retraittes,
-                            et la saillie des retraittes n’est point comptée lorsque les assises du
-                            bas, qui forment les retraittes, sont de la même matière et qualité que
-                            le corps du nud du mur au dessus ; <add hand="#t4Hand2" place="above"
-                                >(20)</add> mais si les assises du bas qui forment les retraittes
-                            sont de pierre de taille d’une autre qualité que la construction du mur
-                            au dessus, on les toise séparément chacune de l’épaisseur qu’ils ont
-                            ainsi qu’il a été dit cy devant.</p>
-                        <p>18. <hi rend="bigger">Les</hi> murs en fondation se toisent comme les
-                            autres <pb xml:id="t4P12" n="p12"/>
-                            <fw type="pageNum">12.</fw> murs depuis l’arreste du lit de dessous la
-                            première assise du bas qui pose sur le terrain jusqu’au rez de chaussée
-                            à l’endroit où l’on forme les retraittes que l’on nomme enpattement, sur
-                            les quelles on érige les murs en élévation.</p>
-                        <p>19. <hi rend="bigger">S’il</hi> y a des voûtes portées sur les murs en
-                            fondation on compte ces murs passez au travers des voûtes et des reins
-                            jusqu’à la retraitte de leurs empattemens de la même épaisseur qu’ils
-                            ont au dessus de la naissance des voûtes ; mais on ne compte pas les
-                            murs dans la hauteur des voûtes et des reins de la même qualité que le
-                            bas, parce que leur partie du haut n’a point de parement et n’est pas
-                            construite avec les mêmes materaux, et si on les réduit au même prix
-                            dans toute la hauteur, l’on fait compensation de la valeur de la partie
-                            du haut. <add hand="#t4Hand2" place="above">(21)</add>
-                        </p>
-                        <p>20. <hi rend="bigger">La</hi> même chose se pratique à l’égard des
-                            contremurs qui soûtiennent des voutes, l’on compte les contremurs passez
-                            de leur épaisseur, jusqu’au dessus du remplissage des reins des
-                            voûtes.</p>
-                        <p>21. <hi rend="bigger">Les</hi> assises de pierre de taille que l’on nomme
-                            parpin, sous les cloisons et pans de bois de charpente, se toisent
-                            quelquesfois à toise courante ; mais comme il y a des assises de
-                            différente hauteur, il est plus juste de les réduire à toise
-                            superficielle ; de quelque manière qu’on les toise, s’il s’y rencontre
-                            des portes garnies de <pb xml:id="t4P13" n="p13"/>
-                            <fw type="pageNum">13.</fw> feuilles de pierre, l’on toise l’endroit des
-                            portes tout plein dans la hauteur de la première assise, <add
-                                hand="#t4Hand2" place="above">(22)</add> et s’il y a plusieurs
-                            assises l’une sur l ‘autre, on rabbat les vuides des portes, moins les
-                            demies faces des tableaux ou autres assises au dessus de la
-                            première.</p>
-                        <p>22. <hi rend="bigger">Lorsque</hi> l’on construit un mur neuf aboutissant
-                            contre un vieu mur, la tranchée qui se fait dans le vieu mur pour y
-                            liaisonner le mur neuf, se compte pour un demi pied de longueur sur
-                            toute la hauteur de la tranchée, dans le toisé du mur neuf, dans lequel
-                            demi pied de long pour la liaison sont compris les enduits de
-                            racordemens faits au vieu mur aux deux côtés du mur neuf. <add
-                                hand="#t4Hand2" place="above">(23)</add>
-                        </p>
-                        <p>23. <hi rend="bigger">L’on</hi> compte pareillement un demi pied de long
-                            pour les liaisons des assises de parpin de pierre de taille <add
-                                hand="#t4Hand2" place="above">(24)</add> et des voutes neuves dans
-                            les vieux murs.</p>
-                        <p>24. <hi rend="bigger">Pour</hi> le toisé superficiel des marches de
-                            pierre de taille, l’on mesure leurs longueurs entre les murs et les
-                            socles, et l’on prend le pourtour de ce qui est apparent, tant de leur
-                            giron, que de la hauteur de leur colets sans contourner la moulure qui
-                            est sur le devant : l’on compte à part les massifs ou voûtes qui portent
-                            les marches pour ce qu’ils sont. <add hand="#t4Hand2" place="above"
-                                >(25)</add>
-                        </p>
+                        <div type="number" n="8">
+                            <label>8.</label>
+                            <note>le numéro 7 est absent</note>
+                            <p><hi rend="bigger">Pour</hi> avoir précisément le pourtour des murs
+                                des édifices en poligone et des murs circulaires ou ovales, il les
+                                faut mesurer par le dehors et par le dedans, additionner ces deux
+                                pourtours et en prendre la moitié, ce qui fera le pourtour des murs
+                                pris par le milieu de leur épaisseur.</p>
+                        </div>
+                        <div type="number" n="9">
+                            <label>9.</label>
+                            <p><hi rend="bigger">Ainsi</hi> lorsque deux murs rectilignes forment un
+                                retour d’equaire, on mesure la longueur de l’un par le dehors et la
+                                longueur de l’autre par le dedans, c’est à dire, que l’on rabbat
+                                l’épaisseur du premier mur pour prendre la longueur du second, et le
+                                parement qui est à la tête du premier sert à remplacer la partie de
+                                son parement intérieur, qui manque à l’endroit de la jonction du
+                                second mur. <add hand="#t4Hand2" place="above">(14)</add>
+                            </p>
+                        </div>
+                        <div type="number" n="10">
+                            <label>10.</label>
+                            <p><hi rend="bigger">Il</hi> n’est pas de même à un mur qui seroit
+                                terminé en forme de tête par le bout et qui auroit ses parement
+                                intérieur et extérieurs continués de chaque côté jusqu’aux arestes
+                                de sa tête ; en ce cas l’on toise le mur dans toute sa longueur et
+                                l’on ajoute à la longueur, la moitié de l’épaisseur de sa tête, ce
+                                que l’on nomme demie face. <add hand="#t4Hand2" place="above"
+                                    >(15)</add>
+                            </p>
+                        </div>
+                        <div type="number" n="11">
+                            <label>11</label>
+                            <p><hi rend="bigger">Les</hi> éperons ou pilliers buttans, et les
+                                dosserets saillants hors les paremens des murs, soit pour porter des
+                                voutes en lunettes, des poutres ou autrement se <add hand="#t4Hand2"
+                                    place="above">toisent</add> par la longueur de leurs saillies
+                                hors le parement du mur contre lequel ils sont adossez et on y
+                                augmente la demie face, <pb xml:id="t4P10" n="p10"/>
+                                <fw type="pageNum">10</fw> c’est à dire, la moitié de la largeur de
+                                leurs faces, ce que l’on doit entendre lorsque ces dosserets n’ont
+                                en la largeur de leurs faces que l’épaisseur des murs proportionnée
+                                à la charge qu’ils soutiennent, mais s’ils ont plus de largeur, ils
+                                sont réputés avant corps expliquez cy après.</p>
+                        </div>
+                        <div type="number" n="12">
+                            <label>12°</label>
+                            <p><hi rend="bigger">Les</hi> murs contre lesquels les éperons, pilliers
+                                buttants et dosserets sont adossez, se toisent tout droit pour ce
+                                qu’ils sont au derrière des éperons, pilliers buttants et dosserets.
+                                    <add hand="#t4Hand2" place="above">(16)</add>
+                            </p>
+                        </div>
+                        <div type="number" n="13">
+                            <label>13.</label>
+                            <p><hi rend="bigger">Les</hi> pilliers quarrés ou rectangles isolé se
+                                    toise<add hand="#t4Hand2" place="above">nt</add> à mur selon
+                                leur qualité, en mesurant deux de leurs faces qui forment un de
+                                leurs angles droits pour faire ensemble la longueur du mur ; et si
+                                leurs faces sont plus longues d’un sens que de l’autre ; l’on compte
+                                pour l’épaisseur de ce mur la moins large de leurs faces. <add
+                                    hand="#t4Hand2" place="above">(17)</add>
+                            </p>
+                        </div>
+                        <div type="number" n="14">
+                            <label>14.</label>
+                            <p><hi rend="bigger">Lorsqu’il</hi> y a des <sic>avantscorps</sic> aux
+                                murs de face , ou aux autres murs, si ces avant corps ont une
+                                largeur considérable, l’on doit toiser séparément les murs aux côtes
+                                de l’avant corps jusqu’aux angles de la saillie pour ce qu’ils sont,
+                                et toiser l’avant corps dans sa longueur ou largeur d’une arreste à
+                                l’autre pour le compter à part en mur de l’épaisseur qu’ils
+                                contiennent entre leurs parements intérieurs et le parement de la
+                                face de l’avant corps ; l’on ne compte rien pour les <pb
+                                    xml:id="t4P11" n="p11"/>
+                                <fw type="pageNum">11</fw> retours de la saillie de l’avant corps,
+                                parce que pour l’ordinaire il y a des murs en retours au derrière
+                                dans l’épaisseur des quels murs le parement intérieur du mur de
+                                l’avant corps ne règne pas.</p>
+                        </div>
+                        <div type="number" n="15">
+                            <label>15.</label>
+                            <p><hi rend="bigger">Si</hi> les avant corps ont peu de largeur en leurs
+                                faces, tels que seroient des pilastres, on les compte pour saillie
+                                d’architecture, dont la manière de les toiser sera expliquée cy
+                                après au chapitre des saillies d’architecture. <add hand="#t4Hand2"
+                                    place="above">(18)</add>
+                            </p>
+                        </div>
+                        <div type="number" n="16">
+                            <label>16.</label>
+                            <p><hi rend="bigger">À</hi> quelques murs que ce soit, l’on toise leurs
+                                hauteurs depuis l’arreste du lit de dessous de leur première assise
+                                du bas, jusqu’à l’arreste du lit de dessus de leur dernière assise
+                                du haut, et l’on ne compte point la demie face de dessus, quand même
+                                le dessus feroit parement, tant a pierre de taille, qu’en moilon, ou
+                                enduits de plâtre. <add hand="#t4Hand2" place="above">(19)</add>
+                            </p>
+                        </div>
+                        <div type="number" n="17">
+                            <label>17.</label>
+                            <p><hi rend="bigger">Aux</hi> murs en élévation au dessus du rez de
+                                chaussée, l’on compte leurs épaisseurs au nud de dessus des
+                                retraittes, et la saillie des retraittes n’est point comptée lorsque
+                                les assises du bas, qui forment les retraittes, sont de la même
+                                matière et qualité que le corps du nud du mur au dessus ; <add
+                                    hand="#t4Hand2" place="above">(20)</add> mais si les assises du
+                                bas qui forment les retraittes sont de pierre de taille d’une autre
+                                qualité que la construction du mur au dessus, on les toise
+                                séparément chacune de l’épaisseur qu’ils ont ainsi qu’il a été dit
+                                cy devant.</p>
+                        </div>
+                        <div type="number" n="18">
+                            <label>18.</label>
+                            <p><hi rend="bigger">Les</hi> murs en fondation se toisent comme les
+                                autres <pb xml:id="t4P12" n="p12"/>
+                                <fw type="pageNum">12.</fw> murs depuis l’arreste du lit de dessous
+                                la première assise du bas qui pose sur le terrain jusqu’au rez de
+                                chaussée à l’endroit où l’on forme les retraittes que l’on nomme
+                                enpattement, sur les quelles on érige les murs en élévation.</p>
+                        </div>
+                        <div type="number" n="19">
+                            <label>19.</label>
+                            <p><hi rend="bigger">S’il</hi> y a des voûtes portées sur les murs en
+                                fondation on compte ces murs passez au travers des voûtes et des
+                                reins jusqu’à la retraitte de leurs empattemens de la même épaisseur
+                                qu’ils ont au dessus de la naissance des voûtes ; mais on ne compte
+                                pas les murs dans la hauteur des voûtes et des reins de la même
+                                qualité que le bas, parce que leur partie du haut n’a point de
+                                parement et n’est pas construite avec les mêmes materaux, et si on
+                                les réduit au même prix dans toute la hauteur, l’on fait
+                                compensation de la valeur de la partie du haut. <add hand="#t4Hand2"
+                                    place="above">(21)</add>
+                            </p>
+                        </div>
+                        <div type="number" n="20">
+                            <label>20.</label>
+                            <p><hi rend="bigger">La</hi> même chose se pratique à l’égard des
+                                contremurs qui soûtiennent des voutes, l’on compte les contremurs
+                                passez de leur épaisseur, jusqu’au dessus du remplissage des reins
+                                des voûtes.</p>
+                        </div>
+                        <div type="number" n="21">
+                            <label>21.</label>
+                            <p><hi rend="bigger">Les</hi> assises de pierre de taille que l’on nomme
+                                parpin, sous les cloisons et pans de bois de charpente, se toisent
+                                quelquesfois à toise courante ; mais comme il y a des assises de
+                                différente hauteur, il est plus juste de les réduire à toise
+                                superficielle ; de quelque manière qu’on les toise, s’il s’y
+                                rencontre des portes garnies de <pb xml:id="t4P13" n="p13"/>
+                                <fw type="pageNum">13.</fw> feuilles de pierre, l’on toise l’endroit
+                                des portes tout plein dans la hauteur de la première assise, <add
+                                    hand="#t4Hand2" place="above">(22)</add> et s’il y a plusieurs
+                                assises l’une sur l ‘autre, on rabbat les vuides des portes, moins
+                                les demies faces des tableaux ou autres assises au dessus de la
+                                première.</p>
+                        </div>
+                        <div type="number" n="22">
+                            <label>22.</label>
+                            <p><hi rend="bigger">Lorsque</hi> l’on construit un mur neuf aboutissant
+                                contre un vieu mur, la tranchée qui se fait dans le vieu mur pour y
+                                liaisonner le mur neuf, se compte pour un demi pied de longueur sur
+                                toute la hauteur de la tranchée, dans le toisé du mur neuf, dans
+                                lequel demi pied de long pour la liaison sont compris les enduits de
+                                racordemens faits au vieu mur aux deux côtés du mur neuf. <add
+                                    hand="#t4Hand2" place="above">(23)</add>
+                            </p>
+                        </div>
+                        <div type="number" n="23">
+                            <label>23.</label>
+                            <p><hi rend="bigger">L’on</hi> compte pareillement un demi pied de long
+                                pour les liaisons des assises de parpin de pierre de taille <add
+                                    hand="#t4Hand2" place="above">(24)</add> et des voutes neuves
+                                dans les vieux murs.</p>
+                        </div>
+                        <div type="number" n="24">
+                            <label>24.</label>
+                            <p><hi rend="bigger">Pour</hi> le toisé superficiel des marches de
+                                pierre de taille, l’on mesure leurs longueurs entre les murs et les
+                                socles, et l’on prend le pourtour de ce qui est apparent, tant de
+                                leur giron, que de la hauteur de leur colets sans contourner la
+                                moulure qui est sur le devant : l’on compte à part les massifs ou
+                                voûtes qui portent les marches pour ce qu’ils sont. <add
+                                    hand="#t4Hand2" place="above">(25)</add>
+                            </p>
+                        </div>
                         <pb xml:id="t4P14" n="p14"/>
                         <fw type="pageNum">14</fw>
                         <space extent="1" unit="pages"/>
@@ -768,162 +854,196 @@
                     <div type="chapter">
                         <head rend="alignCenter">Chapitre III. De la maçonnerie <lb/>à toise
                             cube</head>
-                        <p>1° <hi rend="bigger">La</hi> toise cube contient six pieds de long sur
-                            six pieds de large et six pieds de haut, le tout mesuré quarrément, ce
-                            qui produit 216. pieds cubes pour une toise, et chaque pied contient
-                            1728 pouces cubes. <add hand="#t4Hand2">(26)</add>
-                        </p>
-                        <p>2. <hi rend="bigger">Les</hi> grands édifices publics, comme sont les
-                            églises, les ponts, les murs de quay, les murs de terrasse, les
-                            fortifications et autres ouvrages où il y a de gros massifs de
-                            maçonnerie, se toisent pour l’ordinaire en cube, dont les devis
-                            expliquent la manière de les toiser et réduire, laquelle est de
-                            différente sorte.</p>
-                        <p>3. <hi rend="bigger">Il</hi> est quelques fois marqué dans le devis que
-                                tout<del hand="#t4Hand1" rend="strikethrough">es</del> les ouvrages
-                            de l’édifice de quelque nature qu’ils soient avec les saillies
-                            d’architecture, seront réduits au cube, compris leurs paremens qui ne
-                            seront point comptez alors… On mesure en détail toutes les différentes
-                            longueurs, hauteurs, profondeurs et épaisseurs des murs, pilliers,
-                            massifs, voûtes, reins, <pb xml:id="t4P16" n="p16"/>
-                            <fw type="pageNum">16</fw> arbouttans, et autres ouvrages jusqu’aux
-                            saillies, hauteurs et grosseurs des membres d’architecture et les
-                            bossages des ornemens, et l’on déduit generallement tous les vuides des
-                            bayes des portes et des fenêtres et des autres ouvertures et des
-                            ceintres des arcs, des soupiraux de vantouse, barbe à canne,
-                            embrasement, tuïaux de cheminée passants dans les corps des murs ; même
-                            aux saillies d’architecture, les espaces entre les modillons et les
-                            mutulles, en sorte que l’on ne compte dans le toisé précisément que ce
-                            qui est corps solide sans aucun vuide.</p>
-                        <p> 4. <hi rend="bigger">Par</hi> une autre manière de toiser en cube, l’on
-                            fait distinction des différentes natures d’ouvrages, faisant séparément
-                            ce qui est de moilon et maçonnerie commune ; d ‘avec ce qui est de
-                            pierre de taille dure, ou pierre tendre, de liais, de grais, de brique,
-                            ou d’autres matières, avec saillies et grosseurs des membres
-                            d’architecture et bossages des ornemens, le tout réduit au cube
-                            séparément, en déduisant les vuides et ne comptant que les solides de
-                            chaque espèce de nature d’ouvrages, comme il est expliqué en l’article
-                            cy dessus suivant les differens prix dont l’on est convenu dans le devis
-                            pour chaque sorte d’ouvrages en particulier.</p>
-                        <p> 5. <hi rend="bigger">D’autres fois</hi>, et c’est la manière de toiser
-                            en cube la plus judicieuse et qui souffre moins de difficulté, on fait
-                            distinction des différentes natures d’ouvrages que l’on toise, réduits
-                            en cube séparément, en <pb xml:id="t4P17" n="p17"/>
-                            <fw type="pageNum">17</fw> déduisant les vuides comme au 4<hi
-                                rend="superscript">e</hi> article, dont on païe le cube à part, et
-                            l’on compte au surplus à toise superficielle tous les paremens, vües des
-                            différentes espèces, tant des faces extérieures, que des vuides, sçavoir
-                            les paremens piquez, les paremens de pierre de taille dure, les paremens
-                            de pierre de taille tendre, les paremens enduits en plâtre, chacun en
-                            particulier, et les saillies d’architecture toisées aux us et coutumes
-                            de Paris, le tout suivant les differens prix convenus au devis et marché
-                            pour façon seulement, les matières qui les forment étant comptées dans
-                            le cube du solide des ouvrages. <add hand="#t4Hand2">(27)</add>
-                        </p>
-                        <p> 6. <hi rend="bigger">Aux</hi> édifices particuliers on toise quelques
-                            fois en cube les murs des caves en fondation au dessous du rez de
-                            chaussée la meilleure manière est de toiser en cube, comme en l’article
-                            précédent, c’est à dire, séparément ce qui est en pierre de taille, et
-                            séparément ce qui est en moilon, déduisant toujours les vuides, même les
-                            vuides des ceintres et des embrasemens des portes et des soupiraux
-                            passants dans les corps des murs, et toisant au surplus à toise
-                            superficielle tous les paremens, vues, faces des tableaux, embrasemens,
-                            ceintres, jours et autres pourtours des vuides, le tout séparément, pour
-                            être païé selon leurs différentes qualités et natures d’ouvrages.</p>
+                        <div type="number" n="1">
+                            <label>1°</label>
+                            <p><hi rend="bigger">La</hi> toise cube contient six pieds de long
+                                sur six pieds de large et six pieds de haut, le tout mesuré
+                                quarrément, ce qui produit 216. pieds cubes pour une toise, et
+                                chaque pied contient 1728 pouces cubes. <add hand="#t4Hand2"
+                                    >(26)</add>
+                            </p>
+                        </div>
+                        <div type="number" n="2">
+                            <label>2.</label>
+                            <p><hi rend="bigger">Les</hi> grands édifices publics, comme sont les
+                                églises, les ponts, les murs de quay, les murs de terrasse, les
+                                fortifications et autres ouvrages où il y a de gros massifs de
+                                maçonnerie, se toisent pour l’ordinaire en cube, dont les devis
+                                expliquent la manière de les toiser et réduire, laquelle est de
+                                différente sorte.</p>
+                        </div>
+                        <div type="number" n="3">
+                            <label>3.</label>
+                            <p><hi rend="bigger">Il</hi> est quelques fois marqué dans le devis
+                                que tout<del hand="#t4Hand1" rend="strikethrough">es</del> les
+                                ouvrages de l’édifice de quelque nature qu’ils soient avec les
+                                saillies d’architecture, seront réduits au cube, compris leurs
+                                paremens qui ne seront point comptez alors… On mesure en détail
+                                toutes les différentes longueurs, hauteurs, profondeurs et
+                                épaisseurs des murs, pilliers, massifs, voûtes, reins, <pb
+                                    xml:id="t4P16" n="p16"/>
+                                <fw type="pageNum">16</fw> arbouttans, et autres ouvrages jusqu’aux
+                                saillies, hauteurs et grosseurs des membres d’architecture et les
+                                bossages des ornemens, et l’on déduit generallement tous les vuides
+                                des bayes des portes et des fenêtres et des autres ouvertures et des
+                                ceintres des arcs, des soupiraux de vantouse, barbe à canne,
+                                embrasement, tuïaux de cheminée passants dans les corps des murs ;
+                                même aux saillies d’architecture, les espaces entre les modillons et
+                                les mutulles, en sorte que l’on ne compte dans le toisé précisément
+                                que ce qui est corps solide sans aucun vuide.</p>
+                        </div>
+                        <div type="number" n="4">
+                            <label>4.</label>
+                            <p><hi rend="bigger">Par</hi> une autre manière de toiser en cube,
+                                l’on fait distinction des différentes natures d’ouvrages, faisant
+                                séparément ce qui est de moilon et maçonnerie commune ; d ‘avec ce
+                                qui est de pierre de taille dure, ou pierre tendre, de liais, de
+                                grais, de brique, ou d’autres matières, avec saillies et grosseurs
+                                des membres d’architecture et bossages des ornemens, le tout réduit
+                                au cube séparément, en déduisant les vuides et ne comptant que les
+                                solides de chaque espèce de nature d’ouvrages, comme il est expliqué
+                                en l’article cy dessus suivant les differens prix dont l’on est
+                                convenu dans le devis pour chaque sorte d’ouvrages en
+                                particulier.</p>
+                        </div>
+                        <div type="number" n="5">
+                            <label>5.</label>
+                            <p><hi rend="bigger">D’autres fois</hi>, et c’est la manière de
+                                toiser en cube la plus judicieuse et qui souffre moins de
+                                difficulté, on fait distinction des différentes natures d’ouvrages
+                                que l’on toise, réduits en cube séparément, en <pb xml:id="t4P17"
+                                    n="p17"/>
+                                <fw type="pageNum">17</fw> déduisant les vuides comme au 4<hi
+                                    rend="superscript">e</hi> article, dont on païe le cube à part,
+                                et l’on compte au surplus à toise superficielle tous les paremens,
+                                vües des différentes espèces, tant des faces extérieures, que des
+                                vuides, sçavoir les paremens piquez, les paremens de pierre de
+                                taille dure, les paremens de pierre de taille tendre, les paremens
+                                enduits en plâtre, chacun en particulier, et les saillies
+                                d’architecture toisées aux us et coutumes de Paris, le tout suivant
+                                les differens prix convenus au devis et marché pour façon seulement,
+                                les matières qui les forment étant comptées dans le cube du solide
+                                des ouvrages. <add hand="#t4Hand2">(27)</add>
+                            </p>
+                        </div>
+                        <div type="number" n="6">
+                            <label>6.</label>
+                            <p><hi rend="bigger">Aux</hi> édifices particuliers on toise
+                                quelques fois en cube les murs des caves en fondation au dessous du
+                                rez de chaussée la meilleure manière est de toiser en cube, comme en
+                                l’article précédent, c’est à dire, séparément ce qui est en pierre
+                                de taille, et séparément ce qui est en moilon, déduisant toujours
+                                les vuides, même les vuides des ceintres et des embrasemens des
+                                portes et des soupiraux passants dans les corps des murs, et toisant
+                                au surplus à toise superficielle tous les paremens, vues, faces des
+                                tableaux, embrasemens, ceintres, jours et autres pourtours des
+                                vuides, le tout séparément, pour être païé selon leurs différentes
+                                qualités et natures d’ouvrages.</p>
+                        </div>
                         <pb xml:id="t4P18" n="p18"/>
                         <fw type="pageNum">18</fw>
-                        <p>7. <hi rend="bigger">La</hi> règle pour toiser et réduire en cube les
-                            ouvrages de maçonnerie, suivant les principes de la géométrie pour le
-                            toisé des corps solides, que l’on suppose être sçû par les toiseurs,
-                            consiste à sçavoir que le pied de roy contient <hi rend="underline"
-                                >12</hi>. pouces, le quel nombre doit être considéré comme la
-                            racine ; que le quarré de <hi rend="underline">12</hi> est <hi
-                                rend="underline">144.</hi> que le cube de <hi rend="underline">12
-                            </hi>est <hi rend="underline">1728</hi> pouces. De sorte que le pied
-                            cube contient en soi <hi rend="underline">1728</hi> pouces en tout sens.
-                            Or pour sçavoir combien un corps solide contient de <subst
-                                hand="#t4Hand1">
-                                <del rend="strikethrough">pieds</del>
-                                <add place="above">toises</add>
-                            </subst> cubes. <del hand="#t4Hand1" rend="strikethrough">Je reduis ce
-                                solide en pouces.</del> 1° Je multiplie sa longueur, qui est la
-                            première dimension, par la largeur, seconde dimension. 2° je multiplie
-                            ce premier produit par sa profondeur, qui est la troisième dimension ;
-                                <subst hand="#t4Hand1">
-                                <del rend="strikethrough">
-                                    <gap reason="illegible" extent="7" unit="lines"/>
-                                </del>
-                                <add place="above">ce dernier produit donne des pieds cubes. Or
-                                    comme la toise cube contient 216. pieds cubes je divise ce
-                                    dernier produit de la multiplication de la troisième dimension
-                                    par 216 pour avoir au quotient le nombre de toises cubes que
-                                    contient le solide proposé</add>
-                            </subst>.</p>
-                        <head rend="alignCenter">Exemple</head>
-                        <p>15 pieds 6 <subst hand="#t4Hand1">
-                                <del>pouces</del>
-                                <add>pieds</add>
-                            </subst> 8 <subst hand="#t4Hand1">
-                                <del>pouces</del>
-                                <add>pieds</add>
-                            </subst>
-                        </p>
-                        <p>90. produit de 6 <subst hand="#t4Hand1">
-                                <del>pouces</del>
-                                <add>pieds</add>
-                            </subst>
-                        </p>
-                        <p>720 produit de 8 <subst hand="#t4Hand1">
-                                <del>pouces</del>
-                                <add>pieds</add>
-                            </subst>
-                        </p>
-                        <p>
-                            <del hand="#t4Hand1" rend="strikethrough">
-                                <gap extent="1" unit="lines" reason="illegible"/>
-                            </del>
-                        </p>
-                        <p>produit <hi rend="underline">810</hi> divisé par</p>
-                        <p>[accolade]<!-- TODO accolade --><hi rend="underline">216</hi>
-                            [accolade]<!-- TODO accolade  --> 3. <subst hand="#t4Hand1">
-                                <del>pieds</del>
-                                <add>toises</add>
-                            </subst> cubes. 162/216</p>
-                        <pb xml:id="t4P19" n="p19"/>
-                        <fw type="pageNum">19</fw>
-                        <delSpan hand="#t4Hand1" rend="strikethrough">
-                            <p>Pour abréger cette longue opération, j’ai remarqué qu’en ne
-                                multipliant la longueur du solide que par ses deux autres dimensions
-                                l’une après l’autre, et ne divisant le produit que par <hi
-                                    rend="underline">144</hi>. quarré de <hi rend="underline"
-                                    >12</hi>. on trouve au quotient le même produit
-                                qu’auparavant.</p>
-                            <head>Exemple</head>
-                            <p>
-                                <hi rend="underline">15</hi>. pieds. <hi rend="underline">6</hi>
-                                pouces. <hi rend="underline">8</hi> pouces</p>
-                            <p>
-                                <hi rend="underline">90</hi>. produit de <hi rend="underline">6</hi>
-                                pouces</p>
-                            <p>
-                                <hi rend="underline">720</hi>. produit de <hi rend="underline"
-                                    >8.</hi> pouces. divisé par <hi rend="underline">144</hi>
+                        <div type="number" n="7">
+                            <label>7.</label>
+                            <p><hi rend="bigger">La</hi> règle pour toiser et réduire en cube les
+                                ouvrages de maçonnerie, suivant les principes de la géométrie pour
+                                le toisé des corps solides, que l’on suppose être sçû par les
+                                toiseurs, consiste à sçavoir que le pied de roy contient <hi
+                                    rend="underline">12</hi>. pouces, le quel nombre doit être
+                                considéré comme la racine ; que le quarré de <hi rend="underline"
+                                    >12</hi> est <hi rend="underline">144.</hi> que le cube de <hi
+                                    rend="underline">12 </hi>est <hi rend="underline">1728</hi>
+                                pouces. De sorte que le pied cube contient en soi <hi
+                                    rend="underline">1728</hi> pouces en tout sens. Or pour sçavoir
+                                combien un corps solide contient de <subst hand="#t4Hand1">
+                                    <del rend="strikethrough">pieds</del>
+                                    <add place="above">toises</add>
+                                </subst> cubes. <del hand="#t4Hand1" rend="strikethrough">Je reduis
+                                    ce solide en pouces.</del> 1° Je multiplie sa longueur, qui est
+                                la première dimension, par la largeur, seconde dimension. 2° je
+                                multiplie ce premier produit par sa profondeur, qui est la troisième
+                                dimension ; <subst hand="#t4Hand1">
+                                    <del rend="strikethrough">
+                                        <gap reason="illegible" extent="7" unit="lines"/>
+                                    </del>
+                                    <add place="above">ce dernier produit donne des pieds cubes. Or
+                                        comme la toise cube contient 216. pieds cubes je divise ce
+                                        dernier produit de la multiplication de la troisième
+                                        dimension par 216 pour avoir au quotient le nombre de toises
+                                        cubes que contient le solide proposé</add>
+                                </subst>.</p>
+                            <head rend="alignCenter">Exemple</head>
+                            <p>15 pieds 6 <subst hand="#t4Hand1">
+                                    <del>pouces</del>
+                                    <add>pieds</add>
+                                </subst> 8 <subst hand="#t4Hand1">
+                                    <del>pouces</del>
+                                    <add>pieds</add>
+                                </subst>
                             </p>
-                            <p>000 [accolade]<!-- TODO accolade --> 5. Pieds cubes.</p>
-                        </delSpan>
-                        <p>8. <hi rend="bigger">Dans</hi> toutes les différentes manières de réduire
-                            les ouvrages de maçonnerie en cube, la fouille et excavation des terres
-                            pour l’emplacement des ouvrages qui sont en fondation, doivent être
-                            comprises dans le prix de l’ouvrage. <add hand="#t4Hand2">(28)</add>
-                        </p>
-                        <p>9. <hi rend="bigger">Lorsque</hi> c’est à l’entrepreneur de la maçonnerie
-                            de faire faire les fouilles et excavations des terres, on ne lui doit
-                            toiser de la fouille que ce qui est vuide dans les caves et autres lieux
-                            souterrains, et on ne leur passe point en compte pour la fouille rien de
-                            ce qui est occupé par la maçonnerie des murs, des massifs, des voutes,
-                            des reins, des arcs et autres ouvrages comptez en maçonnerie. <add
-                                hand="#t4Hand2">(29)</add>
-                        </p>
+                            <p>90. produit de 6 <subst hand="#t4Hand1">
+                                    <del>pouces</del>
+                                    <add>pieds</add>
+                                </subst>
+                            </p>
+                            <p>720 produit de 8 <subst hand="#t4Hand1">
+                                    <del>pouces</del>
+                                    <add>pieds</add>
+                                </subst>
+                            </p>
+                            <p>
+                                <del hand="#t4Hand1" rend="strikethrough">
+                                    <gap extent="1" unit="lines" reason="illegible"/>
+                                </del>
+                            </p>
+                            <p>produit <hi rend="underline">810</hi> divisé par</p>
+                            <p>[accolade]<!-- TODO accolade --><hi rend="underline">216</hi>
+                                [accolade]<!-- TODO accolade  --> 3. <subst hand="#t4Hand1">
+                                    <del>pieds</del>
+                                    <add>toises</add>
+                                </subst> cubes. 162/216</p>
+                            <pb xml:id="t4P19" n="p19"/>
+                            <fw type="pageNum">19</fw>
+                            <delSpan hand="#t4Hand1" rend="strikethrough">
+                                <p>Pour abréger cette longue opération, j’ai remarqué qu’en ne
+                                    multipliant la longueur du solide que par ses deux autres
+                                    dimensions l’une après l’autre, et ne divisant le produit que
+                                    par <hi rend="underline">144</hi>. quarré de <hi
+                                        rend="underline">12</hi>. on trouve au quotient le même
+                                    produit qu’auparavant.</p>
+                                <head>Exemple</head>
+                                <p>
+                                    <hi rend="underline">15</hi>. pieds. <hi rend="underline">6</hi>
+                                    pouces. <hi rend="underline">8</hi> pouces</p>
+                                <p>
+                                    <hi rend="underline">90</hi>. produit de <hi rend="underline"
+                                        >6</hi> pouces</p>
+                                <p>
+                                    <hi rend="underline">720</hi>. produit de <hi rend="underline"
+                                        >8.</hi> pouces. divisé par <hi rend="underline">144</hi>
+                                </p>
+                                <p>000 [accolade]<!-- TODO accolade --> 5. Pieds cubes.</p>
+                            </delSpan>
+                        </div>
+                        <div type="number" n="8">
+                            <label>8.</label>
+                            <p><hi rend="bigger">Dans</hi> toutes les différentes manières de
+                                réduire les ouvrages de maçonnerie en cube, la fouille et excavation
+                                des terres pour l’emplacement des ouvrages qui sont en fondation,
+                                doivent être comprises dans le prix de l’ouvrage. <add
+                                    hand="#t4Hand2">(28)</add>
+                            </p>
+                        </div>
+                        <div type="number" n="9">
+                            <label>9.</label>
+                            <p><hi rend="bigger">Lorsque</hi> c’est à l’entrepreneur de la
+                                maçonnerie de faire faire les fouilles et excavations des terres, on
+                                ne lui doit toiser de la fouille que ce qui est vuide dans les caves
+                                et autres lieux souterrains, et on ne leur passe point en compte
+                                pour la fouille rien de ce qui est occupé par la maçonnerie des
+                                murs, des massifs, des voutes, des reins, des arcs et autres
+                                ouvrages comptez en maçonnerie. <add hand="#t4Hand2">(29)</add>
+                            </p>
+                        </div>
                         <pb xml:id="t4P20" n="p20"/>
                         <fw type="pageNum">20</fw>
                         <space extent="1" unit="pages"/>
