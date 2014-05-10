@@ -221,8 +221,8 @@
                                 <p>Étiquette imprimée du relieur sur la 2<hi rend="superscript"
                                         >e</hi> page de couverture : « A la Renommée, rue des
                                     Gravilliers, vis-à-vis le jardin du Saint Esprit… Paris ».
-                                    Quelques lignes rognées en haut de page lors de la
-                                reliure.</p></note>
+                                    Quelques lignes rognées en haut de page lors de la reliure.</p>
+                            </note>
                             <textLang mainLang="fre">texte</textLang>
                         </msItemStruct>
                     </msContents>
@@ -253,11 +253,13 @@
                                     </dimensions>
                                     <!-- dimensions est répétable -->
                                 </extent>
-                                <foliation>paginé au crayon en haut, dans la marge extérieure</foliation>
+                                <foliation>paginé au crayon en haut, dans la marge
+                                    extérieure</foliation>
                                 <!--<condition>bon</condition>-->
                             </supportDesc>
                             <layoutDesc>
-                                <layout columns="1" ruledLines="22">texte sur une colonne, 22 lignes réglées, marges latérales tracées au crayon.</layout>
+                                <layout columns="1" ruledLines="22">texte sur une colonne, 22 lignes
+                                    réglées, marges latérales tracées au crayon.</layout>
                                 <!-- layout est répétable et peut contenir une localisation avec locus -->
                             </layoutDesc>
                         </objectDesc>
@@ -290,11 +292,13 @@
                         <!--<provenance>
                             <p><!-\\- histoire du manuscrit, propriétaires -\\-></p>
                         </provenance>-->
-                        <acquisition><p>Acquis en « juillet 1883 » d'après l'inscription à l’encre
-                                sur la première page blanche non paginée. Un carton glissé dans le
+                        <acquisition>
+                            <p>Acquis en « juillet 1883 » d'après l'inscription à l’encre sur la
+                                première page blanche non paginée. Un carton glissé dans le
                                 manuscrit indique « voir si c’est imprimé ». Cachet de la
                                 bibliothèque de l’arsenal (avec aigle impérial) sur la page de titre
-                                A, les pages 1 et 190.</p></acquisition>
+                                A, les pages 1 et 190.</p>
+                        </acquisition>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -844,34 +848,33 @@
                             <lb/>De la <term type="gT" ref="#maconnerie" ana="#imaconnerie"
                                 >maçonnerie</term> à <term type="gT" ref="#toiseCourante">toise
                                 courante</term></head>
-                        <div xml:id="t9BodyFr01.01.001">
-                            <p xml:id="t9BodyFr01.01.001.p001"><label n="1">
-                                    <num>1°.</num>
-                                </label> La <term type="gT" target="#toiseCourante">toise
-                                    courante</term> a 6 pieds de <term type="gT" ref="#longueur"
-                                    >longueur</term>, chaque pied est de 12 : pouces, et chaque
-                                pouce a 12 <term type="gT" ref="#ligne">lignes</term> suivant
-                                l’étalon placé au Chastelet de <placeName ref="#paris"
-                                    >Paris</placeName>.</p>
+                        <div xml:id="t9BodyFr01.01.001" n="1">
+                            <label>1°.</label>
+                            <p xml:id="t9BodyFr01.01.001.p001">La <term type="gT"
+                                    target="#toiseCourante">toise courante</term> a 6 pieds de <term
+                                    type="gT" ref="#longueur">longueur</term>, chaque pied est de
+                                12 : pouces, et chaque pouce a 12 <term type="gT" ref="#ligne"
+                                    >lignes</term> suivant l’étalon placé au Chastelet de <placeName
+                                    ref="#paris">Paris</placeName>.</p>
                         </div>
-                        <div xml:id="t9BodyFr01.01.002">
-                            <p xml:id="t9BodyFr01.01.002.p001">
-                                <label n="2"><num>2°.</num>
-                                </label> Les <term type="gT" ref="#ouvrage">ouvrages</term> de <term
-                                    type="gT" ref="#maconnerie" ana="#imaconnerie">maçonnerie</term>
-                                d’une longue suitte uniformes comme les <term type="gT" ref="#mur"
-                                    >murs</term> de cloture d’un grand <term type="gT" ref="#parc"
-                                    >parc</term> ou enclos de même construction <term type="gT"
-                                    ref="#hauteur">hauteur</term> au dessus du <term type="gT"
-                                    ref="#rezDeChaussee">rez de chaussée</term>, et profondeur en
-                                fondation, les canaux aqueducs et pierrés, les <term type="gT"
-                                    ref="#balustrade">balustrade</term> au pourtour d’un <term
-                                    type="gT" ref="#edifice">édifice</term> ou d’une <term type="gT"
-                                    ref="#terrasse" ana="#iterrasse">terrasse</term>, et autres
-                                sortes d’<term type="gT" ref="#ouvrage">ouvrages</term> continués
-                                d’une même façon et qualité sur une grande <term type="gT"
-                                    ref="#longueur">longueur</term>, desquels ayant fait le détail
-                                et <sic>appretié</sic> la valeur d’une <term type="gT" ref="#toise"
+                        <div xml:id="t9BodyFr01.01.002" n="2">
+                            <label>2°.</label>
+                            <p xml:id="t9BodyFr01.01.002.p001">Les <term type="gT" ref="#ouvrage"
+                                    >ouvrages</term> de <term type="gT" ref="#maconnerie"
+                                    ana="#imaconnerie">maçonnerie</term> d’une longue suitte
+                                uniformes comme les <term type="gT" ref="#mur">murs</term> de
+                                cloture d’un grand <term type="gT" ref="#parc">parc</term> ou enclos
+                                de même construction <term type="gT" ref="#hauteur">hauteur</term>
+                                au dessus du <term type="gT" ref="#rezDeChaussee">rez de
+                                    chaussée</term>, et profondeur en fondation, les canaux aqueducs
+                                et pierrés, les <term type="gT" ref="#balustrade">balustrade</term>
+                                au pourtour d’un <term type="gT" ref="#edifice">édifice</term> ou
+                                d’une <term type="gT" ref="#terrasse" ana="#iterrasse"
+                                    >terrasse</term>, et autres sortes d’<term type="gT"
+                                    ref="#ouvrage">ouvrages</term> continués d’une même façon et
+                                qualité sur une grande <term type="gT" ref="#longueur"
+                                    >longueur</term>, desquels ayant fait le détail et
+                                    <sic>appretié</sic> la valeur d’une <term type="gT" ref="#toise"
                                     >toise</term> de <term type="gT" ref="#longueur"
                                     >longueur,</term> sur la <term type="gT" ref="#hauteur"
                                     >hauteur</term> profondeur espaisseur, soit par un <term
@@ -881,13 +884,13 @@
                                     ref="#longueur">longueur</term> pour en connoître la quantité et
                                 régler la valeur du total.</p>
                         </div>
-                        <div xml:id="t9BodyFr01.01.003">
-                            <p xml:id="t9BodyFr01.01.003.p001">
-                                <label n="3"><num>3°.</num>
-                                </label> Cette manière de <term type="gT" ref="#toiser"
-                                    >toiser</term> à <term type="gT" ref="#toiseCourante">toise
-                                    courante</term> est connue de tout le monde, et n’a pas besoin
-                                d’explication, il suffit seulement d’estre <pb xml:id="t9P8" n="p8"/>
+                        <div xml:id="t9BodyFr01.01.003" n="3">
+                            <label n="3">3°.</label>
+                            <p xml:id="t9BodyFr01.01.003.p001">Cette manière de <term type="gT"
+                                    ref="#toiser">toiser</term> à <term type="gT"
+                                    ref="#toiseCourante">toise courante</term> est connue de tout le
+                                monde, et n’a pas besoin d’explication, il suffit seulement d’estre
+                                    <pb xml:id="t9P8" n="p8"/>
                                 <fw type="pageNum">8</fw> exact à marquer la <term type="gT"
                                     ref="#longueur">longueur</term> de chaque <term type="gT"
                                     ref="#toise">toise</term> justement et à compter la
@@ -899,207 +902,241 @@
                             <label rend="bigger"><num>Chapitre 2</num></label>
                             <lb/>Toisé de la <term type="gT" ref="#maconnerie" ana="#imaconnerie"
                                 >maçonnerie</term> en cube</head>
-                        <p xml:id="t9BodyFr01.02.p001">
-                            <label>1°.</label> La <term type="gT" ref="#toiseCube">toise cube</term>
-                            contient 6 pieds de long, sur six pieds de large et six pieds de haut,
-                            le tout mesuré quarrément et qui produit 216 pieds cubes pour une <term
-                                type="gT" ref="#toise">toise</term>, et chaque pied contient 1728
-                            pouces cubes</p>
-                        <p xml:id="t9BodyFr01.02.p002">
-                            <label>2°.</label> Les grands <term type="gT" ref="#edificePublic"
-                                >édifices publics</term> comme sont les <term type="gT"
-                                ref="#eglise" ana="#ieglise">église</term>, les <term type="gT"
-                                ref="#pont" ana="#ipont">pont</term>, les <term type="gT" ref="#mur"
-                                >murs</term> de <term type="gT" ref="#quai" ana="#iquai"
-                                >quais</term>, les <term type="gT" ref="#mur">murs</term> de <term
-                                type="gT" ref="#terrasse" ana="#iterrasse">terrasse</term>, les
-                                <term type="gT" ref="#fortification" ana="#ifortification"
-                                >fortification</term> et autres <term type="gT" ref="#ouvrage"
-                                >ouvrages</term> où il y a de <add place="above">gros </add>
-                            <term type="gT" ref="#massif"> massifs</term> de <term type="gT"
-                                ref="#maconnerie" ana="#imaconnerie">maçonnerie</term> se <term
-                                type="gT" ref="#toiser">toisent</term> pour l’ordinaire en cube,
-                            dont les <term type="gJ" ref="#devis">devis</term> expliquent la manière
-                            de les <term type="gT" ref="#toiser">toiser</term> et réduire, laquelle
-                            est de différentes sortes.</p>
-                        <p xml:id="t9BodyFr01.02.p003">
-                            <label>3°.</label> Il est quelques fois marqué dans le <term type="gJ"
-                                ref="#devis">devis</term> que tous les <term type="gT"
-                                ref="#ouvrage">ouvrages</term> de l’<term type="gT" ref="#edifice"
-                                >édifice</term> de quelque nature qu’ils soient avec les <term
-                                type="gT" ref="#saillie">saillies</term> d’<term type="gT"
-                                ref="#architecture">architecture</term> seront réduits au cube,
-                            compris leurs <term type="gT" ref="#parement">parements</term> qui ne
-                            seront point comptés, alors on mesure en détail touttes les différentes
-                                <term type="gT" ref="#longueur">longueurs</term>, <term type="gT"
-                                ref="#hauteur">hauteurs</term>, profondeurs et épaisseurs des <term
-                                type="gT" ref="#mur">murs</term>, <term type="gT" ref="#pilier"><choice>
-                                    <orig>pilliers</orig>
-                                    <reg>piliers</reg>
-                                </choice></term>, <term type="gT" ref="#massif">massifs</term>,
-                                <term type="gT" ref="#voute">voûte</term> reins, <term type="gT"
-                                ref="#arc">arcs</term> boutans, et autres <term type="gT"
-                                ref="#ouvrage">ouvrages</term> jusqu’aux <term type="gT"
-                                ref="#saillie">saillies</term>
-                            <term type="gT" ref="#hauteur">hauteur</term> et <term type="gT"
-                                ref="#grosseur">grosseur</term> des <term type="gT" ref="#membre"
-                                >membres</term> d’<term type="gT" ref="#architecture"
-                                >architecture</term> et les <term type="gT" ref="#bossage"
-                                ana="#ibossage"><choice>
-                                    <orig>bossage</orig>
-                                    <reg>bossages</reg>
-                                </choice></term> des <term type="gT" ref="#ornement"><choice>
-                                    <orig>ornemens</orig>
-                                    <reg>ornements</reg>
-                                </choice></term>, et l’on en <sic>déduits</sic> et rabat
-                            générallement le vuide des <term type="gT" ref="#baie"><choice>
-                                    <orig>bayes</orig>
-                                    <reg>baies</reg>
-                                </choice></term> des <term type="gT" ref="#porte">portes</term> et
-                                <term type="gT" ref="#fenetre"><choice>
-                                    <orig>fenestres</orig>
-                                    <reg>fenêtres</reg>
-                                </choice></term> et des autres <term type="gT" ref="#ouverture"
-                                >ouvertures</term> des <term type="gT" ref="#cintre"><choice>
-                                    <orig>ceintres</orig>
-                                    <reg>cintres</reg>
-                                </choice></term> des <term type="gT" ref="#arc">arcs</term> des
-                            soupiraux, ventouses, <term type="gT" ref="#barbeACane">
-                                <choice>
-                                    <orig>barbalanne</orig>
-                                    <reg>barbe à cane</reg>
-                                </choice>
-                            </term>, embranchemens tuyaux de <term type="gT" ref="#cheminee"
-                                ana="#icheminee">cheminée</term> passants dans les <term type="gT"
-                                ref="#corpsDuMur">corps des murs</term>, même aux <term type="gT"
-                                ref="#saillie">saillies</term> d’architecture, les espaces entre les
-                                <term type="gT" ref="#modillon">modillons</term>
-                            <pb xml:id="t9P9" n="p9"/>
-                            <fw type="pageNum">9</fw> et les <term type="gT" ref="#mutule"><choice>
-                                    <sic>musules</sic>
-                                    <corr>mutules</corr>
-                                </choice></term>
-                            <!-- TODO vérifier affichage et qu'un sic-->, ensorte que l’on ne compte
-                            dans le <term type="gT" ref="#toise">toisé</term>
-                            <term type="gT" ref="#precisement">précisément</term> que ce qui est
-                                <term type="gT" ref="#corps">corps</term> solide et sans aucun
-                            vuide.</p>
-                        <p xml:id="t9BodyFr01.02.p004">4°. Par une autre manière de <term type="gT"
-                                ref="#toiser">toiser</term> en cube, l’on fait distinction des
-                            différentes natures d’<term type="gT" ref="#ouvrage">ouvrages</term>,
-                            toisant séparément ce qui est de moilon et <term type="gT"
-                                ref="#maconnerie" ana="#imaconnerie">maçonnerie</term> commune, ce
-                            qui est de <term type="gT" ref="#pierreDeTaille">pierre de taille</term>
-                            dure, ou de <term type="gT" ref="#pierre">pierre</term> tendre de <choice>
-                                <orig>liere</orig>
-                                <reg>liais</reg>
-                            </choice> de grais, <term type="gT" ref="#brique">brique</term> ou
-                            d’autres matières, avec les <term type="gT" ref="#saillie"
-                                >saillies</term>
-                            <term type="gT" ref="#grosseur">grosseur</term> de <term type="gT"
-                                ref="#membre">membre</term> d’<term type="gT" ref="#architecture"
-                                >architecture</term> et <term type="gT" ref="#bossage"
-                                ana="#ibossage">bossage</term> des <term type="gT" ref="#ornement"><choice>
-                                    <orig>ornemens</orig>
-                                    <reg>ornements</reg>
-                                </choice></term>,, le tout réduit au cube séparément en déduisant
-                            les vuides et ne comptant que le solide de chaque espèce de nature
-                                d’<term type="gT" ref="#ouvrage">ouvrage,</term> comme il est
-                            expliqué en l’article cy dessus, suivant les différents prix dont on est
-                            convenu dans le <term type="gJ" ref="#devis">devis</term> pour chaque
-                            sorte d’<term type="gT" ref="#ouvrage">ouvrage</term> en
-                            particulier.</p>
-                        <p xml:id="t9BodyFr01.02.p005">5<hi rend="superscript">eme</hi>. D’autres
-                            fois, et c’est la manière de <term type="gT" ref="#toiser">toiser</term>
-                            en cube la plus judicieuse et qui souffre moins de difficultés, on fait
-                            distinction des différentes natures d’<term type="gT" ref="#ouvrage"
-                                >ouvrages</term> que l’on <term type="gT" ref="#toiser">toise</term>
-                            réduite au cube séparément en déduisant et rabbattant les vuides comme
-                            au quatrième article précédent, dont on paye le cube à part, et l’on
-                            compte au surplus à <term type="gT" ref="#toiseSuperficielle">toise
-                                superficielle</term> tous les <term type="gT" ref="#parement"><choice>
-                                    <orig>paremens</orig>
-                                    <reg>parements</reg>
-                                </choice></term> des différentes espèces, tant de <term type="gT"
-                                ref="#face">faces</term> extérieurs que dans les vuides, scavoir les
-                                <term type="gT" ref="#parement"><choice>
-                                    <orig>parremens</orig>
-                                    <reg>parements</reg>
-                                </choice></term> de moilon piqué, les <term type="gT"
-                                ref="#parement"><choice>
-                                    <orig>paremens</orig>
-                                    <reg>parements</reg>
-                                </choice></term> de <term type="gT" ref="#pierreDeTaille">pierre de
-                                taille</term>, les <term type="gT" ref="#parement">parements</term>
-                            de <term type="gT" ref="#pierreDeTaille">pierre de taille</term>
-                            tendres, les <term type="gT" ref="#parement">parements</term> enduits de
-                                <term type="gT" ref="#platre">plâtre</term> et chacun en
-                            particulier, et les <term type="gT" ref="#saillie">saillies</term>
-                                d’<term type="gT" ref="#architecture">architecture</term> toisées
-                            aux us et <term type="gJ" ref="#coutume">coutume</term> de <placeName
-                                ref="#paris">Paris</placeName>, le tout suivant les différens prix
-                            convenus au <term type="gJ" ref="#devis">devis</term> et <term type="gJ"
-                                ref="#marche">marché</term> pour façon seulement, les matières qui
-                            les forment estant comptées dans le cube du solide des <term type="gT"
-                                ref="#ouvrage">ouvrages</term>.</p>
-                        <p xml:id="t9BodyFr01.02.p006">6<hi rend="superscript">e</hi>. Aux <term
-                                type="gT" ref="#edifice">édifices</term> particuliers l’on <term
-                                type="gT" ref="#toiser">toise</term> quelquefois en cube les <term
-                                type="gT" ref="#mur">murs</term> des <term type="gT" ref="#cave"
-                                ana="#icave">caves</term> en fondations au dessous du <term
-                                type="gT" ref="#rezDeChaussee">rez de chaussée</term>. La meilleure
-                            manière est de <term type="gT" ref="#toiser">toiser</term> en cube comme
-                            en l’article précédent <pb xml:id="t9P10" n="p10"/>
-                            <fw type="pageNum">10</fw> séparément, ce qui est en <term type="gT"
-                                ref="#pierreDeTaille">pierre de taille</term> et ce qui est en
-                            moilon en déduisant entièrement les vuides, même les vuides de <term
-                                type="gT" ref="#cintre"><choice>
-                                    <orig>ceintres</orig>
-                                    <reg>cintres</reg>
-                                </choice></term> et des embrasements des <term type="gT"
-                                ref="#porte">portes</term> et des soupiraux passants dans le <term
-                                type="gT" ref="#corpsDuMur">corps des murs</term> et toisant au
-                            surplus à <term type="gT" ref="#toiseSuperficielle">toise
-                                superficielle</term>, tous les <term type="gT" ref="#parement"
-                                >parements</term> vus, les <term type="gT" ref="#face">faces</term>
-                            des tableaux, embrasemens, <term type="gT" ref="#cintre"><choice>
-                                    <orig>ceintres</orig>
-                                    <reg>cintres</reg>
-                                </choice></term> jours et autres pourtour des vuides, le tout
-                            séparément pour estre payé selon leurs différentes qualités et nature
-                                d’<term type="gT" ref="#ouvrage">ouvrages</term>.</p>
-                        <p xml:id="t9BodyFr01.02.p007">7<hi rend="superscript">e</hi>. La règle pour
-                                <term type="gT" ref="#toiser">toiser</term> les <term type="gT"
-                                ref="#ouvrage">ouvrages</term> et réduire en cube les <term
-                                type="gT" ref="#ouvrage">ouvrages</term> de <term type="gT"
-                                ref="#maconnerie" ana="#imaconnerie">maçonnerie</term> en suivant
-                            les principes de la <term type="gT" ref="#geometrie" ana="#igeometrie"
-                                >géométrie</term> pour le <term type="gT" ref="#toise">toisé</term>
-                                des<term type="gT" ref="#corps">corps</term> solides que l’on
-                            suppose estre sçus par les toiseurs n’étant pas nécessaire d’en faire
-                            icy le détail qui seroit trop long et ennuyeux.</p>
-                        <p xml:id="t9BodyFr01.02.p008">8° Dans touttes les différentes manières de
-                            réduire les <term type="gT" ref="#ouvrage">ouvrages</term> de <term
-                                type="gT" ref="#maconnerie" ana="#imaconnerie">maçonnerie</term> en
-                            cube, la fouille et excavation des terres pour l’emplacement de ceux qui
-                            sont en fondation doit estre comprise dans le prix de l’<term type="gT"
-                                ref="#ouvrage">ouvrages</term>.</p>
-                        <p xml:id="t9BodyFr01.02.p009">9° Lorsque les <term type="gT"
-                                ref="#entrepreneur" ana="#ientrepreneur">entrepreneur</term> de la
-                                <term type="gT" ref="#maconnerie" ana="#imaconnerie"
-                                >maçonnerie</term> qui est chargé de la fouille et excavation des
-                            terres, on ne luy doit <term type="gT" ref="#toiser">toiser</term> et
-                            compter de la fouille et enlèvement des terres que ce qui est vuide dans
-                            les <term type="gT" ref="#cave" ana="#icave">caves</term> et <add
-                                place="above">autres</add> lieux souterains, et on ne luy passe
-                            point en compte pour la fouille rien de ce qui est occupé pour la <term
-                                type="gT" ref="#maconnerie" ana="#imaconnerie">maçonnerie</term> des
-                                <term type="gT" ref="#mur">murs</term>
-                            <term type="gT" ref="#massif">massifs</term> des <term type="gT"
-                                ref="#voute">voûtes</term> des reins, des <term type="gT" ref="#arc"
-                                >arcs</term> et autres <term type="gT" ref="#ouvrage"
-                                >ouvrages</term> comptés en <term type="gT" ref="#maconnerie"
-                                ana="#imaconnerie">maçonnerie</term>.</p>
+                        <div type="number" n="1">
+                            <label>1°.</label>
+                            <p xml:id="t9BodyFr01.02.p001">La <term type="gT" ref="#toiseCube">toise
+                                    cube</term> contient 6 pieds de long, sur six pieds de large et
+                                six pieds de haut, le tout mesuré quarrément et qui produit 216
+                                pieds cubes pour une <term type="gT" ref="#toise">toise</term>, et
+                                chaque pied contient 1728 pouces cubes</p>
+                        </div>
+                        <div type="number" n="2">
+                            <label>2°.</label>
+                            <p xml:id="t9BodyFr01.02.p002">Les grands <term type="gT"
+                                    ref="#edificePublic">édifices publics</term> comme sont les
+                                    <term type="gT" ref="#eglise" ana="#ieglise">église</term>, les
+                                    <term type="gT" ref="#pont" ana="#ipont">pont</term>, les <term
+                                    type="gT" ref="#mur">murs</term> de <term type="gT" ref="#quai"
+                                    ana="#iquai">quais</term>, les <term type="gT" ref="#mur"
+                                    >murs</term> de <term type="gT" ref="#terrasse" ana="#iterrasse"
+                                    >terrasse</term>, les <term type="gT" ref="#fortification"
+                                    ana="#ifortification">fortification</term> et autres <term
+                                    type="gT" ref="#ouvrage">ouvrages</term> où il y a de <add
+                                    place="above">gros </add>
+                                <term type="gT" ref="#massif"> massifs</term> de <term type="gT"
+                                    ref="#maconnerie" ana="#imaconnerie">maçonnerie</term> se <term
+                                    type="gT" ref="#toiser">toisent</term> pour l’ordinaire en cube,
+                                dont les <term type="gJ" ref="#devis">devis</term> expliquent la
+                                manière de les <term type="gT" ref="#toiser">toiser</term> et
+                                réduire, laquelle est de différentes sortes.</p>
+                        </div>
+                        <div type="number" n="3">
+                            <label>3°.</label>
+                            <p xml:id="t9BodyFr01.02.p003">Il est quelques fois marqué dans le <term
+                                    type="gJ" ref="#devis">devis</term> que tous les <term type="gT"
+                                    ref="#ouvrage">ouvrages</term> de l’<term type="gT"
+                                    ref="#edifice">édifice</term> de quelque nature qu’ils soient
+                                avec les <term type="gT" ref="#saillie">saillies</term> d’<term
+                                    type="gT" ref="#architecture">architecture</term> seront réduits
+                                au cube, compris leurs <term type="gT" ref="#parement"
+                                    >parements</term> qui ne seront point comptés, alors on mesure
+                                en détail touttes les différentes <term type="gT" ref="#longueur"
+                                    >longueurs</term>, <term type="gT" ref="#hauteur"
+                                    >hauteurs</term>, profondeurs et épaisseurs des <term type="gT"
+                                    ref="#mur">murs</term>, <term type="gT" ref="#pilier"><choice>
+                                        <orig>pilliers</orig>
+                                        <reg>piliers</reg>
+                                    </choice></term>, <term type="gT" ref="#massif">massifs</term>,
+                                    <term type="gT" ref="#voute">voûte</term> reins, <term type="gT"
+                                    ref="#arc">arcs</term> boutans, et autres <term type="gT"
+                                    ref="#ouvrage">ouvrages</term> jusqu’aux <term type="gT"
+                                    ref="#saillie">saillies</term>
+                                <term type="gT" ref="#hauteur">hauteur</term> et <term type="gT"
+                                    ref="#grosseur">grosseur</term> des <term type="gT"
+                                    ref="#membre">membres</term> d’<term type="gT"
+                                    ref="#architecture">architecture</term> et les <term type="gT"
+                                    ref="#bossage" ana="#ibossage"><choice>
+                                        <orig>bossage</orig>
+                                        <reg>bossages</reg>
+                                    </choice></term> des <term type="gT" ref="#ornement"><choice>
+                                        <orig>ornemens</orig>
+                                        <reg>ornements</reg>
+                                    </choice></term>, et l’on en <sic>déduits</sic> et rabat
+                                générallement le vuide des <term type="gT" ref="#baie"><choice>
+                                        <orig>bayes</orig>
+                                        <reg>baies</reg>
+                                    </choice></term> des <term type="gT" ref="#porte">portes</term>
+                                et <term type="gT" ref="#fenetre"><choice>
+                                        <orig>fenestres</orig>
+                                        <reg>fenêtres</reg>
+                                    </choice></term> et des autres <term type="gT" ref="#ouverture"
+                                    >ouvertures</term> des <term type="gT" ref="#cintre"><choice>
+                                        <orig>ceintres</orig>
+                                        <reg>cintres</reg>
+                                    </choice></term> des <term type="gT" ref="#arc">arcs</term> des
+                                soupiraux, ventouses, <term type="gT" ref="#barbeACane">
+                                    <choice>
+                                        <orig>barbalanne</orig>
+                                        <reg>barbe à cane</reg>
+                                    </choice>
+                                </term>, embranchemens tuyaux de <term type="gT" ref="#cheminee"
+                                    ana="#icheminee">cheminée</term> passants dans les <term
+                                    type="gT" ref="#corpsDuMur">corps des murs</term>, même aux
+                                    <term type="gT" ref="#saillie">saillies</term> d’architecture,
+                                les espaces entre les <term type="gT" ref="#modillon"
+                                    >modillons</term>
+                                <pb xml:id="t9P9" n="p9"/>
+                                <fw type="pageNum">9</fw> et les <term type="gT" ref="#mutule"><choice>
+                                        <sic>musules</sic>
+                                        <corr>mutules</corr>
+                                    </choice></term>
+                                <!-- TODO vérifier affichage et qu'un sic-->, ensorte que l’on ne
+                                compte dans le <term type="gT" ref="#toise">toisé</term>
+                                <term type="gT" ref="#precisement">précisément</term> que ce qui est
+                                    <term type="gT" ref="#corps">corps</term> solide et sans aucun
+                                vuide.</p>
+                        </div>
+                        <div type="number" n="4">
+                            <label>4°.</label>
+                            <p xml:id="t9BodyFr01.02.p004">Par une autre manière de <term type="gT"
+                                    ref="#toiser">toiser</term> en cube, l’on fait distinction des
+                                différentes natures d’<term type="gT" ref="#ouvrage"
+                                >ouvrages</term>, toisant séparément ce qui est de moilon et <term
+                                    type="gT" ref="#maconnerie" ana="#imaconnerie">maçonnerie</term>
+                                commune, ce qui est de <term type="gT" ref="#pierreDeTaille">pierre
+                                    de taille</term> dure, ou de <term type="gT" ref="#pierre"
+                                    >pierre</term> tendre de <choice>
+                                    <orig>liere</orig>
+                                    <reg>liais</reg>
+                                </choice> de grais, <term type="gT" ref="#brique">brique</term> ou
+                                d’autres matières, avec les <term type="gT" ref="#saillie"
+                                    >saillies</term>
+                                <term type="gT" ref="#grosseur">grosseur</term> de <term type="gT"
+                                    ref="#membre">membre</term> d’<term type="gT"
+                                    ref="#architecture">architecture</term> et <term type="gT"
+                                    ref="#bossage" ana="#ibossage">bossage</term> des <term
+                                    type="gT" ref="#ornement"><choice>
+                                        <orig>ornemens</orig>
+                                        <reg>ornements</reg>
+                                    </choice></term>,, le tout réduit au cube séparément en
+                                déduisant les vuides et ne comptant que le solide de chaque espèce
+                                de nature d’<term type="gT" ref="#ouvrage">ouvrage,</term> comme il
+                                est expliqué en l’article cy dessus, suivant les différents prix
+                                dont on est convenu dans le <term type="gJ" ref="#devis"
+                                    >devis</term> pour chaque sorte d’<term type="gT" ref="#ouvrage"
+                                    >ouvrage</term> en particulier.</p>
+                        </div>
+                        <div type="number" n="5">
+                            <label>5<hi rend="superscript">eme</hi>.</label>
+                            <p xml:id="t9BodyFr01.02.p005">D’autres fois, et c’est la manière de
+                                    <term type="gT" ref="#toiser">toiser</term> en cube la plus
+                                judicieuse et qui souffre moins de difficultés, on fait distinction
+                                des différentes natures d’<term type="gT" ref="#ouvrage"
+                                    >ouvrages</term> que l’on <term type="gT" ref="#toiser"
+                                    >toise</term> réduite au cube séparément en déduisant et
+                                rabbattant les vuides comme au quatrième article précédent, dont on
+                                paye le cube à part, et l’on compte au surplus à <term type="gT"
+                                    ref="#toiseSuperficielle">toise superficielle</term> tous les
+                                    <term type="gT" ref="#parement"><choice>
+                                        <orig>paremens</orig>
+                                        <reg>parements</reg>
+                                    </choice></term> des différentes espèces, tant de <term
+                                    type="gT" ref="#face">faces</term> extérieurs que dans les
+                                vuides, scavoir les <term type="gT" ref="#parement"><choice>
+                                        <orig>parremens</orig>
+                                        <reg>parements</reg>
+                                    </choice></term> de moilon piqué, les <term type="gT"
+                                    ref="#parement"><choice>
+                                        <orig>paremens</orig>
+                                        <reg>parements</reg>
+                                    </choice></term> de <term type="gT" ref="#pierreDeTaille">pierre
+                                    de taille</term>, les <term type="gT" ref="#parement"
+                                    >parements</term> de <term type="gT" ref="#pierreDeTaille"
+                                    >pierre de taille</term> tendres, les <term type="gT"
+                                    ref="#parement">parements</term> enduits de <term type="gT"
+                                    ref="#platre">plâtre</term> et chacun en particulier, et les
+                                    <term type="gT" ref="#saillie">saillies</term> d’<term type="gT"
+                                    ref="#architecture">architecture</term> toisées aux us et <term
+                                    type="gJ" ref="#coutume">coutume</term> de <placeName
+                                    ref="#paris">Paris</placeName>, le tout suivant les différens
+                                prix convenus au <term type="gJ" ref="#devis">devis</term> et <term
+                                    type="gJ" ref="#marche">marché</term> pour façon seulement, les
+                                matières qui les forment estant comptées dans le cube du solide des
+                                    <term type="gT" ref="#ouvrage">ouvrages</term>.</p>
+                        </div>
+                        <div type="number" n="6">
+                            <label>6<hi rend="superscript">e</hi>.</label>
+                            <p xml:id="t9BodyFr01.02.p006">Aux <term type="gT" ref="#edifice"
+                                    >édifices</term> particuliers l’on <term type="gT" ref="#toiser"
+                                    >toise</term> quelquefois en cube les <term type="gT" ref="#mur"
+                                    >murs</term> des <term type="gT" ref="#cave" ana="#icave"
+                                    >caves</term> en fondations au dessous du <term type="gT"
+                                    ref="#rezDeChaussee">rez de chaussée</term>. La meilleure
+                                manière est de <term type="gT" ref="#toiser">toiser</term> en cube
+                                comme en l’article précédent <pb xml:id="t9P10" n="p10"/>
+                                <fw type="pageNum">10</fw> séparément, ce qui est en <term type="gT"
+                                    ref="#pierreDeTaille">pierre de taille</term> et ce qui est en
+                                moilon en déduisant entièrement les vuides, même les vuides de <term
+                                    type="gT" ref="#cintre"><choice>
+                                        <orig>ceintres</orig>
+                                        <reg>cintres</reg>
+                                    </choice></term> et des embrasements des <term type="gT"
+                                    ref="#porte">portes</term> et des soupiraux passants dans le
+                                    <term type="gT" ref="#corpsDuMur">corps des murs</term> et
+                                toisant au surplus à <term type="gT" ref="#toiseSuperficielle">toise
+                                    superficielle</term>, tous les <term type="gT" ref="#parement"
+                                    >parements</term> vus, les <term type="gT" ref="#face"
+                                    >faces</term> des tableaux, embrasemens, <term type="gT"
+                                    ref="#cintre"><choice>
+                                        <orig>ceintres</orig>
+                                        <reg>cintres</reg>
+                                    </choice></term> jours et autres pourtour des vuides, le tout
+                                séparément pour estre payé selon leurs différentes qualités et
+                                nature d’<term type="gT" ref="#ouvrage">ouvrages</term>.</p>
+                        </div>
+                        <div type="number" n="7">
+                            <label>7<hi rend="superscript">e</hi>.</label>
+                            <p xml:id="t9BodyFr01.02.p007">La règle pour <term type="gT"
+                                    ref="#toiser">toiser</term> les <term type="gT" ref="#ouvrage"
+                                    >ouvrages</term> et réduire en cube les <term type="gT"
+                                    ref="#ouvrage">ouvrages</term> de <term type="gT"
+                                    ref="#maconnerie" ana="#imaconnerie">maçonnerie</term> en
+                                suivant les principes de la <term type="gT" ref="#geometrie"
+                                    ana="#igeometrie">géométrie</term> pour le <term type="gT"
+                                    ref="#toise">toisé</term> des<term type="gT" ref="#corps"
+                                    >corps</term> solides que l’on suppose estre sçus par les
+                                toiseurs n’étant pas nécessaire d’en faire icy le détail qui seroit
+                                trop long et ennuyeux.</p>
+                        </div>
+                        <div type="number" n="8">
+                            <label>8°</label>
+                            <p xml:id="t9BodyFr01.02.p008">Dans touttes les différentes manières de
+                                réduire les <term type="gT" ref="#ouvrage">ouvrages</term> de <term
+                                    type="gT" ref="#maconnerie" ana="#imaconnerie">maçonnerie</term>
+                                en cube, la fouille et excavation des terres pour l’emplacement de
+                                ceux qui sont en fondation doit estre comprise dans le prix de
+                                    l’<term type="gT" ref="#ouvrage">ouvrages</term>.</p>
+                        </div>
+                        <div type="number" n="9">
+                            <label>9°</label>
+                            <p xml:id="t9BodyFr01.02.p009">Lorsque les <term type="gT"
+                                    ref="#entrepreneur" ana="#ientrepreneur">entrepreneur</term> de
+                                la <term type="gT" ref="#maconnerie" ana="#imaconnerie"
+                                    >maçonnerie</term> qui est chargé de la fouille et excavation
+                                des terres, on ne luy doit <term type="gT" ref="#toiser"
+                                    >toiser</term> et compter de la fouille et enlèvement des terres
+                                que ce qui est vuide dans les <term type="gT" ref="#cave"
+                                    ana="#icave">caves</term> et <add place="above">autres</add>
+                                lieux souterains, et on ne luy passe point en compte pour la fouille
+                                rien de ce qui est occupé pour la <term type="gT" ref="#maconnerie"
+                                    ana="#imaconnerie">maçonnerie</term> des <term type="gT"
+                                    ref="#mur">murs</term>
+                                <term type="gT" ref="#massif">massifs</term> des <term type="gT"
+                                    ref="#voute">voûtes</term> des reins, des <term type="gT"
+                                    ref="#arc">arcs</term> et autres <term type="gT" ref="#ouvrage"
+                                    >ouvrages</term> comptés en <term type="gT" ref="#maconnerie"
+                                    ana="#imaconnerie">maçonnerie</term>.</p>
+                        </div>
                         <space extent="4" unit="lines"/>
                     </div>
                     <pb xml:id="t9P11" n="p11"/>
@@ -1111,365 +1148,451 @@
                             <lb/><term type="gT" ref="#maconnerie" ana="#imaconnerie"
                                 >Maçonnerie</term> à la <term type="gT" ref="#toiseSuperficielle"
                                 >toise superficielle</term></head>
-                        <p xml:id="t9BodyFr01.03.p001">1°. L’usage le plus aux <term type="gT"
-                                ref="#edifice">édifices</term> particuliers est de <term type="gT"
-                                ref="#toiser">toiser</term> généralement tous les <term type="gT"
-                                ref="#ouvrage">ouvrages</term> de <term type="gT" ref="#maconnerie"
-                                ana="#imaconnerie">maçonnerie</term> tant en fondation qu’en <term
-                                type="gT" ref="#elevation">élévation</term> à la <term type="gT"
-                                ref="#toiseSuperficielle">toise superficielle</term> de 6 pieds de
-                            long, sur 6 pieds de large qui produisent 36 pieds quarrés et chaque
-                            pied 144 pouces.</p>
-                        <p xml:id="t9BodyFr01.03.p002">2°. <ref type="noteCritical"
-                                target="#t9Nc0005">Par cette manière de <term type="gT"
-                                    ref="#toiser">toiser</term></ref> l’on distingue chaque espèce
-                            et nature d’<term type="gT" ref="#ouvrage">ouvrage</term> toisant
-                            séparément ce qui est en <term type="gT" ref="#pierreDeTaille">pierre de
-                                taille</term> dure ou tendre, en moilon piqué, ou en moilon bouru en
-                                <term type="gT" ref="#mortier">mortier</term> ou en <term type="gT"
-                                ref="#platre">plâtre</term>, enduit ou apparent, et encore suivant
-                            les différentes épaisseurs de chacun à part par rapport à leurs
-                            différentes valeurs.</p>
-                        <p xml:id="t9BodyFr01.03.p003">3°. Ainsi aux <term type="gT" ref="#mur"
-                                >murs</term> de moilon où il y a des <term type="gT" ref="#piedroit"
-                                >piedroits</term>, <term type="gT" ref="#chaine">chaisnes</term>
-                            jambes sous <term type="gT" ref="#poutre">poutres</term> et autres
-                            parties en <term type="gT" ref="#pierreDeTaille">pierre de taille</term>
-                            l’on <term type="gT" ref="#toiser">toise</term> le <term type="gT"
-                                ref="#mur">mur</term> dans toutte sa <term type="gT" ref="#longueur"
-                                >longueur</term> et hautteur. L’on <term type="gT" ref="#toiser"
-                                >toise</term> ensuitte à part les portions qui sont en <term
-                                type="gT" ref="#pierreDeTaille">pierre de taille</term> que l’on
-                            compte à leurs valeurs dont on en rabat la quantité sur la totalité du
-                                <term type="gT" ref="#toise">toisé</term> du <term type="gT"
-                                ref="#mur">mur</term>, et le restant se compte en <term type="gT"
-                                ref="#mur">mur</term> de moilon à tous lesquels sortes de <term
-                                type="gT" ref="#mur">murs</term> les <term type="gT" ref="#parement"><choice>
-                                    <orig>paremens</orig>
-                                    <reg>parements</reg>
-                                </choice></term> y sont compris.</p>
-                        <p xml:id="t9BodyFr01.03.p004">4°. Quelquefois les <term type="gT"
-                                ref="#massif">massifs</term> de <term type="gT" ref="#maconnerie"
-                                ana="#imaconnerie">maçonnerie</term> en fondation sous les peron ou
-                            autrement sont réduits à 18 pouces d’épaisseur comptant une <term
-                                type="gT" ref="#toiseCube">toise cube</term> pour 4 <term type="gT"
-                                ref="#toise">toises</term> de <term type="gT" ref="#mur">mur</term>
-                            quoiqu’il soit plus naturel de <term type="gT" ref="#toiser"
-                                >toiser</term> les <term type="gT" ref="#massif">massifs</term> en
-                            cube parce que les prétendus <term type="gT" ref="#mur">murs</term> de
-                            18 pouces d’épaisseur n’ont point leurs <term type="gT" ref="#parement"><choice>
-                                    <orig>paremens</orig>
-                                    <reg>parements</reg>
-                                </choice></term>.</p>
+                        <div type="number" n="1">
+                            <label>1°.</label>
+                            <p xml:id="t9BodyFr01.03.p001">L’usage le plus aux <term type="gT"
+                                    ref="#edifice">édifices</term> particuliers est de <term
+                                    type="gT" ref="#toiser">toiser</term> généralement tous les
+                                    <term type="gT" ref="#ouvrage">ouvrages</term> de <term
+                                    type="gT" ref="#maconnerie" ana="#imaconnerie">maçonnerie</term>
+                                tant en fondation qu’en <term type="gT" ref="#elevation"
+                                    >élévation</term> à la <term type="gT" ref="#toiseSuperficielle"
+                                    >toise superficielle</term> de 6 pieds de long, sur 6 pieds de
+                                large qui produisent 36 pieds quarrés et chaque pied 144 pouces.</p>
+                        </div>
+                        <div type="number" n="2">
+                            <label>2°.</label>
+                            <p xml:id="t9BodyFr01.03.p002"><ref type="noteCritical"
+                                    target="#t9Nc0005"/>Par cette manière de <term type="gT"
+                                    ref="#toiser">toiser</term> l’on distingue chaque espèce et
+                                nature d’<term type="gT" ref="#ouvrage">ouvrage</term> toisant
+                                séparément ce qui est en <term type="gT" ref="#pierreDeTaille"
+                                    >pierre de taille</term> dure ou tendre, en moilon piqué, ou en
+                                moilon bouru en <term type="gT" ref="#mortier">mortier</term> ou en
+                                    <term type="gT" ref="#platre">plâtre</term>, enduit ou apparent,
+                                et encore suivant les différentes épaisseurs de chacun à part par
+                                rapport à leurs différentes valeurs.</p>
+                        </div>
+                        <div type="number" n="3">
+                            <label>3°.</label>
+                            <p xml:id="t9BodyFr01.03.p003">Ainsi aux <term type="gT" ref="#mur"
+                                    >murs</term> de moilon où il y a des <term type="gT"
+                                    ref="#piedroit">piedroits</term>, <term type="gT" ref="#chaine"
+                                    >chaisnes</term> jambes sous <term type="gT" ref="#poutre"
+                                    >poutres</term> et autres parties en <term type="gT"
+                                    ref="#pierreDeTaille">pierre de taille</term> l’on <term
+                                    type="gT" ref="#toiser">toise</term> le <term type="gT"
+                                    ref="#mur">mur</term> dans toutte sa <term type="gT"
+                                    ref="#longueur">longueur</term> et hautteur. L’on <term
+                                    type="gT" ref="#toiser">toise</term> ensuitte à part les
+                                portions qui sont en <term type="gT" ref="#pierreDeTaille">pierre de
+                                    taille</term> que l’on compte à leurs valeurs dont on en rabat
+                                la quantité sur la totalité du <term type="gT" ref="#toise"
+                                    >toisé</term> du <term type="gT" ref="#mur">mur</term>, et le
+                                restant se compte en <term type="gT" ref="#mur">mur</term> de moilon
+                                à tous lesquels sortes de <term type="gT" ref="#mur">murs</term> les
+                                    <term type="gT" ref="#parement"><choice>
+                                        <orig>paremens</orig>
+                                        <reg>parements</reg>
+                                    </choice></term> y sont compris.</p>
+                        </div>
+                        <div type="number" n="4">
+                            <label>4°.</label>
+                            <p xml:id="t9BodyFr01.03.p004">Quelquefois les <term type="gT"
+                                    ref="#massif">massifs</term> de <term type="gT"
+                                    ref="#maconnerie" ana="#imaconnerie">maçonnerie</term> en
+                                fondation sous les peron ou autrement sont réduits à 18 pouces
+                                d’épaisseur comptant une <term type="gT" ref="#toiseCube">toise
+                                    cube</term> pour 4 <term type="gT" ref="#toise">toises</term> de
+                                    <term type="gT" ref="#mur">mur</term> quoiqu’il soit plus
+                                naturel de <term type="gT" ref="#toiser">toiser</term> les <term
+                                    type="gT" ref="#massif">massifs</term> en cube parce que les
+                                prétendus <term type="gT" ref="#mur">murs</term> de 18 pouces
+                                d’épaisseur n’ont point leurs <term type="gT" ref="#parement"><choice>
+                                        <orig>paremens</orig>
+                                        <reg>parements</reg>
+                                    </choice></term>.</p>
+                        </div>
                         <pb xml:id="t9P12" n="p12"/>
                         <fw type="pageNum">12</fw>
-                        <p xml:id="t9BodyFr01.03.p005">5°. L’on <term type="gT" ref="#toiser"
-                                >toise</term> tous les <term type="gT" ref="#mur">murs</term> et les
-                            autres <term type="gT" ref="#ouvrage">ouvrages</term> de <term type="gT"
-                                ref="#maconnerie" ana="#imaconnerie">maçonnerie</term> qui se
-                            réduisent à la <term type="gT" ref="#toiseSuperficielle">toise
-                                superficielle</term>, sur leur <term type="gT" ref="#hauteur"
-                                >hauteur</term>, sur leur <term type="gT" ref="#longueur"
-                                >longueur</term>
-                            <term type="gT" ref="#largeur">largeur</term> ou pourtour pris par le
-                            milieu de leur épaisseur<ref type="noteCritical" target="#t9Nc0003"
-                            />.</p>
-                        <p xml:id="t9BodyFr01.03.p006">6°. Aux <term type="gT" ref="#mur"
-                                >murs</term> qui font <term type="gT" ref="#retour">retour</term>
-                                d’<term type="gT" ref="#angle">angle</term>, si les <term type="gT"
-                                ref="#angle">angles</term> sont <term type="gT" ref="#droit"
-                                >droits</term> ou à l’<term type="gT" ref="#equerre">équerre</term>,
-                            lorsqu’on les <term type="gT" ref="#toiser">toise</term> par le dehors,
-                            l’on rabat une épaisseur de <term type="gT" ref="#mur">mur</term> à
-                            chaque <term type="gT" ref="#retour">retour</term> d’<term type="gT"
-                                ref="#angle">angle</term>, au contraire si on les <term type="gT"
-                                ref="#toiser">toise</term> par le dedans on augmente une épaisseur
-                            de <term type="gT" ref="#mur">mur</term> à chaque <term type="gT"
-                                ref="#angle">angle</term> ensorte <surplus reason="repeated"
-                                >ensorte</surplus>
-                            <!-- TODO sortir du flux, l'élément n'était pas prévu dans le stylage -->
-                            qu’à un <term type="gT" ref="#pavillon">pavillon</term> l’on <term
-                                type="gT" ref="#toiser">toise</term> les deux <term type="gT"
-                                ref="#mur">murs</term> opposés par le dehors d’une areste à l’autre
-                            et les deux autres <term type="gT" ref="#mur">murs</term> par le dedans
-                            d’un <term type="gT" ref="#angle">angle</term> à l’autre et ces deux
-                            sortes de <term type="gT" ref="#mesure">mesures</term> donnent le
-                            pourtour du <term type="gT" ref="#pavillon">pavillon</term>.</p>
-                        <p xml:id="t9BodyFr01.03.p007">
-                            <label n="7">7°.</label> Aux <term type="gT" ref="#mur">murs</term> qui
-                            font <term type="gT" ref="#retour">retour</term> à <term type="gT"
-                                ref="#angle">angle</term> aigu ou obtus si on <term type="gT"
-                                ref="#toiser">toise</term> leur pourtour par le dehors, l’on rabat à
-                            chaque <term type="gT" ref="#angle">angle</term> une fois ce que le
-                                <term type="gT" ref="#parement">parement</term> du dehors excède à
-                            l’un des bouts le <term type="gT" ref="#parement">parement</term>
-                            <space extent="1" unit="words"/>
-                            <!-- TODO fournir une note d'édition critique ou un rendu graphique -->,
-                            au contraire s’ils sont mesurés par le dedans, l’on y ajoute à chaque
-                                <term type="gT" ref="#angle">angle</term> une fois ce que le dehors
-                            excède le dedans à un des bouts.</p>
-                        <p xml:id="t9BodyFr01.03.p008">
-                            <label n="8">8°.</label> Pour avoir <term type="gT" ref="#precisement"
-                                >précisément</term> le pourtour des <term type="gT" ref="#mur"
-                                >murs</term> des <term type="gT" ref="#edifice">édifices</term> en
-                            poligones, et des <term type="gT" ref="#mur">murs</term>
-                            <term type="gT" ref="#circulaire">circulaires</term> ou ovales, il les
-                            faut <term type="gT" ref="#mesurer">mesurer</term> par le dehors et par
-                            le dedans, additionner les deux pourtours et en prendre la moitié de la
-                            somme de leurs épaisseur<ref type="noteCritical" target="#t9Nc0004"
-                            />.</p>
-                        <p xml:id="t9BodyFr01.03.p009">9°. Ainsi lorsque les deux <term type="gT"
-                                ref="#mur">murs</term> recti<term type="gT" ref="#ligne"
-                                >lignes</term> forment un <term type="gT" ref="#retour"
-                                >retour</term>
-                            <term type="gT" ref="#dEquerre">d'équerre</term>, on mesure la <term
-                                type="gT" ref="#longueur">longueur</term> de l’un par le dehors, et
-                            la <term type="gT" ref="#longueur">longueur</term> de l’autre par le
-                            dedans, c’est à dire que l’on rabat l’épaisseur du premier <term
-                                type="gT" ref="#mur">mur</term> pour prendre la <term type="gT"
-                                ref="#longueur">longueur</term> du second, et le <term type="gT"
-                                ref="#parement">parement</term> qui est à la teste du 1<hi
-                                rend="superscript">er</hi> sert à remplacer la partie de son <term
-                                type="gT" ref="#parement">parement</term> intérieur qui <pb
-                                xml:id="t9P13" n="p13"/>
-                            <fw type="pageNum">13</fw> manque à l’endroit de la jonction du 2<hi
-                                rend="superscript">d</hi>
-                            <term type="gT" ref="#mur">mur</term>.</p>
-                        <p xml:id="t9BodyFr01.03.p010">10°. Il n’en est pas de même à un <term
-                                type="gT" ref="#mur">mur</term> qui seroit terminé en forme de teste
-                            par le bout, et qui auroit ses <term type="gT" ref="#parement"
-                                >parements</term> intérieurs et extérieurs continués de chaque côté
-                            jusqu’aux <term type="gT" ref="#arête"><choice>
-                                    <orig>arreste</orig>
-                                    <reg>arêtes</reg>
-                                </choice></term> de la teste en ce cas l’on <term type="gT"
-                                ref="#toiser">toise</term> le <term type="gT" ref="#mur">mur</term>
-                            dans toute sa <term type="gT" ref="#longueur">longueur,</term> et on y
-                            ajoute à la <term type="gT" ref="#longueur">longueur</term> la moitié de
-                            l’épaisseur de la teste, et que l’on nomme <term type="gT"
-                                ref="#demiFace">demi face</term>.</p>
-                        <p xml:id="t9BodyFr01.03.p011">11°. Les éperons ou pilles à buttans et les
-                            dosselets saillans hors les <term type="gT" ref="#parement"><choice>
-                                    <orig>paremens</orig>
-                                    <reg>parements</reg>
-                                </choice></term> des <term type="gT" ref="#mur">murs</term> soit
-                            pour porter des <term type="gT" ref="#voute">voûtes</term> et lunettes
-                            des <term type="gT" ref="#poutre">poutres</term> ou autrement se <term
-                                type="gT" ref="#toiser">toisent</term> par la <term type="gT"
-                                ref="#longueur">longueur</term> de leur <term type="gT"
-                                ref="#saillie">saillie</term> hors le <term type="gT"
-                                ref="#parement">parement</term> du <term type="gT" ref="#mur"
-                                >mur</term> contre lequel ils sont addossés, et on y augmente la
-                                <term type="gT" ref="#demiFace">demi face</term>, c’est à dire la
-                            moitié de la <term type="gT" ref="#largeur">largeur</term> de leur <term
-                                type="gT" ref="#face">face</term> les comptant à <term type="gT"
-                                ref="#mur">mur</term> dans l’épaisseur et la <term type="gT"
-                                ref="#largeur">largeur</term> de leur <term type="gT" ref="#face"
-                                >face</term>, ce que l’on doit entendre lorsque ces dosserets n’ont
-                            en <term type="gT" ref="#largeur">largeur</term> de leur <term type="gT"
-                                ref="#face">face</term> que l’épaisseur des <term type="gT"
-                                ref="#mur">murs</term>
-                            <term type="gT" ref="#proportionner">proportionné</term> à la <term
-                                type="gT" ref="#largeur">largeur</term><ref type="noteCritical"
-                                target="#t9Nc0005"/>, ils sont réputés <term type="gT"
-                                ref="#avantCorps">avant-corps</term>, et sont toisés ainsi que les
-                                <term type="gT" ref="#avantCorps">avant-corps</term> cy après.</p>
-                        <p xml:id="t9BodyFr01.03.p012">12°. Les <term type="gT" ref="#mur"
-                                >murs</term> contre lesquels les éperons <term type="gT"
-                                ref="#pilier"><choice>
-                                    <orig>pilliers</orig>
-                                    <reg>piliers</reg>
-                                </choice></term> buttans et dosserets sont addossés se <term
-                                type="gT" ref="#toiser">toisent</term> tous <term type="gT"
-                                ref="#droit">droits</term> parcequ’ils sont au derrière desdits
-                            éperons <term type="gT" ref="#pilier"><choice>
-                                    <orig>pilliers</orig>
-                                    <reg>piliers</reg>
-                                </choice></term> buttans et dosserets.</p>
-                        <p xml:id="t9BodyFr01.03.p013">13°. Les <term type="gT" ref="#pilier"><choice>
-                                    <orig>pilliers</orig>
-                                    <reg>piliers</reg>
-                                </choice></term> quarrés ou rectangles isolés se <term type="gT"
-                                ref="#toiser">toisent</term> à <term type="gT" ref="#mur">mur</term>
-                            selon leur qualité en mesurant deux de leurs <term type="gT" ref="#face"
-                                >faces</term> qui forment l’un de leurs <term type="gT" ref="#angle"
-                                >angles</term>
-                            <term type="gT" ref="#droit">droits</term> pour faire ensemble la <term
-                                type="gT" ref="#longueur">longueur</term> du <term type="gT"
-                                ref="#mur">mur</term>, et si leurs <term type="gT" ref="#face"
-                                >faces</term> sont plus longues d’un sens que de l’autre, l’on
-                            compte pour l’épaisseur de ce <term type="gT" ref="#mur">mur</term> la
-                            moins large de leurs <term type="gT" ref="#face">faces</term>.</p>
-                        <p xml:id="t9BodyFr01.03.p014">14°. Lorsqu’il y a des <term type="gT"
-                                ref="#avantCorps">avants-corps</term> aux <term type="gT" ref="#mur"
-                                >murs</term> de <term type="gT" ref="#face">face</term> ou aux
-                            autres <term type="gT" ref="#mur">murs</term> si ces <term type="gT"
-                                ref="#avantCorps">avant-corps</term> ont <subst>
-                                <add rend="overWriting">une</add>
-                            </subst>
-                            <term type="gT" ref="#largeur">largeur</term> considérable <pb
-                                xml:id="t9P14" n="p14"/>
-                            <fw type="pageNum">14</fw> l’on doit <term type="gT" ref="#toiser"
-                                >toiser</term> séparément les <term type="gT" ref="#mur">murs</term>
-                            aux côtés de l’<term type="gT" ref="#avantCorps">avant-corps</term>
-                            jusqu’aux <term type="gT" ref="#angle">angles</term> de sa <term
-                                type="gT" ref="#saillie">saillie</term> pour ce qu’ils sont, et
-                                <term type="gT" ref="#toiser">toiser</term> l’<term type="gT"
-                                ref="#avantCorps">avant-corps</term> dans sa <term type="gT"
-                                ref="#largeur">largeur</term> d’une <term type="gT" ref="#arête"><choice>
-                                    <orig>arreste</orig>
-                                    <reg>arête</reg>
-                                </choice></term> à l’autre pour le compter à part en <term type="gT"
-                                ref="#mur">mur</term> de l’épaisseur qu’il contient entre son <term
-                                type="gT" ref="#parement">parement</term> intérieur, et le <term
-                                type="gT" ref="#parement">parement</term> de la <term type="gT"
-                                ref="#face">face</term> de l’<term type="gT" ref="#avantCorps"
-                                >avant-corps</term>, l’on ne compte rien pour les <term type="gT"
-                                ref="#retour">retours</term> de la <term type="gT" ref="#saillie"
-                                >saillie</term> de l’<term type="gT" ref="#avantCorps"
-                                >avant-corps</term>, parce que pour l’ordinaire il y a des <term
-                                type="gT" ref="#mur">murs</term> en <term type="gT" ref="#retour"
-                                >retour</term>, et ce derrière dans l’épaisseur, desquels <term
-                                type="gT" ref="#mur">murs</term> le <term type="gT" ref="#parement"
-                                >parement</term> intérieur du <term type="gT" ref="#mur">mur</term>
-                            de l’<term type="gT" ref="#avantCorps">avant-corps</term> ne règne
-                            pas.</p>
-                        <p xml:id="t9BodyFr01.03.p015">15°. Si les <term type="gT" ref="#avantCorps"
-                                >avants-corps</term> ont peu de <term type="gT" ref="#largeur"
-                                >largeur</term> en leur <term type="gT" ref="#face">face</term> tels
-                            que seroient des <term type="gT" ref="#pilastre" ana="#ipilastre"
-                                >pilastre</term> on les compte pour <term type="gT" ref="#saillie"
-                                >saillies</term> d’<term type="gT" ref="#architecture"
-                                >architecture</term> dont la manière de les <term type="gT"
-                                ref="#toiser">toiser</term> en sera expliqué cy après au chapitre
-                            des <term type="gT" ref="#saillie">saillies</term> d’architecture.</p>
-                        <p xml:id="t9BodyFr01.03.p016">16°. À quelque <term type="gT" ref="#mur"
-                                >mur</term> que ce soit l’on <term type="gT" ref="#toiser"
-                                >toise</term> leur <term type="gT" ref="#hauteur">hauteur</term>
-                            depuis l’<term type="gT" ref="#arête"><choice>
-                                    <orig>arreste</orig>
-                                    <reg>arête</reg>
-                                </choice></term> du lit de dessous de leur dernière <term type="gT"
-                                ref="#assise">assise</term> du haut<ref type="noteCritical"
-                                target="#t9Nc0006"/>, et l’on ne compte points la <term type="gT"
-                                ref="#demiFace">demi face</term> du dessus quand même le dessus
-                            feroit <term type="gT" ref="#parement">parement</term> tant en <term
-                                type="gT" ref="#pierreDeTaille">pierre de taille</term> qu’un
-                            moillon ou enduit de <term type="gT" ref="#platre">plastre</term>.</p>
-                        <p xml:id="t9BodyFr01.03.p017">17°. Aux <term type="gT" ref="#mur"
-                                >murs</term> en <term type="gT" ref="#elevation">élévation</term> au
-                            dessus du <term type="gT" ref="#rezDeChaussee">rez de chaussée</term>
-                            l’on compte leur épaisseur au <term type="gT" ref="#nu"><choice>
-                                    <orig>nud</orig>
-                                    <reg>nu</reg>
-                                </choice></term> au dessus des retraittes, et la <term type="gT"
-                                ref="#saillie">saillie</term> des retraittes ne se compte point
-                            lorsque les <term type="gT" ref="#assise">assises</term> du bas qui
-                            forment les retraittes sont de la même matière et qualité que le<term
-                                type="gT" ref="#corps">corps</term> du <term type="gT"
-                                ref="#nuDuMur"><choice>
-                                    <orig>nud du mur</orig>
-                                    <reg>nu du mur</reg>
-                                </choice></term> au dessus. Mais si les <term type="gT"
-                                ref="#assise">assises</term> du bas qui forment les retraittes sont
-                            de <term type="gT" ref="#pierreDeTaille">pierre de taille</term> d’une
-                            autre qualité que la construction du <term type="gT" ref="#mur"
-                                >mur</term> au dessus on les <term type="gT" ref="#toiser"
-                                >toise</term> séparément chacun de leur épaisseur qu’ils ont ainsi
-                            qu’il a été dit cy devant.</p>
-                        <p xml:id="t9BodyFr01.03.p018">18°. Les <term type="gT" ref="#mur"
-                                >murs</term> en fondation se <term type="gT" ref="#toiser"
-                                >toisent</term> comme les autres <pb xml:id="t9P15" n="p15"/>
-                            <fw type="pageNum">15</fw> depuis l’<term type="gT" ref="#arête"><choice>
-                                    <orig>arreste</orig>
-                                    <reg>arête</reg>
-                                </choice></term> du lits de dessous de la première <term type="gT"
-                                ref="#assise">assise</term> du bas qui pose sur le terrain jusqu’au
-                                <term type="gT" ref="#rezDeChaussee">rez de chaussée</term> à
-                            l’endroit où forme les retraittes que l’on nomme enpattemens, sur
-                            lesquels on érige les <term type="gT" ref="#mur">murs</term> en
-                            fondation.</p>
-                        <p xml:id="t9BodyFr01.03.p019">19°. S’il y a des <term type="gT"
-                                ref="#voute">voûtes</term> portées sur les <term type="gT"
-                                ref="#mur">murs</term> en fondation on compte les <term type="gT"
-                                ref="#mur">murs</term> passés au travers des <term type="gT"
-                                ref="#voute">voûtes</term> et des reins jusqu’à la retraitte de leur
-                            empattement de la même épaisseur qu’ils <sic>onts</sic> au dessous de la
-                                <term type="gT" ref="#naissance">naissance</term> des <term
-                                type="gT" ref="#voute">voûtes</term>, mais on ne compte point ces
-                                <term type="gT" ref="#mur">murs</term> dans la <term type="gT"
-                                ref="#hauteur">hauteur</term> des <term type="gT" ref="#voute"
-                                >voûtes</term> et des reins de la même qualité que le bas parce que
-                            leur partie du haut n’a point de <term type="gT" ref="#parement"
-                                >parement</term>
-                            <sic>ets</sic> n’est pas construite avec les même <term type="gT"
-                                ref="#materiau">matériaux</term>, et si on les réduit au même prix
-                            dans toute la <term type="gT" ref="#hauteur">hauteur</term> l’on fait
-                            compensation de la valeur de la partie du bas avec la valeur de la
-                            partie du haut.</p>
-                        <p xml:id="t9BodyFr01.03.p020">20. La même chose se pratique à l’égard des
-                                <term type="gT" ref="#contremur">contremurs</term> qui soutiennent
-                            les <term type="gT" ref="#voute">voûtes</term>, on compte les <term
-                                type="gT" ref="#contremur">contremurs</term> passés de leur
-                            épaisseur jusqu’au dessus du remplissage des reins des <term type="gT"
-                                ref="#voute">voûtes</term>.</p>
-                        <p xml:id="t9BodyFr01.03.p021">21. Les <term type="gT" ref="#assise"
-                                >assises</term> de <term type="gT" ref="#pierreDeTaille">pierre de
-                                taille</term> que l’on nomme parpins sous les <term type="gT"
-                                ref="#cloison" ana="#icloison">cloisons</term> ou <term type="gT"
-                                ref="#panDeBois" ana="#ipanDeBois">pans de bois</term> de <term
-                                type="gT" ref="#charpente" ana="#icharpente">charpente</term>, se
-                                <term type="gT" ref="#toiser">toisent</term> quelquefois à la <term
-                                type="gT" ref="#toiseCourante">toise courante</term>, mais comme il
-                            y a des <term type="gT" ref="#assise">assises</term> de différentes
-                                <term type="gT" ref="#hauteur">hauteurs</term>, il est plus juste de
-                            les réduire à la <term type="gT" ref="#toiseSuperficielle">toise
-                                superficielle</term>, de quelque manière qu’on les <term type="gT"
-                                ref="#toiser">toise</term>, s’il s’y rencontre des <term type="gT"
-                                ref="#porte">portes</term> garnies de seuils de <term type="gT"
-                                ref="#pierre">pierre</term> l’on <term type="gT" ref="#toiser"
-                                >toise</term> l’endroit des portez tant plein dans la <term
-                                type="gT" ref="#hauteur">hauteur</term> de la 1<hi
-                                rend="superscript">ère</hi>
-                            <term type="gT" ref="#assise">assise</term>, et s’il y a plusieurs <term
-                                type="gT" ref="#assise">assises</term> l’une sur l’autre, on rabat
-                            les vuides des <term type="gT" ref="#porte">portes</term> moins les
-                                <term type="gT" ref="#demiFace">demi faces</term> des tableaux aux
-                            autres <term type="gT" ref="#assise">assises</term> au dessus de la
-                            première. </p>
-                        <p xml:id="t9BodyFr01.03.p022">
-                            <pb xml:id="t9P16" n="p16"/>
-                            <fw type="pageNum">16</fw> 22. Lorsque l’on construit un <term type="gT"
-                                ref="#mur">mur</term> neuf aboutissant contre un vieux <term
-                                type="gT" ref="#mur">mur</term> la tranchée qui se fait dans les
-                            vieux <term type="gT" ref="#mur">mur</term> pour y liaisonner le <term
-                                type="gT" ref="#mur">mur</term> neuf se compte pour un demi pied de
-                                <term type="gT" ref="#longueur">longueur</term> sur toute la <term
-                                type="gT" ref="#hauteur">hauteur</term> de la tranchée dans le <term
-                                type="gT" ref="#toise">toisé</term> du <term type="gT" ref="#mur"
-                                >mur</term> neuf, dans lequel 1/2. pied de long pour la liaison sont
-                            compris, les enduits et raccordemens faits aux vieux <term type="gT"
-                                ref="#mur">murs</term> aux deux côtés du <term type="gT" ref="#mur"
-                                >mur</term> neuf.</p>
-                        <p xml:id="t9BodyFr01.03.p023">23. L’on compte pareillement un demi pied de
-                                <term type="gT" ref="#longueur">longueur</term> pour les liaisons
-                            des <term type="gT" ref="#assise">assises</term> de parpin de <term
-                                type="gT" ref="#pierreDeTaille">pierre de taille</term>, <subst>
-                                <add rend="overWriting">et des <term type="gT" ref="#voute"
-                                        >voûtes</term> neuves</add>
-                            </subst> dans les vieux <term type="gT" ref="#mur">murs</term>.</p>
-                        <p xml:id="t9BodyFr01.03.p024">24. Pour le <term type="gT" ref="#toise"
-                                >toisé</term> superficiel des <term type="gT" ref="#marche"
-                                >marches</term> de <term type="gT" ref="#pierreDeTaille">pierre de
-                                tailles</term>, l’on mesure leur <term type="gT" ref="#longueur"
-                                >longueur</term> sur leur pourtour de ce qui est apparent de la
-                                <term type="gT" ref="#largeur">largeur</term> de leur <term
-                                type="gT" ref="#giron">giron</term>, et la <term type="gT"
-                                ref="#hauteur">hauteur</term> de leur colet<ref type="noteCritical"
-                                target="#t9Nc0007"/>, et l’on compte à part le <term type="gT"
-                                ref="#massif">massif</term> de <term type="gT" ref="#maconnerie"
-                                ana="#imaconnerie">maçonnerie</term> qui porte les <term type="gT"
-                                ref="#marche">marches</term>.</p>
+                        <div type="number" n="5">
+                            <label>5°.</label>
+                            <p xml:id="t9BodyFr01.03.p005">L’on <term type="gT" ref="#toiser"
+                                    >toise</term> tous les <term type="gT" ref="#mur">murs</term> et
+                                les autres <term type="gT" ref="#ouvrage">ouvrages</term> de <term
+                                    type="gT" ref="#maconnerie" ana="#imaconnerie">maçonnerie</term>
+                                qui se réduisent à la <term type="gT" ref="#toiseSuperficielle"
+                                    >toise superficielle</term>, sur leur <term type="gT"
+                                    ref="#hauteur">hauteur</term>, sur leur <term type="gT"
+                                    ref="#longueur">longueur</term>
+                                <term type="gT" ref="#largeur">largeur</term> ou pourtour pris par
+                                le milieu de leur épaisseur<ref type="noteCritical"
+                                    target="#t9Nc0003"/>.</p>
+                        </div>
+                        <div type="number" n="6">
+                            <label>6°.</label>
+                            <p xml:id="t9BodyFr01.03.p006">Aux <term type="gT" ref="#mur"
+                                    >murs</term> qui font <term type="gT" ref="#retour"
+                                    >retour</term> d’<term type="gT" ref="#angle">angle</term>, si
+                                les <term type="gT" ref="#angle">angles</term> sont <term type="gT"
+                                    ref="#droit">droits</term> ou à l’<term type="gT" ref="#equerre"
+                                    >équerre</term>, lorsqu’on les <term type="gT" ref="#toiser"
+                                    >toise</term> par le dehors, l’on rabat une épaisseur de <term
+                                    type="gT" ref="#mur">mur</term> à chaque <term type="gT"
+                                    ref="#retour">retour</term> d’<term type="gT" ref="#angle"
+                                    >angle</term>, au contraire si on les <term type="gT"
+                                    ref="#toiser">toise</term> par le dedans on augmente une
+                                épaisseur de <term type="gT" ref="#mur">mur</term> à chaque <term
+                                    type="gT" ref="#angle">angle</term> ensorte <surplus
+                                    reason="repeated">ensorte</surplus>
+                                <!-- TODO sortir du flux, l'élément n'était pas prévu dans le stylage -->
+                                qu’à un <term type="gT" ref="#pavillon">pavillon</term> l’on <term
+                                    type="gT" ref="#toiser">toise</term> les deux <term type="gT"
+                                    ref="#mur">murs</term> opposés par le dehors d’une areste à
+                                l’autre et les deux autres <term type="gT" ref="#mur">murs</term>
+                                par le dedans d’un <term type="gT" ref="#angle">angle</term> à
+                                l’autre et ces deux sortes de <term type="gT" ref="#mesure"
+                                    >mesures</term> donnent le pourtour du <term type="gT"
+                                    ref="#pavillon">pavillon</term>.</p>
+                        </div>
+                        <div type="number" n="7">
+                            <label n="7">7°.</label>
+                            <p xml:id="t9BodyFr01.03.p007">Aux <term type="gT" ref="#mur"
+                                    >murs</term> qui font <term type="gT" ref="#retour"
+                                    >retour</term> à <term type="gT" ref="#angle">angle</term> aigu
+                                ou obtus si on <term type="gT" ref="#toiser">toise</term> leur
+                                pourtour par le dehors, l’on rabat à chaque <term type="gT"
+                                    ref="#angle">angle</term> une fois ce que le <term type="gT"
+                                    ref="#parement">parement</term> du dehors excède à l’un des
+                                bouts le <term type="gT" ref="#parement">parement</term>
+                                <space extent="1" unit="words"/>
+                                <!-- TODO fournir une note d'édition critique ou un rendu graphique -->,
+                                au contraire s’ils sont mesurés par le dedans, l’on y ajoute à
+                                chaque <term type="gT" ref="#angle">angle</term> une fois ce que le
+                                dehors excède le dedans à un des bouts.</p>
+                        </div>
+                        <div type="number" n="8">
+                            <label n="8">8°.</label>
+                            <p xml:id="t9BodyFr01.03.p008">Pour avoir <term type="gT"
+                                    ref="#precisement">précisément</term> le pourtour des <term
+                                    type="gT" ref="#mur">murs</term> des <term type="gT"
+                                    ref="#edifice">édifices</term> en poligones, et des <term
+                                    type="gT" ref="#mur">murs</term>
+                                <term type="gT" ref="#circulaire">circulaires</term> ou ovales, il
+                                les faut <term type="gT" ref="#mesurer">mesurer</term> par le dehors
+                                et par le dedans, additionner les deux pourtours et en prendre la
+                                moitié de la somme de leurs épaisseur<ref type="noteCritical"
+                                    target="#t9Nc0004"/>.</p>
+                        </div>
+                        <div type="number" n="9">
+                            <label>9°.</label>
+                            <p xml:id="t9BodyFr01.03.p009">Ainsi lorsque les deux <term type="gT"
+                                    ref="#mur">murs</term> recti<term type="gT" ref="#ligne"
+                                    >lignes</term> forment un <term type="gT" ref="#retour"
+                                    >retour</term>
+                                <term type="gT" ref="#dEquerre">d'équerre</term>, on mesure la <term
+                                    type="gT" ref="#longueur">longueur</term> de l’un par le dehors,
+                                et la <term type="gT" ref="#longueur">longueur</term> de l’autre par
+                                le dedans, c’est à dire que l’on rabat l’épaisseur du premier <term
+                                    type="gT" ref="#mur">mur</term> pour prendre la <term type="gT"
+                                    ref="#longueur">longueur</term> du second, et le <term type="gT"
+                                    ref="#parement">parement</term> qui est à la teste du 1<hi
+                                    rend="superscript">er</hi> sert à remplacer la partie de son
+                                    <term type="gT" ref="#parement">parement</term> intérieur qui
+                                    <pb xml:id="t9P13" n="p13"/>
+                                <fw type="pageNum">13</fw> manque à l’endroit de la jonction du 2<hi
+                                    rend="superscript">d</hi>
+                                <term type="gT" ref="#mur">mur</term>.</p>
+                        </div>
+                        <div type="number" n="10">
+                            <label>10°.</label>
+                            <p xml:id="t9BodyFr01.03.p010">Il n’en est pas de même à un <term
+                                    type="gT" ref="#mur">mur</term> qui seroit terminé en forme de
+                                teste par le bout, et qui auroit ses <term type="gT" ref="#parement"
+                                    >parements</term> intérieurs et extérieurs continués de chaque
+                                côté jusqu’aux <term type="gT" ref="#arête"><choice>
+                                        <orig>arreste</orig>
+                                        <reg>arêtes</reg>
+                                    </choice></term> de la teste en ce cas l’on <term type="gT"
+                                    ref="#toiser">toise</term> le <term type="gT" ref="#mur"
+                                    >mur</term> dans toute sa <term type="gT" ref="#longueur"
+                                    >longueur,</term> et on y ajoute à la <term type="gT"
+                                    ref="#longueur">longueur</term> la moitié de l’épaisseur de la
+                                teste, et que l’on nomme <term type="gT" ref="#demiFace">demi
+                                    face</term>.</p>
+                        </div>
+                        <div type="number" n="11">
+                            <label>11°.</label>
+                            <p xml:id="t9BodyFr01.03.p011">Les éperons ou pilles à buttans et les
+                                dosselets saillans hors les <term type="gT" ref="#parement"><choice>
+                                        <orig>paremens</orig>
+                                        <reg>parements</reg>
+                                    </choice></term> des <term type="gT" ref="#mur">murs</term> soit
+                                pour porter des <term type="gT" ref="#voute">voûtes</term> et
+                                lunettes des <term type="gT" ref="#poutre">poutres</term> ou
+                                autrement se <term type="gT" ref="#toiser">toisent</term> par la
+                                    <term type="gT" ref="#longueur">longueur</term> de leur <term
+                                    type="gT" ref="#saillie">saillie</term> hors le <term type="gT"
+                                    ref="#parement">parement</term> du <term type="gT" ref="#mur"
+                                    >mur</term> contre lequel ils sont addossés, et on y augmente la
+                                    <term type="gT" ref="#demiFace">demi face</term>, c’est à dire
+                                la moitié de la <term type="gT" ref="#largeur">largeur</term> de
+                                leur <term type="gT" ref="#face">face</term> les comptant à <term
+                                    type="gT" ref="#mur">mur</term> dans l’épaisseur et la <term
+                                    type="gT" ref="#largeur">largeur</term> de leur <term type="gT"
+                                    ref="#face">face</term>, ce que l’on doit entendre lorsque ces
+                                dosserets n’ont en <term type="gT" ref="#largeur">largeur</term> de
+                                leur <term type="gT" ref="#face">face</term> que l’épaisseur des
+                                    <term type="gT" ref="#mur">murs</term>
+                                <term type="gT" ref="#proportionner">proportionné</term> à la <term
+                                    type="gT" ref="#largeur">largeur</term><ref type="noteCritical"
+                                    target="#t9Nc0005"/>, ils sont réputés <term type="gT"
+                                    ref="#avantCorps">avant-corps</term>, et sont toisés ainsi que
+                                les <term type="gT" ref="#avantCorps">avant-corps</term> cy
+                                après.</p>
+                        </div>
+                        <div type="number" n="12">
+                            <label>12°.</label>
+                            <p xml:id="t9BodyFr01.03.p012">Les <term type="gT" ref="#mur"
+                                    >murs</term> contre lesquels les éperons <term type="gT"
+                                    ref="#pilier"><choice>
+                                        <orig>pilliers</orig>
+                                        <reg>piliers</reg>
+                                    </choice></term> buttans et dosserets sont addossés se <term
+                                    type="gT" ref="#toiser">toisent</term> tous <term type="gT"
+                                    ref="#droit">droits</term> parcequ’ils sont au derrière desdits
+                                éperons <term type="gT" ref="#pilier"><choice>
+                                        <orig>pilliers</orig>
+                                        <reg>piliers</reg>
+                                    </choice></term> buttans et dosserets.</p>
+                        </div>
+                        <div type="number" n="13">
+                            <label>13°.</label>
+                            <p xml:id="t9BodyFr01.03.p013">Les <term type="gT" ref="#pilier"><choice>
+                                        <orig>pilliers</orig>
+                                        <reg>piliers</reg>
+                                    </choice></term> quarrés ou rectangles isolés se <term type="gT"
+                                    ref="#toiser">toisent</term> à <term type="gT" ref="#mur"
+                                    >mur</term> selon leur qualité en mesurant deux de leurs <term
+                                    type="gT" ref="#face">faces</term> qui forment l’un de leurs
+                                    <term type="gT" ref="#angle">angles</term>
+                                <term type="gT" ref="#droit">droits</term> pour faire ensemble la
+                                    <term type="gT" ref="#longueur">longueur</term> du <term
+                                    type="gT" ref="#mur">mur</term>, et si leurs <term type="gT"
+                                    ref="#face">faces</term> sont plus longues d’un sens que de
+                                l’autre, l’on compte pour l’épaisseur de ce <term type="gT"
+                                    ref="#mur">mur</term> la moins large de leurs <term type="gT"
+                                    ref="#face">faces</term>.</p>
+                        </div>
+                        <div type="number" n="14">
+                            <label>14°.</label>
+                            <p xml:id="t9BodyFr01.03.p014">Lorsqu’il y a des <term type="gT"
+                                    ref="#avantCorps">avants-corps</term> aux <term type="gT"
+                                    ref="#mur">murs</term> de <term type="gT" ref="#face"
+                                    >face</term> ou aux autres <term type="gT" ref="#mur"
+                                    >murs</term> si ces <term type="gT" ref="#avantCorps"
+                                    >avant-corps</term> ont <subst>
+                                    <add rend="overWriting">une</add>
+                                </subst>
+                                <term type="gT" ref="#largeur">largeur</term> considérable <pb
+                                    xml:id="t9P14" n="p14"/>
+                                <fw type="pageNum">14</fw> l’on doit <term type="gT" ref="#toiser"
+                                    >toiser</term> séparément les <term type="gT" ref="#mur"
+                                    >murs</term> aux côtés de l’<term type="gT" ref="#avantCorps"
+                                    >avant-corps</term> jusqu’aux <term type="gT" ref="#angle"
+                                    >angles</term> de sa <term type="gT" ref="#saillie"
+                                    >saillie</term> pour ce qu’ils sont, et <term type="gT"
+                                    ref="#toiser">toiser</term> l’<term type="gT" ref="#avantCorps"
+                                    >avant-corps</term> dans sa <term type="gT" ref="#largeur"
+                                    >largeur</term> d’une <term type="gT" ref="#arête"><choice>
+                                        <orig>arreste</orig>
+                                        <reg>arête</reg>
+                                    </choice></term> à l’autre pour le compter à part en <term
+                                    type="gT" ref="#mur">mur</term> de l’épaisseur qu’il contient
+                                entre son <term type="gT" ref="#parement">parement</term> intérieur,
+                                et le <term type="gT" ref="#parement">parement</term> de la <term
+                                    type="gT" ref="#face">face</term> de l’<term type="gT"
+                                    ref="#avantCorps">avant-corps</term>, l’on ne compte rien pour
+                                les <term type="gT" ref="#retour">retours</term> de la <term
+                                    type="gT" ref="#saillie">saillie</term> de l’<term type="gT"
+                                    ref="#avantCorps">avant-corps</term>, parce que pour l’ordinaire
+                                il y a des <term type="gT" ref="#mur">murs</term> en <term type="gT"
+                                    ref="#retour">retour</term>, et ce derrière dans l’épaisseur,
+                                desquels <term type="gT" ref="#mur">murs</term> le <term type="gT"
+                                    ref="#parement">parement</term> intérieur du <term type="gT"
+                                    ref="#mur">mur</term> de l’<term type="gT" ref="#avantCorps"
+                                    >avant-corps</term> ne règne pas.</p>
+                        </div>
+                        <div type="number" n="15">
+                            <label>15°.</label>
+                            <p xml:id="t9BodyFr01.03.p015">Si les <term type="gT" ref="#avantCorps"
+                                    >avants-corps</term> ont peu de <term type="gT" ref="#largeur"
+                                    >largeur</term> en leur <term type="gT" ref="#face">face</term>
+                                tels que seroient des <term type="gT" ref="#pilastre"
+                                    ana="#ipilastre">pilastre</term> on les compte pour <term
+                                    type="gT" ref="#saillie">saillies</term> d’<term type="gT"
+                                    ref="#architecture">architecture</term> dont la manière de les
+                                    <term type="gT" ref="#toiser">toiser</term> en sera expliqué cy
+                                après au chapitre des <term type="gT" ref="#saillie">saillies</term>
+                                d’architecture.</p>
+                        </div>
+                        <div type="number" n="16">
+                            <label>16°.</label>
+                            <p xml:id="t9BodyFr01.03.p016">À quelque <term type="gT" ref="#mur"
+                                    >mur</term> que ce soit l’on <term type="gT" ref="#toiser"
+                                    >toise</term> leur <term type="gT" ref="#hauteur">hauteur</term>
+                                depuis l’<term type="gT" ref="#arête"><choice>
+                                        <orig>arreste</orig>
+                                        <reg>arête</reg>
+                                    </choice></term> du lit de dessous de leur dernière <term
+                                    type="gT" ref="#assise">assise</term> du haut<ref
+                                    type="noteCritical" target="#t9Nc0006"/>, et l’on ne compte
+                                points la <term type="gT" ref="#demiFace">demi face</term> du dessus
+                                quand même le dessus feroit <term type="gT" ref="#parement"
+                                    >parement</term> tant en <term type="gT" ref="#pierreDeTaille"
+                                    >pierre de taille</term> qu’un moillon ou enduit de <term
+                                    type="gT" ref="#platre">plastre</term>.</p>
+                        </div>
+                        <div type="number" n="17">
+                            <label>17°.</label>
+                            <p xml:id="t9BodyFr01.03.p017">Aux <term type="gT" ref="#mur"
+                                    >murs</term> en <term type="gT" ref="#elevation"
+                                    >élévation</term> au dessus du <term type="gT"
+                                    ref="#rezDeChaussee">rez de chaussée</term> l’on compte leur
+                                épaisseur au <term type="gT" ref="#nu"><choice>
+                                        <orig>nud</orig>
+                                        <reg>nu</reg>
+                                    </choice></term> au dessus des retraittes, et la <term type="gT"
+                                    ref="#saillie">saillie</term> des retraittes ne se compte point
+                                lorsque les <term type="gT" ref="#assise">assises</term> du bas qui
+                                forment les retraittes sont de la même matière et qualité que
+                                    le<term type="gT" ref="#corps">corps</term> du <term type="gT"
+                                    ref="#nuDuMur"><choice>
+                                        <orig>nud du mur</orig>
+                                        <reg>nu du mur</reg>
+                                    </choice></term> au dessus. Mais si les <term type="gT"
+                                    ref="#assise">assises</term> du bas qui forment les retraittes
+                                sont de <term type="gT" ref="#pierreDeTaille">pierre de
+                                    taille</term> d’une autre qualité que la construction du <term
+                                    type="gT" ref="#mur">mur</term> au dessus on les <term type="gT"
+                                    ref="#toiser">toise</term> séparément chacun de leur épaisseur
+                                qu’ils ont ainsi qu’il a été dit cy devant.</p>
+                        </div>
+                        <div type="number" n="18">
+                            <label>18°.</label>
+                            <p xml:id="t9BodyFr01.03.p018">Les <term type="gT" ref="#mur"
+                                    >murs</term> en fondation se <term type="gT" ref="#toiser"
+                                    >toisent</term> comme les autres <pb xml:id="t9P15" n="p15"/>
+                                <fw type="pageNum">15</fw> depuis l’<term type="gT" ref="#arête"><choice>
+                                        <orig>arreste</orig>
+                                        <reg>arête</reg>
+                                    </choice></term> du lits de dessous de la première <term
+                                    type="gT" ref="#assise">assise</term> du bas qui pose sur le
+                                terrain jusqu’au <term type="gT" ref="#rezDeChaussee">rez de
+                                    chaussée</term> à l’endroit où forme les retraittes que l’on
+                                nomme enpattemens, sur lesquels on érige les <term type="gT"
+                                    ref="#mur">murs</term> en fondation.</p>
+                        </div>
+                        <div type="number" n="19">
+                            <label>19°.</label>
+                            <p xml:id="t9BodyFr01.03.p019">S’il y a des <term type="gT" ref="#voute"
+                                    >voûtes</term> portées sur les <term type="gT" ref="#mur"
+                                    >murs</term> en fondation on compte les <term type="gT"
+                                    ref="#mur">murs</term> passés au travers des <term type="gT"
+                                    ref="#voute">voûtes</term> et des reins jusqu’à la retraitte de
+                                leur empattement de la même épaisseur qu’ils <sic>onts</sic> au
+                                dessous de la <term type="gT" ref="#naissance">naissance</term> des
+                                    <term type="gT" ref="#voute">voûtes</term>, mais on ne compte
+                                point ces <term type="gT" ref="#mur">murs</term> dans la <term
+                                    type="gT" ref="#hauteur">hauteur</term> des <term type="gT"
+                                    ref="#voute">voûtes</term> et des reins de la même qualité que
+                                le bas parce que leur partie du haut n’a point de <term type="gT"
+                                    ref="#parement">parement</term>
+                                <sic>ets</sic> n’est pas construite avec les même <term type="gT"
+                                    ref="#materiau">matériaux</term>, et si on les réduit au même
+                                prix dans toute la <term type="gT" ref="#hauteur">hauteur</term>
+                                l’on fait compensation de la valeur de la partie du bas avec la
+                                valeur de la partie du haut.</p>
+                        </div>
+                        <div type="number" n="20">
+                            <label>20.</label>
+                            <p xml:id="t9BodyFr01.03.p020">La même chose se pratique à l’égard des
+                                    <term type="gT" ref="#contremur">contremurs</term> qui
+                                soutiennent les <term type="gT" ref="#voute">voûtes</term>, on
+                                compte les <term type="gT" ref="#contremur">contremurs</term> passés
+                                de leur épaisseur jusqu’au dessus du remplissage des reins des <term
+                                    type="gT" ref="#voute">voûtes</term>.</p>
+                        </div>
+                        <div type="number" n="21">
+                            <label>21.</label>
+                            <p xml:id="t9BodyFr01.03.p021">Les <term type="gT" ref="#assise"
+                                    >assises</term> de <term type="gT" ref="#pierreDeTaille">pierre
+                                    de taille</term> que l’on nomme parpins sous les <term type="gT"
+                                    ref="#cloison" ana="#icloison">cloisons</term> ou <term
+                                    type="gT" ref="#panDeBois" ana="#ipanDeBois">pans de bois</term>
+                                de <term type="gT" ref="#charpente" ana="#icharpente"
+                                    >charpente</term>, se <term type="gT" ref="#toiser"
+                                    >toisent</term> quelquefois à la <term type="gT"
+                                    ref="#toiseCourante">toise courante</term>, mais comme il y a
+                                des <term type="gT" ref="#assise">assises</term> de différentes
+                                    <term type="gT" ref="#hauteur">hauteurs</term>, il est plus
+                                juste de les réduire à la <term type="gT" ref="#toiseSuperficielle"
+                                    >toise superficielle</term>, de quelque manière qu’on les <term
+                                    type="gT" ref="#toiser">toise</term>, s’il s’y rencontre des
+                                    <term type="gT" ref="#porte">portes</term> garnies de seuils de
+                                    <term type="gT" ref="#pierre">pierre</term> l’on <term type="gT"
+                                    ref="#toiser">toise</term> l’endroit des portez tant plein dans
+                                la <term type="gT" ref="#hauteur">hauteur</term> de la 1<hi
+                                    rend="superscript">ère</hi>
+                                <term type="gT" ref="#assise">assise</term>, et s’il y a plusieurs
+                                    <term type="gT" ref="#assise">assises</term> l’une sur l’autre,
+                                on rabat les vuides des <term type="gT" ref="#porte">portes</term>
+                                moins les <term type="gT" ref="#demiFace">demi faces</term> des
+                                tableaux aux autres <term type="gT" ref="#assise">assises</term> au
+                                dessus de la première. </p>
+                        </div>
+                        <pb xml:id="t9P16" n="p16"/>
+                        <fw type="pageNum">16</fw>
+                        <div type="number" n="22">
+                            <label>22.</label>
+                            <p xml:id="t9BodyFr01.03.p022">Lorsque l’on construit un <term type="gT"
+                                    ref="#mur">mur</term> neuf aboutissant contre un vieux <term
+                                    type="gT" ref="#mur">mur</term> la tranchée qui se fait dans les
+                                vieux <term type="gT" ref="#mur">mur</term> pour y liaisonner le
+                                    <term type="gT" ref="#mur">mur</term> neuf se compte pour un
+                                demi pied de <term type="gT" ref="#longueur">longueur</term> sur
+                                toute la <term type="gT" ref="#hauteur">hauteur</term> de la
+                                tranchée dans le <term type="gT" ref="#toise">toisé</term> du <term
+                                    type="gT" ref="#mur">mur</term> neuf, dans lequel 1/2. pied de
+                                long pour la liaison sont compris, les enduits et raccordemens faits
+                                aux vieux <term type="gT" ref="#mur">murs</term> aux deux côtés du
+                                    <term type="gT" ref="#mur">mur</term> neuf.</p>
+                        </div>
+                        <div type="number" n="23">
+                            <label>23.</label>
+                            <p xml:id="t9BodyFr01.03.p023">L’on compte pareillement un demi pied de
+                                    <term type="gT" ref="#longueur">longueur</term> pour les
+                                liaisons des <term type="gT" ref="#assise">assises</term> de parpin
+                                de <term type="gT" ref="#pierreDeTaille">pierre de taille</term>, <subst>
+                                    <add rend="overWriting">et des <term type="gT" ref="#voute"
+                                            >voûtes</term> neuves</add>
+                                </subst> dans les vieux <term type="gT" ref="#mur">murs</term>.</p>
+                        </div>
+                        <div type="number" n="24">
+                            <label>24.</label>
+                            <p xml:id="t9BodyFr01.03.p024">Pour le <term type="gT" ref="#toise"
+                                    >toisé</term> superficiel des <term type="gT" ref="#marche"
+                                    >marches</term> de <term type="gT" ref="#pierreDeTaille">pierre
+                                    de tailles</term>, l’on mesure leur <term type="gT"
+                                    ref="#longueur">longueur</term> sur leur pourtour de ce qui est
+                                apparent de la <term type="gT" ref="#largeur">largeur</term> de leur
+                                    <term type="gT" ref="#giron">giron</term>, et la <term type="gT"
+                                    ref="#hauteur">hauteur</term> de leur colet<ref
+                                    type="noteCritical" target="#t9Nc0007"/>, et l’on compte à part
+                                le <term type="gT" ref="#massif">massif</term> de <term type="gT"
+                                    ref="#maconnerie" ana="#imaconnerie">maçonnerie</term> qui porte
+                                les <term type="gT" ref="#marche">marches</term>.</p>
+                        </div>
                     </div>
                     <div xml:id="t9BodyFr01.04" type="chapter" n="4">
                         <head rend="alignCenter">
@@ -1478,7 +1601,9 @@
                                     <orig>bayes</orig>
                                     <reg>baies</reg>
                                 </choice></term></head>
-                        <p xml:id="t9BodyFr01.04.p001">1. Lorsqu’il y a des <term type="gT"
+                        <div type="number" n="1">
+                            <label>1.</label>
+                            <p xml:id="t9BodyFr01.04.p001">Lorsqu’il y a des <term type="gT"
                                 ref="#baie"><choice>
                                     <orig>bayes</orig>
                                     <reg>baies</reg>
@@ -1542,8 +1667,9 @@
                                 ref="#baie"><choice>
                                     <orig>bayes</orig>
                                     <reg>baies</reg>
-                                </choice></term>.</p>
-                        <p xml:id="t9BodyFr01.04.p002">2°. Quand il n’y a point de <term type="gT"
+                                </choice></term>.</p></div>
+                        <div type="number" n="2">
+                            <label>2°.</label><p xml:id="t9BodyFr01.04.p002">Quand il n’y a point de <term type="gT"
                                 ref="#porte">portes</term> n’y de <term type="gT" ref="#croisee"
                                 >croisées</term> de <term type="gT" ref="#menuiserie"
                                 >menuiserie</term>, et qu’à leur place il y a des grillages et des
@@ -1552,8 +1678,9 @@
                                 <term type="gT" ref="#baie"><choice>
                                     <orig>bayes</orig>
                                     <reg>baies</reg>
-                                </choice></term>.</p>
-                        <p xml:id="t9BodyFr01.04.p003">3°. Mais s’il n’y a des <term type="gT"
+                                </choice></term>.</p></div>
+                        <div type="number" n="3">
+                            <label>3°.</label><p xml:id="t9BodyFr01.04.p003">Mais s’il n’y a des <term type="gT"
                                 ref="#porte">portes</term> et des <term type="gT" ref="#croisee"
                                 >croisées</term> de <term type="gT" ref="#menuiserie"
                                 >menuiserie</term>, et outre ce des <term type="gT" ref="#grille"
@@ -1561,8 +1688,9 @@
                                 <term type="gT" ref="#fer">fer</term> l’on compte à parts le
                             scellement des <term type="gT" ref="#grille">grilles</term> et <term
                                 type="gT" ref="#barreau">barreaux</term> de <term type="gT"
-                                ref="#fer">fer</term> pour ce qu’ils sont.</p>
-                        <p xml:id="t9BodyFr01.04.p004">4°. Aux <term type="gT" ref="#baie"><choice>
+                                ref="#fer">fer</term> pour ce qu’ils sont.</p></div>
+                        <div type="number" n="4">
+                            <label>4°.</label><p xml:id="t9BodyFr01.04.p004">Aux <term type="gT" ref="#baie"><choice>
                                     <orig>bayes</orig>
                                     <reg>baies</reg>
                                 </choice></term> des <term type="gT" ref="#porte">portes</term> ou
@@ -1616,10 +1744,11 @@
                                     <reg>baies</reg>
                                 </choice></term> en <term type="gT" ref="#plattebande"
                                 >plattebandes</term> on rabat le vuide en 6 pieds 1/2 de haut sur 2
-                            pieds 1/2 de large.</p>
+                            pieds 1/2 de large.</p></div>
                         <pb xml:id="t9P18" n="p18"/>
                         <fw type="pageNum">18</fw>
-                        <p xml:id="t9BodyFr01.04.p005">5° Dans le cas précédents, si l’aire des
+                        <div type="number" n="5">
+                            <label>5°</label><p xml:id="t9BodyFr01.04.p005">Dans le cas précédents, si l’aire des
                                 <term type="gT" ref="#plancher" ana="#iplancher">plancher</term>
                             passoit au lieu de seuil aux <term type="gT" ref="#baie"><choice>
                                     <orig>bayes</orig>
@@ -1653,8 +1782,9 @@
                                 ref="#baie"><choice>
                                     <orig>bayes</orig>
                                     <reg>baies</reg>
-                                </choice></term> comme si elles étoient pleines .</p>
-                        <p xml:id="t9BodyFr01.04.p006">6° Aux grandes <term type="gT" ref="#baie"><choice>
+                                </choice></term> comme si elles étoient pleines .</p></div>
+                        <div type="number" n="6">
+                            <label>6°</label><p xml:id="t9BodyFr01.04.p006">Aux grandes <term type="gT" ref="#baie"><choice>
                                     <orig>bayes</orig>
                                     <reg>baies</reg>
                                 </choice></term> de <term type="gT" ref="#porteCochere">porte
@@ -1674,8 +1804,9 @@
                             compte le seuil ou l’<term type="gT" ref="#appui">appui</term> à part à
                             sa valeur comme aussi les scellemens des <term type="gT" ref="#gond"
                                 >gonds</term>, gâches et autres faits dans la <term type="gT"
-                                ref="#hauteur">hauteur</term> du vuide rabattu.</p>
-                        <p xml:id="t9BodyFr01.04.p007">7° Lorsque les <term type="gT"
+                                ref="#hauteur">hauteur</term> du vuide rabattu.</p></div>
+                        <div type="number" n="7">
+                            <label>7°</label><p xml:id="t9BodyFr01.04.p007">Lorsque les <term type="gT"
                                 ref="#piedroit"><choice>
                                     <orig>pieds droits</orig>
                                     <reg>piédroits</reg>
@@ -1696,18 +1827,20 @@
                                     <orig>pieds droits</orig>
                                     <reg>piédroits</reg>
                                 </choice></term>, et l’on compte à part le recouvrement des <term
-                                type="gT" ref="#linteau">linteaux</term> pour ce qu’ils sont.</p>
-                        <p xml:id="t9BodyFr01.04.p008">8°. Dans tous les cas où l’on rabat le vuide
+                                type="gT" ref="#linteau">linteaux</term> pour ce qu’ils sont.</p></div>
+                        <div type="number" n="8">
+                            <label>8°.</label><p xml:id="t9BodyFr01.04.p008">Dans tous les cas où l’on rabat le vuide
                             des <term type="gT" ref="#baie"><choice>
                                     <orig>bayes</orig>
                                     <reg>baies</reg>
                                 </choice></term> l’on compte les scellemens des <term type="gT"
                                 ref="#porte">portes</term> et des <term type="gT" ref="#croisee"
                                 >croisées</term> et autres scellemens faits dans l’espace des vuides
-                            qui ont été rabattus. </p>
+                            qui ont été rabattus. </p></div>
                         <pb xml:id="t9P19" n="p19"/>
                         <fw type="pageNum">19</fw>
-                        <p xml:id="t9BodyFr01.04.p009">9. Les <term type="gT" ref="#baie"><choice>
+                        <div type="number" n="9">
+                            <label>9.</label><p xml:id="t9BodyFr01.04.p009">Les <term type="gT" ref="#baie"><choice>
                                     <orig>bayes</orig>
                                     <reg>baies</reg>
                                 </choice></term> de <term type="gT" ref="#porte">portes</term> ou
@@ -1736,8 +1869,9 @@
                                 >claveaux</term> en <term type="gT" ref="#pierre">pierre</term> ou
                             en moilon ny pour leurs seuils ou <term type="gT" ref="#appui"
                                 >appuis</term> de <term type="gT" ref="#pierreDeTaille">pierre de
-                                taille</term>.</p>
-                        <p xml:id="t9BodyFr01.04.p010">10. Aux <term type="gT" ref="#ouverture"
+                                taille</term>.</p></div>
+                        <div type="number" n="10">
+                            <label>10.</label><p xml:id="t9BodyFr01.04.p010">Aux <term type="gT" ref="#ouverture"
                                 >ouvertures</term> des <term type="gT" ref="#baie"><choice>
                                     <orig>bayes</orig>
                                     <reg>baies</reg>
@@ -1772,8 +1906,9 @@
                                     <orig>bayes</orig>
                                     <reg>baies</reg>
                                 </choice></term> ordinaires faites en construisant les <term
-                                type="gT" ref="#mur">murs</term>.</p>
-                        <p xml:id="t9BodyFr01.04.p011">11 . Lorsqu’aux percemens des <term type="gT"
+                                type="gT" ref="#mur">murs</term>.</p></div>
+                        <div type="number" n="11">
+                            <label>11.</label><p xml:id="t9BodyFr01.04.p011">Lorsqu’aux percemens des <term type="gT"
                                 ref="#baie"><choice>
                                     <orig>bayes</orig>
                                     <reg>baies</reg>
@@ -1805,10 +1940,11 @@
                                 </choice></term> comme aux <term type="gT" ref="#mur">murs</term>
                             neufs, et l’on estime ces <term type="gT" ref="#mur">murs</term> en
                             percemens fait au prix <term type="gT" ref="#proportionner"
-                                >proportionné</term> à la dépense. </p>
+                                >proportionné</term> à la dépense. </p></div>
                         <pb xml:id="t9P20" n="p20"/>
                         <fw type="pageNum">20</fw>
-                        <p xml:id="t9BodyFr01.04.p012">12. Les <term type="gT" ref="#lucarne"
+                        <div type="number" n="12">
+                            <label>12.</label><p xml:id="t9BodyFr01.04.p012">Les <term type="gT" ref="#lucarne"
                                 ana="#ilucarnes">lucarne</term> de <term type="gT"
                                 ref="#pierreDeTaille">pierre de taille</term> ou de <term type="gT"
                                 ref="#maconnerie" ana="#imaconnerie">maçonnerie</term> se <term
@@ -1835,8 +1971,9 @@
                                 d’<term type="gT" ref="#architecture">architecture</term> se <term
                                 type="gT" ref="#toiser">toisent</term> à part à moins qu’il ne soit
                             autrement expliqué par un <term type="gJ" ref="#marche"
-                            >marché</term>.</p>
-                        <p xml:id="t9BodyFr01.04.p013">13. Aux <term type="gT" ref="#mur"
+                            >marché</term>.</p></div>
+                        <div type="number" n="13">
+                            <label>13.</label><p xml:id="t9BodyFr01.04.p013">Aux <term type="gT" ref="#mur"
                                 >murs</term> en fondation ou en <term type="gT" ref="#elevation"
                                 >élévation</term> lorsqu’il y a des soupiraux, l’on compte les <term
                                 type="gT" ref="#mur">murs</term> pleins sans rien augmenter pour les
@@ -1852,8 +1989,9 @@
                             augmente en plus valeur le tems que les tailleurs de <term type="gT"
                                 ref="#pierre">pierre</term> ont employé à percer les vuide des
                             soupiraux dans ces <term type="gT" ref="#assise">assises</term> de <term
-                                type="gT" ref="#pierre">pierre</term> seulement.</p>
-                        <p xml:id="t9BodyFr01.04.p014">14. Les tuyaux de <term type="gT"
+                                type="gT" ref="#pierre">pierre</term> seulement.</p></div>
+                        <div type="number" n="14">
+                            <label>14.</label><p xml:id="t9BodyFr01.04.p014">Les tuyaux de <term type="gT"
                                 ref="#cheminee" ana="#icheminee">cheminée</term> passants dans le
                                 <term type="gT" ref="#corps">corps</term> des <term type="gT"
                                 ref="#mur">murs</term>, sont compris sans plus valeur dans le <term
@@ -1864,8 +2002,9 @@
                                 type="gT" ref="#platre">plastre</term> pigeonné si le <term
                                 type="gT" ref="#mur">mur</term> est de moilon, et l’on ne <term
                                 type="gT" ref="#toiser">toise</term> de tuyaux que ce qui excède
-                            l’épaisseur du <term type="gT" ref="#mur">mur</term>. </p>
-                        <p xml:id="t9BodyFr01.04.p015">15. Mais quand les <term type="gT" ref="#mur"
+                            l’épaisseur du <term type="gT" ref="#mur">mur</term>.</p></div>
+                        <div type="number" n="15">
+                            <label>15.</label><p xml:id="t9BodyFr01.04.p015">Mais quand les <term type="gT" ref="#mur"
                                 >murs</term> sont de <term type="gT" ref="#pierre">pierre</term> de
                             taile ou de moilon, et les languettes de <term type="gT" ref="#brique"
                                 >briques</term>, l’on <term type="gT" ref="#toiser">toise</term> les
@@ -1874,7 +2013,7 @@
                                 type="gT" ref="#largeur">largeur</term> et la <term type="gT"
                                 ref="#hauteur">hauteur</term> de ce qui est compté en languettes de
                                 <term type="gT" ref="#brique">briques</term><ref type="noteCritical"
-                                target="#t9Nc0011"/>. </p>
+                                target="#t9Nc0011"/>.</p></div>
                     </div>
                     <pb xml:id="t9P21" n="p21"/>
                     <fw type="pageNum">21</fw>
@@ -1883,7 +2022,8 @@
                             <label><num>Chapitre 5.</num></label>
                             <lb/>Toisé des <term type="gT" ref="#puits" ana="#ipuits"
                             >puits</term></head>
-                        <p xml:id="t9BodyFr01.05.p001">1. Les <term type="gT" ref="#puits"
+                        <div type="number" n="1">
+                            <label>1.</label><p xml:id="t9BodyFr01.05.p001">Les <term type="gT" ref="#puits"
                                 ana="#ipuits">puits</term> se <term type="gT" ref="#toiser"
                                 >toisent</term> ordinairement sur leur <term type="gT"
                                 ref="#hauteur">hauteur</term> prise depuis l’arrest de dessous le
@@ -1891,21 +2031,24 @@
                                     <orig>arreste</orig>
                                     <reg>arête</reg>
                                 </choice></term> du dessus de la mardelle sans y compter 2 <term
-                                type="gT" ref="#demiFace">demi faces</term> au dessus.</p>
-                        <p xml:id="t9BodyFr01.05.p002">2. Le rouet du fond du <term type="gT"
+                                type="gT" ref="#demiFace">demi faces</term> au dessus.</p></div>
+                        <div type="number" n="2">
+                            <label>2.</label><p xml:id="t9BodyFr01.05.p002">Le rouet du fond du <term type="gT"
                                 ref="#puits">puits</term> se paye toujours à part au <term type="gT"
                                 ref="#charpentier" ana="#icharpentier">charpentier</term> qui le
                             fournit, quoique son éppaisseur soit comprise dans le <term type="gT"
                                 ref="#toise">toisé</term> de la <term type="gT" ref="#maconnerie"
-                                ana="#imaconnerie">maçonnerie</term>.</p>
-                        <p xml:id="t9BodyFr01.05.p003">3. Les <term type="gT" ref="#puits"
+                                ana="#imaconnerie">maçonnerie</term>.</p></div>
+                        <div type="number" n="3">
+                            <label>3.</label><p xml:id="t9BodyFr01.05.p003">Les <term type="gT" ref="#puits"
                                 ana="#ipuits">puits</term> sont quelquefois comptés et estimés à la
                                 <term type="gT" ref="#toiseCourante">toise courante</term> de leur
                                 <term type="gT" ref="#hauteur">hauteur</term> tout compris le fort
                             au faible des <term type="gT" ref="#mur">murs</term>, tant en <term
                                 type="gT" ref="#pierre">pierre</term> de taille qu’en moilon, la
-                            fouille l’enfoncement et l’épuisement des eaux.</p>
-                        <p xml:id="t9BodyFr01.05.p004">4. Lorsque l’on <term type="gT" ref="#toiser"
+                            fouille l’enfoncement et l’épuisement des eaux.</p></div>
+                        <div type="number" n="4">
+                            <label>4.</label><p xml:id="t9BodyFr01.05.p004">Lorsque l’on <term type="gT" ref="#toiser"
                                 >toise</term> les <term type="gT" ref="#mur">murs</term> des <term
                                 type="gT" ref="#puits" ana="#ipuits">puits</term> à la <term
                                 type="gT" ref="#toiseSuperficielle">toise superficielle</term> l’on
@@ -1915,8 +2058,9 @@
                                     <orig>arreste</orig>
                                     <reg>arête</reg>
                                 </choice></term> du dessus de la mardelle, et leur pourtour pris par
-                            le milieu de l’épaisseur du <term type="gT" ref="#mur">mur</term>.</p>
-                        <p xml:id="t9BodyFr01.05.p005">5. Pour avoir le pourtour du <term type="gT"
+                            le milieu de l’épaisseur du <term type="gT" ref="#mur">mur</term>.</p></div>
+                        <div type="number" n="5">
+                            <label>5.</label><p xml:id="t9BodyFr01.05.p005">Pour avoir le pourtour du <term type="gT"
                                 ref="#mur">mur</term> d’un <term type="gT" ref="#puits">puits</term>
                             ou d’une <term type="gT" ref="#tourRonde">tour ronde</term>, s’il est
                                 <term type="gT" ref="#circulaire">circulaire</term> on prend son
@@ -1933,16 +2077,18 @@
                             ajoute une épaisseur de <term type="gT" ref="#mur">mur</term> et le
                             multiplie de même par 3 1/7. Le produit est la <term type="gT"
                                 ref="#circonference">circonférence</term> du <term type="gT"
-                                ref="#mur">mur</term> prise par le milieu de son épaisseur.</p>
-                        <p xml:id="t9BodyFr01.05.p006">6. L’on confond dans le <term type="gT"
+                                ref="#mur">mur</term> prise par le milieu de son épaisseur.</p></div>
+                        <div type="number" n="6">
+                            <label>6.</label><p xml:id="t9BodyFr01.05.p006">L’on confond dans le <term type="gT"
                                 ref="#toise">toisé</term> des <term type="gT" ref="#mur">murs</term>
                             des <term type="gT" ref="#puits" ana="#ipuits">puits</term> la <term
                                 type="gT" ref="#pierreDeTaille">pierre de taille</term>, le moilon
                             et les mardelle du haut, l’on y met le prix à proportion de la dépense y
                             compris la fouille et l’enfoncement <pb xml:id="t9P22" n="p22"/>
                             <fw type="pageNum">22</fw> et l’épuisement des eaux pour l’enfoncer sans
-                            y compter aucune plus valeur.</p>
-                        <p xml:id="t9BodyFr01.05.p007">7. Ce n’est pas que l’on <add place="above"
+                            y compter aucune plus valeur.</p></div>
+                        <div type="number" n="7">
+                            <label>7.</label><p xml:id="t9BodyFr01.05.p007">Ce n’est pas que l’on <add place="above"
                                 >ne</add> puisse compter séparément ce qui est en <term type="gT"
                                 ref="#pierreDeTaille">pierre de taille</term>, ce qui est en moilon,
                             et la valeur de la mardelle, <term type="gT" ref="#toiser">toiser</term>
@@ -1951,8 +2097,9 @@
                                 >assises</term> de <term type="gT" ref="#pierre">pierre</term> du
                             fond, ce qui reviendroit au même puisqu’il faut faire attention à
                             touttes choses, quand on les confond dans le seul prix du <term
-                                type="gT" ref="#mur">mur</term>. </p>
-                        <p xml:id="t9BodyFr01.05.p008">8. Quand par un <term type="gJ" ref="#marche"
+                                type="gT" ref="#mur">mur</term>. </p></div>
+                        <div type="number" n="8">
+                            <label>8.</label><p xml:id="t9BodyFr01.05.p008">Quand par un <term type="gJ" ref="#marche"
                                 >marché</term> pour la construction d’un bâtiment il est stipulé (ce
                             qui se fait rarement) que tous les <term type="gT" ref="#mur"
                                 >murs</term> de quelque nature et épaisseur qu’ils soient seront
@@ -1973,8 +2120,9 @@
                             fouillée et enlevée dans le vuide du puit comme celle du vuide des <term
                                 type="gT" ref="#cave" ana="#icave">caves</term>, et l’on paye à part
                             l’épuisement des eaux pour l’enfoncement des <term type="gT"
-                                ref="#puits" ana="#ipuits">puits</term>.</p>
-                        <p xml:id="t9BodyFr01.05.p009">9. De quelque manière que l’on <term
+                                ref="#puits" ana="#ipuits">puits</term>.</p></div>
+                        <div type="number" n="9">
+                            <label>9.</label><p xml:id="t9BodyFr01.05.p009">De quelque manière que l’on <term
                                 type="gT" ref="#toiser">toise</term> les <term type="gT"
                                 ref="#puits" ana="#ipuits">puits</term> l’encadrement et le
                             scellement des <term type="gT" ref="#crampon"><choice>
@@ -1982,7 +2130,7 @@
                                     <reg>crampons</reg>
                                 </choice></term> de <term type="gT" ref="#fer">fer</term> qui lient
                             et retiennent les <term type="gT" ref="#pierre">pierres</term> ensemble
-                            ne se comptent point.</p>
+                            ne se comptent point.</p></div>
                     </div>
                     <pb xml:id="t9P23" n="p23"/>
                     <fw type="pageNum">23</fw>
