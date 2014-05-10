@@ -969,7 +969,7 @@
                                         dimension par 216 pour avoir au quotient le nombre de toises
                                         cubes que contient le solide proposé</add>
                                 </subst>.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <p>15 pieds 6 <subst hand="#t4Hand1">
                                     <del>pouces</del>
                                     <add>pieds</add>
@@ -1008,7 +1008,7 @@
                                     par <hi rend="underline">144</hi>. quarré de <hi
                                         rend="underline">12</hi>. on trouve au quotient le même
                                     produit qu’auparavant.</p>
-                                <head>Exemple</head>
+                                <label>Exemple</label>
                                 <p>
                                     <hi rend="underline">15</hi>. pieds. <hi rend="underline">6</hi>
                                     pouces. <hi rend="underline">8</hi> pouces</p>
@@ -1021,6 +1021,7 @@
                                 </p>
                                 <p>000 [accolade]<!-- TODO accolade --> 5. Pieds cubes.</p>
                             </delSpan>
+                            <!-- TOD pb conformité, + voir affichage -->
                         </div>
                         <div type="number" n="8">
                             <label>8.</label>
@@ -1418,7 +1419,7 @@
                                 celui d’aplomb, multiplier ce demi diamettre proportionnel par 3 et
                                 ¼ le produit sera la circonférence, ou pourtour du ceintre
                                 ovale.</p>
-                            <head rend="alignCenter">Exemple d’une voûte surmontée</head>
+                            <label rend="alignCenter">Exemple d’une voûte surmontée</label>
                             <p>Le diamettre de niveau étant 14 pieds ; et la hauteur ou montée de la
                                 voûte étant 9 pieds, le demi diamettre moïene proportionnelle entre
                                 7 pieds et le demi diamettre de la largeur et la hauteur de 9 pieds,
@@ -1427,7 +1428,7 @@
                                 ajoutée à 3 fois le demi diamettre proportionnel, font ensemble 24
                                 pieds 11 pouces 4 lignes ½ pour le pourtour ou la circonférence de
                                 la voute.</p>
-                            <head rend="alignCenter">Exemple d’une voûte surbaissée</head>
+                            <label rend="alignCenter">Exemple d’une voûte surbaissée</label>
                             <p>Sur 5 pieds de hauteur et 14 pieds de largeur, le demi diamettre
                                 moïenne proportionnelle dans la hauteur de 5 pieds, et 7 pieds
                                 moitié de la largeur, est de 5 pieds 11 pouces, dont la 7 partie est
@@ -1450,7 +1451,7 @@
                                 somme sera le demi diamettre, moïenne arithmétique entre les deux, y
                                 ajoutant la 7<hi rend="superscript">e</hi> partie de ce diamettre
                                 moïen, le tout ensemble sera la circonférence de la voute.</p>
-                            <head rend="alignCenter">Exemple pour une voute surmontée</head>
+                            <label rend="alignCenter">Exemple pour une voute surmontée</label>
                             <p>Le demi diamettre de la longueur étant 7 pieds, et la hauteur 9
                                 pieds, lesquels étant joints avec le demi diamettre, moïenne
                                 arithmétique, qui est de 8 pieds dont la 7<hi rend="superscript"
@@ -1467,11 +1468,11 @@
                                 </choice> ½. Ce qui est 2 pouces, 4 lignes de plus que sa juste
                                 mesure géométrique, différence peu considérable en comparaison de la
                                 facilité de l’opération cy rapportée.</p>
-                            <head rend="alignCenter">
+                            <label rend="alignCenter">
                                 <choice>
                                     <abbr>Exēmple</abbr>
                                     <expan>Exemple</expan>
-                                </choice> pour une voute surbaissée</head>
+                                </choice> pour une voute surbaissée</label>
                             <p>À 5 pieds de hauteur sur le même demi diamettre de 7 pieds moitié de
                                 la largeur, le demi diamettre moïenne arithmétique sera de 6 pieds
                                 dont la 7<hi rend="superscript">e</hi> partie est 10 pouces, 3
@@ -1529,7 +1530,7 @@
                                     plan rectangle, c’est à dire plus long d’un sens que de l’autre
                                     à angle droit, il faut toujours multiplier le pourtour de la
                                     voute par le côté du rectangle.</p>
-                                <head rend="alignCenter">Exemple</head>
+                                <label rend="alignCenter">Exemple</label>
                                 <p>La longueur du rectangle étant 18 pieds, le petit côté 14 pieds
                                     servant de diamettre à la voûte laquelle étant en plein ceintre
                                     auroit 7 pieds de hauteur et 22 pieds de circonférence, qui
@@ -1720,7 +1721,7 @@
                                     leur circonférence, prendre le quart du restant, l’ajoûter au
                                     même diamettre, en multipliant la somme par le côté du quarré,
                                     le produit sera la superficie de la voute d’arrête</p>
-                                <head rend="alignCenter">Exemple</head>
+                                <label rend="alignCenter">Exemple</label>
                                 <p>Pour les voûtes en plein ceintre sur un plan quarré, ôtant le
                                     diamettre 14 pieds de la circonférence 22 pieds, il reste 8
                                     pieds, dont le quart est 2 pieds, étant ajouté au diamettre 14
@@ -1771,7 +1772,7 @@
                                     prendre le quart du restant, et l’ajoûter au moïen diamettre, en
                                     multipliant la somme par le moïen diamettre seul, le produit
                                     sera la superficie de la voûte</p>
-                                <head rend="alignCenter">Exemple</head>
+                                <label rend="alignCenter">Exemple</label>
                                 <p>Le grand côté du rectangle étant de 18 pieds, le petit côté de 14
                                     pieds, et la hauteur ou montée de la voûte de 7 pieds, le
                                     diamettre moïen proportionnel entre le grand et le <pb
@@ -1806,7 +1807,7 @@
                                     comme il est expliqué cy dessus, et les portions de ces voutes
                                     qui sont entre les épaisseurs et faces des pilliers et
                                     dosserets, comme voutes en berceau.</p>
-                                <head rend="alignCenter">Exemple</head>
+                                <label rend="alignCenter">Exemple</label>
                                 <p> Aux voûtes d’arrête a, b, c, d de la figure suivante posées sur
                                     le pillier i et les dosserets a, e, b, f, c, g, d, h. supposant
                                     ces voutes être en plein ceintre, les distances entre les
@@ -1897,7 +1898,7 @@
                                 naissance au point du milieu de l’un des côtés du quarré du plan de
                                 la voûte : quatre fois le quarré de cette <sic>ligné</sic> sera la
                                 superficie de la voute de cloitre.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <p>Le diamettre ou côté du quarré du plan de la voûte étant de 14 pieds
                                 et sa hauteur ou montée de 7 pieds, la ligne menée du sommet de la
                                 voûte à sa naissance du bas qui est la même chose, la moitié de la
@@ -1920,7 +1921,7 @@
                                 de cloître en plein ceintre sur un plan quarré est à la superficie
                                 du plan, comme la superficie de la voute sphérique est à la
                                 superficie du cercle de sa base.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <p> Le côté du plan quarré étant 14 pieds, sa superficie sera 196, dont
                                 le double est 392 pieds qui est egalle à la superficie de la voûte
                                 de cloitre en plein ceintre sur ce plan.</p>
@@ -1938,7 +1939,7 @@
                                 du pourtour de la voûte les trois quarts de la différence qui est
                                 entre cette circonférence et son diamettre et les multiplier par le
                                 même diamettre.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <p> Soit une voûte de cloître sur un plan quarré de 14 pieds en plein
                                 ceintre ; la différence entre ce diamettre et la circonférence de 22
                                 pieds, est 8 pieds, dont les <pb xml:id="t4P50" n="p50"/>
@@ -1986,7 +1987,7 @@
                                 quarts de la différence entre le diamettre moïen et la circonférence
                                 moïenne étant ajoutez à cette circonférence et multipliez par le
                                 moïen diamettre, produiront la superficie de la voûte.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <p> Le grand diamettre étant de 18 pieds, le petit de 14 pieds, la
                                 hauteur de la voûte de 7 pieds, le diamettre proportionnel est de 15
                                 pieds, 10 pouces, 6 lignes, et la circonférence de la voûte sur le
@@ -2051,7 +2052,7 @@
                                 plan.</p>
                             <pb xml:id="t4P53" n="p53"/>
                             <fw type="pageNum">53</fw>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <p>Une voute en berceau en plein ceintre sur un plan quarré de 14 pieds
                                 de diamettre contient en superficie 308 pieds dont le double est 616
                                 pieds. La voute d’arrête en plein ceintre sur le même niveau
@@ -2064,7 +2065,7 @@
                                 deux desquelles sont le supplément de ce qui manque aux deux bouts
                                 d’une des portions de la voûte de cloître de même ceintre sur le
                                 même plan, pour en faire une voute en berceau.</p>
-                            <head rend="alignCenter">Autre exemple</head>
+                            <label rend="alignCenter">Autre exemple</label>
                             <p>Aux voûtes de 9 pieds de montée ou hauteur sur le même plan quarré de
                                 14 pieds de diamettre, la superficie de la voûte en berceau contient
                                 349 pieds, 3 pouces, 3 lignes, dont le double est 698 pieds, 6
@@ -2077,7 +2078,7 @@
                                 voûte en berceau.</p>
                             <pb xml:id="t4P54" n="p54"/>
                             <fw type="pageNum">54</fw>
-                            <head rend="alignCenter">Autre exemple</head>
+                            <label rend="alignCenter">Autre exemple</label>
                             <p>La voute en berceau surbaissée de 5 pieds en hauteur sur le même plan
                                 quarré de 14 pieds de diamettre, contient en superficie 260 pieds, 3
                                 pouces, 11 lignes <hi rend="superscript">1</hi>/<hi rend="subscript"
@@ -2093,7 +2094,7 @@
                                 de la voûte d’arrête et de la voûte de cloître ensemble sont egalles
                                 aux deux superficies des voûtes en berceau, l’une sur le grand
                                 diamettre, et l’autre sur le petit, toutes de la même hauteur.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <p>Toutes les voûtes étant de 7 pieds de hauteur de ceintre sur un plan
                                 rectangle de 18 pieds de long sur 14 pied de large, la voute en
                                 berceau sur le diamettre de 14 pieds est de 396 pieds, la voute en
@@ -2168,7 +2169,7 @@
                             <p>Le toisé des voûtes de cloître sur des plans poligones réguliers et
                                 en plein ceintre se fait en doublant le toisé de la superficie du
                                 plan de leur naissance.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <p>À la figure du poligone exagone régulier, c’est à dire, de six côtés
                                 égaux, comme il se voit à la figure cy après a, b, c, d, e, f.
                                 [début de figure 4]</p>
@@ -2187,7 +2188,7 @@
                                 exagone.</p>
                             <pb xml:id="t4P58" n="p58"/>
                             <fw type="pageNum">58</fw>
-                            <head rend="alignCenter">Autre exemple</head>
+                            <label rend="alignCenter">Autre exemple</label>
                             <p>Une voûte de cloître sur un plan octogone a, b, c, d, e, f, g, h dont
                                 le diamettre est de 14 pieds, la circonférence de la voûte en plein
                                 ceintre sera comme cy dessus de 22 pieds, et chacun des cotés de
@@ -2233,7 +2234,7 @@
                             <p><hi rend="bigger">Par</hi> la même règle generalle on aura le toisé
                                 des voûtes de cloître surmontées, ou surbaissées sur des plans
                                 poligones.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <p>Sur la même figure du plan octogone de 14 pieds de diamettre la
                                 hauteur de la voûte étant supposée être de 9 pieds, la circonférence
                                 de son ceintre sera 24 pieds, 11 pouces, 4 lignes ½. La différence
@@ -2243,7 +2244,7 @@
                                 ¾ qu’il faut multiplier par 11 pieds, 7 pouces, qui sont le quart du
                                 pourtour de l’octogone, leur produit sera de 385 pieds ¼ de ligne
                                 pour la superficie de la voûte surmontée. </p>
-                            <head rend="alignCenter">Autre exemple</head>
+                            <label rend="alignCenter">Autre exemple</label>
                             <p>Si la voûte de cloître sur le même plan octogone étoit surbaissée à 5
                                 pieds de hauteur, sa circonférence seroit de 18 pieds, 7 pouces, 1
                                 ligne <hi rend="superscript">2</hi>/<hi rend="subscript">3 </hi>les
@@ -2319,7 +2320,7 @@
                                 de multiplier la circonférence du grand cercle de leurs naissances,
                                 ou plans, par leurs hauteurs, ou demi diamettre, alors leur produit
                                 sera la superficie de la voûte sphérique.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <p>Le diamettre du plan circulaire étant 14 pieds, sa circonférence sera
                                 de 44 pieds, lesquels multipliez par 7 pieds de hauteur, ou demi
                                 diamettre du plan, le produit sera de 308 pieds pour la superficie
@@ -2343,7 +2344,7 @@
                                 sphérique par 3 et <hi rend="superscript">1</hi>/<hi
                                     rend="subscript">7</hi> leur produit sera égal à la superficie
                                 de toute la sphère.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <p>Le diamettre du cercle de la naissance de la voûte étant 14 pieds,
                                 son quarré est de 196 pieds, qui multipliez par 3 et <hi
                                     rend="superscript">1</hi>/<hi rend="subscript">7 </hi>produisent
@@ -2376,7 +2377,7 @@
                                 la circonférence baze, laquelle ligne étant prise pour le demi
                                 diamettre d’un cercle, dont la superficie de ce cercle sera égal à
                                 la superficie du segment sphérique.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <p>La voute sphérique a, c, b, dont le diamettre a, b, <figure
                                     type="figure" copyOf="#t4Fig0007"/> est de 14 pieds étant
                                 supposée tronquée par un plan e, f, dans la moitié de sa hauteur au
@@ -2408,7 +2409,7 @@
                                 cercle, dont leurs hauteurs sera le demi diamettre, la superficie de
                                 ces deux cercles ensemble est egalle à la superficie sphérique du
                                 segment.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <p>À la dernière figure le diamettre e, f, du cercle de la baze du
                                 segment étant de 12 pieds, 1 pouce, 6 lignes, et sa circonférence de
                                 38 pieds, la superficie de ce cercle sera de 115 pieds, 6 pouces,
@@ -2450,7 +2451,7 @@
                                 restant, on l’ajoûte à la même circonférence du ceintre de la voûte
                                 et on les multiplie par le quart de la circonférence du cercle du
                                 plan, leur produit donne la superficie de la voûte.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <p>Le diamettre du plan circulaire de la naissance de la voute sphérique
                                 étant de 14 pieds, la circonférence du ceintre de la voute sera de
                                 22 pieds, de laquelle aïant ôté 14 pieds, il restera 8 pieds dont
@@ -2488,7 +2489,7 @@
                                 ajoûté à la même circonférence, le tout multiplié par le quart de la
                                 circonférence du cercle de la baze produira la superficie de la
                                 voute sphéroïde.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <p>Le diamettre du plan circulaire de la naissance d’une voûte sphéroïde
                                 surmontée étant de 14 pieds, et sa circonférence de 44 pieds ; la
                                 hauteur de la voûte étant supposée de 9 pieds, la circonférence du
@@ -2502,7 +2503,7 @@
                                 qui est le quart de la circonférence du cercle de la baze, leur
                                 produit sera de 360 pieds, 1 pouce 10 lignes ¾ pour la superficie de
                                 la voûte sphéroïde surmontée de 9 pieds de hauteur.</p>
-                            <head rend="alignCenter">Autre exemple</head>
+                            <label rend="alignCenter">Autre exemple</label>
                             <pb xml:id="t4P68" n="p68"/>
                             <fw type="pageNum">68</fw>
                             <p> La circonférence du ceintre d’une voute sphéroïde surbaissée de 5
@@ -2534,7 +2535,7 @@
                                 multipliera par le quart de la circonférence du cercle du plan :
                                 leur produit sera le toisé de la superficie de la voute
                                 spheroïdalle.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <p> Le grand diamettre du plan ovale de la voûte sphéroïdale étant de 18
                                 pieds, et le petit diamettre de 14 pieds, le diamettre proportionnel
                                 sera de 15 pieds, 10 pouces, 6 lignes, et la <pb xml:id="t4P69"
@@ -2661,7 +2662,7 @@
                                     des faces du pillier du <pb xml:id="t4P73" n="p73"/>
                                     <fw type="pageNum">73</fw> milieu, et les multipliant par la
                                     circonférence de la voûte, le produit en sera la superficie.</p>
-                                <head rend="alignCenter">Exemple</head>
+                                <label rend="alignCenter">Exemple</label>
                                 <p> Au plan quarré a, b, c, d <figure type="figure"
                                         copyOf="#t4Fig0008"/> la voûte a sa naissance de niveau des
                                     quatre côtés du quarré et sur chacune des faces du pillier, ou
@@ -2730,7 +2731,7 @@
                                     la longueur, ensemble par la circonférence du ceintre de la
                                     voûte qui porte sur les petits côtés ; leur produit ensemble
                                     donnera toute la superfiie de la voûte. </p>
-                                <head rend="alignCenter"> Exemple</head>
+                                <label rend="alignCenter"> Exemple</label>
                                 <p> Le grand côté a, d étant supposé <figure type="figure"
                                         copyOf="#t4Fig0009"/> être de 41 pieds et le petit côté de
                                     32 pieds, la grande face e, h, de niveau 5 pieds, et la petite
@@ -2771,7 +2772,7 @@
                                     </subst> circonférence du mur, avec la moitié de la
                                     circonférence du noyeau, et les multipliant par la circonférence
                                     du ceintre de la voute.</p>
-                                <head rend="alignCenter">Exemple</head>
+                                <label rend="alignCenter">Exemple</label>
                                 <p> Le diamettre a, c du plan circulaire <figure type="figure"
                                         copyOf="#t4Fig0010"/> étant supposé être de 32 pieds, et
                                         <surplus reason="repeated">et</surplus> le diamettre e, g du
@@ -2812,7 +2813,7 @@
                                     ceintre de la voûte, et la multiplier par la moitié du pourtour
                                     du mur à la naissance de la voute jointe avec la moitié du
                                     pourtour du noyeau qui soutient la voûte.</p>
-                                <head rend="alignCenter">Exemple</head>
+                                <label rend="alignCenter">Exemple</label>
                                 <p> D’une voûte sur noyeau en <figure type="figure"
                                         copyOf="#t4Fig0011"/> plan ovale, le grand diamettre b, d,
                                     étant de 41 pieds, et le petit diamettre a, c, de 32 pieds, le
@@ -2901,7 +2902,7 @@
                                 descentes droites … Avant que d’entrer dans le détail des règles du
                                 toisé des différentes voûtes en vis Saint-Gilles, il est à propos
                                 d’expliquer la manière de toiser les voûtes en rempe droite.</p>
-                            <head rend="alignCenter"> Exemple</head>
+                            <label rend="alignCenter"> Exemple</label>
                             <figure type="figure" copyOf="#t4Fig0012"/>
                             <p><hi rend="bigger">La</hi> voûte rempante b, d, e, f, dont les deux
                                 têtes à plomb b, d, e, f, sont en plein ceintre ; suivant le demi
@@ -2931,7 +2932,7 @@
                                     naissance sur le noyeau, et les multipliant par la circonférence
                                     du ceintre de la voûte pris d’equaire à la ligne rempante du
                                     milieu, le produit sera la superficie de la voute.</p>
-                                <head rend="alignCenter">Exemple</head>
+                                <label rend="alignCenter">Exemple</label>
                                 <p>Le diamettre du noyeau f, g, h, de la figure suivante étant de 7
                                     pieds, et les diamettres a, e, c, g, et les autres de la voute
                                     au pourtour, chacun de 14 pieds, le diamettre total a, c, du
@@ -3031,7 +3032,7 @@
                                     rempante du milieu du pourtour de la voûte.</p>
                                 <pb xml:id="t4P85" n="p85"/>
                                 <fw type="pageNum">85</fw>
-                                <head rend="alignCenter">Exemple</head>
+                                <label rend="alignCenter">Exemple</label>
                                 <p>Chacun des côtés du plan <figure type="figure"
                                         copyOf="#t4Fig0014"/> quarré a, b, c, d, étant de 35 pieds,
                                     et chacun des côtés des noyeaux e, f, g, h étant de 7 pieds, les
@@ -3129,7 +3130,7 @@
                                     sont égaux entre eux, la différence du grand au petit diamettre
                                     de l’ovale du mur du pourtour étant la même entre le grand et le
                                     petit diamettre du noyeau.</p>
-                                <head rend="alignCenter">Exemple</head>
+                                <label rend="alignCenter">Exemple</label>
                                 <p> La voute en vis Saint-Gilles <figure type="figure"
                                         copyOf="#t4Fig0015"/> sur le plan ovale a, b, c, d, dont la
                                     circonférence du noyeau e, f, g, h, a son pourtour parallèle à
@@ -3166,7 +3167,7 @@
                                     de la voûte pris d’equaire à la ligne rempante qui passe par le
                                     milieu des grands ou des petits côtés du plan entre les murs et
                                     le noyeau.</p>
-                                <head rend="alignCenter">Exemple</head>
+                                <label rend="alignCenter">Exemple</label>
                                 <p> La voute en vis Saint-Gilles sur le plan rectangle plus long que
                                     large a, b, c, d, dont les faces du noyeau, e, f, g, h, sont
                                     chacunes egallement distantes des murs, tant par les bouts, que
@@ -3256,7 +3257,7 @@
                                 naissance sur les murs par la moitié du pourtour de la circonférence
                                 de l’arrête de leur tête ; le produit est le toisé de la superficie
                                 de voûte ou de la doüelle de la trompe.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <p> Une trompe sur un plan en angle rentrant, droit, aigu ou obtus a, b,
                                 c, dont les côtés de la naissance, b, a, b, c <pb xml:id="t4P93"
                                     n="p93"/>
@@ -3328,7 +3329,7 @@
                                 prolongée depuis l’angle du centre de la trompe, jusqu’à la
                                 rencontre de la ligne parallèle, leur produit sera la superficie de
                                 la doüelle de la trompe.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <figure type="figure" copyOf="#t4Fig0019"/>
                             <pb xml:id="t4P96" n="p96"/>
                             <fw type="pageNum">96</fw>
@@ -3377,8 +3378,8 @@
                                 t, u, t, y, ainsi W aïant multiplié la longueur, t, &amp;, qui est
                                 la même que, a, r, ou, a, q, par le pourtour de la circonférence de
                                 l’arc, &amp;, ✚<!-- TODO vérifier l'affichage -->, moitié de l’arc,
-                                &amp;, ✚<!-- TODO vérifier l'affichage -->, W, le produit sera le toisé de la superficie de la
-                                doüelle, t, u, x, y.</p>
+                                &amp;, ✚<!-- TODO vérifier l'affichage -->, W, le produit sera le
+                                toisé de la superficie de la doüelle, t, u, x, y.</p>
                         </div>
                         <div type="number" n="7">
                             <label>7.</label>
@@ -3399,7 +3400,7 @@
                                 voute … Cette pratique est generalle pour toutes les sortes de
                                 trompes régulières en plein ceintre, aïant le parement de leurs
                                 têtes à plomb.</p>
-                            <head rend="alignCenter">Autre exemple</head>
+                            <label rend="alignCenter">Autre exemple</label>
                             <figure type="figure" copyOf="#t4Fig0020"/>
                             <p>Une trompe dont la tête est en tour ronde sur le plan a, b, d, c, les
                                 cotés égaux a, b, a, c, étant les naissances de la voute au long des
@@ -3444,7 +3445,7 @@
                                 voûtes est plus reculé vers le centre de la trompe que le ceintre à
                                 plomb sur le diamettre des extrémités des côtés de leur
                                 naissances.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <p> La trompe en tour creuse suivant le plan a, b, d, c, où la courbure,
                                 b, d, c, du plan de la tête est plus rentrée vers le centre, a, de
                                 la trompe, que la ligne, b, c, diamettre <pb xml:id="t4P100"
@@ -3516,7 +3517,7 @@
                                 multiplier par la moitié de la circonférence du ceintre de la voûte,
                                 b, f, d, de la tête de la voûte ; leur produit sera le toisé de la
                                 superficie de la doüelle de la trompe biaize.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <p> Au profil géométrique, h, i, l, ou les longueurs, h, i, sur la ligne
                                 de niveau sont egalles aux côtés de la naissance a, c, la longueur,
                                 h, k, egalle à l’autre naissance, a, b, la longueur, h, o, egalle à
@@ -3566,7 +3567,7 @@
                                 centre de la trompe, et le multipliant par la moitié de la
                                 circonférence de l’arrête de la tête ; le produit sera le toisé de
                                 la superficie de la douelle.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <figure type="figure" copyOf="#t4Fig0023"/>
                         </div>
                         <div type="number" n="13">
@@ -3598,7 +3599,7 @@
                                 moitié de leurs sommes par la moitié ou pourtour du ceintre de
                                 l’arrête de la tête de la trompe, le produit sera le toisé de la
                                 superficie de la doüelle.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <figure type="figure" copyOf="#t4Fig0024"/>
                             <pb xml:id="t4P106" n="p106"/>
                             <fw type="pageNum">106</fw>
@@ -3639,7 +3640,7 @@
                                 niveau de l’autre naissance sur le côté, a, b, au lieu que les deux
                                 naissances étant rempantes, la pondération de la voûte pourroit
                                 glisser en dehors au long du coussinet a, b,</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <figure type="figure" copyOf="#t4Fig0025"/>
                             <p>Le toisé de la voute de cette seconde manière de trompe rampante se
                                 fait par la même règle generalle comme l’autre, le ceintre de l’arc
@@ -3672,7 +3673,7 @@
                                 leurs têtes par la hauteur du même ceintre, ou la moitié de leurs
                                 diamettres, le produit sera le toisé de la superficie de la douelle
                                 de la trompe en niche.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <figure type="figure" copyOf="#t4Fig0026"/>
                             <pb xml:id="t4P109" n="p109"/>
                             <fw type="pageNum">109</fw>
@@ -3761,7 +3762,7 @@
                                 ordinairement les têtes des trompes, l’on ajoûte suivant les us et
                                 coutumes de Paris la demie face de cette tête à la superficie de la
                                 doüelle de la voûte.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <figure type="figure" copyOf="#t4Fig0028"/>
                             <p> Le ceintre, b, d, c, étant l’arrête de la doüelle de la voûte, d, f,
                                 la hauteur de l’épaisseur de la voûte qui est ce que l’on suppose
@@ -3838,7 +3839,7 @@
                                 toiser comme les trapèzes qui ont deux de leur cotés parallèles, et
                                 prenant la moitié de la somme des deux cotés parallèles pour la
                                 multiplier par la largeur de l’arrière voussure.</p>
-                            <head>Exemple</head>
+                            <label>Exemple</label>
                             <p> Soit, a, b, c, d, pour l’élévation de la face geometralle d’une
                                 arrière voussure en platte bande droite : e, f, le profil
                                 géométral ; g, h, i, k, le développement géométrique de la doüelle.
@@ -3870,7 +3871,7 @@
                                 multipliant la somme par la longueur de l’arrière voussure prise
                                 quarrément entre l’arrête de la tête et l’arrête de la feuillure ;
                                 le produit sera le toisé de l’arrière voussure.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <figure type="figure" copyOf="#t4Fig0030"/>
                             <figure type="figure" copyOf="#t4Fig0031"/>
                             <pb xml:id="t4P117" n="p117"/>
@@ -3910,7 +3911,7 @@
                                 voûte de la niche sphérique, en ôter le toisé de la superficie du
                                 segment sphérique tronqué par l’arrête de la feuillure, ce qui
                                 restera sera le toisé de l’arrière voussure en niche sphérique.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <figure type="figure" copyOf="#t4Fig0032"/>
                             <figure type="figure" copyOf="#t4Fig0033"/>
                         </div>
@@ -3952,18 +3953,19 @@
                                 par la longueur commune des joints, le produit donnera le toisé de
                                 la superficie de la doüelle de cette arrière voussure
                                 Saint-Antoine.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <p> Le toisé de l’arrière voussure Saint-Antoine suivant l’élévation <pb
                                     xml:id="t4P120" n="p120"/>
                                 <fw type="pageNum">120</fw> e, f, g, h, i, et le profil géométral,
                                 k, l, m, n, sur le plan a, b, c, d, les deux points, ou lits de sa
                                 naissance sont, e, g ; e, i, sur les embrazements de l’élévation,
                                 dont, b, c, a, d, sur le plan, en sont la longueur, qu’il faut
-                                mesurer en œuvre, ainsi que le pourtour de tous les autres points de la douelle, comme f, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12.
-                                Additionner les longueurs et pourtours de tous les joints ensemble,
-                                et en diviser la somme par le nombre de leur quantité, pour avoir
-                                une longueur commune, ensuite l’on partagera les deux joints ou lits
-                                des naissance aux points, 1, 2, ainsi que les autres joints de la
+                                mesurer en œuvre, ainsi que le pourtour de tous les autres points de
+                                la douelle, comme f, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12. Additionner
+                                les longueurs et pourtours de tous les joints ensemble, et en
+                                diviser la somme par le nombre de leur quantité, pour avoir une
+                                longueur commune, ensuite l’on partagera les deux joints ou lits des
+                                naissance aux points, 1, 2, ainsi que les autres joints de la
                                 doüelle, qu’il faut aussi partager en deux aux points, 13, 14, 15,
                                 16, 17, 18, par lesquels points, 2, 13, 14, 15, 16, 17, 18, 1, on
                                 trouvera une ligne courbe, dont on mesurera le pourtour que l’on
@@ -3990,7 +3992,7 @@
                                 des autres voussoirs du bas, et additioner le tout, l’on aura le
                                 toisé de toute la superficie de la douelle de l’arrière voussure de
                                 Marceille.</p>
-                            <head rend="alignCenter">Exemple</head>
+                            <label rend="alignCenter">Exemple</label>
                             <p> L’arrière voussure de Marceille étant en plein ceintre par l’arrête
                                 de sa feuillure, et en plattebande droitte par l’arrête de la tête
                                 sur le plan, a, b, c, d, dont, e, f, g, h, i, est l’élévation, et k,
@@ -4381,10 +4383,12 @@
                             <figure type="figure" copyOf="#t4Fig0080"/>
                         </div>
                         <div type="number" n="29">
-                            <label><choice>
+                            <label>
+                                <choice>
                                     <sic>23.</sic>
                                     <corr>29</corr>
-                                </choice></label>
+                                </choice>
+                            </label>
                             <p>Les dégagemens en grain d’orge, que les ouvriers nomment coups de
                                 crochet, qui séparent les moulures pour le faire distinguer les unes
                                 des autres ; fig. 46. Le petit dégagement, a, entre l’astragal et le
@@ -5030,7 +5034,7 @@
                                 <p>Les languettes des manteaux, tuïaux et souches des cheminées se
                                     toisent dans leur pourtour et les languettes de refante des dits
                                     tuïaux de pareille construction se toisent dans œuvre.</p>
-                                <head>Exemple</head>
+                                <label rend="alignCenter">Exemple</label>
                                 <p> Une souche de cheminée isolée qui auroit trois tuyaux devoïés à
                                     côté les uns des autres, contenant trois pieds de face chacun
                                     par le devant, et par le derrière 15 pouces d’épaisseur par les
@@ -6032,7 +6036,7 @@
                                     légers ouvrages.</p>
                             </div>
                             <div type="number" n="7">
-                                <lable>7.</lable>
+                                <label>7.</label>
                                 <p>L’encastrement des barres de fer sur les feuilles de pierre de
                                     taille des portes cochères et sur les premières marches des
                                     perrons dans les cours, se toisent dans leur largeur et
@@ -6522,18 +6526,20 @@
                             <p>Aux pans de bois l’on toise les sablières du bas et du haut pour ce
                                 qu’elles sont, les poteaux cormiers des bous assemblez pour
                                 l’ordinaire dans le poitrail ou platteforme par bas et dans les
-                                sablières d’<choice><abbr>entablem<hi rend="superscript">t</hi></abbr><expan>entablement</expan></choice> par le haut, sont toisez depuis l’extrémité de leurs tenons du
-                                haut sans rien compter pour leurs tenons et assemblages des autres
-                                pièces, s’il s’en trouve sur leur hauteur, parce qu’ils sont censez
-                                être chacun d’une seule pièce, ainsi qu’ils doivent être ; les
-                                autres poteaux de remplissage sont toisez dans leur <pb
-                                    xml:id="t4P201" n="p201"/>
+                                sablières d’<choice><abbr>entablem<hi rend="superscript"
+                                        >t</hi></abbr><expan>entablement</expan></choice> par le
+                                haut, sont toisez depuis l’extrémité de leurs tenons du haut sans
+                                rien compter pour leurs tenons et assemblages des autres pièces,
+                                s’il s’en trouve sur leur hauteur, parce qu’ils sont censez être
+                                chacun d’une seule pièce, ainsi qu’ils doivent être ; les autres
+                                poteaux de remplissage sont toisez dans leur <pb xml:id="t4P201"
+                                    n="p201"/>
                                 <fw type="pageNum">201</fw> hauteur, compris leurs tenons dans les
                                 sablières, chaque tenon étant compté pour 3 pouces de long, les
                                 appuis, linteaux, pottelets et guetterons du bas et du haut des
                                 bayes des fenêtres sont comptez chacun pour demi potteau, quelques
                                 petits qu’ils soient.</p>
-                            <head>Exemple</head>
+                            <label>Exemple</label>
                             <p>Soit un pan de bois de face sur un poitrail, 21, et à ses portées
                                 jusqu’à la moitié de l’epaiseur des têtes des murs mitoïens, mn, op,
                                 les potteaux cormiers, 22 sont assemblez sur le poitrail joignant le
@@ -6685,13 +6691,14 @@
                                 demi angle pour mesure commune de celle des quartiers tournants, et
                                 quand les marches sont gironnées vers les bouts de l’échifre aux
                                 escalliers à jours au milieu comme en la figure 8, on prend la
-                                longueur dans œuvre entre l’échifre et les murs de toutes les marches de l’étage l’une après
-                                l’autre, que l’on additionne ensemble, et l’on en divise la somme
-                                par le nombre de la quantité des marches qui ont étez mesurées, pour
-                                avoir la mesure commune à laquelle l’on ajoute 6 pouces, sçavoir 3
-                                pouces pour le tenon dans l’échifre, et 3 pouces pour la portée dans
-                                les murs ; les marches des palliers et les soliveaux se toisent à
-                                part pour ce qu’ils contiennent.</p>
+                                longueur dans œuvre entre l’échifre et les murs de toutes les
+                                marches de l’étage l’une après l’autre, que l’on additionne
+                                ensemble, et l’on en divise la somme par le nombre de la quantité
+                                des marches qui ont étez mesurées, pour avoir la mesure commune à
+                                laquelle l’on ajoute 6 pouces, sçavoir 3 pouces pour le tenon dans
+                                l’échifre, et 3 pouces pour la portée dans les murs ; les marches
+                                des palliers et les soliveaux se toisent à part pour ce qu’ils
+                                contiennent.</p>
                         </div>
                         <div type="number" n="6">
                             <label>6.</label>
@@ -7912,7 +7919,7 @@
                                 pour faire un pouce de large sur 12 pouces de haut, et 12 de ces
                                 pouces font un pied quarré qui contient 12 pouces de large sur 12
                                 pouces de haut.</p>
-                            <head>Exemple</head>
+                            <label>Exemple</label>
                             <p> Un carreau de vitre qui auroit 14 pouces de haut sur 12 pouces de
                                 large contiendroit 168 pouces en superficie, qui feroit un pied, 2
                                 pouces suivant la manière de toiser ; de même un panneau qui auroit
