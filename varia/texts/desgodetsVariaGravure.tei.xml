@@ -290,7 +290,7 @@
                 </div>-->
 
                 <!-- liste des figures -->
-                <div xml:id="variaGravureBackFr03" xml:lang="fre" type="figures">
+                <!--<div xml:id="variaGravureBackFr03" xml:lang="fre" type="figures">
                     <head>Liste des figures</head>
                     <figure xml:id="variaGravureIll0001" type="illustration">
                         <figDesc>
@@ -348,7 +348,7 @@
                         <graphic n="full" url="../../images/full/desgodetsEdifices0001.jpg"
                             mimeType="image/jpeg"/>
                     </figure>
-                </div>
+                </div>-->
             </div>
         </back>
     </text>
