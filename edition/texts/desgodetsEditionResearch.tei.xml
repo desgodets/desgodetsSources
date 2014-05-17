@@ -67,7 +67,8 @@
             </titleStmt>
             <!-- mention d'édition -->
             <editionStmt>
-                <edition n="1">première édition électronique, <date when="2013">2013</date>
+                <edition n="1">première édition électronique, <date when="2013"
+                        >2013</date>
                 </edition>
             </editionStmt>
             <extent><!-- TODO : taille du fichier en octet --></extent>
@@ -96,29 +97,29 @@
                 </availability>
                 <availability status="restricted" xml:id="editionResearchTextLicence">
                     <p>Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
-                        <lb/>Cette licence est disponible en ligne : <ref
+                        <lb />Cette licence est disponible en ligne : <ref
                             target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
                             >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</p>
                     <p>Attribution : Vous devez créditer l’œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées. Vous devez indiquer ces informations par tous les moyens possibles mais vous ne pouvez pas suggérer que le Centre de théorie et d’analyse du droit vous soutient ou soutient la façon dont vous avez utilisé son œuvre. 
-                        <lb/>Le Centre de théorie et d’analyse du droit demande à ce que toute publication dérivée de ses ressources électroniques comporte : 
-                        <lb/>1. le nom du Centre de théorie
+                        <lb />Le Centre de théorie et d’analyse du droit demande à ce que toute publication dérivée de ses ressources électroniques comporte : 
+                        <lb />1. le nom du Centre de théorie
                         et d’analyse du droit et, pour les publications électroniques,
                         son logo ainsi que la mention des auteurs de l’édition. 
-                        <lb/>2. l’URI permettant d’accéder à la page citée
+                        <lb />2. l’URI permettant d’accéder à la page citée
                         sur notre site, ou à la page d’accueil de la ressource
-                        <lb/>3. la date et la version du fichier source utilisé.</p>
+                        <lb />3. la date et la version du fichier source utilisé.</p>
                     <p><hi rend="italic"
                         >Pas d’Utilisation Commerciale</hi> — Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant. 
-                        <lb/>Le Centre de théorie et d’analyse du droit souhaite principalement encourager l’utilisation et l’amélioration de ses ressources électroniques dans l’intérêt de l’enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d’analyse du droit.</p>
+                        <lb />Le Centre de théorie et d’analyse du droit souhaite principalement encourager l’utilisation et l’amélioration de ses ressources électroniques dans l’intérêt de l’enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d’analyse du droit.</p>
                     <p><hi rend="italic"
                             >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
-                        <lb/>Vous n’êtes pas obligé de signaler votre travail auprès du Centre de théorie et d’analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
+                        <lb />Vous n’êtes pas obligé de signaler votre travail auprès du Centre de théorie et d’analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
                             type="external" target="mailto:contact@desgodets.net"
                             >contact@desgodets.net</ref>.</p>
                     <p><hi rend="italic"
                         >Pas de restrictions additionnelles</hi> – Vous n’êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l’œuvre dans les conditions décrites par la licence.</p>
                     <p>Le Centre de théorie et d’analyse du droit s’engage à conserver et à toujours offrir publiquement la version la plus à jour de ses ressources électroniques par l’intermédiaire d’une URI pérenne. 
-                        <lb/>Dans l’intérêt de la communauté scientifique, afin de ne pas disperser les contributions et de permettre les meilleures conditions de collaboration scientifique, le Centre de théorie et d’analyse du droit se propose de recueillir et d’intégrer les corrections et contributions qui lui seront soumises (après validation par un comité scientifique), et à référencer leur origine.</p>
+                        <lb />Dans l’intérêt de la communauté scientifique, afin de ne pas disperser les contributions et de permettre les meilleures conditions de collaboration scientifique, le Centre de théorie et d’analyse du droit se propose de recueillir et d’intégrer les corrections et contributions qui lui seront soumises (après validation par un comité scientifique), et à référencer leur origine.</p>
                     <p>Vous n’êtes pas dans l’obligation de respecter la licence pour les éléments ou matériel appartenant au domaine public ou dans le cas où l’utilisation que vous souhaitez faire est couverte par une exception.</p>
                 </availability>
             </publicationStmt>
@@ -171,7 +172,8 @@
         <profileDesc>
             <creation when="2013">2013</creation>
             <langUsage>
-                <language ident="fre" usage="100">Français (langue principale du corpus)</language>
+                <language ident="fre" usage="100"
+                    >Français (langue principale du corpus)</language>
                 <!-- TODO : évaluer le pourcentage des langues dans le document -->
             </langUsage>
             <textClass>
@@ -181,13 +183,15 @@
                     <term>France</term>
                     <term>Architecture –– Philosophie</term>
                 </keywords>
-                <keywords xml:lang="eng" scheme="http://id.loc.gov/authorities/about.html#lcsh">
+                <keywords xml:lang="eng"
+                    scheme="http://id.loc.gov/authorities/about.html#lcsh">
                     <term>Architecture, Modern</term>
                     <term>17th-18th centuries</term>
                     <term>France</term>
                     <term>Architecture -- Philosophy</term>
                 </keywords>
-                <classCode scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
+                <classCode
+                    scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
                     <term>Text</term>
                 </classCode>
             </textClass>
@@ -238,11 +242,11 @@
                     <head>Objectifs, contexte et état de la question, originalité</head>
                     <p>Notre projet avait pour but de mesurer le savoir de l’architecte à la fin
                             du XVII<hi
-                            rend="superscript">e</hi> et au début du XVIII<hi rend="superscript"
+                            rend="superscript">e</hi> et au début du XVIII<hi
+                            rend="superscript"
                             >e</hi> siècles, en s’appuyant sur la tradition
                             manuscrite des écrits architecturaux au cœur même de la construction
-                            théorique de la discipline qui remonte à la tradition vitruvienne du XV
-                                <hi
+                            théorique de la discipline qui remonte à la tradition vitruvienne du XV<hi
                             rend="superscript"
                         >e</hi> siècle. Nous savons que les traités
                             d’architecture dès l’âge humaniste, véritable genre littéraire à part
@@ -275,17 +279,17 @@
                             forme de traités et de périodiques a beaucoup retenu l’attention des
                             chercheurs ces dernières années<ref
                             type="note" target="#editionResearchN0001"
-                            />, si ont été amorcées un certain
+                             />, si ont été amorcées un certain
                             nombre de réflexions sur les savoirs pratiques de l’architecte<ref
                             type="note" target="#editionResearchN0002"
-                            />, il n’en est pas de
+                             />, il n’en est pas de
                             même de cette partie discursive que représente l’enseignement délivré
                             aux élèves. Nous savons peu de chose sur le savoir transmis aux
                             architectes dans le cadre de leur formation surtout à l’âge classique,
                             alors que depuis une cinquantaine d’années l’enseignement de
                             l’architecture aux XIX<hi
                             rend="superscript">e</hi> et XX<hi rend="superscript"
-                        >e</hi> siècles est beaucoup mieux étudié. C’est
+                            >e</hi> siècles est beaucoup mieux étudié. C’est
                             pourquoi il nous a semblé important de nous arrêter sur les cours
                             d’Antoine Desgodets, cours inédits et qui ne cessent d’intriguer les
                             chercheurs sur leur contenu exact, leur compréhension et leur impact sur
@@ -381,7 +385,7 @@
                             quelque âge et condition qu’il soit, qui aura goût pour
                                 l’Architecture »<ref
                                 type="note" target="#editionResearchN0003"
-                                />,
+                                 />,
                             il n’est pas prévu la conservation du contenu de ces cours. Seules des
                             affiches attestent de leur existence à raison de quatre heures par
                             semaine sur deux jours. La prise de notes sous la dictée du professeur
@@ -396,7 +400,7 @@
                             dessin, mais aussi entendre les métiers pratiques du bâtiment
                             (maçonnerie, taille de pierre, charpente, couverture, etc.)<ref
                                 type="note" target="#editionResearchN0004"
-                            /> L’Académie prévoit
+                             /> L’Académie prévoit
                             exactement pour moitié des cours de « géométrie pratique », pour moitié
                             des « leçons de différentes notions, enseignements, règles et pratiques
                             d’architecture » qui doivent représenter les principes de cet art ou les
@@ -406,7 +410,7 @@
                         <p>Notre objectif principal consistait à reconstituer, dans le cadre du
                             savoir architectural, le cours d’Antoine Desgodets<ref
                                 type="note" target="#editionResearchN0005"
-                                />, architecte du roi, professeur à
+                                 />, architecte du roi, professeur à
                             l’Académie d’architecture de 1719 à 1728, pour lequel nous possédons à
                             travers les bibliothèques de nombreux pays une trentaine de manuscrits
                             (il s’agit d’un premier repérage, <hi
@@ -414,7 +418,7 @@
                                 >cf. infra</hi>, §
                             sources manuscrites)<ref
                                 type="note" target="#editionResearchN0006"
-                            />.
+                             />.
                             L’un des avantages principaux de cette recherche était de réunir, en un
                             même lieu, ce corpus de manuscrits dispersés, par le biais de
                             microfilms, rassemblés autour de la figure de leur auteur et de leur
@@ -444,7 +448,7 @@
                                     informatique des manuscrits un corpus mère. Cette démarche
                                     minutieuse, encadrée de précautions philologiques éprouvées<ref
                                         type="note" target="#editionResearchN0007"
-                                        />, devait
+                                         />, devait
                                     permettre de retrouver le manuscrit autographe, s’il existe ou
                                     de reconstituer le plus approchant, s’il s’agit de prises de
                                     notes par des élèves assistant au cours de l’Académie ou s’il
@@ -477,10 +481,10 @@
                                     continuateurs de Desgodets. Qui doit-on croire, Quatremère de
                                         Quincy<ref
                                         type="note" target="#editionResearchN0008"
-                                        /> ou
+                                         /> ou
                                         Morisot<ref
                                         type="note" target="#editionResearchN0009"
-                                        />
+                                         />
                                     lorsqu’ils prétendent respectivement que le <hi
                                         rend="italic"
                                         >Traité du toisé</hi> de Desgodets a été publié par Ginet ou
@@ -520,7 +524,8 @@
                                 <item><label>3°</label> Cette collecte d’informations, aussi bien de
                                     textes que de sources, devait nous autoriser à reconsidérer le
                                     statut de la science architecturale au tournant des XVII<hi
-                                        rend="superscript">e</hi> et XVIII<hi rend="superscript"
+                                        rend="superscript">e</hi> et XVIII<hi
+                                        rend="superscript"
                                         >e</hi> siècles tant dans ses fondements théoriques
                                     traditionnels (<hi
                                         rend="italic"
@@ -529,8 +534,9 @@
                                         rend="italic"
                                         >fabrica</hi>). De
                                     ce point de vue, le <hi
-                                        rend="italic">Toisé </hi>comme les <hi rend="italic"
-                                        >Loix,</hi> devaient être analysés comme des
+                                        rend="italic">Toisé </hi>comme les <hi
+                                        rend="italic"
+                                    >Loix,</hi> devaient être analysés comme des
                                     techniques de construction au cours de l’élévation du bâtiment
                                     mais également comme des techniques finales au service de
                                     l’expertise et de sa pratique post-œuvre. Telle était notre
@@ -570,8 +576,8 @@
                             dans l’écriture et la dictée de ses cours d’architecture, de cette
                             aventure de la « réduction en art » des techniques<ref
                                 type="note" target="#editionResearchN0010"
-                                /> qui se développe dès le XVI<hi rend="superscript"
-                            >e</hi> siècle. Ainsi, sa participation
+                                 /> qui se développe dès le XVI<hi rend="superscript"
+                                >e</hi> siècle. Ainsi, sa participation
                             essentielle à la glose de la coutume de Paris nous permettrait de
                             réfléchir à la sédimentation du droit, bref à la construction d’une des
                             sources du droit les plus emblématiques.</p>
