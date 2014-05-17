@@ -76,14 +76,12 @@
                 >Conseils pour l’édition des textes médiévaux</hi>, Paris, Comité des travaux historiques et scientifiques / École nationale des chartes, 2002, (Documents d'archives, n° Fascicule III, Textes littéraires).</p>
     </note>
     <note xml:id="editionMethodologyN0016">
-        <p><ref type="external" target=""
-            ></ref>.</p>
-        <!-- TODO vérifier le lien -->
+        <p><ref type="external" target="http://www.item.ens.fr/index.php?id=172959"
+            >EDITE MEDITE : un logiciel de comparaison de versions</ref>.</p>
     </note>
     <note xml:id="editionMethodologyN0017">
         <p><ref type="external" target="http://v-machine.org/"
             >Versioning Machine</ref>.</p>
-        <!-- TODO vérifier le lien -->
     </note>
     <note xml:id="editionMethodologyN0018">
         <p><ref type="external" target="http://collatex.sourceforge.net/"
@@ -102,7 +100,9 @@
                 >Conseils pour l’édition des textes médiévaux</hi>, Paris, Comité des travaux historiques et scientifiques / École nationale des chartes, 2002, (Documents d'archives, n° Fascicule III, Textes littéraires), p. 212-213.</p>
     </note>
     <note xml:id="editionMethodologyN0022">
-        <p>{Varloot 1981}</p>
+        <p>Varloot, Jean, « Les conventions dans l'édition de texte », <hi
+            rend="italic"
+            >Cahiers de l'Association internationale des études francaises</hi>, n° 1, t. 33, 1981, p. 101-110.</p>
     </note>
     <note xml:id="editionMethodologyN0023">
         <p>Barbiche, Bernard, Chatenet, Monique, Delmas, Jean, Guyotjeannin, Olivier, et Belhoste, Jean- François, <hi
