@@ -48,7 +48,7 @@
    </figure>-->
 <!-- TODO préciser la localisation des figures avec des expressions XPath -->
 <!-- TOOD fournir des légendes plus explicites -->
-<div xmlns="http://www.tei-c.org/ns/1.0" type="figures" xml:id="t4BackFr01">
+<div xmlns="http://www.tei-c.org/ns/1.0" type="figures" xml:id="t4BackFr04">
    <figure xml:id="t4Fig0001" type="figure" facs="#t4Facs0001">
       <head>Exemple</head>
       <figDesc>
