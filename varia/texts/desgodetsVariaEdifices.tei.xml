@@ -209,8 +209,7 @@
                     </titlePart>
                 </docTitle>
                 <docAuthor>
-                    <persName ref="#OM">Olga Medvedkova, </persName>
-                    <persName ref="#RC">Robert Carvais</persName>
+                    <persName ref="#OM">Olga Medvedkova, </persName> &amp; <persName ref="#RC">Robert Carvais</persName>
                 </docAuthor>
                 <docDate>14 avril 2013</docDate>
                 <docEdition>version bêta</docEdition>
