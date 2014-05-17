@@ -302,10 +302,10 @@
         <back xml:id="meetings2010Back">
             <div xml:id="meetings2010BackFr" xml:lang="fre">
                 <!-- inclusion du fichier de notes -->
-                <xi:include href="divs/desgodetsMeetings2010Notes.tei.xml" parse="xml">
+                <!--<xi:include href="divs/desgodetsMeetings2010Notes.tei.xml" parse="xml">
                     <xi:fallback>Fichier de notes de desgodetsMeetings2010Notes
                         non trouvé</xi:fallback>
-                </xi:include>
+                </xi:include>-->
 
                 <!-- lien vers le fichier à télécharger -->
                 <div xml:id="meetings2010BackFr02" xml:lang="fre" type="downloads">
