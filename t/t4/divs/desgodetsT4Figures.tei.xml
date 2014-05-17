@@ -49,7 +49,7 @@
 <!-- TODO préciser la localisation des figures avec des expressions XPath -->
 <!-- TOOD fournir des légendes plus explicites -->
 <div xmlns="http://www.tei-c.org/ns/1.0" type="figures" xml:id="t4BackFr01">
-   <figure xml:id="t4Fig0001" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0001" type="figure" facs="#t4Facs0001">
       <head>Exemple</head>
       <figDesc>
          <locus from="#t4P37" to="#t4P37">p. 37</locus>
@@ -62,7 +62,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0002" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0002" type="figure" facs="#t4Facs0002">
       <head/>
       <figDesc>
          <locus from="#t4P39" to="#t4P39">p. 39</locus>
@@ -75,7 +75,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0003" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0003" type="figure" facs="#t4Facs0003">
       <head>Exemple</head>
       <figDesc>
          <locus from="#t4P43" to="#t43P43">p. 43</locus>
@@ -88,7 +88,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0004" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0004" type="figure" facs="#t4Facs0004">
       <head/>
       <figDesc>
          <locus from="#t4P57" to="#t4P57">p. 57</locus>
@@ -101,7 +101,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0005" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0005" type="figure" facs="#t4Facs0005">
       <head/>
       <figDesc>
          <locus from="#t4P58" to="#t4P58">p. 58</locus>
@@ -114,7 +114,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0006" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0006" type="figure" facs="#t4Facs0006">
       <head/>
       <figDesc>
          <locus from="#t4P62" to="#t4P62">p. 62</locus>
@@ -127,7 +127,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0007" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0007" type="figure" facs="#t4Facs0007">
       <head/>
       <figDesc>
          <locus from="#t4P63" to="#t4P63">p. 63</locus>
@@ -140,7 +140,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0008" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0008" type="figure" facs="#t4Facs0008">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -153,7 +153,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0009" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0009" type="figure" facs="#t4Facs0009">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -166,7 +166,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0010" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0010" type="figure" facs="#t4Facs0010">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -179,7 +179,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0011" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0011" type="figure" facs="#t4Facs0011">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -192,7 +192,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0012" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0012" type="figure" facs="#t4Facs0012">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -205,7 +205,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0013" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0013" type="figure" facs="#t4Facs0013">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -218,7 +218,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0014" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0014" type="figure" facs="#t4Facs0014">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -231,7 +231,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0015" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0015" type="figure" facs="#t4Facs0015">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -244,7 +244,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0016" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0016" type="figure" facs="#t4Facs0016">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -257,7 +257,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0017" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0017" type="figure" facs="#t4Facs0017">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -270,7 +270,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0018" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0018" type="figure" facs="#t4Facs0018">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -283,7 +283,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0019" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0019" type="figure" facs="#t4Facs0019">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -296,7 +296,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0020" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0020" type="figure" facs="#t4Facs0020">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -309,7 +309,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0021" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0021" type="figure" facs="#t4Facs0021">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -322,7 +322,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0022" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0022" type="figure" facs="#t4Facs0022">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -335,7 +335,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0023" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0023" type="figure" facs="#t4Facs0023">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -348,7 +348,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0024" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0024" type="figure" facs="#t4Facs0024">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -361,7 +361,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0025" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0025" type="figure" facs="#t4Facs0025">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -374,7 +374,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0026" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0026" type="figure" facs="#t4Facs0026">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -387,7 +387,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0027" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0027" type="figure" facs="#t4Facs0027">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -400,7 +400,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0028" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0028" type="figure" facs="#t4Facs0028">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -413,7 +413,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0029" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0029" type="figure" facs="#t4Facs0029">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -426,7 +426,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0030" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0030" type="figure" facs="#t4Facs0030">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -439,7 +439,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0031" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0031" type="figure" facs="#t4Facs0031">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -452,7 +452,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0032" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0032" type="figure" facs="#t4Facs0032">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -465,7 +465,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0033" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0033" type="figure" facs="#t4Facs0033">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -478,7 +478,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0034" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0034" type="figure" facs="#t4Facs0034">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -491,7 +491,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0035" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0035" type="figure" facs="#t4Facs0035">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -504,7 +504,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0036" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0036" type="figure" facs="#t4Facs0036">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -517,7 +517,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0037" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0037" type="figure" facs="#t4Facs0037">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -530,7 +530,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0038" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0038" type="figure" facs="#t4Facs0038">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -543,7 +543,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0039" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0039" type="figure" facs="#t4Facs0039">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -556,7 +556,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0040" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0040" type="figure" facs="#t4Facs0040">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -569,7 +569,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0041" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0041" type="figure" facs="#t4Facs0041">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -582,7 +582,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0042" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0042" type="figure" facs="#t4Facs0042">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -595,7 +595,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0043" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0043" type="figure" facs="#t4Facs0043">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -608,7 +608,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0044" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0044" type="figure" facs="#t4Facs0044">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -621,7 +621,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0045" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0045" type="figure" facs="#t4Facs0045">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -634,7 +634,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0046" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0046" type="figure" facs="#t4Facs0046">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -647,7 +647,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0047" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0047" type="figure" facs="#t4Facs0047">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -660,7 +660,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0048" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0048" type="figure" facs="#t4Facs0048">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -673,7 +673,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0049" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0049" type="figure" facs="#t4Facs0049">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -686,7 +686,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0050" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0050" type="figure" facs="#t4Facs0050">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -699,7 +699,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0051" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0051" type="figure" facs="#t4Facs0051">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -712,7 +712,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0052" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0052" type="figure" facs="#t4Facs0052">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -725,7 +725,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0053" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0053" type="figure" facs="#t4Facs0053">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -738,7 +738,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0054" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0054" type="figure" facs="#t4Facs0054">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -751,7 +751,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0055" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0055" type="figure" facs="#t4Facs0055">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -764,7 +764,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0056" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0056" type="figure" facs="#t4Facs0056">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -777,7 +777,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0057" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0057" type="figure" facs="#t4Facs0057">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -790,7 +790,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0058" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0058" type="figure" facs="#t4Facs0058">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -803,7 +803,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0059" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0059" type="figure" facs="#t4Facs0059">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -816,7 +816,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0060" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0060" type="figure" facs="#t4Facs0060">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -829,7 +829,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0061" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0061" type="figure" facs="#t4Facs0061">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -842,7 +842,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0062" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0062" type="figure" facs="#t4Facs0062">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -855,7 +855,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0063" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0063" type="figure" facs="#t4Facs0063">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -868,7 +868,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0064" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0064" type="figure" facs="#t4Facs0064">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -881,7 +881,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0065" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0065" type="figure" facs="#t4Facs0065">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -894,7 +894,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0066" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0066" type="figure" facs="#t4Facs0066">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -907,7 +907,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0067" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0067" type="figure" facs="#t4Facs0067">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -920,7 +920,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0068" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0068" type="figure" facs="#t4Facs0068">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -933,7 +933,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0069" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0069" type="figure" facs="#t4Facs0069">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -946,7 +946,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0070" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0070" type="figure" facs="#t4Facs0070">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -959,7 +959,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0071" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0071" type="figure" facs="#t4Facs0071">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -972,7 +972,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0072" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0072" type="figure" facs="#t4Facs0072">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -985,7 +985,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0073" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0073" type="figure" facs="#t4Facs0073">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -998,7 +998,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0074" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0074" type="figure" facs="#t4Facs0074">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1011,7 +1011,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0075" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0075" type="figure" facs="#t4Facs0075">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1024,7 +1024,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0076" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0076" type="figure" facs="#t4Facs0076">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1037,7 +1037,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0077" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0077" type="figure" facs="#t4Facs0077">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1050,7 +1050,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0078" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0078" type="figure" facs="#t4Facs0078">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1063,7 +1063,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0079" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0079" type="figure" facs="#t4Facs0079">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1076,7 +1076,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0080" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0080" type="figure" facs="#t4Facs0080">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1089,7 +1089,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0081" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0081" type="figure" facs="#t4Facs0081">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1102,7 +1102,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0082" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0082" type="figure" facs="#t4Facs0082">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1115,7 +1115,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0083" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0083" type="figure" facs="#t4Facs0083">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1128,7 +1128,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0084" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0084" type="figure" facs="#t4Facs0084">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1141,7 +1141,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0085" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0085" type="figure" facs="#t4Facs0085">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1154,7 +1154,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0086" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0086" type="figure" facs="#t4Facs0086">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1167,7 +1167,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0087" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0087" type="figure" facs="#t4Facs0087">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1180,7 +1180,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0088" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0088" type="figure" facs="#t4Facs0088">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1193,7 +1193,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0089" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0089" type="figure" facs="#t4Facs0089">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1206,7 +1206,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0090" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0090" type="figure" facs="#t4Facs0090">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1219,7 +1219,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0091" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0091" type="figure" facs="#t4Facs0091">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1232,7 +1232,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0092" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0092" type="figure" facs="#t4Facs0092">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1245,7 +1245,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0093" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0093" type="figure" facs="#t4Facs0093">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1258,7 +1258,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0094" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0094" type="figure" facs="#t4Facs0094">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1271,7 +1271,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0095" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0095" type="figure" facs="#t4Facs0095">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1284,7 +1284,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0096" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0096" type="figure" facs="#t4Facs0096">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1297,7 +1297,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0097" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0097" type="figure" facs="#t4Facs0097">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1310,7 +1310,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0098" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0098" type="figure" facs="#t4Facs0098">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1323,7 +1323,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0099" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0099" type="figure" facs="#t4Facs0099">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1336,7 +1336,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0100" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0100" type="figure" facs="#t4Facs0100">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1349,7 +1349,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0101" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0101" type="figure" facs="#t4Facs0101">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1362,7 +1362,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0102" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0102" type="figure" facs="#t4Facs0102">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1375,7 +1375,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0103" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0103" type="figure" facs="#t4Facs0103">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1388,7 +1388,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0104" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0104" type="figure" facs="#t4Facs0104">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1401,7 +1401,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0105" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0105" type="figure" facs="#t4Facs0105">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1414,7 +1414,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0106" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0106" type="figure" facs="#t4Facs0106">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1427,7 +1427,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0107" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0107" type="figure" facs="#t4Facs0107">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1440,7 +1440,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0108" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0108" type="figure" facs="#t4Facs0108">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1453,7 +1453,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0109" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0109" type="figure" facs="#t4Facs0109">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1466,7 +1466,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0110" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0110" type="figure" facs="#t4Facs0110">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1479,7 +1479,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0111" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0111" type="figure" facs="#t4Facs0111">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1492,7 +1492,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0112" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0112" type="figure" facs="#t4Facs0112">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1505,7 +1505,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0113" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0113" type="figure" facs="#t4Facs0113">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1518,7 +1518,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0114" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0114" type="figure" facs="#t4Facs0114">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1531,7 +1531,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0115" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0115" type="figure" facs="#t4Facs0115">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1544,7 +1544,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0116" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0116" type="figure" facs="#t4Facs0116">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1557,7 +1557,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0117" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0117" type="figure" facs="#t4Facs0117">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1570,7 +1570,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0118" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0118" type="figure" facs="#t4Facs0118">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1583,7 +1583,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0119" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0119" type="figure" facs="#t4Facs0119">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1596,7 +1596,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0120" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0120" type="figure" facs="#t4Facs0120">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1609,7 +1609,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0121" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0121" type="figure" facs="#t4Facs0121">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1622,7 +1622,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0122" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0122" type="figure" facs="#t4Facs0122">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1635,7 +1635,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0123" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0123" type="figure" facs="#t4Facs0123">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1648,7 +1648,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0124" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0124" type="figure" facs="#t4Facs0124">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1661,7 +1661,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0125" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0125" type="figure" facs="#t4Facs0125">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1674,7 +1674,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0126" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0126" type="figure" facs="#t4Facs0126">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1687,7 +1687,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0127" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0127" type="figure" facs="#t4Facs0127">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1700,7 +1700,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0128" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0128" type="figure" facs="#t4Facs0128">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1713,7 +1713,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0129" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0129" type="figure" facs="#t4Facs0129">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1726,7 +1726,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0130" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0130" type="figure" facs="#t4Facs0130">
       <head/>
       <figDesc>
          <locus from="#t4"/>
@@ -1739,7 +1739,7 @@
       </figDesc>
       <note/>
    </figure>
-   <figure xml:id="t4Fig0131" type="figure" facs="#t4Facs">
+   <figure xml:id="t4Fig0131" type="figure" facs="#t4Facs0131">
       <head/>
       <figDesc>
          <locus from="#t4"/>
