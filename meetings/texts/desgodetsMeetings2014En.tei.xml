@@ -8,7 +8,7 @@
    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
 -->
 <!-- RMQ : dans back une division de type "downloads" contient les liens vers les fichiers téléchargeables -->
-<!-- TODO : remplacer le faux-texte -->
+<!-- TODO : pour ne pas bloquer la transformation HTMl on a baliser le texte avec xml:lang="fre" alors que le texte est en anglais  -->
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
     <teiHeader>
@@ -205,21 +205,24 @@
         <front xml:id="meetings2014EnFront">
             <titlePage xml:id="meetings2014EnFront00" xml:lang="eng">
                 <docTitle>
-                    <titlePart type="rubric">International Conference – Call for Abstracts</titlePart>
+                    <!--<titlePart type="rubric">International Conference – Call for Abstracts</titlePart>-->
                     <titlePart type="main"
                         >The Modern Architect's New Knowledge</titlePart>
                     <titlePart type="sub"
                         >Antoine Desgodets, Combining Theory and Practice</titlePart>
                 </docTitle>
+                <argument>
+                    <p>International Conference – Call for Abstracts</p>
+                </argument>
                 <!--<docAuthor>
                     <persName ref="#RC">Robert Carvais</persName>
                 </docAuthor>-->
                 <docDate>30 mars 2014</docDate>
                 <!--<docEdition>version bêta</docEdition>-->
             </titlePage>
-            <div xml:id="meetings2014EnFrontEn" xml:lang="eng">
+            <div xml:id="meetings2014EnFrontEn" xml:lang="fre">
                 <div xml:id="meetings2014EnFrontEn01" type="abstract">
-                    <p>International Conference 2014 – Call for Abstracts.</p>
+                    <p>This research project ends with the organisation of an International Conference in 2014. You'll find here the Call for Abstracts.</p>
                 </div>
             </div>
         </front>
