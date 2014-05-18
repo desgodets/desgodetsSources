@@ -396,12 +396,12 @@
         </body>
         <back>
             <div xml:lang="fre" type="transcription"/>
-            <div xml:lang="fre">
-                <!-- Inclusion du fichier des figures -->
+            <!--<div xml:lang="fre">
+                <!-\- Inclusion du fichier des figures -\->
                 <xi:include href="divs/desgodetsT12Figures.tei.xml" parse="xml">
                     <xi:fallback>Fichier des figures de T12 non trouvé</xi:fallback>
                 </xi:include>
-            </div>
+            </div>-->
         </back>
     </text>
 </TEI>
