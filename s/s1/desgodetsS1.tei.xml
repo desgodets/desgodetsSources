@@ -1128,7 +1128,7 @@
                         </choice>, f° 96 r°</p>
                   </div>
                   <cb/>
-                  <div>
+                  <div type="article">
                      <head>G.</head>
                      <p><placeName>Gambais</placeName>, enclave de Montfort l’Amaury, f° 26 v°</p>
                      <p><placeName>Gastinois</placeName>, f° 69 v°</p>
@@ -1155,7 +1155,7 @@
                            <expan>locale</expan>
                         </choice>, f° 96 r°</p>
                   </div>
-                  <div>
+                  <div type="article">
                      <head>H.</head>
                      <p><placeName>Harcourt</placeName>, <choice>
                            <abbr>loc</abbr>
@@ -1169,13 +1169,13 @@
                   </div>
                   <pb xml:id="s1Fol10v" n="a10v"/>
                   <fw type="runningHead">Table</fw>
-                  <div>
+                  <div type="article">
                      <head>J.</head>
                      <p><placeName>Jameets</placeName>, locale, f° 141 v°</p>
                      <p><placeName>Joy sur Morin</placeName>, id., f° 10 v°</p>
                      <p><placeName>Isle Savary</placeName>, id., f° 96 r°</p>
                   </div>
-                  <div>
+                  <div type="article">
                      <head>L.</head>
                      <p><placeName>Lagny sur Marne</placeName>, locale, f° 10 v°</p>
                      <p><placeName>Lalloene</placeName>, id., f° 59 v°</p>
@@ -1212,7 +1212,7 @@
                         </choice>, f° 81 r°</p>
                      <p><placeName>Lyon</placeName>, c’est Paris</p>
                   </div>
-                  <div>
+                  <div type="article">
                      <head>M.</head>
                      <p><placeName>Mayne</placeName>, comté, f° 100 r°</p>
                      <p><placeName>Marmoustiers</placeName>, locale, f° 96 r°</p>
@@ -1273,7 +1273,7 @@
                   </div>
                   <pb xml:id="s1Fol11v" n="a11v"/>
                   <fw type="runningHead">Table</fw>
-                  <div>
+                  <div type="article">
                      <head>N.</head>
                      <p>Namur, f° 138 v°</p>
                      <p>Nancy, f° 89 v°</p>
@@ -1299,13 +1299,13 @@
                      <p>Noyon, bail<hi rend="superscript">ge</hi> de Vermandois, f° 47 r°</p>
                   </div>
                   <cb/>
-                  <div>
+                  <div type="article">
                      <head>O.</head>
                      <p>Orilhac en Auverne, f° 117 v°</p>
                      <p>Orléans, baillage et prévôté, f° 69 v°</p>
                      <p>Ostrincourt, loc<hi rend="superscript">le</hi>, f° 61 r°</p>
                   </div>
-                  <div>
+                  <div type="article">
                      <head>P.</head>
                      <p>Paris, f° 1</p>
                      <p>Perche, bail<hi rend="superscript">ge</hi> et comté, f° 101 r°</p>
@@ -1336,11 +1336,11 @@
                         v°</p>
                      <p>Puysaye, f° 69 v°</p>
                   </div>
-                  <div>
+                  <div type="article">
                      <head>Q.</head>
                      <p>Quesque en Boulonnois, locale, f° 58 v°</p>
                   </div>
-                  <div>
+                  <div type="article">
                      <head>R.</head>
                      <p>Raulcourt, locale, f° 141 v°</p>
                      <p>Rennes, id., f° 132 v°</p>
@@ -1363,7 +1363,7 @@
                      <p>Roye, f° 58 v°</p>
                      <p>Rue d’Yndre aux faubourgs de Chateauroux, baronnie, locale, f° 107 v°</p>
                   </div>
-                  <div>
+                  <div type="article">
                      <head>S.</head>
                      <p>S<hi rend="superscript">t</hi> Aignan, locale, f° 107 r°</p>
                      <p>S<hi rend="superscript">t</hi> Cyran en Brenne, id., f° 96 r°</p>
@@ -1413,7 +1413,7 @@
                      <p>Soesme, locale, f° 107 v°</p>
                      <p>Sole, vicomté, f° 126 v°</p>
                   </div>
-                  <div>
+                  <div type="article">
                      <head>T.</head>
                      <p>Templenne en Penelle et plusie<hi rend="superscript">rs</hi> seigneuries,
                         locale, f° 61 v°</p>
@@ -1429,7 +1429,7 @@
                         </choice>, f° 107 v°</p>
                      <p>Troyes, baillage, f° 35 v°</p>
                   </div>
-                  <div>
+                  <div type="article">
                      <head>V.</head>
                      <p><sic>Valancay</sic>, chat<hi rend="superscript">nie</hi>, <pb
                            xml:id="s1Fol13" n="a13"/>
@@ -1473,7 +1473,7 @@
                      <p>Wahaigmes, locale, f° 61 v°</p>
                      <p>Wissent, locale, f° 58 v°</p>
                   </div>
-                  <div>
+                  <div type="article">
                      <head>X.</head>
                      <p>Xaintonges<ref type="noteHistorical" target="#s1Nh0024"/>, sénéchaussée,
                         siège et ressort de S<hi rend="superscript">t</hi> Jean d’Angely, f° 120
