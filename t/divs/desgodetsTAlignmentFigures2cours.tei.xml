@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../schema/desgodetsSchemaTEI.rnc"
+ type="application/relax-ng-compact-syntax"
+ schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- 
+ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
+ Fichier d'alignement des figures des manuscrits du Toisé
+ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
+-->
+<!-- RMQ : Le fichier est placé au niveau du corpus dans le système de fichier car il est par nature indépendant de la version du cours édité. Le même fichier pouvant ainsi par la suite être utilisé pour l'édition des autres versions qui ont pour le moment seulement fait l'objet d'un encodage sommaire. -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <!-- début de l'en-tête TEI -->
+   <teiHeader>
+      <fileDesc>
+         <!-- mentions de titre et de responsabilité -->
+         <titleStmt>
+            <title xml:lang="fre" type="main">Traité du toisé</title>
+            <title xml:lang="fre" type="sub">Fichier d'alignement des figures</title>
+            <author>
+               <persName>
+                  <forename>Antoine</forename>
+                  <surname>Desgodets</surname>
+               </persName>
+            </author>
+            <!-- mention de responsabilité principale (responsable scientifique de l'édition) -->
+            <principal>
+               <persName ref="#RC">
+                  <forename>Robert</forename>
+                  <surname>Carvais</surname>
+                  <affiliation>
+                     <orgName>Centre National de la Recherche Scientifique</orgName>
+                     <orgName type="acronym">CNRS</orgName>
+                     <roleName>responsable d'ANR</roleName>
+                  </affiliation>
+               </persName>
+            </principal>
+            <!-- organismes qui ont financé l'opération -->
+            <funder>
+               <orgName>Agence Nationale de Recherche</orgName>
+               <orgName type="acronym">ANR</orgName>
+               <date from="2008" to="2013">2008-2013</date>
+            </funder>
+            <funder>
+               <orgName>Association Française d'Histoire de la Construction</orgName>
+               <orgName type="acronym">AFHC</orgName>
+               <date when="2013">2013</date>
+            </funder>
+            <!-- mentions de responsabilité secondaires -->
+            <respStmt>
+               <resp key="prg">modélisation XML-TEI</resp>
+               <persName ref="#EC">
+                  <forename>Emmanuel</forename>
+                  <surname>Château</surname>
+                  <email>emchateau@laposte.net</email>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp key="edt">édition</resp>
+               <persName ref="#RC">
+                  <forename>Robert</forename>
+                  <surname>Carvais</surname>
+               </persName>
+               <persName ref="#JH">
+                  <forename>Juliette</forename>
+                  <surname>Hernu</surname>
+               </persName>
+               <persName ref="LT">
+                  <forename>Linnéa</forename>
+                  <surname>Tilly</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp key="mrk">encodage</resp>
+               <persName ref="#JH">
+                  <forename>Juliette</forename>
+                  <surname>Hernu</surname>
+               </persName>
+               <persName ref="#EC">
+                  <forename>Emmanuel</forename>
+                  <surname>Château</surname>
+                  <email>emchateau@laposte.net</email>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <!-- mention d'édition -->
+         <editionStmt>
+            <edition n="bêta">première édition électronique, <date from="2013"
+                  to="2013">2008-2013</date>, version bêta</edition>
+         </editionStmt>
+         <extent><!-- TODO : taille du fichier en octet --></extent>
+         <!-- information sur la publication électronique -->
+         <publicationStmt>
+            <date when="2013">2013</date>
+            <!-- voir si on attribue un DOI ou un identifiant ARK aux fichiers édités -->
+            <idno>tAlignmentFigures</idno>
+            <!-- responsable de la publication -->
+            <publisher>
+               <orgName>Centre de théorie et d'analyse du droit (UMR 7074)</orgName>
+               <orgName type="acronym">CTAD</orgName>
+               <address>
+ <addrLine>Université Paris Ouest-Nanterre La Défense</addrLine>
+ <addrLine>UFR Droit et Science politique</addrLine>
+ <addrLine>Bâtiment F. - Bur. 404</addrLine>
+ <addrLine>200, Avenue de la République</addrLine>
+ <addrLine>92001 Nanterre Cedex</addrLine>
+ <addrLine>France</addrLine>
+ <addrLine>http://ctad.u-paris10.fr/cdr-theorie-droit/</addrLine>
+ <addrLine>contact@desgodets.fr</addrLine>
+ </address>
+            </publisher>
+            <availability status="restricted" xml:id="tAlignmentFiguresImagesLicence">
+               <p>Les images numériques des manuscrits sont mises à disposition par les institutions partenaires mais restent leur propriété exclusive. Celles-ci en autorisent la reproduction et la réutilisation selon leurs propres règles en vigueur. Toute diffusion de ces images, sous quelque forme et sur quelque support que ce soit (papier, audiovisuel, ou numérique), pour quelque finalité que ce soit (pédagogique, scientifique ou commercial), doit faire l’objet d’une demande d’autorisation préalable auprès de l’institution concernée.</p>
+            </availability>
+            <availability status="restricted" xml:id="tAlignmentFiguresTextLicence">
+               <licence
+                  target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
+                     >Le Centre de théorie et d’analyse du droit (UMR 7074) met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons « Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions ; 4.0 International (CC-BY-NC-SA 4.0) ». 
+ <lb />Cette licence est disponible en ligne : <ref
+                     target="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"
+                     >http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr</ref> ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</licence>
+               <p>Attribution : Vous devez créditer l’œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées. Vous devez indiquer ces informations par tous les moyens possibles mais vous ne pouvez pas suggérer que le Centre de théorie et d’analyse du droit vous soutient ou soutient la façon dont vous avez utilisé son œuvre. 
+ <lb />Le Centre de théorie et d’analyse du droit demande à ce que toute publication dérivée de ses ressources électroniques comporte : 
+ <lb />1. le nom du Centre de théorie
+ et d’analyse du droit et, pour les publications électroniques,
+ son logo ainsi que la mention des auteurs de l’édition. 
+ <lb />2. l’URI permettant d’accéder à la page citée
+ sur notre site, ou à la page d’accueil de la ressource
+ <lb />3. la date et la version du fichier source utilisé.</p>
+               <p><hi rend="italic"
+                  >Pas d’Utilisation Commerciale</hi> — Vous n’êtes pas autorisé à faire un usage commercial de cette œuvre, tout ou partie du matériel la composant. 
+ <lb />Le Centre de théorie et d’analyse du droit souhaite principalement encourager l’utilisation et l’amélioration de ses ressources électroniques dans l’intérêt de l’enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès du Centre de théorie et d’analyse du droit.</p>
+               <p><hi rend="italic"
+                     >Partage dans les Mêmes Conditions</hi> — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l’œuvre originale, vous devez diffuser l’œuvre modifiée dans les même conditions, c’est à dire avec la même licence avec laquelle l’œuvre originale a été diffusée. 
+ <lb />Vous n’êtes pas obligé de signaler votre travail auprès du Centre de théorie et d’analyse du droit, mais vous êtes incités à le faire en nous envoyant un mail à <ref
+                     type="external" target="mailto:contact@desgodets.net"
+                     >contact@desgodets.net</ref>.</p>
+               <p><hi rend="italic"
+                  >Pas de restrictions additionnelles</hi> – Vous n’êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l’œuvre dans les conditions décrites par la licence.</p>
+               <p>Le Centre de théorie et d’analyse du droit s’engage à conserver et à toujours offrir publiquement la version la plus à jour de ses ressources électroniques par l’intermédiaire d’une URI pérenne. 
+ <lb />Dans l’intérêt de la communauté scientifique, afin de ne pas disperser les contributions et de permettre les meilleures conditions de collaboration scientifique, le Centre de théorie et d’analyse du droit se propose de recueillir et d’intégrer les corrections et contributions qui lui seront soumises (après validation par un comité scientifique), et à référencer leur origine.</p>
+               <p>Vous n’êtes pas dans l’obligation de respecter la licence pour les éléments ou matériel appartenant au domaine public ou dans le cas où l’utilisation que vous souhaitez faire est couverte par une exception.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title xml:lang="fre" type="main">Les cours de Desgodets</title>
+            <title xml:lang="fre" type="sub">une édition électronique</title>
+            <idno type="URI">http://www.desgodets.net</idno>
+         </seriesStmt>
+         <!--<notesStmt>
+ <note xml:lang="fre" type="abstract">Texte de description pour DC.description</note>
+ <note xml:lang="eng" type="abstract">Texte de description en anglais pour DC.description</note>
+ </notesStmt>-->
+         <sourceDesc>
+            <!-- description de la source -->
+            <p xml:id="tAlignmentFigures">Fichier nativement numérique</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <!-- description du projet éditorial -->
+         <projectDesc>
+            <p>L'édition des cours de Desgodets fait partie d'un programme de recherche sur la
+ formalisation du savoir architectural au XVII<hi
+                  rend="superscript">e</hi> siècle.</p>
+         </projectDesc>
+         <!-- déclaration des principes éditoriaux -->
+         <editorialDecl>
+            <correction>
+               <p>La syntaxe originale du manuscrit a été respectée en suivant les indications de Bernard
+ Barbiche, <ref
+                     type="external"
+                     target="http://theleme.enc.sorbonne.fr/cours/edition_epoque_moderne/edition_des_textes"
+                        >Conseils pour l’édition des textes de l’époque moderne (XVI<hi
+                        rend="superscript">e</hi>-XVIII<hi rend="superscript"
+                     >e</hi> siècle)</ref>.</p>
+            </correction>
+            <hyphenation>
+               <p>Pour les ouvrages imprimés, il n'a pas été tenu compte de l'hyphénation.</p>
+            </hyphenation>
+            <interpretation>
+               <p>Les interprétations sont traitées au moyen d'un élément supplied ou bien sont renvoyées
+ en notes. Une mention de responsabilité est fournie grâce à l'attribut resp sur le
+ passage concerné.</p>
+            </interpretation>
+            <normalization>
+               <p>La ponctuation ainsi que les majuscules ont été normalisées. Les abréviations ont été
+ développées.</p>
+            </normalization>
+            <stdVals>
+               <p>On utilise...</p>
+            </stdVals>
+            <quotation>
+               <p>Les citations dans le texte sont encodées soit au moyen d'un élément quote, soit au
+ moyen d'un élément...</p>
+            </quotation>
+         </editorialDecl>
+         <!-- déclaration concernant la méthode d'établissement du corpus (sélection) -->
+         <refsDecl>
+            <p>Description du système de référence canonique. Plus tard on fournira peut-être une
+ expression régulière.</p>
+         </refsDecl>
+         <samplingDecl>
+            <p>Le manuscrit a été transcrit intégralement [dans certains cas ce ne sera pas le cas].</p>
+         </samplingDecl>
+         <variantEncoding method="location-referenced" location="external" />
+      </encodingDesc>
+      <!-- présentation du profil de fichier -->
+      <profileDesc>
+         <creation when="2013">2013</creation>
+         <langUsage>
+            <language ident="fre" usage="99"
+               >Français (langue principale du corpus)</language>
+            <language ident="lat" usage="01"
+               >Latin (langue utilisée dans le corpus)</language>
+            <!-- TODO : évaluer les langues -->
+         </langUsage>
+         <textClass>
+            <keywords xml:lang="fre" scheme="http://data.bnf.fr/liste-rameau">
+               <term>Architecture</term>
+               <term>18e siècle</term>
+               <term>France</term>
+               <term>Architecture –– Philosophie</term>
+            </keywords>
+            <keywords xml:lang="eng"
+               scheme="http://id.loc.gov/authorities/about.html#lcsh">
+               <term>Architecture, Modern</term>
+               <term>17th-18th centuries</term>
+               <term>France</term>
+               <term>Architecture -- Philosophy</term>
+            </keywords>
+            <classCode scheme="http://dublincore.org/documents/2012/06/14/dcmi-terms/">
+               <term>Text</term>
+            </classCode>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2014-03-30" who="#EC">version bêta</change>
+         <change when="2013-01-06" who="#EC">augmentation de l'en-tête
+ TEI</change>
+         <change when="2012-09-05" who="#EC">première version du
+ fichier</change>
+      </revisionDesc>
+   </teiHeader>
+   <text corresp="#tAlignmentFiguresTextLicence">
+      <body>
+         <div type="alignmentFigures" xml:id="tAlignmentFiguresBody01">
+            <linkGrp>
+               <link target="#t4Fig0001 #t9Fig0001" />
+               <link target="#t4Fig0002 #t9Fig0002" />
+               <link target="#t4Fig0003 #t9Fig0003" />
+               <link target="#t4Fig0004 #t9Fig0004" />
+               <link target="#t4Fig0005 #t9Fig0005" />
+               <link target="#t4Fig0006 #t9Fig0006" />
+               <link target="#t4Fig0007 #t9Fig0007" />
+               <link target="#t4Fig0008 #t9Fig0008" />
+               <link target="#t4Fig0009 #t9Fig0009" />
+               <link target="#t4Fig0010 #t9Fig0010" />
+               <link target="#t4Fig0011 #t9Fig0011" />
+               <link target="#t4Fig0012 #t9Fig0012" />
+               <link target="#t9Fig0013" />
+               <link target="#t4Fig0013 #t9Fig0014" />
+               <link target="#t4Fig0014 #t9Fig0015" />
+               <link target="#t4Fig0015 #t9Fig0016" />
+               <link target="#t4Fig0016 #t9Fig0017" />
+               <link target="#t4Fig0017 #t9Fig0018" />
+               <link target="#t4Fig0018 #t9Fig0019" />
+               <link target="#t4Fig0019 #t9Fig0020" />
+               <link target="#t4Fig0020 #t9Fig0021" />
+               <link target="#t4Fig0021 #t9Fig0022" />
+               <link target="#t4Fig0022 #t9Fig0023" />
+               <link target="#t4Fig0023 #t9Fig0024" />
+               <link target="#t4Fig0024 #t9Fig0025" />
+               <link target="#t4Fig0025 #t9Fig0026" />
+               <link target="#t4Fig0026 #t9Fig0027" />
+               <link target="#t4Fig0027 #t9Fig0028" />
+               <link target="#t4Fig0028 #t9Fig0029" />
+               <link target="#t4Fig0029 #t9Fig0030" />
+               <link target="#t4Fig0030 #t9Fig0031" />
+               <link target="#t4Fig0031 #t9Fig0032" />
+               <link target="#t4Fig0032 #t9Fig0033" />
+               <link target="#t4Fig0033" />
+               <link target="#t4Fig0034 #t9Fig0034" />
+               <link target="#t4Fig0035 #t9Fig0035" />
+               <link target="#t4Fig0036 #t9Fig0036" />
+               <link target="#t4Fig0037 #t9Fig0037" />
+               <link target="#t4Fig0038 #t9Fig0038" />
+               <link target="#t4Fig0039 #t9Fig0039" />
+               <link target="#t4Fig0040 #t9Fig0040" />
+               <link target="#t4Fig0041 #t9Fig0041" />
+               <link target="#t4Fig0042 #t9Fig0042" />
+               <link target="#t4Fig0043 #t9Fig0043" />
+               <link target="#t4Fig0044 #t9Fig0044" />
+               <link target="#t4Fig0045 #t9Fig0045" />
+               <link target="#t4Fig0046 #t9Fig0046" />
+               <link target="#t4Fig0047 #t9Fig0047" />
+               <link target="#t4Fig0048 #t9Fig0048" />
+               <link target="#t4Fig0049 #t9Fig0049" />
+               <link target="#t4Fig0050 #t9Fig0050" />
+               <link target="#t4Fig0051 #t9Fig0051" />
+               <link target="#t4Fig0052 #t9Fig0052" />
+               <link target="#t4Fig0053 #t9Fig0053" />
+               <link target="#t4Fig0054 #t9Fig0054" />
+               <link target="#t4Fig0055 #t9Fig0055" />
+               <link target="#t4Fig0056 #t9Fig0056" />
+               <link target="#t4Fig0057 #t9Fig0057" />
+               <link target="#t4Fig0058 #t9Fig0058" />
+               <link target="#t4Fig0059 #t9Fig0059" />
+               <link target="#t4Fig0060 #t9Fig0060" />
+               <link target="#t4Fig0061 #t9Fig0061" />
+               <link target="#t4Fig0062 #t9Fig0062" />
+               <link target="#t4Fig0063 #t9Fig0063" />
+               <link target="#t4Fig0064 #t9Fig0064" />
+               <link target="#t4Fig0065 #t9Fig0065" />
+               <link target="#t4Fig0066 #t9Fig0066" />
+               <link target="#t4Fig0067 #t9Fig0067" />
+               <link target="#t4Fig0068 #t9Fig0068" />
+               <link target="#t4Fig0069 #t9Fig0069" />
+               <link target="#t4Fig0070 #t9Fig0070" />
+               <link target="#t4Fig0071 #t9Fig0071" />
+               <link target="#t4Fig0072 #t9Fig0072" />
+               <link target="#t4Fig0073 #t9Fig0073" />
+               <link target="#t4Fig0074 #t9Fig0074" />
+               <link target="#t4Fig0075 #t9Fig0075" />
+               <link target="#t4Fig0076 #t9Fig0076" />
+               <link target="#t4Fig0077 #t9Fig0077" />
+               <link target="#t4Fig0078 #t9Fig0078" />
+               <link target="#t4Fig0079 #t9Fig0079" />
+               <link target="#t4Fig0080 #t9Fig0080" />
+               <link target="#t4Fig0081 #t9Fig0081" />
+               <link target="#t4Fig0082 #t9Fig0082" />
+               <link target="#t4Fig0083 #t9Fig0083" />
+               <link target="#t4Fig0084 #t9Fig0084" />
+               <link target="#t4Fig0085 #t9Fig0085" />
+               <link target="#t4Fig0086 #t9Fig0086" />
+               <link target="#t4Fig0087 #t9Fig0087" />
+               <link target="#t4Fig0088 #t9Fig0088" />
+               <link target="#t4Fig0089 #t9Fig0089" />
+               <link target="#t4Fig0090 #t9Fig0090" />
+               <link target="#t4Fig0091 #t9Fig0091" />
+               <link target="#t4Fig0092 #t9Fig0092" />
+               <link target="#t4Fig0093 #t9Fig0093" />
+               <link target="#t4Fig0094 #t9Fig0094" />
+               <link target="#t4Fig0095 #t9Fig0095" />
+               <link target="#t4Fig0096 #t9Fig0096" />
+               <link target="#t4Fig0097 #t9Fig0097" />
+               <link target="#t4Fig0098 #t9Fig0098" />
+               <link target="#t4Fig0099 #t9Fig0099" />
+               <link target="#t4Fig0100 #t9Fig0100" />
+               <link target="#t4Fig0101 #t9Fig0101" />
+               <link target="#t4Fig0102 #t9Fig0102" />
+               <link target="#t4Fig0103 #t9Fig0103" />
+               <link target="#t4Fig0104 #t9Fig0104" />
+               <link target="#t4Fig0105 #t9Fig0105" />
+               <link target="#t4Fig0106 #t9Fig0106" />
+               <link target="#t4Fig0107 #t9Fig0107" />
+               <link target="#t4Fig0108 #t9Fig0108" />
+               <link target="#t4Fig0109 #t9Fig0109" />
+               <link target="#t4Fig0110 #t9Fig0110" />
+               <link target="#t4Fig0111 #t9Fig0111" />
+               <link target="#t4Fig0112 #t9Fig0112" />
+
+
+
+               <link target="#t4Fig0113 #t9Fig0113" />
+               <link target="#t4Fig0114" />
+               <link target="#t4Fig0115" />
+               <link target="#t4Fig0116" />
+               <link target="#t4Fig0117 #t9Fig0114" />
+               <link target="#t4Fig0118 #t9Fig0115" />
+               <link target="#t4Fig0119 #t9Fig0116" />
+               <link target="#t4Fig0120 #t9Fig0117" />
+               <link target="#t4Fig0121 #t9Fig0118" />
+               <link target="#t4Fig0122 #t9Fig0119" />
+               <link target="#t4Fig0123 #t9Fig0120" />
+               <link target="#t4Fig0124 #t9Fig0121" />
+               <link target="#t4Fig0125" />
+               <link target="#t4Fig0126" />
+            </linkGrp>
+         </div>
+      </body>
+   </text>
+</TEI>

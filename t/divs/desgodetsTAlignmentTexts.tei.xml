@@ -247,7 +247,7 @@
     </teiHeader>
     <text corresp="#tAlignmentTextsTextLicence">
         <body>
-            <div type="alignmentText" xml:id="tAlignmentTextsBody01">
+            <div type="alignmentText" xml:id="tAlignmentText">
                 <linkGrp>
                     <!-- front -->
                     <link targets="#t9Front  #t5Front" />
