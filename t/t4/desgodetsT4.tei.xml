@@ -5082,7 +5082,7 @@
                                 de pied …… fig. <hi
                                     rend="underline">53</hi>. </p>
                             <figure type="figure" copyOf="#t4Fig0088" />
-                            <figure type="figure" copyOf="#t4Fig0089" />
+<!--                            <figure type="figure" copyOf="#t4Fig0089" />-->
                         </div>
                         <div type="number" n="34">
                             <label>34.</label>
@@ -7599,15 +7599,15 @@
                         </div>
                         <div type="number" n="4">
                             <label>4.</label>
-                            <p>Les potteaux des barrières qui se mettent aux faces des hôtels et
+                            <p>Les potteaux des barrières <figure
+                                type="figure" copyOf="#t4Fig0131" />
+                                <pb xml:id="t4P210" n="p210" /> qui se mettent aux faces des hôtels et
                                 dans les cours sont ordinairement plus gros en ce qui est <del
                                     rend="strikethrough"
                                     >ce qui est</del> enterré qu’en ce qui est
                                 apparent hors du pavé, tant pour fortifier leur scellement que pour
                                 les garentir plus long tems de la pourritures. Leur grosseur se
-                                prend au droit <figure
-                                    type="figure" copyOf="#t4Fig0131" />
-                                <pb xml:id="t4P210" n="p210" />
+                                prend au droit <!-- fin de figure -->
                                 <fw type="pageNum"
                                 >210</fw> du plus gros avant de les poser en place
                                 et se compte dans toute sa longueur depuis le bas jusqu’au sommet de
