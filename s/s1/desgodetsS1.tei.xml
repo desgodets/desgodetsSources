@@ -17398,7 +17398,7 @@
                   <hi rend="bigger">Table en forme de conférence</hi> des principales matières de
                   servitudes et autres qui sont dans ce Recüeil</head>
                <metamark rend="simpleLine alignCenter"/>
-               <div>
+               <div type="article">
                   <head>A.</head>
                   <p>
                      <hi rend="bigger">Achat</hi> de fond d’héritages : Bretagne, titre 14, articles
@@ -17446,7 +17446,7 @@
                   <p>
                      <hi rend="bigger">Auvents</hi> : Rheims, art. 354.</p>
                </div>
-               <div>
+               <div type="article">
                   <head>B.</head>
                   <p>
                      <hi rend="bigger">Bâtir</hi>, et Se loger Contr’Un mur, et ce qu’on doit
@@ -17488,7 +17488,7 @@
                      Lisle, Tit. des bornages et Cerquemanages, art. 1<hi rend="superscript"
                      >er</hi> ; Marche, art. 328 ; Bretagne, Tit. 18, art. 393, 394.</p>
                </div>
-               <div>
+               <div type="article">
                   <head>C.</head>
                   <p>
                      <hi rend="bigger">Carcan</hi> : Voyez marques de justice, f° 164 r°</p>
@@ -17616,7 +17616,7 @@
                   <p>
                      <hi rend="bigger">Curage</hi> de rivière : Voyez Terres jectisses.</p>
                </div>
-               <div>
+               <div type="article">
                   <head>D.</head>
                   <p>
                      <hi rend="bigger">Déclaration</hi> du Roy touchant les Bâtimens en Saillie, f°
@@ -17730,7 +17730,7 @@
                   <p>
                      <hi rend="bigger">Droit</hi> de littre ou Ceinture mortuaire, f° 197 r°</p>
                </div>
-               <div>
+               <div type="article">
                   <head>E.</head>
                   <p>
                      <hi rend="bigger">Eau</hi> courante : Voyez Rivière.</p>
@@ -17828,7 +17828,7 @@
                   <p>
                      <hi rend="bigger">Évier</hi> sur Voisin Voyez Égousts.</p>
                </div>
-               <div>
+               <div type="article">
                   <head>F.</head>
                   <p>
                      <hi rend="bigger">Faculté</hi> de prendre pierre pour bâtir : Voyez dans la
@@ -17931,7 +17931,7 @@
                      fundum radices Egerit, communis Sit] Le texte de la Loy [pro Regione D. de
                      adq : rerum Domino], y est formelle.</p>
                </div>
-               <div>
+               <div type="article">
                   <head>G.</head>
                   <p>
                      <hi rend="bigger">Garennes</hi> : Nivernois, chap. des Eaux et Rivières, <unclear>etc.</unclear>, art. 1<hi rend="superscript">er</hi>, chap. des Bois et forests, art.
@@ -17943,7 +17943,7 @@
                   <p>
                      <hi rend="bigger">Gravois</hi> : Voyez Immondices.</p>
                </div>
-               <div>
+               <div type="article">
                   <head>H.</head>
                   <p>
                      <hi rend="bigger">Hauteur</hi> de clôture : Paris, art. 209, 210 ; Melun, art.
@@ -17990,7 +17990,7 @@
                      Orléans, art. 259 ; Loraine, Tit. 14, art. 13 ; Grand Perche, art. 218 ; Berry,
                      Tit. 10, art. 22.</p>
                </div>
-               <div>
+               <div type="article">
                   <head>J.</head>
                   <p>
                      <hi rend="bigger">Jambes sous poutres</hi> : Paris, art. 207, 208 ; Melun, art.
@@ -18014,7 +18014,7 @@
                      16, 18, 19, 20, 21 ; Calais, art. 204 ; Berry, Tit. 11, art. 18, 21, 22, 23,
                      24 ; Bourbonnois, art. 515 ; Bar, art. 185.</p>
                </div>
-               <div>
+               <div type="article">
                   <head>L.</head>
                   <p>Latrines : Voyez fosses d’aisances.</p>
                   <p>Liberté se peut réacquérir : Paris, art. 186 ; Orléans, art. 226 ; Normandie,
@@ -18024,7 +18024,7 @@
                      bornages.</p>
                   <p>Littre, f° 197 <unclear>r°</unclear></p>
                </div>
-               <div>
+               <div type="article">
                   <head>M.</head>
                   <p>
                      <hi rend="bigger">Manoir</hi> principal, f° 150 <unclear>r°</unclear></p>
@@ -18090,7 +18090,7 @@
                         n="264v"/> art. 170 ; Bayonne, Tit. 1<hi rend="superscript">er</hi>, art. 3,
                      4, 5 ; Bretagne, T. 14, art. 262.</p>
                </div>
-               <div>
+               <div type="article">
                   <head>O.</head>
                   <p>
                      <hi rend="bigger">Obligation</hi> des hommes envers leurs Seigneurs</p>
@@ -18113,7 +18113,7 @@
                      Pigeons, Lapins et autres animaux, qu’il est deffendu d’Élever et nourrir dans
                      la Ville et faubourgs de Paris, f° 168 r°</p>
                </div>
-               <div>
+               <div type="article">
                   <head>P.</head>
                   <p>
                      <hi rend="bigger">Passage</hi> pour aller à l’héritage Enclavé en l’héritage
@@ -18192,11 +18192,11 @@
                      quand Un puits est Commun entre Voisins, ils peuvent estre contraints à la
                      réfaiction, et Entretenement d’iceluy, et n’En peuvent quitter l’Usage.</p>
                </div>
-               <div>
+               <div type="article">
                   <head>Q.</head>
                   <p>[réserve]</p>
                </div>
-               <div>
+               <div type="article">
                   <head>R.</head>
                   <p>
                      <hi rend="bigger">Rapports</hi> et nomination d’Experts : Paris, art. 184,
@@ -18331,7 +18331,7 @@
                      D. de aquâ quotidianâ, et œstivâ], de la rétention et de fournement des Eaux ;
                      Voyez à terres jectisses Une remarque de Conséquence.</p>
                </div>
-               <div>
+               <div type="article">
                   <head>S.</head>
                   <p>
                      <hi rend="bigger">Saillies</hi> sur rue Voyez Entreprises Sur rue ; Voyez
@@ -18388,7 +18388,7 @@
                         rend="superscript">er</hi> ; Nantes en Bretagne, art. 19 ; Bar, art.
                      176.</p>
                </div>
-               <div>
+               <div type="article">
                   <head>T.</head>
                   <p>
                      <hi rend="bigger">Terres jectisses</hi> il est parlé cy devant des Terres
@@ -18421,7 +18421,7 @@
                      <hi rend="bigger">Tour d’Échelle</hi>, c’est Une Servitude qui ne S’acquiert
                      sans Titre : Voyez à la Coutume de Meaux, f° 10 r°</p>
                </div>
-               <div>
+               <div type="article">
                   <head>V.</head>
                   <p>
                      <hi rend="bigger">Verre dormant</hi> : Voyez Vues en mur joignant l’héritage
