@@ -461,213 +461,213 @@
    </teiHeader>
    <facsimile corresp="#c2ImagesLicence" xml:id="c2Facs">
       <surface xml:id="c2FacsPl0001">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0001.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0001.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0001.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0001.jpg" />
          <!--<desc><!-\- si nécessaire -\-></desc>-->
       </surface>
       <surface xml:id="c2FacsPl0002">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0002.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0002.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0002.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0002.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0003">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0003.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0003.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0003.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0003.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0004">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0004.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0004.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0004.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0004.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0005">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0005.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0005.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0005.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0005.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0006">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0006.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0006.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0006.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0006.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0007">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0007.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0007.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0007.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0007.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0008">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0008.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0008.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0008.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0008.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0009">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0009.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0009.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0009.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0009.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0010">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0010.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0010.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0010.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0010.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0011">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0011.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0011.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0011.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0011.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0012">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0012.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0012.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0012.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0012.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0013">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0013.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0013.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0013.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0002.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0014">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0014.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0014.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0014.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0014.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0015">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0015.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0015.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0015.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0015.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0016">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0016.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0016.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0016.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0016.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0017">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0017.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0017.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0017.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0017.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0018">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0018.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0018.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0018.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0018.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0019">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0019.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0019.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0019.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0019.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0020">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0020.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0020.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0020.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0020.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0021">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0021.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0021.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0021.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0021.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0022">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0022.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0022.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0022.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0022.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0023">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0023.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0023.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0023.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0023.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0024">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0024.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0024.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0024.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0024.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0025">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0025.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0025.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0025.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0025.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0026">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0026.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0026.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0026.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0026.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0027">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0027.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0027.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0027.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0027.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0028">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0028.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0028.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0028.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0028.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0029">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0029.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0029.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0029.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0029.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0030">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0030.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0030.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0030.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0030.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0031">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0031.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0031.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0031.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0031.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0032">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0032.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0032.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0032.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0032.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0033">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0033.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0033.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0033.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0033.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0034">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0034.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0034.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0034.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0034.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0035">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0035.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0035.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0035.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0035.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0036">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0036.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0036.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0036.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0036.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0037">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0037.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0037.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0037.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0037.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0038">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0038.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0038.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0038.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0038.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0039">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0039.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0039.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0039.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0039.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0040">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0040.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0040.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0040.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0040.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0041">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0041.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0041.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0041.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0041.jpg" />
       </surface>
       <surface xml:id="c2FacsPl0042">
-         <graphic n="full" mimeType="image/jpg" url="facs/facsC2Pl0042.jpg" />
+         <graphic n="full" mimeType="image/jpg" url="facs/full/facsC2Pl0042.jpg" />
          <graphic n="medium" mimeType="image/jpg" url="facs/medium/facsC2Pl0042.jpg" />
          <graphic n="thumb" mimeType="image/jpg" url="facs/thumbs/facsC2Pl0042.jpg" />
       </surface>
