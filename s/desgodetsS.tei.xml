@@ -149,7 +149,7 @@
                 <!-- description complète des témoins dans les en-têtes TEI concernées pour le partage des fichiers -->
                 <listWit xml:id="s">
                     <witness n="criticalEdition" corresp="#s2">
-                        <desc>Texte de description au besoin</desc>
+                        <!--<desc>Texte de description au besoin</desc>-->
                         <!-- texte de description du témoin -->
                         <ref type="file" target="s2/desgodetsS2.tei.xml"
                             mimeType="application/tei+xml"/>
@@ -158,8 +158,8 @@
                             mimeType="application/pdf"/>
                         <!-- pour le texte édité, lien de téléchargement d'une version pdf que nous générerons -->
                     </witness>
-                    <witness corresp="#s1">
-                        <desc>Texte de description au besoin</desc>
+                    <witness n="criticalEdition" corresp="#s1">
+                        <!--<desc>Texte de description au besoin</desc>-->
                         <ref type="file" target="s1/desgodetsS1.tei.xml"
                             mimeType="application/tei+xml"/>
                         <ref type="file" target="../files/desgodetsS1.pdf"

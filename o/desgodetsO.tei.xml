@@ -171,7 +171,7 @@
                 <!-- description complète des témoins dans les en-têtes TEI concernées pour le partage des fichiers -->
                 <listWit xml:id="o">
                     <witness n="criticalEdition" corresp="#o5">
-                        <desc>Texte de description au besoin</desc>
+                        <!--<desc>Texte de description au besoin</desc>-->
                         <!-- texte de description du témoin -->
                         <ref type="file" target="o5/desgodetsO5.tei.xml"
                             mimeType="application/tei+xml"/>
@@ -181,42 +181,42 @@
                         <!-- pour le texte édité, lien de téléchargement d'une version pdf que nous générerons -->
                     </witness>
                     <witness corresp="#o1">
-                        <desc>Texte de description au besoin</desc>
+                        <!--<desc>Texte de description au besoin</desc>-->
                         <ref type="file" target="o1/desgodetsO1.tei.xml"
                             mimeType="application/tei+xml"/>
                     </witness>
                     <witness corresp="#o2">
-                        <desc>Texte de description au besoin</desc>
+                        <!--<desc>Texte de description au besoin</desc>-->
                         <ref type="file" target="o2/desgodetsO2.tei.xml"
                             mimeType="application/tei+xml"/>
                     </witness>
                     <witness corresp="#o3">
-                        <desc>Texte de description au besoin</desc>
+                        <!--<desc>Texte de description au besoin</desc>-->
                         <ref type="file" target="o3/desgodetsO3.tei.xml"
                             mimeType="application/tei+xml"/>
                     </witness>
                     <witness corresp="#o4">
-                        <desc>Texte de description au besoin</desc>
+                        <!--<desc>Texte de description au besoin</desc>-->
                         <ref type="file" target="o4/desgodetsO4.tei.xml"
                             mimeType="application/tei+xml"/>
                     </witness>
                     <witness corresp="#o5">
-                        <desc>Texte de description au besoin</desc>
+                        <!--<desc>Texte de description au besoin</desc>-->
                         <ref type="file" target="o5/desgodetsO5.tei.xml"
                             mimeType="application/tei+xml"/>
                     </witness>
                     <witness corresp="#o6">
-                        <desc>Texte de description au besoin</desc>
+                        <!--<desc>Texte de description au besoin</desc>-->
                         <ref type="file" target="o6/desgodetsO6.tei.xml"
                             mimeType="application/tei+xml"/>
                     </witness>
                     <witness corresp="#o7">
-                        <desc>Texte de description au besoin</desc>
+                        <!--<desc>Texte de description au besoin</desc>-->
                         <ref type="file" target="o7/desgodetsO7.tei.xml"
                             mimeType="application/tei+xml"/>
                     </witness>
                     <witness corresp="#o8">
-                        <desc>Texte de description au besoin</desc>
+                        <!--<desc>Texte de description au besoin</desc>-->
                         <ref type="file" target="o8/desgodetsO8.tei.xml"
                             mimeType="application/tei+xml"/>
                     </witness>

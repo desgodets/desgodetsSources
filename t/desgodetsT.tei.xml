@@ -265,32 +265,32 @@
                             mimeType="application/tei+xml"/>
                     </witness>
                     <witness corresp="#t8">
-                        <desc>Texte de description au besoin</desc>
+                        <!--<desc>Texte de description au besoin</desc>-->
                         <ref type="file" target="t8/desgodetsT8.tei.xml"
                             mimeType="application/tei+xml"/>
                     </witness>
                     <witness corresp="#t10">
-                        <desc>Texte de description au besoin</desc>
+                        <!--<desc>Texte de description au besoin</desc>-->
                         <ref type="file" target="t10/desgodetsT10.tei.xml"
                             mimeType="application/tei+xml"/>
                     </witness>
                     <witness corresp="#t11">
-                        <desc>Texte de description au besoin</desc>
+                        <!--<desc>Texte de description au besoin</desc>-->
                         <ref type="file" target="t11/desgodetsT11.tei.xml"
                             mimeType="application/tei+xml"/>
                     </witness>
                     <witness corresp="#t12">
-                        <desc>Texte de description au besoin</desc>
+                        <!--<desc>Texte de description au besoin</desc>-->
                         <ref type="file" target="t12/desgodetsT12.tei.xml"
                             mimeType="application/tei+xml"/>
                     </witness>
                     <witness corresp="#t13">
-                        <desc>Texte de description au besoin</desc>
+                        <!--<desc>Texte de description au besoin</desc>-->
                         <ref type="file" target="t13/desgodetsT13.tei.xml"
                             mimeType="application/tei+xml"/>
                     </witness>
                     <witness corresp="#t14">
-                        <desc>Texte de description au besoin</desc>
+                        <!--<desc>Texte de description au besoin</desc>-->
                         <ref type="file" target="t14/desgodetsT14.tei.xml"
                             mimeType="application/tei+xml"/>
                     </witness>
