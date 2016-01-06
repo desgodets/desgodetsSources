@@ -3866,5 +3866,8 @@
     <note xml:id="s1Nh0601">
         <p> Il s’agit de l’article 1.</p>
     </note>
-
+    <!-- ajouter les nouvelles notes à la suite en incrémentant la numérotation
+         dans le fichier de texte, insérer à l'endroit voulu l'élément vide suivant correspondant 
+         <ref type="noteHistorical" target="#s1Nh0601" />
+    -->
 </div>
